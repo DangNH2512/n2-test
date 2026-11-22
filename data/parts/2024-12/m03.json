@@ -1,0 +1,87 @@
+{
+  "exam": "2024-12",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ đúng nhất để điền vào chỗ trống (từ ghép, tiền tố/hậu tố).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "中村選手は日本を代表する（　　）選手だ。",
+      "options": ["高", "優", "名", "真"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tuyển thủ Nakamura là một danh thủ (cầu thủ nổi tiếng) tiêu biểu của Nhật Bản.",
+        "why": "Tiền tố 名〜 (DANH) = nổi tiếng, xuất sắc: 名選手 (danh thủ), 名監督, 名場面. Khớp với \"tiêu biểu cho Nhật Bản\".",
+        "options": [
+          "高 → 高〜: cao (高収入, 高品質); không có 高選手. Sai.",
+          "優 → 優〜: ưu (優勝, 優秀) nhưng không làm tiền tố cho 選手. Sai.",
+          "名 → 名選手: danh thủ, tuyển thủ nổi tiếng. ĐÚNG.",
+          "真 → 真〜: chính, thật (真夏, 真正面); không có 真選手. Sai."
+        ],
+        "vocab": [
+          { "w": "名選手", "r": "めいせんしゅ", "hv": "DANH TUYỂN THỦ", "vi": "danh thủ, tuyển thủ nổi tiếng" },
+          { "w": "代表する", "r": "だいひょうする", "hv": "ĐẠI BIỂU", "vi": "đại diện, tiêu biểu" },
+          { "w": "名場面", "r": "めいばめん", "hv": "DANH TRÀNG DIỆN", "vi": "cảnh nổi tiếng, cảnh kinh điển" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "名 (めい) + người/vật = \"nổi tiếng, giỏi\": 名医 (danh y), 名作 (kiệt tác), 名曲."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "今日は月が地球に（　　）接近する日なので、常の満月より大きく見えます。",
+      "options": ["特", "最", "極", "激"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hôm nay là ngày Mặt Trăng tiến gần Trái Đất nhất, nên trông nó lớn hơn trăng tròn thông thường.",
+        "why": "最接近 (さいせっきん) = tiến gần nhất. Tiền tố 最〜 = nhất: 最高, 最新, 最接近. Trăng lớn hơn bình thường vì đang ở khoảng cách gần nhất.",
+        "options": [
+          "特 → 特〜: đặc biệt (特急, 特売); không ghép với 接近. Sai.",
+          "最 → 最接近: tiếp cận gần nhất. ĐÚNG.",
+          "極 → 極〜: cực (極小, 極秘); không nói 極接近. Sai.",
+          "激 → 激〜: dữ dội (激安, 激増); không nói 激接近. Sai."
+        ],
+        "vocab": [
+          { "w": "最接近", "r": "さいせっきん", "hv": "TỐI TIẾP CẬN", "vi": "tiến gần nhất" },
+          { "w": "接近", "r": "せっきん", "hv": "TIẾP CẬN", "vi": "tiếp cận, lại gần" },
+          { "w": "満月", "r": "まんげつ", "hv": "MÃN NGUYỆT", "vi": "trăng tròn" },
+          { "w": "地球", "r": "ちきゅう", "hv": "ĐỊA CẦU", "vi": "Trái Đất" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Hay gặp trong tin thời tiết: 台風が最接近する (bão đến gần nhất)."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "家のポストに私（　　）の手紙が入っていた。",
+      "options": ["宛て", "着き", "届け", "便り"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Trong hộp thư ở nhà có một lá thư gửi cho tôi.",
+        "why": "Hậu tố 〜宛て (あて) = gửi đến ~, đề tên người nhận: 私宛ての手紙 = thư gửi cho tôi.",
+        "options": [
+          "宛て → 〜宛て: gửi tới (người nhận). ĐÚNG.",
+          "着き → 〜着: đến (nơi) (東京着: đến Tokyo), dùng cho phương tiện/hàng, không dùng với người nhận thư. Sai.",
+          "届け → 届け: đơn khai báo (欠席届); không làm hậu tố chỉ người nhận. Sai.",
+          "便り → たより: tin tức, thư từ; \"私便り\" không tự nhiên. Sai."
+        ],
+        "vocab": [
+          { "w": "宛て", "r": "あて", "hv": "UYỂN", "vi": "gửi tới (ai)" },
+          { "w": "宛先", "r": "あてさき", "hv": "UYỂN TIÊN", "vi": "địa chỉ người nhận" },
+          { "w": "便り", "r": "たより", "hv": "TIỆN", "vi": "tin tức, thư" },
+          { "w": "届け", "r": "とどけ", "hv": "GIỚI", "vi": "giấy khai báo, đơn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Trên phong bì: 〇〇様宛て. Email: 宛先 (To)."
+      }
+    }
+  ]
+}

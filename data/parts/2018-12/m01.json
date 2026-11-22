@@ -1,0 +1,137 @@
+{
+  "exam": "2018-12",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "二人は<u>離れて</u>座った。",
+      "options": ["はなれて", "わかれて", "かくれて", "はずれて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hai người ngồi cách xa nhau.",
+        "why": "離れる đọc là はなれる (LY) = rời xa, cách xa. 離れて座る = ngồi cách xa nhau.",
+        "options": [
+          "はなれて → 離れて: cách xa, rời ra. ĐÚNG.",
+          "わかれて → 別れて/分かれて: chia tay / tách ra. Sai.",
+          "かくれて → 隠れて: trốn, ẩn nấp. Sai.",
+          "はずれて → 外れて: tuột ra, trượt, lệch. Sai."
+        ],
+        "vocab": [
+          { "w": "離れる", "r": "はなれる", "hv": "LY", "vi": "rời xa, cách xa" },
+          { "w": "別れる", "r": "わかれる", "hv": "BIỆT", "vi": "chia tay, chia ly" },
+          { "w": "隠れる", "r": "かくれる", "hv": "ẨN", "vi": "trốn, ẩn nấp" },
+          { "w": "外れる", "r": "はずれる", "hv": "NGOẠI", "vi": "tuột ra, trượt, không trúng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "離 (LY) như trong 距離 (きょり: cự ly), 離婚 (りこん: ly hôn) → nghĩa gốc là tách xa."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "何か良い<u>企画</u>はありますか。",
+      "options": ["しかく", "きかく", "きが", "しが"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Có kế hoạch (ý tưởng dự án) nào hay không?",
+        "why": "企画 đọc là きかく (XÍ HOẠCH) = kế hoạch, dự án. 企 đọc き (企業 きぎょう), 画 ở đây đọc かく (計画 けいかく).",
+        "options": [
+          "しかく → 資格/四角: tư cách, bằng cấp / hình vuông. Sai.",
+          "きかく → 企画: kế hoạch, dự án. ĐÚNG.",
+          "きが → không phải cách đọc của 企画. Sai.",
+          "しが → không phải cách đọc của 企画. Sai."
+        ],
+        "vocab": [
+          { "w": "企画", "r": "きかく", "hv": "XÍ HOẠCH", "vi": "kế hoạch, dự án, lên ý tưởng" },
+          { "w": "企業", "r": "きぎょう", "hv": "XÍ NGHIỆP", "vi": "doanh nghiệp" },
+          { "w": "計画", "r": "けいかく", "hv": "KẾ HOẠCH", "vi": "kế hoạch" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "画 có 2 âm: が (映画 えいが, 画家 がか) và かく (計画, 企画, 画数 かくすう). Khi nghĩa là \"vạch kế hoạch/nét\" → かく."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "<u>再度</u>確認をお願いします。",
+      "options": ["さいどう", "さいど", "ざいど", "ざいどう"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Xin hãy xác nhận lại một lần nữa.",
+        "why": "再度 đọc là さいど (TÁI ĐỘ) = lần nữa. 再 âm On là さい (không đục), 度 là ど (âm ngắn, không kéo dài).",
+        "options": [
+          "さいどう → kéo dài sai (どう). Sai.",
+          "さいど → 再度: một lần nữa. ĐÚNG.",
+          "ざいど → 再 không đọc ざい. Sai.",
+          "ざいどう → sai cả 2 âm. Sai."
+        ],
+        "vocab": [
+          { "w": "再度", "r": "さいど", "hv": "TÁI ĐỘ", "vi": "lần nữa, lại lần nữa" },
+          { "w": "確認", "r": "かくにん", "hv": "XÁC NHẬN", "vi": "xác nhận" },
+          { "w": "再開", "r": "さいかい", "hv": "TÁI KHAI", "vi": "mở lại, bắt đầu lại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "再 còn đọc さ trong 再来年 (さらいねん), 再来週 (さらいしゅう)."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "とても<u>和やか</u>なパーティーだった。",
+      "options": ["おだやか", "さわやか", "なごやか", "にぎやか"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đó là một bữa tiệc rất hòa thuận, ấm cúng.",
+        "why": "和やか đọc là なごやか (HÒA) = êm đềm, hòa nhã, không khí thân thiện. Okurigana やか đi với 和 → なごやか.",
+        "options": [
+          "おだやか → 穏やか: ôn hòa, yên bình. Sai (khác chữ Hán).",
+          "さわやか → 爽やか: sảng khoái, tươi mát. Sai.",
+          "なごやか → 和やか: hòa nhã, ấm cúng. ĐÚNG.",
+          "にぎやか → 賑やか: náo nhiệt, đông vui. Sai."
+        ],
+        "vocab": [
+          { "w": "和やか", "r": "なごやか", "hv": "HÒA", "vi": "hòa nhã, êm ấm, thân thiện" },
+          { "w": "穏やか", "r": "おだやか", "hv": "ỔN", "vi": "ôn hòa, êm dịu" },
+          { "w": "爽やか", "r": "さわやか", "hv": "SẢNG", "vi": "sảng khoái, tươi mát" },
+          { "w": "賑やか", "r": "にぎやか", "hv": "CHẨN", "vi": "náo nhiệt, nhộn nhịp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bốn tính từ ～やか hay ra cùng nhau: 穏やか・爽やか・和やか・賑やか → nhớ chữ Hán đi kèm."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "コンピュータでデータを<u>処理</u>した。",
+      "options": ["しゅり", "しょうり", "しゅうり", "しょり"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi đã xử lý dữ liệu bằng máy tính.",
+        "why": "処理 đọc là しょり (XỬ LÝ) = xử lý. 処 đọc しょ (âm ngắn, không phải しょう).",
+        "options": [
+          "しゅり → không có từ này. Sai.",
+          "しょうり → 勝利: thắng lợi. Sai.",
+          "しゅうり → 修理: sửa chữa. Sai.",
+          "しょり → 処理: xử lý. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "処理", "r": "しょり", "hv": "XỬ LÝ", "vi": "xử lý" },
+          { "w": "修理", "r": "しゅうり", "hv": "TU LÝ", "vi": "sửa chữa" },
+          { "w": "勝利", "r": "しょうり", "hv": "THẮNG LỢI", "vi": "thắng lợi" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "処 luôn là しょ ngắn: 対処 (たいしょ), 処分 (しょぶん). Đừng nhầm với 修理 (しゅうり)."
+      }
+    }
+  ]
+}

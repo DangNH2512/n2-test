@@ -1,0 +1,88 @@
+{
+  "exam": "2022-12",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ (tiền tố/hậu tố) thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "（　　）制度には、大きな問題があります。",
+      "options": ["近", "在", "常", "現"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Chế độ hiện hành có vấn đề lớn.",
+        "why": "現＋danh từ = ～ hiện tại, hiện hành: 現制度 (げんせいど: chế độ hiện hành), 現社長, 現住所.",
+        "options": [
+          "近 → tiền tố 近～ chỉ gần (近未来: tương lai gần), không ghép với 制度. Sai.",
+          "在 → 在～ = đang ở (在日: ở Nhật), không ghép với 制度. Sai.",
+          "常 → 常～ = thường xuyên (常連: khách quen), không hợp. Sai.",
+          "現 → 現制度: chế độ hiện hành. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "現制度", "r": "げんせいど", "hv": "HIỆN CHẾ ĐỘ", "vi": "chế độ hiện hành" },
+          { "w": "制度", "r": "せいど", "hv": "CHẾ ĐỘ", "vi": "chế độ" },
+          { "w": "現住所", "r": "げんじゅうしょ", "hv": "HIỆN TRÚ SỞ", "vi": "địa chỉ hiện tại" },
+          { "w": "現時点", "r": "げんじてん", "hv": "HIỆN THỜI ĐIỂM", "vi": "thời điểm hiện tại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "現～ (hiện ~) đối lập với 前～ (cựu ~) và 新～ (mới ~): 現社長 / 前社長 / 新社長."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "伯父は、電車の中で財布を盗まれてから用心（　　）なった。",
+      "options": ["濃く", "強く", "深く", "高く"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Bác tôi từ khi bị trộm ví trên tàu điện thì trở nên cẩn thận hơn.",
+        "why": "用心深い (ようじんぶかい) = cẩn thận, thận trọng. ～深い là hậu tố chỉ mức độ cao của tính chất: 用心深い, 注意深い, 興味深い. Ở đây chia thành 用心深くなった.",
+        "options": [
+          "濃く → 濃い: đậm, đặc; không ghép với 用心. Sai.",
+          "強く → 強い: mạnh; không có 用心強い (chỉ có 心強い = yên tâm). Sai.",
+          "深く → 用心深く: cẩn thận, thận trọng. ĐÚNG.",
+          "高く → 高い: cao; không ghép với 用心. Sai."
+        ],
+        "vocab": [
+          { "w": "用心深い", "r": "ようじんぶかい", "hv": "DỤNG TÂM THÂM", "vi": "thận trọng, cẩn thận" },
+          { "w": "伯父", "r": "おじ", "hv": "BÁ PHỤ", "vi": "bác (anh của bố/mẹ)" },
+          { "w": "財布", "r": "さいふ", "hv": "TÀI BỐ", "vi": "ví tiền" },
+          { "w": "盗む", "r": "ぬすむ", "hv": "ĐẠO", "vi": "lấy trộm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhóm ～深い: 用心深い・注意深い・疑い深い・興味深い・欲深い."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "このアンケートでは、（　　）団体の活動についてお尋ねします。",
+      "options": ["貴", "尊", "敬", "偉"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Trong bảng khảo sát này, chúng tôi xin hỏi về hoạt động của quý tổ chức.",
+        "why": "貴＋danh từ là tiền tố tôn kính chỉ tổ chức của đối phương: 貴団体 (quý tổ chức), 貴社 (quý công ty), 貴校 (quý trường).",
+        "options": [
+          "貴 → 貴団体: quý tổ chức (kính ngữ). ĐÚNG.",
+          "尊 → 尊 (TÔN) có trong 尊敬, nhưng không dùng làm tiền tố với 団体. Sai.",
+          "敬 → 敬 (KÍNH) chỉ dùng trong từ ghép như 敬語, không làm tiền tố. Sai.",
+          "偉 → 偉 (VĨ) = vĩ đại (偉人), không phải tiền tố kính ngữ. Sai."
+        ],
+        "vocab": [
+          { "w": "貴団体", "r": "きだんたい", "hv": "QUÝ ĐOÀN THỂ", "vi": "quý tổ chức" },
+          { "w": "貴社", "r": "きしゃ", "hv": "QUÝ XÃ", "vi": "quý công ty (văn viết)" },
+          { "w": "尋ねる", "r": "たずねる", "hv": "TẦM", "vi": "hỏi" },
+          { "w": "活動", "r": "かつどう", "hv": "HOẠT ĐỘNG", "vi": "hoạt động" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Văn viết dùng 貴社, nói chuyện dùng 御社 (おんしゃ). Cả hai đều = quý công ty."
+      }
+    }
+  ]
+}

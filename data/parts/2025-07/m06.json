@@ -1,0 +1,163 @@
+{
+  "exam": "2025-07",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn câu dùng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "潰す",
+      "options": [
+        "ガラスのコップを落として、<u>潰して</u>しまった。",
+        "空き缶は、<u>潰して</u>からごみ箱に入れてください。",
+        "洗濯物が乾いたので、きれいに<u>潰して</u>たんすにしまった。",
+        "いらなくなった書類をびりびりと細かく<u>潰して</u>捨てた。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "潰す (つぶす) = đè bẹp, nghiền nát, làm méo. Câu đúng: Vỏ lon rỗng thì hãy đập bẹp rồi bỏ vào thùng rác.",
+        "why": "潰す là dùng lực ép làm vật bẹp, mất hình dạng. 空き缶を潰す (đạp/bóp bẹp vỏ lon) là cách dùng điển hình.",
+        "options": [
+          "Làm rơi cốc thủy tinh → phải dùng 割って (割る: làm vỡ). Sai.",
+          "Bóp bẹp vỏ lon rồi bỏ thùng rác. ĐÚNG.",
+          "Gấp quần áo đã khô → phải dùng たたんで (畳む: gấp). Sai.",
+          "Xé giấy tờ vụn ra → phải dùng 破って (破る: xé). Sai."
+        ],
+        "vocab": [
+          { "w": "潰す", "r": "つぶす", "hv": "HỘI", "vi": "đè bẹp, nghiền nát; giết (thời gian)" },
+          { "w": "空き缶", "r": "あきかん", "hv": "KHÔNG PHẪU", "vi": "vỏ lon rỗng" },
+          { "w": "畳む", "r": "たたむ", "hv": "ĐIỆP", "vi": "gấp (quần áo)" },
+          { "w": "破る", "r": "やぶる", "hv": "PHÁ", "vi": "xé, làm rách" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm hay gặp: 時間を潰す (giết thời gian), 会社が潰れる (công ty phá sản)."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "粗末",
+      "options": [
+        "昔の学校給食は、おかずの種類も少なく、今と比べると<u>粗末</u>なものだった。",
+        "言葉遣いが<u>粗末</u>だったので、友達を怒らせてしまった。",
+        "風邪をひいてしまい、声が<u>粗末</u>で上手に歌えない。",
+        "お金がないので、友人がくれた古くて機能の<u>粗末</u>なパソコンを使っている。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "粗末 (そまつ) = sơ sài, đạm bạc, kém chất lượng. Câu đúng: Bữa ăn trường học ngày xưa ít món, so với bây giờ thì rất đạm bạc.",
+        "why": "粗末 dùng cho đồ vật, đồ ăn, nhà cửa... làm qua loa, chất lượng thấp, nghèo nàn. 給食が粗末 (bữa ăn đạm bạc) là đúng.",
+        "options": [
+          "Bữa ăn trường học xưa đạm bạc. ĐÚNG.",
+          "Lời ăn tiếng nói → phải dùng 乱暴/失礼 (thô lỗ). Sai.",
+          "Giọng bị khàn → phải dùng かすれて/悪くて. Sai.",
+          "Máy tính tính năng kém → phải dùng 劣った/低い (機能が低い). Sai."
+        ],
+        "vocab": [
+          { "w": "粗末", "r": "そまつ", "hv": "THÔ MẠT", "vi": "sơ sài, đạm bạc, tồi tàn" },
+          { "w": "給食", "r": "きゅうしょく", "hv": "CẤP THỰC", "vi": "bữa ăn (trường học, cơ quan)" },
+          { "w": "言葉遣い", "r": "ことばづかい", "hv": "NGÔN DIỆP KHIỂN", "vi": "cách dùng từ, ăn nói" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "粗末にする = coi rẻ, phung phí: 食べ物を粗末にするな (Đừng phung phí đồ ăn)."
+      }
+    },
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "熱中",
+      "options": [
+        "ごみ処理の問題に関して、市民から担当者に批判が<u>熱中</u>した。",
+        "学生のときは野球に<u>熱中</u>していて、毎日遅くまで練習していた。",
+        "うちの娘はこの服に<u>熱中</u>していて、毎日こればかり着たがります。",
+        "オリンピックの期間中、世界の関心が開催地に<u>熱中</u>している。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "熱中 (ねっちゅう) = say mê, miệt mài vào một hoạt động. Câu đúng: Hồi sinh viên tôi say mê bóng chày, ngày nào cũng tập đến khuya.",
+        "why": "～に熱中する = dồn hết tâm trí, say sưa làm một hoạt động (thể thao, trò chơi, học tập). Say mê bóng chày và luyện tập mỗi ngày → đúng.",
+        "options": [
+          "Chỉ trích dồn về người phụ trách → phải dùng 集中した (tập trung vào). Sai.",
+          "Say mê bóng chày. ĐÚNG.",
+          "Thích một bộ quần áo → phải dùng 気に入って (ưng ý). 熱中 dùng cho hoạt động, không dùng cho đồ vật. Sai.",
+          "Sự quan tâm đổ dồn → phải dùng 集まって/集中して. Sai."
+        ],
+        "vocab": [
+          { "w": "熱中", "r": "ねっちゅう", "hv": "NHIỆT TRUNG", "vi": "say mê, miệt mài" },
+          { "w": "批判", "r": "ひはん", "hv": "PHÊ PHÁN", "vi": "phê phán, chỉ trích" },
+          { "w": "関心", "r": "かんしん", "hv": "QUAN TÂM", "vi": "sự quan tâm" },
+          { "w": "気に入る", "r": "きにいる", "hv": "", "vi": "ưng ý, thích" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "熱中 ≈ 夢中 (むちゅう) nhưng 熱中 thiên về hoạt động; 熱中症 = say nắng (bệnh do nóng)."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "和やか",
+      "options": [
+        "火事や地震のときは、慌てずに<u>和やか</u>な行動を取ることが重要だ。",
+        "この地方は、一年中気候が<u>和やか</u>なので暮らしやすい。",
+        "この店のスープは、<u>和やか</u>な味で飲むとほっとする。",
+        "代表者同士の話し合いは、<u>和やか</u>な雰囲気で行われた。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "和やか (なごやか) = hòa nhã, êm ấm, thân thiện (bầu không khí giữa người với người). Câu đúng: Cuộc trao đổi giữa các đại diện diễn ra trong bầu không khí hòa nhã.",
+        "why": "和やか chỉ dùng cho bầu không khí/quan hệ giữa con người: 和やかな雰囲気, 和やかに話す.",
+        "options": [
+          "Hành động bình tĩnh khi có hỏa hoạn → phải dùng 冷静な/落ち着いた. Sai.",
+          "Khí hậu ôn hòa → phải dùng 穏やか (おだやか)/温暖. Sai.",
+          "Vị dịu nhẹ → phải dùng まろやかな/やさしい. Sai.",
+          "Bầu không khí hòa nhã. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "和やか", "r": "なごやか", "hv": "HÒA", "vi": "hòa nhã, êm ấm" },
+          { "w": "穏やか", "r": "おだやか", "hv": "ỔN", "vi": "ôn hòa, yên bình (thời tiết, tính cách)" },
+          { "w": "雰囲気", "r": "ふんいき", "hv": "PHÂN VI KHÍ", "vi": "bầu không khí" },
+          { "w": "代表者", "r": "だいひょうしゃ", "hv": "ĐẠI BIỂU GIẢ", "vi": "người đại diện" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy: 和やか (không khí giữa người) ≠ 穏やか (thời tiết, biển, tính tình)."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "愛着",
+      "options": [
+        "いろいろな靴をはいてみたが、どれも<u>愛着</u>がなかったので買わなかった。",
+        "スーパーで、地元の人が<u>愛着</u>を入れて育てた野菜を買った。",
+        "この机はもう使っていないのだが、<u>愛着</u>があってなかなか捨てられない。",
+        "弟は教師になるという夢に<u>愛着</u>を持ち、教育学部に進学した。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "愛着 (あいちゃく) = sự gắn bó, quyến luyến (với đồ vật, nơi chốn dùng lâu). Câu đúng: Cái bàn này tôi không dùng nữa nhưng vì gắn bó nên mãi không vứt đi được.",
+        "why": "愛着 là tình cảm gắn bó nảy sinh sau thời gian dài sử dụng/sống cùng. 愛着があって捨てられない là cách dùng điển hình.",
+        "options": [
+          "Giày mới thử, chưa dùng thì chưa thể gắn bó → nên dùng 気に入るものがなかった. Sai.",
+          "Trồng rau với tình yêu → phải dùng 愛情を込めて. Sai.",
+          "Gắn bó với cái bàn cũ, không nỡ vứt. ĐÚNG.",
+          "Ôm ấp ước mơ → phải dùng 夢を持ち/憧れ. Sai."
+        ],
+        "vocab": [
+          { "w": "愛着", "r": "あいちゃく", "hv": "ÁI TRƯỚC", "vi": "sự gắn bó, quyến luyến" },
+          { "w": "愛情", "r": "あいじょう", "hv": "ÁI TÌNH", "vi": "tình yêu thương" },
+          { "w": "進学する", "r": "しんがくする", "hv": "TIẾN HỌC", "vi": "học lên" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "愛着がある/愛着がわく: dùng cho đồ vật, nơi chốn đã quen lâu. 愛情を込める: làm gì đó với tình yêu."
+      }
+    }
+  ]
+}

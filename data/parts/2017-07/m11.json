@@ -1,0 +1,304 @@
+{
+  "exam": "2017-07",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（1）から（3）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(3) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "以下は、小中学校の法教育について書かれた文章である。\n\nすべての法律を小さいころから学習していくことは不可能なことですが、法的な考え方（リーガルマインド）を身につけることで、自分で考え・調べ、自分で解決する能力は格段（注1）に高まります。\n法教育というとどうしても、「法律を教える」と考えがちですが、それだけが法教育ではないのは、言うまでもありません（注2）。クラスのみんなで、クラスの問題点を洗い出し、どうすれば解決できるのか。そして、それを解決するため、また、再発させないためにはどのようなルールが必要か、ということを話し合い、みんなで民主的に（注3）ルールを作っていくこともまさに<u>法教育の一つの姿</u>です。さまざまなルール（法）は民主的に作られ、約束事（契約）は当事者（注4）の合意（注5）により締結される（注6）といった、法の基本的なところを身をもって体験することができます。\nまた、新聞を多用し、時事的なニュースを使った法教育も効果があります。憲法改正、選挙の問題、消費者問題などは、それだけを教えようとするとつまらないものですが、新聞などを使った旬の（注7）話になると、子供たちの興味も惹きやすくなります。自分自身のことと考えることができるかどうかは、理解のスピードに大きな差を生みますが、具体的な「今」問題となっている事例は、その点、すぐれた教材となります。\n（にへいひろし（二瓶裕史）『これだけは知っておきたい 人生に必要な法律』による）\n（注1）格段に：非常に　（注2）言うまでもない：当然だ　（注3）民主的に：ここでは、了解し合って　（注4）当事者：直接関係している人　（注5）合意：意思が一致すること　（注6）締結される：ここでは、成立する　（注7）旬の：今課題になっている"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、読書の利点について書かれた文章である。\n\n外の世界に触れずにいると、人はそれまで与えられてきたひとつの価値観を持ち、そこから脱出しようとしないことが多い。固定した価値観を持ってしまう。少なくとも、自分の狭い体験のみによって価値観を築いていく。\nだが、読書をして教養を身につけることで、自分という一人の人間の経験や考えを中心にしながらも、それを絶対（注1）視せず、ものごとを相対化（注2）しつつ考えることが可能になる。\n確かに、初めのうち、新たに本を読むたびに新しい価値観に触れ、自分の価値観がぐらついてくることがあるだろう。読んだ本のすべてに感心し、自分の考えが曖昧になってくるわけだ。あれこれと知識が増えてしまって、何を信じればよいのかわからなくなってくる。\nだが、多くの本を読むうち、<u>そのような時期</u>は過ぎていく。だんだんと特定の本に感化（注3）されるようになってくる。そして、それに対立する本に反発を感じるようになってくる。すなわち、だんだんと自分の考えが明確になっていく。\nそうなると、本を読む前の固定的な価値観とは異なってくる。狭い自分の体験だけから判断するのではなく、反対意見も踏まえ（注4）、別の考え方も知ったうえで自分の考えが明確にできるようになってくる。\n（樋口裕一『「教養」を最強の武器にする読書術』による）\n（注1）絶対視する：ここでは、疑いのないものとして考える　（注2）相対化しつつ考える：他のものとの関係の中で考える　（注3）感化される：ここでは、影響を受ける　（注4）踏まえる：ここでは、考える"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "人間はみんな「自分はこのような人間だ」というイメージを持っています。これを自己イメージといいます。ある人に会った人は、その人のイメージを持ちます。これを他者イメージといいます。継続的な人間関係があると、相手のイメージが固定してきます。自己イメージと他者からの自分に対するイメージに乖離（注1）が大きいと、人間関係に障害が生じます。自分は無口だと思っているのに、他人からはおしゃべりだと思われていたら、そこには誤解が生じているので、誤解した（された）人間関係が生まれるのです。\n「自分は他人から誤解されやすい人間だ」と感じる人は、自己イメージと他者からのイメージに乖離があるのです。誤解はどうして生じるかというと、自分の方は自分の心の持ち方で判断しているのに対して、他者はその人の行動から判断しているからです。（中略）他人のことは、外から見えることでしか判断できませんが、自分のことは、見えること（行動）と見えないこと（心の内）とによって、判断しているのです。誤解されやすいと感じている人は、だから、自分の行動と思いに乖離があるのです。思いをそのまま行動に移せていないのです。ときには、思いと反対の行動をしていることさえあるのです。\n思いが行動に移せていないときは、誤解されるだけでなく、ストレスが溜まります。ストレスは思いが伝わらなかったり、発散（注2）できなかったりするときに生じるのです。自己イメージと他者からのイメージの乖離を解消するには、自分の心に一致した行動を取るか、行動の方を自分がしたいからそうしているのだと認めることです。\n（東山紘久『悩みのコントロール術』による）\n（注1）乖離：離れていること　（注2）発散：外へ出すこと"
+    }
+  ],
+  "questions": [
+    {
+      "num": 60,
+      "passage": "p1",
+      "stem": "<u>法教育の一つの姿</u>として、本文で挙げられている例はどれか。",
+      "options": [
+        "学校のルールがなぜ作られたかを調べること",
+        "身近な法律を取り上げて、易しい言葉で教えること",
+        "法律が必要かどうかについてクラスで話し合うこと",
+        "クラスの問題について話し合い、必要なルールを決めること"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Ví dụ nào được nêu trong bài như là \"một hình thức của giáo dục pháp luật\"? → Thảo luận về vấn đề của lớp và quyết định những quy tắc cần thiết.",
+        "why": "Ngay trước cụm gạch chân: cả lớp tìm ra vấn đề, thảo luận cần quy tắc gì để giải quyết/không tái diễn rồi cùng nhau lập quy tắc một cách dân chủ — đó chính là 法教育の一つの姿.",
+        "options": [
+          "Bài không nói về tìm hiểu lý do quy tắc trường được lập. Sai.",
+          "Tác giả nói giáo dục pháp luật không chỉ là 'dạy luật'. Sai.",
+          "Không thảo luận 'có cần luật không', mà thảo luận 'cần quy tắc gì'. Sai.",
+          "Thảo luận vấn đề của lớp và lập quy tắc cần thiết. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "法教育", "r": "ほうきょういく", "hv": "PHÁP GIÁO DỤC", "vi": "giáo dục pháp luật" },
+          { "w": "洗い出す", "r": "あらいだす", "hv": "TẨY XUẤT", "vi": "rà soát, tìm ra hết" },
+          { "w": "再発", "r": "さいはつ", "hv": "TÁI PHÁT", "vi": "tái diễn" },
+          { "w": "民主的", "r": "みんしゅてき", "hv": "DÂN CHỦ ĐÍCH", "vi": "một cách dân chủ" }
+        ],
+        "grammar": { "pattern": "～がちだ", "meaning": "hay có khuynh hướng ~ (thường là không tốt)", "form": "Vます／N + がちだ", "example": "冬は風邪をひきがちだ。" },
+        "evidence": "クラスのみんなで、クラスの問題点を洗い出し、どうすれば解決できるのか。そして、それを解決するため、また、再発させないためにはどのようなルールが必要か、ということを話し合い、みんなで民主的にルールを作っていくこともまさに法教育の一つの姿です。",
+        "tip": "Câu hỏi gạch chân → đọc kỹ câu chứa phần gạch chân và câu ngay trước."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p1",
+      "stem": "筆者によると、新聞を使うといいのはなぜか。",
+      "options": [
+        "問題点が簡潔にまとめられていて、早く理解できるから",
+        "身近な問題だけでなく、社会全体の問題も扱っているから",
+        "憲法などの法の基本的なことが多く取り上げられているから",
+        "今問題となっていることは、自分のこととして考えやすいから"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, vì sao dùng báo chí lại tốt? → Vì những vấn đề đang được bàn tới hiện nay dễ được nghĩ như chuyện của chính mình.",
+        "why": "Tác giả viết: việc có nghĩ như chuyện của bản thân hay không tạo khác biệt lớn về tốc độ hiểu; những ví dụ 'đang là vấn đề hiện nay' (trên báo) là tài liệu tốt ở điểm đó.",
+        "options": [
+          "Bài không nói báo tóm tắt ngắn gọn. Sai.",
+          "Bài không so sánh vấn đề gần gũi và vấn đề xã hội. Sai.",
+          "Hiến pháp được nhắc như chủ đề nhàm chán nếu dạy riêng, không phải lý do dùng báo. Sai.",
+          "Vấn đề thời sự dễ nghĩ như chuyện của mình. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "時事的", "r": "じじてき", "hv": "THỜI SỰ ĐÍCH", "vi": "mang tính thời sự" },
+          { "w": "旬", "r": "しゅん", "hv": "TUẦN", "vi": "đúng mùa, đang nóng" },
+          { "w": "事例", "r": "じれい", "hv": "SỰ LỆ", "vi": "ví dụ thực tế" },
+          { "w": "教材", "r": "きょうざい", "hv": "GIÁO TÀI", "vi": "tài liệu giảng dạy" }
+        ],
+        "grammar": null,
+        "evidence": "自分自身のことと考えることができるかどうかは、理解のスピードに大きな差を生みますが、具体的な「今」問題となっている事例は、その点、すぐれた教材となります。",
+        "tip": "その点 = 'ở điểm (nghĩ như chuyện của mình) đó'."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p1",
+      "stem": "小さいころから法教育をすることの利点について、筆者はどのように述べているか。",
+      "options": [
+        "法を守る人間に育つ。",
+        "法律に興味を持つようになる。",
+        "問題を解決する能力が身につけられる。",
+        "勉強の内容を理解するスピードが速くなる。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tác giả nói gì về lợi ích của việc giáo dục pháp luật từ nhỏ? → Có thể trang bị năng lực giải quyết vấn đề.",
+        "why": "Câu đầu bài: học hết luật từ nhỏ là không thể, nhưng nhờ có tư duy pháp lý, năng lực tự suy nghĩ, tìm hiểu và tự giải quyết sẽ tăng vượt bậc.",
+        "options": [
+          "Bài không nói về việc trở thành người tuân thủ pháp luật. Sai.",
+          "'Hứng thú' được nhắc đến với việc dùng báo, không phải lợi ích chính của giáo dục từ nhỏ. Sai.",
+          "Năng lực tự giải quyết vấn đề được nâng cao. ĐÚNG.",
+          "Tốc độ hiểu liên quan đến việc dùng ví dụ thời sự, không phải lợi ích tổng quát. Sai."
+        ],
+        "vocab": [
+          { "w": "格段に", "r": "かくだんに", "hv": "CÁCH ĐOẠN", "vi": "vượt bậc, rất nhiều" },
+          { "w": "身につける", "r": "みにつける", "hv": "THÂN", "vi": "trang bị, học được" },
+          { "w": "解決", "r": "かいけつ", "hv": "GIẢI QUYẾT", "vi": "giải quyết" },
+          { "w": "利点", "r": "りてん", "hv": "LỢI ĐIỂM", "vi": "ưu điểm" }
+        ],
+        "grammar": null,
+        "evidence": "法的な考え方（リーガルマインド）を身につけることで、自分で考え・調べ、自分で解決する能力は格段に高まります。",
+        "tip": "Câu hỏi về toàn bài → thường câu chủ đề ở đầu hoặc cuối đoạn."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p2",
+      "stem": "人は外の世界に触れずにいるとどうなると筆者は述べているか。",
+      "options": [
+        "他の人の価値観を否定するようになる。",
+        "新しい価値観をそのまま受け入れるようになる。",
+        "自分の価値観が正しいかどうか判断できなくなる。",
+        "自分の経験だけに基づいた価値観でものを見るようになる。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả nói con người nếu không tiếp xúc với thế giới bên ngoài thì sẽ thế nào? → Sẽ nhìn sự việc bằng hệ giá trị chỉ dựa trên kinh nghiệm của bản thân.",
+        "why": "Đoạn 1: không tiếp xúc thế giới bên ngoài → có hệ giá trị cố định, ít nhất là xây dựng giá trị chỉ dựa vào trải nghiệm hạn hẹp của mình.",
+        "options": [
+          "Bài không nói phủ nhận giá trị của người khác. Sai.",
+          "Chấp nhận giá trị mới là giai đoạn khi bắt đầu đọc sách. Sai.",
+          "Không phân biệt được đúng sai là giai đoạn đầu khi đọc nhiều sách. Sai.",
+          "Nhìn sự vật bằng giá trị chỉ dựa trên kinh nghiệm của mình. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "価値観", "r": "かちかん", "hv": "GIÁ TRỊ QUAN", "vi": "quan niệm giá trị" },
+          { "w": "脱出", "r": "だっしゅつ", "hv": "THOÁT XUẤT", "vi": "thoát ra" },
+          { "w": "固定", "r": "こてい", "hv": "CỐ ĐỊNH", "vi": "cố định" },
+          { "w": "築く", "r": "きずく", "hv": "TRÚC", "vi": "xây dựng" }
+        ],
+        "grammar": { "pattern": "～ずにいる", "meaning": "cứ không ~ (duy trì trạng thái không làm)", "form": "Vない(bỏ ない) + ずにいる", "example": "誰にも言わずにいた。(Tôi đã không nói với ai.)" },
+        "evidence": "固定した価値観を持ってしまう。少なくとも、自分の狭い体験のみによって価値観を築いていく。",
+        "tip": "のみ = だけ."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p2",
+      "stem": "<u>そのような時期</u>とはどのような時期か。",
+      "options": [
+        "知識が増えることで、自分の考えに確信が持てなくなる時期",
+        "知識が増えるにつれ、読んだ本に影響されなくなる時期",
+        "知識が増え、さらに新しい体験をしようとする時期",
+        "多くの本を読んで、さらに新しい知識を得ようとする時期"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "\"Thời kỳ như thế\" là thời kỳ thế nào? → Thời kỳ mà do kiến thức tăng lên nên không còn tự tin vào suy nghĩ của mình.",
+        "why": "そのような chỉ đoạn ngay trước: giá trị quan bị lung lay, suy nghĩ trở nên mơ hồ, kiến thức tăng lên khiến không biết tin vào điều gì.",
+        "options": [
+          "Kiến thức tăng → không chắc chắn về suy nghĩ của mình. ĐÚNG.",
+          "Ngược lại: giai đoạn này bị ảnh hưởng bởi mọi cuốn sách (すべてに感心). Sai.",
+          "Không nói về trải nghiệm mới. Sai.",
+          "Không phải mô tả mong muốn tìm kiến thức mới. Sai."
+        ],
+        "vocab": [
+          { "w": "ぐらつく", "r": "ぐらつく", "hv": "", "vi": "lung lay" },
+          { "w": "曖昧", "r": "あいまい", "hv": "ÁI MUỘI", "vi": "mơ hồ" },
+          { "w": "感心", "r": "かんしん", "hv": "CẢM TÂM", "vi": "thán phục" },
+          { "w": "確信", "r": "かくしん", "hv": "XÁC TÍN", "vi": "niềm tin chắc chắn" }
+        ],
+        "grammar": null,
+        "evidence": "読んだ本のすべてに感心し、自分の考えが曖昧になってくるわけだ。あれこれと知識が増えてしまって、何を信じればよいのかわからなくなってくる。",
+        "tip": "Từ chỉ thị (その/そのような) → tìm nội dung ngay đoạn trước."
+      }
+    },
+    {
+      "num": 65,
+      "passage": "p2",
+      "stem": "読書の利点について、筆者はどのように考えているか。",
+      "options": [
+        "自分の経験に基づいた考えに自信が持てるようになる。",
+        "多様な考えを知ることで、自分の考えがはっきりしてくる。",
+        "多様な考え方の中から、一番いい考え方が選べるようになる。",
+        "他人の考えに影響を受けたり、反発を感じたりしなくなってくる。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tác giả nghĩ gì về lợi ích của việc đọc sách? → Nhờ biết nhiều cách nghĩ khác nhau mà suy nghĩ của bản thân trở nên rõ ràng.",
+        "why": "Đoạn cuối: không chỉ phán đoán từ trải nghiệm hẹp của mình, mà sau khi cân nhắc cả ý kiến trái chiều và biết các cách nghĩ khác, ta có thể làm rõ suy nghĩ của mình.",
+        "options": [
+          "Ngược lại: tác giả phê phán việc chỉ dựa vào trải nghiệm của mình. Sai.",
+          "Biết nhiều quan điểm → suy nghĩ của mình rõ ràng. ĐÚNG.",
+          "Không nói chọn ra cách nghĩ tốt nhất; là làm rõ suy nghĩ của chính mình. Sai.",
+          "Ngược lại: dần dần bị ảnh hưởng bởi một số sách và phản đối sách trái chiều. Sai."
+        ],
+        "vocab": [
+          { "w": "明確", "r": "めいかく", "hv": "MINH XÁC", "vi": "rõ ràng" },
+          { "w": "踏まえる", "r": "ふまえる", "hv": "ĐẠP", "vi": "dựa trên, cân nhắc" },
+          { "w": "反発", "r": "はんぱつ", "hv": "PHẢN PHÁT", "vi": "phản đối, phản cảm" },
+          { "w": "教養", "r": "きょうよう", "hv": "GIÁO DƯỠNG", "vi": "học thức, văn hóa" }
+        ],
+        "grammar": { "pattern": "～たうえで", "meaning": "sau khi ~ (rồi mới)", "form": "Vた + うえで", "example": "よく考えたうえで決めます。" },
+        "evidence": "狭い自分の体験だけから判断するのではなく、反対意見も踏まえ、別の考え方も知ったうえで自分の考えが明確にできるようになってくる。",
+        "tip": "明確になる ≈ はっきりする."
+      }
+    },
+    {
+      "num": 66,
+      "passage": "p3",
+      "stem": "自己イメージと他者からのイメージについて、筆者の考えに合うものはどれか。",
+      "options": [
+        "自己イメージと他者からのイメージは、人間関係の長さによって変化する。",
+        "自己イメージと他者からのイメージが離れていると、人間関係に問題が起こる。",
+        "自己イメージは、他者からのイメージとは異なるものだ。",
+        "自己イメージは、他者からのイメージの影響を受けて変化する。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả về hình ảnh bản thân và hình ảnh người khác nhìn mình? → Nếu hai hình ảnh này cách xa nhau thì quan hệ con người sẽ gặp vấn đề.",
+        "why": "Bài viết: nếu độ chênh lệch (乖離) giữa hình ảnh tự nhận và hình ảnh người khác có về mình lớn thì quan hệ con người sẽ gặp trở ngại (障害が生じます).",
+        "options": [
+          "Bài chỉ nói quan hệ lâu dài làm hình ảnh cố định, không nói thay đổi theo độ dài. Sai.",
+          "Hai hình ảnh xa nhau → quan hệ có vấn đề. ĐÚNG.",
+          "Bài không khẳng định chúng luôn khác nhau; chỉ nói khi có chênh lệch. Sai.",
+          "Bài không nói hình ảnh bản thân thay đổi do người khác. Sai."
+        ],
+        "vocab": [
+          { "w": "乖離", "r": "かいり", "hv": "QUAI LY", "vi": "chênh lệch, tách rời" },
+          { "w": "継続的", "r": "けいぞくてき", "hv": "KẾ TỤC ĐÍCH", "vi": "liên tục, lâu dài" },
+          { "w": "障害", "r": "しょうがい", "hv": "CHƯỚNG NGẠI", "vi": "trở ngại" },
+          { "w": "無口", "r": "むくち", "hv": "VÔ KHẨU", "vi": "ít nói" }
+        ],
+        "grammar": null,
+        "evidence": "自己イメージと他者からの自分に対するイメージに乖離が大きいと、人間関係に障害が生じます。",
+        "tip": "乖離 (注: 離れていること) ↔ đáp án dùng 離れている."
+      }
+    },
+    {
+      "num": 67,
+      "passage": "p3",
+      "stem": "筆者によると、他人から誤解されるのはなぜか。",
+      "options": [
+        "自身の行動を他人の判断基準に合わせようとするから",
+        "自身の思いをそのまま行動に移してしまうから",
+        "自身と他人の思いは反対の場合があるから",
+        "自身と他人では判断基準が違うから"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, vì sao ta bị người khác hiểu lầm? → Vì bản thân và người khác có tiêu chí phán đoán khác nhau.",
+        "why": "Bản thân phán đoán mình dựa vào tâm trạng/suy nghĩ bên trong, còn người khác phán đoán từ hành động bên ngoài → tiêu chí khác nhau nên sinh hiểu lầm.",
+        "options": [
+          "Bài không nói cố điều chỉnh hành động theo người khác. Sai.",
+          "Ngược lại: hiểu lầm do KHÔNG chuyển được suy nghĩ thành hành động. Sai.",
+          "Bài nói suy nghĩ và hành động của chính mình có thể trái nhau, không phải suy nghĩ của mình và người khác. Sai.",
+          "Mình và người khác dùng tiêu chí phán đoán khác nhau. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "誤解", "r": "ごかい", "hv": "NGỘ GIẢI", "vi": "hiểu lầm" },
+          { "w": "判断基準", "r": "はんだんきじゅん", "hv": "PHÁN ĐOÁN CƠ CHUẨN", "vi": "tiêu chí phán đoán" },
+          { "w": "心の持ち方", "r": "こころのもちかた", "hv": "", "vi": "cách nghĩ, thái độ trong lòng" }
+        ],
+        "grammar": { "pattern": "～のに対して", "meaning": "trái với ~, trong khi ~ (đối chiếu)", "form": "普通形(Naな/Nな) + のに対して", "example": "兄は活発なのに対して、弟はおとなしい。" },
+        "evidence": "誤解はどうして生じるかというと、自分の方は自分の心の持ち方で判断しているのに対して、他者はその人の行動から判断しているからです。",
+        "tip": "～かというと、～からです: mẫu câu nêu nguyên nhân rõ ràng."
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p3",
+      "stem": "筆者の考えに合うものはどれか。",
+      "options": [
+        "自身の思いと行動を一致させれば、ストレスが溜まらない。",
+        "自身の思いより行動を大切にする方が、ストレスが溜まらない。",
+        "自身の思いと反対の行動をしたときに、ストレスが最大になる。",
+        "自身の思いを行動に移そうとすると、ストレスが溜まる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Nếu làm cho suy nghĩ và hành động của bản thân nhất quán thì sẽ không bị tích tụ căng thẳng.",
+        "why": "Khi suy nghĩ không chuyển được thành hành động thì căng thẳng tích tụ; cách giải quyết là hành động phù hợp với lòng mình → suy nghĩ và hành động thống nhất thì không bị stress.",
+        "options": [
+          "Suy nghĩ và hành động nhất quán → không tích tụ stress. ĐÚNG.",
+          "Bài không nói coi trọng hành động hơn suy nghĩ. Sai.",
+          "Bài không nói stress 'lớn nhất' khi hành động trái ý. Sai.",
+          "Ngược lại: stress tích tụ khi KHÔNG chuyển được suy nghĩ thành hành động. Sai."
+        ],
+        "vocab": [
+          { "w": "溜まる", "r": "たまる", "hv": "LỰU", "vi": "tích tụ, dồn lại" },
+          { "w": "一致", "r": "いっち", "hv": "NHẤT TRÍ", "vi": "khớp, nhất quán" },
+          { "w": "発散", "r": "はっさん", "hv": "PHÁT TÁN", "vi": "giải tỏa" },
+          { "w": "解消", "r": "かいしょう", "hv": "GIẢI TIÊU", "vi": "giải tỏa, xóa bỏ" }
+        ],
+        "grammar": null,
+        "evidence": "思いが行動に移せていないときは、誤解されるだけでなく、ストレスが溜まります。…自己イメージと他者からのイメージの乖離を解消するには、自分の心に一致した行動を取るか…",
+        "tip": "Lật ngược mệnh đề của bài: 'không khớp → stress' ⇒ 'khớp → không stress'."
+      }
+    }
+  ]
+}

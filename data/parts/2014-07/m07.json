@@ -1,0 +1,363 @@
+{
+  "exam": "2014-07",
+  "mondai": 7,
+  "section": "grammar",
+  "instruction": "次の文の（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn phương án (ngữ pháp) thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 33,
+      "passage": null,
+      "stem": "料理の本に書いてある（　　）作ってみたのだが、なぜかうまくいかなかった。",
+      "options": ["ようで", "もとで", "ほどに", "とおりに"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi đã thử nấu đúng như trong sách dạy nấu ăn viết, nhưng chẳng hiểu sao lại không thành công.",
+        "why": "V(thể thường) + とおりに = làm đúng theo như ~. 書いてあるとおりに作る = nấu đúng theo những gì được viết.",
+        "options": [
+          "ようで → 'có vẻ như ~' (phỏng đoán), không diễn tả 'làm theo'. Sai.",
+          "もとで → N の もとで: dưới sự ~ (先生の指導のもとで); không nối trực tiếp sau động từ. Sai.",
+          "ほどに → 'đến mức ~', không hợp nghĩa. Sai.",
+          "とおりに → đúng như, theo như. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "通り", "r": "とおり", "hv": "THÔNG", "vi": "đúng như, theo như" },
+          { "w": "うまくいく", "r": "うまくいく", "hv": "", "vi": "suôn sẻ, thành công" }
+        ],
+        "grammar": {
+          "pattern": "～とおり（に）／～どおり（に）",
+          "meaning": "đúng như, theo như",
+          "form": "Vる／Vた + とおり(に)；Nの + とおり(に)；N + どおり(に)",
+          "example": "説明書のとおりに組み立てた。／予定どおりに出発した。"
+        },
+        "evidence": null,
+        "tip": "書いてある・言われた・思った + とおりに: rất hay gặp."
+      }
+    },
+    {
+      "num": 34,
+      "passage": null,
+      "stem": "村田「青木くんって、本当に面白い人だよね。」\n西野「うん。彼、人を笑わせることに（　　）天才だからね。」",
+      "options": ["向けては", "かけては", "沿っては", "わたっては"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Murata: 'Aoki đúng là người thú vị nhỉ.' Nishino: 'Ừ. Về khoản làm người khác cười thì cậu ấy là thiên tài mà.'",
+        "why": "N／Vること + にかけては = về mặt ~ thì (không ai bằng). Dùng để khen năng lực nổi trội ở một lĩnh vực, vế sau thường là 天才だ／誰にも負けない.",
+        "options": [
+          "に向けては → hướng tới ~ (mục tiêu). Sai.",
+          "にかけては → về mặt ~ thì giỏi nhất. ĐÚNG.",
+          "に沿っては → dọc theo / theo đúng ~. Sai.",
+          "にわたっては → trải suốt (phạm vi thời gian/không gian). Sai."
+        ],
+        "vocab": [
+          { "w": "笑わせる", "r": "わらわせる", "hv": "TIẾU", "vi": "làm cho cười" },
+          { "w": "天才", "r": "てんさい", "hv": "THIÊN TÀI", "vi": "thiên tài" }
+        ],
+        "grammar": {
+          "pattern": "～にかけては",
+          "meaning": "về mặt ~ thì (giỏi, không thua ai)",
+          "form": "N ／ Vること + にかけては",
+          "example": "料理の腕にかけては、彼女の右に出る者はいない。"
+        },
+        "evidence": null,
+        "tip": "Thấy vế sau là 天才／誰にも負けない／一番だ → nghĩ ngay đến にかけては."
+      }
+    },
+    {
+      "num": 35,
+      "passage": null,
+      "stem": "山田「私、青木先輩のようにカメラマンの仕事をしたいと思っているんです。ぜひ青木先輩のお話を（　　）いただけないでしょうか。」\n青木「ああ、かまわないよ。」",
+      "options": ["聞いて", "聞けて", "聞かせて", "聞かれて"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Yamada: 'Em muốn làm nghề nhiếp ảnh như anh Aoki. Anh có thể cho em được nghe anh kể chuyện không ạ?' Aoki: 'À, được thôi.'",
+        "why": "Vさせていただけないでしょうか = xin cho phép tôi được làm V (rất lịch sự). Người nghe là Yamada, người kể là Aoki → 'xin anh cho em nghe' = 聞かせていただけないでしょうか.",
+        "options": [
+          "聞いていただけないでしょうか → nhờ anh Aoki nghe (chuyện của mình) — sai vì người nghe là Yamada. Sai.",
+          "聞けて → thể khả năng + ていただく không tạo thành mẫu đúng. Sai.",
+          "聞かせて → cho phép em nghe. ĐÚNG.",
+          "聞かれて → thể bị động, không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "先輩", "r": "せんぱい", "hv": "TIÊN BỐI", "vi": "đàn anh, tiền bối" },
+          { "w": "かまわない", "r": "かまわない", "hv": "", "vi": "không sao, được" }
+        ],
+        "grammar": {
+          "pattern": "～（さ）せていただけないでしょうか",
+          "meaning": "xin cho phép tôi được ~",
+          "form": "V thể sai khiến (て) + いただけないでしょうか",
+          "example": "明日、休ませていただけないでしょうか。"
+        },
+        "evidence": null,
+        "tip": "Hỏi chủ thể: ai là người 'nghe'? Mình nghe → させていただく."
+      }
+    },
+    {
+      "num": 36,
+      "passage": null,
+      "stem": "今回の京都旅行は、天気が悪い日が多かったが、行きたかったお寺には行けたし、（　　）楽しめた。",
+      "options": ["そのうえ", "それなりに", "そのころに", "それどころか"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Chuyến du lịch Kyoto lần này dù nhiều ngày thời tiết xấu, nhưng tôi đã đi được ngôi chùa mình muốn, nên cũng vui theo cách của nó.",
+        "why": "それなりに = ở mức độ tương xứng, theo cách riêng của nó (dù không hoàn hảo). Câu có ý 'tuy thời tiết xấu nhưng vẫn vui ở mức nhất định' → それなりに.",
+        "options": [
+          "そのうえ → hơn nữa, thêm vào đó (cộng thêm điều tốt/xấu cùng chiều). Không hợp sau ý nhượng bộ. Sai.",
+          "それなりに → theo cách của nó, ở mức chấp nhận được. ĐÚNG.",
+          "そのころに → vào khoảng thời gian đó. Sai.",
+          "それどころか → trái lại, không những không… mà còn… Sai."
+        ],
+        "vocab": [
+          { "w": "それなりに", "r": "それなりに", "hv": "", "vi": "theo cách của nó, ở mức tương xứng" },
+          { "w": "お寺", "r": "おてら", "hv": "TỰ", "vi": "chùa" }
+        ],
+        "grammar": {
+          "pattern": "それなりに",
+          "meaning": "ở mức độ tương ứng, tuy không hoàn hảo nhưng cũng có giá trị nhất định",
+          "form": "それなりに + V／Adj；それなりの + N",
+          "example": "安い店だが、それなりにおいしい。"
+        },
+        "evidence": null,
+        "tip": "Mẫu '～が、それなりに～' = tuy có điểm không tốt nhưng cũng ổn."
+      }
+    },
+    {
+      "num": 37,
+      "passage": null,
+      "stem": "バス停に着いたとき、出発時刻の1時間前に空港に着くバスがちょうど来たので（　　）が、満員で乗れず、結局、飛行機に間に合わなかった。",
+      "options": ["乗っている途中だった", "乗ったところだ", "乗っているつもりだった", "乗ろうとした"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Khi tôi đến trạm xe buýt, vừa đúng lúc có chuyến xe đến sân bay trước giờ cất cánh 1 tiếng nên tôi định lên, nhưng xe chật kín không lên được, rốt cuộc trễ máy bay.",
+        "why": "V(ý chí) + うとする = định làm, cố làm (nhưng chưa thực hiện được). Vế sau 満員で乗れず cho thấy hành động lên xe không thành → 乗ろうとした.",
+        "options": [
+          "乗っている途中だった → đang trên đường đi xe — mâu thuẫn với 乗れず. Sai.",
+          "乗ったところだ → vừa mới lên xe (đã lên rồi) — mâu thuẫn. Sai.",
+          "乗っているつもりだった → cứ tưởng mình đang ngồi trên xe — vô lý. Sai.",
+          "乗ろうとした → định lên. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "満員", "r": "まんいん", "hv": "MÃN VIÊN", "vi": "chật kín người" },
+          { "w": "間に合う", "r": "まにあう", "hv": "GIAN HỢP", "vi": "kịp giờ" },
+          { "w": "結局", "r": "けっきょく", "hv": "KẾT CỤC", "vi": "rốt cuộc" }
+        ],
+        "grammar": {
+          "pattern": "Vようとする",
+          "meaning": "định làm, sắp làm, cố làm (thường là chưa thành)",
+          "form": "V thể ý chí (よう／おう) + とする",
+          "example": "家を出ようとしたとき、電話が鳴った。"
+        },
+        "evidence": null,
+        "tip": "Vế sau có ý 'không thành' (～ず／～が、できなかった) → Vようとした."
+      }
+    },
+    {
+      "num": 38,
+      "passage": null,
+      "stem": "友達の中には、仕事が休みの日はすることがなくて、暇（　　）と言う人もいる。",
+      "options": ["でしょうがない", "そうにない", "にすぎない", "すらない"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Trong số bạn bè tôi, cũng có người nói rằng ngày nghỉ làm không có việc gì làm nên rảnh đến phát chán.",
+        "why": "Aな + で + しょうがない = ~ không chịu nổi, cực kỳ ~. 暇でしょうがない = rảnh đến phát chán. Hợp với ý 'không có gì làm'.",
+        "options": [
+          "でしょうがない → ~ quá, không chịu nổi. ĐÚNG.",
+          "そうにない → khó có khả năng ~ (暇そうにない = có vẻ không rảnh) — trái nghĩa với することがない. Sai.",
+          "にすぎない → chỉ là ~, không hơn — không hợp. Sai.",
+          "すらない → ngay cả ~ cũng không (Nすら～ない) — sai cấu trúc. Sai."
+        ],
+        "vocab": [
+          { "w": "暇", "r": "ひま", "hv": "HẠ", "vi": "rảnh rỗi" },
+          { "w": "しょうがない", "r": "しょうがない", "hv": "", "vi": "không còn cách nào; (～てしょうがない) cực kỳ" }
+        ],
+        "grammar": {
+          "pattern": "～てしょうがない／～でしょうがない",
+          "meaning": "~ không chịu nổi, rất ~ (cảm xúc, cảm giác)",
+          "form": "Vて／Aくて／Aな(で) + しょうがない",
+          "example": "試験の結果が気になってしょうがない。"
+        },
+        "evidence": null,
+        "tip": "～てしょうがない ≈ ～てたまらない ≈ ～てしかたがない."
+      }
+    },
+    {
+      "num": 39,
+      "passage": null,
+      "stem": "森田「村山さん、Y社の川西部長が（　　）。会議室でお待ちです。」\n村山「わかりました。」",
+      "options": ["参りました", "承りました", "見えました", "伺いました"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Morita: 'Anh Murayama, trưởng phòng Kawanishi của công ty Y đã đến rồi ạ. Ông ấy đang đợi ở phòng họp.' Murayama: 'Tôi biết rồi.'",
+        "why": "Khách của công ty khác là người cần tôn kính → dùng tôn kính ngữ của 来る. 見える (見えました) = いらっしゃる = đến (tôn kính).",
+        "options": [
+          "参りました → khiêm nhường ngữ của 来る/行く, chỉ dùng cho bản thân/người phía mình. Sai.",
+          "承りました → khiêm nhường của 聞く／引き受ける (xin tiếp nhận). Sai.",
+          "見えました → tôn kính ngữ của 来る. ĐÚNG.",
+          "伺いました → khiêm nhường của 訪ねる／聞く. Không dùng cho khách. Sai."
+        ],
+        "vocab": [
+          { "w": "見える", "r": "みえる", "hv": "KIẾN", "vi": "(tôn kính) đến = いらっしゃる" },
+          { "w": "部長", "r": "ぶちょう", "hv": "BỘ TRƯỞNG", "vi": "trưởng phòng" },
+          { "w": "承る", "r": "うけたまわる", "hv": "THỪA", "vi": "(khiêm nhường) nghe, tiếp nhận" }
+        ],
+        "grammar": {
+          "pattern": "見える／お見えになる（尊敬語）",
+          "meaning": "đến (tôn kính) = いらっしゃる・おいでになる",
+          "form": "見えます／お見えになります",
+          "example": "お客様がお見えになりました。"
+        },
+        "evidence": null,
+        "tip": "Hành động của khách → tôn kính; 参る・伺う・承る đều là khiêm nhường → loại."
+      }
+    },
+    {
+      "num": 40,
+      "passage": null,
+      "stem": "医者「明日になっても熱が下がらない（　　）、この薬を飲んでください。」",
+      "options": ["ようであれば", "からであれば", "というようには", "というからには"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Bác sĩ: 'Nếu đến ngày mai mà vẫn có vẻ không hạ sốt thì hãy uống thuốc này.'",
+        "why": "～ようであれば = nếu tình trạng có vẻ là ~ thì (điều kiện dựa trên quan sát). Bác sĩ đưa ra chỉ dẫn có điều kiện → ようであれば.",
+        "options": [
+          "ようであれば → nếu (tình hình) có vẻ ~ thì. ĐÚNG.",
+          "からであれば → 'nếu là từ/vì ~' — không phải mẫu tự nhiên ở đây. Sai.",
+          "というようには → 'theo kiểu nói rằng' — không tạo điều kiện. Sai.",
+          "というからには → một khi đã nói ~ thì nhất định — chỉ quyết tâm/nghĩa vụ, không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "熱が下がる", "r": "ねつがさがる", "hv": "NHIỆT HẠ", "vi": "hạ sốt" },
+          { "w": "薬", "r": "くすり", "hv": "DƯỢC", "vi": "thuốc" }
+        ],
+        "grammar": {
+          "pattern": "～ようであれば／～ようなら",
+          "meaning": "nếu (có vẻ) ~ thì",
+          "form": "V thể thường／Aい／Aな／Nの + ようであれば",
+          "example": "雨が強くなるようであれば、試合は中止します。"
+        },
+        "evidence": null,
+        "tip": "Hội thoại chỉ dẫn (bác sĩ, thông báo) hay dùng ～ようであれば／～ようでしたら."
+      }
+    },
+    {
+      "num": 41,
+      "passage": null,
+      "stem": "（歌の練習で）\n先生「最初は、緊張して大きな声で歌えないと思います。でも、（　　）だんだん大きな声で歌えるようになりますよ。」",
+      "options": ["練習していくうちに", "練習してでも", "練習するのに対して", "練習するのに比べて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "(Khi tập hát) Giáo viên: 'Lúc đầu chắc các em hồi hộp nên không hát to được. Nhưng trong quá trình luyện tập, dần dần các em sẽ hát to được thôi.'",
+        "why": "Vていくうちに = trong lúc (tiếp tục) làm ~ thì dần dần có sự thay đổi. Đi với だんだん～ようになる rất tự nhiên.",
+        "options": [
+          "練習していくうちに → trong quá trình luyện tập thì dần dần. ĐÚNG.",
+          "練習してでも → dù phải luyện tập (bằng mọi giá) — không hợp. Sai.",
+          "練習するのに対して → trái với việc luyện tập — đối lập, sai nghĩa. Sai.",
+          "練習するのに比べて → so với việc luyện tập — sai nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "緊張", "r": "きんちょう", "hv": "KHẨN TRƯƠNG", "vi": "căng thẳng, hồi hộp" },
+          { "w": "練習", "r": "れんしゅう", "hv": "LUYỆN TẬP", "vi": "luyện tập" }
+        ],
+        "grammar": {
+          "pattern": "～うちに（変化）",
+          "meaning": "trong lúc ~ thì (tự nhiên) xảy ra thay đổi",
+          "form": "Vている／Vていく + うちに",
+          "example": "話しているうちに、彼のことが好きになった。"
+        },
+        "evidence": null,
+        "tip": "～うちに + だんだん／いつの間にか + ～ようになる: combo hay gặp."
+      }
+    },
+    {
+      "num": 42,
+      "passage": null,
+      "stem": "監督「みんな、今日は本当によくやった。この調子であしたの決勝戦もがんばろう。おれたちが勝って世間を（　　）じゃないか。」",
+      "options": ["驚いてやろう", "驚いてもらおう", "驚かせてやろう", "驚かせてもらおう"],
+      "answer": 3,
+      "explanation": {
+        "translation": "HLV: 'Các cậu, hôm nay làm tốt lắm. Cứ giữ phong độ này mà cố gắng trong trận chung kết ngày mai. Chúng ta hãy thắng và làm cho cả thiên hạ phải kinh ngạc nào!'",
+        "why": "世間を + V sai khiến: 世間を驚かせる = làm cho thiên hạ kinh ngạc. ～てやろうじゃないか = hãy cùng làm ~ cho (họ) thấy (ý chí mạnh, rủ rê).",
+        "options": [
+          "驚いてやろう → 驚く là tự động từ, không nhận tân ngữ を (世間を驚く sai). Sai.",
+          "驚いてもらおう → nhờ thiên hạ kinh ngạc — sai cấu trúc với を. Sai.",
+          "驚かせてやろう → làm cho thiên hạ kinh ngạc. ĐÚNG.",
+          "驚かせてもらおう → nhờ ai đó làm mình kinh ngạc — sai chủ thể. Sai."
+        ],
+        "vocab": [
+          { "w": "監督", "r": "かんとく", "hv": "GIÁM ĐỐC", "vi": "huấn luyện viên, đạo diễn" },
+          { "w": "決勝戦", "r": "けっしょうせん", "hv": "QUYẾT THẮNG CHIẾN", "vi": "trận chung kết" },
+          { "w": "世間", "r": "せけん", "hv": "THẾ GIAN", "vi": "thiên hạ, xã hội" },
+          { "w": "驚かせる", "r": "おどろかせる", "hv": "KINH", "vi": "làm cho kinh ngạc" }
+        ],
+        "grammar": {
+          "pattern": "～てやろうじゃないか",
+          "meaning": "nào, hãy làm ~ (cho họ thấy) — thể hiện quyết tâm, kêu gọi",
+          "form": "Vて + やろうじゃないか",
+          "example": "あいつらに目に物見せてやろうじゃないか。"
+        },
+        "evidence": null,
+        "tip": "Thấy 'N を' + cảm xúc (驚く・喜ぶ・笑う) → cần thể sai khiến: 驚かせる・喜ばせる・笑わせる."
+      }
+    },
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "会議は9時開始の予定だったが、開始時刻までに来たのは3人だけだった。遅れてきた人に理由を聞いたら、開始時刻が正しく（　　）。",
+      "options": ["伝わらないはずだった", "伝えなかったらしい", "伝えていないはずだった", "伝わっていなかったらしい"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Cuộc họp dự định bắt đầu lúc 9 giờ, nhưng đến giờ bắt đầu chỉ có 3 người tới. Hỏi lý do những người đến muộn thì hình như giờ bắt đầu đã không được truyền đạt chính xác.",
+        "why": "Chủ ngữ là 開始時刻が → cần tự động từ 伝わる (được truyền đạt). らしい = có vẻ là (suy đoán dựa trên thông tin nghe được — ở đây là nghe người đến muộn kể). 伝わっていなかった: trạng thái 'đã không được truyền tới'.",
+        "options": [
+          "伝わらないはずだった → 'lẽ ra không được truyền tới' — vô lý. Sai.",
+          "伝えなかったらしい → 伝える là tha động từ, cần ～を; với 時刻が không hợp. Sai.",
+          "伝えていないはずだった → sai cả tự/tha và nghĩa 'lẽ ra'. Sai.",
+          "伝わっていなかったらしい → hình như đã không được truyền đạt. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "伝わる", "r": "つたわる", "hv": "TRUYỀN", "vi": "được truyền đạt, lan truyền (tự động từ)" },
+          { "w": "伝える", "r": "つたえる", "hv": "TRUYỀN", "vi": "truyền đạt (tha động từ)" },
+          { "w": "開始時刻", "r": "かいしじこく", "hv": "KHAI THỦY THỜI KHẮC", "vi": "giờ bắt đầu" }
+        ],
+        "grammar": {
+          "pattern": "～らしい（推量・伝聞）",
+          "meaning": "hình như, nghe nói (dựa trên thông tin bên ngoài)",
+          "form": "V／A thể thường + らしい",
+          "example": "あの店は来月閉店するらしい。"
+        },
+        "evidence": null,
+        "tip": "Chủ ngữ + が → tự động từ (伝わる); ai đó + を → tha động từ (伝える)."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "妹「お姉ちゃん、パソコン貸して。」\n姉「いいよ。あ、あとで私も使うから、電源は（　　）。」\n妹「わかった。」",
+      "options": ["入れてからにして", "入れたままにしておいて", "入れたつもりでいて", "入れなきゃならなくて"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Em gái: 'Chị ơi, cho em mượn máy tính.' Chị: 'Được. À, lát nữa chị cũng dùng nên em cứ để nguyên máy bật nhé.' Em: 'Vâng.'",
+        "why": "Vたまま(に)しておく = để nguyên trạng thái ~. Vì chị sẽ dùng sau, nên dặn 'cứ để máy bật, đừng tắt' → 入れたままにしておいて.",
+        "options": [
+          "入れてからにして → 'hãy bật rồi hãy (làm)…' — không hợp lý do 'chị dùng sau'. Sai.",
+          "入れたままにしておいて → cứ để nguyên máy bật. ĐÚNG.",
+          "入れたつもりでいて → cứ coi như đã bật — vô nghĩa. Sai.",
+          "入れなきゃならなくて → vì phải bật nên… — không phải câu nhờ vả. Sai."
+        ],
+        "vocab": [
+          { "w": "電源を入れる", "r": "でんげんをいれる", "hv": "ĐIỆN NGUYÊN", "vi": "bật nguồn" },
+          { "w": "貸す", "r": "かす", "hv": "THẢI", "vi": "cho mượn" }
+        ],
+        "grammar": {
+          "pattern": "～たままにしておく",
+          "meaning": "để nguyên (trạng thái sau khi làm ~)",
+          "form": "Vた + まま(に)しておく",
+          "example": "窓は開けたままにしておいてください。"
+        },
+        "evidence": null,
+        "tip": "Đối lập: 電源を切る (tắt). 'Đừng tắt' = 入れたままにしておく."
+      }
+    }
+  ]
+}

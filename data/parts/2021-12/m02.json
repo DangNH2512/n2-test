@@ -1,0 +1,137 @@
+{
+  "exam": "2021-12",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết Kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "この仕事は、山本さんに<u>まかせて</u>おけば安心です。",
+      "options": ["仕せて", "担せて", "任せて", "但せて"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Công việc này cứ giao cho anh Yamamoto là yên tâm.",
+        "why": "まかせる viết là 任せる (NHIỆM) = giao phó, phó thác. Chữ 任 có trong 責任 (trách nhiệm), 担任 (chủ nhiệm).",
+        "options": [
+          "仕せて → 仕 (SĨ) chỉ có trong 仕事, 仕える. Sai.",
+          "担せて → 担 (ĐẢM) đọc là かつぐ / になう. Sai.",
+          "任せて → 任せる: giao phó. ĐÚNG.",
+          "但せて → 但 (ĐÃN) trong 但し (ただし: tuy nhiên). Sai."
+        ],
+        "vocab": [
+          { "w": "任せる", "r": "まかせる", "hv": "NHIỆM", "vi": "giao phó, phó thác" },
+          { "w": "責任", "r": "せきにん", "hv": "TRÁCH NHIỆM", "vi": "trách nhiệm" },
+          { "w": "安心", "r": "あんしん", "hv": "AN TÂM", "vi": "yên tâm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "4 chữ đều có bộ nhân đứng 亻 → nhớ 任 = 'người gánh trách nhiệm' = giao phó."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "新入生をテニスサークルに<u>かんゆう</u>した。",
+      "options": ["勧誘", "勧遊", "観誘", "観遊"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đã mời rủ sinh viên mới vào câu lạc bộ tennis.",
+        "why": "かんゆう viết là 勧誘 (KHUYẾN DỤ) = mời chào, lôi kéo tham gia. 勧 = khuyên (勧める すすめる), 誘 = rủ (誘う さそう).",
+        "options": [
+          "勧誘 → mời chào, rủ tham gia. ĐÚNG.",
+          "勧遊 → 遊 (DU) = chơi, không ghép thành từ. Sai.",
+          "観誘 → 観 (QUAN) = xem (観光, 観察). Sai.",
+          "観遊 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "勧誘", "r": "かんゆう", "hv": "KHUYẾN DỤ", "vi": "mời chào, lôi kéo tham gia" },
+          { "w": "勧める", "r": "すすめる", "hv": "KHUYẾN", "vi": "khuyên, mời" },
+          { "w": "誘う", "r": "さそう", "hv": "DỤ", "vi": "rủ, mời" },
+          { "w": "新入生", "r": "しんにゅうせい", "hv": "TÂN NHẬP SINH", "vi": "sinh viên/học sinh mới vào" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đề gốc in nhầm 新人生; đúng là 新入生."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "この計画は<u>じゅんちょう</u>に進んでいる。",
+      "options": ["準長", "準調", "順長", "順調"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Kế hoạch này đang tiến triển thuận lợi.",
+        "why": "じゅんちょう viết là 順調 (THUẬN ĐIỀU) = suôn sẻ, thuận lợi. 順 = thuận, theo thứ tự (順番); 調 = điều hòa (調子).",
+        "options": [
+          "準長 → 準 (CHUẨN) = chuẩn bị (準備). Sai.",
+          "準調 → sai chữ 準. Sai.",
+          "順長 → sai chữ 長. Sai.",
+          "順調 → suôn sẻ, thuận lợi. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "順調", "r": "じゅんちょう", "hv": "THUẬN ĐIỀU", "vi": "suôn sẻ, thuận lợi" },
+          { "w": "準備", "r": "じゅんび", "hv": "CHUẨN BỊ", "vi": "chuẩn bị" },
+          { "w": "調子", "r": "ちょうし", "hv": "ĐIỀU TỬ", "vi": "tình trạng, phong độ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "順調 = 'thuận' + 'điều (hòa)' → mọi thứ trôi chảy. Đối lập: 不調 (ふちょう: trục trặc)."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "落ち葉が<u>つもった</u>道を歩いた。",
+      "options": ["詰もった", "満もった", "占もった", "積もった"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi đã đi trên con đường phủ đầy lá rụng.",
+        "why": "つもる viết là 積もる (TÍCH) = chất đống, tích tụ (tuyết, lá, bụi...). 積 trong 面積, 積極的.",
+        "options": [
+          "詰もった → 詰 đọc là つめる・つまる (nhồi, nhét). Sai.",
+          "満もった → 満 đọc là みちる (đầy). Sai.",
+          "占もった → 占 đọc là しめる・うらなう (chiếm, bói). Sai.",
+          "積もった → 積もる: chất đống, phủ dày. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "積もる", "r": "つもる", "hv": "TÍCH", "vi": "chất đống, tích tụ" },
+          { "w": "落ち葉", "r": "おちば", "hv": "", "vi": "lá rụng" },
+          { "w": "詰める", "r": "つめる", "hv": "CẬT", "vi": "nhồi, nhét" },
+          { "w": "占める", "r": "しめる", "hv": "CHIẾM", "vi": "chiếm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "雪が積もる (tuyết phủ dày), ほこりが積もる (bụi bám dày)."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "この状態が<u>えいきゅう</u>に続くわけではない。",
+      "options": ["延久", "永久", "延及", "永及"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tình trạng này không phải sẽ kéo dài mãi mãi.",
+        "why": "えいきゅう viết là 永久 (VĨNH CỬU) = vĩnh viễn, mãi mãi. 永 = えい (永遠), 久 = きゅう (久しぶり ひさしぶり).",
+        "options": [
+          "延久 → 延 (DIÊN) đọc えん (延期). Sai.",
+          "永久 → vĩnh cửu, mãi mãi. ĐÚNG.",
+          "延及 → không có từ này. Sai.",
+          "永及 → 及 (CẬP) đọc きゅう nhưng nghĩa là 'đạt tới' (普及). Sai."
+        ],
+        "vocab": [
+          { "w": "永久", "r": "えいきゅう", "hv": "VĨNH CỬU", "vi": "vĩnh viễn, mãi mãi" },
+          { "w": "永遠", "r": "えいえん", "hv": "VĨNH VIỄN", "vi": "vĩnh viễn" },
+          { "w": "状態", "r": "じょうたい", "hv": "TRẠNG THÁI", "vi": "trạng thái, tình trạng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "永 (えい) và 延 (えん) dễ nhầm; 久 (きゅう) và 及 (きゅう) cùng âm nhưng khác nghĩa."
+      }
+    }
+  ]
+}

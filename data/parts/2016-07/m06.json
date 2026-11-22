@@ -1,0 +1,165 @@
+{
+  "exam": "2016-07",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn câu sử dụng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "発達",
+      "options": [
+        "息子は中学生になって急に身長が<u>発達</u>し、すぐに私を追い越した。",
+        "交通が<u>発達</u>したことにより、人々の生活が便利になった。",
+        "この店は昨年度からサービスの<u>発達</u>に努め、客数を増やした。",
+        "庭に植えたトマトの<u>発達</u>がよく、おいしそうな赤い実がたくさんとれた。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Câu 2) Nhờ giao thông phát triển mà cuộc sống của mọi người trở nên tiện lợi.",
+        "why": "発達 (はったつ) = phát triển, tiến bộ (của kỹ thuật, giao thông, cơ thể/trí tuệ nói chung). 交通が発達する là kết hợp chuẩn.",
+        "options": [
+          "Chiều cao tăng → 身長が伸びる, không dùng 発達. Sai.",
+          "交通が発達する: giao thông phát triển. ĐÚNG.",
+          "Cải thiện dịch vụ → サービスの向上/充実. Sai.",
+          "Cây lớn tốt → トマトの生育/育ち. Sai."
+        ],
+        "vocab": [
+          { "w": "発達", "r": "はったつ", "hv": "PHÁT ĐẠT", "vi": "phát triển, tiến bộ" },
+          { "w": "向上", "r": "こうじょう", "hv": "HƯỚNG THƯỢNG", "vi": "nâng cao, cải thiện" },
+          { "w": "生育", "r": "せいいく", "hv": "SINH DỤC", "vi": "sinh trưởng (cây)" },
+          { "w": "追い越す", "r": "おいこす", "hv": "TRUY VIỆT", "vi": "vượt qua" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Kết hợp hay gặp: 交通・技術・医学が発達する; 筋肉が発達する; 台風が発達する."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "きっかけ",
+      "options": [
+        "今回は都合が悪いのですが、次の<u>きっかけ</u>にはぜひ出席したいと思います。",
+        "大学では言語学を専攻し、漢字の<u>きっかけ</u>について研究している。",
+        "今回の事件<u>をきっかけに</u>、市民の防犯に対する意識が高まった。",
+        "この事業に反対する<u>きっかけ</u>は、環境への悪影響が予想されるからだ。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "(Câu 3) Nhân vụ việc lần này, ý thức phòng chống tội phạm của người dân đã được nâng cao.",
+        "why": "きっかけ = cơ duyên, cái cớ khởi đầu dẫn đến thay đổi. ～をきっかけに = nhân dịp ~, nhờ ~ mà bắt đầu.",
+        "options": [
+          "'Lần sau' → 次の機会 (きかい), không phải きっかけ. Sai.",
+          "Nguồn gốc chữ Hán → 漢字の起源 (きげん). Sai.",
+          "事件をきっかけに: nhân vụ việc. ĐÚNG.",
+          "Lý do phản đối → 反対する理由 (りゆう). Sai."
+        ],
+        "vocab": [
+          { "w": "きっかけ", "r": "きっかけ", "hv": "", "vi": "cơ duyên, cái cớ khởi đầu" },
+          { "w": "機会", "r": "きかい", "hv": "CƠ HỘI", "vi": "cơ hội, dịp" },
+          { "w": "起源", "r": "きげん", "hv": "KHỞI NGUYÊN", "vi": "nguồn gốc" },
+          { "w": "防犯", "r": "ぼうはん", "hv": "PHÒNG PHẠM", "vi": "phòng chống tội phạm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Phân biệt: きっかけ (điểm khởi đầu) / 機会 (dịp) / 理由 (lý do) / 起源 (nguồn gốc)."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "引退",
+      "options": [
+        "ひどい風邪を引いてしまい、明日のスピーチ大会は<u>引退</u>するしかない。",
+        "試験が近いのでアルバイトを<u>引退</u>し、勉強に専念することにした。",
+        "鈴木選手は去年<u>引退</u>し、家族で海外に移住したそうだ。",
+        "A社の面接に合格したが、<u>引退</u>して別の会社に入社した。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "(Câu 3) Nghe nói vận động viên Suzuki đã giải nghệ năm ngoái và cùng gia đình chuyển ra nước ngoài sinh sống.",
+        "why": "引退 (いんたい) = giải nghệ, rút lui khỏi sự nghiệp/vị trí lâu năm (vận động viên, chính trị gia). 選手が引退する là cách dùng chuẩn.",
+        "options": [
+          "Bỏ thi một cuộc thi → 辞退 (じたい)/欠場 (けつじょう). Sai.",
+          "Nghỉ làm thêm → アルバイトを辞める. Sai.",
+          "選手が引退する: vận động viên giải nghệ. ĐÚNG.",
+          "Từ chối công ty đã đỗ → 辞退する. Sai."
+        ],
+        "vocab": [
+          { "w": "引退", "r": "いんたい", "hv": "DẪN THOÁI", "vi": "giải nghệ, nghỉ hưu, rút lui" },
+          { "w": "辞退", "r": "じたい", "hv": "TỪ THOÁI", "vi": "từ chối, rút lui (không nhận)" },
+          { "w": "移住", "r": "いじゅう", "hv": "DI TRÚ", "vi": "di cư, chuyển đến sống" },
+          { "w": "専念", "r": "せんねん", "hv": "CHUYÊN NIỆM", "vi": "chuyên tâm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "引退 dùng cho sự nghiệp dài (選手・政治家・歌手); 辞退 dùng khi từ chối tham gia/nhận."
+      }
+    },
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "順調",
+      "options": [
+        "佐藤先生はどんな質問に対しても<u>順調</u>に答えてくれる。",
+        "今日は朝からのどが痛くて、食べ物を<u>順調</u>に飲み込めない。",
+        "雨で道路が滑りやすくなっていたので、<u>順調</u>に転んでしまった。",
+        "このパソコンは発売以来、<u>順調</u>に売り上げを伸ばし、人気商品になった。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "(Câu 4) Chiếc máy tính này từ khi ra mắt đã tăng doanh số đều đặn và trở thành sản phẩm được ưa chuộng.",
+        "why": "順調 (じゅんちょう) = suôn sẻ, thuận lợi (công việc, tiến độ diễn ra như ý). 順調に売り上げを伸ばす là cách dùng chuẩn.",
+        "options": [
+          "Trả lời trôi chảy → すらすら/的確に答える. Sai.",
+          "Nuốt dễ dàng → スムーズに/うまく飲み込む. Sai.",
+          "Ngã là việc xấu, không 'suôn sẻ'; nên là 見事に/つるっと転ぶ. Sai.",
+          "順調に売り上げを伸ばす: doanh số tăng suôn sẻ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "順調", "r": "じゅんちょう", "hv": "THUẬN ĐIỀU", "vi": "suôn sẻ, thuận lợi" },
+          { "w": "売り上げ", "r": "うりあげ", "hv": "MẠI THƯỢNG", "vi": "doanh số" },
+          { "w": "飲み込む", "r": "のみこむ", "hv": "ẨM VÀO", "vi": "nuốt" },
+          { "w": "発売", "r": "はつばい", "hv": "PHÁT MẠI", "vi": "phát hành, bán ra" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "順調 dùng cho quá trình/tiến độ: 工事は順調に進んでいる."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "生じる",
+      "options": [
+        "海外の生活では、習慣の違いから誤解が<u>生じる</u>ことがある。",
+        "この果物は温暖な気候の地域を中心に<u>生じている</u>。",
+        "新しい技術が<u>生じた</u>おかげで、生産量が大幅に増加した。",
+        "この大学からは有名な研究者が多く<u>生じている</u>。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "(Câu 1) Trong cuộc sống ở nước ngoài, đôi khi hiểu lầm nảy sinh do khác biệt tập quán.",
+        "why": "生じる (しょうじる) = nảy sinh, phát sinh (vấn đề, hiểu lầm, sai sót, thay đổi). 誤解が生じる là kết hợp chuẩn.",
+        "options": [
+          "誤解が生じる: hiểu lầm nảy sinh. ĐÚNG.",
+          "Trái cây mọc/được trồng → 栽培されている/育っている. Sai.",
+          "Công nghệ mới ra đời → 開発された/生まれた. Sai.",
+          "Đào tạo ra nhiều nhà nghiên cứu → 輩出している (はいしゅつ). Sai."
+        ],
+        "vocab": [
+          { "w": "生じる", "r": "しょうじる", "hv": "SINH", "vi": "nảy sinh, phát sinh" },
+          { "w": "誤解", "r": "ごかい", "hv": "NGỘ GIẢI", "vi": "hiểu lầm" },
+          { "w": "輩出", "r": "はいしゅつ", "hv": "BỐI XUẤT", "vi": "sản sinh ra (nhân tài)" },
+          { "w": "栽培", "r": "さいばい", "hv": "TÀI BỒI", "vi": "trồng trọt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "生じる đi với danh từ trừu tượng tiêu cực: 問題・誤解・ずれ・損害が生じる."
+      }
+    }
+  ]
+}

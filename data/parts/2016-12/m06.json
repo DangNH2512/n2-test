@@ -1,0 +1,165 @@
+{
+  "exam": "2016-12",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn câu sử dụng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "延長",
+      "options": [
+        "悪天候で列車が運転をやめたため、旅行の出発が三日後に<u>延長</u>された。",
+        "初めの設計では2階建てだったが、3階建ての家に<u>延長</u>することにした。",
+        "予定の時間内に結論が出ず、会議が1時間<u>延長</u>されることになった。",
+        "電車の中で居眠りをして、降りる駅を一駅<u>延長</u>してしまった。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "延長 (えんちょう) = kéo dài (thời gian, độ dài). Câu đúng: Vì không ra được kết luận trong thời gian dự kiến nên cuộc họp được kéo dài thêm 1 tiếng.",
+        "why": "延長 dùng khi kéo dài thêm thời gian/khoảng cách vốn đã định: 会議を1時間延長する, 延長戦. Câu 3 đúng nghĩa.",
+        "options": [
+          "Dời ngày khởi hành sang 3 ngày sau → phải dùng 延期 (えんき: hoãn lại). Sai.",
+          "Đổi từ nhà 2 tầng thành 3 tầng → 変更 (へんこう: thay đổi). Sai.",
+          "Cuộc họp kéo dài thêm 1 tiếng → 延長. ĐÚNG.",
+          "Ngủ quên đi quá 1 ga → 乗り過ごす (のりすごす). Sai."
+        ],
+        "vocab": [
+          { "w": "延長", "r": "えんちょう", "hv": "DIÊN TRƯỜNG", "vi": "kéo dài, gia hạn" },
+          { "w": "延期", "r": "えんき", "hv": "DIÊN KỲ", "vi": "hoãn lại, dời ngày" },
+          { "w": "結論", "r": "けつろん", "hv": "KẾT LUẬN", "vi": "kết luận" },
+          { "w": "乗り過ごす", "r": "のりすごす", "hv": "THỪA QUÁ", "vi": "đi quá ga" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "延長 = kéo dài thêm (đang diễn ra); 延期 = dời sang ngày khác (chưa diễn ra)."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "さびる",
+      "options": [
+        "暑いところに生ものをずっと置いておいたら、<u>さびて</u>臭くなった。",
+        "昨夜は雨が相当降ったらしく、普段はきれいな川の水が<u>さびて</u>濁っている。",
+        "鉢に植えた植物に水をやるのを忘れていたら、花が<u>さびて</u>しまった。",
+        "この鉄の棒はずっと家の外に置いてあったので、<u>さびて</u>茶色くなっている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "さびる (錆びる) = bị gỉ sét. Câu đúng: Thanh sắt này để ngoài nhà suốt nên bị gỉ, chuyển màu nâu.",
+        "why": "錆びる chỉ dùng cho kim loại bị oxy hóa (gỉ). Thanh sắt (鉄の棒) để ngoài trời → gỉ, màu nâu: câu 4.",
+        "options": [
+          "Đồ sống để chỗ nóng bị hôi → 腐る (くさる: thối, hỏng). Sai.",
+          "Nước sông bị đục sau mưa → 濁る (にごる). Sai.",
+          "Hoa không được tưới → 枯れる (かれる: héo, chết). Sai.",
+          "Thanh sắt để ngoài trời bị gỉ, ngả nâu → さびる. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "錆びる", "r": "さびる", "hv": "", "vi": "bị gỉ sét" },
+          { "w": "腐る", "r": "くさる", "hv": "HỦ", "vi": "thối, hỏng" },
+          { "w": "枯れる", "r": "かれる", "hv": "KHÔ", "vi": "héo, khô chết" },
+          { "w": "濁る", "r": "にごる", "hv": "TRỌC", "vi": "đục, vẩn đục" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Thức ăn → 腐る; cây → 枯れる; nước → 濁る; kim loại → 錆びる."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "目上",
+      "options": [
+        "勉強会に参加した社員がすべて<u>目上</u>だったので、新人の私はとても緊張した。",
+        "この店で一番値段が高く<u>目上</u>の商品は、店の奥にある棚に並べられていた。",
+        "高校時代、鈴木さんはとても優秀で、成績はいつも学年で<u>目上</u>だった。",
+        "あの若さで金賞を受賞した伊藤さんは、本当に<u>目上</u>の人だと思う。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "目上 (めうえ) = người bề trên (tuổi tác, địa vị cao hơn mình). Câu đúng: Nhân viên tham gia buổi học đều là người bề trên nên tôi, một nhân viên mới, rất căng thẳng.",
+        "why": "目上 chỉ dùng cho người có địa vị/tuổi tác cao hơn mình (cấp trên, tiền bối). Câu 1: người mới gặp toàn người bề trên → căng thẳng. Hợp nghĩa.",
+        "options": [
+          "Toàn người bề trên → người mới căng thẳng. ĐÚNG.",
+          "Món hàng đắt nhất, cao cấp → 高級 (こうきゅう). 目上 không dùng cho đồ vật. Sai.",
+          "Thành tích luôn đứng đầu khối → トップ / 上位 (じょうい). Sai.",
+          "Người tài giỏi đáng nể → 優れた人 / 大した人. Sai."
+        ],
+        "vocab": [
+          { "w": "目上", "r": "めうえ", "hv": "MỤC THƯỢNG", "vi": "người bề trên" },
+          { "w": "目下", "r": "めした", "hv": "MỤC HẠ", "vi": "người bề dưới" },
+          { "w": "上位", "r": "じょうい", "hv": "THƯỢNG VỊ", "vi": "thứ hạng cao" },
+          { "w": "緊張", "r": "きんちょう", "hv": "KHẨN TRƯƠNG", "vi": "căng thẳng, hồi hộp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "目上の人には敬語を使う. 目上 chỉ dùng cho NGƯỜI, không dùng cho hàng hóa/thứ hạng."
+      }
+    },
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "大げさ",
+      "options": [
+        "息子の誕生日に料理を作りすぎてしまい、<u>大げさ</u>に余ってしまった。",
+        "天気予報によると、明日は今日より<u>大げさ</u>に気温が下がるらしい。",
+        "努力した結果、試験の成績が<u>大げさ</u>に伸びて、先生に褒められた。",
+        "あの人は小さなことを<u>大げさ</u>に言うので、そのまま信じないほうがいい。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "大げさ (おおげさ) = phóng đại, cường điệu. Câu đúng: Người đó hay nói chuyện nhỏ thành to nên không nên tin y nguyên.",
+        "why": "大げさ chỉ cách nói/hành động phóng đại quá sự thật. 小さなことを大げさに言う = chuyện bé xé ra to: câu 4.",
+        "options": [
+          "Thức ăn thừa nhiều → たくさん / 大量に余る. Sai.",
+          "Nhiệt độ giảm mạnh → 大幅に / ぐっと下がる. Sai.",
+          "Thành tích tăng vọt → 大幅に / ぐんと伸びる. Sai.",
+          "Nói phóng đại chuyện nhỏ → 大げさに言う. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "大げさ", "r": "おおげさ", "hv": "ĐẠI", "vi": "phóng đại, cường điệu" },
+          { "w": "大幅", "r": "おおはば", "hv": "ĐẠI PHÚC", "vi": "(thay đổi) lớn, mạnh" },
+          { "w": "余る", "r": "あまる", "hv": "DƯ", "vi": "thừa ra" },
+          { "w": "褒める", "r": "ほめる", "hv": "BAO", "vi": "khen" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "大げさ chỉ dùng cho lời nói/thái độ; mức độ thay đổi số lượng dùng 大幅に."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "反省",
+      "options": [
+        "発表の原稿を全部覚えたのに、緊張のせいでどんなに<u>反省</u>しても全く思い出せない。",
+        "今回の企画では、私の準備不足で周りに迷惑をかけたことをとても<u>反省</u>しています。",
+        "祖父はいつも若いころの思い出を懐かしそうに<u>反省</u>して私に話してくれる。",
+        "この機械の使い方を忘れないように、もう一度最初から<u>反省</u>しておきましょう。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "反省 (はんせい) = tự kiểm điểm, hối lỗi. Câu đúng: Trong dự án lần này, tôi rất ân hận vì đã gây phiền cho mọi người do chuẩn bị không đủ.",
+        "why": "反省 = nhìn lại lỗi lầm của bản thân để rút kinh nghiệm. Câu 2: lỗi chuẩn bị kém gây phiền người khác → 反省しています. Đúng nghĩa.",
+        "options": [
+          "Cố nhớ lại bài phát biểu → 思い出そうとしても. Sai.",
+          "Tự kiểm điểm vì gây phiền hà → 反省. ĐÚNG.",
+          "Ông hồi tưởng chuyện xưa → 振り返る / 思い出す (hồi tưởng). Sai.",
+          "Ôn lại cách dùng máy → 復習 (ふくしゅう) / 確認. Sai."
+        ],
+        "vocab": [
+          { "w": "反省", "r": "はんせい", "hv": "PHẢN TỈNH", "vi": "tự kiểm điểm, hối lỗi" },
+          { "w": "迷惑をかける", "r": "めいわくをかける", "hv": "MÊ HOẶC", "vi": "gây phiền hà" },
+          { "w": "準備不足", "r": "じゅんびぶそく", "hv": "CHUẨN BỊ BẤT TÚC", "vi": "chuẩn bị không đủ" },
+          { "w": "振り返る", "r": "ふりかえる", "hv": "CHẤN PHẢN", "vi": "ngoảnh lại, nhìn lại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "反省 luôn gắn với lỗi sai/điều chưa tốt của bản thân, không dùng cho \"ôn tập\" hay \"hồi tưởng\"."
+      }
+    }
+  ]
+}

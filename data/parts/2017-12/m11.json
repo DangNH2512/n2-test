@@ -1,0 +1,320 @@
+{
+  "exam": "2017-12",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（1）から（3）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(3) và chọn câu trả lời đúng nhất cho mỗi câu hỏi (đoạn văn trung bình).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "大学で「よく学び、よく遊ぶ」ためには、時間の使い方が重要です。「大学生の楽しさ」に目覚めると、本当に忙しくなります。講義だけなら、宿題が出されたり授業中に当てられたりした高校時代のほうが、よほど大変です。大学の講義の多くは、聞いていれば済むし、たまに意見を求める教員がいても、受講する前に勉強してこなかったからと責める教員はいませんから、やりすごし（注1）さえすれば終わりです。だから、講義だけ見れば、一定時間教室に「拘束（注2）される」ことを除けば、ほとんど苦痛はありません。しかし、こうして講義をただ聴いているだけでは、得られることもごく限られます。ときどき「高校時代の授業のほうが充実していた」と考える人がいるのは、そのためです。しかし、大学で講義している教員は、講義内容よりもはるかにレベルの高い、広い知識を持っているのが普通で、講義ではそのうちの基本的なことだけを伝えているにすぎません。出し惜しみしている（注3）のではなく学生の理解力と講義時間の制約（注4）によって、そうせざるをえないのです。だから、講義で興味を抱いたり疑問を感じたことがあれば、教員の研究室を訪ねて質問すると、驚くほど豊富な話をしてもらえます。学生らしい大学生活を送るには、こうした「講義からはみだす時間」も必要ですし、将来の就職活動に備えて、在学中にやっておきたいことのための時間も要ります。これらを計画的に組み立てれば、無駄も省け、時間的にも気持ちのうえでも「ゆとり」（注6）が生まれます。\n\n（注1）やりすごす：ここでは、ただ時間が過ぎるのを待つ\n（注2）拘束される：ここでは、いなければならない\n（注3）出し惜しみしている：ここでは、伝えることができるのに伝えない\n（注4）制約：制限\n（注5）そうせざるをえない：そうするしかない\n（注6）ゆとり：余裕"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、ある作家が書いた文章である。\n\n人に対して好き嫌いの感情を持つことは誰にもあることだ。それを否定することはない。だが、好きな人とばかりつきあってビジネス生活を送ることははっきり言って不可能なのである。分析してみると、好きな人とはつまり話が合う人で、自分と考え方が似ているケースが多い。そして、嫌いな人とは考え方が合わない人がほとんど。嫌い、もしくは（注1）考え方が合わない人は、自分とは違う発想をしているわけで、じっくり話を聞いてみると、面白い見方、魅力ある発見を教えてくれることがある。私自身、取材をしていて、最初は「感じ悪いな、こいつは」と思った人物が話をしていくうちに、「なるほど」といった情報を教えてくれたことがある。そうすると、取材が終わったころには、「この人はいい人だ」と判断を変えてしまうのだから、人間の好悪の感情なんて実にいい加減なものだ。初めての人に会ったときは好き嫌いの感情を抜きにすること。素直に人を見て、話を聞いて、そして、面白い話を聞くことができたら相手に共感する（注2）。そうすると人は謙虚になっていく。なんといっても仕事に役立つヒントをもらったわけだから、相手を尊敬するようになる。それが続くうちに人は出会った相手を尊重し、関係を大切にする人間に変わっていく。そういった人間になってしまえば、他人からも信頼されるし親しまれるだろう。\n\n（注1）もしくは：または\n（注2）～に共感する：～と同じように感じる"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "「鉛筆でかいたのになぜ消えないの。」小学校の写生大会で、画用紙に鉛筆で下書きをし、水性絵の具で色をぬった後、下書きを消しゴムで消そうとしたのに消えなかったときに思ったことだ。不思議だと思うと同時に、絵が思ったように仕上げられずがっかりした。この疑問に対する答えを、最近、あるホームページで見付けた。そのページには、まず普通の鉛筆は消しゴムで消せるのに、なぜ色鉛筆は消せないのかという説明が書いてあった。その説明によると、それは普通の鉛筆と色鉛筆の芯の材料が異なっているためだそうだ。鉛筆は黒鉛と粘土から、色鉛筆は顔料とロウ（油分）からできている。黒鉛と顔料は、色の元になるものである。紙に書かれた文字の状態をそれぞれ簡単に説明すると、前者は細かくくだかれた黒鉛が紙の表面にくっついている状態であり、後者は顔料が紙の中に油とともにしみ込んでいる状態だそうだ。したがって、表面にくっついているだけの黒鉛は、消しゴムでこすることで、紙から引き離すことができる。一方、しみ込んだ顔料は引き離すことができない。そして最後に、鉛筆の下書きが水性絵の具で色をぬった後に消せない理由が説明されていた。鉛筆の下書きが消せないのは、水性絵の具を溶かすのに使う水のせいだそうだ。この水が、色鉛筆の芯の油分と同じ役割を果たすという。水も油も紙にしみ込みやすいのだ。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 60,
+      "passage": "p1",
+      "stem": "大学の講義について、筆者の考えに合うのはどれか。",
+      "options": [
+        "出席しなくても責められない。",
+        "聞いていれば済む講義もある。",
+        "高校の授業のほうが充実している。",
+        "講義で意見を求められることはない。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Về giờ giảng ở đại học, điều nào phù hợp với suy nghĩ của tác giả? → Có những giờ giảng chỉ cần ngồi nghe là xong.",
+        "why": "Tác giả viết \"phần lớn các giờ giảng đại học chỉ cần nghe là xong\" → \"có những giờ giảng chỉ cần nghe là xong\" là phù hợp.",
+        "options": [
+          "Bài nói không bị trách vì \"không học bài trước\" (受講する前に勉強してこなかった), không nói về việc không đi học. Sai.",
+          "Có giờ giảng chỉ cần nghe là xong. ĐÚNG.",
+          "Đó là suy nghĩ của \"một số người\" (考える人がいる), không phải quan điểm của tác giả. Sai.",
+          "Bài nói たまに意見を求める教員がいても → thỉnh thoảng vẫn có. Sai."
+        ],
+        "vocab": [
+          { "w": "講義", "r": "こうぎ", "hv": "GIẢNG NGHĨA", "vi": "bài giảng (đại học)" },
+          { "w": "済む", "r": "すむ", "hv": "TẾ", "vi": "xong, đủ, giải quyết được" },
+          { "w": "責める", "r": "せめる", "hv": "TRÁCH", "vi": "trách móc" },
+          { "w": "教員", "r": "きょういん", "hv": "GIÁO VIÊN", "vi": "giảng viên, giáo viên" }
+        ],
+        "grammar": {
+          "pattern": "〜さえすれば",
+          "meaning": "chỉ cần ~ là được",
+          "form": "Vます(bỏ ます) + さえすれば",
+          "example": "やりすごしさえすれば終わりです。"
+        },
+        "evidence": "大学の講義の多くは、聞いていれば済むし、たまに意見を求める教員がいても、受講する前に勉強してこなかったからと責める教員はいませんから、やりすごしさえすれば終わりです。",
+        "tip": "Phân biệt ý kiến tác giả và ý kiến \"có người cho rằng\" (〜と考える人がいる)."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p1",
+      "stem": "こうした「講義からはみだす時間」とは、講義時間外に何をする時間か。",
+      "options": [
+        "教員に将来について相談に乗ってもらう。",
+        "教員に質問をして講義内容の理解を深める。",
+        "教員と講義以外のことについての会話を楽しむ。",
+        "教員から講義内容の基本的なことを教えてもらう。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "\"Thời gian vượt ra ngoài giờ giảng\" như thế là thời gian làm gì ngoài giờ học? → Hỏi giảng viên để hiểu sâu hơn nội dung bài giảng.",
+        "why": "こうした chỉ câu ngay trước: khi có điều hứng thú hay thắc mắc trong giờ giảng thì đến phòng nghiên cứu hỏi giảng viên → được nghe rất nhiều điều phong phú = hiểu sâu nội dung.",
+        "options": [
+          "Bàn về tương lai/việc làm là \"thời gian khác\" (就職活動に備えて…), không phải 講義からはみだす時間. Sai.",
+          "Đặt câu hỏi cho giảng viên để hiểu sâu bài giảng. ĐÚNG.",
+          "Không phải chuyện ngoài lề, mà là câu hỏi xuất phát từ bài giảng. Sai.",
+          "Điều cơ bản đã được dạy trong giờ giảng rồi; ngoài giờ là nghe nội dung sâu, phong phú hơn. Sai."
+        ],
+        "vocab": [
+          { "w": "はみだす", "r": "はみだす", "hv": "", "vi": "tràn ra, vượt ra ngoài" },
+          { "w": "研究室", "r": "けんきゅうしつ", "hv": "NGHIÊN CỨU THẤT", "vi": "phòng nghiên cứu (của giảng viên)" },
+          { "w": "豊富", "r": "ほうふ", "hv": "PHONG PHÚ", "vi": "phong phú" },
+          { "w": "疑問", "r": "ぎもん", "hv": "NGHI VẤN", "vi": "thắc mắc, nghi vấn" }
+        ],
+        "grammar": null,
+        "evidence": "だから、講義で興味を抱いたり疑問を感じたことがあれば、教員の研究室を訪ねて質問すると、驚くほど豊富な話をしてもらえます。学生らしい大学生活を送るには、こうした「講義からはみだす時間」も必要ですし、",
+        "tip": "こうした／このような → luôn tìm nội dung ở câu ngay trước."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p1",
+      "stem": "筆者の言いたいことは何か。",
+      "options": [
+        "講義より自分のやりたいことに時間を使ったほうがいい。",
+        "時間を計画的に使って、就職活動に備えたほうがいい。",
+        "講義にしっかり出て、学生らしい大学生活を送ることが大切だ。",
+        "大学生活を充実させるには、時間を計画的に使うことが大切だ。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Điều tác giả muốn nói là gì? → Để đời sống đại học phong phú, sử dụng thời gian có kế hoạch là quan trọng.",
+        "why": "Bài mở đầu bằng \"để học tốt chơi tốt ở đại học, cách dùng thời gian là quan trọng\" và kết bằng \"sắp xếp có kế hoạch thì bớt lãng phí, sinh ra sự thong thả\" → ý chính: dùng thời gian có kế hoạch để đời sống đại học trọn vẹn.",
+        "options": [
+          "Không nói nên ưu tiên việc mình thích hơn giờ giảng. Sai.",
+          "Chuẩn bị xin việc chỉ là một trong những việc cần thời gian, không phải ý chính. Sai.",
+          "Tác giả nói chỉ ngồi nghe giảng thì thu được rất ít; cần cả thời gian ngoài giờ giảng. Sai.",
+          "Dùng thời gian có kế hoạch để đời sống đại học phong phú. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "計画的", "r": "けいかくてき", "hv": "KẾ HOẠCH ĐÍCH", "vi": "có kế hoạch" },
+          { "w": "組み立てる", "r": "くみたてる", "hv": "TỔ LẬP", "vi": "sắp xếp, lắp ráp" },
+          { "w": "省く", "r": "はぶく", "hv": "TỈNH", "vi": "lược bỏ, cắt giảm" },
+          { "w": "ゆとり", "r": "ゆとり", "hv": "", "vi": "sự thong thả, dư dả" }
+        ],
+        "grammar": null,
+        "evidence": "大学で「よく学び、よく遊ぶ」ためには、時間の使い方が重要です。／これらを計画的に組み立てれば、無駄も省け、時間的にも気持ちのうえでも「ゆとり」が生まれます。",
+        "tip": "Câu hỏi 筆者の言いたいこと → đọc kỹ câu đầu và câu cuối của bài."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p2",
+      "stem": "嫌いな人と話すことについて、筆者はどのように述べているか。",
+      "options": [
+        "話してみると、自身とは違う見方や発見を得られる。",
+        "話す機会が増えるにつれて、だんだん考え方が似てくる。",
+        "好き嫌いの感情を持つのは当然なので、積極的に話す必要はない。",
+        "自身の考え方の間違いを指摘してくれるので、話したほうがいい。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về việc nói chuyện với người mình không thích, tác giả nói thế nào? → Thử nói chuyện thì sẽ có được cách nhìn và phát hiện khác với bản thân.",
+        "why": "Người mình ghét là người có cách nghĩ khác, nên lắng nghe kỹ thì họ có thể cho mình \"cách nhìn thú vị, phát hiện hấp dẫn\".",
+        "options": [
+          "Có được cách nhìn, phát hiện khác mình. ĐÚNG.",
+          "Không nói cách nghĩ dần giống nhau. Sai.",
+          "Tác giả nói không thể chỉ giao thiệp với người mình thích → ngược lại. Sai.",
+          "Không nói họ chỉ ra cái sai của mình. Sai."
+        ],
+        "vocab": [
+          { "w": "発想", "r": "はっそう", "hv": "PHÁT TƯỞNG", "vi": "cách nghĩ, ý tưởng" },
+          { "w": "魅力", "r": "みりょく", "hv": "MỊ LỰC", "vi": "sức hấp dẫn" },
+          { "w": "じっくり", "r": "じっくり", "hv": "", "vi": "kỹ càng, từ tốn" },
+          { "w": "もしくは", "r": "もしくは", "hv": "", "vi": "hoặc là" }
+        ],
+        "grammar": null,
+        "evidence": "嫌い、もしくは考え方が合わない人は、自分とは違う発想をしているわけで、じっくり話を聞いてみると、面白い見方、魅力ある発見を教えてくれることがある。",
+        "tip": "面白い見方、魅力ある発見 → paraphrase thành 違う見方や発見."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p2",
+      "stem": "筆者が取材の体験を通してわかったことは何か。",
+      "options": [
+        "話を聞くうちに、どんな相手もいい人だと思えるようになる。",
+        "いい人だと思って話せば、相手から役立つ情報が得られる。",
+        "相手に対する好き嫌いの感情は人それぞれだ。",
+        "相手に対する好き嫌いの感情は変わることがある。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Điều tác giả nhận ra qua trải nghiệm phỏng vấn là gì? → Cảm xúc thích/ghét đối với người khác có thể thay đổi.",
+        "why": "Ban đầu thấy \"thằng cha này khó chịu\" nhưng sau khi nghe được thông tin hay thì đổi ý \"người này tốt\" → kết luận \"cảm xúc ưa ghét của con người thật tùy tiện\" = có thể thay đổi.",
+        "options": [
+          "\"どんな相手も\" (bất kỳ ai) là khái quát quá mức; bài chỉ kể một trường hợp. Sai.",
+          "Ngược lại: ban đầu nghĩ là người xấu, vẫn nhận được thông tin. Sai.",
+          "Bài không bàn về việc mỗi người cảm nhận khác nhau. Sai.",
+          "Cảm xúc thích/ghét có thể thay đổi. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "取材", "r": "しゅざい", "hv": "THỦ TÀI", "vi": "lấy tin, phỏng vấn" },
+          { "w": "好悪", "r": "こうお", "hv": "HẢO Ố", "vi": "yêu ghét" },
+          { "w": "いい加減", "r": "いいかげん", "hv": "GIA GIẢM", "vi": "tùy tiện, không đáng tin" },
+          { "w": "判断", "r": "はんだん", "hv": "PHÁN ĐOÁN", "vi": "phán đoán, đánh giá" }
+        ],
+        "grammar": null,
+        "evidence": "そうすると、取材が終わったころには、「この人はいい人だ」と判断を変えてしまうのだから、人間の好悪の感情なんて実にいい加減なものだ。",
+        "tip": "Bẫy \"どんな〜も／いつも／必ず\" thường là phương án sai vì khái quát quá mức."
+      }
+    },
+    {
+      "num": 65,
+      "passage": "p2",
+      "stem": "筆者の言いたいことは何か。",
+      "options": [
+        "謙虚な態度でつきあっていれば、相手から尊敬されるようになる。",
+        "相手から信頼されるには好き嫌いの感情を素直に表すことが必要だ。",
+        "初対面のときは相手に好き嫌いの感情を持たないほうがいい。",
+        "初対面のときの感情を大切にしなければ、相手といい関係を築けない。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều tác giả muốn nói là gì? → Khi gặp lần đầu thì không nên mang cảm xúc thích/ghét với đối phương.",
+        "why": "Tác giả khuyên: \"Khi gặp người lần đầu hãy bỏ cảm xúc thích ghét sang một bên\", nhìn thẳng thắn và lắng nghe → dần trở thành người được tin cậy.",
+        "options": [
+          "Bài nói mình khiêm tốn → mình tôn trọng đối phương (chứ không phải được đối phương tôn trọng). Sai.",
+          "Ngược lại – nên bỏ cảm xúc thích ghét. Sai.",
+          "Lần đầu gặp không nên mang cảm xúc thích ghét. ĐÚNG.",
+          "Ngược lại – tác giả cho rằng cảm xúc lần đầu rất tùy tiện. Sai."
+        ],
+        "vocab": [
+          { "w": "抜きにする", "r": "ぬきにする", "hv": "BẠT", "vi": "bỏ qua, gạt bỏ" },
+          { "w": "謙虚", "r": "けんきょ", "hv": "KHIÊM HƯ", "vi": "khiêm tốn" },
+          { "w": "尊重", "r": "そんちょう", "hv": "TÔN TRỌNG", "vi": "tôn trọng" },
+          { "w": "初対面", "r": "しょたいめん", "hv": "SƠ ĐỐI DIỆN", "vi": "gặp lần đầu" }
+        ],
+        "grammar": {
+          "pattern": "〜こと（文末）",
+          "meaning": "hãy ~ / phải ~ (chỉ thị, lời khuyên)",
+          "form": "V辞書形／Vない + こと",
+          "example": "廊下を走らないこと。"
+        },
+        "evidence": "初めての人に会ったときは好き嫌いの感情を抜きにすること。",
+        "tip": "Đuôi câu 〜こと ở cuối câu = lời khuyên/chỉ thị → thường là ý chính của tác giả."
+      }
+    },
+    {
+      "num": 66,
+      "passage": "p3",
+      "stem": "がっかりしたとあるが、なぜか。",
+      "options": [
+        "不思議だと思ったことの理由がわからなかったから",
+        "水性絵の具で思ったように色がぬれなかったから",
+        "鉛筆で絵が上手にかけなかったから",
+        "鉛筆の下書きが消せなかったから"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Có câu \"thất vọng\", tại sao? → Vì không xóa được nét phác thảo bằng bút chì.",
+        "why": "Sau khi tô màu nước, tác giả định tẩy nét chì phác thảo nhưng không xóa được → bức tranh không hoàn thành như ý → thất vọng.",
+        "options": [
+          "Không hiểu lý do là \"thấy lạ\" (不思議), không phải lý do thất vọng. Sai.",
+          "Không nói tô màu không như ý; vấn đề là nét chì. Sai.",
+          "Không nói vẽ bằng chì không đẹp. Sai.",
+          "Không xóa được nét chì phác thảo. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "下書き", "r": "したがき", "hv": "HẠ THƯ", "vi": "bản nháp, nét phác thảo" },
+          { "w": "水性絵の具", "r": "すいせいえのぐ", "hv": "THỦY TÍNH HỘI CỤ", "vi": "màu nước" },
+          { "w": "写生", "r": "しゃせい", "hv": "TẢ SINH", "vi": "vẽ ký họa, vẽ thực cảnh" },
+          { "w": "仕上げる", "r": "しあげる", "hv": "SĨ THƯỢNG", "vi": "hoàn thiện" }
+        ],
+        "grammar": null,
+        "evidence": "下書きを消しゴムで消そうとしたのに消えなかったときに思ったことだ。不思議だと思うと同時に、絵が思ったように仕上げられずがっかりした。",
+        "tip": "Câu hỏi về cảm xúc có gạch chân → đọc câu chứa nó và câu ngay trước."
+      }
+    },
+    {
+      "num": 67,
+      "passage": "p3",
+      "stem": "普通の鉛筆で書いた文字を消しゴムで消すとは、どうすることか。",
+      "options": [
+        "紙の表面にくっついた黒鉛を、紙から引き離す。",
+        "紙の表面にくっついた黒鉛を、細かくくだいて見えなくする。",
+        "紙の中にしみ込んだ黒鉛を、紙から引き離す。",
+        "紙の中にしみ込んだ黒鉛を、さらにしみ込ませて見えなくする。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Xóa chữ viết bằng bút chì thường bằng tẩy nghĩa là làm gì? → Tách than chì dính trên bề mặt giấy ra khỏi giấy.",
+        "why": "Chữ bút chì là than chì nghiền nhỏ bám trên bề mặt giấy; chà tẩy sẽ tách than chì ra khỏi giấy.",
+        "options": [
+          "Tách than chì bám trên bề mặt ra khỏi giấy. ĐÚNG.",
+          "Than chì đã được nghiền nhỏ sẵn (trạng thái chữ), tẩy không phải để nghiền cho mất. Sai.",
+          "Thấm vào trong giấy là trạng thái của bút chì màu (顔料), không phải than chì. Sai.",
+          "Sai cả trạng thái lẫn cơ chế. Sai."
+        ],
+        "vocab": [
+          { "w": "黒鉛", "r": "こくえん", "hv": "HẮC DUYÊN", "vi": "than chì (graphite)" },
+          { "w": "引き離す", "r": "ひきはなす", "hv": "DẪN LY", "vi": "kéo tách ra" },
+          { "w": "こする", "r": "こする", "hv": "", "vi": "chà, cọ" },
+          { "w": "くっつく", "r": "くっつく", "hv": "", "vi": "dính, bám vào" }
+        ],
+        "grammar": null,
+        "evidence": "したがって、表面にくっついているだけの黒鉛は、消しゴムでこすることで、紙から引き離すことができる。",
+        "tip": "前者 = bút chì (黒鉛, bám bề mặt); 後者 = bút chì màu (顔料, thấm vào giấy)."
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p3",
+      "stem": "水性絵の具で色をぬった後に、鉛筆の下書きが消せないのはなぜか。",
+      "options": [
+        "黒鉛が細かくくだかれていて取り除けないから",
+        "絵の具で黒鉛が紙の表面にくっついたから",
+        "水によって黒鉛が紙にしみ込んだから",
+        "黒鉛が油分と同じ働きをしていたから"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tại sao sau khi tô màu nước thì không xóa được nét chì phác thảo? → Vì nước đã làm than chì thấm vào giấy.",
+        "why": "Nước dùng để pha màu đóng vai trò như dầu trong ruột bút chì màu, và nước dễ thấm vào giấy → than chì theo nước thấm vào giấy, giống trạng thái bút chì màu → không tẩy được.",
+        "options": [
+          "Than chì nghiền nhỏ là trạng thái bình thường, vẫn tẩy được. Sai.",
+          "Bám trên bề mặt là trạng thái tẩy được. Sai.",
+          "Nước làm than chì thấm vào giấy. ĐÚNG.",
+          "Thứ đóng vai trò như dầu là NƯỚC, không phải than chì. Sai."
+        ],
+        "vocab": [
+          { "w": "しみ込む", "r": "しみこむ", "hv": "", "vi": "thấm vào" },
+          { "w": "溶かす", "r": "とかす", "hv": "DUNG", "vi": "hòa tan, pha" },
+          { "w": "役割を果たす", "r": "やくわりをはたす", "hv": "DỊCH CÁT QUẢ", "vi": "đóng vai trò" },
+          { "w": "油分", "r": "ゆぶん", "hv": "DU PHÂN", "vi": "thành phần dầu" }
+        ],
+        "grammar": {
+          "pattern": "〜せいだ",
+          "meaning": "tại ~, do ~ (nguyên nhân dẫn đến kết quả xấu)",
+          "form": "普通形／Nの + せいだ",
+          "example": "寝不足のせいで、頭が痛い。"
+        },
+        "evidence": "鉛筆の下書きが消せないのは、水性絵の具を溶かすのに使う水のせいだそうだ。この水が、色鉛筆の芯の油分と同じ役割を果たすという。水も油も紙にしみ込みやすいのだ。",
+        "tip": "Phương án 4 là bẫy đổi chủ thể: \"nước\" ↔ \"than chì\"."
+      }
+    }
+  ]
+}

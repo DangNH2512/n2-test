@@ -1,0 +1,191 @@
+{
+  "exam": "2012-12",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（1）から（5）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn ngắn (1)–(5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "論理的に書かれている文章を読んでいくときには、書かれた文章を自分が理解できたかどうかということにとどまらず、書かれている主張や根拠（注1）が本当に妥当だろうか、論理的に筋が通っている（注2）だろうか、別の考え方はないだろうかと考えて読むことが、とても大切です。<u>こうして読む</u>ことによって、書かれている内容についての理解を深め、見方を広げることができます。これは批判的読みとよばれるものです。\n（秋田喜代美『読む心・書く心―文章の心理学入門』による）\n（注1）根拠：ある考えのもとになるもの\n（注2）筋が通っている：矛盾がない"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、ある市役所のホームページに掲載されたお知らせである。\n\n2012年6月24日\n環境課\n\n市民水質調査デーのお知らせ\n\n安井市では、毎年、美安川の水質調査を行っております。\n今年は、身の回りの環境への理解を深めていただくため、市民の皆様にもご参加いただきたいと考えております。\n\n日時：2012年7月28日（土）9時集合、11時解散　※雨天中止\n集合場所：安井市市民センター前\n募集人数：20名\n\n当日は、市の調査員とともに美安川の数か所を回り、調査を行います。\n調査結果は、後日ホームページ上で公開いたします。ホームページには、調査にご参加くださった皆様の感想なども掲載させていただく予定です。\n参加申し込みは、7月1日より電話またはホームページ上で受け付けます。"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "以下は、ある会社の社内文書である。\n\n平成24年10月1日\n社員各位\n総務課長\n\n資料室からのお願い\n\n資料室が開設されて半年が経ち、多くの方に利用されるようになりました。しかし、利用者が増えるにつれ、昼食時には本来の目的以外で席を利用している、私語が多く迷惑になっているなどといった、様々な苦情が総務課に寄せられています。\n社員皆が気持ちよく利用できるようご協力をお願いします。"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "本来、異なる種類の光源（たとえば太陽光と蛍光灯）のもとでは、同じイチゴでも異なる色の見え方をするはずです。ところが、私たちはふだん生活している中で、つまり太陽の光のもとで見たとき、イチゴがどんな色をしているのかを知っています。そのため、光源の色や明るさが太陽の色とは変わっても、その変化した照明のもとで見るイチゴの色を、<u>すでに知っているイチゴの色</u>に近づけて知覚（注）してしまう、といったことが起こります。これを色の恒常性といいますが、意識することなく行われている、視覚のみごとな仕組みのひとつです。\n（近江源太郎監修『色の名前』による）\n（注）知覚する：感じ取る"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "他人にわかるように教えることは、実は大変むずかしい。自分がよくわかっていないと相手にわからせることはできないからだ。「何かを学ぶもっともよい方法は、それを教えてみることだ」。こういった人がいるが、まさに至言（注）だろう。とすれば、一見理解したようでいて実はまだあいまいさがのこっている――こんなときには、他人に教えようとすることにより、逆に、自分の知識の不完全さに気づかせ、よく自分で考えなおしてみることを動機づけることになるだろう。これは、知識を安定したものにするのに役立つ。\n（波多野誼余夫・稲垣佳世子『知的好奇心』による）\n（注）至言だろう：ここでは、その通りだろう"
+    }
+  ],
+  "questions": [
+    {
+      "num": 55,
+      "passage": "p1",
+      "stem": "<u>こうして読む</u>とは、どのように読むことか。",
+      "options": [
+        "別の主張や意見が述べられていないか探しながら読むこと。",
+        "内容の論理性や妥当性などを考えながら読むこと。",
+        "理解を深めたり、見方を広げるように読むこと。",
+        "理解が妥当かどうか確認しながら読むこと。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "'Đọc theo cách này' là đọc như thế nào? → Vừa đọc vừa suy xét tính logic, tính hợp lý của nội dung.",
+        "why": "こうして chỉ lại câu trước: đọc mà suy nghĩ xem chủ trương, căn cứ có thật sự hợp lý (妥当) không, có logic (筋が通っている) không, có cách nghĩ khác không → phương án 2.",
+        "options": [
+          "Đọc để tìm xem có chủ trương/ý kiến khác được nêu không → bài nói tự nghĩ xem 'có cách nghĩ khác không', không phải tìm trong văn bản. Sai.",
+          "Đọc vừa suy xét tính logic, tính hợp lý của nội dung. ĐÚNG.",
+          "Hiểu sâu, mở rộng góc nhìn là KẾT QUẢ của cách đọc này, không phải cách đọc. Sai.",
+          "Kiểm tra 'sự hiểu của mình' có đúng không → bài nói không chỉ dừng ở việc mình hiểu hay chưa (にとどまらず). Sai."
+        ],
+        "vocab": [
+          { "w": "妥当", "r": "だとう", "hv": "THỎA ĐÁNG", "vi": "hợp lý, thỏa đáng" },
+          { "w": "根拠", "r": "こんきょ", "hv": "CĂN CỨ", "vi": "căn cứ" },
+          { "w": "批判的", "r": "ひはんてき", "hv": "PHÊ PHÁN ĐÍCH", "vi": "có tính phê phán" },
+          { "w": "〜にとどまらず", "r": "にとどまらず", "hv": "", "vi": "không chỉ dừng lại ở ~" }
+        ],
+        "grammar": {
+          "pattern": "〜にとどまらず",
+          "meaning": "không chỉ dừng lại ở ~ mà còn",
+          "form": "N / V thể thường + にとどまらず",
+          "example": "被害は町内にとどまらず、県全体に広がった。"
+        },
+        "evidence": "書かれている主張や根拠が本当に妥当だろうか、論理的に筋が通っているだろうか、別の考え方はないだろうかと考えて読むことが、とても大切です。こうして読むことによって、書かれている内容についての理解を深め、見方を広げることができます。",
+        "tip": "Bẫy: phương án 3 lấy chữ từ câu chứa gạch chân nhưng là kết quả (〜ことによって〜できる), không phải cách đọc."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p2",
+      "stem": "このお知らせで最も伝えたいことは何か。",
+      "options": [
+        "水質調査方法を学び、周辺の川の汚染を調べてほしい。",
+        "水質調査を見学し、市役所の活動への理解を深めてほしい。",
+        "水質調査に参加し、身近な環境についてもっと知ってほしい。",
+        "水質調査結果について、ホームページで公開するので見てほしい。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều thông báo này muốn truyền đạt nhất là gì? → Muốn người dân tham gia khảo sát chất lượng nước và hiểu thêm về môi trường xung quanh.",
+        "why": "Mục đích nêu rõ: 身の回りの環境への理解を深めていただくため、市民の皆様にもご参加いただきたい → tham gia + hiểu môi trường gần gũi = phương án 3.",
+        "options": [
+          "Học phương pháp và tự điều tra ô nhiễm các con sông quanh vùng → bài chỉ nói cùng điều tra viên đi vài điểm trên sông Miyasu. Sai.",
+          "Chỉ 'tham quan' và hiểu hoạt động của tòa thị chính → bài mời 'tham gia', mục đích là hiểu môi trường. Sai.",
+          "Tham gia khảo sát, hiểu thêm môi trường gần gũi. ĐÚNG.",
+          "Công bố kết quả trên web là thông tin phụ, không phải ý chính. Sai."
+        ],
+        "vocab": [
+          { "w": "水質", "r": "すいしつ", "hv": "THỦY CHẤT", "vi": "chất lượng nước" },
+          { "w": "身の回り", "r": "みのまわり", "hv": "THÂN HỒI", "vi": "xung quanh mình" },
+          { "w": "解散", "r": "かいさん", "hv": "GIẢI TÁN", "vi": "giải tán" },
+          { "w": "雨天中止", "r": "うてんちゅうし", "hv": "VŨ THIÊN TRUNG CHỈ", "vi": "hủy nếu trời mưa" }
+        ],
+        "grammar": null,
+        "evidence": "今年は、身の回りの環境への理解を深めていただくため、市民の皆様にもご参加いただきたいと考えております。",
+        "tip": "Câu hỏi 'điều muốn truyền đạt nhất' → tìm câu có 〜ため、〜ていただきたい (mục đích + yêu cầu)."
+      }
+    },
+    {
+      "num": 57,
+      "passage": "p3",
+      "stem": "この文書を書いた、一番の目的は何か。",
+      "options": [
+        "資料室の適切な利用を求める。",
+        "資料室のいっそうの利用を求める。",
+        "資料室の利用時間の厳守を求める。",
+        "資料室の利用法について意見を求める。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Mục đích chính của văn bản này là gì? → Yêu cầu sử dụng phòng tư liệu một cách đúng đắn.",
+        "why": "Văn bản nêu các phàn nàn (dùng chỗ ngồi sai mục đích giờ ăn trưa, nói chuyện riêng ồn ào) rồi kêu gọi 社員皆が気持ちよく利用できるようご協力を → yêu cầu sử dụng đúng cách (適切な利用).",
+        "options": [
+          "Yêu cầu sử dụng phòng tư liệu đúng cách. ĐÚNG.",
+          "Kêu gọi sử dụng nhiều hơn → người dùng đã tăng, vấn đề là cách dùng. Sai.",
+          "Tuân thủ giờ sử dụng → không nhắc đến giờ giấc. Sai.",
+          "Xin ý kiến về cách sử dụng → văn bản không hỏi ý kiến. Sai."
+        ],
+        "vocab": [
+          { "w": "適切", "r": "てきせつ", "hv": "THÍCH THIẾT", "vi": "thích hợp, đúng đắn" },
+          { "w": "私語", "r": "しご", "hv": "TƯ NGỮ", "vi": "nói chuyện riêng" },
+          { "w": "苦情", "r": "くじょう", "hv": "KHỔ TÌNH", "vi": "lời phàn nàn" },
+          { "w": "厳守", "r": "げんしゅ", "hv": "NGHIÊM THỦ", "vi": "tuân thủ nghiêm" }
+        ],
+        "grammar": null,
+        "evidence": "昼食時には本来の目的以外で席を利用している、私語が多く迷惑になっているなどといった、様々な苦情が総務課に寄せられています。社員皆が気持ちよく利用できるようご協力をお願いします。",
+        "tip": "Thư nội bộ: câu cuối 'ご協力をお願いします' + nội dung phàn nàn phía trước = mục đích."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p4",
+      "stem": "<u>すでに知っているイチゴの色</u>とあるが、ここではどのような色か。",
+      "options": ["異なる照明のもとで見た色", "太陽や蛍光灯のもとで見た色", "蛍光灯のもとで見た色", "太陽のもとで見た色"],
+      "answer": 4,
+      "explanation": {
+        "translation": "'Màu dâu tây mà ta đã biết sẵn' ở đây là màu như thế nào? → Màu nhìn thấy dưới ánh mặt trời.",
+        "why": "Bài viết: trong cuộc sống thường ngày, tức là khi nhìn dưới ánh mặt trời, ta biết dâu tây có màu gì → màu 'đã biết' là màu dưới ánh mặt trời.",
+        "options": [
+          "Màu dưới ánh sáng khác → đó là màu bị não 'kéo' về màu đã biết, không phải màu đã biết. Sai.",
+          "Dưới mặt trời HOẶC đèn huỳnh quang → bài chỉ nói ánh mặt trời. Sai.",
+          "Dưới đèn huỳnh quang → là ví dụ nguồn sáng khác. Sai.",
+          "Màu nhìn dưới ánh mặt trời. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "光源", "r": "こうげん", "hv": "QUANG NGUYÊN", "vi": "nguồn sáng" },
+          { "w": "蛍光灯", "r": "けいこうとう", "hv": "HUỲNH QUANG ĐĂNG", "vi": "đèn huỳnh quang" },
+          { "w": "照明", "r": "しょうめい", "hv": "CHIẾU MINH", "vi": "chiếu sáng, đèn" },
+          { "w": "恒常性", "r": "こうじょうせい", "hv": "HẰNG THƯỜNG TÍNH", "vi": "tính ổn định, bất biến" }
+        ],
+        "grammar": null,
+        "evidence": "私たちはふだん生活している中で、つまり太陽の光のもとで見たとき、イチゴがどんな色をしているのかを知っています。",
+        "tip": "つまり = nói cách khác → phần sau つまり thường là đáp án được diễn đạt lại."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p5",
+      "stem": "この文章で筆者の言いたいことは何か。",
+      "options": [
+        "他人におしえてもらうことで、学ぶ動機が高まる",
+        "他人におしえてもらうことは、効果的な学びにつながる",
+        "他人におしえることで、おしえるむずかしさを学ぶ",
+        "他人におしえることは、自分自身の学びにつながる"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Điều tác giả muốn nói là gì? → Dạy người khác giúp chính bản thân mình học được.",
+        "why": "Tác giả đồng tình 'cách tốt nhất để học là thử dạy điều đó', vì khi dạy ta nhận ra chỗ hiểu chưa trọn, phải suy nghĩ lại → kiến thức vững hơn. Tức dạy người khác = học cho bản thân.",
+        "options": [
+          "'Được người khác dạy' → ngược chủ thể (bài nói về việc mình dạy). Sai.",
+          "'Được người khác dạy' → ngược chủ thể. Sai.",
+          "Học được cái khó của việc dạy → bài nói cái khó chỉ là tiền đề, ý chính là ích lợi cho việc học. Sai.",
+          "Dạy người khác dẫn đến việc học của chính mình. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "至言", "r": "しげん", "hv": "CHÍ NGÔN", "vi": "lời chí lý" },
+          { "w": "動機づける", "r": "どうきづける", "hv": "ĐỘNG CƠ", "vi": "tạo động lực" },
+          { "w": "不完全", "r": "ふかんぜん", "hv": "BẤT HOÀN TOÀN", "vi": "không hoàn chỉnh" },
+          { "w": "一見", "r": "いっけん", "hv": "NHẤT KIẾN", "vi": "thoạt nhìn" }
+        ],
+        "grammar": null,
+        "evidence": "「何かを学ぶもっともよい方法は、それを教えてみることだ」。こういった人がいるが、まさに至言だろう。",
+        "tip": "Bẫy chủ thể: おしえる (mình dạy) ≠ おしえてもらう (được dạy). Đọc kỹ động từ."
+      }
+    }
+  ]
+}

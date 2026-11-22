@@ -1,0 +1,134 @@
+{
+  "exam": "2015-07",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "森さんはこの辺りに店を<u>所有して</u>いるらしい。",
+      "options": ["探して", "借りて", "持って", "建てて"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nghe nói anh Mori sở hữu một cửa hàng ở quanh đây.",
+        "why": "所有する (しょゆうする) = sở hữu = 持っている (có, sở hữu).",
+        "options": [
+          "探して → đang tìm kiếm. Sai.",
+          "借りて → đang thuê, mượn (không phải của mình). Sai.",
+          "持って → có, sở hữu. ĐÚNG.",
+          "建てて → xây dựng. Sai."
+        ],
+        "vocab": [
+          { "w": "所有", "r": "しょゆう", "hv": "SỞ HỮU", "vi": "sở hữu" },
+          { "w": "辺り", "r": "あたり", "hv": "BIÊN", "vi": "vùng lân cận, quanh" },
+          { "w": "所有者", "r": "しょゆうしゃ", "hv": "SỞ HỮU GIẢ", "vi": "chủ sở hữu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "佐藤さんは<u>おそらく</u>来ないと思う。",
+      "options": ["たぶん", "当然", "やはり", "絶対"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi nghĩ có lẽ anh Sato sẽ không đến.",
+        "why": "おそらく (恐らく) = có lẽ, e rằng, diễn tả suy đoán với mức chắc chắn khá cao = たぶん.",
+        "options": [
+          "たぶん → có lẽ. ĐÚNG.",
+          "当然 → đương nhiên (chắc chắn). Sai.",
+          "やはり → quả nhiên, rốt cuộc vẫn. Sai.",
+          "絶対 → tuyệt đối, nhất định. Sai."
+        ],
+        "vocab": [
+          { "w": "恐らく", "r": "おそらく", "hv": "KHỦNG", "vi": "có lẽ, e là" },
+          { "w": "当然", "r": "とうぜん", "hv": "ĐƯƠNG NHIÊN", "vi": "đương nhiên" },
+          { "w": "絶対", "r": "ぜったい", "hv": "TUYỆT ĐỐI", "vi": "tuyệt đối, nhất định" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "おそらく thường đi với ～だろう / ～と思う, giống たぶん nhưng trang trọng hơn."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "まだ<u>収納して</u>いない物がたくさんある。",
+      "options": ["集めて", "預けて", "返して", "しまって"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vẫn còn nhiều đồ chưa cất vào chỗ.",
+        "why": "収納する (しゅうのうする) = cất giữ, cất vào tủ/kho = しまう (cất đi).",
+        "options": [
+          "集めて → thu thập. Sai.",
+          "預けて → gửi (nhờ giữ hộ). Sai.",
+          "返して → trả lại. Sai.",
+          "しまって → cất đi. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "収納", "r": "しゅうのう", "hv": "THU NẠP", "vi": "cất giữ, cất vào chỗ" },
+          { "w": "しまう", "r": "しまう", "hv": "", "vi": "cất, dọn vào" },
+          { "w": "預ける", "r": "あずける", "hv": "DỰ", "vi": "gửi, giao cho giữ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "収納スペース = chỗ để đồ; 片付ける cũng gần nghĩa (dọn dẹp)."
+      }
+    },
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "妹は母に似て<u>小柄</u>だ。",
+      "options": ["声が小さい", "力が弱い", "体が小さい", "心が弱い"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Em gái tôi giống mẹ, dáng người nhỏ nhắn.",
+        "why": "小柄 (こがら) = vóc người nhỏ nhắn = 体が小さい. Trái nghĩa: 大柄 (おおがら).",
+        "options": [
+          "声が小さい → giọng nhỏ. Sai.",
+          "力が弱い → sức yếu. Sai.",
+          "体が小さい → người nhỏ nhắn. ĐÚNG.",
+          "心が弱い → yếu đuối về tinh thần. Sai."
+        ],
+        "vocab": [
+          { "w": "小柄", "r": "こがら", "hv": "TIỂU BÍNH", "vi": "nhỏ người, nhỏ nhắn" },
+          { "w": "大柄", "r": "おおがら", "hv": "ĐẠI BÍNH", "vi": "to người; (hoa văn) to" },
+          { "w": "似る", "r": "にる", "hv": "TỰ", "vi": "giống" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "柄 còn nghĩa hoa văn (花柄) và tính cách (人柄 ひとがら)."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "鈴木さんは<u>無口</u>だ。",
+      "options": ["あまり笑わない", "あまり話さない", "あまり怒らない", "あまり食べない"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh Suzuki ít nói.",
+        "why": "無口 (むくち) = ít nói, kiệm lời = あまり話さない.",
+        "options": [
+          "あまり笑わない → ít cười. Sai.",
+          "あまり話さない → ít nói. ĐÚNG.",
+          "あまり怒らない → ít nổi giận. Sai.",
+          "あまり食べない → ăn ít. Sai."
+        ],
+        "vocab": [
+          { "w": "無口", "r": "むくち", "hv": "VÔ KHẨU", "vi": "ít nói, kiệm lời" },
+          { "w": "口数", "r": "くちかず", "hv": "KHẨU SỐ", "vi": "số lời nói (口数が少ない: ít nói)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "無口 ≈ 口数が少ない ≈ 寡黙 (かもく). Trái nghĩa: おしゃべり."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+.venv/
+.cache/
+data/n2.db*
+node_modules/
+
+# Original exam PDFs + extracted text: kept locally, not published (copyright)
+data/source/
+
+# Personal vocab list written by scripts/import-vocab.js
+data/vocab_list.json
+
+# OS / editor / runtime junk
+.DS_Store
+*.log
+__pycache__/
+*.pyc
+.env
+.env.*

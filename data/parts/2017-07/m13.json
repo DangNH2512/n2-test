@@ -1,0 +1,109 @@
+{
+  "exam": "2017-07",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn sau và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "人生はいつも旅になぞらえられる（注1）。\n人は人生という旅路を、地図もなく歩いている。誰しも（注2）そうだし、それが人間としては自然な姿である。人生に地図などあるわけがない。なのに人は、人生の地図をもとうとするのが常だ。暗闇の中を歩くのが不安で仕様がないのだ。迷ってしまった時の恐怖を想像したくないからだ。\nそして自分の地図には、人生の設計図としてわがままな道程（注3）が記されている。三十歳までには結婚し、三十五歳頃には二人の子どもをもつ。四十歳には課長になり、五十歳までには何とか部長に昇進（注4）する。\n（中略）\n人生の地図に描かれた道を、その通りに歩むことができるなら、そんなに楽なことはない。一度も脇道にそれずに、ただまっすぐに歩くことができるのなら、人は何も悩まなくても済むだろう。そんな人生を送る人間は、おそらくこの世に一人もいない。もしそういう人間がいるのだとしたら、それはその人間の人生ではない。<u>その人生</u>は他人から与えられたものに過ぎない。\n五十歳の時には部長になっている。これは今という現在地から見た目標であろう。目標をもつことはもちろん大切なことだ。しかし、その目標へたどり着く道は決して一本ではない。五十歳という現在地に立った時、もし部長になっていなければどうするのか。一枚の地図しか持っていない人、あるいは決して地図を書き変えようとしない人は、そこで人生の現在地を見失って（注5）しまうだろう。「今、自分はこの場所にいるはずなのに、全く違う所に来てしまった」と、そんな思いにとらわれ（注6）てしまい、行くべき道も見失ってしまうのである。\n地図をもたない人生が不安であるならば、地図をもてばいいだけのことだ。しかし、その一枚の地図にこだわってはならない。常に現在地を確認しながら、どんどん地図を書き変えていくことだ。\n少し脇道に入ってしまったのなら、その脇道を歩いてみればいい。無理をして元の道に戻ろうとしても、余計に迷うだけだ。脇道を歩いているうちに、いつの間にか元の道に戻ることもあるだろうし、また別の大通りに出会うこともあるだろう。人生には数え切れないほどの道があることを知っておいたほうがいい。今いる場所さえしっかりと認識（注7）できていれば、人はどんな道だって歩いていくことができるものだ。\n（立松平和『人生の現在地――まだまだ迷っているぞ、私は。』による）\n（注1）なぞらえられる：たとえられる　（注2）誰しも：誰でも　（注3）道程：ここでは、道　（注4）昇進する：出世する　（注5）～を見失う：～がわからなくなる　（注6）とらわれる：縛られる　（注7）認識できる：わかる"
+    }
+  ],
+  "questions": [
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "筆者によると、なぜ人は人生の地図をもとうとするのか。",
+      "options": [
+        "人間として自然な姿だから",
+        "希望通りの人生を送りたいから",
+        "行くべき道がわからないと不安だから",
+        "早く目標に到達しないと不安になるから"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Theo tác giả, vì sao con người cố có một tấm bản đồ cuộc đời? → Vì không biết con đường mình nên đi thì bất an.",
+        "why": "Ngay sau câu 'người ta luôn muốn có bản đồ cuộc đời', tác giả giải thích: đi trong bóng tối thì bất an không chịu nổi, không muốn tưởng tượng nỗi sợ khi bị lạc → không biết đường đi nên bất an.",
+        "options": [
+          "Cái 'tự nhiên' là đi KHÔNG có bản đồ, không phải việc có bản đồ. Sai.",
+          "Kế hoạch theo ý mình là nội dung bản đồ, không phải lý do muốn có bản đồ. Sai.",
+          "Không biết đường đi thì bất an. ĐÚNG.",
+          "Bài không nói bất an vì không đạt mục tiêu nhanh. Sai."
+        ],
+        "vocab": [
+          { "w": "旅路", "r": "たびじ", "hv": "LỮ LỘ", "vi": "chặng đường, hành trình" },
+          { "w": "暗闇", "r": "くらやみ", "hv": "ÁM", "vi": "bóng tối" },
+          { "w": "仕様がない", "r": "しようがない", "hv": "SĨ DẠNG", "vi": "không chịu nổi; hết cách" },
+          { "w": "恐怖", "r": "きょうふ", "hv": "KHỦNG BỐ", "vi": "nỗi sợ hãi" }
+        ],
+        "grammar": { "pattern": "～て仕様がない", "meaning": "~ không chịu nổi, vô cùng", "form": "Vて／Aくて／Naで + 仕様がない", "example": "眠くて仕様がない。(Buồn ngủ không chịu nổi.)" },
+        "evidence": "なのに人は、人生の地図をもとうとするのが常だ。暗闇の中を歩くのが不安で仕様がないのだ。迷ってしまった時の恐怖を想像したくないからだ。",
+        "tip": "Đáp án 1 là bẫy: 自然な姿 dùng để nói việc đi không có bản đồ."
+      }
+    },
+    {
+      "num": 72,
+      "passage": "p1",
+      "stem": "<u>その人生</u>とは、どのような人生か。",
+      "options": [
+        "地図に頼らずにまっすぐに歩む人生",
+        "地図通りの道を歩む人生",
+        "他人と同じような道を歩む人生",
+        "道に迷いながら歩んでいく人生"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "\"Cuộc đời đó\" là cuộc đời như thế nào? → Cuộc đời đi đúng con đường như trên bản đồ.",
+        "why": "その人生 chỉ 'cuộc đời của người đi đúng con đường vẽ trên bản đồ, không một lần rẽ vào đường nhánh, cứ thế đi thẳng' được nói ngay trước đó.",
+        "options": [
+          "Ngược lại: đây là đi theo bản đồ (地図に描かれた道を、その通りに). Sai.",
+          "Đi đúng con đường trên bản đồ. ĐÚNG.",
+          "Bài không nói 'giống người khác'; chỉ nói cuộc đời đó là thứ người khác trao cho. Sai.",
+          "Lạc đường là cuộc đời bình thường của con người, trái với その人生. Sai."
+        ],
+        "vocab": [
+          { "w": "脇道", "r": "わきみち", "hv": "HIẾP ĐẠO", "vi": "đường nhánh, ngõ rẽ" },
+          { "w": "それる", "r": "それる", "hv": "", "vi": "lệch hướng, rẽ" },
+          { "w": "歩む", "r": "あゆむ", "hv": "BỘ", "vi": "bước đi" },
+          { "w": "過ぎない", "r": "すぎない", "hv": "QUÁ", "vi": "chỉ là, chẳng qua là" }
+        ],
+        "grammar": { "pattern": "～に過ぎない", "meaning": "chẳng qua chỉ là ~", "form": "普通形／N + に過ぎない", "example": "それは噂に過ぎない。" },
+        "evidence": "人生の地図に描かれた道を、その通りに歩むことができるなら…一度も脇道にそれずに、ただまっすぐに歩くことができるのなら…もしそういう人間がいるのだとしたら、それはその人間の人生ではない。その人生は他人から与えられたものに過ぎない。",
+        "tip": "Đáp án 1 có 'đi thẳng' nhưng thêm 地図に頼らずに → sai."
+      }
+    },
+    {
+      "num": 73,
+      "passage": "p1",
+      "stem": "この文章で筆者が最も言いたいことは何か。",
+      "options": [
+        "たくさんの地図を用意しておけば、人生で道に迷う心配がない。",
+        "人生は現在地さえわかっていれば、新たな道を進むことができる。",
+        "人生は行き先を決めれば、道に迷わずに自身の力で歩んでいける。",
+        "人生の可能性を広げるには、地図にない道を進むべきだ。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều tác giả muốn nói nhất trong bài là gì? → Trong cuộc đời, chỉ cần biết mình đang ở đâu thì có thể bước tiếp trên con đường mới.",
+        "why": "Câu kết: chỉ cần nhận thức rõ chỗ mình đang đứng thì con người có thể đi bất cứ con đường nào. Tác giả khuyên luôn xác nhận vị trí hiện tại và vẽ lại bản đồ.",
+        "options": [
+          "Tác giả không nói chuẩn bị nhiều bản đồ; mà là liên tục vẽ lại bản đồ. Sai.",
+          "Chỉ cần biết vị trí hiện tại là đi được đường mới. ĐÚNG.",
+          "Tác giả nói đường tới mục tiêu không chỉ có một, ai cũng lạc. Sai.",
+          "Không khuyên cố ý đi đường ngoài bản đồ; chỉ nói nếu lỡ vào đường nhánh thì cứ đi thử. Sai."
+        ],
+        "vocab": [
+          { "w": "現在地", "r": "げんざいち", "hv": "HIỆN TẠI ĐỊA", "vi": "vị trí hiện tại" },
+          { "w": "認識", "r": "にんしき", "hv": "NHẬN THỨC", "vi": "nhận thức" },
+          { "w": "見失う", "r": "みうしなう", "hv": "KIẾN THẤT", "vi": "đánh mất, không thấy" },
+          { "w": "こだわる", "r": "こだわる", "hv": "", "vi": "câu nệ, khăng khăng" }
+        ],
+        "grammar": { "pattern": "～さえ～ば", "meaning": "chỉ cần ~ là đủ", "form": "N + さえ + Vば", "example": "時間さえあれば、行きます。" },
+        "evidence": "常に現在地を確認しながら、どんどん地図を書き変えていくことだ。…今いる場所さえしっかりと認識できていれば、人はどんな道だって歩いていくことができるものだ。",
+        "tip": "Ý chính thường nằm ở câu cuối bài."
+      }
+    }
+  ]
+}

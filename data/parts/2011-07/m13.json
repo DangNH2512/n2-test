@@ -1,0 +1,109 @@
+{
+  "exam": "2011-07",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn sau và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "私は食べ物については好き嫌いが多いが、研究テーマや人間関係についてはあまり好き嫌いがない。ところが、いろいろな人と話をしていると、意外に好き嫌いがあるという人が多い。この研究は嫌いとか、この人は好きじゃないとかよく耳にする。しかし、どんな研究にも視点を変えれば学ぶところは必ずあるし、人間も同様に、悪い面もあればいい面もある。やって損をするという研究は非常にまれであるし、つきあって損をするという人間も非常に少ない。\n科学者や技術者であるなら、発見につながるあらゆる可能性にアンテナを伸ばすべきで、そのためには、<u>好き嫌いがあってはいけない</u>ように思う。研究の幅や、発見につながる可能性を大きく狭めて（注1）しまう。\nところで、そもそも（注2）好き嫌いとは何だろうか？\n自分の研究分野は、理系であることには間違いない。しかし自分でも、理由があって理系の道を選んだとは思えない。単なる偶然の積み重なりの結果なのだ。\n「自分の好みや得手不得手（注3）で選んだ」とあとから言うのは、その偶然の選択に何らかの理由を与えないと、あとで悔やむことになるからだと思う。たとえば、理系の道を選んで思ったような成果を上げられなかったとき、「なぜ文系の道を選ばなかったのか」と思うような後悔である。遠い過去にさかのぼっていちいち後悔していては、その時点の目の前の問題に力を注げず、前向きに生きていくことはできない。\nそう考えると、好き嫌いや感情というものは、偶然の積み重なりで進んでいく人生を自分なりに納得するためにあるようなものと言えるのではないか。好き嫌いや感情は、無意識のうちに、自分を守るために、自分を納得させるために、都合よく持つものなのだろう。\n感情や好き嫌いは元来（注4）人間に備わっているものであるというのは間違いないが、人間は、十分な理由がないまま行った自らの行動を、納得し、正当化する（注5）ためにも、感情や好き嫌いを用いる。人間は、他の動物にはない、そんな感情や好き嫌いの利用方法を身につけているのかもしれない。\n（石黒浩『ロボットとは何か―人の心を映す鏡』による）\n（注1）狭める：狭くする\n（注2）そもそも：もともと\n（注3）得手不得手：得意不得意\n（注4）元来：初めから\n（注5）正当化する：ここでは、間違っていなかったと思う"
+    }
+  ],
+  "questions": [
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "<u>好き嫌いがあってはいけない</u>と筆者が考えているのはなぜか。",
+      "options": [
+        "どんな研究であっても、役に立つ新しい発見につなげられるから",
+        "どんなことでも、自分の研究に役立つものがあるかもしれないから",
+        "好き嫌いで判断することによって、悪い面に気づきにくくなるから",
+        "嫌いなことには、自分が気づかない重要なことが隠されているから"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Vì sao tác giả nghĩ 'không được có thích hay ghét'? → Vì bất kỳ nghiên cứu nào cũng có thể dẫn tới phát hiện mới hữu ích.",
+        "why": "Tác giả nói: nghiên cứu nào, nếu đổi góc nhìn, cũng chắc chắn có chỗ để học; nghiên cứu làm mà bị lỗ thì cực hiếm. Nhà khoa học phải đón nhận mọi khả năng dẫn tới phát hiện; nếu thích/ghét chọn lọc nghiên cứu thì sẽ thu hẹp khả năng phát hiện → vì nghiên cứu nào cũng có thể nối tới phát hiện có ích.",
+        "options": [
+          "Nghiên cứu nào cũng có thể nối tới phát hiện mới có ích (= 学ぶところは必ずある, 発見につながる可能性). ĐÚNG.",
+          "'Bất cứ việc gì cũng có thể có ích cho nghiên cứu của mình' – bài nói về giá trị của mỗi đề tài nghiên cứu (どんな研究にも), không nói mọi thứ đều phục vụ nghiên cứu riêng của tác giả. Sai.",
+          "Khó nhận ra mặt xấu – bài nói ngược: chỗ nào cũng có mặt tốt cần thấy. Sai.",
+          "Điều mình ghét có ẩn chứa điều quan trọng – bài không nói riêng về điều mình ghét. Sai."
+        ],
+        "vocab": [
+          { "w": "好き嫌い", "r": "すききらい", "hv": "HẢO HIỀM", "vi": "thích và ghét, kén chọn" },
+          { "w": "視点", "r": "してん", "hv": "THỊ ĐIỂM", "vi": "góc nhìn" },
+          { "w": "狭める", "r": "せばめる", "hv": "HIỆP", "vi": "thu hẹp" },
+          { "w": "まれ", "r": "まれ", "hv": "HY", "vi": "hiếm" }
+        ],
+        "grammar": null,
+        "evidence": "どんな研究にも視点を変えれば学ぶところは必ずある…やって損をするという研究は非常にまれである…科学者や技術者であるなら、発見につながるあらゆる可能性にアンテナを伸ばすべきで、そのためには、好き嫌いがあってはいけないように思う。研究の幅や、発見につながる可能性を大きく狭めてしまう。",
+        "tip": "Chủ thể của lập luận là 研究 (đề tài nghiên cứu): どんな研究にも → khớp với どんな研究であっても ở phương án 1."
+      }
+    },
+    {
+      "num": 72,
+      "passage": "p1",
+      "stem": "筆者は、どうして理系に進んだのか。",
+      "options": [
+        "文系が得意ではなかったから",
+        "自分の気持ちに従ったから",
+        "特に嫌いではなかったから",
+        "たまたまそうなったから"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vì sao tác giả theo ngành khoa học tự nhiên? → Vì tình cờ mà thành như vậy.",
+        "why": "Tác giả nói không nghĩ mình chọn ngành tự nhiên vì có lý do; 'chỉ là kết quả của sự tích lũy các tình cờ'.",
+        "options": [
+          "Không giỏi khối xã hội – tác giả nói đây là kiểu lý do người ta gán sau. Sai.",
+          "Làm theo cảm xúc của mình – không đúng. Sai.",
+          "Không đặc biệt ghét – không được nhắc. Sai.",
+          "Tình cờ mà thành như vậy. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "理系", "r": "りけい", "hv": "LÝ HỆ", "vi": "khối khoa học tự nhiên" },
+          { "w": "文系", "r": "ぶんけい", "hv": "VĂN HỆ", "vi": "khối khoa học xã hội" },
+          { "w": "偶然", "r": "ぐうぜん", "hv": "NGẪU NHIÊN", "vi": "tình cờ" },
+          { "w": "たまたま", "r": "たまたま", "hv": "", "vi": "tình cờ, ngẫu nhiên" }
+        ],
+        "grammar": null,
+        "evidence": "しかし自分でも、理由があって理系の道を選んだとは思えない。単なる偶然の積み重なりの結果なのだ。",
+        "tip": "偶然 ≈ たまたま."
+      }
+    },
+    {
+      "num": 73,
+      "passage": "p1",
+      "stem": "筆者は、好き嫌いとは人間にとってどのようなものだと考えているか。",
+      "options": [
+        "自分がこれからとる行動を決める時のきっかけになるもの",
+        "自分が前向きに生きていくために意識的に利用しているもの",
+        "自分の研究や仕事がうまくいくように普段は抑えているもの",
+        "自分の行動や選択が間違っていなかったと思うために用いるもの"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả cho rằng thích/ghét đối với con người là gì? → Là thứ dùng để nghĩ rằng hành động, lựa chọn của mình không sai.",
+        "why": "Đoạn cuối: con người dùng cảm xúc, thích ghét để chấp nhận và 'chính đáng hóa' (正当化 = nghĩ là không sai) hành động mình đã làm mà không có đủ lý do.",
+        "options": [
+          "Là cơ sở để quyết định hành động sắp tới – sai, thích ghét được gán SAU khi đã hành động. Sai.",
+          "Sử dụng một cách có ý thức – bài nói 'vô thức' (無意識のうちに). Sai.",
+          "Thường ngày kìm nén để công việc suôn sẻ – không phải ý của đoạn này. Sai.",
+          "Dùng để nghĩ rằng hành động, lựa chọn của mình không sai. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "正当化", "r": "せいとうか", "hv": "CHÍNH ĐÁNG HÓA", "vi": "biện minh, chính đáng hóa" },
+          { "w": "納得", "r": "なっとく", "hv": "NẠP ĐẮC", "vi": "chấp nhận, thấy hợp lý" },
+          { "w": "元来", "r": "がんらい", "hv": "NGUYÊN LAI", "vi": "vốn dĩ" },
+          { "w": "悔やむ", "r": "くやむ", "hv": "HỐI", "vi": "hối tiếc" }
+        ],
+        "grammar": null,
+        "evidence": "人間は、十分な理由がないまま行った自らの行動を、納得し、正当化するためにも、感情や好き嫌いを用いる。",
+        "tip": "Chú thích (注5) 正当化する：間違っていなかったと思う → gần như trùng khớp với đáp án 4."
+      }
+    }
+  ]
+}

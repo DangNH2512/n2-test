@@ -1,0 +1,141 @@
+{
+  "exam": "2017-07",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、（50）から（54）の中に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án thích hợp nhất cho các chỗ trống (50)–(54).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "高齢化社会におけるスポーツ",
+      "text": "高齢化社会におけるスポーツ\n105歳の日本人男性が、陸上競技の100メートルで世界記録を出した。2015年に行われたある陸上の世界大会でのことだ。\n「マスターズ」と呼ばれる（50）。日本ではまだあまり知られていないが、スポーツをいくつになっても楽しむことを目的とした大会で、陸上、水泳、テニスなど様々な競技の大会が世界中で開催されている。陸上の大会では通常5歳ごとに分けられたクラスで同年代と競う。そのため、体力が落ちて若いころのように走れなくても対等に競うことができる。つまり、105歳の男性が出した世界記録は、彼が参加したクラスにおける世界記録（51）。\nある調査によると、マスターズに参加している高齢者は心と体の健康を維持しているという。運動は心に活気を生み、記録という目標は生活の中で感じる不安やストレスを少なくするそうだ。\n心も体も元気な高齢者の多い社会は、高齢化社会の一つの理想である。マスターズに参加する高齢者が増えれば、この理想に近づくことができる。（52）、マスターズの存在が影響を与えるのは、参加者にとどまらない。参加者以外の高齢者も、同年代が記録を目指す姿を目にすることで、体を動かすきっかけや心の活力が得られるに違いない。（53）、マスターズが広く知られる必要がある。\nテレビなどで目にする機会が増えるといい。いつまでも心身ともに元気でいられる（54）。その社会の実現に向けて、マスターズの今後の発展が期待される。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["大会はある", "大会がある", "大会はあるのか", "大会があるのか"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Có một giải đấu được gọi là \"Masters\".",
+        "why": "Câu giới thiệu một thông tin mới lần đầu xuất hiện → dùng が (「マスターズ」と呼ばれる大会がある). Câu sau tiếp tục giải thích về giải đấu này nên phải là câu khẳng định, không phải câu hỏi.",
+        "options": [
+          "大会はある → は dùng cho chủ đề đã biết/đối chiếu; ở đây là giới thiệu lần đầu. Sai.",
+          "大会がある → giới thiệu sự tồn tại một giải đấu mới. ĐÚNG.",
+          "大会はあるのか → câu hỏi, không hợp với mạch giới thiệu. Sai.",
+          "大会があるのか → câu hỏi/ngạc nhiên, không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "陸上競技", "r": "りくじょうきょうぎ", "hv": "LỤC THƯỢNG CẠNH KỸ", "vi": "điền kinh" },
+          { "w": "世界記録", "r": "せかいきろく", "hv": "THẾ GIỚI KÝ LỤC", "vi": "kỷ lục thế giới" },
+          { "w": "大会", "r": "たいかい", "hv": "ĐẠI HỘI", "vi": "giải đấu, đại hội" }
+        ],
+        "grammar": { "pattern": "～がある（新情報）", "meaning": "giới thiệu sự tồn tại của thông tin mới bằng が", "form": "N + がある", "example": "駅の近くに新しい店がある。" },
+        "evidence": "「マスターズ」と呼ばれる（50）。日本ではまだあまり知られていないが、スポーツをいくつになっても楽しむことを目的とした大会で…",
+        "tip": "Thông tin mới → が; thông tin đã biết → は."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["というわけだ", "と言えないこともない", "というだけではない", "と言ってもいいぐらいだ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tóm lại, kỷ lục thế giới mà người đàn ông 105 tuổi lập ra chính là kỷ lục thế giới ở hạng mục (nhóm tuổi) mà ông tham gia.",
+        "why": "Trước đó có つまり (tóm lại) + giải thích việc chia hạng 5 tuổi một → kết luận hợp lý: というわけだ (nghĩa là, thế nên là).",
+        "options": [
+          "というわけだ → nghĩa là (kết luận từ lý do trên). ĐÚNG.",
+          "と言えないこともない → cũng không phải không thể nói (khẳng định yếu, mơ hồ). Sai.",
+          "というだけではない → không chỉ là (thêm ý), không hợp つまり. Sai.",
+          "と言ってもいいぐらいだ → có thể nói là (phóng đại), không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "対等", "r": "たいとう", "hv": "ĐỐI ĐẲNG", "vi": "ngang hàng" },
+          { "w": "競う", "r": "きそう", "hv": "CẠNH", "vi": "thi đấu, cạnh tranh" },
+          { "w": "同年代", "r": "どうねんだい", "hv": "ĐỒNG NIÊN ĐẠI", "vi": "cùng độ tuổi" }
+        ],
+        "grammar": { "pattern": "つまり～というわけだ", "meaning": "tóm lại là, nghĩa là ~", "form": "普通形 + というわけだ", "example": "彼は3年日本にいた。つまり日本語が話せるというわけだ。" },
+        "evidence": "陸上の大会では通常5歳ごとに分けられたクラスで同年代と競う。…つまり、105歳の男性が出した世界記録は、彼が参加したクラスにおける世界記録（51）。",
+        "tip": "つまり thường đi với というわけだ / ということだ."
+      }
+    },
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "（52）に入るもの",
+      "options": ["とすると", "とはいえ", "さらに", "このように"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hơn nữa, ảnh hưởng của sự tồn tại giải Masters không chỉ dừng lại ở những người tham gia.",
+        "why": "Câu trước: người tham gia tăng → xã hội đến gần lý tưởng. Câu sau bổ sung thêm một lợi ích nữa (ảnh hưởng cả người không tham gia) → さらに (hơn nữa).",
+        "options": [
+          "とすると → nếu vậy thì (giả định/suy luận). Sai.",
+          "とはいえ → tuy nói vậy nhưng (đối lập). Sai.",
+          "さらに → hơn nữa (bổ sung ý). ĐÚNG.",
+          "このように → như vậy (tổng kết), nhưng câu sau là ý mới. Sai."
+        ],
+        "vocab": [
+          { "w": "理想", "r": "りそう", "hv": "LÝ TƯỞNG", "vi": "lý tưởng" },
+          { "w": "存在", "r": "そんざい", "hv": "TỒN TẠI", "vi": "sự tồn tại" },
+          { "w": "とどまる", "r": "とどまる", "hv": "", "vi": "dừng lại, giới hạn ở" }
+        ],
+        "grammar": { "pattern": "～にとどまらない", "meaning": "không chỉ dừng lại ở ~", "form": "N + にとどまらない", "example": "被害は日本国内にとどまらない。" },
+        "evidence": "マスターズに参加する高齢者が増えれば、この理想に近づくことができる。（52）、マスターズの存在が影響を与えるのは、参加者にとどまらない。",
+        "tip": "Câu sau thêm lợi ích cùng chiều → liên từ bổ sung (さらに・また・しかも)."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p1",
+      "stem": "（53）に入るもの",
+      "options": ["そうやって", "そうなったら", "それでも", "それには"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Để làm được điều đó, cần phải làm cho giải Masters được biết đến rộng rãi.",
+        "why": "それには = để làm được điều đó (để đạt mục đích vừa nói) → nêu điều kiện cần: マスターズが広く知られる必要がある. Mục đích = người cao tuổi khác cũng nhìn thấy và có động lực.",
+        "options": [
+          "そうやって → bằng cách đó (phương pháp đã nêu), không hợp với 必要がある. Sai.",
+          "そうなったら → nếu thành ra như thế thì (kết quả), sai logic. Sai.",
+          "それでも → dù vậy (đối lập). Sai.",
+          "それには → để làm được điều đó. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "活力", "r": "かつりょく", "hv": "HOẠT LỰC", "vi": "sinh lực" },
+          { "w": "目指す", "r": "めざす", "hv": "MỤC CHỈ", "vi": "nhắm tới" },
+          { "w": "姿", "r": "すがた", "hv": "TƯ", "vi": "hình ảnh, dáng vẻ" }
+        ],
+        "grammar": { "pattern": "それには～必要がある", "meaning": "để làm được điều đó thì cần ~", "form": "それには + điều kiện cần", "example": "合格したい。それには毎日の勉強が必要だ。" },
+        "evidence": "参加者以外の高齢者も、同年代が記録を目指す姿を目にすることで、体を動かすきっかけや心の活力が得られるに違いない。（53）、マスターズが広く知られる必要がある。",
+        "tip": "それには thường đi với ～必要がある / ～なければならない."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p1",
+      "stem": "（54）に入るもの",
+      "options": ["社会", "社会だ", "社会とは", "社会だから"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Một xã hội mà con người có thể luôn khỏe mạnh cả về thể chất lẫn tinh thần. Hướng tới việc hiện thực hóa xã hội đó, sự phát triển của giải Masters trong tương lai đang được kỳ vọng.",
+        "why": "Đây là câu kết thúc bằng danh từ (体言止め) để nêu hình ảnh xã hội lý tưởng, rồi câu sau nhận lại bằng その社会. Câu không có chủ ngữ nên 社会だ (khẳng định 'là xã hội') bị thiếu đối tượng; 体言止め tự nhiên hơn.",
+        "options": [
+          "社会 → kết câu bằng danh từ, đưa ra hình ảnh lý tưởng rồi câu sau nhắc lại bằng その社会. ĐÚNG.",
+          "社会だ → câu khẳng định 'là xã hội…' nhưng không có chủ ngữ (cái gì là xã hội?) nên câu treo. Sai.",
+          "社会とは → 'xã hội… là gì' (định nghĩa), câu bị bỏ dở. Sai.",
+          "社会だから → 'vì là xã hội…' — chỉ lý do, không nối được với câu sau. Sai."
+        ],
+        "vocab": [
+          { "w": "心身", "r": "しんしん", "hv": "TÂM THÂN", "vi": "thân và tâm" },
+          { "w": "実現", "r": "じつげん", "hv": "THỰC HIỆN", "vi": "hiện thực hóa" },
+          { "w": "発展", "r": "はってん", "hv": "PHÁT TRIỂN", "vi": "phát triển" }
+        ],
+        "grammar": { "pattern": "体言止め", "meaning": "kết câu bằng danh từ để nhấn mạnh hình ảnh", "form": "…N。", "example": "目指すのは、誰もが笑顔で暮らせる町。" },
+        "evidence": "いつまでも心身ともに元気でいられる（54）。その社会の実現に向けて、マスターズの今後の発展が期待される。",
+        "tip": "Câu sau bắt đầu bằng その社会 → câu trước chỉ cần đưa ra 'xã hội' như một hình ảnh."
+      }
+    }
+  ]
+}

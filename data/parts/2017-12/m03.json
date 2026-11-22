@@ -1,0 +1,140 @@
+{
+  "exam": "2017-12",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ đúng nhất điền vào chỗ trống (từ ghép: tiền tố / hậu tố).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "駅の北側には、住宅（　　）が広がっている。",
+      "options": ["枠", "界", "面", "街"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Ở phía bắc nhà ga trải rộng một khu dân cư (khu nhà ở).",
+        "why": "住宅街 (じゅうたくがい) = khu phố nhà ở. 〜街 (がい) = khu phố tập trung cái gì đó: 商店街, 住宅街, 繁華街.",
+        "options": [
+          "枠 (わく): khung, giới hạn (〜枠: 採用枠). Không ghép với 住宅. Sai.",
+          "界 (かい): giới, lĩnh vực (経済界, 自然界). Sai.",
+          "面 (めん): mặt, phương diện (経済面). Sai.",
+          "街 (がい): khu phố → 住宅街. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "住宅街", "r": "じゅうたくがい", "hv": "TRÚ TRẠCH NHAI", "vi": "khu dân cư, khu nhà ở" },
+          { "w": "商店街", "r": "しょうてんがい", "hv": "THƯƠNG ĐIẾM NHAI", "vi": "phố mua sắm" },
+          { "w": "北側", "r": "きたがわ", "hv": "BẮC TRẮC", "vi": "phía bắc" },
+          { "w": "広がる", "r": "ひろがる", "hv": "QUẢNG", "vi": "trải rộng, lan rộng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜街 đọc がい khi làm hậu tố (住宅街, 商店街, 繁華街), đọc まち khi đứng một mình."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "資料を見ると、数値に（　　）正確なところがあった。",
+      "options": ["否", "反", "非", "不"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Xem tài liệu thì thấy có chỗ số liệu không chính xác.",
+        "why": "不正確 (ふせいかく) = không chính xác. Tiền tố phủ định 不 ghép với 正確 (cũng như 不十分, 不自然, 不便).",
+        "options": [
+          "否 (ひ): phủ nhận – không làm tiền tố với 正確. Sai.",
+          "反 (はん): phản, chống lại (反社会的). Sai.",
+          "非 (ひ): phi, không phải (非常識, 非公式). Không nói 非正確. Sai.",
+          "不 (ふ): không → 不正確. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "不正確", "r": "ふせいかく", "hv": "BẤT CHÍNH XÁC", "vi": "không chính xác" },
+          { "w": "数値", "r": "すうち", "hv": "SỐ TRỊ", "vi": "số liệu, trị số" },
+          { "w": "資料", "r": "しりょう", "hv": "TƯ LIỆU", "vi": "tài liệu" },
+          { "w": "非常識", "r": "ひじょうしき", "hv": "PHI THƯỜNG THỨC", "vi": "thiếu thường thức" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhớ cụm cố định: 不正確・不十分・不完全 / 非常識・非公式・非公開 / 未完成・未経験 / 無責任・無関係."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "この料理は野菜が多く（　　）カロリーだ。",
+      "options": ["弱", "低", "下", "欠"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Món ăn này nhiều rau nên ít calo (low-calorie).",
+        "why": "低カロリー (ていカロリー) = ít calo. Tiền tố 低 (thấp) ghép với danh từ chỉ mức độ/số lượng: 低価格, 低温, 低カロリー.",
+        "options": [
+          "弱 (じゃく): yếu (弱点, 弱火…). Không nói 弱カロリー. Sai.",
+          "低 (てい): thấp → 低カロリー. ĐÚNG.",
+          "下 (か): dưới (下半身…). Sai.",
+          "欠 (けつ): thiếu (欠点, 欠席). Sai."
+        ],
+        "vocab": [
+          { "w": "低カロリー", "r": "ていカロリー", "hv": "ĐÊ", "vi": "ít calo" },
+          { "w": "高カロリー", "r": "こうカロリー", "hv": "CAO", "vi": "nhiều calo" },
+          { "w": "低価格", "r": "ていかかく", "hv": "ĐÊ GIÁ CÁCH", "vi": "giá thấp" },
+          { "w": "野菜", "r": "やさい", "hv": "DÃ THÁI", "vi": "rau" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cặp đối: 高カロリー ↔ 低カロリー, 高温 ↔ 低温, 高価格 ↔ 低価格."
+      }
+    },
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "スーツを着た会社員（　　）の人に道を尋ねられた。",
+      "options": ["風", "類", "状", "式"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi bị một người trông có vẻ là nhân viên công ty, mặc vest, hỏi đường.",
+        "why": "〜風 (ふう) = có vẻ, trông giống như ~ (về vẻ ngoài, phong cách). 会社員風の人 = người trông như nhân viên văn phòng.",
+        "options": [
+          "風 (ふう): có dáng vẻ, phong cách ~ (会社員風, 和風). ĐÚNG.",
+          "類 (るい): loại (哺乳類, 書類). Sai.",
+          "状 (じょう): trạng thái, hình dạng (液状, 招待状). Sai.",
+          "式 (しき): kiểu, phương thức, lễ (日本式, 卒業式). Sai."
+        ],
+        "vocab": [
+          { "w": "〜風", "r": "〜ふう", "hv": "PHONG", "vi": "trông như, kiểu ~ (会社員風, 学生風, 和風)" },
+          { "w": "尋ねる", "r": "たずねる", "hv": "TẦM", "vi": "hỏi" },
+          { "w": "会社員", "r": "かいしゃいん", "hv": "HỘI XÃ VIÊN", "vi": "nhân viên công ty" },
+          { "w": "和風", "r": "わふう", "hv": "HÒA PHONG", "vi": "kiểu Nhật" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜風 dùng khi đoán qua vẻ ngoài: サラリーマン風の男, 学生風の若者."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "日本は（　　）外国から資源を輸入している。",
+      "options": ["多", "種", "諸", "複"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nhật Bản nhập khẩu tài nguyên từ các nước ngoài (nhiều nước khác nhau).",
+        "why": "諸外国 (しょがいこく) = các nước ngoài. Tiền tố 諸 (しょ) = các, nhiều (諸問題, 諸国, 諸外国).",
+        "options": [
+          "多 (た): nhiều (多目的, 多機能) – không nói 多外国. Sai.",
+          "種 (しゅ): loại – không làm tiền tố này. Sai.",
+          "諸 (しょ): các ~ → 諸外国. ĐÚNG.",
+          "複 (ふく): phức, nhiều lớp (複数) – không nói 複外国. Sai."
+        ],
+        "vocab": [
+          { "w": "諸外国", "r": "しょがいこく", "hv": "CHƯ NGOẠI QUỐC", "vi": "các nước ngoài" },
+          { "w": "諸問題", "r": "しょもんだい", "hv": "CHƯ VẤN ĐỀ", "vi": "các vấn đề" },
+          { "w": "資源", "r": "しげん", "hv": "TƯ NGUYÊN", "vi": "tài nguyên" },
+          { "w": "輸入", "r": "ゆにゅう", "hv": "THÂU NHẬP", "vi": "nhập khẩu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "諸 = \"chư\" trong \"chư vị\" (các vị) → 諸外国 = chư ngoại quốc = các nước ngoài."
+      }
+    }
+  ]
+}

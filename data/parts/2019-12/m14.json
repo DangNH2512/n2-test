@@ -1,0 +1,83 @@
+{
+  "exam": "2019-12",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "下のページは、ある文化祭の参加者募集の案内である。下の問いに対する答えとして、最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Trang dưới đây là thông báo tuyển người tham gia một lễ hội văn hóa. Chọn câu trả lời đúng nhất cho các câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "朝田市文化祭　参加者募集",
+      "text": "朝田市文化祭　参加者募集\n11月2日（土）から11月4日（月）まで朝田市民文化会館で行われる「朝田市文化祭」に参加しませんか。\n\n1. 募集内容について\n【作品展示】開催日時：11月2日（土）～11月4日（月）10時～17時\n　絵画：72cm×65cmまで\n　書道：150cm×95cmまで\n　写真：41cm×60cmまで\n　※作品は1人1点のみです。未発表作品に限ります。\n【ダンス】開催日時：11月2日（土）13時～17時\n　・5人以上の団体でのみ出演可\n　・発表時間は4分以内\n【音楽】開催日時：11月3日（日）13時～17時\n　・1人でも団体でも出演可\n　・発表時間は10分以内\n応募資格：市内在住の方、市内に勤務先のある方、市内で文化活動を行っている方\n\n2. 申し込みについて\n申し込み受付期間：2019年9月2日（月）～9月13日（金）\n・指定の申込書にご記入の上、事務所にご持参くださるか、ファクスまたは郵送でお願いします。（申込書は下記のウェブページからダウンロードが可能です。）\n・ダンス、音楽に団体でお申し込みの場合、申込書に出演者全員の氏名を記入し、ご提出ください。申込書は1団体につき1枚です。なお、舞台リハーサルをご希望の場合は、3.の②の表をご覧ください。\n\n3. 文化祭までの流れ\n①説明会（参加者ご本人、または団体の代表の方は必ずご出席ください。）\n月日：作品展示 10月4日（金）　ダンス 10月5日（土）　音楽 10月6日（日）\n時間：いずれも19時から　　場所：朝田市民文化会館3階研修室\n② 準備・片付け、リハーサル\n【作品展示】作品は11月2日（土）7時～9時に運び入れ、11月4日（月）17時15分～19時に片付けてください。\n【ダンス・音楽】舞台リハーサルは、以下の日に15分以内でお願いします。11月1日（金）9時～17時\n\n朝田市文化祭実行委員会事務所（朝田市民文化会館内）\n〒320-2745 朝田市広山30-1　電話 08-6400-500　ファクス 08-6400-5001\nhttp://www.asada.lg.jp/cdteikyo/bunkasai"
+    }
+  ],
+  "questions": [
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "ポリーさんは、朝田市のダンス教室の仲間と文化祭でダンスの発表をしたいと考えている。申し込みにあたって、注意しなければならないこととして合っているのはどれか。",
+      "options": [
+        "10分以内の発表時間で申し込まなければならない。",
+        "事務所に直接行って申込書を提出しなければならない。",
+        "1枚の申込書に出演者全員の名前を書かなければならない。",
+        "事前の舞台リハーサルに出なければならない。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Polly muốn biểu diễn nhảy tại lễ hội cùng các bạn trong lớp nhảy ở thành phố Asada. Khi đăng ký, điều cần lưu ý đúng là gì? → Phải ghi tên tất cả người biểu diễn vào 1 tờ đơn đăng ký.",
+        "why": "Mục 2: đăng ký theo nhóm cho nhảy/âm nhạc phải ghi họ tên tất cả người biểu diễn vào đơn, mỗi nhóm 1 tờ.",
+        "options": [
+          "10 phút là của âm nhạc; nhảy là trong 4 phút. Sai.",
+          "Có thể mang tới văn phòng, gửi fax hoặc bưu điện. Sai.",
+          "Ghi tên tất cả người biểu diễn vào 1 tờ đơn. ĐÚNG.",
+          "Tổng duyệt sân khấu chỉ khi có nguyện vọng (ご希望の場合). Sai."
+        ],
+        "vocab": [
+          { "w": "申込書", "r": "もうしこみしょ", "hv": "THÂN NHẬP THƯ", "vi": "đơn đăng ký" },
+          { "w": "出演者", "r": "しゅつえんしゃ", "hv": "XUẤT DIỄN GIẢ", "vi": "người biểu diễn" },
+          { "w": "持参", "r": "じさん", "hv": "TRÌ THAM", "vi": "mang đến" },
+          { "w": "団体", "r": "だんたい", "hv": "ĐOÀN THỂ", "vi": "nhóm, đoàn thể" }
+        ],
+        "grammar": {
+          "pattern": "～につき",
+          "meaning": "mỗi ~ (đơn vị)",
+          "form": "N＋につき",
+          "example": "申込書は1団体につき1枚です。"
+        },
+        "evidence": "ダンス、音楽に団体でお申し込みの場合、申込書に出演者全員の氏名を記入し、ご提出ください。申込書は1団体につき1枚です。",
+        "tip": "Bài 情報検索: đối chiếu từng đáp án với đúng hạng mục (ダンス, không phải 音楽)."
+      }
+    },
+    {
+      "num": 72,
+      "passage": "p1",
+      "stem": "ザーリンさんは文化祭に申し込みをし、写真作品を展示することになった。この後、文化祭が始まるまでに、何をしなければならないか。",
+      "options": [
+        "10月4日の説明会に行き、文化祭初日の前日の9時から17時の間に作品を運び入れる。",
+        "10月4日の説明会に行き、文化祭初日の7時から9時の間に作品を運び入れる。",
+        "10月4日から6日のどれかの説明会に行き、文化祭初日の前日の9時から17時の間に作品を運び入れる。",
+        "10月4日から6日のどれかの説明会に行き、文化祭初日の7時から9時の間に作品を運び入れる。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Zarin đã đăng ký và sẽ trưng bày ảnh. Từ giờ đến khi lễ hội bắt đầu cô ấy phải làm gì? → Đi buổi giải thích ngày 4/10, mang tác phẩm vào từ 7 giờ đến 9 giờ ngày đầu tiên của lễ hội.",
+        "why": "Buổi giải thích cho 作品展示 là ngày 10/4 (bắt buộc). Tác phẩm mang vào ngày 2/11 (ngày đầu lễ hội) từ 7–9 giờ.",
+        "options": [
+          "Ngày 1/11 (trước ngày đầu) 9–17 giờ là lịch tổng duyệt của nhảy/âm nhạc. Sai.",
+          "Buổi giải thích 4/10 + mang tác phẩm 7–9 giờ ngày 2/11. ĐÚNG.",
+          "Buổi giải thích của trưng bày chỉ ngày 4/10 (5/10 là nhảy, 6/10 là âm nhạc); giờ mang vào cũng sai. Sai.",
+          "Không được chọn ngày tùy ý trong 4–6/10. Sai."
+        ],
+        "vocab": [
+          { "w": "展示", "r": "てんじ", "hv": "TRIỂN THỊ", "vi": "trưng bày" },
+          { "w": "説明会", "r": "せつめいかい", "hv": "THUYẾT MINH HỘI", "vi": "buổi giải thích, hướng dẫn" },
+          { "w": "運び入れる", "r": "はこびいれる", "hv": "VẬN NHẬP", "vi": "mang vào, chuyển vào" },
+          { "w": "初日", "r": "しょにち", "hv": "SƠ NHẬT", "vi": "ngày đầu tiên" }
+        ],
+        "grammar": null,
+        "evidence": "①説明会（参加者ご本人、または団体の代表の方は必ずご出席ください。）月日：作品展示 10月4日（金）…\n【作品展示】作品は11月2日（土）7時～9時に運び入れ…",
+        "tip": "11月1日 9時～17時 là bẫy (lịch tổng duyệt của ダンス・音楽)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "exam": "2013-12",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các phương án thành câu đúng và chọn phương án đặt ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "A「夏休み、あしたで終わりだね。」\nB「そうだね。でもまだ ＿＿＿ ＿＿＿ ★ ＿＿＿ 休みたいよね。」",
+      "options": ["ぐらい", "１週間", "あと", "は"],
+      "answer": 1,
+      "explanation": {
+        "translation": "B: \"Ừ nhỉ. Nhưng mà vẫn muốn được nghỉ thêm khoảng một tuần nữa nhỉ.\"",
+        "why": "Thứ tự đúng: でもまだ【あと(3)】【１週間(2)】【ぐらい(1)★】【は(4)】休みたい. あと＋số lượng = thêm …; ぐらい = khoảng; は nhấn mạnh mức tối thiểu ('ít nhất là khoảng 1 tuần').",
+        "options": [
+          "ぐらい → vị trí 3 (★), sau số lượng 1週間. ĐÚNG.",
+          "１週間 → vị trí 2, sau あと.",
+          "あと → vị trí 1: あと＋số lượng = còn thêm ….",
+          "は → vị trí 4, ngay trước động từ 休みたい."
+        ],
+        "vocab": [
+          { "w": "あと", "r": "あと", "hv": "", "vi": "thêm, còn (あと＋số lượng)" },
+          { "w": "〜ぐらい", "r": "〜ぐらい", "hv": "", "vi": "khoảng, chừng" },
+          { "w": "休む", "r": "やすむ", "hv": "HƯU", "vi": "nghỉ" }
+        ],
+        "grammar": {
+          "pattern": "あと＋số lượng＋ぐらいは",
+          "meaning": "thêm ít nhất khoảng … nữa",
+          "form": "あと＋数量＋ぐらい(は)＋V",
+          "example": "あと１０分ぐらいは待てます。(Tôi có thể đợi thêm khoảng 10 phút nữa.)"
+        },
+        "evidence": null,
+        "tip": "Thứ tự cố định: あと → số lượng → ぐらい → は."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "（北川先生へのメールで）\n昨日無事に帰国しました。\n日本滞在中は ＿＿＿ ＿＿＿ ★ ＿＿＿ お世話になり、本当にありがとうございました。",
+      "options": ["をはじめ", "北川先生", "に", "多くの方々"],
+      "answer": 4,
+      "explanation": {
+        "translation": "(Email gửi thầy Kitagawa) Hôm qua em đã về nước an toàn. Trong thời gian ở Nhật, em đã nhận được sự giúp đỡ của rất nhiều người, đứng đầu là thầy Kitagawa; em xin chân thành cảm ơn.",
+        "why": "Thứ tự: 日本滞在中は【北川先生(2)】【をはじめ(1)】【多くの方々(4)★】【に(3)】お世話になり. Nをはじめ(として)多くのN = nhiều … mà tiêu biểu là N; 〜にお世話になる = được ai giúp đỡ.",
+        "options": [
+          "をはじめ → vị trí 2, sau 北川先生.",
+          "北川先生 → vị trí 1.",
+          "に → vị trí 4, ngay trước お世話になり (人にお世話になる).",
+          "多くの方々 → vị trí 3 (★). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "滞在", "r": "たいざい", "hv": "TRỆ TẠI", "vi": "lưu trú, ở lại" },
+          { "w": "帰国", "r": "きこく", "hv": "QUY QUỐC", "vi": "về nước" },
+          { "w": "お世話になる", "r": "おせわになる", "hv": "THẾ THOẠI", "vi": "được giúp đỡ, chăm sóc" },
+          { "w": "方々", "r": "かたがた", "hv": "PHƯƠNG", "vi": "các vị (kính ngữ của 人々)" }
+        ],
+        "grammar": {
+          "pattern": "Nをはじめ(として)",
+          "meaning": "tiêu biểu là N, trước hết là N, cùng với …",
+          "form": "N＋をはじめ(として)＋多くの／いろいろな N",
+          "example": "社長をはじめ、社員全員が出席した。(Toàn thể nhân viên, đứng đầu là giám đốc, đã tham dự.)"
+        },
+        "evidence": null,
+        "tip": "〜をはじめ thường theo sau bởi 多くの・さまざまな・全員 – từ chỉ số đông."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "私の祖父は、風邪をひいても、「風邪のときはあたたかく ＿＿＿ ＿＿＿ ★ ＿＿＿」と言って病院に行かない。",
+      "options": ["に限る", "早く", "寝る", "して"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Ông tôi dù bị cảm cũng không đi bệnh viện, bảo rằng \"Khi bị cảm thì tốt nhất là giữ ấm rồi đi ngủ sớm\".",
+        "why": "Thứ tự: あたたかく【して(4)】【早く(2)】【寝る(3)★】【に限る(1)】. あたたかくする = giữ ấm; V＋に限る = làm V là tốt nhất.",
+        "options": [
+          "に限る → vị trí 4, cuối câu trích dẫn.",
+          "早く → vị trí 2, bổ nghĩa cho 寝る.",
+          "寝る → vị trí 3 (★), thể từ điển trước に限る. ĐÚNG.",
+          "して → vị trí 1: あたたかく＋して."
+        ],
+        "vocab": [
+          { "w": "祖父", "r": "そふ", "hv": "TỔ PHỤ", "vi": "ông (của mình)" },
+          { "w": "風邪をひく", "r": "かぜをひく", "hv": "PHONG TÀ", "vi": "bị cảm" },
+          { "w": "あたたかくする", "r": "あたたかくする", "hv": "", "vi": "giữ ấm, làm cho ấm" }
+        ],
+        "grammar": {
+          "pattern": "～に限る",
+          "meaning": "… là tốt nhất (ý kiến chủ quan của người nói)",
+          "form": "Vる / Vない / N＋に限る",
+          "example": "疲れたときは、寝るに限る。(Mệt thì ngủ là tốt nhất.)"
+        },
+        "evidence": null,
+        "tip": "Tính từ い＋く＋する: あたたかくする. Sau đó mới đến 早く寝る."
+      }
+    },
+    {
+      "num": 48,
+      "passage": null,
+      "stem": "留学中、自分の国のことを聞かれて初めて、今まで ＿＿＿ ＿＿＿ ★ ＿＿＿ ことが多いのに気づいた。",
+      "options": ["思って", "疑問にすら", "思っていなかった", "当たり前だと"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Trong thời gian du học, chỉ khi bị hỏi về đất nước mình tôi mới nhận ra có nhiều điều từ trước đến giờ tôi cứ cho là đương nhiên, đến mức chưa từng thắc mắc.",
+        "why": "Thứ tự: 今まで【当たり前だと(4)】【思って(1)】【疑問にすら(2)★】【思っていなかった(3)】ことが多い. 当たり前だと思って = vì nghĩ là đương nhiên; 疑問にすら思わない = thậm chí không thấy thắc mắc.",
+        "options": [
+          "思って → vị trí 2: 当たり前だと＋思って.",
+          "疑問にすら → vị trí 3 (★). ĐÚNG.",
+          "思っていなかった → vị trí 4, bổ nghĩa cho こと.",
+          "当たり前だと → vị trí 1 (と trích dẫn đi với 思う)."
+        ],
+        "vocab": [
+          { "w": "当たり前", "r": "あたりまえ", "hv": "ĐƯƠNG TIỀN", "vi": "đương nhiên, hiển nhiên" },
+          { "w": "疑問", "r": "ぎもん", "hv": "NGHI VẤN", "vi": "nghi vấn, thắc mắc" },
+          { "w": "気づく", "r": "きづく", "hv": "KHÍ", "vi": "nhận ra" },
+          { "w": "留学", "r": "りゅうがく", "hv": "LƯU HỌC", "vi": "du học" }
+        ],
+        "grammar": {
+          "pattern": "Nすら",
+          "meaning": "ngay cả, thậm chí (nhấn mạnh, thường đi với phủ định)",
+          "form": "N(＋trợ từ)＋すら＋phủ định",
+          "example": "忙しくて、食事をする時間すらない。(Bận đến mức thậm chí không có thời gian ăn.)"
+        },
+        "evidence": null,
+        "tip": "〜て初めて = chỉ sau khi … mới. 疑問に思う = thấy thắc mắc → すら chen giữa: 疑問にすら思わない."
+      }
+    },
+    {
+      "num": 49,
+      "passage": null,
+      "stem": "彼が描いたライオンの絵は、＿＿＿ ＿＿＿ ★ ＿＿＿ いる。",
+      "options": ["今にも動き出して", "近づいてきそうなほど", "描かれて", "本物そっくりに"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Bức tranh con sư tử anh ấy vẽ được vẽ giống y như thật, đến mức tưởng như nó sắp cử động và tiến lại gần ngay bây giờ.",
+        "why": "Thứ tự: 【今にも動き出して(1)】【近づいてきそうなほど(2)】【本物そっくりに(4)★】【描かれて(3)】いる. 〜そうなほど = đến mức như sắp …; 本物そっくりに描かれている = được vẽ giống hệt thật.",
+        "options": [
+          "今にも動き出して → vị trí 1 (今にも〜そう: sắp … đến nơi).",
+          "近づいてきそうなほど → vị trí 2, nối tiếp 動き出して.",
+          "描かれて → vị trí 4, trước いる (描かれている).",
+          "本物そっくりに → vị trí 3 (★). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "そっくり", "r": "そっくり", "hv": "", "vi": "giống hệt" },
+          { "w": "本物", "r": "ほんもの", "hv": "BẢN VẬT", "vi": "đồ thật" },
+          { "w": "今にも", "r": "いまにも", "hv": "KIM", "vi": "sắp … đến nơi, ngay bây giờ" },
+          { "w": "描く", "r": "えがく", "hv": "MIÊU", "vi": "vẽ, miêu tả" }
+        ],
+        "grammar": {
+          "pattern": "今にも～そうなほど",
+          "meaning": "đến mức như sắp … ngay",
+          "form": "今にも＋Vます(bỏ ます)＋そうな＋ほど",
+          "example": "今にも泣き出しそうなほど悲しい顔をしていた。(Cô ấy có gương mặt buồn đến mức như sắp khóc òa.)"
+        },
+        "evidence": null,
+        "tip": "今にも luôn đi với 〜そうだ; ほど (mức độ) bổ nghĩa cho 本物そっくりに."
+      }
+    }
+  ]
+}

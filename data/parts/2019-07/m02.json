@@ -1,0 +1,137 @@
+{
+  "exam": "2019-07",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết Kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "私の<u>しゅみ</u>はピアノをひくことだ。",
+      "options": ["趣味", "興味", "好味", "習味"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Sở thích của tôi là chơi đàn piano.",
+        "why": "しゅみ viết là 趣味 (THÚ VỊ) = sở thích.",
+        "options": [
+          "趣味 (しゅみ): sở thích. ĐÚNG.",
+          "興味 (きょうみ): hứng thú, quan tâm. Đọc khác. Sai.",
+          "好味 → không có từ này. Sai.",
+          "習味 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "趣味", "r": "しゅみ", "hv": "THÚ VỊ", "vi": "sở thích" },
+          { "w": "興味", "r": "きょうみ", "hv": "HỨNG VỊ", "vi": "sự hứng thú, quan tâm" },
+          { "w": "弾く", "r": "ひく", "hv": "ĐÀN", "vi": "chơi (nhạc cụ dây, phím)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "趣 (しゅ, おもむき: phong vị). 興味がある (quan tâm) ≠ 趣味 (sở thích)."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "もう少し<u>こい</u>鉛筆が欲しい。",
+      "options": ["軟い", "薄い", "硬い", "濃い"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi muốn một cây bút chì đậm hơn một chút.",
+        "why": "こい viết là 濃い (NỒNG) = đậm (màu, vị, nét chì). 濃い鉛筆 = bút chì nét đậm (như 2B).",
+        "options": [
+          "軟い → không dùng (mềm là 軟らかい やわらかい). Sai.",
+          "薄い (うすい): nhạt, mỏng. Nghĩa ngược lại. Sai.",
+          "硬い (かたい): cứng. Sai.",
+          "濃い (こい): đậm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "濃い", "r": "こい", "hv": "NỒNG", "vi": "đậm, đặc" },
+          { "w": "薄い", "r": "うすい", "hv": "BẠC", "vi": "nhạt, mỏng" },
+          { "w": "硬い", "r": "かたい", "hv": "NGẠNH", "vi": "cứng" },
+          { "w": "鉛筆", "r": "えんぴつ", "hv": "DUYÊN BÚT", "vi": "bút chì" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cặp trái nghĩa: 濃い ⇔ 薄い (濃いコーヒー / 薄いコーヒー)."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "この皿は、真っ白ではなく、少し青が<u>まじった</u>ような色をしている。",
+      "options": ["組じった", "含じった", "混じった", "加じった"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Cái đĩa này không trắng tinh mà có màu như pha lẫn một chút xanh.",
+        "why": "まじる viết là 混じる (HỖN) = lẫn vào, pha trộn.",
+        "options": [
+          "組じった → 組 đọc くむ (ghép, lập nhóm), không có まじる. Sai.",
+          "含じった → 含 đọc ふくむ (bao gồm, chứa). Sai.",
+          "混じった → 混じる: lẫn vào. ĐÚNG.",
+          "加じった → 加 đọc くわえる (thêm vào). Sai."
+        ],
+        "vocab": [
+          { "w": "混じる", "r": "まじる", "hv": "HỖN", "vi": "lẫn vào, pha trộn" },
+          { "w": "含む", "r": "ふくむ", "hv": "HÀM", "vi": "bao gồm, chứa" },
+          { "w": "加える", "r": "くわえる", "hv": "GIA", "vi": "thêm vào" },
+          { "w": "真っ白", "r": "まっしろ", "hv": "CHÂN BẠCH", "vi": "trắng tinh" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "混 cũng đọc là まぜる (混ぜる: trộn) và こむ (混む: đông đúc)."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "彼はいつも<u>そん</u>になることばかりしている。",
+      "options": ["罪", "害", "損", "毒"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh ấy lúc nào cũng toàn làm những việc thiệt cho mình.",
+        "why": "そん viết là 損 (TỔN) = thiệt, lỗ. 損になる/損をする = bị thiệt.",
+        "options": [
+          "罪 (つみ): tội. Sai.",
+          "害 (がい): hại, tác hại. Sai.",
+          "損 (そん): thiệt, lỗ. ĐÚNG.",
+          "毒 (どく): độc. Sai."
+        ],
+        "vocab": [
+          { "w": "損", "r": "そん", "hv": "TỔN", "vi": "thiệt, lỗ" },
+          { "w": "得", "r": "とく", "hv": "ĐẮC", "vi": "lợi, lời" },
+          { "w": "害", "r": "がい", "hv": "HẠI", "vi": "tác hại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cặp đối: 損 ⇔ 得 (損得: lời lỗ)."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "素晴らしい<u>えんぎ</u>に感動した。",
+      "options": ["演劇", "演技", "園技", "園劇"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi xúc động trước màn diễn xuất tuyệt vời.",
+        "why": "えんぎ viết là 演技 (DIỄN KỸ) = diễn xuất, màn trình diễn. 技 đọc ぎ.",
+        "options": [
+          "演劇 (えんげき): kịch, sân khấu. Đọc げき, không phải ぎ. Sai.",
+          "演技 (えんぎ): diễn xuất. ĐÚNG.",
+          "園技 → 園 là VIÊN (vườn), không có từ này. Sai.",
+          "園劇 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "演技", "r": "えんぎ", "hv": "DIỄN KỸ", "vi": "diễn xuất, màn biểu diễn" },
+          { "w": "演劇", "r": "えんげき", "hv": "DIỄN KỊCH", "vi": "kịch nghệ" },
+          { "w": "感動", "r": "かんどう", "hv": "CẢM ĐỘNG", "vi": "xúc động, cảm động" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "技 = ぎ (技術 ぎじゅつ), 劇 = げき (劇場 げきじょう)."
+      }
+    }
+  ]
+}

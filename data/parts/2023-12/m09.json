@@ -1,0 +1,136 @@
+{
+  "exam": "2023-12",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、48から51の中に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án đúng nhất cho các ô 48–51.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "温泉の正しい入り方",
+      "text": "以下は、雑誌のコラムである。\n\n温泉の正しい入り方\n\n疲れを感じたとき、温泉に行きたくなるという人も多いのではないでしょうか。ただ、温泉に入って、元気になるどころか逆に疲れてしまったという声を聞くことも少なくありません。（48）、温泉は入り方を間違えると体に負担をかけてしまうのです。\n体に負担をかけないためにまずしてほしいのは、お湯に入る前に丁寧に「かけ湯」をすることです。心臓から遠い足先などから温泉のお湯をゆっくり、たっぷりかけていきましょう。「かけ湯」には、お湯の温度や温泉の成分に体を慣れさせるといった重要な役割があります。お湯に入る前には必ず「かけ湯」を（49）。\nそして、お湯に入っている時間にも注意が必要です。お湯に入っている時間は、ぬるく感じるお湯でも20分程度、熱いお湯なら3〜5分程度にするのが良いと言われています。また、1日に何度も温泉に入るのもあまり良くありません。1日に1、2回、多くても3回程度にしておきましょう。\n温泉の成分が肌に負担を（50）。ですから、刺激の強い酸性の温泉に入ったときや、肌への刺激が強いと感じたときは、最後に温泉ではないお湯や水を体にかけ、肌に残った温泉の成分を流しましょう。なお、肌への刺激が強くなければ、流さないほうが温泉の成分が肌に残るのでおすすめです。\nせっかく疲れをとりに温泉に行ったのに、（51）もったいないですよね。正しい入り方で日ごろの疲れがとれますように。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 48,
+      "passage": "p1",
+      "stem": "（48）に入るもの",
+      "options": ["実は", "一方で", "しかも", "ちなみに"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Thật ra, nếu tắm suối nước nóng sai cách thì sẽ gây gánh nặng cho cơ thể.",
+        "why": "Câu trước nêu hiện tượng lạ: tắm onsen mà lại mệt hơn. Câu sau tiết lộ sự thật/nguyên nhân ít người biết → 実は (thật ra là).",
+        "options": [
+          "実は → thật ra (tiết lộ sự thật bất ngờ). ĐÚNG.",
+          "一方で → mặt khác (đối lập hai mặt). Không có đối lập. Sai.",
+          "しかも → hơn nữa (thêm thông tin cùng chiều). Sai.",
+          "ちなみに → nhân tiện (thông tin phụ). Đây là ý chính nên không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "負担", "r": "ふたん", "hv": "PHỤ ĐẢM", "vi": "gánh nặng" },
+          { "w": "どころか", "r": "どころか", "hv": "", "vi": "chẳng những không ~ mà ngược lại" },
+          { "w": "温泉", "r": "おんせん", "hv": "ÔN TUYỀN", "vi": "suối nước nóng" }
+        ],
+        "grammar": {
+          "pattern": "実は",
+          "meaning": "thật ra là (nói ra sự thật người nghe chưa biết)",
+          "form": "実は + 文",
+          "example": "実は、来月会社を辞めることになりました。"
+        },
+        "evidence": "温泉に入って、元気になるどころか逆に疲れてしまったという声を聞くことも少なくありません。（48）、温泉は入り方を間違えると体に負担をかけてしまうのです。",
+        "tip": "Câu kết thúc bằng ～のです (giải thích nguyên nhân) thường đi với 実は."
+      }
+    },
+    {
+      "num": 49,
+      "passage": "p1",
+      "stem": "（49）に入るもの",
+      "options": ["するからです", "するのでしょう", "するつもりです", "するようにしてください"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Trước khi vào bồn, nhất định hãy dội nước \"kakeyu\".",
+        "why": "Bài là lời khuyên cho người đọc; có 必ず (nhất định) → câu đề nghị, yêu cầu: ～ようにしてください (hãy cố gắng làm ~).",
+        "options": [
+          "するからです → \"là vì làm ~\" (giải thích lý do). Sai.",
+          "するのでしょう → \"chắc là làm ~\" (phỏng đoán). Sai.",
+          "するつもりです → \"định làm\" (ý định của người viết). Sai.",
+          "するようにしてください → hãy nhớ/cố gắng làm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "かけ湯", "r": "かけゆ", "hv": "THANG", "vi": "dội nước lên người trước khi vào bồn" },
+          { "w": "成分", "r": "せいぶん", "hv": "THÀNH PHẦN", "vi": "thành phần" },
+          { "w": "役割", "r": "やくわり", "hv": "DỊCH CÁT", "vi": "vai trò" }
+        ],
+        "grammar": {
+          "pattern": "Vるようにしてください",
+          "meaning": "hãy cố gắng/hãy nhớ làm ~ (yêu cầu nhẹ nhàng)",
+          "form": "V辞書形／Vない + ようにしてください",
+          "example": "授業に遅れないようにしてください。"
+        },
+        "evidence": "お湯に入る前には必ず「かけ湯」を（49）。",
+        "tip": "必ず／ぜひ + cuối câu → thường là câu yêu cầu, khuyên nhủ."
+      }
+    },
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["かけたとします", "かけることもあります", "かけたと思います", "かけることにあります"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Thành phần của suối nước nóng cũng có khi gây hại (gánh nặng) cho da.",
+        "why": "Câu sau ですから… hướng dẫn rửa lại nếu da bị kích ứng → câu trước nêu khả năng có thể xảy ra: ～こともあります (cũng có trường hợp ~).",
+        "options": [
+          "かけたとします → \"giả sử đã gây\". Không hợp mạch. Sai.",
+          "かけることもあります → cũng có khi gây. ĐÚNG.",
+          "かけたと思います → \"tôi nghĩ là đã gây\" (quá khứ, cảm nghĩ cá nhân). Sai.",
+          "かけることにあります → \"(nguyên nhân) nằm ở việc ~\", cần chủ ngữ kiểu 原因は. Sai."
+        ],
+        "vocab": [
+          { "w": "刺激", "r": "しげき", "hv": "THÍCH KÍCH", "vi": "kích thích, kích ứng" },
+          { "w": "酸性", "r": "さんせい", "hv": "TOAN TÍNH", "vi": "tính axit" },
+          { "w": "肌", "r": "はだ", "hv": "CƠ", "vi": "da" }
+        ],
+        "grammar": {
+          "pattern": "Vることもある",
+          "meaning": "cũng có khi ~, cũng có trường hợp ~",
+          "form": "V辞書形 + こともある",
+          "example": "忙しいときは、昼ご飯を食べないこともある。"
+        },
+        "evidence": "温泉の成分が肌に負担を（50）。ですから、刺激の強い酸性の温泉に入ったときや、肌への刺激が強いと感じたときは、…温泉の成分を流しましょう。",
+        "tip": "Sau đó có なお、肌への刺激が強くなければ… → kích ứng chỉ là \"có khi\", không phải luôn luôn."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["疲れてしまい", "疲れてしまったのが", "疲れてしまっては", "疲れてしまうばかりで"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đã cất công đi suối nước nóng để giải tỏa mệt mỏi, mà lại bị mệt thêm thì thật uổng phí phải không.",
+        "why": "～ては + đánh giá tiêu cực (もったいない, 困る, だめだ) = \"nếu mà ~ thì (thật là…)\". 疲れてしまってはもったいない.",
+        "options": [
+          "疲れてしまい → dạng nối (ます bỏ), không trực tiếp đi với もったいない. Sai.",
+          "疲れてしまったのが → \"việc đã mệt\" + もったいない: thì quá khứ, nói về việc cụ thể đã xảy ra, không hợp với lời khuyên chung. Sai.",
+          "疲れてしまっては → nếu mà mệt thì (uổng). ĐÚNG.",
+          "疲れてしまうばかりで → \"chỉ toàn mệt\", không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "せっかく", "r": "せっかく", "hv": "", "vi": "cất công, khó khăn lắm mới" },
+          { "w": "もったいない", "r": "もったいない", "hv": "", "vi": "lãng phí, tiếc" },
+          { "w": "日ごろ", "r": "ひごろ", "hv": "NHẬT", "vi": "thường ngày" }
+        ],
+        "grammar": {
+          "pattern": "～ては（もったいない／困る）",
+          "meaning": "nếu (mà) ~ thì (sẽ thật tệ/uổng)",
+          "form": "Vて + は + đánh giá tiêu cực",
+          "example": "せっかく作ったのに、食べてくれなくては悲しい。"
+        },
+        "evidence": "せっかく疲れをとりに温泉に行ったのに、（51）もったいないですよね。",
+        "tip": "せっかく…のに + ～てはもったいない là kết hợp rất hay gặp."
+      }
+    }
+  ]
+}

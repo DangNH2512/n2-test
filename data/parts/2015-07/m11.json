@@ -1,0 +1,342 @@
+{
+  "exam": "2015-07",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（１）から（３）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1) đến (3) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "話す場合には、たいがい（注１）、聞き手がすぐ近くにいて、そのとき、その場で自分の考えに表現を与えながら、さらなる考えを進めていく。（中略）\nそれに対して、①<u>書くという表現の場合</u>には、たいていはひとりで、じっくり時間をかけて、ノートやパソコンなどを使って、考えたことを文字にしていったり、あるいは考えながら文字にしていくことが多いはずです。考えたことが消えずに文字として残ることも、話す場合とは大きく違う点です。ちょうど本という活字メディア（注２）が、読者にとって自分のペースで考えながら読んでいくことができるのと同じように、書くという行為は、話すのと違って自分のペースで、行きつもどりつ（注３）しながら、考えを進めていくことができる表現方法なのです。\nしかも、考えたことを文字にしていく場合、いい加減であいまいなままの考えでは、なかなか文章になりません。何となくわかっていることでも、話し言葉でなら、「何となく」のニュアンス（注４）を残したまま相手に伝えることも不可能ではありません。それに対して、書き言葉の場合には、その②<u>「何となく」はまったく伝わらない場合が多い</u>のです。身振りも手振りも使えません。顔の表情だって、読み手には伝わりません。それだけ、あいまいではなく、はっきりと考えを定着させることが求められるのです。そのような意味で、書くという行為は、もやもやした（注５）アイデアに明確なことばを与えていくことであり、だからこそ、書くことで考える力もついていくのです。\n（苅谷剛彦『知的複眼思考法―誰でも持っている創造力のスイッチ』による）\n（注１）たいがい：たいてい\n（注２）活字メディア：ここでは、活字で書かれたもの\n（注３）行きつもどりつ：行ったり来たり\n（注４）ニュアンス：ここでは、微妙な感じ\n（注５）もやもやした：ぼんやりした"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "飲み物を買いに飲料売り場に行くと、商品が多様になっていることに気づく。これらの中から消費者に自社の製品を選択してもらうため、メーカーは味はもちろん、ボトルにもこだわっている。\nあるメーカーが、仕事中に飲んでもらうことをねらって緑茶の新製品を開発した。仕事中によく飲まれているコーヒーの代わりになるように、味は通常より濃くした。また、ボトルはペットボトルではなく、コーヒーに多く使われる金属製のものとし、香りが楽しめるように飲み口を広くした。ボトルの色使いは濃い緑や黒や金などにして、味の濃さや高級感を表現した。これらの努力が実り、①<u>ねらいどおりに好調な売れ行きを見せている</u>という。\nこの例のようにメーカーがボトルにもこだわるのは、消費者にボトルの材質や形の好き嫌いがあるという事実があるからだ。緑茶のボトルに関する②<u>ある消費者調査の結果</u>を見ると、金属製ボトルに対して、60歳未満の人は高級感を感じ好印象を持っているが、60歳以上の人は抵抗を感じ、ペットボトルのほうを好むことがわかった。しかし、ペットボトルを好むといっても、その形や色については意見が分かれた。60歳以上の男性は見慣れた形や色のペットボトルの評価が高いが、同年代の女性は目新しい形や色のペットボトルに好感を持っていた。年代や性別によってこのように好みが分かれる以上、店に多様な商品が並ぶことになるのはもっともなことだろう。"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "大人になってからの勉強で、なかなか理解が進まないことの大きな原因の一つが、実は、復習をちゃんとしないことにある。学生時代の勉強は、いやでも復習がカリキュラムの中に織り込まれている（注１）ので、知識が定着しやすくなっている。これに対して、大人になって自分で勉強するときには、意識して復習の機会をつくらないと、一回本を読んだだけで「もうわかった。大丈夫」と思い込んでしまいがちになるのだ。\n脳の特性（注２）として、目や耳から入った情報をいったん溜めておいて、その中から必要のないと思われる情報を自動的に脳の奥底にしまい込んでしまう。では、どこで、「必要な情報」と「無用な情報」をより分けている（注３）のかというと、同じ情報が繰り返し入ってくるかどうかということである。この間隔は一カ月と言われており、すなわち、一カ月の間で最低二回繰り返して頭に入れることで、「必要な情報」だと脳が認識し（注４）、知識が定着していくのである。逆に言えば、一度頭に入れて覚えたつもりでも、一カ月の間に繰り返し情報が入ってこなければ、いずれは「無用な情報」として脳がどこかに片付けてしまうのだ。\nこの結果、いったん覚えたはずの知識が、しばらくすると記憶の中から掻き消えて（注５）しまったようになり、実際に試験をしてみるとまったく思い出せないということが起こる。そこで、「年をとって記憶力が弱くなった」とか、「できていたはずなのに」と落ち込んでしまうけれど、実際には老化のせいでも何でもなく、単に復習をしていないだけだということが多いのだ。\n（和田秀樹『40代からの勉強法―やる気・集中力をどう高めるか』による）\n（注１）織り込まれる：ここでは、入っている\n（注２）特性：ここでは、特徴的な働き\n（注３）より分ける：ここでは、分類する\n（注４）認識する：ここでは、判断する\n（注５）掻き消える：なくなる"
+    }
+  ],
+  "questions": [
+    {
+      "num": 60,
+      "passage": "p1",
+      "stem": "①<u>書くという表現をする場合</u>の特徴として、筆者が述べているのはどれか。",
+      "options": [
+        "時間をかけるほどうまく書くことができる。",
+        "読み手の反応を想像しながら書くことができる。",
+        "道具を利用するので考えを早くまとめることができる。",
+        "何度もやり直しをしながら考えを進めることができる。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đặc điểm của trường hợp biểu đạt bằng cách viết mà tác giả nêu là gì? → Có thể vừa làm lại nhiều lần vừa phát triển suy nghĩ.",
+        "why": "Bài nói: viết là cách biểu đạt cho phép theo nhịp độ của mình, 行きつもどりつ (đi tới đi lui = qua lại nhiều lần) mà phát triển suy nghĩ → 'vừa làm lại nhiều lần vừa tiến triển suy nghĩ'.",
+        "options": [
+          "'Càng tốn thời gian càng viết hay' – bài chỉ nói じっくり時間をかけて, không nói tỉ lệ thuận. Sai.",
+          "'Tưởng tượng phản ứng người đọc' – không được đề cập. Sai.",
+          "'Dùng công cụ nên tổng hợp nhanh' – bài nói viết thì từ từ (じっくり), không nhanh. Sai.",
+          "Vừa làm lại nhiều lần vừa phát triển suy nghĩ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "じっくり", "r": "じっくり", "hv": "", "vi": "kỹ lưỡng, từ từ" },
+          { "w": "行きつもどりつ", "r": "いきつもどりつ", "hv": "", "vi": "đi tới đi lui, qua lại" },
+          { "w": "行為", "r": "こうい", "hv": "HÀNH VI", "vi": "hành vi, hành động" },
+          { "w": "表現", "r": "ひょうげん", "hv": "BIỂU HIỆN", "vi": "biểu đạt, diễn đạt" }
+        ],
+        "grammar": null,
+        "evidence": "書くという行為は、話すのと違って自分のペースで、行きつもどりつしながら、考えを進めていくことができる表現方法なのです。",
+        "tip": "行きつもどりつ (chú thích: 行ったり来たり) được diễn đạt lại thành 何度もやり直しをしながら."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p1",
+      "stem": "②<u>「何となく」はまったく伝わらない場合が多い</u>とあるが、なぜか。",
+      "options": [
+        "読み手とのやり取りがないから",
+        "読み手によって受け取り方が変わるから",
+        "微妙な感覚を表現する言葉が少ないから",
+        "文字以外に表現手段がないから"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "'Cái mơ hồ thường hoàn toàn không truyền đạt được' – vì sao? → Vì ngoài chữ viết ra không có phương tiện biểu đạt nào khác.",
+        "why": "Ngay sau câu gạch chân: không dùng được cử chỉ tay chân, nét mặt cũng không truyền tới người đọc → chỉ còn chữ viết. Vì vậy cảm giác 'mơ hồ' không truyền được.",
+        "options": [
+          "'Không có trao đổi qua lại với người đọc' – bài không lấy đó làm lý do trực tiếp. Sai.",
+          "'Tùy người đọc mà cách hiểu khác nhau' – không được nêu. Sai.",
+          "'Ít từ ngữ diễn tả cảm giác tinh tế' – không được nêu. Sai.",
+          "Ngoài chữ viết không có phương tiện khác. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "何となく", "r": "なんとなく", "hv": "", "vi": "mang máng, không rõ vì sao" },
+          { "w": "身振り", "r": "みぶり", "hv": "THÂN CHẤN", "vi": "cử chỉ, điệu bộ" },
+          { "w": "手振り", "r": "てぶり", "hv": "THỦ CHẤN", "vi": "động tác tay" },
+          { "w": "表情", "r": "ひょうじょう", "hv": "BIỂU TÌNH", "vi": "nét mặt" },
+          { "w": "手段", "r": "しゅだん", "hv": "THỦ ĐOẠN", "vi": "phương tiện, cách thức" }
+        ],
+        "grammar": null,
+        "evidence": "その「何となく」はまったく伝わらない場合が多いのです。身振りも手振りも使えません。顔の表情だって、読み手には伝わりません。",
+        "tip": "Lý do của câu gạch chân thường nằm ngay câu liền sau."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p1",
+      "stem": "この文章で筆者が最も言いたいことは何か。",
+      "options": [
+        "話すより書くほうが、自分の考えを人に伝えられる。",
+        "自分の考えを書いて表現することで、思考力が向上する。",
+        "時間をかけて何度も書き直せば、わかりやすい文章が書ける。",
+        "思考力をつけるためには、あいまいな考えは書かないほうがいい。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều tác giả muốn nói nhất là gì? → Nhờ biểu đạt suy nghĩ của mình bằng cách viết, năng lực tư duy được nâng cao.",
+        "why": "Câu kết: viết là trao ngôn từ rõ ràng cho ý tưởng mơ hồ, chính vì vậy (だからこそ) viết giúp năng lực suy nghĩ phát triển → đáp án 2.",
+        "options": [
+          "So sánh viết – nói về khả năng truyền đạt không phải ý chính. Sai.",
+          "Viết ra giúp nâng cao năng lực tư duy. ĐÚNG.",
+          "Bài không bàn về cách viết văn dễ hiểu. Sai.",
+          "Ngược lại: viết giúp biến ý mơ hồ thành rõ ràng, chứ không bảo đừng viết. Sai."
+        ],
+        "vocab": [
+          { "w": "明確", "r": "めいかく", "hv": "MINH XÁC", "vi": "rõ ràng, minh bạch" },
+          { "w": "定着", "r": "ていちゃく", "hv": "ĐỊNH TRƯỚC", "vi": "cố định, bám chắc" },
+          { "w": "もやもや", "r": "もやもや", "hv": "", "vi": "mơ hồ, lờ mờ" },
+          { "w": "思考力", "r": "しこうりょく", "hv": "TƯ KHẢO LỰC", "vi": "năng lực tư duy" }
+        ],
+        "grammar": {
+          "pattern": "だからこそ",
+          "meaning": "chính vì thế mà",
+          "form": "だからこそ＋kết luận",
+          "example": "難しい。だからこそ、挑戦する価値がある。"
+        },
+        "evidence": "書くという行為は、もやもやしたアイデアに明確なことばを与えていくことであり、だからこそ、書くことで考える力もついていくのです。",
+        "tip": "考える力がつく = 思考力が向上する."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p2",
+      "stem": "①<u>ねらいどおりに好調な売れ行きを見せている</u>とあるが、どのような人たちによく売れているのか。",
+      "options": [
+        "仕事中にコーヒーを飲んでいた人たち",
+        "高級なコーヒーをよく飲んでいた人たち",
+        "他とは違う緑茶製品を求めていた人たち",
+        "緑茶の香りを楽しみたいと思っていた人たち"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "'Đang bán chạy đúng như mục tiêu' – bán chạy với những người nào? → Những người vốn uống cà phê trong lúc làm việc.",
+        "why": "Mục tiêu (ねらい) của sản phẩm: được uống TRONG LÚC LÀM VIỆC, thay thế CÀ PHÊ vốn hay được uống khi làm việc. 'Đúng như mục tiêu' → bán chạy với người hay uống cà phê khi làm việc.",
+        "options": [
+          "Người uống cà phê trong lúc làm việc. ĐÚNG.",
+          "'Cà phê cao cấp' – 高級感 là cảm giác của bao bì, không nói về cà phê cao cấp. Sai.",
+          "'Muốn trà xanh khác biệt' – không phải mục tiêu được nêu. Sai.",
+          "Hương thơm chỉ là một chi tiết thiết kế, không phải đối tượng mục tiêu. Sai."
+        ],
+        "vocab": [
+          { "w": "ねらい", "r": "ねらい", "hv": "", "vi": "mục tiêu, nhắm tới" },
+          { "w": "売れ行き", "r": "うれゆき", "hv": "MẠI HÀNH", "vi": "tình hình bán hàng" },
+          { "w": "好調", "r": "こうちょう", "hv": "HẢO ĐIỀU", "vi": "thuận lợi, tốt" },
+          { "w": "代わり", "r": "かわり", "hv": "ĐẠI", "vi": "sự thay thế" }
+        ],
+        "grammar": {
+          "pattern": "～どおり（に）",
+          "meaning": "đúng như ~",
+          "form": "N＋どおり／Vる・Vた＋とおり",
+          "example": "計画どおりに進んでいる。"
+        },
+        "evidence": "あるメーカーが、仕事中に飲んでもらうことをねらって緑茶の新製品を開発した。仕事中によく飲まれているコーヒーの代わりになるように、味は通常より濃くした。",
+        "tip": "ねらいどおり → quay lại tìm câu có ねらって để biết mục tiêu."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p2",
+      "stem": "②<u>ある消費者調査の結果</u>について、この文章で述べられているのはどれか。",
+      "options": [
+        "金属製ボトルに対する抵抗感には男女差がある。",
+        "金属製ボトルに対しては、60歳を境に好みが分かれる。",
+        "目新しい形や色のペットボトルは、性別を問わず好まれる。",
+        "60歳以上の人は、男女ともに見慣れた形や色のペットボトルを好む。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Về kết quả khảo sát người tiêu dùng, bài viết nói gì? → Với chai kim loại, sở thích chia rẽ ở mốc 60 tuổi.",
+        "why": "Dưới 60 tuổi cảm thấy chai kim loại sang trọng, có ấn tượng tốt; từ 60 tuổi trở lên thấy khó chịu và thích chai nhựa → lấy 60 tuổi làm ranh giới (60歳を境に).",
+        "options": [
+          "Khác biệt nam nữ chỉ được nói với chai nhựa (PET), không phải chai kim loại. Sai.",
+          "Lấy 60 tuổi làm ranh giới, sở thích chia rẽ. ĐÚNG.",
+          "Kiểu dáng/màu mới lạ chỉ được nữ trên 60 thích, nam thích kiểu quen thuộc. Sai.",
+          "Chỉ nam trên 60 thích kiểu quen thuộc; nữ thích kiểu mới. Sai."
+        ],
+        "vocab": [
+          { "w": "金属製", "r": "きんぞくせい", "hv": "KIM LOẠI CHẾ", "vi": "làm bằng kim loại" },
+          { "w": "抵抗", "r": "ていこう", "hv": "ĐỂ KHÁNG", "vi": "sự e ngại, phản kháng" },
+          { "w": "～を境に", "r": "をさかいに", "hv": "CẢNH", "vi": "lấy ~ làm ranh giới" },
+          { "w": "目新しい", "r": "めあたらしい", "hv": "MỤC TÂN", "vi": "mới lạ" },
+          { "w": "見慣れる", "r": "みなれる", "hv": "KIẾN QUÁN", "vi": "nhìn quen" }
+        ],
+        "grammar": {
+          "pattern": "～を問わず",
+          "meaning": "không phân biệt ~",
+          "form": "N＋を問わず",
+          "example": "年齢を問わず、誰でも参加できます。"
+        },
+        "evidence": "金属製ボトルに対して、60歳未満の人は高級感を感じ好印象を持っているが、60歳以上の人は抵抗を感じ、ペットボトルのほうを好むことがわかった。",
+        "tip": "Phân biệt rõ: kim loại → chia theo tuổi; PET (trên 60) → chia theo giới tính."
+      }
+    },
+    {
+      "num": 65,
+      "passage": "p2",
+      "stem": "メーカーの取り組みについて、この文章からわかることは何か。",
+      "options": [
+        "味だけでなく容器にも消費者の好みを反映させている。",
+        "味より見た目を重視するようになってきている。",
+        "メーカーに対する消費者の印象を良くしようとしている。",
+        "年代や性別の違いを超えて売れる商品を開発している。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về nỗ lực của các nhà sản xuất, ta biết được gì? → Họ phản ánh sở thích người tiêu dùng không chỉ vào hương vị mà cả vào bao bì.",
+        "why": "Đầu bài: nhà sản xuất chú trọng 'vị thì đương nhiên, cả chai cũng vậy'; sau đó giải thích lý do: người tiêu dùng có sở thích về chất liệu, hình dạng chai → đáp án 1.",
+        "options": [
+          "Phản ánh sở thích vào cả vị lẫn bao bì. ĐÚNG.",
+          "'Coi trọng vẻ ngoài hơn vị' – bài nói 味はもちろん (vị là đương nhiên), không đặt hình thức lên trên. Sai.",
+          "Ấn tượng về nhà sản xuất không được đề cập. Sai.",
+          "Ngược lại: vì sở thích khác nhau theo tuổi, giới nên có nhiều sản phẩm đa dạng. Sai."
+        ],
+        "vocab": [
+          { "w": "こだわる", "r": "こだわる", "hv": "", "vi": "chú trọng, kỹ tính về" },
+          { "w": "容器", "r": "ようき", "hv": "DUNG KHÍ", "vi": "vật chứa, bao bì" },
+          { "w": "反映", "r": "はんえい", "hv": "PHẢN ÁNH", "vi": "phản ánh" },
+          { "w": "材質", "r": "ざいしつ", "hv": "TÀI CHẤT", "vi": "chất liệu" }
+        ],
+        "grammar": {
+          "pattern": "～はもちろん",
+          "meaning": "~ thì đương nhiên rồi, (cả ~ nữa)",
+          "form": "N＋はもちろん、N＋も",
+          "example": "この店は味はもちろん、サービスもいい。"
+        },
+        "evidence": "メーカーは味はもちろん、ボトルにもこだわっている。／この例のようにメーカーがボトルにもこだわるのは、消費者にボトルの材質や形の好き嫌いがあるという事実があるからだ。",
+        "tip": "ボトル → 容器 (diễn đạt lại)."
+      }
+    },
+    {
+      "num": 66,
+      "passage": "p3",
+      "stem": "筆者によると、学生時代のほうが知識が定着しやすいのはなぜか。",
+      "options": [
+        "大人より記憶力が優れているから",
+        "大人と比べて「わかった」という思い込みをしないから",
+        "学校では一度学んだことを繰り返し勉強するから",
+        "学校では覚えたほうがいい知識だけが教えられているから"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Theo tác giả, vì sao thời đi học kiến thức dễ được ghi nhớ hơn? → Vì ở trường, những gì đã học sẽ được học đi học lại.",
+        "why": "Việc học thời sinh viên dù muốn hay không thì phần ÔN TẬP đã được lồng vào chương trình (カリキュラム) → học lặp lại → kiến thức dễ ghi nhớ.",
+        "options": [
+          "Tác giả phủ nhận việc trí nhớ kém đi do tuổi tác. Sai.",
+          "Việc 'tưởng đã hiểu' được nói về người lớn, không phải lý do chính của học sinh. Sai.",
+          "Ở trường học đi học lại điều đã học. ĐÚNG.",
+          "Không nói trường chỉ dạy kiến thức nên nhớ. Sai."
+        ],
+        "vocab": [
+          { "w": "復習", "r": "ふくしゅう", "hv": "PHỤC TẬP", "vi": "ôn tập" },
+          { "w": "織り込む", "r": "おりこむ", "hv": "CHỨC", "vi": "đan vào, lồng ghép" },
+          { "w": "定着", "r": "ていちゃく", "hv": "ĐỊNH TRƯỚC", "vi": "ghi nhớ chắc, bám rễ" },
+          { "w": "思い込む", "r": "おもいこむ", "hv": "TƯ", "vi": "đinh ninh, tin chắc (sai)" }
+        ],
+        "grammar": {
+          "pattern": "いやでも",
+          "meaning": "dù muốn hay không, bắt buộc",
+          "form": "いやでも＋V",
+          "example": "この仕事をしていれば、いやでも英語が上手になる。"
+        },
+        "evidence": "学生時代の勉強は、いやでも復習がカリキュラムの中に織り込まれているので、知識が定着しやすくなっている。",
+        "tip": null
+      }
+    },
+    {
+      "num": 67,
+      "passage": "p3",
+      "stem": "筆者によると、一カ月以内にどうすれば知識が定着していくか。",
+      "options": [
+        "得た情報をすでに持っている情報と関連づける。",
+        "得た情報をもう一度思い出して整理する。",
+        "得た情報と関係のある情報を繰り返し頭に入れる。",
+        "得た情報と同じ情報をもう一度頭に入れる。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, trong vòng một tháng phải làm gì để kiến thức được ghi nhớ? → Đưa thông tin GIỐNG HỆT vào đầu thêm một lần nữa.",
+        "why": "Não phân loại thông tin cần/không cần dựa vào việc 'cùng một thông tin có được đưa vào lặp lại hay không'; trong một tháng đưa vào ít nhất 2 lần → não nhận định là 'cần' → ghi nhớ. Tức là đưa lại chính thông tin đó lần nữa.",
+        "options": [
+          "Liên kết với thông tin đã có – không được nêu. Sai.",
+          "Nhớ lại và sắp xếp – bài nói 'đưa vào đầu' (頭に入れる), không phải tự hồi tưởng. Sai.",
+          "Thông tin 'có liên quan' – bài nói 'cùng một thông tin' (同じ情報). Sai.",
+          "Đưa thông tin giống hệt vào đầu lần nữa. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "繰り返す", "r": "くりかえす", "hv": "SÀO PHẢN", "vi": "lặp lại" },
+          { "w": "間隔", "r": "かんかく", "hv": "GIAN CÁCH", "vi": "khoảng cách (thời gian)" },
+          { "w": "最低", "r": "さいてい", "hv": "TỐI ĐÊ", "vi": "ít nhất, tối thiểu" },
+          { "w": "認識", "r": "にんしき", "hv": "NHẬN THỨC", "vi": "nhận thức, nhận định" }
+        ],
+        "grammar": {
+          "pattern": "すなわち",
+          "meaning": "tức là, nói cách khác",
+          "form": "A。すなわちB",
+          "example": "日本の首都、すなわち東京。"
+        },
+        "evidence": "同じ情報が繰り返し入ってくるかどうかということである。この間隔は一カ月と言われており、すなわち、一カ月の間で最低二回繰り返して頭に入れることで、「必要な情報」だと脳が認識し、知識が定着していくのである。",
+        "tip": "Bẫy: 関係のある情報 (thông tin liên quan) ≠ 同じ情報 (cùng thông tin)."
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p3",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "大人が勉強する場合には、意識して復習を取り入れることが大切だ。",
+        "大人が知識を習得するには、学生時代より多く復習しなければならない。",
+        "復習を習慣にすれば、老化による記憶力の衰えを防ぐことができる。",
+        "一度忘れてしまった知識でも、復習すれば思い出すことができる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều nào phù hợp với quan điểm tác giả? → Khi người lớn học, điều quan trọng là phải chủ động đưa việc ôn tập vào.",
+        "why": "Người lớn tự học nếu không 'có ý thức tạo cơ hội ôn tập' thì dễ tưởng đã hiểu; việc quên không phải do lão hóa mà do không ôn tập → cần chủ động ôn tập.",
+        "options": [
+          "Người lớn cần chủ động đưa ôn tập vào việc học. ĐÚNG.",
+          "'Phải ôn nhiều hơn thời đi học' – bài không so sánh số lượng. Sai.",
+          "Tác giả nói việc quên không phải do lão hóa, nên 'ngăn suy giảm trí nhớ do lão hóa' không đúng ý. Sai.",
+          "Bài không bàn về việc nhớ lại kiến thức đã quên. Sai."
+        ],
+        "vocab": [
+          { "w": "取り入れる", "r": "とりいれる", "hv": "THỦ NHẬP", "vi": "đưa vào, áp dụng" },
+          { "w": "老化", "r": "ろうか", "hv": "LÃO HÓA", "vi": "lão hóa" },
+          { "w": "記憶力", "r": "きおくりょく", "hv": "KÝ ỨC LỰC", "vi": "trí nhớ" },
+          { "w": "落ち込む", "r": "おちこむ", "hv": "LẠC", "vi": "chán nản, suy sụp" }
+        ],
+        "grammar": {
+          "pattern": "～がち",
+          "meaning": "hay, thường có khuynh hướng ~ (tiêu cực)",
+          "form": "Vます(bỏ ます)／N＋がち",
+          "example": "冬は風邪をひきがちだ。"
+        },
+        "evidence": "大人になって自分で勉強するときには、意識して復習の機会をつくらないと、一回本を読んだだけで「もうわかった。大丈夫」と思い込んでしまいがちになるのだ。／実際には老化のせいでも何でもなく、単に復習をしていないだけだということが多いのだ。",
+        "tip": "意識して復習の機会をつくる = 意識して復習を取り入れる."
+      }
+    }
+  ]
+}

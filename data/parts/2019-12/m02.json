@@ -1,0 +1,137 @@
+{
+  "exam": "2019-12",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết Kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "その行為は交通ルールに<u>いはん</u>します。",
+      "options": ["偉判", "偉反", "違判", "違反"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hành vi đó vi phạm luật giao thông.",
+        "why": "いはん = 違反 (VI PHẢN): vi phạm. 違 (sai, trái) + 反 (ngược lại) → làm trái quy định.",
+        "options": [
+          "偉判 → 偉 (VĨ: vĩ đại) + 判 (phán): không có từ này. Sai.",
+          "偉反 → dùng nhầm 偉 thay cho 違. Sai.",
+          "違判 → dùng nhầm 判 thay cho 反. Sai.",
+          "違反 → vi phạm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "違反", "r": "いはん", "hv": "VI PHẢN", "vi": "vi phạm" },
+          { "w": "行為", "r": "こうい", "hv": "HÀNH VI", "vi": "hành vi" },
+          { "w": "偉い", "r": "えらい", "hv": "VĨ", "vi": "vĩ đại, giỏi giang" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "違 (bộ 辶: đi chệch đường) ≠ 偉 (bộ 亻: người vĩ đại). 違反・違う・相違 đều dùng 違."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "<u>いさましい</u>声が聞こえてきた。",
+      "options": ["戦ましい", "勇ましい", "騒ましい", "勢ましい"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi nghe thấy một giọng nói dũng mãnh (hùng dũng).",
+        "why": "いさましい = 勇ましい (DŨNG): dũng cảm, hùng dũng. Các chữ còn lại không có cách viết 〜ましい.",
+        "options": [
+          "戦ましい → 戦 (CHIẾN) đọc たたか(う), không có từ này. Sai.",
+          "勇ましい → hùng dũng, dũng cảm. ĐÚNG.",
+          "騒ましい → 騒 đọc さわ(ぐ)/さわがしい, không có từ này. Sai.",
+          "勢ましい → 勢 (THẾ) đọc いきお(い), không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "勇ましい", "r": "いさましい", "hv": "DŨNG", "vi": "dũng cảm, hùng dũng" },
+          { "w": "勇気", "r": "ゆうき", "hv": "DŨNG KHÍ", "vi": "dũng khí, can đảm" },
+          { "w": "騒がしい", "r": "さわがしい", "hv": "TAO", "vi": "ồn ào" },
+          { "w": "勢い", "r": "いきおい", "hv": "THẾ", "vi": "khí thế, đà" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "勇 = 勇気 (ゆうき). Nghĩ tới 'dũng khí' là ra いさましい."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "その店には<u>ようき</u>な音楽が流れていた。",
+      "options": ["揚起", "揚気", "陽気", "陽起"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Trong cửa hàng đó đang phát một bản nhạc vui tươi.",
+        "why": "ようき (tính từ な) = 陽気 (DƯƠNG KHÍ): vui vẻ, sôi nổi, tươi sáng. 陽 = mặt trời, 気 = khí.",
+        "options": [
+          "揚起 → 揚 (DƯƠNG: nâng lên, chiên) + 起: không có từ này. Sai.",
+          "揚気 → dùng nhầm 揚. Sai.",
+          "陽気 → vui vẻ, tươi sáng. ĐÚNG.",
+          "陽起 → dùng nhầm 起. Sai."
+        ],
+        "vocab": [
+          { "w": "陽気", "r": "ようき", "hv": "DƯƠNG KHÍ", "vi": "vui vẻ, sôi nổi; tiết trời" },
+          { "w": "陰気", "r": "いんき", "hv": "ÂM KHÍ", "vi": "u ám, ảm đạm" },
+          { "w": "流れる", "r": "ながれる", "hv": "LƯU", "vi": "chảy; (nhạc) được phát" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "陽気 ⇔ 陰気 (âm – dương). 揚 dùng trong 揚げる (chiên, giương lên)."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "楽しみにしていたドラマを<u>みのがして</u>しまった。",
+      "options": ["見逃して", "見延して", "見欠して", "見去して"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đã lỡ mất bộ phim truyền hình mà tôi mong chờ.",
+        "why": "みのがす = 見逃す (KIẾN ĐÀO): bỏ lỡ (không xem được), bỏ qua. 逃す đọc のがす = để vuột mất.",
+        "options": [
+          "見逃して → bỏ lỡ, không xem được. ĐÚNG.",
+          "見延して → 延 đọc の(びる/ばす) nhưng không có từ này. Sai.",
+          "見欠して → 欠 đọc か(ける), không có từ này. Sai.",
+          "見去して → 去 đọc さ(る), không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "見逃す", "r": "みのがす", "hv": "KIẾN ĐÀO", "vi": "bỏ lỡ; làm ngơ bỏ qua" },
+          { "w": "逃す", "r": "のがす", "hv": "ĐÀO", "vi": "để vuột mất, bỏ lỡ" },
+          { "w": "逃げる", "r": "にげる", "hv": "ĐÀO", "vi": "chạy trốn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "逃: にげる (chạy trốn), のがす/のがれる (vuột mất / thoát khỏi). 見逃す, 乗り逃す (lỡ chuyến)."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "来月から、道路を<u>かくちょう</u>するための工事が始まる。",
+      "options": ["拡張", "広張", "拡長", "広長"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Từ tháng sau sẽ bắt đầu công trình mở rộng đường.",
+        "why": "かくちょう = 拡張 (KHUẾCH TRƯƠNG): mở rộng (quy mô, đường sá). 拡 đọc かく, 張 đọc ちょう.",
+        "options": [
+          "拡張 → mở rộng. ĐÚNG.",
+          "広張 → 広 đọc こう, không phải かく. Sai.",
+          "拡長 → 長 cũng đọc ちょう nhưng không có từ này. Sai.",
+          "広長 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "拡張", "r": "かくちょう", "hv": "KHUẾCH TRƯƠNG", "vi": "mở rộng" },
+          { "w": "拡大", "r": "かくだい", "hv": "KHUẾCH ĐẠI", "vi": "phóng to, mở rộng" },
+          { "w": "工事", "r": "こうじ", "hv": "CÔNG SỰ", "vi": "công trình, thi công" },
+          { "w": "道路", "r": "どうろ", "hv": "ĐẠO LỘ", "vi": "đường sá" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "拡 (かく) luôn đi với nghĩa 'mở rộng': 拡大, 拡張, 拡散. 張 = căng ra (引っ張る)."
+      }
+    }
+  ]
+}

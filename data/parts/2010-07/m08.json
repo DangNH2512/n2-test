@@ -1,0 +1,158 @@
+{
+  "exam": "2010-07",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các từ cho đúng thứ tự và chọn từ đặt ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "Ａ「先週の授業、どこまで進んだ？」\nＢ「３課の文法の練習問題を ＿＿＿ ＿＿＿ ★ ＿＿＿ 終わったよ。」",
+      "options": ["で", "解いた", "ところ", "まで"],
+      "answer": 4,
+      "explanation": {
+        "translation": "A: “Buổi học tuần trước học đến đâu rồi?” B: “Kết thúc ở chỗ giải xong bài tập ngữ pháp bài 3.”",
+        "why": "Câu hoàn chỉnh: 練習問題を 解いた(2) ところ(3) まで(4) で(1) 終わったよ. ～ところまで = đến chỗ ～; ～までで終わる = kết thúc ở mức ～. Vị trí ★ (thứ 3) là まで.",
+        "options": [
+          "で → vị trí 4 (～までで終わる).",
+          "解いた → vị trí 1 (bổ nghĩa cho ところ).",
+          "ところ → vị trí 2 (解いたところ = chỗ đã giải).",
+          "まで → vị trí 3 = ★. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "解く", "r": "とく", "hv": "GIẢI", "vi": "giải (bài tập)" },
+          { "w": "練習問題", "r": "れんしゅうもんだい", "hv": "LUYỆN TẬP VẤN ĐỀ", "vi": "bài tập" },
+          { "w": "課", "r": "か", "hv": "KHÓA", "vi": "bài (trong giáo trình)" }
+        ],
+        "grammar": {
+          "pattern": "～ところまで(で)",
+          "meaning": "đến chỗ/đến mức ～ (thì dừng)",
+          "form": "Vた + ところまで",
+          "example": "今日は10ページを読んだところまでで終わりにしましょう。"
+        },
+        "evidence": null,
+        "tip": "Trật tự: [Vた + ところ] + まで + で + 終わる."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "ひとくちに ＿＿＿ ★ ＿＿＿ ＿＿＿ 材料はさまざまだ。",
+      "options": ["それぞれの店", "といっても", "によって", "カレーライス"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tuy gọi chung một tiếng là cơm cà ri, nhưng nguyên liệu khác nhau tùy theo từng quán.",
+        "why": "Câu hoàn chỉnh: ひとくちに カレーライス(4) といっても(2) それぞれの店(1) によって(3) 材料はさまざまだ. Mẫu ひとくちに～といっても = tuy gọi chung là ～ nhưng…. ★ ở vị trí 2 là といっても.",
+        "options": [
+          "それぞれの店 → vị trí 3.",
+          "といっても → vị trí 2 = ★. ĐÚNG.",
+          "によって → vị trí 4 (～によってさまざまだ).",
+          "カレーライス → vị trí 1."
+        ],
+        "vocab": [
+          { "w": "ひとくちに", "r": "ひとくちに", "hv": "", "vi": "nói gộp lại, gọi chung" },
+          { "w": "材料", "r": "ざいりょう", "hv": "TÀI LIỆU", "vi": "nguyên liệu" },
+          { "w": "さまざま", "r": "さまざま", "hv": "", "vi": "đa dạng, khác nhau" }
+        ],
+        "grammar": {
+          "pattern": "ひとくちに～といっても",
+          "meaning": "tuy gọi chung là ～ nhưng (thực ra rất đa dạng)",
+          "form": "ひとくちに + N + といっても",
+          "example": "ひとくちに日本料理といっても、地方によって味が違う。"
+        },
+        "evidence": null,
+        "tip": "～によってさまざまだ / ～によって違う là cặp quen thuộc."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "田中さんはいつも ＿＿＿ ＿＿＿ ★ ＿＿＿ 自分では何もしない。",
+      "options": ["文句を言う", "ばかりで", "人の", "やることに"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Anh Tanaka lúc nào cũng chỉ phàn nàn về việc người khác làm, còn bản thân thì chẳng làm gì.",
+        "why": "Câu hoàn chỉnh: いつも 人の(3) やることに(4) 文句を言う(1) ばかりで(2) 自分では何もしない. ～に文句を言う = phàn nàn về ～; V辞書形 + ばかりで = chỉ toàn ～. ★ ở vị trí 3 là 文句を言う.",
+        "options": [
+          "文句を言う → vị trí 3 = ★. ĐÚNG.",
+          "ばかりで → vị trí 4 (nối với 自分では何もしない).",
+          "人の → vị trí 1 (人のやること = việc người khác làm).",
+          "やることに → vị trí 2."
+        ],
+        "vocab": [
+          { "w": "文句", "r": "もんく", "hv": "VĂN CÚ", "vi": "lời phàn nàn" },
+          { "w": "文句を言う", "r": "もんくをいう", "hv": "", "vi": "phàn nàn, càu nhàu" }
+        ],
+        "grammar": {
+          "pattern": "～ばかりで",
+          "meaning": "chỉ toàn ～ (mà không làm gì khác)",
+          "form": "V辞書形 + ばかりで",
+          "example": "彼は口で言うばかりで、何もしない。"
+        },
+        "evidence": null,
+        "tip": "人のやること + に + 文句を言う: trợ từ に chỉ đối tượng phàn nàn."
+      }
+    },
+    {
+      "num": 48,
+      "passage": null,
+      "stem": "Ａ「この『りかい』という言葉はどういう意味ですか。」\nＢ「ああ、確か『わかる』 ＿＿＿ ★ ＿＿＿ ＿＿＿ んですけど。」",
+      "options": ["意味だった", "という", "ような", "と思う"],
+      "answer": 3,
+      "explanation": {
+        "translation": "A: “Từ ‘rikai’ này nghĩa là gì vậy?” B: “À, hình như là mang nghĩa kiểu như ‘hiểu’ thì phải.”",
+        "why": "Câu hoàn chỉnh: 『わかる』 という(2) ような(3) 意味だった(1) と思う(4) んですけど. ～というような意味 = nghĩa kiểu như ～. ★ ở vị trí 2 là ような.",
+        "options": [
+          "意味だった → vị trí 3.",
+          "という → vị trí 1 (『わかる』という).",
+          "ような → vị trí 2 = ★. ĐÚNG.",
+          "と思う → vị trí 4 (と思うんですけど)."
+        ],
+        "vocab": [
+          { "w": "確か", "r": "たしか", "hv": "XÁC", "vi": "nếu tôi nhớ không nhầm" },
+          { "w": "意味", "r": "いみ", "hv": "Ý VỊ", "vi": "ý nghĩa" }
+        ],
+        "grammar": {
+          "pattern": "～というような + N",
+          "meaning": "N kiểu như là ～ (nói không chắc chắn)",
+          "form": "普通形/N + というような + N",
+          "example": "「休みたい」というような気持ちになる。"
+        },
+        "evidence": null,
+        "tip": "確か～と思う = hình như là ～ (nhớ mang máng)."
+      }
+    },
+    {
+      "num": 49,
+      "passage": null,
+      "stem": "毎年、合格者の８０パーセントが ＿＿＿ ★ ＿＿＿ ＿＿＿ この試験に合格するのは簡単ではないだろう。",
+      "options": ["実務経験者という", "私が", "ことからすると", "未経験者の"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Xét từ việc hằng năm 80% người đỗ là người có kinh nghiệm thực tế, thì việc tôi – một người chưa có kinh nghiệm – đỗ kỳ thi này hẳn không dễ dàng.",
+        "why": "Câu hoàn chỉnh: 80パーセントが 実務経験者という(1) ことからすると(3) 未経験者の(4) 私が(2) この試験に合格するのは…. ～ことからすると = xét từ việc ～. ★ ở vị trí 2 là ことからすると.",
+        "options": [
+          "実務経験者という → vị trí 1.",
+          "私が → vị trí 4 (chủ ngữ của 合格する).",
+          "ことからすると → vị trí 2 = ★. ĐÚNG.",
+          "未経験者の → vị trí 3 (未経験者の私 = tôi, người chưa có kinh nghiệm)."
+        ],
+        "vocab": [
+          { "w": "実務経験", "r": "じつむけいけん", "hv": "THỰC VỤ KINH NGHIỆM", "vi": "kinh nghiệm thực tế công việc" },
+          { "w": "未経験者", "r": "みけいけんしゃ", "hv": "VỊ KINH NGHIỆM GIẢ", "vi": "người chưa có kinh nghiệm" },
+          { "w": "合格者", "r": "ごうかくしゃ", "hv": "HỢP CÁCH GIẢ", "vi": "người đỗ" }
+        ],
+        "grammar": {
+          "pattern": "～ことからすると / ～からすると",
+          "meaning": "xét từ ～, căn cứ vào ～ thì",
+          "form": "普通形 + ことからすると",
+          "example": "電気が消えていることからすると、留守のようだ。"
+        },
+        "evidence": null,
+        "tip": "N1 の N2: 未経験者の私 = “tôi, người chưa có kinh nghiệm” (の đồng vị)."
+      }
+    }
+  ]
+}

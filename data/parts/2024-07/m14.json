@@ -1,0 +1,79 @@
+{
+  "exam": "2024-07",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "右のページは、ある動画コンテストの募集案内である。下の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Trang bên là thông báo tuyển tác phẩm cho một cuộc thi video. Chọn câu trả lời đúng nhất (tìm thông tin).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "春口市「動画コンテスト」",
+      "text": "春口市「動画コンテスト」\n動画作品募集のご案内\n\n春口市の魅力をアピールする動画を募集します。受賞した作品は、春口市のホームページで公開し、市の魅力を伝える活動に使用させていただきます。\n\n1．募集する作品\n以下の①か②のどちらかの部門に応募してください。応募できるのは、一人1作品で、未発表の作品に限ります。\n①緑茶部門：春口市の緑茶をアピールする、20秒から30秒の作品\n②観光部門：春口市の歴史、文化、自然に関する、2分から5分の作品\n\n2．応募資格：高校生以上の方であれば、どなたでも応募可能です。\n\n3．選考方法と賞品\n選考は、春口市出身の映像作家である花山洋子氏を委員長とする選考委員会が行います。\n賞品として、最優秀賞受賞者（①②各1名）に商品券3万円分を、優秀賞受賞者（①②各2名）に商品券1万円分を、応募者全員に記念品を差し上げます。\n\n4．応募方法\n4月15日（月）から5月10日（金）までの間に、春口市広報課ホームページの応募用ページから必要な情報を送信してください。その後、動画を以下の（1）か（2）のどちらかの方法で送ってください。\n（1）DVDに記録して郵送する場合\n作品をDVDに記録して、5月17日（金）必着で郵送してください。なお、提出されたDVDは返却いたしません。\n（2）インターネットで送信する場合\n応募の受付後1週間以内に動画送信用ページの情報をお知らせするので、5月24日（金）までに送信してください。\n\n5．応募および問い合わせ先\n春口市役所広報課（市役所3階）\n〒129-9988　春口市東町1丁目1番　電話・FAX：032-451-6879\nホームページ：http://haruguchi-jp.com/video-contest"
+    }
+  ],
+  "questions": [
+    {
+      "num": 70,
+      "passage": "p1",
+      "stem": "次の4人は、動画コンテストに応募しようと考えている。現段階で応募条件を満たしているのは誰か。\n名前｜職業｜作品の内容｜応募動画の長さ｜応募動画の発表歴\nヤンさん｜高校生｜春口市の自然の魅力｜25秒｜なし\n村木さん｜塾講師｜春口市の緑茶の魅力｜28秒｜なし\n長島さん｜会社員｜春口市の歴史的な建物｜3分45秒｜あり\n原田さん｜中学生｜春口市の祭りの文化｜2分15秒｜なし",
+      "options": ["ヤンさん", "村木さん", "長島さん", "原田さん"],
+      "answer": 2,
+      "explanation": {
+        "translation": "4 người sau đang định tham gia cuộc thi video. Ở thời điểm hiện tại, ai đáp ứng điều kiện dự thi? → Anh/chị Muraki.",
+        "why": "Điều kiện: từ học sinh THPT trở lên, chưa công bố, và độ dài đúng hạng mục (trà xanh 20–30 giây; du lịch 2–5 phút). Muraki: giáo viên lò luyện thi, chủ đề trà xanh, 28 giây, chưa công bố → thỏa mãn tất cả.",
+        "options": [
+          "ヤンさん: chủ đề thiên nhiên thuộc hạng mục du lịch → cần 2–5 phút, nhưng video chỉ 25 giây. Sai.",
+          "村木さん: trà xanh, 28 giây (20–30 giây), chưa công bố, người lớn. ĐÚNG.",
+          "長島さん: video đã từng công bố (発表歴あり) → vi phạm 未発表. Sai.",
+          "原田さん: học sinh THCS → không đủ tư cách (phải từ THPT trở lên). Sai."
+        ],
+        "vocab": [
+          { "w": "応募", "r": "おうぼ", "hv": "ỨNG MỘ", "vi": "ứng tuyển, dự thi" },
+          { "w": "資格", "r": "しかく", "hv": "TƯ CÁCH", "vi": "tư cách, điều kiện" },
+          { "w": "未発表", "r": "みはっぴょう", "hv": "VỊ PHÁT BIỂU", "vi": "chưa công bố" },
+          { "w": "部門", "r": "ぶもん", "hv": "BỘ MÔN", "vi": "hạng mục, bộ phận" },
+          { "w": "塾講師", "r": "じゅくこうし", "hv": "THỤC GIẢNG SƯ", "vi": "giáo viên lò luyện thi" }
+        ],
+        "grammar": {
+          "pattern": "〜に限ります",
+          "meaning": "chỉ giới hạn ở ~",
+          "form": "N + に限る",
+          "example": "参加者は会員に限ります。"
+        },
+        "evidence": "応募できるのは、一人1作品で、未発表の作品に限ります。①緑茶部門：春口市の緑茶をアピールする、20秒から30秒の作品 ②観光部門：春口市の歴史、文化、自然に関する、2分から5分の作品／応募資格：高校生以上の方であれば、どなたでも応募可能です。",
+        "tip": "Kiểm tra lần lượt 3 điều kiện (tư cách – độ dài theo hạng mục – chưa công bố); loại từng người."
+      }
+    },
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "ローズさんは、動画コンテストに応募しようと考えている。動画は、インターネットで送りたい。ローズさんは、どうしなければならないか。",
+      "options": [
+        "5月10日までに応募情報を送信し、17日までに動画を送信する。",
+        "5月10日までに応募情報を送信し、24日までに動画を送信する。",
+        "5月10日までに応募情報と動画を送信する。",
+        "5月24日までに応募情報と動画を送信する。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Rose muốn tham gia cuộc thi và muốn gửi video qua Internet. Rose phải làm gì? → Gửi thông tin đăng ký trước 10/5, gửi video trước 24/5.",
+        "why": "Bước 1: gửi thông tin cần thiết qua trang đăng ký từ 15/4 đến 10/5. Bước 2: gửi qua Internet → hạn là 5月24日. (Hạn 17/5 là cho DVD gửi bưu điện.)",
+        "options": [
+          "17/5 là hạn gửi DVD qua bưu điện, không phải Internet. Sai.",
+          "10/5 gửi thông tin, 24/5 gửi video qua mạng. ĐÚNG.",
+          "Video không cần gửi cùng lúc trước 10/5; được gửi sau, hạn 24/5. Sai.",
+          "Thông tin đăng ký phải gửi trước 10/5, không phải 24/5. Sai."
+        ],
+        "vocab": [
+          { "w": "送信", "r": "そうしん", "hv": "TỐNG TÍN", "vi": "gửi (dữ liệu)" },
+          { "w": "必着", "r": "ひっちゃく", "hv": "TẤT TRƯỚC", "vi": "phải đến nơi (trước hạn)" },
+          { "w": "郵送", "r": "ゆうそう", "hv": "BƯU TỐNG", "vi": "gửi bưu điện" },
+          { "w": "受付", "r": "うけつけ", "hv": "THỤ PHÓ", "vi": "tiếp nhận" }
+        ],
+        "grammar": null,
+        "evidence": "4月15日（月）から5月10日（金）までの間に、春口市広報課ホームページの応募用ページから必要な情報を送信してください。…（2）インターネットで送信する場合：応募の受付後1週間以内に動画送信用ページの情報をお知らせするので、5月24日（金）までに送信してください。",
+        "tip": "Bài thông báo có 2 bước + 2 phương thức → đối chiếu đúng phương thức (Internet) để lấy hạn."
+      }
+    }
+  ]
+}

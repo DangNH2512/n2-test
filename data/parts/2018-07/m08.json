@@ -1,0 +1,157 @@
+{
+  "exam": "2018-07",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các vế cho đúng và chọn vế đứng ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "どんなスポーツでも、日々の練習が ＿＿＿ ★ ＿＿＿ ＿＿＿ 行うと時間をかけてもなかなか上達しない。",
+      "options": ["もちろんだが", "欠かせないのは", "上達に", "間違った方法で"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Môn thể thao nào cũng vậy, việc luyện tập hằng ngày là không thể thiếu cho sự tiến bộ, điều đó là đương nhiên, nhưng nếu tập sai phương pháp thì dù mất nhiều thời gian cũng khó tiến bộ.",
+        "why": "Thứ tự đúng: 日々の練習が [3 上達に] [2 欠かせないのは] [1 もちろんだが] [4 間違った方法で] 行うと… → ★ (vị trí 2) = 欠かせないのは.",
+        "options": [
+          "もちろんだが → vị trí 3. Sai.",
+          "欠かせないのは → vị trí 2 (★). ĐÚNG.",
+          "上達に → vị trí 1. Sai.",
+          "間違った方法で → vị trí 4, đứng ngay trước 行う. Sai."
+        ],
+        "vocab": [
+          { "w": "上達", "r": "じょうたつ", "hv": "THƯỢNG ĐẠT", "vi": "tiến bộ" },
+          { "w": "欠かせない", "r": "かかせない", "hv": "KHIẾM", "vi": "không thể thiếu" },
+          { "w": "日々", "r": "ひび", "hv": "NHẬT NHẬT", "vi": "hằng ngày" }
+        ],
+        "grammar": {
+          "pattern": "〜のはもちろんだが",
+          "meaning": "… là điều đương nhiên, nhưng…",
+          "form": "普通形 ＋ のはもちろんだが",
+          "example": "健康には運動が大切なのはもちろんだが、睡眠も重要だ。"
+        },
+        "evidence": null,
+        "tip": "Nhóm cố định: 〜に欠かせない (không thể thiếu cho…); 方法で行う."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "姉は歌手の赤川ケイの大ファンで、彼女の ＿＿＿ ＿＿＿ ★ ＿＿＿ 知りたいと言ってる。",
+      "options": ["ことなら", "ちいさな", "ことでも", "どんなに"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Chị tôi là fan cuồng của ca sĩ Akagawa Kei, chị ấy bảo chuyện gì về cô ấy, dù nhỏ đến đâu cũng muốn biết.",
+        "why": "Thứ tự đúng: 彼女の [1 ことなら] [4 どんなに] [2 ちいさな] [3 ことでも] 知りたい → ★ (vị trí 3) = ちいさな.",
+        "options": [
+          "ことなら → vị trí 1 (彼女のことなら). Sai.",
+          "ちいさな → vị trí 3 (★). ĐÚNG.",
+          "ことでも → vị trí 4, đứng trước 知りたい. Sai.",
+          "どんなに → vị trí 2. Sai."
+        ],
+        "vocab": [
+          { "w": "大ファン", "r": "だいファン", "hv": "ĐẠI", "vi": "fan cuồng" },
+          { "w": "知る", "r": "しる", "hv": "TRI", "vi": "biết" }
+        ],
+        "grammar": {
+          "pattern": "〜ことなら／どんなに〜ても",
+          "meaning": "nếu là chuyện về…; dù… đến mức nào cũng",
+          "form": "Nのことなら、どんなに ＋ Adj ＋ Nでも",
+          "example": "あなたのことなら、どんなに小さなことでも覚えています。"
+        },
+        "evidence": null,
+        "tip": "どんなに…でも là cặp hô ứng; ちいさなこと là cụm danh từ liền nhau."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "明日の夕方が締め切りのレポートがまだ終わっていない。明日は一日中授業があって時間がとれないので、今晩 ＿＿＿ ＿＿＿ ★ ＿＿＿ いけない。",
+      "options": ["終わらせて", "徹夜して", "しまわないと", "でも"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Bài báo cáo hạn chót chiều mai vẫn chưa xong. Ngày mai học cả ngày không có thời gian, nên tối nay dù phải thức trắng cũng phải làm xong.",
+        "why": "Thứ tự đúng: 今晩 [2 徹夜して] [4 でも] [1 終わらせて] [3 しまわないと] いけない → ★ (vị trí 3) = 終わらせて.",
+        "options": [
+          "終わらせて → vị trí 3 (★). ĐÚNG.",
+          "徹夜して → vị trí 1. Sai.",
+          "しまわないと → vị trí 4, nối với いけない. Sai.",
+          "でも → vị trí 2 (徹夜してでも). Sai."
+        ],
+        "vocab": [
+          { "w": "徹夜", "r": "てつや", "hv": "TRIỆT DẠ", "vi": "thức trắng đêm" },
+          { "w": "締め切り", "r": "しめきり", "hv": "ĐẾ THIẾT", "vi": "hạn chót" }
+        ],
+        "grammar": {
+          "pattern": "Vてでも",
+          "meaning": "dù phải (làm điều khó khăn)… cũng",
+          "form": "Vて ＋ でも",
+          "example": "借金してでも家を買いたい。"
+        },
+        "evidence": null,
+        "tip": "〜てしまわないといけない = phải làm xong hẳn; 〜てでも = dù có phải…"
+      }
+    },
+    {
+      "num": 48,
+      "passage": null,
+      "stem": "田中さんは ＿＿＿ ＿＿＿ ★ ＿＿＿ 冬はいつもミカンを大量に買うそうだ。",
+      "options": ["食べだすと", "一度", "みかんが好きらしく", "止まらないほど"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nghe nói anh Tanaka có vẻ thích quýt đến mức một khi đã bắt đầu ăn là không dừng được, nên mùa đông lúc nào cũng mua cả đống quýt.",
+        "why": "Thứ tự đúng: 田中さんは [2 一度] [1 食べだすと] [4 止まらないほど] [3 みかんが好きらしく] 冬は… → ★ (vị trí 3) = 止まらないほど.",
+        "options": [
+          "食べだすと → vị trí 2. Sai.",
+          "一度 → vị trí 1. Sai.",
+          "みかんが好きらしく → vị trí 4, nối với 冬は… bằng thể liên dụng らしく. Sai.",
+          "止まらないほど → vị trí 3 (★). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "大量", "r": "たいりょう", "hv": "ĐẠI LƯỢNG", "vi": "số lượng lớn" },
+          { "w": "食べだす", "r": "たべだす", "hv": "THỰC", "vi": "bắt đầu ăn" }
+        ],
+        "grammar": {
+          "pattern": "一度〜と…ほど",
+          "meaning": "một khi đã… thì; đến mức…",
+          "form": "一度 ＋ V辞書形 ＋ と; 〜ほど ＋ Adj",
+          "example": "一度読みだすと止まらないほど面白い本。"
+        },
+        "evidence": null,
+        "tip": "〜ほど bổ nghĩa cho mức độ của 好き → 止まらないほど好き."
+      }
+    },
+    {
+      "num": 49,
+      "passage": null,
+      "stem": "私は、中学生になったころから ＿＿＿ ＿＿＿ ★ ＿＿＿ 医者になろうと決めていた。",
+      "options": ["将来", "医学に興味を持ち始め", "高校に入ったころには", "次第に"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Từ khi lên cấp 2, tôi dần dần bắt đầu hứng thú với y học, và đến khi vào cấp 3 thì đã quyết định tương lai sẽ làm bác sĩ.",
+        "why": "Thứ tự đúng: 中学生になったころから [4 次第に] [2 医学に興味を持ち始め] [3 高校に入ったころには] [1 将来] 医者になろうと決めていた → ★ (vị trí 3) = 高校に入ったころには.",
+        "options": [
+          "将来 → vị trí 4, đứng trước 医者になろう. Sai.",
+          "医学に興味を持ち始め → vị trí 2. Sai.",
+          "高校に入ったころには → vị trí 3 (★). ĐÚNG.",
+          "次第に → vị trí 1 (dần dần bổ nghĩa cho 持ち始め). Sai."
+        ],
+        "vocab": [
+          { "w": "次第に", "r": "しだいに", "hv": "THỨ ĐỆ", "vi": "dần dần" },
+          { "w": "医学", "r": "いがく", "hv": "Y HỌC", "vi": "y học" },
+          { "w": "将来", "r": "しょうらい", "hv": "TƯƠNG LAI", "vi": "tương lai" }
+        ],
+        "grammar": {
+          "pattern": "〜ころから…、〜ころには",
+          "meaning": "từ khoảng lúc… thì…, đến khoảng lúc… thì đã…",
+          "form": "Vた ＋ ころから／ころには",
+          "example": "春になったころから練習を始め、夏になったころには上手になっていた。"
+        },
+        "evidence": null,
+        "tip": "Bản PDF in lựa chọn 3 là 「高校に入ったことには」 – đây là lỗi in, đúng phải là 「ころには」 (đối ứng với 中学生になったころから)."
+      }
+    }
+  ]
+}

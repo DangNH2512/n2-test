@@ -1,0 +1,138 @@
+{
+  "exam": "2024-12",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết Kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "<u>けいび</u>をもっと厳しくしたほうがいい。",
+      "options": ["警護", "係備", "警備", "係護"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nên thắt chặt việc canh gác (bảo vệ) hơn nữa.",
+        "why": "けいび = 警備 (CẢNH BỊ): canh gác, bảo vệ an ninh. 警 (cảnh giác) + 備 (chuẩn bị, phòng bị).",
+        "options": [
+          "警護 → けいご: hộ tống, bảo vệ (người). Cách đọc khác. Sai.",
+          "係備 → không có từ này (係 là かかり/けい: phụ trách). Sai.",
+          "警備 → けいび: canh gác, bảo vệ. ĐÚNG.",
+          "係護 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "警備", "r": "けいび", "hv": "CẢNH BỊ", "vi": "canh gác, bảo vệ an ninh" },
+          { "w": "警護", "r": "けいご", "hv": "CẢNH HỘ", "vi": "hộ vệ, bảo vệ (yếu nhân)" },
+          { "w": "厳しい", "r": "きびしい", "hv": "NGHIÊM", "vi": "nghiêm ngặt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "警備員 (けいびいん) = nhân viên bảo vệ. 備 = 準備・設備・予備."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "安全な場所に<u>ひなん</u>をしてください。",
+      "options": ["被離", "避離", "被難", "避難"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hãy lánh nạn (sơ tán) đến nơi an toàn.",
+        "why": "ひなん = 避難 (TỴ NẠN): lánh nạn, sơ tán. 避 (tránh) + 難 (tai nạn, khó khăn).",
+        "options": [
+          "被離 → không có từ này (被 = bị, chịu). Sai.",
+          "避離 → không có từ này. Sai.",
+          "被難 → không có từ này (dễ nhầm với 被害 ひがい: thiệt hại). Sai.",
+          "避難 → ひなん: lánh nạn, sơ tán. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "避難", "r": "ひなん", "hv": "TỴ NẠN", "vi": "lánh nạn, sơ tán" },
+          { "w": "避ける", "r": "さける", "hv": "TỴ", "vi": "tránh" },
+          { "w": "被害", "r": "ひがい", "hv": "BỊ HẠI", "vi": "thiệt hại" },
+          { "w": "非難", "r": "ひなん", "hv": "PHI NẠN", "vi": "chỉ trích, phê phán" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đồng âm ひなん: 避難 (lánh nạn) ≠ 非難 (chỉ trích). Nhớ 避 có bộ 辶 (đi) → chạy đi tránh."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "先祖を<u>うやまう</u>心を大切にしたい。",
+      "options": ["拝う", "敬う", "礼う", "尊う"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi muốn trân trọng tấm lòng tôn kính tổ tiên.",
+        "why": "うやまう = 敬う (KÍNH): tôn kính, kính trọng. 敬 cũng có trong 尊敬 (そんけい), 敬語 (けいご).",
+        "options": [
+          "拝う → không có; 拝 đọc là おがむ (拝む: chắp tay vái). Sai.",
+          "敬う → うやまう: tôn kính. ĐÚNG.",
+          "礼う → không có từ này. Sai.",
+          "尊う → không có; 尊 đọc là とうとい/たっとぶ (尊い, 尊ぶ). Sai."
+        ],
+        "vocab": [
+          { "w": "敬う", "r": "うやまう", "hv": "KÍNH", "vi": "tôn kính, kính trọng" },
+          { "w": "先祖", "r": "せんぞ", "hv": "TIÊN TỔ", "vi": "tổ tiên" },
+          { "w": "尊敬", "r": "そんけい", "hv": "TÔN KÍNH", "vi": "tôn kính" },
+          { "w": "拝む", "r": "おがむ", "hv": "BÁI", "vi": "chắp tay vái, cầu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Các phương án đều cùng ý \"kính\", nhưng chỉ 敬 có okurigana 〜う. 尊 → 尊ぶ, 拝 → 拝む."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "パソコン教室の<u>じゅこう</u>の申し込みをした。",
+      "options": ["受講", "授講", "受校", "授校"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đã đăng ký theo học lớp tin học.",
+        "why": "じゅこう = 受講 (THỤ GIẢNG): tham gia học, nghe giảng. 受 (nhận) + 講 (bài giảng) → người học \"nhận\" bài giảng.",
+        "options": [
+          "受講 → じゅこう: theo học, dự giảng. ĐÚNG.",
+          "授講 → không có; 授 là \"trao\" (授業: giờ học, phía giáo viên trao). Sai.",
+          "受校 → không có từ này. Sai.",
+          "授校 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "受講", "r": "じゅこう", "hv": "THỤ GIẢNG", "vi": "tham gia khóa học, dự giảng" },
+          { "w": "講義", "r": "こうぎ", "hv": "GIẢNG NGHĨA", "vi": "bài giảng (đại học)" },
+          { "w": "授業", "r": "じゅぎょう", "hv": "THỤ NGHIỆP", "vi": "giờ học" },
+          { "w": "申し込み", "r": "もうしこみ", "hv": "THÂN", "vi": "đăng ký" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "受 (nhận) vs 授 (trao, có bộ 扌 tay đưa ra): 受講・受験 (người học) / 授業・教授 (người dạy)."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "あの人は本当に<u>あつかましい</u>人だ。",
+      "options": ["圧かましい", "厚かましい", "熱かましい", "暑かましい"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Người đó thật là trơ trẽn (mặt dày).",
+        "why": "あつかましい = 厚かましい (HẬU): trơ trẽn, mặt dày. Dùng chữ 厚 (dày) như \"da mặt dày\".",
+        "options": [
+          "圧かましい → không có (圧 = áp lực). Sai.",
+          "厚かましい → trơ trẽn, mặt dày. ĐÚNG.",
+          "熱かましい → không có (熱い = nóng (vật)). Sai.",
+          "暑かましい → không có (暑い = nóng (thời tiết)). Sai."
+        ],
+        "vocab": [
+          { "w": "厚かましい", "r": "あつかましい", "hv": "HẬU", "vi": "trơ trẽn, mặt dày" },
+          { "w": "厚い", "r": "あつい", "hv": "HẬU", "vi": "dày" },
+          { "w": "図々しい", "r": "ずうずうしい", "hv": "ĐỒ", "vi": "trơ tráo (đồng nghĩa)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Mẹo: \"mặt dày\" = 厚 (dày). 4 chữ あつ đồng âm (厚・熱・暑・圧) là bẫy kinh điển."
+      }
+    }
+  ]
+}

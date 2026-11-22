@@ -1,0 +1,160 @@
+{
+  "exam": "2011-07",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn câu sử dụng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "方針",
+      "options": [
+        "台風の<u>方針</u>がそれたので、特に被害は出なかった。",
+        "私の今年の<u>方針</u>は漢字を600字覚えることだ。",
+        "この料理を作る<u>方針</u>を教えてください。",
+        "教育に関する政府の<u>方針</u>が大きく変わった。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Phương châm (chính sách) của chính phủ về giáo dục đã thay đổi lớn.",
+        "why": "方針 (ほうしん) = phương châm, đường lối, chính sách — định hướng hành động của tổ chức (政府・会社・学校). Câu 4 dùng đúng.",
+        "options": [
+          "Hướng đi của bão phải là 進路 (しんろ): 台風の進路がそれた. Sai.",
+          "Mục tiêu cá nhân phải là 目標 (もくひょう): 今年の目標. Sai.",
+          "Cách làm món ăn phải là 作り方／方法. Sai.",
+          "政府の方針: chính sách/phương châm của chính phủ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "方針", "r": "ほうしん", "hv": "PHƯƠNG CHÂM", "vi": "phương châm, đường lối" },
+          { "w": "進路", "r": "しんろ", "hv": "TIẾN LỘ", "vi": "hướng đi, con đường tiến tới" },
+          { "w": "目標", "r": "もくひょう", "hv": "MỤC TIÊU", "vi": "mục tiêu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "方針を立てる／方針を決める／会社の方針に従う."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "範囲",
+      "options": [
+        "この町は川によって二つの<u>範囲</u>に分かれている。",
+        "この会社は新しい<u>範囲</u>に進出した。",
+        "明日は広い<u>範囲</u>で強い雨が降るでしょう。",
+        "家から駅までの<u>範囲</u>は2キロぐらいだ。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Ngày mai mưa lớn có lẽ sẽ rơi trên một phạm vi rộng.",
+        "why": "範囲 (はんい) = phạm vi, giới hạn một vùng/lĩnh vực. 広い範囲で = trên diện rộng. Câu 3 đúng.",
+        "options": [
+          "Chia thành hai khu vực nên dùng 地区／地域. Sai.",
+          "Lĩnh vực kinh doanh mới nên dùng 分野 (ぶんや). Sai.",
+          "広い範囲で雨が降る: mưa trên diện rộng. ĐÚNG.",
+          "Khoảng cách từ nhà đến ga nên dùng 距離 (きょり). Sai."
+        ],
+        "vocab": [
+          { "w": "範囲", "r": "はんい", "hv": "PHẠM VI", "vi": "phạm vi" },
+          { "w": "分野", "r": "ぶんや", "hv": "PHÂN DÃ", "vi": "lĩnh vực" },
+          { "w": "距離", "r": "きょり", "hv": "CỰ LY", "vi": "khoảng cách" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "試験の範囲 = phạm vi đề thi; 範囲内／範囲外 = trong/ngoài phạm vi."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "せめて",
+      "options": [
+        "その店のセーターは<u>せめて</u>1万円はするだろう。",
+        "今からタクシーに乗っても、<u>せめて</u>10時には着けない。",
+        "京都に行くなら、<u>せめて</u>1泊はしたい。",
+        "先週のテストは自信がなかったが、<u>せめて</u>50点は取れた。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nếu đi Kyoto thì ít nhất tôi cũng muốn ở lại một đêm.",
+        "why": "せめて = ít nhất thì (dù không được nhiều, mong tối thiểu cũng…). Thường đi với mong muốn: ～たい／～てほしい／～なさい. Câu 3 đúng.",
+        "options": [
+          "Ước đoán giá tối thiểu nên dùng 少なくとも. Sai.",
+          "Câu phủ định (không thể đến lúc 10 giờ) không dùng せめて; nên dùng どんなに急いでも… Sai.",
+          "せめて1泊はしたい: ít nhất cũng muốn ở 1 đêm. ĐÚNG.",
+          "Kết quả đã xảy ra nên dùng 少なくとも／なんとか. Sai."
+        ],
+        "vocab": [
+          { "w": "せめて", "r": "せめて", "hv": "", "vi": "ít nhất thì, tối thiểu cũng" },
+          { "w": "少なくとも", "r": "すくなくとも", "hv": "THIỂU", "vi": "ít nhất (ước lượng, sự thật)" },
+          { "w": "1泊", "r": "いっぱく", "hv": "NHẤT BẠC", "vi": "một đêm (nghỉ lại)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "せめて luôn mang sắc thái ước muốn/yêu cầu tối thiểu; còn 少なくとも dùng cho ước đoán/sự thật."
+      }
+    },
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "利益",
+      "options": [
+        "ジョギングは健康の<u>利益</u>になる。",
+        "この値段で売ったら、店の<u>利益</u>はほとんどない。",
+        "かぜ薬を飲んだが、<u>利益</u>が感じられない。",
+        "バスの<u>利益</u>は、新幹線よりも料金が安いことだ。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Nếu bán với giá này thì cửa hàng hầu như không có lãi.",
+        "why": "利益 (りえき) = lợi nhuận, tiền lời (trong kinh doanh). Câu 2 đúng.",
+        "options": [
+          "Có ích cho sức khỏe nên dùng 健康のためになる. Sai.",
+          "店の利益: lợi nhuận của cửa hàng. ĐÚNG.",
+          "Thuốc có tác dụng nên dùng 効果／効き目 (ききめ). Sai.",
+          "Ưu điểm của xe buýt nên dùng 利点 (りてん)／長所. Sai."
+        ],
+        "vocab": [
+          { "w": "利益", "r": "りえき", "hv": "LỢI ÍCH", "vi": "lợi nhuận, tiền lời" },
+          { "w": "利点", "r": "りてん", "hv": "LỢI ĐIỂM", "vi": "ưu điểm" },
+          { "w": "効き目", "r": "ききめ", "hv": "HIỆU MỤC", "vi": "tác dụng (thuốc)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đừng dịch máy móc 利益 = 'lợi ích'; trong tiếng Nhật chủ yếu là lợi nhuận tiền bạc. 利益を上げる = tạo ra lợi nhuận."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "かなう",
+      "options": [
+        "苦労が<u>かない</u>、彼は俳優として成功をおさめた。",
+        "天気予報が<u>かない</u>、今日は一日中快晴だった。",
+        "準備を重ねてきたイベントが無事<u>かなった</u>。",
+        "自分の店を持つという夢が、とうとう<u>かなった</u>。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Ước mơ có một cửa hàng của riêng mình cuối cùng đã thành hiện thực.",
+        "why": "かなう (叶う) = (ước mơ, nguyện vọng) thành hiện thực. 夢がかなう là cụm cố định. Câu 4 đúng.",
+        "options": [
+          "Công sức được đền đáp phải là 苦労が報われ (むくわれ). Sai.",
+          "Dự báo thời tiết trúng phải là 天気予報が当たり (あたり). Sai.",
+          "Sự kiện diễn ra suôn sẻ phải là 無事終わった／行われた. Sai.",
+          "夢がかなった: ước mơ đã thành hiện thực. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "叶う", "r": "かなう", "hv": "HIỆP", "vi": "(ước mơ) thành hiện thực" },
+          { "w": "報われる", "r": "むくわれる", "hv": "BÁO", "vi": "được đền đáp" },
+          { "w": "快晴", "r": "かいせい", "hv": "KHOÁI TÌNH", "vi": "trời quang đãng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "夢／願い／望みがかなう (tự động) – 夢をかなえる (tha động: biến ước mơ thành hiện thực)."
+      }
+    }
+  ]
+}

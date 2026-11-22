@@ -1,0 +1,83 @@
+{
+  "exam": "2015-12",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B rồi chọn câu trả lời đúng nhất (đọc so sánh).",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "仕事で成果を出すにはノートの活用がお勧めです。ノートにはスケジュール管理や収集した情報の記録だけでなく、日々の仕事に関する気づきや考えをいつでもどこでも書くことが可能だからです。毎日仕事で忙しいときちんと記録することが面倒になりがちですが、メモのように書くことなら気楽にできます。また、ノートに書いておけば、自分の考えを後から見直すこともできます。\nでは、どのように書いたらいいのでしょうか。テーマ別に分類したり、整理して書こうとすると負担となり続けられないので、日付の順で構いません。仕事に関することは何でも一冊のノートに書き込んでいくのがいいでしょう。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "ノートとは新しい情報を記録するためのものだ。必死にノートに書いて覚えたという学生時代の記憶からか、そんな思い込みがあるかもしれない。\nしかしノートの利用法はそれだけではない。ノートをうまく利用すれば、自身の考えを改めて検討することができる。仕事では、新しいアイデアを提示したり、困難な課題を解決したりする能力が求められる。そのような力を養うために、ノートには情報を記録するだけでなく、自身の気づきや考えを書いて整理するという方法が有効だ。情報のメモと考えはノートを別にするのがよいだろう。そうすることで集めた情報の中におぼれず、どう考えるかを自身に問いかける姿勢が身についていく。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 69,
+      "passage": "AB",
+      "stem": "ノートに書く利点について、AとBの考え方で共通していることは何か。",
+      "options": ["自分の考えを後から振り返ることができること", "時間や場所を問わず気軽に書けること", "新しいアイデアを見つけ出せること", "情報をうまく整理できること"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về lợi ích của việc viết vào sổ, điểm chung trong cách nghĩ của A và B là gì? → Có thể xem lại suy nghĩ của mình sau đó.",
+        "why": "A: ノートに書いておけば、自分の考えを後から見直すこともできます。B: ノートをうまく利用すれば、自身の考えを改めて検討することができる。 → cả hai: xem xét lại suy nghĩ của bản thân → đáp án 1.",
+        "options": [
+          "Đúng: A (後から見直す) và B (改めて検討する) đều nói. ĐÚNG.",
+          "Sai: chỉ A nói viết bất cứ lúc nào, ở đâu, thoải mái.",
+          "Sai: B nhắc năng lực đưa ra ý tưởng mới, A không nói.",
+          "Sai: A còn nói không cần sắp xếp (theo ngày cũng được); B mới nói sắp xếp suy nghĩ."
+        ],
+        "vocab": [
+          { "w": "利点", "r": "りてん", "hv": "LỢI ĐIỂM", "vi": "ưu điểm, lợi ích" },
+          { "w": "見直す", "r": "みなおす", "hv": "KIẾN TRỰC", "vi": "xem lại" },
+          { "w": "振り返る", "r": "ふりかえる", "hv": "CHẤN PHẢN", "vi": "nhìn lại, hồi tưởng" },
+          { "w": "検討", "r": "けんとう", "hv": "KIỂM THẢO", "vi": "xem xét, cân nhắc" }
+        ],
+        "grammar": {
+          "pattern": "～を問わず",
+          "meaning": "bất kể ~, không phân biệt ~",
+          "form": "N + を問わず",
+          "example": "年齢を問わず、誰でも参加できます。"
+        },
+        "evidence": "A：また、ノートに書いておけば、自分の考えを後から見直すこともできます。／B：ノートをうまく利用すれば、自身の考えを改めて検討することができる。",
+        "tip": "Câu hỏi 共通 → tìm cặp diễn đạt khác nhau cùng nghĩa: 後から見直す ≈ 改めて検討する ≈ 振り返る."
+      }
+    },
+    {
+      "num": 70,
+      "passage": "AB",
+      "stem": "ノートの書き方について、AとBはどのように述べているか。",
+      "options": ["AもBも、気づいたことをどんどん書いていくといいと述べている。", "AもBも、情報と自身の考えを整理しながら書くといいと述べている。", "Aはテーマ別に一冊のノートに書くといいと述べ、Bは情報を何冊かのノートに分けて書くといいと述べている。", "Aは何でも一冊のノートに書くといいと述べ、Bは情報と自身の考えはノートを分けて書くといいと述べている。"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Về cách ghi sổ, A và B nói thế nào? → A nói nên viết mọi thứ vào một cuốn sổ, B nói nên tách sổ thông tin và sổ suy nghĩ của bản thân.",
+        "why": "A: 仕事に関することは何でも一冊のノートに書き込んでいくのがいい. B: 情報のメモと考えはノートを別にするのがよい → đáp án 4.",
+        "options": [
+          "Sai: B không nói \"cứ viết liên tục những gì nhận ra\"; B nhấn mạnh sắp xếp và tách sổ.",
+          "Sai: A nói sắp xếp sẽ thành gánh nặng, không nên.",
+          "Sai: A phản đối chia theo chủ đề; B tách thông tin và suy nghĩ, không phải chia thông tin vào nhiều sổ.",
+          "Đúng: A – một cuốn sổ cho mọi thứ; B – tách sổ thông tin/suy nghĩ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "分類", "r": "ぶんるい", "hv": "PHÂN LOẠI", "vi": "phân loại" },
+          { "w": "負担", "r": "ふたん", "hv": "PHỤ ĐẢM", "vi": "gánh nặng" },
+          { "w": "整理", "r": "せいり", "hv": "CHỈNH LÝ", "vi": "sắp xếp" },
+          { "w": "おぼれる（溺れる）", "r": "おぼれる", "hv": "NỊCH", "vi": "chìm đắm, chết đuối" }
+        ],
+        "grammar": {
+          "pattern": "～ても構わない（～で構わない）",
+          "meaning": "~ cũng được, không sao",
+          "form": "N + で構わない／Vて + も構わない",
+          "example": "書く順番は日付の順で構いません。"
+        },
+        "evidence": "A：仕事に関することは何でも一冊のノートに書き込んでいくのがいいでしょう。／B：情報のメモと考えはノートを別にするのがよいだろう。",
+        "tip": "Dạng \"A nói…, B nói…\" → kiểm tra từng nửa đáp án; chỉ cần một nửa sai là loại."
+      }
+    }
+  ]
+}

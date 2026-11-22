@@ -1,0 +1,136 @@
+{
+  "exam": "2014-07",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ (tiền tố/hậu tố) thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "歴史小説家西村氏の代表的な作品を収めた作品（　　）が発行された。",
+      "options": ["集", "族", "部", "団"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tuyển tập tác phẩm gồm các tác phẩm tiêu biểu của nhà văn tiểu thuyết lịch sử Nishimura đã được phát hành.",
+        "why": "作品集(さくひんしゅう) = tuyển tập tác phẩm. Hậu tố 集(しゅう, TẬP) = tập hợp, tuyển tập: 作品集, 写真集, 問題集. Từ khóa 収めた (thu vào, gom vào) cho thấy đây là một tuyển tập.",
+        "options": [
+          "集 → 作品集: tuyển tập tác phẩm. ĐÚNG.",
+          "族 → ～族(ぞく): nhóm người cùng kiểu (暴走族, 社用族). Sai.",
+          "部 → ～部(ぶ): bộ phận, câu lạc bộ (営業部, テニス部). Sai.",
+          "団 → ～団(だん): đoàn, đội (応援団, 選手団). Sai."
+        ],
+        "vocab": [
+          { "w": "作品集", "r": "さくひんしゅう", "hv": "TÁC PHẨM TẬP", "vi": "tuyển tập tác phẩm" },
+          { "w": "収める", "r": "おさめる", "hv": "THU", "vi": "thu vào, chứa, gom vào" },
+          { "w": "発行", "r": "はっこう", "hv": "PHÁT HÀNH", "vi": "phát hành, xuất bản" },
+          { "w": "代表的", "r": "だいひょうてき", "hv": "ĐẠI BIỂU ĐÍCH", "vi": "tiêu biểu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Sách gom nhiều thứ → ～集: 問題集(sách bài tập), 写真集(album ảnh)."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "ここから駅まで行くなら、線路（　　）の道を行くのが一番早いですよ。",
+      "options": ["付き", "並び", "沿い", "従い"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nếu đi từ đây đến ga thì đi theo con đường dọc đường ray là nhanh nhất đấy.",
+        "why": "N + 沿い(ぞい) = dọc theo N: 線路沿い, 川沿い, 海沿い. Ở đây 'con đường chạy dọc đường ray'.",
+        "options": [
+          "付き → ～付き(つき): có kèm theo (朝食付き, 保証付き). Sai.",
+          "並び → ～並び(ならび): dãy, cùng hàng (家の並び). Không dùng với 線路. Sai.",
+          "沿い → 線路沿い: dọc đường ray. ĐÚNG.",
+          "従い → 従い không dùng làm hậu tố (～に従い = theo, tuân theo). Sai."
+        ],
+        "vocab": [
+          { "w": "線路", "r": "せんろ", "hv": "TUYẾN LỘ", "vi": "đường ray" },
+          { "w": "沿い", "r": "ぞい", "hv": "DUYÊN", "vi": "dọc theo" },
+          { "w": "川沿い", "r": "かわぞい", "hv": "XUYÊN DUYÊN", "vi": "dọc bờ sông" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "沿う(そう) = men theo → hậu tố 沿い đọc ぞい (biến âm)."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "田中先生は、子どもの英語教育に関する（　　）問題について研究している。",
+      "options": ["総", "複", "数", "諸"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Thầy Tanaka đang nghiên cứu các vấn đề liên quan đến việc dạy tiếng Anh cho trẻ em.",
+        "why": "Tiền tố 諸(しょ, CHƯ) = các, nhiều (loại khác nhau): 諸問題(các vấn đề), 諸外国(các nước ngoài), 諸事情(nhiều lý do).",
+        "options": [
+          "総 → 総～(そう): tổng, toàn bộ (総人口, 総売上). Không nói 総問題. Sai.",
+          "複 → 複(ふく) không đứng làm tiền tố với 問題 (chỉ có 複数, 複雑). Sai.",
+          "数 → 数～(すう): vài (数人, 数日). Không nói 数問題. Sai.",
+          "諸 → 諸問題: các vấn đề. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "諸問題", "r": "しょもんだい", "hv": "CHƯ VẤN ĐỀ", "vi": "các vấn đề" },
+          { "w": "教育", "r": "きょういく", "hv": "GIÁO DỤC", "vi": "giáo dục" },
+          { "w": "諸外国", "r": "しょがいこく", "hv": "CHƯ NGOẠI QUỐC", "vi": "các nước ngoài" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "諸 = 'chư' trong 'chư vị' → các, nhiều."
+      }
+    },
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "大きな図書館に行きたいが、遠いのでけっこう電車（　　）がかかる。",
+      "options": ["金", "賃", "料", "財"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi muốn đi thư viện lớn nhưng vì xa nên tốn khá nhiều tiền tàu.",
+        "why": "電車賃(でんしゃちん) = tiền vé tàu. Hậu tố 賃(ちん, NHẪM) = tiền công / tiền thuê / tiền đi lại: 電車賃, 運賃(うんちん), 家賃(やちん).",
+        "options": [
+          "金 → ～金(きん): khoản tiền (奨学金, 入学金). Không nói 電車金. Sai.",
+          "賃 → 電車賃: tiền tàu. ĐÚNG.",
+          "料 → ～料(りょう): phí (入場料, 使用料). Không nói 電車料. Sai.",
+          "財 → ～財(ざい): tài sản (文化財). Sai."
+        ],
+        "vocab": [
+          { "w": "電車賃", "r": "でんしゃちん", "hv": "ĐIỆN XA NHẪM", "vi": "tiền tàu điện" },
+          { "w": "運賃", "r": "うんちん", "hv": "VẬN NHẪM", "vi": "cước phí vận chuyển, tiền vé" },
+          { "w": "家賃", "r": "やちん", "hv": "GIA NHẪM", "vi": "tiền thuê nhà" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Phương tiện đi lại → ～賃 hoặc ～代 (電車代, タクシー代)."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "町は朝からお祭りムード（　　）だった。",
+      "options": ["一例", "一面", "一種", "一色"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Cả thị trấn từ sáng đã ngập tràn không khí lễ hội.",
+        "why": "N + 一色(いっしょく) = toàn là N, bao trùm bởi N (một màu duy nhất): お祭りムード一色, 反対一色. Diễn tả không khí bao trùm toàn bộ.",
+        "options": [
+          "一例 → いちれい: một ví dụ. Sai.",
+          "一面 → いちめん: khắp một vùng (一面の雪) / một mặt. Không đi sau ムード. Sai.",
+          "一種 → いっしゅ: một loại. Sai.",
+          "一色 → ムード一色: toàn không khí ~. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "一色", "r": "いっしょく", "hv": "NHẤT SẮC", "vi": "một màu; toàn là, bao trùm bởi" },
+          { "w": "祭り", "r": "まつり", "hv": "TẾ", "vi": "lễ hội" },
+          { "w": "一面", "r": "いちめん", "hv": "NHẤT DIỆN", "vi": "khắp cả; một mặt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "～ムード一色 / ～一色に染まる: cả nơi chìm trong một không khí."
+      }
+    }
+  ]
+}

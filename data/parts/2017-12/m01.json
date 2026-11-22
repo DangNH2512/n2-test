@@ -1,0 +1,140 @@
+{
+  "exam": "2017-12",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "きれいに整えた髪が<u>乱れて</u>しまった。",
+      "options": ["みだれて", "くずれて", "つぶれて", "よごれて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Mái tóc đã chải chuốt gọn gàng bị rối mất rồi.",
+        "why": "乱れる đọc là みだれる (LOẠN) = bị rối, bị xáo trộn, mất trật tự. Tóc đã chải gọn (整えた) mà bị rối → 乱れて.",
+        "options": [
+          "みだれて → 乱れる: rối, lộn xộn. ĐÚNG.",
+          "くずれて → 崩れる: sụp đổ, bị vỡ hình dạng (化粧が崩れる). Sai cách đọc.",
+          "つぶれて → 潰れる: bị bẹp, phá sản. Sai.",
+          "よごれて → 汚れる: bị bẩn. Sai."
+        ],
+        "vocab": [
+          { "w": "乱れる", "r": "みだれる", "hv": "LOẠN", "vi": "rối, xáo trộn, mất trật tự" },
+          { "w": "整える", "r": "ととのえる", "hv": "CHỈNH", "vi": "sắp xếp gọn gàng, chỉnh đốn" },
+          { "w": "崩れる", "r": "くずれる", "hv": "BĂNG", "vi": "sụp, đổ, vỡ" },
+          { "w": "髪", "r": "かみ", "hv": "PHÁT", "vi": "tóc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cặp tự/tha động từ: 乱れる (bị rối) ↔ 乱す (làm rối). Âm On: 混乱 (こんらん – hỗn loạn)."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "係員は<u>柔軟</u>に対応してくれた。",
+      "options": ["じゅうけつ", "じゅなん", "じゅうなん", "じゅけつ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nhân viên phụ trách đã xử lý (cho tôi) một cách linh hoạt.",
+        "why": "柔軟 đọc là じゅうなん (NHU NHUYỄN) = mềm dẻo, linh hoạt. 柔 đọc じゅう (trường âm), 軟 đọc なん.",
+        "options": [
+          "じゅうけつ → không phải cách đọc của 柔軟 (けつ là âm của 結/決). Sai.",
+          "じゅなん → thiếu trường âm (柔 phải là じゅう). Sai.",
+          "じゅうなん → 柔軟: mềm dẻo, linh hoạt. ĐÚNG.",
+          "じゅけつ → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "柔軟", "r": "じゅうなん", "hv": "NHU NHUYỄN", "vi": "mềm dẻo, linh hoạt" },
+          { "w": "係員", "r": "かかりいん", "hv": "HỆ VIÊN", "vi": "nhân viên phụ trách" },
+          { "w": "対応", "r": "たいおう", "hv": "ĐỐI ỨNG", "vi": "xử lý, ứng phó" },
+          { "w": "柔らかい", "r": "やわらかい", "hv": "NHU", "vi": "mềm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "柔 có trường âm じゅう: 柔道 (じゅうどう). 軟 cũng đọc なん trong 軟弱 (なんじゃく)."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "表面を<u>強火</u>で焼いてください。",
+      "options": ["きょうか", "つよか", "きょうび", "つよび"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hãy nướng bề mặt bằng lửa lớn.",
+        "why": "強火 đọc là つよび (CƯỜNG HỎA) = lửa to. Đây là từ đọc Kun-Kun: 強(つよ) + 火(ひ→び, biến âm đục).",
+        "options": [
+          "きょうか → 強化: tăng cường. Sai.",
+          "つよか → không có từ này. Sai.",
+          "きょうび → không phải cách đọc của 強火. Sai.",
+          "つよび → 強火: lửa lớn. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "強火", "r": "つよび", "hv": "CƯỜNG HỎA", "vi": "lửa lớn (nấu ăn)" },
+          { "w": "弱火", "r": "よわび", "hv": "NHƯỢC HỎA", "vi": "lửa nhỏ" },
+          { "w": "中火", "r": "ちゅうび", "hv": "TRUNG HỎA", "vi": "lửa vừa" },
+          { "w": "表面", "r": "ひょうめん", "hv": "BIỂU DIỆN", "vi": "bề mặt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bộ ba nấu ăn: 強火 (つよび)・中火 (ちゅうび)・弱火 (よわび) – 火 đều biến thành び."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "それを一人で<u>抱える</u>のは大変そうだ。",
+      "options": ["つかまえる", "かかえる", "おさえる", "ささえる"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Một mình gánh vác việc đó có vẻ vất vả.",
+        "why": "抱える đọc là かかえる (BÃO) = ôm, gánh vác (vấn đề, công việc). 一人で抱える = một mình ôm/gánh hết.",
+        "options": [
+          "つかまえる → 捕まえる: bắt, tóm. Sai.",
+          "かかえる → 抱える: ôm, gánh vác. ĐÚNG.",
+          "おさえる → 押さえる/抑える: giữ, kìm nén. Sai.",
+          "ささえる → 支える: chống đỡ, hỗ trợ. Sai."
+        ],
+        "vocab": [
+          { "w": "抱える", "r": "かかえる", "hv": "BÃO", "vi": "ôm, gánh vác, mang (vấn đề)" },
+          { "w": "抱く", "r": "だく／いだく", "hv": "BÃO", "vi": "ôm; ấp ủ (hy vọng)" },
+          { "w": "支える", "r": "ささえる", "hv": "CHI", "vi": "chống đỡ, nâng đỡ" },
+          { "w": "大変", "r": "たいへん", "hv": "ĐẠI BIẾN", "vi": "vất vả, khó khăn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "抱 có 3 cách đọc Kun: 抱える (かかえる), 抱く (だく), 抱く (いだく – ấp ủ cảm xúc)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "アルバイトの<u>求人</u>があったので、応募した。",
+      "options": ["きゅうにん", "きゅうじん", "きゅじん", "きゅにん"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Vì có tin tuyển người làm thêm nên tôi đã ứng tuyển.",
+        "why": "求人 đọc là きゅうじん (CẦU NHÂN) = tuyển người. 求 có trường âm きゅう, 人 đọc じん.",
+        "options": [
+          "きゅうにん → 人 ở đây không đọc にん. Sai.",
+          "きゅうじん → 求人: tuyển dụng. ĐÚNG.",
+          "きゅじん → thiếu trường âm. Sai.",
+          "きゅにん → thiếu trường âm và sai âm 人. Sai."
+        ],
+        "vocab": [
+          { "w": "求人", "r": "きゅうじん", "hv": "CẦU NHÂN", "vi": "tuyển người, tin tuyển dụng" },
+          { "w": "応募", "r": "おうぼ", "hv": "ỨNG MỘ", "vi": "ứng tuyển, đăng ký dự tuyển" },
+          { "w": "求職", "r": "きゅうしょく", "hv": "CẦU CHỨC", "vi": "tìm việc" },
+          { "w": "要求", "r": "ようきゅう", "hv": "YÊU CẦU", "vi": "yêu cầu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "求人 (công ty tìm người) ↔ 求職 (người tìm việc). Đừng quên trường âm きゅう."
+      }
+    }
+  ]
+}

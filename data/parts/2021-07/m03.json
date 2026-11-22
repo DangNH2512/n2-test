@@ -1,0 +1,86 @@
+{
+  "exam": "2021-07",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ (tiền tố/hậu tố) thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "この動物は、敵に襲われると、体をボール（　　）に丸めて身を守る。",
+      "options": ["式", "感", "状", "性"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Loài động vật này khi bị kẻ thù tấn công sẽ cuộn tròn cơ thể thành hình quả bóng để tự vệ.",
+        "why": "〜状 (じょう) = có hình dạng/trạng thái ~. ボール状 = hình quả bóng, dạng cầu.",
+        "options": [
+          "式 → 〜しき: kiểu, phương thức (日本式, 自動式). Sai.",
+          "感 → 〜かん: cảm giác (高級感, 安心感). Sai.",
+          "状 → 〜じょう: hình dạng (ボール状, 液状). ĐÚNG.",
+          "性 → 〜せい: tính chất (安全性, 可能性). Sai."
+        ],
+        "vocab": [
+          { "w": "〜状", "r": "じょう", "hv": "TRẠNG", "vi": "dạng, hình ~ (液状: dạng lỏng)" },
+          { "w": "襲う", "r": "おそう", "hv": "TẬP", "vi": "tấn công, tập kích" },
+          { "w": "丸める", "r": "まるめる", "hv": "HOÀN", "vi": "cuộn tròn, vo tròn" },
+          { "w": "身を守る", "r": "みをまもる", "hv": "THÂN THỦ", "vi": "tự vệ, bảo vệ bản thân" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đi với 丸める (làm tròn) → nói về HÌNH DẠNG → 〜状."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "明日のシンポジウムは（　　）会場で行われるので、ご注意ください。",
+      "options": ["離", "違", "別", "補"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hội thảo chuyên đề ngày mai sẽ được tổ chức tại một hội trường khác, xin lưu ý.",
+        "why": "別〜 (べつ) = ~ khác, riêng. 別会場 = hội trường khác (không phải chỗ thường lệ) → cần lưu ý.",
+        "options": [
+          "離 → り: rời xa (離島 りとう), không ghép với 会場. Sai.",
+          "違 → い: khác biệt (違反), không dùng như tiền tố. Sai.",
+          "別 → べつ: khác, riêng (別会場, 別料金). ĐÚNG.",
+          "補 → ほ: bổ sung (補講 ほこう), không ghép với 会場. Sai."
+        ],
+        "vocab": [
+          { "w": "別会場", "r": "べつかいじょう", "hv": "BIỆT HỘI TRƯỜNG", "vi": "hội trường khác" },
+          { "w": "別料金", "r": "べつりょうきん", "hv": "BIỆT LIỆU KIM", "vi": "phí tính riêng" },
+          { "w": "シンポジウム", "r": "シンポジウム", "hv": "", "vi": "hội thảo chuyên đề (symposium)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Tiền tố 別〜 hay gặp: 別会場・別料金・別売り・別行動."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "あの会社は、（　　）社長になってから経営方針が変わった。",
+      "options": ["現", "直", "今", "近"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Công ty đó đã thay đổi phương châm kinh doanh kể từ khi vị giám đốc hiện tại lên nắm quyền.",
+        "why": "現〜 (げん) = ~ hiện tại, đương nhiệm. 現社長 = giám đốc hiện nay.",
+        "options": [
+          "現 → げん: hiện tại (現社長, 現住所). ĐÚNG.",
+          "直 → ちょく: trực tiếp (直接), không ghép với 社長. Sai.",
+          "今 → こん: (今年度, 今学期) nhưng không nói 今社長. Sai.",
+          "近 → きん: gần (近未来), không ghép với 社長. Sai."
+        ],
+        "vocab": [
+          { "w": "現社長", "r": "げんしゃちょう", "hv": "HIỆN XÃ TRƯỞNG", "vi": "giám đốc hiện tại" },
+          { "w": "経営方針", "r": "けいえいほうしん", "hv": "KINH DOANH PHƯƠNG CHÂM", "vi": "phương châm kinh doanh" },
+          { "w": "現住所", "r": "げんじゅうしょ", "hv": "HIỆN TRÚ SỞ", "vi": "địa chỉ hiện tại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "現〜 (hiện) ↔ 前〜 (cựu, trước): 現社長 / 前社長 / 元社長 (もと: cựu)."
+      }
+    }
+  ]
+}

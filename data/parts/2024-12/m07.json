@@ -1,0 +1,371 @@
+{
+  "exam": "2024-12",
+  "mondai": 7,
+  "section": "grammar",
+  "instruction": "次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn phương án đúng nhất để điền vào chỗ trống trong câu.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "水泳教室に通い始めたころは、怖くて水に顔をつけること（　　）できなかったが、今は泳ぐのが大好きだ。",
+      "options": ["なら", "ほど", "さえ", "ばかり"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hồi mới bắt đầu đi học bơi, tôi sợ đến mức ngay cả việc úp mặt xuống nước cũng không làm được, nhưng giờ thì rất thích bơi.",
+        "why": "〜さえ〜ない = ngay cả ~ cũng không. Úp mặt xuống nước là việc cơ bản nhất, đến việc đó cũng không làm được → nhấn mạnh mức độ sợ.",
+        "options": [
+          "なら → \"nếu là ~ thì\" (chủ đề/điều kiện); 〜ことならできなかった không tự nhiên. Sai.",
+          "ほど → \"đến mức\"; cần vế chỉ mức độ (〜ほど怖かった), không đi với できなかった như thế này. Sai.",
+          "さえ → ngay cả ~ (cũng không). ĐÚNG.",
+          "ばかり → chỉ toàn ~; 〜ことばかりできなかった vô nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "水泳", "r": "すいえい", "hv": "THỦY VỊNH", "vi": "bơi lội" },
+          { "w": "通う", "r": "かよう", "hv": "THÔNG", "vi": "đi (học, làm) đều đặn" },
+          { "w": "顔をつける", "r": "かおをつける", "hv": "NHAN", "vi": "úp mặt (xuống nước)" }
+        ],
+        "grammar": {
+          "pattern": "〜さえ〜ない",
+          "meaning": "ngay cả ~ cũng không (đưa ra ví dụ cực đoan, cơ bản nhất)",
+          "form": "N + さえ (に／で＋さえ) ＋ phủ định",
+          "example": "忙しくて、食事をする時間さえない。"
+        },
+        "evidence": null,
+        "tip": "Thấy vế sau phủ định + một việc rất cơ bản → nghĩ ngay đến さえ／すら／も."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "この作業はかなり大変なので、一日で終わらせるのは（　　）無理だろう。",
+      "options": ["つい", "まず", "たとえ", "今に"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Công việc này khá vất vả nên hoàn thành trong một ngày chắc chắn (hầu như) là không thể.",
+        "why": "まず + 〜ないだろう／無理だろう = gần như chắc chắn là ~ (phán đoán mạnh). まず無理だろう = hầu như không thể.",
+        "options": [
+          "つい → lỡ, buột (つい食べすぎた). Sai.",
+          "まず → (phỏng đoán) hầu như chắc chắn. ĐÚNG.",
+          "たとえ → đi với 〜ても (たとえ雨でも). Sai.",
+          "今に → chẳng bao lâu nữa sẽ (今にわかる). Sai."
+        ],
+        "vocab": [
+          { "w": "作業", "r": "さぎょう", "hv": "TÁC NGHIỆP", "vi": "công việc, thao tác" },
+          { "w": "無理", "r": "むり", "hv": "VÔ LÝ", "vi": "không thể, quá sức" },
+          { "w": "今に", "r": "いまに", "hv": "KIM", "vi": "chẳng mấy chốc" }
+        ],
+        "grammar": {
+          "pattern": "まず〜だろう／まず〜ない",
+          "meaning": "hầu như chắc chắn ~ (phán đoán với độ tin cậy cao)",
+          "form": "まず ＋ 〜だろう／〜ないだろう／無理だ",
+          "example": "この天気なら、明日はまず雨は降らないだろう。"
+        },
+        "evidence": null,
+        "tip": "まず không chỉ là \"trước tiên\": đi với だろう/ない nó có nghĩa \"hầu như chắc chắn\"."
+      }
+    },
+    {
+      "num": 33,
+      "passage": null,
+      "stem": "母はいちごジャムを作るとき、いちご100グラム（　　）80グラムの砂糖を使う。",
+      "options": ["に対して", "に関して", "によって", "にあたって"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Khi làm mứt dâu, mẹ tôi dùng 80 gam đường cho mỗi 100 gam dâu.",
+        "why": "〜に対して dùng để chỉ tỉ lệ: \"cứ mỗi ~ thì …\". いちご100グラムに対して砂糖80グラム = tỉ lệ 100:80.",
+        "options": [
+          "に対して → so với / tỉ lệ (cứ mỗi ~). ĐÚNG.",
+          "に関して → liên quan đến ~ (chủ đề). Sai.",
+          "によって → tùy theo / do ~. Sai.",
+          "にあたって → nhân dịp, khi bắt đầu ~ (việc quan trọng). Sai."
+        ],
+        "vocab": [
+          { "w": "砂糖", "r": "さとう", "hv": "SA ĐƯỜNG", "vi": "đường" },
+          { "w": "苺", "r": "いちご", "hv": "MÔI", "vi": "dâu tây" },
+          { "w": "割合", "r": "わりあい", "hv": "CÁT HỢP", "vi": "tỉ lệ" }
+        ],
+        "grammar": {
+          "pattern": "〜に対して（割合）",
+          "meaning": "cứ mỗi ~ thì … (biểu thị tỉ lệ)",
+          "form": "数量 ＋ に対して ＋ 数量",
+          "example": "学生20人に対して教師が1人いる。"
+        },
+        "evidence": null,
+        "tip": "Hai con số đặt cạnh nhau → に対して (tỉ lệ). Hay gặp: 〜人に対して1人."
+      }
+    },
+    {
+      "num": 34,
+      "passage": null,
+      "stem": "この図書館には、借りている本を全部（　　）、ほかの本が借りられないという規則がある。",
+      "options": ["返したすえに", "返したとはいえ", "返してはじめて", "返してからでないと"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Thư viện này có quy định là nếu chưa trả hết sách đang mượn thì không thể mượn sách khác.",
+        "why": "〜てからでないと〜ない = nếu chưa làm ~ thì không thể …. Vế sau là phủ định 借りられない → phải dùng てからでないと.",
+        "options": [
+          "返したすえに → sau một hồi (vất vả) trả… kết cục là. Không hợp. Sai.",
+          "返したとはいえ → tuy đã trả nhưng…; nghĩa ngược logic. Sai.",
+          "返してはじめて → phải trả rồi mới (nhận ra/có thể) — vế sau thường khẳng định (はじめて借りられる). Với 借りられない thì sai. Sai.",
+          "返してからでないと → chưa trả thì không mượn được. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "規則", "r": "きそく", "hv": "QUY TẮC", "vi": "quy tắc, quy định" },
+          { "w": "返す", "r": "かえす", "hv": "PHẢN", "vi": "trả lại" },
+          { "w": "図書館", "r": "としょかん", "hv": "ĐỒ THƯ QUÁN", "vi": "thư viện" }
+        ],
+        "grammar": {
+          "pattern": "〜てからでないと／〜てからでなければ",
+          "meaning": "nếu chưa ~ thì không thể …",
+          "form": "Vて ＋ からでないと ＋ phủ định／khó khăn",
+          "example": "実物を見てからでないと、買うかどうか決められない。"
+        },
+        "evidence": null,
+        "tip": "てはじめて đi với vế khẳng định (〜てはじめてわかる); てからでないと đi với vế phủ định."
+      }
+    },
+    {
+      "num": 35,
+      "passage": null,
+      "stem": "タクシー会社を経営する青山氏は、インタビューで「お客様から感謝の言葉を（　　）、人の役に立つ喜びを感じます。」と語った。",
+      "options": ["いただくよう", "さしあげるよう", "いただくたび", "さしあげるたび"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Ông Aoyama, người điều hành một công ty taxi, nói trong buổi phỏng vấn: \"Mỗi lần nhận được lời cảm ơn từ khách hàng, tôi lại cảm thấy niềm vui khi giúp ích được cho người khác.\"",
+        "why": "Nhận lời cảm ơn TỪ khách → いただく (khiêm nhường của もらう), không phải さしあげる (biếu). 〜たび（に）= mỗi lần ~ thì lại …, hợp với \"cảm thấy niềm vui\".",
+        "options": [
+          "いただくよう → \"để nhận được\" (mục đích); không hợp với 喜びを感じます. Sai.",
+          "さしあげるよう → sai chiều cho–nhận và sai nghĩa. Sai.",
+          "いただくたび → mỗi lần nhận được. ĐÚNG.",
+          "さしあげるたび → \"mỗi lần biếu\": sai chiều (lời cảm ơn đến từ khách). Sai."
+        ],
+        "vocab": [
+          { "w": "経営する", "r": "けいえいする", "hv": "KINH DOANH", "vi": "điều hành, kinh doanh" },
+          { "w": "感謝", "r": "かんしゃ", "hv": "CẢM TẠ", "vi": "cảm ơn, biết ơn" },
+          { "w": "役に立つ", "r": "やくにたつ", "hv": "DỊCH LẬP", "vi": "có ích" }
+        ],
+        "grammar": {
+          "pattern": "〜たび（に）",
+          "meaning": "mỗi lần ~ thì đều (lại) …",
+          "form": "V辞書形／Nの ＋ たび（に）",
+          "example": "この写真を見るたびに、故郷を思い出す。"
+        },
+        "evidence": null,
+        "tip": "Hai bước: (1) chiều cho–nhận: から → いただく; (2) nghĩa: lặp lại → たび."
+      }
+    },
+    {
+      "num": 36,
+      "passage": null,
+      "stem": "妻は息子にどうしてもピアノを習わせたいと言っているが、私は本人が（　　）無理にさせなくてもいいと思っている。",
+      "options": ["やらされないのなら", "やりたがらないのなら", "やってほしくないのに", "やってもはじまらないのに"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Vợ tôi nói nhất định muốn cho con trai học piano, nhưng tôi nghĩ nếu bản thân nó không muốn học thì không cần bắt ép.",
+        "why": "本人 (con trai) là ngôi thứ ba → diễn tả mong muốn bằng 〜たがる. 〜のなら = nếu (thực tế) là như vậy thì…. やりたがらないのなら無理にさせなくてもいい: hợp logic.",
+        "options": [
+          "やらされないのなら → \"nếu không bị bắt làm\" — vô lý, chính bố mẹ là người bắt. Sai.",
+          "やりたがらないのなら → nếu (con) không muốn làm. ĐÚNG.",
+          "やってほしくないのに → \"dù không muốn (ai) làm\" — chủ thể và logic sai; のに không hợp. Sai.",
+          "やってもはじまらないのに → \"dù làm cũng vô ích\" — không khớp ý. Sai."
+        ],
+        "vocab": [
+          { "w": "本人", "r": "ほんにん", "hv": "BẢN NHÂN", "vi": "bản thân người đó" },
+          { "w": "無理に", "r": "むりに", "hv": "VÔ LÝ", "vi": "ép buộc, gượng ép" },
+          { "w": "習わせる", "r": "ならわせる", "hv": "TẬP", "vi": "cho đi học (thể sai khiến)" }
+        ],
+        "grammar": {
+          "pattern": "Vたがる（ngôi 3）＋のなら",
+          "meaning": "(người khác) muốn ~; nếu thực tế là ~ thì…",
+          "form": "Vます(bỏ ます)＋たがる／たがらない ＋ のなら",
+          "example": "子どもが行きたがらないのなら、無理に連れて行く必要はない。"
+        },
+        "evidence": null,
+        "tip": "Mong muốn của ngôi thứ 3 → 〜たがる, không dùng 〜たい trực tiếp."
+      }
+    },
+    {
+      "num": 37,
+      "passage": null,
+      "stem": "この研究を始めたころは、そんなことを研究して意味が（　　）批判的な意見も多かったが、最近少しずつ認めてもらえるようになってきた。",
+      "options": ["あるというような", "あるのかというような", "あるということの", "あるのかということの"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hồi mới bắt đầu nghiên cứu này, có nhiều ý kiến phê phán kiểu như \"nghiên cứu cái đó thì có ý nghĩa gì chứ?\", nhưng gần đây dần dần đã được công nhận.",
+        "why": "Ý kiến phê phán = câu hỏi tu từ \"có ý nghĩa gì không?\" (ý: chẳng có ý nghĩa) → 意味があるのか. 〜というような + N = N kiểu như là ~, nối với 批判的な意見.",
+        "options": [
+          "あるというような → \"kiểu như có ý nghĩa\": đó là ý kiến khen, không phải phê phán. Sai.",
+          "あるのかというような → kiểu \"có ý nghĩa gì chứ?\" (nghi ngờ). ĐÚNG.",
+          "あるということの → \"của việc có ý nghĩa\": ngữ pháp không nối được với 批判的な意見. Sai.",
+          "あるのかということの → の không hợp để bổ nghĩa nội dung ý kiến. Sai."
+        ],
+        "vocab": [
+          { "w": "批判的", "r": "ひはんてき", "hv": "PHÊ PHÁN ĐÍCH", "vi": "mang tính phê phán" },
+          { "w": "意見", "r": "いけん", "hv": "Ý KIẾN", "vi": "ý kiến" },
+          { "w": "認める", "r": "みとめる", "hv": "NHẬN", "vi": "công nhận" }
+        ],
+        "grammar": {
+          "pattern": "〜のか（反語）＋というような＋N",
+          "meaning": "N kiểu như \"~ sao?\" (câu hỏi tu từ mang ý phủ định)",
+          "form": "普通形 ＋ のか ＋ というような ＋ N",
+          "example": "そんなことをして何になるのかというような顔をされた。"
+        },
+        "evidence": null,
+        "tip": "Thấy 批判的 → nội dung phải mang nghĩa phủ định/nghi ngờ → chọn dạng có か."
+      }
+    },
+    {
+      "num": 38,
+      "passage": null,
+      "stem": "腕のけがはまだ完全に（　　）が、日常生活には困らなくなった。",
+      "options": ["治りようがない", "治らないでもない", "治ったにすぎない", "治ったわけではない"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vết thương ở tay vẫn chưa hẳn là đã lành hoàn toàn, nhưng sinh hoạt hằng ngày thì không còn gặp khó khăn nữa.",
+        "why": "まだ完全に〜わけではない = không hẳn là đã hoàn toàn ~ (phủ định một phần). Đi với が + vế \"nhưng đã đỡ\" rất tự nhiên.",
+        "options": [
+          "治りようがない → không có cách nào lành: mâu thuẫn với \"sinh hoạt không còn khó khăn\". Sai.",
+          "治らないでもない → cũng không phải là không lành (= có khả năng lành); không hợp với まだ完全に. Sai.",
+          "治ったにすぎない → chỉ đơn giản là đã lành: vô nghĩa ở đây. Sai.",
+          "治ったわけではない → không hẳn là đã lành. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "腕", "r": "うで", "hv": "OẢN", "vi": "cánh tay" },
+          { "w": "完全に", "r": "かんぜんに", "hv": "HOÀN TOÀN", "vi": "hoàn toàn" },
+          { "w": "日常生活", "r": "にちじょうせいかつ", "hv": "NHẬT THƯỜNG SINH HOẠT", "vi": "sinh hoạt hằng ngày" }
+        ],
+        "grammar": {
+          "pattern": "〜わけではない",
+          "meaning": "không hẳn là ~, không có nghĩa là ~ (phủ định một phần)",
+          "form": "普通形 ＋ わけではない",
+          "example": "嫌いなわけではないが、あまり食べない。"
+        },
+        "evidence": null,
+        "tip": "完全に／全部／必ずしも + わけではない: combo phủ định một phần."
+      }
+    },
+    {
+      "num": 39,
+      "passage": null,
+      "stem": "私は20年前に初めて富士山に登った。山頂に立ったときの感動は今でも（　　）。",
+      "options": ["忘れがたい", "忘れかけている", "忘れないといい", "忘れるおそれがある"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi lần đầu leo núi Phú Sĩ cách đây 20 năm. Cảm xúc lúc đứng trên đỉnh núi đến giờ vẫn khó mà quên được.",
+        "why": "Vます + がたい = khó mà ~ (về mặt tâm lý). 忘れがたい = khó quên, đi tự nhiên với 今でも và 感動.",
+        "options": [
+          "忘れがたい → khó quên. ĐÚNG.",
+          "忘れかけている → đang dần quên: mâu thuẫn với 今でも (vẫn còn). Sai.",
+          "忘れないといい → mong là không quên: không hợp với cảm xúc đã có 20 năm. Sai.",
+          "忘れるおそれがある → có nguy cơ quên: sai sắc thái. Sai."
+        ],
+        "vocab": [
+          { "w": "山頂", "r": "さんちょう", "hv": "SƠN ĐỈNH", "vi": "đỉnh núi" },
+          { "w": "感動", "r": "かんどう", "hv": "CẢM ĐỘNG", "vi": "cảm động, xúc động" },
+          { "w": "富士山", "r": "ふじさん", "hv": "PHÚ SĨ SƠN", "vi": "núi Phú Sĩ" }
+        ],
+        "grammar": {
+          "pattern": "Vます＋がたい",
+          "meaning": "khó mà ~ (khó về mặt tâm lý, cảm xúc)",
+          "form": "Vます(bỏ ます)＋がたい",
+          "example": "彼がそんなことをしたとは信じがたい。"
+        },
+        "evidence": null,
+        "tip": "がたい hay đi với động từ tâm lý: 信じがたい・理解しがたい・忘れがたい."
+      }
+    },
+    {
+      "num": 40,
+      "passage": null,
+      "stem": "洗濯機に入れるときに気づいたからよかったが、もう少しで大事な領収書をズボンのポケットに入れたまま（　　）。",
+      "options": ["洗濯したようだ", "洗濯するつもりだった", "洗濯したせいだ", "洗濯するところだった"],
+      "answer": 4,
+      "explanation": {
+        "translation": "May là tôi nhận ra lúc bỏ vào máy giặt, chứ suýt chút nữa là tôi đã giặt luôn tờ hóa đơn quan trọng còn để trong túi quần.",
+        "why": "もう少しで〜するところだった = suýt nữa thì ~ (nhưng đã không xảy ra). Khớp với \"may mà nhận ra\".",
+        "options": [
+          "洗濯したようだ → hình như đã giặt: mâu thuẫn với việc đã kịp phát hiện. Sai.",
+          "洗濯するつもりだった → định giặt (có chủ đích giặt hóa đơn?): vô lý. Sai.",
+          "洗濯したせいだ → là do đã giặt: việc chưa xảy ra. Sai.",
+          "洗濯するところだった → suýt nữa thì giặt mất. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "領収書", "r": "りょうしゅうしょ", "hv": "LÃNH THU THƯ", "vi": "hóa đơn, biên lai" },
+          { "w": "洗濯機", "r": "せんたくき", "hv": "TẨY TRẠC CƠ", "vi": "máy giặt" },
+          { "w": "気づく", "r": "きづく", "hv": "KHÍ", "vi": "nhận ra" }
+        ],
+        "grammar": {
+          "pattern": "もう少しで〜ところだった",
+          "meaning": "suýt nữa thì ~ (việc xấu suýt xảy ra)",
+          "form": "もう少しで／危うく ＋ V辞書形 ＋ ところだった",
+          "example": "寝坊して、もう少しで飛行機に乗り遅れるところだった。"
+        },
+        "evidence": null,
+        "tip": "Dấu hiệu: もう少しで／危うく + 〜からよかった → ところだった."
+      }
+    },
+    {
+      "num": 41,
+      "passage": null,
+      "stem": "毎晩私は、5歳の娘が寝る前にベッドで本を読んでやるのだが、読んでいるうちに自分のほうが（　　）。",
+      "options": ["寝てしまうことがある", "寝ておくことがある", "寝てしまうことにする", "寝ておくことにする"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tối nào tôi cũng đọc sách cho con gái 5 tuổi trên giường trước khi bé ngủ, nhưng đọc một lúc thì có khi chính tôi lại ngủ mất.",
+        "why": "Ngủ quên ngoài ý muốn → 〜てしまう. Việc thỉnh thoảng xảy ra → 〜ことがある. Kết hợp: 寝てしまうことがある.",
+        "options": [
+          "寝てしまうことがある → có khi lỡ ngủ mất. ĐÚNG.",
+          "寝ておくことがある → 〜ておく = làm sẵn (có chủ đích): không hợp với ngủ quên. Sai.",
+          "寝てしまうことにする → quyết định ngủ mất: vô lý (ngủ quên không phải quyết định). Sai.",
+          "寝ておくことにする → quyết định ngủ trước (chuẩn bị): sai ý. Sai."
+        ],
+        "vocab": [
+          { "w": "毎晩", "r": "まいばん", "hv": "MỖI VÃN", "vi": "mỗi tối" },
+          { "w": "娘", "r": "むすめ", "hv": "NƯƠNG", "vi": "con gái" },
+          { "w": "〜うちに", "r": "うちに", "hv": "", "vi": "trong lúc ~ thì (bất giác)" }
+        ],
+        "grammar": {
+          "pattern": "〜てしまうことがある",
+          "meaning": "có khi (lỡ) ~ mất (việc ngoài ý muốn thỉnh thoảng xảy ra)",
+          "form": "Vて＋しまう＋ことがある",
+          "example": "疲れていると、電車で寝過ごしてしまうことがある。"
+        },
+        "evidence": null,
+        "tip": "〜ているうちに + kết quả ngoài ý muốn → てしまう."
+      }
+    },
+    {
+      "num": 42,
+      "passage": null,
+      "stem": "社長として、社員全員が仕事に満足できる環境を整えたい。それは単なる理想（　　）。いや、私は理想ではなく必ず実現できると信じている。",
+      "options": ["でしかないはずだ", "でなくてはいけないはずだ", "でしかないのだろうか", "でなくてはいけないのだろうか"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Với tư cách giám đốc, tôi muốn xây dựng môi trường mà tất cả nhân viên đều hài lòng với công việc. Đó chỉ đơn thuần là lý tưởng thôi sao? Không, tôi tin đó không phải lý tưởng mà nhất định sẽ thực hiện được.",
+        "why": "Câu sau bắt đầu bằng いや (không) phủ định ý \"chỉ là lý tưởng\" → câu trước phải là câu tự vấn: 単なる理想でしかないのだろうか (chỉ là lý tưởng thôi sao?).",
+        "options": [
+          "でしかないはずだ → khẳng định \"chắc chắn chỉ là lý tưởng\": mâu thuẫn với いや phía sau. Sai.",
+          "でなくてはいけないはずだ → \"phải là lý tưởng\": vô nghĩa. Sai.",
+          "でしかないのだろうか → chỉ là lý tưởng thôi sao? ĐÚNG.",
+          "でなくてはいけないのだろうか → \"có phải nhất định là lý tưởng không?\": không khớp với 単なる. Sai."
+        ],
+        "vocab": [
+          { "w": "単なる", "r": "たんなる", "hv": "ĐƠN", "vi": "đơn thuần, chỉ là" },
+          { "w": "理想", "r": "りそう", "hv": "LÝ TƯỞNG", "vi": "lý tưởng" },
+          { "w": "整える", "r": "ととのえる", "hv": "CHỈNH", "vi": "chuẩn bị, sắp xếp chu đáo" },
+          { "w": "実現", "r": "じつげん", "hv": "THỰC HIỆN", "vi": "hiện thực hóa" }
+        ],
+        "grammar": {
+          "pattern": "〜でしかないのだろうか",
+          "meaning": "chỉ là ~ thôi sao? (tự vấn, sau đó thường phủ định lại)",
+          "form": "N ＋ でしかない ＋ のだろうか",
+          "example": "これは単なる偶然でしかないのだろうか。いや、そうではない。"
+        },
+        "evidence": null,
+        "tip": "Câu sau có いや／いいえ → câu trước là câu hỏi tự đặt ra (〜のだろうか)."
+      }
+    }
+  ]
+}

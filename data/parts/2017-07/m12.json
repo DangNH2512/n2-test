@@ -1,0 +1,83 @@
+{
+  "exam": "2017-07",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B rồi chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "かつては、演劇の公演は生で鑑賞することが一般的だったが、最近は、自宅で公演のビデオやDVDを鑑賞する人が増えている。これらの映像は、何台ものカメラを使い、出演者の表情を近くから映したりステージ全体をとらえたりしているので、会場に行かなくても十分に楽しめるというのだ。\nしかし、生の公演を鑑賞することの良さの一つに、自分の視点で楽しめるということがある。ビデオやDVDの映像は他人の視点で切り取られたものなので、自分が本当に見たい部分だとは限らない。私はやはり生で、好きな出演者の姿を追い続けるなど自由に鑑賞するのが面白いと思う。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "先日、劇場で演劇を鑑賞する機会があった。久しぶりに生で鑑賞して、会場でしか得られないものがあると気づいた。それは出演者と観客との一体感から生まれる感動だ。出演者の素晴らしい演技を見て、観客が泣いたり笑ったりする。観客が出演者に声援を送ることもある。このように会場が一つになったときの感動は、その場にいる人にしか得られない特別な感動だろう。\n最近は、多くの公演がインターネットやDVDなどで自宅でも鑑賞できるようになった。自宅で鑑賞するほうが楽だと言って、生の公演を鑑賞しない人も増えている。しかし自宅での鑑賞では、演技の素晴らしさは分かっても、会場の一体感は感じられない。私はあの感動を味わうため、またぜひ生の公演を鑑賞したいと思う。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 69,
+      "passage": "AB",
+      "stem": "最近の演劇の鑑賞のしかたについて、AとBで共通して述べられている変化は何か。",
+      "options": [
+        "自宅で鑑賞するのを好む人が増えている。",
+        "自宅で鑑賞しても生で鑑賞しても同じだという人が増えている。",
+        "生で鑑賞しなければ楽しめないという人が増えている。",
+        "生で鑑賞するだけでなく、自宅でも鑑賞する人が増えている。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về cách thưởng thức kịch gần đây, sự thay đổi mà cả A và B cùng nhắc đến là gì? → Số người thích xem ở nhà đang tăng lên.",
+        "why": "A: ngày càng nhiều người xem video/DVD ở nhà (thay vì xem trực tiếp như trước). B: nhiều người nói xem ở nhà thoải mái hơn và không đi xem trực tiếp nữa. → Điểm chung: người thích xem ở nhà tăng.",
+        "options": [
+          "Người thích xem tại nhà tăng lên. ĐÚNG.",
+          "Không ai nói 'xem ở nhà hay trực tiếp đều như nhau'. Sai.",
+          "Đó là ý kiến của chính tác giả, không phải sự thay đổi xu hướng. Sai.",
+          "B nói người ta bỏ hẳn xem trực tiếp (生の公演を鑑賞しない), không phải xem cả hai. Sai."
+        ],
+        "vocab": [
+          { "w": "鑑賞", "r": "かんしょう", "hv": "GIÁM THƯỞNG", "vi": "thưởng thức (nghệ thuật)" },
+          { "w": "演劇", "r": "えんげき", "hv": "DIỄN KỊCH", "vi": "kịch" },
+          { "w": "公演", "r": "こうえん", "hv": "CÔNG DIỄN", "vi": "buổi biểu diễn" },
+          { "w": "生", "r": "なま", "hv": "SINH", "vi": "trực tiếp (live)" }
+        ],
+        "grammar": null,
+        "evidence": "A：最近は、自宅で公演のビデオやDVDを鑑賞する人が増えている。／B：自宅で鑑賞するほうが楽だと言って、生の公演を鑑賞しない人も増えている。",
+        "tip": "Câu hỏi 'điểm chung' → tìm câu có 増えている ở cả hai bài."
+      }
+    },
+    {
+      "num": 70,
+      "passage": "AB",
+      "stem": "生で演劇を鑑賞することの良さについて、AとBはどのように述べているか。",
+      "options": [
+        "AもBも、会場独特の緊張感が伝わってくることだと述べている。",
+        "AもBも、思いがけない発見があることだと述べている。",
+        "Aは見たいものを自由に鑑賞できることだと述べ、Bは出演者の演技の素晴らしさが実感できることだと述べている。",
+        "Aは自身の視点で鑑賞できることだと述べ、Bは出演者と観客との一体感を味わえることだと述べている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "A và B nói gì về điểm tốt của việc xem kịch trực tiếp? → A nói là có thể thưởng thức theo góc nhìn của mình, B nói là có thể cảm nhận sự hòa làm một giữa diễn viên và khán giả.",
+        "why": "A: điểm tốt là 自分の視点で楽しめる. B: thứ chỉ có ở hội trường là 出演者と観客との一体感から生まれる感動.",
+        "options": [
+          "Không bài nào nói về 'không khí căng thẳng'. Sai.",
+          "Không bài nào nói về 'phát hiện bất ngờ'. Sai.",
+          "Phần A đúng nhưng B nói 'sự tuyệt vời của diễn xuất' xem ở nhà cũng biết được (演技の素晴らしさは分かっても). Sai.",
+          "A: góc nhìn của bản thân; B: cảm giác hòa làm một. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "視点", "r": "してん", "hv": "THỊ ĐIỂM", "vi": "góc nhìn" },
+          { "w": "一体感", "r": "いったいかん", "hv": "NHẤT THỂ CẢM", "vi": "cảm giác hòa làm một" },
+          { "w": "声援", "r": "せいえん", "hv": "THANH VIỆN", "vi": "cổ vũ" },
+          { "w": "観客", "r": "かんきゃく", "hv": "QUAN KHÁCH", "vi": "khán giả" }
+        ],
+        "grammar": { "pattern": "～とは限らない", "meaning": "không hẳn là ~", "form": "普通形 + とは限らない", "example": "高い物がいい物だとは限らない。" },
+        "evidence": "A：生の公演を鑑賞することの良さの一つに、自分の視点で楽しめるということがある。／B：会場でしか得られないものがあると気づいた。それは出演者と観客との一体感から生まれる感動だ。",
+        "tip": "Bẫy đáp án 3: B nói diễn xuất xem ở nhà cũng thấy hay → không phải điểm riêng của xem trực tiếp."
+      }
+    }
+  ]
+}

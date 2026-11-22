@@ -1,0 +1,78 @@
+{
+  "exam": "2025-12",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "右のページは、ある定期船会社のホームページに載っている案内である。下の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc trang thông tin (bảng giá vé, cách đặt chỗ của hãng tàu định kỳ) và chọn câu trả lời đúng nhất.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "丸山汽船",
+      "text": "丸山汽船\n岩根島への船の旅\n運賃と予約のご案内\n\n▼運賃（片道、消費税込み）\n【赤木港～岩根島（糸見港）】\n大人運賃：特等 4,600円／1等 3,500円／2等 2,460円\n子供運賃：特等 2,300円／1等 1,750円／2等 1,230円\n【夏野港～岩根島（糸見港）】\n大人運賃：特等 7,300円／1等 5,020円／2等 2,960円\n子供運賃：特等 3,650円／1等 2,510円／2等 1,480円\n・特等と1等はいすの席です。2等はいすの席はなく、じゅうたんの大部屋です。各部屋の写真は、「船内のご案内」のページでごらんになれます。\n・大人運賃は、12歳以上の方の運賃です。\n・子供運賃は、6歳以上12歳未満の方の運賃です。6歳未満のお子様は無料です。\n\n▼予約\n・丸山汽船本社、または、ご出発の港の発着所にお電話ください。予約番号をお伝えするので、必ずメモをお願いいたします。当日は、ご出発の15分前までに乗船受付窓口で予約番号をお伝えください。\n・予約の受付は、出発日の1か月前から、出発日の前営業日までです。\n●丸山汽船本社　電話：091-985-2697（平日：9時～17時30分　土曜：9時～12時　日曜：休み）\n●赤木港発着所　電話：091-988-9387（毎日9時～17時）\n●夏野港発着所　電話：091-699-7599（毎日9時～17時30分）\n●岩根島（糸見港）発着所　電話：091-111-5351（毎日9時～17時）\n\n▼お支払い方法\n・運賃は、当日乗船受付窓口でお支払いください。現金かクレジットカードがご利用いただけます。\n\n▼その他\n・予約をしていない場合でも、空きがあれば、当日ご出発の30分前まで、乗船受付窓口で乗船券をお買い求めいただけます。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 70,
+      "passage": "p1",
+      "stem": "中村さんは、4歳の娘と一緒に、夏野港から岩根島に行こうと思っている。なるべく安く行きたいが、いすには座りたい。中村さんたちの運賃はいくらになるか。",
+      "options": [
+        "中村さん2,960円、娘1,480円",
+        "中村さん2,960円、娘は無料",
+        "中村さん5,020円、娘2,510円",
+        "中村さん5,020円、娘は無料"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Chị Nakamura định cùng con gái 4 tuổi đi từ cảng Natsuno đến đảo Iwane. Muốn đi rẻ nhất có thể nhưng vẫn muốn ngồi ghế. Tiền vé của hai mẹ con là bao nhiêu? → Chị Nakamura 5,020 yên, con gái miễn phí.",
+        "why": "Muốn có ghế → chỉ 特等 hoặc 1等 (2等 là phòng lớn trải thảm, không có ghế). Rẻ nhất có ghế = 1等: người lớn tuyến 夏野港 là 5,020 yên. Con 4 tuổi < 6 tuổi → miễn phí.",
+        "options": [
+          "2,960 yên là vé 2等 (không có ghế); trẻ dưới 6 tuổi cũng miễn phí. Sai.",
+          "2,960 yên là vé 2等 — không có ghế. Sai.",
+          "Trẻ 4 tuổi không phải trả vé trẻ em (6–dưới 12 tuổi mới trả). Sai.",
+          "1等 người lớn 5,020 yên + con dưới 6 tuổi miễn phí. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "運賃", "r": "うんちん", "hv": "VẬN NHẪM", "vi": "tiền vé, cước phí" },
+          { "w": "片道", "r": "かたみち", "hv": "PHIẾN ĐẠO", "vi": "một chiều" },
+          { "w": "未満", "r": "みまん", "hv": "VỊ MÃN", "vi": "chưa đủ, dưới" },
+          { "w": "大部屋", "r": "おおべや", "hv": "ĐẠI BỘ ỐC", "vi": "phòng lớn (chung)" }
+        ],
+        "grammar": null,
+        "evidence": "特等と1等はいすの席です。2等はいすの席はなく、じゅうたんの大部屋です。／子供運賃は、6歳以上12歳未満の方の運賃です。6歳未満のお子様は無料です。",
+        "tip": "Bẫy: \"安く\" khiến dễ chọn 2等, nhưng điều kiện \"いすに座りたい\" loại 2等. Chú ý đúng tuyến 夏野港 (không phải 赤木港)."
+      }
+    },
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "ユーキさんは、10月22日（月）に赤木港を出発する船で、岩根島に行こうと思っている。予約のしかたとして合っているのはどれか。",
+      "options": [
+        "10月20日（土）の17時30分までに、丸山汽船本社に電話する。",
+        "10月20日（土）の17時30分までに、赤木港発着所に電話する。",
+        "10月21日（日）の17時までに、丸山汽船本社に電話する。",
+        "10月21日（日）の17時までに、赤木港発着所に電話する。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh Yuki định đi đảo Iwane bằng chuyến tàu xuất phát từ cảng Akagi ngày 22/10 (thứ Hai). Cách đặt chỗ nào là đúng? → Gọi điện cho văn phòng bến cảng Akagi trước 17 giờ ngày 21/10 (Chủ nhật).",
+        "why": "Đặt chỗ được đến \"ngày làm việc trước ngày xuất phát\", gọi cho trụ sở hoặc văn phòng bến của cảng xuất phát. Văn phòng bến 赤木港 mở cửa mỗi ngày 9–17 giờ → ngày làm việc trước 22/10 là 21/10 (CN), hạn đến 17:00.",
+        "options": [
+          "Trụ sở thứ Bảy chỉ mở 9–12 giờ, không phải đến 17:30. Sai.",
+          "Văn phòng bến 赤木港 đóng cửa lúc 17:00, không phải 17:30 (17:30 là giờ của bến 夏野港). Sai.",
+          "Trụ sở nghỉ Chủ nhật. Sai.",
+          "Văn phòng bến 赤木港, trước 17:00 ngày 21/10 (CN). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "発着所", "r": "はっちゃくじょ", "hv": "PHÁT TRƯỚC SỞ", "vi": "văn phòng bến (nơi tàu đi/đến)" },
+          { "w": "本社", "r": "ほんしゃ", "hv": "BẢN XÃ", "vi": "trụ sở chính" },
+          { "w": "前営業日", "r": "ぜんえいぎょうび", "hv": "TIỀN DOANH NGHIỆP NHẬT", "vi": "ngày làm việc trước đó" },
+          { "w": "受付", "r": "うけつけ", "hv": "THỤ PHÓ", "vi": "tiếp nhận" }
+        ],
+        "grammar": null,
+        "evidence": "丸山汽船本社、または、ご出発の港の発着所にお電話ください。／予約の受付は、出発日の1か月前から、出発日の前営業日までです。／丸山汽船本社（平日：9時～17時30分　土曜：9時～12時　日曜：休み）／赤木港発着所（毎日9時～17時）",
+        "tip": "\"前営業日\" phụ thuộc vào nơi nhận đặt chỗ: trụ sở nghỉ CN → hạn là thứ Bảy 12:00; bến 赤木港 mở hằng ngày → hạn là CN 17:00."
+      }
+    }
+  ]
+}

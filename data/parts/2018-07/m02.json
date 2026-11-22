@@ -1,0 +1,135 @@
+{
+  "exam": "2018-07",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết bằng chữ Hán đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "この国にはまだ<u>ゆたか</u>な自然が残されている。",
+      "options": ["恵か", "富か", "豊か", "満か"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Ở đất nước này vẫn còn thiên nhiên phong phú.",
+        "why": "ゆたか viết là 豊か (PHONG) = phong phú, dồi dào, giàu có. Các chữ khác không có cách viết okurigana 〜か.",
+        "options": [
+          "恵か → không tồn tại (恵む = めぐむ: ban ơn). Sai.",
+          "富か → không tồn tại (富む = とむ: giàu). Sai.",
+          "豊か → ゆたか: phong phú. ĐÚNG.",
+          "満か → không tồn tại (満ちる = みちる: đầy). Sai."
+        ],
+        "vocab": [
+          { "w": "豊か", "r": "ゆたか", "hv": "PHONG", "vi": "phong phú, giàu có" },
+          { "w": "豊富", "r": "ほうふ", "hv": "PHONG PHÚ", "vi": "phong phú, dồi dào" },
+          { "w": "自然", "r": "しぜん", "hv": "TỰ NHIÊN", "vi": "thiên nhiên" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Các chữ nhiễu đều mang nghĩa 'đầy đủ, giàu' nhưng chỉ 豊 đi với か."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "このセミナーの目標は、「自分で考える力」を<u>やしなう</u>ことです。",
+      "options": ["得う", "築う", "育う", "養う"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Mục tiêu của buổi hội thảo này là bồi dưỡng 'năng lực tự suy nghĩ'.",
+        "why": "やしなう viết là 養う (DƯỠNG) = nuôi dưỡng, bồi dưỡng (năng lực, thể lực, gia đình).",
+        "options": [
+          "得う → 得る = える: đạt được. Sai.",
+          "築う → 築く = きずく: xây dựng. Sai.",
+          "育う → 育つ/育てる = そだつ/そだてる: lớn lên/nuôi. Sai.",
+          "養う → やしなう: bồi dưỡng, nuôi dưỡng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "養う", "r": "やしなう", "hv": "DƯỠNG", "vi": "nuôi dưỡng, bồi dưỡng" },
+          { "w": "栄養", "r": "えいよう", "hv": "VINH DƯỠNG", "vi": "dinh dưỡng" },
+          { "w": "目標", "r": "もくひょう", "hv": "MỤC TIÊU", "vi": "mục tiêu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "力を養う (bồi dưỡng năng lực), 家族を養う (nuôi gia đình) là collocation hay gặp."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "ガラスの<u>はへん</u>を踏まないように気を付けてください。",
+      "options": ["破片", "被片", "破辺", "被辺"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hãy cẩn thận để không giẫm phải mảnh vỡ thủy tinh.",
+        "why": "はへん viết là 破片 (PHÁ PHIẾN) = mảnh vỡ. 破 = phá vỡ, 片 = mảnh.",
+        "options": [
+          "破片 → はへん: mảnh vỡ. ĐÚNG.",
+          "被片 → 被 (BỊ, ひ) sai chữ. Sai.",
+          "破辺 → 辺 (BIÊN, へん: vùng, cạnh) sai nghĩa. Sai.",
+          "被辺 → sai cả hai chữ. Sai."
+        ],
+        "vocab": [
+          { "w": "破片", "r": "はへん", "hv": "PHÁ PHIẾN", "vi": "mảnh vỡ" },
+          { "w": "踏む", "r": "ふむ", "hv": "ĐẠP", "vi": "giẫm, đạp" },
+          { "w": "破る", "r": "やぶる", "hv": "PHÁ", "vi": "xé, phá vỡ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "片 (へん/かた): 片道(かたみち), 断片(だんぺん). Phân biệt 破(phá) với 被(bị) có bộ y phục."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "工場の入り口には夜間でも<u>けいび</u>の人がいる。",
+      "options": ["警秘", "警備", "係備", "係秘"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Ở cổng nhà máy, ngay cả ban đêm cũng có người bảo vệ.",
+        "why": "けいび viết là 警備 (CẢNH BỊ) = bảo vệ, canh gác. 警 = cảnh giác, 備 = chuẩn bị, phòng bị.",
+        "options": [
+          "警秘 → 秘 (BÍ, ひ) sai âm và nghĩa. Sai.",
+          "警備 → けいび: bảo vệ, canh gác. ĐÚNG.",
+          "係備 → 係 (HỆ, かかり) sai. Sai.",
+          "係秘 → sai cả hai chữ. Sai."
+        ],
+        "vocab": [
+          { "w": "警備", "r": "けいび", "hv": "CẢNH BỊ", "vi": "bảo vệ, canh gác" },
+          { "w": "警察", "r": "けいさつ", "hv": "CẢNH SÁT", "vi": "cảnh sát" },
+          { "w": "夜間", "r": "やかん", "hv": "DẠ GIAN", "vi": "ban đêm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "備 = び: 準備(じゅんび), 設備(せつび), 備える(そなえる)."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "時間がないので、詳しい説明は<u>はぶきます</u>。",
+      "options": ["略きます", "除きます", "省きます", "抜きます"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vì không có thời gian nên tôi xin lược bỏ phần giải thích chi tiết.",
+        "why": "はぶく viết là 省く (TỈNH) = lược bớt, bỏ bớt. 省 còn đọc là しょう (省略 = tỉnh lược).",
+        "options": [
+          "略きます → 略 không có cách đọc はぶく. Sai.",
+          "除きます → 除く = のぞく: loại trừ. Sai.",
+          "省きます → はぶきます: lược bỏ. ĐÚNG.",
+          "抜きます → 抜く = ぬく: rút ra, bỏ qua. Sai."
+        ],
+        "vocab": [
+          { "w": "省く", "r": "はぶく", "hv": "TỈNH", "vi": "lược bỏ, bớt" },
+          { "w": "省略", "r": "しょうりゃく", "hv": "TỈNH LƯỢC", "vi": "lược bỏ, viết tắt" },
+          { "w": "詳しい", "r": "くわしい", "hv": "TƯỜNG", "vi": "chi tiết" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy: 略 có nghĩa 'lược' nhưng KHÔNG đọc はぶく; chữ đúng là 省."
+      }
+    }
+  ]
+}

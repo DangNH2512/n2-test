@@ -1,0 +1,201 @@
+{
+  "exam": "2025-12",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の(1)から(5)の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc 5 đoạn văn ngắn (1)–(5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "「他人は自分を映す鏡」といいます。こちらが気がね（注1）をして本音（注2）を話さなければ、相手も本心（注3）を口にしてくれることはありません。そんなふうにお互いの本音がわからないままでは、コミュニケーションもギクシャクした（注4）ものになってしまいます。\n「嫌われてしまうかも」と自分を抑えるのではなく、「私の本心を話してみよう」「どんな言い方をしたらわかってもらえるかな」と考えてみてください。\nそんな自分への問いかけが小さな勇気となり、よりよい人間関係をつくる力になっていくと思います。\n\n（注1）気がね：遠慮\n（注2）本音：ありのままの気持ち\n（注3）本心：本当の気持ち\n（注4）ギクシャクした：スムーズにいかない"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、マンションの駐輪場に貼られていたお知らせである。\n\n9月1日\nマンション森村ご入居の皆様\nマンション森村管理会社\n\n自転車の移動について\n\n現在、長期間使われていない自転車が多く、駐輪場が使いにくくなっております。そのため、これらの自転車を市の不要自転車置き場に移動することにします。\n9月8日から駐輪場のすべての自転車に目印の紙をつけておきますので、ご使用中のものは、30日までにご自身でその紙を外してください。10月1日以降に紙が残っているものは、移動します。\n移動後の自転車の返却には対応できません。ご理解をお願いいたします。\nどうぞよろしくお願いいたします。\n問い合わせ先：038-359-8688（担当：黒田）\n島本洋太"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "市場は、モノのつくり手と買い手がただ集まる場ではない。そこでは、単にモノの売り買いだけでなく、つくり手と買い手の間でいろいろな情報の交流がある。何よりもそこに惹かれて（注）、人々は市場に集まるのである。つくり手は、モノの出来・不出来、つまり品質への客の評価を直接聞ける。つくったモノがよかったのかどうか、振り返る機会になる。\nまた、どんなものが欲しいのかといった、それぞれの客の好みもわかってくる。\n\n（注）惹かれる：魅力を感じる"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "以下は、ある会社の販売担当者に届いたメールである。\n\nセカノ株式会社\n販売課 若村健次様\n\nいつもお世話になっております。\n11月10日に納品していただくコピー機の見積もり書を受け取りました。\n内容を確認しましたところ、商品代金とは別に設置費用が含まれています。\n11月中は設置費用が無料となるサービス期間のため、支払いは必要なかったのではないでしょうか。ご確認のうえ電話かメールで至急ご連絡いただきたく、お願いいたします。\nコピー機の納品は予定どおりお願いいたします。\n\n春下商事\n営業課 月島良子\nryoko_tsukishima@harushita.co.jp"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "誰かの才能というものを人はふつうどういうときに感じるだろうか。何かすばらしい作品、何かすぐれた仕事や処理を見たときだ。才能がある人物を目にしたときに、オーラ（注1）のようなものが見えてその人に才能があると確信するわけではない。\nだから、現実の成果や行動を見て、そのすばらしい結果の前提として才能があったはずだと類推して（注2）いるわけだ。したがって、前もって（注3）才能があるとかないとか決して言うことはできない。\n\n（注1）オーラ：ここでは、独特な雰囲気\n（注2）類推する：ここでは、判断する\n（注3）前もって：事前に"
+    }
+  ],
+  "questions": [
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "自分と他者との関係について、筆者はどのように考えているか。",
+      "options": [
+        "本当の気持ちを理解し合おうとすれば、より深い関係が築ける。",
+        "自分から本当の気持ちを伝える努力をすれば、相手とよい関係が築ける。",
+        "相手の本当の気持ちを理解しようとすれば、自分の気持ちも理解してもらえる。",
+        "よい関係ができていれば、自分の本当の気持ちを伝えても嫌われることはない。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Về quan hệ giữa bản thân và người khác, tác giả nghĩ thế nào? → Nếu tự mình nỗ lực truyền đạt cảm xúc thật, sẽ xây dựng được quan hệ tốt với đối phương.",
+        "why": "Tác giả: nếu mình không nói thật lòng thì đối phương cũng không nói (người khác là tấm gương). Hãy thử nói thật lòng và nghĩ cách nói để được hiểu → điều đó tạo nên quan hệ tốt hơn. Trọng tâm là \"tự mình chủ động nói thật\".",
+        "options": [
+          "\"Cùng nhau hiểu\" — bài nhấn mạnh việc mình chủ động nói trước, không nói về hiểu lẫn nhau. Sai.",
+          "Tự mình cố gắng truyền đạt cảm xúc thật → quan hệ tốt. ĐÚNG.",
+          "Bài không nói về việc cố hiểu cảm xúc của đối phương. Sai.",
+          "Bài không nói \"đã có quan hệ tốt thì nói thật cũng không bị ghét\"; ngược lại, nói thật mới tạo quan hệ tốt. Sai."
+        ],
+        "vocab": [
+          { "w": "本音", "r": "ほんね", "hv": "BẢN ÂM", "vi": "lời thật lòng" },
+          { "w": "気がね", "r": "きがね", "hv": "KHÍ", "vi": "ngại ngùng, e dè" },
+          { "w": "抑える", "r": "おさえる", "hv": "ỨC", "vi": "kìm nén" },
+          { "w": "問いかけ", "r": "といかけ", "hv": "VẤN", "vi": "câu hỏi (tự hỏi)" }
+        ],
+        "grammar": null,
+        "evidence": "「嫌われてしまうかも」と自分を抑えるのではなく、「私の本心を話してみよう」「どんな言い方をしたらわかってもらえるかな」と考えてみてください。そんな自分への問いかけが小さな勇気となり、よりよい人間関係をつくる力になっていくと思います。",
+        "tip": "Câu \"他人は自分を映す鏡\" = mình làm thế nào, người ta đáp lại thế ấy → chủ thể hành động là \"mình\"."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p2",
+      "stem": "このお知らせで伝えたいことは何か。",
+      "options": [
+        "自転車がまだ使用中であれば、9月30日までに紙の印を外してほしい。",
+        "自転車がまだ使用中であれば、10月1日以降に紙の印を外してほしい。",
+        "捨ててもいい自転車であれば、9月30日までに紙の印をつけてほしい。",
+        "捨ててもいい自転車であれば、9月30日までに紙の印を外してほしい。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều thông báo này muốn truyền đạt là gì? → Nếu xe đạp vẫn đang sử dụng thì hãy gỡ tờ giấy đánh dấu trước ngày 30/9.",
+        "why": "Từ 8/9 ban quản lý gắn giấy lên tất cả xe; xe đang dùng thì tự gỡ giấy trước ngày 30; từ 1/10 xe nào còn giấy sẽ bị chuyển đi.",
+        "options": [
+          "Xe đang dùng → gỡ giấy trước 30/9. ĐÚNG.",
+          "Từ 1/10 là lúc xe còn giấy bị chuyển đi, gỡ lúc đó là muộn. Sai.",
+          "Cư dân không cần tự gắn giấy; ban quản lý gắn. Sai.",
+          "Xe bỏ đi được thì cứ để giấy nguyên, không cần gỡ. Sai."
+        ],
+        "vocab": [
+          { "w": "駐輪場", "r": "ちゅうりんじょう", "hv": "TRÚ LUÂN TRƯỜNG", "vi": "bãi đỗ xe đạp" },
+          { "w": "目印", "r": "めじるし", "hv": "MỤC ẤN", "vi": "dấu hiệu, ký hiệu" },
+          { "w": "外す", "r": "はずす", "hv": "NGOẠI", "vi": "tháo, gỡ" },
+          { "w": "返却", "r": "へんきゃく", "hv": "PHẢN KHƯỚC", "vi": "trả lại" }
+        ],
+        "grammar": null,
+        "evidence": "9月8日から駐輪場のすべての自転車に目印の紙をつけておきますので、ご使用中のものは、30日までにご自身でその紙を外してください。10月1日以降に紙が残っているものは、移動します。",
+        "tip": "Thông báo: chú ý ai làm gì (管理会社 gắn giấy, cư dân gỡ giấy) và mốc thời gian (〜までに vs 〜以降)."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p3",
+      "stem": "筆者によると、人々はなぜ市場に集まるか。",
+      "options": [
+        "好きなモノの売り買いができるから",
+        "情報のやり取りができるから",
+        "いろいろな人に会える場だから",
+        "場の楽しい雰囲気が好きだから"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo tác giả, tại sao mọi người tụ tập ở chợ? → Vì có thể trao đổi thông tin.",
+        "why": "\"Ở chợ không chỉ mua bán mà còn có giao lưu thông tin giữa người làm và người mua. Hơn hết, bị cuốn hút bởi điều đó (そこ = giao lưu thông tin) mà người ta tụ tập ở chợ.\"",
+        "options": [
+          "Bài nói rõ không đơn thuần là mua bán (単にモノの売り買いだけでなく). Sai.",
+          "Trao đổi thông tin. ĐÚNG.",
+          "Gặp gỡ nhiều người — bài không nói. Sai.",
+          "Không khí vui vẻ — bài không nói. Sai."
+        ],
+        "vocab": [
+          { "w": "市場", "r": "いちば", "hv": "THỊ TRƯỜNG", "vi": "chợ" },
+          { "w": "惹かれる", "r": "ひかれる", "hv": "NHẠ", "vi": "bị cuốn hút" },
+          { "w": "品質", "r": "ひんしつ", "hv": "PHẨM CHẤT", "vi": "chất lượng" },
+          { "w": "振り返る", "r": "ふりかえる", "hv": "CHẤN PHẢN", "vi": "nhìn lại" }
+        ],
+        "grammar": null,
+        "evidence": "そこでは、単にモノの売り買いだけでなく、つくり手と買い手の間でいろいろな情報の交流がある。何よりもそこに惹かれて、人々は市場に集まるのである。",
+        "tip": "Đại từ そこ chỉ ý ngay trước: 情報の交流. 何よりも = hơn hết → báo hiệu ý chính."
+      }
+    },
+    {
+      "num": 55,
+      "passage": "p4",
+      "stem": "このメールで問い合わせていることは何か。",
+      "options": [
+        "11月10日にコピー機を納品できるかどうか。",
+        "サービス期間はいつ終了するのか。",
+        "設置費用を支払う必要があるかどうか。",
+        "商品代金について、いつ連絡をもらえるのか。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Email này đang hỏi về điều gì? → Có cần phải trả phí lắp đặt hay không.",
+        "why": "Báo giá có ghi phí lắp đặt riêng, nhưng tháng 11 là thời gian miễn phí lắp đặt → \"chẳng phải không cần trả sao?\" và đề nghị kiểm tra, liên lạc gấp.",
+        "options": [
+          "Việc giao hàng: người gửi chỉ dặn \"vẫn giao như dự kiến\", không hỏi. Sai.",
+          "Không hỏi khi nào kết thúc chương trình. Sai.",
+          "Có cần trả phí lắp đặt hay không. ĐÚNG.",
+          "Không hỏi về tiền hàng (商品代金). Sai."
+        ],
+        "vocab": [
+          { "w": "納品", "r": "のうひん", "hv": "NẠP PHẨM", "vi": "giao hàng" },
+          { "w": "見積もり書", "r": "みつもりしょ", "hv": "KIẾN TÍCH THƯ", "vi": "bảng báo giá" },
+          { "w": "設置費用", "r": "せっちひよう", "hv": "THIẾT TRÍ PHÍ DỤNG", "vi": "phí lắp đặt" },
+          { "w": "至急", "r": "しきゅう", "hv": "CHÍ CẤP", "vi": "khẩn cấp, gấp" }
+        ],
+        "grammar": {
+          "pattern": "～のではないでしょうか",
+          "meaning": "chẳng phải là ~ sao (khẳng định nhẹ nhàng, chất vấn lịch sự)",
+          "form": "普通形（Na/N＋な）＋のではないでしょうか",
+          "example": "この計画には少し無理があるのではないでしょうか。"
+        },
+        "evidence": "11月中は設置費用が無料となるサービス期間のため、支払いは必要なかったのではないでしょうか。ご確認のうえ電話かメールで至急ご連絡いただきたく、お願いいたします。",
+        "tip": null
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p5",
+      "stem": "才能について、筆者の考えに合うのはどれか。",
+      "options": [
+        "結果にかかわらず、才能のある人は雰囲気から感じ取れる。",
+        "独特な雰囲気があって結果も出していれば、才能があると言える。",
+        "人の才能の有無は結果だけでは判断できない。",
+        "人の才能の有無は結果を見なければ判断できない。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Ý nào khớp với suy nghĩ của tác giả về tài năng? → Có tài năng hay không thì phải nhìn kết quả mới đánh giá được.",
+        "why": "Ta cảm nhận tài năng khi thấy tác phẩm/công việc xuất sắc, rồi suy ra \"chắc hẳn có tài\". Vì thế không thể nói trước là có tài hay không → phải xem kết quả.",
+        "options": [
+          "Tác giả phủ định việc nhìn \"hào quang\" (雰囲気) mà biết tài năng. Sai.",
+          "Bài không coi \"không khí đặc biệt\" là điều kiện. Sai.",
+          "Ngược lại: tác giả cho rằng chính kết quả là căn cứ. Sai.",
+          "Không thấy kết quả thì không thể đánh giá tài năng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "才能", "r": "さいのう", "hv": "TÀI NĂNG", "vi": "tài năng" },
+          { "w": "確信", "r": "かくしん", "hv": "XÁC TÍN", "vi": "tin chắc" },
+          { "w": "成果", "r": "せいか", "hv": "THÀNH QUẢ", "vi": "thành quả" },
+          { "w": "類推", "r": "るいすい", "hv": "LOẠI SUY", "vi": "suy luận, suy ra" }
+        ],
+        "grammar": {
+          "pattern": "～わけではない",
+          "meaning": "không hẳn là ~, không phải là ~",
+          "form": "普通形（Na＋な／N＋の・という）＋わけではない",
+          "example": "嫌いなわけではないが、あまり食べない。"
+        },
+        "evidence": "現実の成果や行動を見て、そのすばらしい結果の前提として才能があったはずだと類推しているわけだ。したがって、前もって才能があるとかないとか決して言うことはできない。",
+        "tip": "Phân biệt 3 và 4: \"chỉ kết quả thì không đủ\" (3) ↔ \"không có kết quả thì không biết được\" (4)."
+      }
+    }
+  ]
+}

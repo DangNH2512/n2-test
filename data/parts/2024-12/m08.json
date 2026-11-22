@@ -1,0 +1,161 @@
+{
+  "exam": "2024-12",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các phương án thành câu đúng và chọn phương án nằm ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "長く使っている電子レンジが壊れてしまった。古いものだし、修理に＿＿＿ ＿＿＿ ＿★＿ ＿＿＿買い替えたほうがいいかもしれない。",
+      "options": ["もう", "考えると", "かかる", "費用を"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Cái lò vi sóng dùng lâu năm đã bị hỏng. Nó cũng cũ rồi, nếu nghĩ đến chi phí sửa chữa thì có lẽ nên mua cái mới luôn.",
+        "why": "Thứ tự đúng: 修理に［3 かかる］［4 費用を］［2 考えると★］［1 もう］買い替えた…. 修理にかかる費用 (chi phí tốn cho việc sửa) → を考えると → もう買い替えたほうがいい. ★ ở vị trí 3 → 考えると.",
+        "options": [
+          "もう → vị trí 4, bổ nghĩa cho 買い替えた (thôi thì mua mới luôn). Không phải ★.",
+          "考えると → vị trí 3, ★. ĐÚNG.",
+          "かかる → vị trí 1: 修理にかかる (tốn cho việc sửa). Không phải ★.",
+          "費用を → vị trí 2: かかる費用を. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "電子レンジ", "r": "でんしれんじ", "hv": "ĐIỆN TỬ", "vi": "lò vi sóng" },
+          { "w": "修理", "r": "しゅうり", "hv": "TU LÝ", "vi": "sửa chữa" },
+          { "w": "費用", "r": "ひよう", "hv": "PHÍ DỤNG", "vi": "chi phí" },
+          { "w": "買い替える", "r": "かいかえる", "hv": "MÃI THẾ", "vi": "mua cái mới thay thế" }
+        ],
+        "grammar": {
+          "pattern": "〜を考えると",
+          "meaning": "nếu xét đến ~, khi nghĩ đến ~",
+          "form": "N ＋ を考えると",
+          "example": "将来のことを考えると、今から貯金したほうがいい。"
+        },
+        "evidence": null,
+        "tip": "〜に＋かかる là cụm cố định (時間・お金がかかる): 修理にかかる費用."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "娘「今度のスピーチコンテスト、参加しようかなあ。でも、自信ないなあ。」\n母「チャレンジ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿？いい経験になると思うよ。」",
+      "options": ["だけ", "みたら", "する", "して"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Con gái: \"Cuộc thi hùng biện lần tới, hay con tham gia nhỉ. Nhưng con không tự tin lắm.\" — Mẹ: \"Cứ thử thách một lần xem sao? Mẹ nghĩ sẽ là trải nghiệm tốt đấy.\"",
+        "why": "Thứ tự đúng: チャレンジ［3 する］［1 だけ］［4 して★］［2 みたら］？ Mẫu 〜するだけしてみたら？ = cứ thử làm (dù chỉ để làm) xem sao. ★ ở vị trí 3 → して.",
+        "options": [
+          "だけ → vị trí 2: するだけ. Không phải ★.",
+          "みたら → vị trí 4: してみたら？ (thử xem sao?). Không phải ★.",
+          "する → vị trí 1: チャレンジする. Không phải ★.",
+          "して → vị trí 3, ★. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "自信", "r": "じしん", "hv": "TỰ TÍN", "vi": "tự tin" },
+          { "w": "参加", "r": "さんか", "hv": "THAM GIA", "vi": "tham gia" },
+          { "w": "経験", "r": "けいけん", "hv": "KINH NGHIỆM", "vi": "trải nghiệm, kinh nghiệm" }
+        ],
+        "grammar": {
+          "pattern": "Vるだけ Vてみる／Vるだけ Vたら？",
+          "meaning": "cứ thử làm ~ đã (dù kết quả thế nào)",
+          "form": "V辞書形 ＋ だけ ＋ Vて ＋ みたら？",
+          "example": "だめでもともとだから、頼むだけ頼んでみたら？"
+        },
+        "evidence": null,
+        "tip": "Mẫu lặp động từ: 言うだけ言ってみる・やるだけやってみる. Ở đây チャレンジする → するだけしてみる."
+      }
+    },
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "このドレスを着ると、＿＿＿ ＿＿＿ ＿★＿ ＿＿＿気分になる。",
+      "options": ["映画か何かに", "なったような", "出てくる", "お姫様にでも"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Mặc chiếc váy này vào, tôi có cảm giác như mình trở thành nàng công chúa xuất hiện trong phim hay gì đó.",
+        "why": "Thứ tự đúng: ［1 映画か何かに］［3 出てくる］［4 お姫様にでも★］［2 なったような］気分になる. 映画か何かに出てくる (xuất hiện trong phim) bổ nghĩa cho お姫様; お姫様にでもなったような気分 = cảm giác như thành công chúa. ★ ở vị trí 3 → お姫様にでも.",
+        "options": [
+          "映画か何かに → vị trí 1: 〜に出てくる. Không phải ★.",
+          "なったような → vị trí 4, bổ nghĩa trực tiếp cho 気分. Không phải ★.",
+          "出てくる → vị trí 2, bổ nghĩa cho お姫様. Không phải ★.",
+          "お姫様にでも → vị trí 3, ★. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "お姫様", "r": "おひめさま", "hv": "CƠ DẠNG", "vi": "công chúa" },
+          { "w": "気分", "r": "きぶん", "hv": "KHÍ PHÂN", "vi": "tâm trạng, cảm giác" },
+          { "w": "〜か何か", "r": "かなにか", "hv": "", "vi": "~ hay cái gì đó" }
+        ],
+        "grammar": {
+          "pattern": "Nにでもなったような気分",
+          "meaning": "cảm giác như thể đã trở thành N",
+          "form": "N ＋ にでも ＋ なったような ＋ 気分／気持ち",
+          "example": "高級ホテルに泊まって、王様にでもなったような気分だった。"
+        },
+        "evidence": null,
+        "tip": "Danh từ cuối 気分 cần mệnh đề 〜ような ngay trước → なったような ở vị trí 4."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "昨日は「母の日」だったので、いつもおいしいお弁当を＿＿＿ ＿＿＿ ＿★＿ ＿＿＿母が欲しがっていたアクセサリーをプレゼントした。",
+      "options": ["感謝の", "作ってくれて", "ありがとうという", "気持ちを込めて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hôm qua là \"Ngày của Mẹ\" nên tôi đã gửi gắm lòng biết ơn \"cảm ơn mẹ vì luôn làm cơm hộp ngon\" và tặng mẹ món trang sức mà mẹ vẫn muốn có.",
+        "why": "Thứ tự đúng: お弁当を［2 作ってくれて］［3 ありがとうという］［1 感謝の★］［4 気持ちを込めて］母が…. 作ってくれてありがとう (cảm ơn vì đã làm) + という + 感謝の気持ち + を込めて. ★ ở vị trí 3 → 感謝の.",
+        "options": [
+          "感謝の → vị trí 3, ★. ĐÚNG.",
+          "作ってくれて → vị trí 1, nhận tân ngữ お弁当を. Không phải ★.",
+          "ありがとうという → vị trí 2, trích dẫn nội dung lời cảm ơn. Không phải ★.",
+          "気持ちを込めて → vị trí 4: 感謝の気持ちを込めて. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "感謝", "r": "かんしゃ", "hv": "CẢM TẠ", "vi": "biết ơn" },
+          { "w": "込める", "r": "こめる", "hv": "", "vi": "gửi gắm, dồn (tình cảm)" },
+          { "w": "欲しがる", "r": "ほしがる", "hv": "DỤC", "vi": "(người khác) muốn có" }
+        ],
+        "grammar": {
+          "pattern": "〜という＋N／〜を込めて",
+          "meaning": "N với nội dung ~ / gửi gắm ~ vào",
+          "form": "文 ＋ という ＋ N；N ＋ を込めて",
+          "example": "「おめでとう」という気持ちを込めて、花を贈った。"
+        },
+        "evidence": null,
+        "tip": "Cụm cố định: 感謝の気持ちを込めて. Trước という là nội dung trích dẫn (ありがとう)."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "学生時代は、周りの人から、＿＿＿ ＿＿＿ ＿★＿ ＿＿＿無理して人に合わせようとすることが多かった。",
+      "options": ["言えずに", "気にするあまり", "自分の本当の気持ちを", "自分がどう思われているかを"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Thời sinh viên, vì quá bận tâm mình bị người xung quanh nghĩ thế nào nên tôi thường không nói ra được cảm xúc thật của mình mà cố gượng ép hòa theo người khác.",
+        "why": "Thứ tự đúng: 周りの人から、［4 自分がどう思われているかを］［2 気にするあまり］［3 自分の本当の気持ちを★］［1 言えずに］無理して…. 周りの人から思われる (bị người xung quanh nghĩ) → を気にするあまり (vì quá để ý) → 本当の気持ちを言えずに. ★ ở vị trí 3.",
+        "options": [
+          "言えずに → vị trí 4, nối với 無理して (không nói được mà gượng ép). Không phải ★.",
+          "気にするあまり → vị trí 2: 〜を気にするあまり. Không phải ★.",
+          "自分の本当の気持ちを → vị trí 3, ★. ĐÚNG.",
+          "自分がどう思われているかを → vị trí 1, đi với 周りの人から (bị động). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "周り", "r": "まわり", "hv": "CHU", "vi": "xung quanh" },
+          { "w": "気にする", "r": "きにする", "hv": "KHÍ", "vi": "bận tâm, để ý" },
+          { "w": "合わせる", "r": "あわせる", "hv": "HỢP", "vi": "hòa theo, phối hợp" }
+        ],
+        "grammar": {
+          "pattern": "〜あまり",
+          "meaning": "vì quá ~ nên (dẫn đến kết quả không tốt)",
+          "form": "V辞書形／Nの ＋ あまり",
+          "example": "緊張するあまり、言いたいことが言えなかった。"
+        },
+        "evidence": null,
+        "tip": "周りの人から + bị động (思われている) → ghép ngay với vế 4. 〜ずに + 無理して là cặp nối cuối."
+      }
+    }
+  ]
+}

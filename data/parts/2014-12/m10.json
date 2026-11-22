@@ -1,0 +1,186 @@
+{
+  "exam": "2014-12",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（1）から（5）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn từ (1) đến (5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "人生には重大な決断をしなければならない時がある。そんな時に一番やってはならないのは、周りの意見に流されてしまうことだ。もちろん信頼できる人たちにアドバイスを求めるのは、悪いことではない。\nしかし何よりも大切にしなければいけないのは、まずはしっかりと自分の気持ちと向き合うことだ。自分が何をしたいのか、どうなりたいのか。新しいアクションを起こすには、まずしっかりと自分の気持ちを確認しなければならない。\n（北島康介『前に進むチカラ―折れない心を作る7つの約束』による）"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、あるレストランがホームページに掲載したお知らせである。\n\n洋食レオナール　お知らせ\n2014.11.10　移転についての重要なお知らせ\n10月1日のお知らせのとおり、「洋食レオナール」は、移転準備のため11月末日で一時休業いたします。再開の期日につきまして、これまで12月6日（土）とお伝えしておりましたが、店内工事の遅れのため、大変勝手ながら12月9日（火）に延期させていただきます。\nお客様にはご迷惑をおかけし、申し訳ございませんが、どうぞよろしくお願いいたします。\n【移転先】\n木下区寺町西3-21-2　TMビル3階（河上駅西口徒歩2分）\n電話　012-432-5432"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "以下は、ある調査に関する記事である。\n\n最近、格安航空会社に高い関心が寄せられているようだ。ある調査で、この1年に国内の旅行や帰省で飛行機を利用した20〜60代の男女に「今後格安航空会社を利用したいか」を聞いた。その結果、「利用したい」または「やや利用したい」と答えた人の割合は、20代男性が91％でもっとも多く、以下、40代男性、30代男性、20代女性、30代女性と続くが、いずれも約70％と高い。50代、60代は男女ともにやや割合が下がるが、最も低い40代女性でも半数を超えていた。"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "チンパンジーと同じ程度の知能を持つゴリラに、挨拶行動の種類が少ないのは、ゴリラは一頭のオスと数頭のメスよりなるまとまった（注1）小集団を作り、集団のメンバーが離れ離れになって生活することがないからであろう。それに反して、チンパンジー社会では、集団から受ける束縛（注2）が小さく、個体の行動の自由度が大きいので、相互の個体関係を友好的につなぐために、挨拶行動が発達したのであろう。\n（河合雅雄『サルの目ヒトの目』による）\n（注1）まとまる：一つになる\n（注2）束縛：ここでは、制限"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "事柄にもよるが、一般に、飽きる人間の方が下等で、飽きない人間の方が上等と思われている。特に、相手が書物であるような場合は、飽きることは悪いこと、と最初から相場（注1）が決まっている。しかし、人間の精神の成長は、しばしば、飽きるという形で現れることがある。飽きるというのは、今まで面白かったものが面白くなくなるということである。自分の心の歯車と噛み合わなくなる（注2）ということである。\n（清水幾太郎『本はどう読むか』による）\n（注1）相場：ここでは、評価\n（注2）噛み合う：うまく合う"
+    }
+  ],
+  "questions": [
+    {
+      "num": 55,
+      "passage": "p1",
+      "stem": "重大な決断をする時に、重要なことは何か。",
+      "options": ["信頼できる人に意見を求める。", "周りの人の意見をしっかり聞く。", "自分の気持ちを正直に人に話す。", "自分の気持ちをしっかり見つめる。"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Khi đưa ra quyết định quan trọng, điều quan trọng là gì? → Nhìn nhận kỹ cảm xúc của chính mình.",
+        "why": "Tác giả nói điều quan trọng hơn hết là 'đối diện nghiêm túc với cảm xúc của mình' (自分の気持ちと向き合う) và 'xác nhận kỹ cảm xúc của mình'. 'しっかり見つめる' là cách diễn đạt lại của 向き合う／確認する.",
+        "options": [
+          "Hỏi ý kiến người tin cậy → tác giả chỉ nói 'không phải điều xấu', không phải điều quan trọng nhất. Sai.",
+          "Lắng nghe kỹ ý kiến xung quanh → ngược lại, bị cuốn theo ý kiến xung quanh là điều tối kỵ. Sai.",
+          "Thành thật kể cảm xúc cho người khác → bài không nói. Sai.",
+          "Nhìn nhận kỹ cảm xúc của bản thân. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "決断", "r": "けつだん", "hv": "QUYẾT ĐOÁN", "vi": "quyết định, quyết đoán" },
+          { "w": "向き合う", "r": "むきあう", "hv": "HƯỚNG HỢP", "vi": "đối diện, đối mặt" },
+          { "w": "流される", "r": "ながされる", "hv": "LƯU", "vi": "bị cuốn theo" },
+          { "w": "見つめる", "r": "みつめる", "hv": "KIẾN", "vi": "nhìn chăm chú, nhìn nhận" }
+        ],
+        "grammar": null,
+        "evidence": "しかし何よりも大切にしなければいけないのは、まずはしっかりと自分の気持ちと向き合うことだ。",
+        "tip": "Sau しかし là ý chính của tác giả; 'もちろん〜悪いことではない' chỉ là nhượng bộ."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p2",
+      "stem": "このお知らせで一番知らせたいことは何か。",
+      "options": ["「洋食レオナール」が一時休業し移転すること。", "「洋食レオナール」の移転先が決まったこと。", "「洋食レオナール」の営業再開日が遅れること。", "「洋食レオナール」の店内工事の日程が決まったこと。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều thông báo này muốn báo nhất là gì? → Ngày mở cửa lại của nhà hàng Leonard bị lùi lại.",
+        "why": "Việc tạm nghỉ để chuyển địa điểm đã thông báo từ 1/10 (10月1日のお知らせのとおり). Thông tin mới là ngày mở cửa lại đổi từ 6/12 sang 9/12 do thi công chậm.",
+        "options": [
+          "Tạm nghỉ và chuyển địa điểm → đã thông báo từ 1/10, không phải thông tin mới. Sai.",
+          "Đã quyết định địa điểm mới → chỉ là thông tin kèm theo. Sai.",
+          "Ngày mở cửa lại bị chậm. ĐÚNG.",
+          "Lịch thi công trong quán đã được quyết định → bài chỉ nói thi công bị chậm. Sai."
+        ],
+        "vocab": [
+          { "w": "移転", "r": "いてん", "hv": "DI CHUYỂN", "vi": "chuyển địa điểm" },
+          { "w": "一時休業", "r": "いちじきゅうぎょう", "hv": "NHẤT THỜI HƯU NGHIỆP", "vi": "tạm ngừng kinh doanh" },
+          { "w": "延期", "r": "えんき", "hv": "DIÊN KỲ", "vi": "hoãn, lùi lại" },
+          { "w": "期日", "r": "きじつ", "hv": "KỲ NHẬT", "vi": "ngày ấn định" }
+        ],
+        "grammar": {
+          "pattern": "〜のとおり ／ 大変勝手ながら",
+          "meaning": "đúng như ~ (thông tin đã biết); thật là tự tiện nhưng (lời xin lỗi trang trọng trước thông báo thay đổi)",
+          "form": "Nのとおり ／ 勝手ながら + 〜させていただきます",
+          "example": "大変勝手ながら、本日は休業させていただきます。（Thành thật xin lỗi, hôm nay chúng tôi xin nghỉ.）"
+        },
+        "evidence": "再開の期日につきまして、これまで12月6日（土）とお伝えしておりましたが、店内工事の遅れのため、大変勝手ながら12月9日（火）に延期させていただきます。",
+        "tip": "Thông báo dạng này: phần '〜のとおり' là tin cũ; phần 'これまで〜とお伝えしておりましたが' là tin mới cần báo."
+      }
+    },
+    {
+      "num": 57,
+      "passage": "p3",
+      "stem": "今後格安航空会社を「利用したい」または「やや利用したい」と答えた人の割合について、この記事からわかることはどれか。",
+      "options": ["すべての性別・年代で50％以上である。", "20代と30代では、男女とも70％前後である。", "男女とも、30代より40代のほうが割合が高い。", "男女とも、年齢が低いほど割合が高い。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về tỉ lệ người trả lời 'muốn dùng' hoặc 'hơi muốn dùng' hãng hàng không giá rẻ, điều nào biết được từ bài báo? → Ở mọi giới tính và độ tuổi đều trên 50%.",
+        "why": "Nhóm thấp nhất là nữ 40 tuổi cũng 'vượt quá một nửa' (半数を超えていた) → tất cả các nhóm đều trên 50%.",
+        "options": [
+          "Mọi giới tính, độ tuổi đều trên 50%. ĐÚNG.",
+          "Nam 20 tuổi là 91%, không phải khoảng 70%. Sai.",
+          "Nam 40 cao hơn nam 30, nhưng nữ 40 là thấp nhất → 'cả nam và nữ' sai. Sai.",
+          "Nam 40 cao hơn nam 30; nữ 40 thấp hơn nữ 50, 60 → không phải 'càng trẻ càng cao'. Sai."
+        ],
+        "vocab": [
+          { "w": "格安航空会社", "r": "かくやすこうくうがいしゃ", "hv": "CÁCH AN HÀNG KHÔNG HỘI XÃ", "vi": "hãng hàng không giá rẻ" },
+          { "w": "割合", "r": "わりあい", "hv": "CÁT HỢP", "vi": "tỉ lệ" },
+          { "w": "帰省", "r": "きせい", "hv": "QUY TỈNH", "vi": "về quê" },
+          { "w": "半数", "r": "はんすう", "hv": "BÁN SỐ", "vi": "một nửa (số lượng)" }
+        ],
+        "grammar": {
+          "pattern": "最も〜Nでも…",
+          "meaning": "ngay cả N ~ nhất cũng … (suy ra tất cả)",
+          "form": "最も + A + N + でも",
+          "example": "最も安い部屋でも1万円する。（Ngay cả phòng rẻ nhất cũng 10.000 yên.）"
+        },
+        "evidence": "50代、60代は男女ともにやや割合が下がるが、最も低い40代女性でも半数を超えていた。",
+        "tip": "Câu hỏi số liệu: tìm câu 'thấp nhất cũng…' để kết luận về tất cả."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p4",
+      "stem": "この文章によると、挨拶行動がよく見られるのはどのような集団か。",
+      "options": ["メンバーの数が少ない集団。", "メンバーが集まって行動する集団。", "メンバー間の関係が友好的な集団。", "メンバーの行動の制限が少ない集団。"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo bài, hành vi chào hỏi thường thấy ở nhóm như thế nào? → Nhóm mà hành động của các thành viên ít bị hạn chế.",
+        "why": "Xã hội tinh tinh: 'sự ràng buộc (束縛 = hạn chế) từ nhóm nhỏ, mức độ tự do hành động lớn' → hành vi chào hỏi phát triển. Ngược lại khỉ đột sống nhóm nhỏ gắn kết nên ít kiểu chào hỏi.",
+        "options": [
+          "Nhóm ít thành viên → đó là đặc điểm của khỉ đột (ít chào hỏi). Sai.",
+          "Nhóm thành viên tụ tập hành động cùng nhau → cũng là khỉ đột. Sai.",
+          "Nhóm quan hệ thân thiện → chào hỏi là để TẠO quan hệ thân thiện (mục đích), không phải điều kiện. Sai.",
+          "Nhóm ít hạn chế hành động của thành viên. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "挨拶行動", "r": "あいさつこうどう", "hv": "AI TẠT HÀNH ĐỘNG", "vi": "hành vi chào hỏi" },
+          { "w": "束縛", "r": "そくばく", "hv": "THÚC PHƯỢC", "vi": "ràng buộc, hạn chế" },
+          { "w": "個体", "r": "こたい", "hv": "CÁ THỂ", "vi": "cá thể" },
+          { "w": "離れ離れ", "r": "はなればなれ", "hv": "LY", "vi": "rời rạc, xa cách nhau" }
+        ],
+        "grammar": {
+          "pattern": "それに反して",
+          "meaning": "trái lại, ngược lại với điều đó",
+          "form": "Câu A。それに反して、câu B。",
+          "example": "兄は活発だ。それに反して、弟はおとなしい。（Anh thì hoạt bát, trái lại em thì trầm tính.）"
+        },
+        "evidence": "チンパンジー社会では、集団から受ける束縛が小さく、個体の行動の自由度が大きいので、相互の個体関係を友好的につなぐために、挨拶行動が発達したのであろう。",
+        "tip": "Chú thích (注2) 束縛＝制限 chính là chìa khóa: 束縛が小さい = 制限が少ない."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p5",
+      "stem": "飽きることについて、筆者はどのように考えているか。",
+      "options": ["飽きることが精神の成長を示すこともある。", "飽きやすいということは幼さの現れである。", "人間が成長するうえでは飽きることが必要だ。", "精神が成長を続けている間は飽きることはない。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tác giả nghĩ thế nào về việc chán? → Việc chán đôi khi cho thấy sự trưởng thành về tinh thần.",
+        "why": "Sau しかし tác giả nêu quan điểm: sự trưởng thành tinh thần 'thường xuất hiện dưới dạng chán' (しばしば…現れることがある) → chán có khi là dấu hiệu trưởng thành.",
+        "options": [
+          "Chán đôi khi thể hiện sự trưởng thành tinh thần. ĐÚNG.",
+          "Dễ chán là biểu hiện của sự non nớt → đó là quan niệm thông thường mà tác giả phản bác. Sai.",
+          "Chán là điều cần thiết để trưởng thành → quá mạnh; tác giả chỉ nói 'có khi' (ことがある). Sai.",
+          "Khi tinh thần đang trưởng thành thì không chán → ngược với bài. Sai."
+        ],
+        "vocab": [
+          { "w": "飽きる", "r": "あきる", "hv": "BÃO", "vi": "chán, ngán" },
+          { "w": "下等", "r": "かとう", "hv": "HẠ ĐẲNG", "vi": "hạ đẳng, thấp kém" },
+          { "w": "精神", "r": "せいしん", "hv": "TINH THẦN", "vi": "tinh thần" },
+          { "w": "歯車", "r": "はぐるま", "hv": "XỈ XA", "vi": "bánh răng" }
+        ],
+        "grammar": {
+          "pattern": "〜ことがある",
+          "meaning": "có khi ~, đôi khi ~ (không phải luôn luôn)",
+          "form": "Vる + ことがある",
+          "example": "この道は冬に閉鎖されることがある。（Con đường này có khi bị đóng vào mùa đông.）"
+        },
+        "evidence": "しかし、人間の精神の成長は、しばしば、飽きるという形で現れることがある。",
+        "tip": "Bẫy: phương án 3 dùng '必要だ' (tuyệt đối) trong khi bài chỉ nói 'ことがある' (có khi)."
+      }
+    }
+  ]
+}

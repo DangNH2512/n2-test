@@ -1,0 +1,160 @@
+{
+  "exam": "2019-12",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、48から52の中に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án thích hợp nhất cho các chỗ trống 48–52.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "初めて正確な日本地図を作成した人物として知られる伊能忠敬は、1745年、上総国（今の千葉県）に生まれた。優れた経営者だった忠敬だが、50歳を前に仕事をやめ、興味があった星や暦について高橋至時のもとで（48）。19歳も年下の至時を忠敬は敬い、熱心に勉強した。\n当時の学者たちの関心は、地球の直径を知ることにあった。江戸（今の東京）から蝦夷地（今の北海道）までの距離は当時はまだわからなかったが、それが（49）正確に直径が計算できると知った忠敬は、蝦夷地へ行くことを願う。しかし、蝦夷地に行くには国の許可が必要だった。至時は、蝦夷地の地図作成を理由に国の許可をとり、忠敬を担当にする。（50）、忠敬55歳のとき、地図作りの旅が始まった。\n昼間は測って歩き、夜は星を観察して昼間測った数値を修正する日々が続いた。完成した蝦夷地の地図は国から高く評価され、忠敬は東日本の地図作成も（51）。地図作成の旅は順調に終わったが、完成前、忠敬を支え続けた至時が病気で亡くなってしまう。一番の理解者である至時を失い、忠敬はひどく落ち込んだ。だが、悲しみに耐え、さらに命じられた西日本の地図作成にも取り組む。旅を終え、完成に向けて作業の最終段階に入っていた1818年、忠敬は73歳で人生の幕を閉じた。作業は弟子らが続け、1821年、日本全国の地図が完成した。\n忠敬は自分に大きな仕事ができたのはすべて至時先生のおかげだと書き残している。歴史に残る（52）は、二人の信頼関係によって、誕生したのである。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 48,
+      "passage": "p1",
+      "stem": "（48）に入るもの",
+      "options": ["学んだばかりだ", "学ぼうと思っている", "学び始めた", "学ぶところだった"],
+      "answer": 3,
+      "explanation": {
+        "translation": "… gần 50 tuổi ông bỏ việc và bắt đầu học về tinh tú và lịch pháp dưới sự hướng dẫn của Takahashi Yoshitoki.",
+        "why": "Bài kể tiểu sử ở thì quá khứ: bỏ việc → bắt đầu học. Câu sau '熱心に勉強した' cho thấy việc học đã thực sự bắt đầu → 学び始めた.",
+        "options": [
+          "学んだばかりだ → vừa mới học xong (thì hiện tại, nhấn mạnh 'vừa'): không hợp văn kể tiểu sử. Sai.",
+          "学ぼうと思っている → đang định học: chưa xảy ra, mâu thuẫn với 熱心に勉強した. Sai.",
+          "学び始めた → đã bắt đầu học. ĐÚNG.",
+          "学ぶところだった → suýt nữa thì học / đúng lúc sắp học: sai nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "暦", "r": "こよみ", "hv": "LỊCH", "vi": "lịch (lịch pháp)" },
+          { "w": "経営者", "r": "けいえいしゃ", "hv": "KINH DOANH GIẢ", "vi": "người kinh doanh, chủ doanh nghiệp" },
+          { "w": "敬う", "r": "うやまう", "hv": "KÍNH", "vi": "kính trọng" }
+        ],
+        "grammar": {
+          "pattern": "N＋のもとで",
+          "meaning": "dưới sự (hướng dẫn, chỉ đạo) của ~",
+          "form": "N（người）＋のもとで",
+          "example": "有名な先生のもとで研究を続けた。"
+        },
+        "evidence": "50歳を前に仕事をやめ、興味があった星や暦について高橋至時のもとで（48）。19歳も年下の至時を忠敬は敬い、熱心に勉強した。",
+        "tip": "Văn tiểu sử dùng thì quá khứ thường; loại các đáp án mang sắc thái hiện tại/dự định."
+      }
+    },
+    {
+      "num": 49,
+      "passage": "p1",
+      "stem": "（49）に入るもの",
+      "options": ["わかって", "わかれば", "わかるため", "わかったことで"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Khoảng cách từ Edo đến Ezo lúc đó chưa được biết, nhưng khi biết rằng nếu biết được khoảng cách đó thì có thể tính chính xác đường kính (Trái Đất), Tadataka mong muốn được đến Ezo.",
+        "why": "Đây là điều kiện giả định (khoảng cách chưa biết): 'nếu biết được thì tính được' → ～ば. Vế sau 計算できる là khả năng xảy ra khi điều kiện thỏa.",
+        "options": [
+          "わかって → biết rồi và…: là sự việc đã xảy ra, mâu thuẫn với 'chưa biết'. Sai.",
+          "わかれば → nếu biết được thì. ĐÚNG.",
+          "わかるため → vì biết / để biết: không hợp logic. Sai.",
+          "わかったことで → nhờ việc đã biết: sự việc đã xảy ra, mâu thuẫn. Sai."
+        ],
+        "vocab": [
+          { "w": "直径", "r": "ちょっけい", "hv": "TRỰC KÍNH", "vi": "đường kính" },
+          { "w": "距離", "r": "きょり", "hv": "CỰ LY", "vi": "khoảng cách" },
+          { "w": "許可", "r": "きょか", "hv": "HỨA KHẢ", "vi": "cho phép, giấy phép" }
+        ],
+        "grammar": {
+          "pattern": "～ば～できる",
+          "meaning": "nếu ~ thì có thể ~ (điều kiện giả định)",
+          "form": "Vば＋V（可能形）",
+          "example": "地図があれば、迷わずに行ける。"
+        },
+        "evidence": "江戸から蝦夷地までの距離は当時はまだわからなかったが、それが（49）正確に直径が計算できると知った忠敬は、蝦夷地へ行くことを願う。",
+        "tip": "'まだわからなかった' → điều kiện giả định, chọn ～ば."
+      }
+    },
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["また", "しかも", "ところが", "こうして"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Yoshitoki lấy lý do vẽ bản đồ Ezo để xin phép nhà nước và giao cho Tadataka phụ trách. Như vậy, năm Tadataka 55 tuổi, chuyến đi vẽ bản đồ đã bắt đầu.",
+        "why": "こうして = như thế, bằng cách đó → tổng kết quá trình phía trước (xin phép, giao nhiệm vụ) dẫn tới kết quả (chuyến đi bắt đầu).",
+        "options": [
+          "また → ngoài ra, lại nữa (bổ sung). Sai.",
+          "しかも → hơn nữa (thêm thông tin cùng chiều). Sai.",
+          "ところが → thế nhưng (kết quả trái mong đợi). Sai.",
+          "こうして → như vậy, bằng cách đó (dẫn tới kết quả). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "担当", "r": "たんとう", "hv": "ĐẢM ĐƯƠNG", "vi": "phụ trách" },
+          { "w": "地図作り", "r": "ちずづくり", "hv": "ĐỊA ĐỒ TÁC", "vi": "việc làm bản đồ" }
+        ],
+        "grammar": {
+          "pattern": "こうして",
+          "meaning": "như vậy, bằng cách đó (tổng kết quá trình → kết quả)",
+          "form": "[quá trình]。こうして、[kết quả]。",
+          "example": "何度も実験を重ねた。こうして新しい薬が生まれた。"
+        },
+        "evidence": "至時は、蝦夷地の地図作成を理由に国の許可をとり、忠敬を担当にする。（50）、忠敬55歳のとき、地図作りの旅が始まった。",
+        "tip": "Kết quả tự nhiên của chuỗi sự việc phía trước → こうして."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["命じられることとなる", "命じられたことになる", "命じられることもある", "命じられたことである"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Bản đồ Ezo hoàn thành được nhà nước đánh giá cao, và Tadataka được giao (ra lệnh) cả việc vẽ bản đồ miền Đông Nhật Bản.",
+        "why": "～ことになる/～こととなる = kết quả là ~ (sự việc được quyết định bởi hoàn cảnh/người khác). Văn kể lịch sử dùng 'hiện tại lịch sử' (命じられることとなる) giống 願う, 担当にする, 取り組む ở đoạn khác.",
+        "options": [
+          "命じられることとなる → kết quả là được giao ~. ĐÚNG.",
+          "命じられたことになる → coi như đã được giao (giả định/suy ra): sai nghĩa. Sai.",
+          "命じられることもある → cũng có khi được giao: chỉ tần suất, không hợp. Sai.",
+          "命じられたことである → là việc đã được giao: câu giải thích, không hợp mạch kể. Sai."
+        ],
+        "vocab": [
+          { "w": "評価", "r": "ひょうか", "hv": "BÌNH GIÁ", "vi": "đánh giá" },
+          { "w": "命じる", "r": "めいじる", "hv": "MỆNH", "vi": "ra lệnh, giao nhiệm vụ" },
+          { "w": "順調", "r": "じゅんちょう", "hv": "THUẬN ĐIỀU", "vi": "thuận lợi, suôn sẻ" }
+        ],
+        "grammar": {
+          "pattern": "～こととなる（＝～ことになる）",
+          "meaning": "kết quả là ~, (được quyết định) sẽ ~",
+          "form": "Vる＋こととなる",
+          "example": "来月から大阪支社で働くこととなった。"
+        },
+        "evidence": "完成した蝦夷地の地図は国から高く評価され、忠敬は東日本の地図作成も（51）。",
+        "tip": "Vた＋ことになる thường mang nghĩa 'tính ra là / coi như là' → không dùng để kể diễn biến."
+      }
+    },
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "（52）に入るもの",
+      "options": ["これ", "あるもの", "日本地図", "そういう地図"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tấm bản đồ Nhật Bản đi vào lịch sử ấy đã ra đời nhờ mối quan hệ tin tưởng giữa hai người.",
+        "why": "Câu kết tổng kết toàn bài: thứ ra đời nhờ hai người (忠敬 và 至時) chính là 日本地図 (bản đồ Nhật Bản chính xác đầu tiên). '歴史に残る日本地図' tự nhiên và rõ nghĩa.",
+        "options": [
+          "これ → chỉ thị từ mơ hồ, không thể bổ nghĩa bởi 歴史に残る theo cách tự nhiên. Sai.",
+          "あるもの → 'một thứ nào đó': mơ hồ, không phù hợp câu kết. Sai.",
+          "日本地図 → bản đồ Nhật Bản. ĐÚNG.",
+          "そういう地図 → 'loại bản đồ như thế': không có đoạn nào mô tả 'loại' bản đồ để chỉ tới. Sai."
+        ],
+        "vocab": [
+          { "w": "信頼関係", "r": "しんらいかんけい", "hv": "TÍN LẠI QUAN HỆ", "vi": "quan hệ tin tưởng" },
+          { "w": "誕生", "r": "たんじょう", "hv": "ĐẢN SINH", "vi": "ra đời" },
+          { "w": "書き残す", "r": "かきのこす", "hv": "THƯ TÀN", "vi": "viết lại, để lại bằng văn bản" }
+        ],
+        "grammar": null,
+        "evidence": "忠敬は自分に大きな仕事ができたのはすべて至時先生のおかげだと書き残している。歴史に残る（52）は、二人の信頼関係によって、誕生したのである。",
+        "tip": "Câu kết bài thường nhắc lại chủ đề chính (câu đầu: 初めて正確な日本地図を作成した人物)."
+      }
+    }
+  ]
+}

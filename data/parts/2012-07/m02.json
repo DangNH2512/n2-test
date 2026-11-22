@@ -1,0 +1,137 @@
+{
+  "exam": "2012-07",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết Kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "先生の一言が、私をこの研究に<u>みちびいて</u>くれた。",
+      "options": ["招いて", "導いて", "誘いて", "伴いて"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Một lời nói của thầy đã dẫn dắt tôi đến với nghiên cứu này.",
+        "why": "みちびく viết là 導く (ĐẠO) = dẫn dắt, hướng dẫn. 「～に導く」 = dẫn đến ~.",
+        "options": [
+          "招いて → まねいて: mời, chiêu đãi; gây ra. Sai cách đọc.",
+          "導いて → みちびいて: dẫn dắt. ĐÚNG.",
+          "誘いて → 誘う đọc さそう (rủ rê), không chia 誘いて. Sai.",
+          "伴いて → 伴う đọc ともなう (kèm theo), không chia 伴いて. Sai."
+        ],
+        "vocab": [
+          { "w": "導く", "r": "みちびく", "hv": "ĐẠO", "vi": "dẫn dắt, hướng dẫn" },
+          { "w": "指導", "r": "しどう", "hv": "CHỈ ĐẠO", "vi": "chỉ đạo, hướng dẫn" },
+          { "w": "招く", "r": "まねく", "hv": "CHIÊU", "vi": "mời; gây ra" },
+          { "w": "伴う", "r": "ともなう", "hv": "BẠN", "vi": "đi kèm, kéo theo" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "導 có bộ 道 (con đường) + 寸: dẫn người đi trên đường → みちびく."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "こわれやすいので、丁寧に<u>あつかって</u>ください。",
+      "options": ["拠って", "吸って", "扱って", "処って"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vì dễ vỡ nên xin hãy xử lý (cầm nắm) cẩn thận.",
+        "why": "あつかう viết là 扱う (TRÁP) = đối xử, xử lý, cầm nắm.",
+        "options": [
+          "拠って → よって: dựa vào. Sai.",
+          "吸って → すって: hút, hít. Sai.",
+          "扱って → あつかって: xử lý, cầm nắm. ĐÚNG.",
+          "処って → không có cách viết này. Sai."
+        ],
+        "vocab": [
+          { "w": "扱う", "r": "あつかう", "hv": "TRÁP", "vi": "đối xử, xử lý, sử dụng" },
+          { "w": "丁寧", "r": "ていねい", "hv": "ĐINH NINH", "vi": "cẩn thận, lịch sự" },
+          { "w": "壊れる", "r": "こわれる", "hv": "HOẠI", "vi": "bị hỏng, vỡ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "取り扱い説明書(とりあつかいせつめいしょ) = sách hướng dẫn sử dụng."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "ゼミには<u>せっきょくてき</u>に参加してほしい。",
+      "options": ["責局的", "積局的", "責極的", "積極的"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi muốn các bạn tham gia seminar một cách tích cực.",
+        "why": "せっきょくてき viết là 積極的 (TÍCH CỰC ĐÍCH) = tích cực, chủ động. 積 (tích lũy) + 極 (cực).",
+        "options": [
+          "責局的 → sai cả hai chữ. Sai.",
+          "積局的 → 局 (cục) sai. Sai.",
+          "責極的 → 責 (trách) sai. Sai.",
+          "積極的 → tích cực. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "積極的", "r": "せっきょくてき", "hv": "TÍCH CỰC ĐÍCH", "vi": "tích cực, chủ động" },
+          { "w": "消極的", "r": "しょうきょくてき", "hv": "TIÊU CỰC ĐÍCH", "vi": "tiêu cực, thụ động" },
+          { "w": "参加", "r": "さんか", "hv": "THAM GIA", "vi": "tham gia" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Dùng Hán Việt: TÍCH CỰC = 積極. Cặp trái nghĩa: 積極的 ⇔ 消極的."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "最初のうちは<u>ていこう</u>を感じていたが、いつの間にか慣れてしまった。",
+      "options": ["底抗", "抵抗", "底坑", "抵坑"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Lúc đầu tôi cảm thấy e ngại (kháng cự), nhưng chẳng biết từ lúc nào đã quen mất rồi.",
+        "why": "ていこう viết là 抵抗 (ĐỂ KHÁNG) = chống cự; cảm giác e ngại, khó chấp nhận. Cả hai chữ đều có bộ 扌 (tay).",
+        "options": [
+          "底抗 → 底 (đáy) sai. Sai.",
+          "抵抗 → đề kháng, e ngại. ĐÚNG.",
+          "底坑 → sai cả hai chữ. Sai.",
+          "抵坑 → 坑 (hố) sai. Sai."
+        ],
+        "vocab": [
+          { "w": "抵抗", "r": "ていこう", "hv": "ĐỂ KHÁNG", "vi": "chống cự; cảm giác e ngại" },
+          { "w": "慣れる", "r": "なれる", "hv": "QUÁN", "vi": "quen" },
+          { "w": "いつの間にか", "r": "いつのまにか", "hv": "", "vi": "chẳng biết từ lúc nào" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "抵抗を感じる = cảm thấy ngần ngại/khó chịu khi làm gì. Nhớ 2 chữ cùng bộ tay 扌."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "昨日から<u>かた</u>が痛いんです。",
+      "options": ["腰", "腹", "背", "肩"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Từ hôm qua tôi bị đau vai.",
+        "why": "かた (bộ phận cơ thể) viết là 肩 (KIÊN) = vai.",
+        "options": [
+          "腰 → こし: hông, thắt lưng. Sai.",
+          "腹 → はら: bụng. Sai.",
+          "背 → せ: lưng. Sai.",
+          "肩 → かた: vai. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "肩", "r": "かた", "hv": "KIÊN", "vi": "vai" },
+          { "w": "腰", "r": "こし", "hv": "YÊU", "vi": "hông, thắt lưng" },
+          { "w": "腹", "r": "はら", "hv": "PHÚC", "vi": "bụng" },
+          { "w": "背中", "r": "せなか", "hv": "BỐI TRUNG", "vi": "lưng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "肩こり(かたこり) = mỏi vai, cứng vai."
+      }
+    }
+  ]
+}

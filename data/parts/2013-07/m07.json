@@ -1,0 +1,369 @@
+{
+  "exam": "2013-07",
+  "mondai": 7,
+  "section": "grammar",
+  "instruction": "次の文の（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn phương án thích hợp nhất điền vào chỗ trống trong câu.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 33,
+      "passage": null,
+      "stem": "Y遊園地の昨年の入場者数は、1000万人（　　）上った。",
+      "options": ["に", "で", "が", "と"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Số lượt khách vào công viên giải trí Y năm ngoái đã lên tới 10 triệu người.",
+        "why": "Số lượng + に上る (のぼる) = lên tới, đạt đến (con số lớn). Trợ từ đi với 上る là に.",
+        "options": [
+          "に → 1000万人に上った: lên tới 10 triệu. ĐÚNG.",
+          "で → で chỉ phương tiện/nơi chốn; không đi với 上る chỉ con số. Sai.",
+          "が → chủ ngữ đã là 入場者数は; không hợp. Sai.",
+          "と → と chỉ kết quả/trích dẫn; 上る không đi với と. Sai."
+        ],
+        "vocab": [
+          { "w": "上る", "r": "のぼる", "hv": "THƯỢNG", "vi": "lên tới (con số)" },
+          { "w": "入場者数", "r": "にゅうじょうしゃすう", "hv": "NHẬP TRƯỜNG GIẢ SỐ", "vi": "số người vào cửa" },
+          { "w": "遊園地", "r": "ゆうえんち", "hv": "DU VIÊN ĐỊA", "vi": "công viên giải trí" }
+        ],
+        "grammar": {
+          "pattern": "～に上る",
+          "meaning": "lên tới, đạt tới (số lượng lớn)",
+          "form": "Số lượng + に上る",
+          "example": "被害額は10億円に上った。(Thiệt hại lên tới 1 tỷ yên.)"
+        },
+        "evidence": null,
+        "tip": "～に上る / ～に達する (たっする) đều dùng để nhấn mạnh con số lớn."
+      }
+    },
+    {
+      "num": 34,
+      "passage": null,
+      "stem": "鉄道会社と自治体による長期間の議論（　　）、新駅の建設が決定された。",
+      "options": ["をめぐり", "を込めて", "の末に", "のことで"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Sau một thời gian dài thảo luận giữa công ty đường sắt và chính quyền địa phương, việc xây dựng nhà ga mới đã được quyết định.",
+        "why": "Nの末に (すえに) = sau một quá trình dài (khó khăn) cuối cùng thì... 長期間の議論の末に決定された: thảo luận lâu rồi cuối cùng quyết định.",
+        "options": [
+          "をめぐり → xoay quanh (vấn đề tranh cãi); 議論をめぐり không hợp (phải là 新駅をめぐる議論). Sai.",
+          "を込めて → gửi gắm (tình cảm): 心を込めて. Sai.",
+          "の末に → sau rốt, cuối cùng sau khi... ĐÚNG.",
+          "のことで → về việc...; không thể hiện kết quả sau quá trình. Sai."
+        ],
+        "vocab": [
+          { "w": "自治体", "r": "じちたい", "hv": "TỰ TRỊ THỂ", "vi": "chính quyền địa phương" },
+          { "w": "議論", "r": "ぎろん", "hv": "NGHỊ LUẬN", "vi": "thảo luận, tranh luận" },
+          { "w": "建設", "r": "けんせつ", "hv": "KIẾN THIẾT", "vi": "xây dựng" }
+        ],
+        "grammar": {
+          "pattern": "～末に",
+          "meaning": "sau khi (trải qua quá trình dài, vất vả) thì cuối cùng...",
+          "form": "Nの末に / Vた末に",
+          "example": "悩んだ末に、留学をやめることにした。(Sau khi đắn đo mãi, tôi quyết định bỏ du học.)"
+        },
+        "evidence": null,
+        "tip": "Dấu hiệu: 長期間, 長い間, さんざん... đi kèm quá trình dài → ～末に."
+      }
+    },
+    {
+      "num": 35,
+      "passage": null,
+      "stem": "今日は午後から晴れるという予報だったが、午後になっても雨はやまず、むしろ（　　）ばかりだった。",
+      "options": ["強い", "強く", "強かった", "強くなる"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Dự báo nói từ chiều trời sẽ nắng, nhưng đến chiều mưa vẫn không tạnh, trái lại chỉ ngày càng nặng hạt hơn.",
+        "why": "Vる + ばかりだ = chỉ ngày càng (theo một chiều hướng, thường xấu). Cần động từ thể từ điển chỉ sự biến đổi: 強くなる + ばかりだ.",
+        "options": [
+          "強い → tính từ, không chỉ sự thay đổi; ばかりだ (xu hướng) cần động từ. Sai.",
+          "強く → dạng liên dụng, không nối trực tiếp với ばかり. Sai.",
+          "強かった → quá khứ; Vたばかり nghĩa 'vừa mới', không hợp. Sai.",
+          "強くなる → ngày càng mạnh lên. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "予報", "r": "よほう", "hv": "DỰ BÁO", "vi": "dự báo" },
+          { "w": "むしろ", "r": "むしろ", "hv": "", "vi": "trái lại, đúng hơn là" },
+          { "w": "やむ", "r": "やむ", "hv": "", "vi": "tạnh, dừng" }
+        ],
+        "grammar": {
+          "pattern": "Vる＋ばかりだ",
+          "meaning": "chỉ ngày càng... (biến đổi theo một chiều, thường xấu)",
+          "form": "V辞書形＋ばかりだ",
+          "example": "物価は上がるばかりだ。(Giá cả chỉ ngày càng tăng.)"
+        },
+        "evidence": null,
+        "tip": "Phân biệt: Vたばかり = vừa mới; Vるばかり = ngày càng."
+      }
+    },
+    {
+      "num": 36,
+      "passage": null,
+      "stem": "哲学Ⅱの授業は、哲学Ⅰの単位を取得（　　）、受けることができません。",
+      "options": ["してからか", "してからでないと", "してからで", "してからでなくて"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Môn Triết học II thì nếu chưa lấy được tín chỉ Triết học I sẽ không thể học được.",
+        "why": "Vてからでないと + phủ định = nếu không làm V trước thì không thể... Vế sau là 受けることができません (phủ định) → khớp.",
+        "options": [
+          "してからか → không có cấu trúc này. Sai.",
+          "してからでないと → nếu chưa... thì không thể. ĐÚNG.",
+          "してからで → không tạo điều kiện; không hợp với vế phủ định. Sai.",
+          "してからでなくて → không mang nghĩa điều kiện. Sai."
+        ],
+        "vocab": [
+          { "w": "哲学", "r": "てつがく", "hv": "TRIẾT HỌC", "vi": "triết học" },
+          { "w": "単位", "r": "たんい", "hv": "ĐƠN VỊ", "vi": "tín chỉ; đơn vị" },
+          { "w": "取得", "r": "しゅとく", "hv": "THỦ ĐẮC", "vi": "đạt được, lấy được" }
+        ],
+        "grammar": {
+          "pattern": "～てからでないと／てからでなければ",
+          "meaning": "nếu không ... trước thì không thể ...",
+          "form": "Vて＋からでないと＋(vế phủ định / khó khăn)",
+          "example": "料金を払ってからでないと、入場できません。(Phải trả tiền trước rồi mới vào được.)"
+        },
+        "evidence": null,
+        "tip": "Vế sau luôn là phủ định/không thể: ～できない, ～無理だ."
+      }
+    },
+    {
+      "num": 37,
+      "passage": null,
+      "stem": "（広告で）\n現在、数量限定半額セールを実施中。商品が（　　）終了しますので、お早めに。",
+      "options": ["なくなり次第", "なくなった以上", "なくなるうちに", "なくなっては"],
+      "answer": 1,
+      "explanation": {
+        "translation": "(Quảng cáo) Hiện đang có đợt giảm giá nửa giá số lượng có hạn. Hết hàng là kết thúc ngay, xin hãy nhanh tay.",
+        "why": "Vます(bỏ ます)+次第 = ngay khi ... thì (lập tức làm). なくなり次第終了 = hết hàng là kết thúc ngay, cách nói cố định trong thông báo bán hàng.",
+        "options": [
+          "なくなり次第 → ngay khi hết. ĐÚNG.",
+          "なくなった以上 → một khi đã hết thì (phải...); vế sau thường là ý chí/nghĩa vụ. Sai.",
+          "なくなるうちに → sai cấu trúc (うちに đi với ない形: なくならないうちに). Sai.",
+          "なくなっては → nếu hết thì (kết quả xấu); không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "数量限定", "r": "すうりょうげんてい", "hv": "SỐ LƯỢNG HẠN ĐỊNH", "vi": "số lượng có hạn" },
+          { "w": "半額", "r": "はんがく", "hv": "BÁN NGẠCH", "vi": "nửa giá" },
+          { "w": "実施", "r": "じっし", "hv": "THỰC THI", "vi": "thực hiện, tiến hành" },
+          { "w": "終了", "r": "しゅうりょう", "hv": "CHUNG LIỄU", "vi": "kết thúc" }
+        ],
+        "grammar": {
+          "pattern": "～次第",
+          "meaning": "ngay sau khi ... (thì lập tức)",
+          "form": "Vます(bỏ ます)＋次第 / N＋次第",
+          "example": "資料が届き次第、お送りします。(Ngay khi tài liệu đến, tôi sẽ gửi.)"
+        },
+        "evidence": null,
+        "tip": "なくなり次第終了 / 定員になり次第締め切り: mẫu câu thông báo rất hay gặp."
+      }
+    },
+    {
+      "num": 38,
+      "passage": null,
+      "stem": "（花屋のホームページで）\nご予算に合わせて、花束をお作りします。送料無料で日にち指定の全国発送も（　　）。",
+      "options": ["申し上げます", "差し上げます", "いただきます", "うけたまわります"],
+      "answer": 4,
+      "explanation": {
+        "translation": "(Trên trang web cửa hàng hoa) Chúng tôi làm bó hoa theo ngân sách của quý khách. Chúng tôi cũng nhận gửi hàng toàn quốc có chỉ định ngày, miễn phí vận chuyển.",
+        "why": "承る (うけたまわる) là khiêm nhường ngữ của 受ける/引き受ける = tiếp nhận (đơn hàng, yêu cầu). 発送も承ります = cũng nhận gửi hàng.",
+        "options": [
+          "申し上げます → khiêm nhường của 言う (nói). Sai.",
+          "差し上げます → khiêm nhường của あげる (cho/tặng); 発送を差し上げる không tự nhiên. Sai.",
+          "いただきます → khiêm nhường của もらう (nhận đồ). Sai.",
+          "うけたまわります → nhận (yêu cầu, đặt hàng). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "承る", "r": "うけたまわる", "hv": "THỪA", "vi": "tiếp nhận (khiêm nhường)" },
+          { "w": "予算", "r": "よさん", "hv": "DỰ TOÁN", "vi": "ngân sách" },
+          { "w": "花束", "r": "はなたば", "hv": "HOA THÚC", "vi": "bó hoa" },
+          { "w": "発送", "r": "はっそう", "hv": "PHÁT TỐNG", "vi": "gửi hàng" }
+        ],
+        "grammar": {
+          "pattern": "承る（謙譲語）",
+          "meaning": "nhận (đơn, yêu cầu); nghe (khiêm nhường)",
+          "form": "N を承ります",
+          "example": "ご注文を承りました。(Chúng tôi đã nhận đơn đặt hàng của quý khách.)"
+        },
+        "evidence": null,
+        "tip": "Cửa hàng thông báo dịch vụ: 予約承ります / 配達承ります."
+      }
+    },
+    {
+      "num": 39,
+      "passage": null,
+      "stem": "夫「行ってきます。」\n妻「え？会社、行くの？まだ熱があるんでしょう？」\n夫「大事な会議があるから、（　　）んだ。」",
+      "options": ["休んでもおかしくない", "休みっこない", "休むわけにはいかない", "休むほかない"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Chồng: 'Anh đi đây.' Vợ: 'Hả? Anh đi làm à? Vẫn còn sốt mà?' Chồng: 'Vì có cuộc họp quan trọng nên anh không thể nghỉ được.'",
+        "why": "Vる＋わけにはいかない = không thể làm V (vì lý do đạo lý, hoàn cảnh). Có cuộc họp quan trọng nên không thể nghỉ → hợp với việc vẫn đi làm.",
+        "options": [
+          "休んでもおかしくない → nghỉ cũng không lạ; trái với việc anh vẫn đi làm. Sai.",
+          "休みっこない → っこない đi với khả năng (できっこない: không đời nào làm được); không hợp. Sai.",
+          "休むわけにはいかない → không thể nghỉ. ĐÚNG.",
+          "休むほかない → chỉ còn cách nghỉ; ngược nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "熱", "r": "ねつ", "hv": "NHIỆT", "vi": "sốt, nhiệt" },
+          { "w": "会議", "r": "かいぎ", "hv": "HỘI NGHỊ", "vi": "cuộc họp" }
+        ],
+        "grammar": {
+          "pattern": "～わけにはいかない",
+          "meaning": "không thể (vì trách nhiệm, đạo lý, hoàn cảnh)",
+          "form": "V辞書形＋わけにはいかない",
+          "example": "約束したから、行かないわけにはいかない。(Đã hứa rồi nên không thể không đi.)"
+        },
+        "evidence": null,
+        "tip": "～ほかない = chỉ còn cách...; ～っこない = tuyệt đối không thể (khả năng)."
+      }
+    },
+    {
+      "num": 40,
+      "passage": null,
+      "stem": "Ａ「ねえ見て、このゲーム。面白そうだから、買っちゃった。」\nＢ「あ、それって、最近雑誌（　　）よく取り上げられてるゲームでしょう？」",
+      "options": ["か何かを", "や何かで", "か何かか", "や何かは"],
+      "answer": 2,
+      "explanation": {
+        "translation": "A: 'Này xem trò chơi này. Trông hay nên tớ mua luôn rồi.' B: 'À, đó là trò chơi gần đây hay được nhắc đến trên tạp chí hay mấy thứ tương tự đúng không?'",
+        "why": "Nや何か = N hoặc thứ gì đó tương tự. Nơi được đưa tin (phương tiện) cần trợ từ で: 雑誌で取り上げられる → 雑誌や何かで.",
+        "options": [
+          "か何かを → を là trợ từ tân ngữ; 取り上げられる (bị động) không nhận を ở đây. Sai.",
+          "や何かで → trên tạp chí hay đâu đó. ĐÚNG.",
+          "か何かか → hai か liên tiếp, sai ngữ pháp. Sai.",
+          "や何かは → は chủ đề, sai vai trò (tạp chí không phải chủ đề). Sai."
+        ],
+        "vocab": [
+          { "w": "取り上げる", "r": "とりあげる", "hv": "THỦ THƯỢNG", "vi": "đề cập, đưa tin; cầm lên" },
+          { "w": "雑誌", "r": "ざっし", "hv": "TẠP CHÍ", "vi": "tạp chí" }
+        ],
+        "grammar": {
+          "pattern": "Nや何か（で）",
+          "meaning": "N hoặc thứ gì đó tương tự",
+          "form": "N＋や何か＋trợ từ",
+          "example": "ジュースや何かを買ってきて。(Mua nước ép hay thứ gì đó về nhé.)"
+        },
+        "evidence": null,
+        "tip": "Chọn trợ từ dựa vào động từ phía sau: テレビで取り上げられる → で."
+      }
+    },
+    {
+      "num": 41,
+      "passage": null,
+      "stem": "砂糖、塩、酢、しょうゆ、みそ、これらは日本食を作る（　　）調味料です。",
+      "options": ["のに欠かせない", "ことは欠かさない", "のを欠かさない", "ことも欠かせない"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Đường, muối, giấm, xì dầu, miso: đây là những gia vị không thể thiếu để nấu món Nhật.",
+        "why": "Vる＋のに＋欠かせない = không thể thiếu để làm V. のに ở đây chỉ mục đích/công dụng. 欠かせない (không thể thiếu) bổ nghĩa cho 調味料.",
+        "options": [
+          "のに欠かせない → không thể thiếu cho việc... ĐÚNG.",
+          "ことは欠かさない → 欠かさない = không bỏ sót (thói quen); nghĩa sai. Sai.",
+          "のを欠かさない → không bỏ lỡ việc nấu; nghĩa sai. Sai.",
+          "ことも欠かせない → も không hợp, ことも欠かせない không bổ nghĩa cho 調味料 tự nhiên. Sai."
+        ],
+        "vocab": [
+          { "w": "欠かせない", "r": "かかせない", "hv": "KHIẾM", "vi": "không thể thiếu" },
+          { "w": "欠かさない", "r": "かかさない", "hv": "KHIẾM", "vi": "không bỏ (thói quen đều đặn)" },
+          { "w": "調味料", "r": "ちょうみりょう", "hv": "ĐIỀU VỊ LIỆU", "vi": "gia vị" },
+          { "w": "酢", "r": "す", "hv": "TẠC", "vi": "giấm" }
+        ],
+        "grammar": {
+          "pattern": "Vる＋のに（目的・用途）",
+          "meaning": "để, cho việc (chỉ mục đích/công dụng)",
+          "form": "V辞書形＋のに＋必要だ／使う／欠かせない／便利だ",
+          "example": "このかばんは旅行するのに便利だ。(Cái túi này tiện cho việc đi du lịch.)"
+        },
+        "evidence": null,
+        "tip": "欠かせない (không thể thiếu) ≠ 欠かさない (không bỏ, làm đều đặn: 毎日運動を欠かさない)."
+      }
+    },
+    {
+      "num": 42,
+      "passage": null,
+      "stem": "うちの犬は、私が（　　）、寂しそうな目で私を見る。",
+      "options": ["出かけるところに", "出かけようとしたまま", "出かけるところみたいで", "出かけようとするたびに"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Con chó nhà tôi, mỗi khi tôi định ra ngoài, lại nhìn tôi bằng ánh mắt buồn bã.",
+        "why": "Vようとする = định làm V; ～たびに = mỗi lần ... thì. Mỗi lần tôi định đi ra ngoài thì chó lại nhìn buồn → hành động lặp lại, hợp với 見る (thì hiện tại thói quen).",
+        "options": [
+          "出かけるところに → ところに dùng khi có việc xen vào đúng lúc (ところに電話が来た); không hợp. Sai.",
+          "出かけようとしたまま → まま = giữ nguyên trạng thái; không hợp nghĩa. Sai.",
+          "出かけるところみたいで → 'có vẻ như sắp đi' nên...; không logic. Sai.",
+          "出かけようとするたびに → mỗi lần định ra ngoài. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "寂しい", "r": "さびしい", "hv": "TỊCH", "vi": "buồn, cô đơn" },
+          { "w": "出かける", "r": "でかける", "hv": "XUẤT", "vi": "ra ngoài" }
+        ],
+        "grammar": {
+          "pattern": "～たびに",
+          "meaning": "mỗi lần ... thì (luôn luôn)",
+          "form": "V辞書形／Nの＋たびに",
+          "example": "この写真を見るたびに、故郷を思い出す。(Mỗi lần xem ảnh này tôi lại nhớ quê.)"
+        },
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "私は、ストレスは悪い（　　）思っていたので、良いストレスもあると知って驚いた。",
+      "options": ["ものだとなんて", "ものだとばかり", "などのことだと", "のみでのことだと"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi cứ đinh ninh rằng căng thẳng (stress) là thứ xấu, nên đã ngạc nhiên khi biết cũng có stress tốt.",
+        "why": "～とばかり思っていた = cứ đinh ninh, cứ tưởng chắc là... (nhưng thực tế khác). Vế sau 驚いた (ngạc nhiên vì thực tế khác) → khớp.",
+        "options": [
+          "ものだとなんて → なんて đứng trước 思う không tự nhiên ở đây. Sai.",
+          "ものだとばかり → cứ đinh ninh là... ĐÚNG.",
+          "などのことだと → などのこと sai cách nối với tính từ 悪い. Sai.",
+          "のみでのことだと → sai ngữ pháp. Sai."
+        ],
+        "vocab": [
+          { "w": "驚く", "r": "おどろく", "hv": "KINH", "vi": "ngạc nhiên" },
+          { "w": "ストレス", "r": "すとれす", "hv": "", "vi": "căng thẳng, áp lực" }
+        ],
+        "grammar": {
+          "pattern": "～とばかり思っていた",
+          "meaning": "cứ tưởng chắc chắn là... (nhưng thực ra không phải)",
+          "form": "普通形＋とばかり思っていた",
+          "example": "彼は独身だとばかり思っていた。(Tôi cứ tưởng anh ấy độc thân.)"
+        },
+        "evidence": null,
+        "tip": "Thấy vế sau có 驚いた / 実は... → nghĩ ngay đến ～とばかり思っていた."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "司会者「お二人は、子供が外で遊ばなくなったのはなぜだと思いますか。」\n山田「子供が安心して遊べる場所がなくなったからだと思います。」\n西川「確かに（　　）が、遊びの種類が変わったことも理由の一つだと思います。」",
+      "options": ["そうします", "そのつもりです", "それもあるかもしれません", "それではありません"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Người dẫn: 'Hai vị nghĩ vì sao trẻ em không còn chơi ở ngoài nữa?' Yamada: 'Tôi nghĩ vì không còn chỗ trẻ có thể chơi an toàn.' Nishikawa: 'Đúng là cũng có thể có lý do đó, nhưng tôi nghĩ việc các loại trò chơi thay đổi cũng là một lý do.'",
+        "why": "確かに～が、… = thừa nhận ý kiến người kia một phần rồi đưa ý kiến khác. それもあるかもしれません (có lẽ cũng có lý do đó) + も ở vế sau (変わったことも) → hợp logic.",
+        "options": [
+          "そうします → tôi sẽ làm vậy; không hợp ngữ cảnh. Sai.",
+          "そのつもりです → tôi định thế; không hợp. Sai.",
+          "それもあるかもしれません → có lẽ cũng có lý do đó. ĐÚNG.",
+          "それではありません → phủ định hoàn toàn, mâu thuẫn với 確かに. Sai."
+        ],
+        "vocab": [
+          { "w": "司会者", "r": "しかいしゃ", "hv": "TƯ HỘI GIẢ", "vi": "người dẫn chương trình" },
+          { "w": "確かに", "r": "たしかに", "hv": "XÁC", "vi": "đúng là, quả thật" },
+          { "w": "種類", "r": "しゅるい", "hv": "CHỦNG LOẠI", "vi": "chủng loại" }
+        ],
+        "grammar": {
+          "pattern": "確かに～が、…",
+          "meaning": "đúng là ... nhưng ... (thừa nhận một phần rồi phản biện)",
+          "form": "確かに＋普通形/丁寧形＋が、＋ý kiến khác",
+          "example": "確かに値段は高いが、品質はいい。(Đúng là giá cao, nhưng chất lượng tốt.)"
+        },
+        "evidence": null,
+        "tip": null
+      }
+    }
+  ]
+}

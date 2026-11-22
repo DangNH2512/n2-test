@@ -1,0 +1,138 @@
+{
+  "exam": "2022-07",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết chữ Hán đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "いつのまにか太陽が<u>のぼって</u>いた。",
+      "options": ["去って", "至って", "昇って", "照って"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Mặt trời đã mọc lên từ lúc nào không hay.",
+        "why": "Mặt trời mọc lên = 太陽が昇る (のぼる, THĂNG). 昇る dùng cho chuyển động đi lên cao như mặt trời, khói, thang máy.",
+        "options": [
+          "去って → 去る (さる): rời đi. Đọc さって, không phải のぼって. Sai.",
+          "至って → 至る (いたる): đi đến, đạt tới. Sai.",
+          "昇って → 昇る (のぼる): mọc lên, bay lên. ĐÚNG.",
+          "照って → 照る (てる): chiếu sáng. Sai."
+        ],
+        "vocab": [
+          { "w": "昇る", "r": "のぼる", "hv": "THĂNG", "vi": "mọc lên, bay lên (mặt trời, khói)" },
+          { "w": "登る", "r": "のぼる", "hv": "ĐĂNG", "vi": "leo (núi, cây)" },
+          { "w": "上る", "r": "のぼる", "hv": "THƯỢNG", "vi": "đi lên (dốc, cầu thang)" },
+          { "w": "太陽", "r": "たいよう", "hv": "THÁI DƯƠNG", "vi": "mặt trời" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "日が昇る (mặt trời mọc), 山に登る (leo núi), 坂を上る (lên dốc). 昇進 (しょうしん) = thăng chức."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "<u>すいちょく</u>に線を引く。",
+      "options": ["乗頂", "乗直", "垂頂", "垂直"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Kẻ một đường thẳng đứng (vuông góc).",
+        "why": "すいちょく = 垂直 (THÙY TRỰC): thẳng đứng, vuông góc. 垂 (すい: rủ xuống) + 直 (ちょく: thẳng).",
+        "options": [
+          "乗頂 → 乗 đọc じょう, 頂 đọc ちょう. Không có từ này. Sai.",
+          "乗直 → 乗 là じょう, không phải すい. Sai.",
+          "垂頂 → 頂 là ちょう (đỉnh), không phải ちょく. Sai.",
+          "垂直 → すいちょく: thẳng đứng, vuông góc. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "垂直", "r": "すいちょく", "hv": "THÙY TRỰC", "vi": "thẳng đứng, vuông góc" },
+          { "w": "水平", "r": "すいへい", "hv": "THỦY BÌNH", "vi": "nằm ngang" },
+          { "w": "線を引く", "r": "せんをひく", "hv": "TUYẾN DẪN", "vi": "kẻ đường" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cặp đối: 垂直 (thẳng đứng) ↔ 水平 (nằm ngang). 垂 dễ nhầm với 乗 vì hình giống nhau."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "研修生を受け入れるために、<u>じゅうきょ</u>を確保する必要がある。",
+      "options": ["住宅", "住居", "住家", "住屋"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Để tiếp nhận thực tập sinh, cần phải đảm bảo chỗ ở.",
+        "why": "じゅうきょ = 住居 (TRÚ CƯ): nơi ở, chỗ cư trú. 居 đọc きょ (居住 きょじゅう).",
+        "options": [
+          "住宅 → じゅうたく: nhà ở. Đọc khác. Sai.",
+          "住居 → じゅうきょ: chỗ ở. ĐÚNG.",
+          "住家 → không dùng như từ thông thường (家 đọc か/け). Sai.",
+          "住屋 → không có từ này (屋 đọc おく/や). Sai."
+        ],
+        "vocab": [
+          { "w": "住居", "r": "じゅうきょ", "hv": "TRÚ CƯ", "vi": "chỗ ở, nơi cư trú" },
+          { "w": "住宅", "r": "じゅうたく", "hv": "TRÚ TRẠCH", "vi": "nhà ở" },
+          { "w": "研修生", "r": "けんしゅうせい", "hv": "NGHIÊN TU SINH", "vi": "thực tập sinh" },
+          { "w": "確保", "r": "かくほ", "hv": "XÁC BẢO", "vi": "đảm bảo, giữ chắc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "居 = きょ (住居, 居住) / い(る) (居間 いま, 居酒屋 いざかや)."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "災害に<u>そなえる</u>ことはとても大切だ。",
+      "options": ["備える", "準える", "整える", "控える"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Việc phòng bị cho thiên tai là vô cùng quan trọng.",
+        "why": "そなえる = 備える (BỊ): chuẩn bị sẵn, phòng bị. ～に備える = phòng bị cho ~.",
+        "options": [
+          "備える → そなえる: phòng bị, chuẩn bị sẵn. ĐÚNG.",
+          "準える → なぞらえる: ví như (ít dùng). Sai.",
+          "整える → ととのえる: sắp xếp, chỉnh đốn. Sai.",
+          "控える → ひかえる: kiềm chế, hạn chế; sắp tới. Sai."
+        ],
+        "vocab": [
+          { "w": "備える", "r": "そなえる", "hv": "BỊ", "vi": "phòng bị, chuẩn bị sẵn" },
+          { "w": "災害", "r": "さいがい", "hv": "TAI HẠI", "vi": "thiên tai, thảm họa" },
+          { "w": "準備", "r": "じゅんび", "hv": "CHUẨN BỊ", "vi": "chuẩn bị" },
+          { "w": "整える", "r": "ととのえる", "hv": "CHỈNH", "vi": "sắp xếp, chỉnh đốn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "備 trong 準備 (じゅんび), 設備 (せつび). 準える là bẫy vì có chữ 準 của 準備."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "<u>てんけいてき</u>な例を挙げて説明した。",
+      "options": ["点型的", "典形的", "点形的", "典型的"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi đã nêu ví dụ điển hình để giải thích.",
+        "why": "てんけいてき = 典型的 (ĐIỂN HÌNH ĐÍCH): điển hình. 典 (てん: điển, khuôn mẫu) + 型 (けい: khuôn).",
+        "options": [
+          "点型的 → 点 (てん: điểm) sai nghĩa. Sai.",
+          "典形的 → 形 (けい/かたち: hình dạng) sai chữ; phải là 型 (khuôn). Sai.",
+          "点形的 → sai cả hai chữ. Sai.",
+          "典型的 → điển hình. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "典型的", "r": "てんけいてき", "hv": "ĐIỂN HÌNH ĐÍCH", "vi": "điển hình" },
+          { "w": "例を挙げる", "r": "れいをあげる", "hv": "LỆ CỬ", "vi": "nêu ví dụ" },
+          { "w": "型", "r": "かた", "hv": "HÌNH", "vi": "khuôn, kiểu mẫu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "型 (có bộ 土) = khuôn mẫu: 典型, 血液型, 大型. 形 = hình dạng: 形式, 図形."
+      }
+    }
+  ]
+}

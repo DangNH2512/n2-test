@@ -1,0 +1,164 @@
+{
+  "exam": "2024-12",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn câu sử dụng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "薄める",
+      "options": [
+        "私には難しすぎたので、コースのレベルを<u>薄めた</u>。",
+        "部屋が暑かったので、エアコンをつけて温度を<u>薄めた</u>。",
+        "スープがしょっぱかったので、水を加えて味を<u>薄めた</u>。",
+        "うるさいと言われたので、テレビの音量を<u>薄めた</u>。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đáp án 3: Vì súp mặn quá nên tôi đã thêm nước để làm nhạt vị đi.",
+        "why": "薄める (うすめる) = pha loãng, làm nhạt (chất lỏng, màu, vị) bằng cách thêm nước… Thêm nước vào súp để giảm vị mặn → đúng nghĩa gốc.",
+        "options": [
+          "Phải dùng 下げた (さげる – hạ xuống): レベルを下げた. Sai.",
+          "Phải dùng 下げた: 温度を下げた. Sai.",
+          "水を加えて味を薄めた: thêm nước làm nhạt vị. ĐÚNG.",
+          "Phải dùng 下げた／小さくした: 音量を下げた. Sai."
+        ],
+        "vocab": [
+          { "w": "薄める", "r": "うすめる", "hv": "BẠC", "vi": "pha loãng, làm nhạt" },
+          { "w": "しょっぱい", "r": "しょっぱい", "hv": "", "vi": "mặn" },
+          { "w": "音量", "r": "おんりょう", "hv": "ÂM LƯỢNG", "vi": "âm lượng" },
+          { "w": "加える", "r": "くわえる", "hv": "GIA", "vi": "thêm vào" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "薄める dùng cho thứ \"đậm–nhạt\" (味・色・濃度). Mức độ/số lượng (レベル・温度・音量) thì dùng 下げる."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "充実",
+      "options": [
+        "今日の午後は雨の予報で、空には雲が<u>充実</u>している。",
+        "今はやりがいのある仕事ができて、毎日が<u>充実</u>している。",
+        "喫茶店の中は、コーヒーのにおいが<u>充実</u>している。",
+        "計画を実行するためには、まだ問題が<u>充実</u>している。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Đáp án 2: Bây giờ tôi được làm công việc có ý nghĩa, mỗi ngày đều thật trọn vẹn (đầy đủ, sung túc).",
+        "why": "充実 (じゅうじつ) = đầy đủ, phong phú, viên mãn (nội dung, cuộc sống, trang thiết bị). 毎日が充実している = mỗi ngày đều sống trọn vẹn, có ý nghĩa.",
+        "options": [
+          "Phải dùng 広がっている／覆っている: 雲が広がっている (mây giăng kín). Sai.",
+          "毎日が充実している: mỗi ngày đều trọn vẹn. ĐÚNG.",
+          "Phải dùng 充満 (じゅうまん – lan tỏa đầy): においが充満している. Sai.",
+          "Phải dùng 山積み／残っている: 問題が山積みだ (vấn đề chất đống). Sai."
+        ],
+        "vocab": [
+          { "w": "充実", "r": "じゅうじつ", "hv": "SUNG THỰC", "vi": "đầy đủ, phong phú, viên mãn" },
+          { "w": "充満", "r": "じゅうまん", "hv": "SUNG MÃN", "vi": "tràn ngập (khí, mùi)" },
+          { "w": "やりがい", "r": "やりがい", "hv": "", "vi": "giá trị, ý nghĩa khi làm" },
+          { "w": "山積み", "r": "やまづみ", "hv": "SƠN TÍCH", "vi": "chất đống" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "充実した生活／設備が充実している (tích cực). Mùi, khói đầy phòng → 充満."
+      }
+    },
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "鮮明",
+      "options": [
+        "次回のセミナーの開催日はまだ<u>鮮明</u>に決まっていない。",
+        "できそうにない仕事は<u>鮮明</u>に断ったほうがいい。",
+        "Mogi社の製品のほうが性能が<u>鮮明</u>に優れている。",
+        "あのときの出来事は今でも<u>鮮明</u>に覚えている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đáp án 4: Sự việc lúc đó đến giờ tôi vẫn nhớ rõ mồn một.",
+        "why": "鮮明 (せんめい) = rõ nét, sắc nét (hình ảnh, ký ức, màu sắc). 鮮明に覚えている = nhớ rõ như in.",
+        "options": [
+          "Phải dùng 正式に／はっきり: 正式に決まっていない. Sai.",
+          "Phải dùng はっきり／きっぱり: きっぱり断る (từ chối dứt khoát). Sai.",
+          "Phải dùng 明らかに／はるかに: 明らかに優れている. Sai.",
+          "鮮明に覚えている: nhớ rõ nét. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "鮮明", "r": "せんめい", "hv": "TIÊN MINH", "vi": "rõ nét, sắc nét" },
+          { "w": "出来事", "r": "できごと", "hv": "XUẤT LAI SỰ", "vi": "sự việc, biến cố" },
+          { "w": "明らか", "r": "あきらか", "hv": "MINH", "vi": "rõ ràng (hiển nhiên)" },
+          { "w": "性能", "r": "せいのう", "hv": "TÍNH NĂNG", "vi": "tính năng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "鮮明 dùng cho thứ \"nhìn thấy/hình dung\": 鮮明な画像・記憶・色. Thái độ dứt khoát → きっぱり."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "ふもと",
+      "options": [
+        "明日、駅の<u>ふもと</u>で池田さんと会う約束をした。",
+        "あのビルの<u>ふもと</u>に、新しいお店ができるらしい。",
+        "山の<u>ふもと</u>に車を止めて、そこから登りましょう。",
+        "ドアの<u>ふもと</u>に猫がいて、開けることができない。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đáp án 3: Hãy đỗ xe ở chân núi rồi leo lên từ đó.",
+        "why": "ふもと (麓) = chân núi, chỉ dùng cho núi/đồi. 山のふもと là cách dùng duy nhất tự nhiên.",
+        "options": [
+          "Phải dùng 前／近く: 駅の前で. Sai.",
+          "Phải dùng 下／隣: ビルの下 (tầng trệt)／隣に. Sai.",
+          "山のふもと: chân núi. ĐÚNG.",
+          "Phải dùng 前: ドアの前に猫がいて. Sai."
+        ],
+        "vocab": [
+          { "w": "麓", "r": "ふもと", "hv": "LỘC", "vi": "chân núi" },
+          { "w": "頂上", "r": "ちょうじょう", "hv": "ĐỈNH THƯỢNG", "vi": "đỉnh núi" },
+          { "w": "登る", "r": "のぼる", "hv": "ĐĂNG", "vi": "leo, trèo" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ふもと ↔ 頂上 (đỉnh). Chân tòa nhà/cửa → 下・前・足元."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "定年",
+      "options": [
+        "私の会社は60歳が<u>定年</u>なので、あと半年で退職だ。",
+        "この乗り物は子ども向けのため、10歳が<u>定年</u>になっている。",
+        "この国では、<u>定年</u>の20歳になると選挙で投票することができる。",
+        "犬の<u>定年</u>は一般的に10歳から15歳の間だといわれている。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Đáp án 1: Công ty tôi quy định tuổi nghỉ hưu là 60, nên còn nửa năm nữa là tôi nghỉ việc.",
+        "why": "定年 (ていねん) = tuổi về hưu theo quy định của nơi làm việc. Đi với 退職 (nghỉ việc) → câu 1 đúng.",
+        "options": [
+          "定年 + 退職: tuổi nghỉ hưu. ĐÚNG.",
+          "Phải dùng 年齢制限 (ねんれいせいげん – giới hạn tuổi): 10歳までという年齢制限. Sai.",
+          "Phải dùng 成人／成年 (tuổi trưởng thành): 成人の20歳. Sai.",
+          "Phải dùng 寿命 (じゅみょう – tuổi thọ): 犬の寿命. Sai."
+        ],
+        "vocab": [
+          { "w": "定年", "r": "ていねん", "hv": "ĐỊNH NIÊN", "vi": "tuổi về hưu (theo quy định)" },
+          { "w": "退職", "r": "たいしょく", "hv": "THOÁI CHỨC", "vi": "nghỉ việc" },
+          { "w": "寿命", "r": "じゅみょう", "hv": "THỌ MỆNH", "vi": "tuổi thọ" },
+          { "w": "年齢制限", "r": "ねんれいせいげん", "hv": "NIÊN LINH CHẾ HẠN", "vi": "giới hạn độ tuổi" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "定年退職 là cụm cố định. 定年 chỉ dùng cho người đi làm."
+      }
+    }
+  ]
+}

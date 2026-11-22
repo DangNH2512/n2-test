@@ -1,0 +1,214 @@
+{
+  "exam": "2023-07",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の(1)から(5)の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc 5 đoạn văn ngắn (1)–(5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "はじめから相手に期待することをやめられれば、怒りもイライラも生まれず、穏やかな気持ちで過ごすことができます。人に期待してイライラしながら過ごすか、努力して期待することを手放し穏やかに生きるか、これはあなた自身のことなので、コントロールが可能です。「期待しない」というとなんだかさみしいことをいっているように思う方もいるかもしれませんが、そうではありません。\n多くの場合、周囲の環境や人間というのは、自分自身が変わることで面白いほど変化します。"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、ある会社の社員が総務課に送ったメールである。\n\n総務課　ご担当者\n\n休憩室について、お願いがあってメールいたしました。\nより多くの人が休憩室を利用できるように、先日テーブルと椅子を増やしていただきましたが、まだ昼食時に多くの人が利用できず不便を感じています。そのため、昼休みの間は会議室を開放していただけないでしょうか。そうすれば、より多くの人がそこで休憩できるようになると思います。\nご検討をお願いいたします。\n\n営業1グループ　大月友代"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "条件が違えば、勝者が敗者になり、敗者が勝者になるのが自然の生物社会です。どの生物もすべての環境条件で競争の勝者になることはできません。生態（注1）学の研究が示すのは多様な環境の重要性です。生物は競争があることで多様な環境の中に自分に適した環境を見つけることができます。\n競争は敗者を排除（注2）するプロセスではなく、多様な環境の中にそれぞれの生物の居場所をつくり出すプロセスといってもよいかもしれません。\n\n（注1）生態学：生物の生き方と環境に関する科学\n（注2）排除する：ここでは、取り除く"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "以下は、パソコンショップの店員から送られてきたメールである。\n\n高山かおり様\n\nフォレスト西山店の合田です。\n画面の修理のためルニ社製のノートパソコンをお預かりしておりますが、点検したところ電源部分の部品にも問題があり、接続状態が悪くなっていることが分かりました。このままですと急に電源が入らなくなる可能性がありますので、部品の交換をお勧めいたします。\nこの場合、追加料金が2万円かかり、お返しは6月10日以降になります。画面の修理は6月5日に完了しますので、電源の修理を希望されない場合には、予定どおりお返しできます。\nお忙しいところ恐縮ですが、ご連絡をお待ちしております。\n\nPCフォレスト西山店\n担当：合田英子　support_hm@pcforest.co.jp"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "弱い立場にあるという点で、未来の世代ほど弱いものはない。何しろ、どんなひどいことをされても、まだ生まれていない生命は、抗議（注1）の声を上げることもできないのだから。それをいいことに（注2）、今生きている世代は、未来の世代が生きていくための絶対条件（注3）となる環境を壊し、彼らが利用する分の資源まで使い果たそうとしている。いったいこれ以上、フェアの精神に反することがあるだろうか。\n\n（注1）抗議：ここでは、反対や怒り\n（注2）それをいいことに：ここでは、それを自分に都合よく考えて\n（注3）絶対条件：必要な条件"
+    }
+  ],
+  "questions": [
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "自分が変われば、相手も期待どおりに変わってくれる。",
+        "自分をコントロールできれば、相手も変えられる。",
+        "穏やかな気持ちで接すれば、相手といい関係が築ける。",
+        "相手に期待しなければ、穏やかな気持ちでいられる。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Nếu không kỳ vọng vào người khác thì có thể giữ được tâm trạng bình thản.",
+        "why": "Câu đầu tiên chính là luận điểm: thôi kỳ vọng vào đối phương thì không sinh ra giận dữ, bực bội và có thể sống bình thản.",
+        "options": [
+          "\"Đối phương thay đổi theo đúng kỳ vọng\" – mâu thuẫn với chủ trương \"đừng kỳ vọng\"; bài chỉ nói môi trường xung quanh thay đổi. Sai.",
+          "Bài nói kiểm soát được việc của bản thân (kỳ vọng hay không), không nói kiểm soát để thay đổi người khác. Sai.",
+          "Bài không nói về việc xây dựng quan hệ tốt. Sai.",
+          "Không kỳ vọng → bình thản. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "期待", "r": "きたい", "hv": "KỲ ĐÃI", "vi": "kỳ vọng" },
+          { "w": "穏やか", "r": "おだやか", "hv": "ỔN", "vi": "bình thản, êm đềm" },
+          { "w": "手放す", "r": "てばなす", "hv": "THỦ PHÓNG", "vi": "buông bỏ" },
+          { "w": "周囲", "r": "しゅうい", "hv": "CHU VI", "vi": "xung quanh" }
+        ],
+        "grammar": null,
+        "evidence": "はじめから相手に期待することをやめられれば、怒りもイライラも生まれず、穏やかな気持ちで過ごすことができます。",
+        "tip": "Luận điểm thường nằm ở câu đầu hoặc câu cuối. Cẩn thận đáp án 1 dùng câu cuối nhưng thêm \"期待どおりに\" – mâu thuẫn với ý \"không kỳ vọng\"."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p2",
+      "stem": "このメールで伝えたいことは何か。",
+      "options": [
+        "会議室のテーブルといすをもっと増やしてほしい。",
+        "昼休みに、会議室を休憩室として使えるようにしてほしい。",
+        "昼休みには、昼食を取る人に休憩室を優先して使わせてほしい。",
+        "昼休み以外にも、会議室で休憩できるようにしてほしい。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều email này muốn truyền đạt là gì? → Muốn vào giờ nghỉ trưa có thể dùng phòng họp làm phòng nghỉ.",
+        "why": "Yêu cầu chính: 昼休みの間は会議室を開放していただけないでしょうか để nhiều người có thể nghỉ ngơi ở đó → dùng phòng họp như phòng nghỉ trong giờ trưa.",
+        "options": [
+          "Bàn ghế đã được tăng ở phòng nghỉ (không phải phòng họp) và đó là việc đã làm. Sai.",
+          "Mở phòng họp vào giờ trưa để nghỉ. ĐÚNG.",
+          "Không đề cập ưu tiên cho người ăn trưa. Sai.",
+          "Chỉ yêu cầu trong giờ nghỉ trưa (昼休みの間), không phải ngoài giờ trưa. Sai."
+        ],
+        "vocab": [
+          { "w": "総務課", "r": "そうむか", "hv": "TỔNG VỤ KHÓA", "vi": "phòng hành chính" },
+          { "w": "休憩室", "r": "きゅうけいしつ", "hv": "HƯU KHẾ THẤT", "vi": "phòng nghỉ" },
+          { "w": "開放", "r": "かいほう", "hv": "KHAI PHÓNG", "vi": "mở cửa (cho dùng tự do)" },
+          { "w": "検討", "r": "けんとう", "hv": "KIỂM THẢO", "vi": "xem xét" }
+        ],
+        "grammar": {
+          "pattern": "～ていただけないでしょうか",
+          "meaning": "liệu có thể ~ giúp được không ạ (nhờ vả rất lịch sự)",
+          "form": "Vて ＋ いただけないでしょうか",
+          "example": "資料を送っていただけないでしょうか。"
+        },
+        "evidence": "そのため、昼休みの間は会議室を開放していただけないでしょうか。そうすれば、より多くの人がそこで休憩できるようになると思います。",
+        "tip": "Email yêu cầu: tìm câu có ～ていただけないでしょうか／～てほしい – đó là nội dung chính."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p3",
+      "stem": "生物について、筆者の考えに合うのはどれか。",
+      "options": [
+        "ある環境で競争に負けても、自分に合った別の環境で生き残れる。",
+        "多様な環境の中で自らを変化させなければ、競争に勝てない。",
+        "競争に負けた生物は、場所を変えずにそこで生きられるように変化する。",
+        "競争に勝たなければ、すべての環境条件で生き残れない。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về sinh vật, điều nào phù hợp với suy nghĩ của tác giả? → Dù thua cạnh tranh ở môi trường này, vẫn có thể sống sót ở môi trường khác phù hợp với mình.",
+        "why": "Điều kiện khác thì kẻ thua thành kẻ thắng; nhờ cạnh tranh, sinh vật tìm được môi trường phù hợp trong nhiều môi trường đa dạng. Cạnh tranh không loại bỏ kẻ thua mà tạo chỗ đứng cho mỗi loài.",
+        "options": [
+          "Thua ở đây vẫn sống được ở môi trường khác hợp với mình. ĐÚNG.",
+          "Bài không nói phải tự biến đổi bản thân mới thắng. Sai.",
+          "Bài nói tìm môi trường khác, không phải ở lại chỗ cũ và thay đổi. Sai.",
+          "Bài nói không loài nào thắng được ở mọi điều kiện – ngược ý. Sai."
+        ],
+        "vocab": [
+          { "w": "勝者", "r": "しょうしゃ", "hv": "THẮNG GIẢ", "vi": "người thắng" },
+          { "w": "敗者", "r": "はいしゃ", "hv": "BẠI GIẢ", "vi": "kẻ thua" },
+          { "w": "多様", "r": "たよう", "hv": "ĐA DẠNG", "vi": "đa dạng" },
+          { "w": "排除", "r": "はいじょ", "hv": "BÀI TRỪ", "vi": "loại bỏ" },
+          { "w": "居場所", "r": "いばしょ", "hv": "CƯ TRƯỜNG SỞ", "vi": "chỗ ở, chỗ đứng" }
+        ],
+        "grammar": {
+          "pattern": "AではなくB",
+          "meaning": "không phải A mà là B (ý chính nằm ở B)",
+          "form": "N／普通形 ＋ ではなく ＋ B",
+          "example": "大切なのは結果ではなく、過程だ。"
+        },
+        "evidence": "生物は競争があることで多様な環境の中に自分に適した環境を見つけることができます。競争は敗者を排除するプロセスではなく、多様な環境の中にそれぞれの生物の居場所をつくり出すプロセスといってもよいかもしれません。",
+        "tip": "Đáp án 4 dùng lại cụm 「すべての環境条件」 trong bài nhưng đảo nghĩa – bẫy lặp từ."
+      }
+    },
+    {
+      "num": 55,
+      "passage": "p4",
+      "stem": "このメールで店員が問い合わせていることは何か。",
+      "options": [
+        "電源の状態が悪くなる可能性があるが、画面の修理をするかどうか。",
+        "追加で料金と時間がかかるが、電源の修理もするかどうか。",
+        "追加で料金がかかるが、電源の修理を6月5日までに終えるかどうか。",
+        "6月5日に画面と電源の修理は完了するが、いつ受け取りに来るか。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Nhân viên cửa hàng đang hỏi điều gì trong email này? → Dù tốn thêm phí và thời gian, khách có muốn sửa cả nguồn điện không.",
+        "why": "Nhân viên đề xuất thay linh kiện nguồn: thêm 20.000 yên và trả máy sau ngày 10/6; nếu không sửa thì trả đúng hạn 5/6 → đang chờ khách quyết định có sửa nguồn hay không.",
+        "options": [
+          "Sửa màn hình là việc đã được nhờ từ đầu, không cần hỏi lại. Sai.",
+          "Tốn thêm tiền (2 vạn yên) và thời gian (sau 10/6), có sửa nguồn không. ĐÚNG.",
+          "Sửa nguồn thì trả máy sau ngày 10/6, không thể xong trước 5/6. Sai.",
+          "Ngày 5/6 chỉ xong sửa màn hình; nguồn chưa sửa. Sai."
+        ],
+        "vocab": [
+          { "w": "預かる", "r": "あずかる", "hv": "DỰ", "vi": "nhận giữ" },
+          { "w": "点検", "r": "てんけん", "hv": "ĐIỂM KIỂM", "vi": "kiểm tra" },
+          { "w": "電源", "r": "でんげん", "hv": "ĐIỆN NGUYÊN", "vi": "nguồn điện" },
+          { "w": "部品", "r": "ぶひん", "hv": "BỘ PHẨM", "vi": "linh kiện" },
+          { "w": "交換", "r": "こうかん", "hv": "GIAO HOÁN", "vi": "thay thế, trao đổi" }
+        ],
+        "grammar": {
+          "pattern": "～たところ",
+          "meaning": "sau khi ~ thì (phát hiện ra)",
+          "form": "Vた ＋ ところ",
+          "example": "調べたところ、原因がわかった。"
+        },
+        "evidence": "部品の交換をお勧めいたします。この場合、追加料金が2万円かかり、お返しは6月10日以降になります。画面の修理は6月5日に完了しますので、電源の修理を希望されない場合には、予定どおりお返しできます。",
+        "tip": "Bản đề đánh máy ghi 「ご連絡をお持ちしております」, đã sửa thành 「お待ちしております」."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p5",
+      "stem": "今生きている世代に対して、筆者が言いたいことは何か。",
+      "options": [
+        "今生きている世代があげている反対や怒りの声を聞くべきだ。",
+        "今生きている世代にも声があげられない人がいることを認めるべきだ。",
+        "未来の世代が生きていくために、必要な資源を見つけるべきだ。",
+        "声をあげられない未来の世代のことを考え、行動を改めるべきだ。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả muốn nói gì với thế hệ đang sống? → Hãy nghĩ cho thế hệ tương lai – những người không thể lên tiếng – và thay đổi hành động.",
+        "why": "Tác giả phê phán thế hệ hiện tại lợi dụng việc thế hệ tương lai không thể phản đối để phá hủy môi trường, dùng cạn tài nguyên – \"trái tinh thần công bằng\" → ngầm kêu gọi sửa đổi hành vi.",
+        "options": [
+          "Người không thể lên tiếng là thế hệ tương lai, không phải thế hệ hiện tại. Sai.",
+          "Bài không bàn về người không thể lên tiếng trong thế hệ hiện tại. Sai.",
+          "Bài không kêu gọi tìm tài nguyên mới, mà phê phán việc dùng cạn. Sai.",
+          "Nghĩ cho thế hệ tương lai không thể lên tiếng, sửa lại hành động. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "世代", "r": "せだい", "hv": "THẾ ĐẠI", "vi": "thế hệ" },
+          { "w": "抗議", "r": "こうぎ", "hv": "KHÁNG NGHỊ", "vi": "phản đối" },
+          { "w": "資源", "r": "しげん", "hv": "TƯ NGUYÊN", "vi": "tài nguyên" },
+          { "w": "使い果たす", "r": "つかいはたす", "hv": "SỬ QUẢ", "vi": "dùng cạn kiệt" },
+          { "w": "反する", "r": "はんする", "hv": "PHẢN", "vi": "trái với" }
+        ],
+        "grammar": {
+          "pattern": "これ以上～があるだろうか（反語）",
+          "meaning": "còn gì ~ hơn thế nữa? (câu hỏi tu từ = không có gì ~ hơn)",
+          "form": "これ以上 ＋ N ＋ があるだろうか",
+          "example": "これ以上悲しいことがあるだろうか。"
+        },
+        "evidence": "それをいいことに、今生きている世代は、未来の世代が生きていくための絶対条件となる環境を壊し、彼らが利用する分の資源まで使い果たそうとしている。いったいこれ以上、フェアの精神に反することがあるだろうか。",
+        "tip": "Câu hỏi tu từ cuối bài (反語) là chỗ tác giả bộc lộ quan điểm: hành vi hiện tại là bất công nhất → cần thay đổi."
+      }
+    }
+  ]
+}

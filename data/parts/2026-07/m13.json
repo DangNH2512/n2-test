@@ -1,0 +1,119 @@
+{
+  "exam": "2026-07",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "　目標を持つことは大事ですが、しかし達成されたからといって人生が終わるわけではない。生きていく過程の一つということで、目標は一つの道しるべ（注1）にすぎないのです。\n　人間はいつか必ず死ぬということは、誰もが知っていることです。まさか自分は300年生きるだろうと思っている人は一人もいないでしょうし、大体の平均寿命である80歳前後とか、そのあたりを人生の最終ゴール地点において生きているのではないでしょうか。\n　その間、なんの道しるべもなく歩くには長い道のり（注2）なわけで、方向を見失わない（注3）ためにも目標という存在が必要なのです。\n（中略）\n　そして目標は<u>自分の前に置くのではなく、横に置く</u>ことが肝心（注4）です。\n　目標というと、はるか（注5）先に置いて追いかけていく感覚でとらえる人も多いのですが、目標を遠くに置きすぎると、ただの「期待」で終わってしまう。期待がいつしか、「妄想」（注6）になってしまう。それではせっかくの道しるべが、逆に道に迷う原因になってしまいます。\n　だから目標はあんまり遠くに持たず、いつも両脇に置いているくらいの感覚がいいでしょう。ふと自分の横を見ると目標がある、それくらいの感覚がいいのです。\n　両脇に目標があれば、いつも目標と一緒にいることになりますから、常に目標の中で生きていることになります。必要以上に重荷になることもないし、とらわれすぎる（注7）こともない。\n　私の場合は先どころか、目標を後ろに置きたくなることもあります。\n　後ろというのは自分が歩いてきた過去であり、振り返ってみるということです。そしてこのどんどん便利になっていく時代の中で、あえてアナログに生きるということでもあります。\n　ときどき自分の来た道を振り返って確かめるということは大事なことですし、あまりに世間のみなさんが「先へ、先へ」となっているのを見ると、あえて「私は後ろに行ってみようかな」という気になってしまうのです。\n　今、時代はちょっと恐ろしいほどに、みんなが「便利」という方向に向かっている。だからこそ、なるべく前に行きたくないというのが気分としてあるのでしょう。\n　アナログなものが私を「危ない、危ない」と、呼び止めるのです。それが「後ろへ来いよ、来いよ」と言ってるような気がするのです。\n（注1）道しるべ：ここでは、方向を示す標識\n（注2）道のり：距離\n（注3）～を見失う：～が分からなくなる\n（注4）肝心：大事\n（注5）はるか：ここでは、ずっと\n（注6）妄想：現実的ではない想像\n（注7）とらわれる：ここでは、縛られる"
+    }
+  ],
+  "questions": [
+    {
+      "num": 67,
+      "passage": "p1",
+      "stem": "目標について、筆者はどのように述べているか。",
+      "options": [
+        "一つ達成したあとで、次の目標を持ったほうがいい。",
+        "生きていく過程で、進む道に迷わないように助けてくれる。",
+        "人生の最終ゴール地点で、その意義が分かる。",
+        "人生に迷わないように、自分が達成できるものにすべきだ。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Về mục tiêu, tác giả nói thế nào? → Mục tiêu giúp ta không lạc đường trong quá trình sống.",
+        "why": "Tác giả gọi mục tiêu là 'biển chỉ đường' (道しるべ) trong quá trình sống; con đường đời dài nên cần mục tiêu 'để không mất phương hướng' (方向を見失わないため).",
+        "options": [
+          "Sai: bài không nói về việc đặt mục tiêu tiếp theo sau khi đạt được.",
+          "ĐÚNG: mục tiêu là biển chỉ đường giúp không lạc hướng.",
+          "Sai: 'điểm đích cuối cùng' là cái chết (khoảng 80 tuổi), không phải nơi hiểu ra ý nghĩa mục tiêu.",
+          "Sai: bài khuyên đừng đặt mục tiêu quá xa, nhưng không nói 'phải là thứ mình đạt được'."
+        ],
+        "vocab": [
+          { "w": "道しるべ", "r": "みちしるべ", "hv": "", "vi": "biển chỉ đường, kim chỉ nam" },
+          { "w": "過程", "r": "かてい", "hv": "QUÁ TRÌNH", "vi": "quá trình" },
+          { "w": "見失う", "r": "みうしなう", "hv": "KIẾN THẤT", "vi": "đánh mất, không nhìn thấy nữa" },
+          { "w": "平均寿命", "r": "へいきんじゅみょう", "hv": "BÌNH QUÂN THỌ MỆNH", "vi": "tuổi thọ trung bình" }
+        ],
+        "grammar": {
+          "pattern": "～にすぎない",
+          "meaning": "chỉ là ~, không hơn",
+          "form": "普通形／N＋にすぎない",
+          "example": "これは私の個人的な意見にすぎない。"
+        },
+        "evidence": "その間、なんの道しるべもなく歩くには長い道のりなわけで、方向を見失わないためにも目標という存在が必要なのです。",
+        "tip": "道しるべ ↔ '進む道に迷わないように助けてくれる' là paraphrase."
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p1",
+      "stem": "<u>自分の前に置くのではなく、横に置く</u>とあるが、横に置くのがいいのはなぜか。",
+      "options": [
+        "目標が達成できたかどうかがすぐに分かるから",
+        "目標に縛られすぎずに、意識し続けることもできるから",
+        "目標をいつも目にすることで、達成できると思えるから",
+        "目標を重荷に感じたら、いつでも変えられるから"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tác giả nói 'không đặt trước mặt mà đặt bên cạnh', tại sao đặt bên cạnh lại tốt? → Vì không bị mục tiêu trói buộc quá mức mà vẫn luôn ý thức được nó.",
+        "why": "Mục tiêu ở hai bên → luôn ở cùng mục tiêu, sống trong mục tiêu (= luôn ý thức), mà 'không thành gánh nặng quá mức, cũng không bị trói buộc quá mức' (とらわれすぎることもない; 注7: とらわれる＝縛られる).",
+        "options": [
+          "Sai: bài không nói về việc biết ngay đã đạt mục tiêu hay chưa.",
+          "ĐÚNG: không bị trói buộc quá mức + luôn ý thức về mục tiêu.",
+          "Sai: không nói 'nhìn thấy thường xuyên thì nghĩ là đạt được'.",
+          "Sai: không nói về việc thay đổi mục tiêu."
+        ],
+        "vocab": [
+          { "w": "肝心", "r": "かんじん", "hv": "CAN TÂM", "vi": "quan trọng, cốt yếu" },
+          { "w": "両脇", "r": "りょうわき", "hv": "LƯỠNG HIẾP", "vi": "hai bên" },
+          { "w": "重荷", "r": "おもに", "hv": "TRỌNG HÀ", "vi": "gánh nặng" },
+          { "w": "とらわれる", "r": "とらわれる", "hv": "", "vi": "bị trói buộc, bị câu nệ" }
+        ],
+        "grammar": null,
+        "evidence": "両脇に目標があれば、いつも目標と一緒にいることになりますから、常に目標の中で生きていることになります。必要以上に重荷になることもないし、とらわれすぎることもない。",
+        "tip": "Chú thích (注) thường là chìa khóa: とらわれる＝縛られる → đáp án dùng 縛られすぎずに."
+      }
+    },
+    {
+      "num": 69,
+      "passage": "p1",
+      "stem": "自身の生き方について、筆者はどのように考えているか。",
+      "options": [
+        "世間の人々のように、便利さに流されてしまいたくない。",
+        "便利さを捨てて、他人とは違う生き方がしてみたい。",
+        "便利な生活をしていても、自分の来た道は忘れたくない。",
+        "便利な生活は危険でもあるので、以前の生活に戻りたい。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về cách sống của bản thân, tác giả nghĩ thế nào? → Không muốn bị cuốn theo sự tiện lợi như mọi người trong xã hội.",
+        "why": "Thấy mọi người đều hướng 'tiến lên, tiến lên' về phía tiện lợi đến mức đáng sợ, tác giả 'cố ý' muốn sống analog, 'không muốn đi về phía trước' → không muốn bị cuốn theo trào lưu tiện lợi.",
+        "options": [
+          "ĐÚNG: không muốn bị cuốn theo sự tiện lợi như số đông.",
+          "Sai: tác giả không nói 'vứt bỏ hoàn toàn sự tiện lợi'; mục đích cũng không phải 'khác người'.",
+          "Sai: tác giả có nói nhìn lại con đường đã qua là quan trọng, nhưng ý chính về cách sống là cưỡng lại xu hướng tiện lợi; 'dù sống tiện lợi' không phải quan điểm của tác giả.",
+          "Sai: không nói muốn quay về cuộc sống trước kia."
+        ],
+        "vocab": [
+          { "w": "世間", "r": "せけん", "hv": "THẾ GIAN", "vi": "xã hội, người đời" },
+          { "w": "あえて", "r": "あえて", "hv": "", "vi": "cố ý, dám" },
+          { "w": "振り返る", "r": "ふりかえる", "hv": "CHẤN PHẢN", "vi": "ngoảnh lại, nhìn lại" },
+          { "w": "流される", "r": "ながされる", "hv": "LƯU", "vi": "bị cuốn theo" }
+        ],
+        "grammar": {
+          "pattern": "だからこそ",
+          "meaning": "chính vì thế mà",
+          "form": "Câu A。だからこそ、Câu B。",
+          "example": "難しい仕事だ。だからこそ、やりがいがある。"
+        },
+        "evidence": "今、時代はちょっと恐ろしいほどに、みんなが「便利」という方向に向かっている。だからこそ、なるべく前に行きたくないというのが気分としてあるのでしょう。",
+        "tip": "Câu hỏi về quan điểm cá nhân của tác giả → tìm đoạn cuối với 私の場合は…, だからこそ…."
+      }
+    }
+  ]
+}

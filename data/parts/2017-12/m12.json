@@ -1,0 +1,88 @@
+{
+  "exam": "2017-12",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B rồi chọn câu trả lời đúng nhất (đọc so sánh).",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "子どもを育てるときは、悪いところをしかるのではなく、よいところをほめるほうがいいと思います。子どもはすなおですから、ほめられたことをそのまま受け入れ、行動や態度に自信を持つことができます。そしてそれが成長につながっていくのです。ただし、ほめるときにも注意が必要です。「いい成績をとって、偉いね。」と結果だけをほめるのは好ましくありません。そうではなく、「毎日漢字の練習をしてがんばったから、いい成績がとれたんだね。すごいね。」とか「今日の試合は負けてしまったけど、いいプレーをしていたね。練習の成果が見られたよ。」というように、それまでの取り組みをほめるようにすると、子どものやる気を引き出すことができます。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "よく「子どもはほめて育てよう」と言われるが、実行するのはなかなか難しい。特別なことができたらほめようと思っていると、どうしてもほめる機会が少なくなってしまう。それに、大人にとってはできるのが当たり前だということでも、成長過程にある子どもにとってはそうではないことも多い。だから、子どもが普段からしていることでも、よいと思ったことや長所はどんどんほめるようにしたほうがいい。誰でもほめられるとうれしいし、ほめられたことは続けていこうと思うものだ。親として伸ばしてあげたいと思うことは、どんな小さいことでも積極的にほめることが大切だ。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 69,
+      "passage": "AB",
+      "stem": "子どものほめ方について、AとBはどのように述べているか。",
+      "options": [
+        "AもBも、結果がよければ積極的にほめたほうがいいと述べている。",
+        "AもBも、当たり前のことではなく特別なことができたらほめたほうがいいと述べている。",
+        "Aはどんな場合でもほめたほうがいいと述べ、Bはよいと思ったことは積極的にほめたほうがいいと述べている。",
+        "Aは結果だけではなく努力もほめたほうがいいと述べ、Bは普段からしていることでもほめたほうがいいと述べている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Về cách khen trẻ, A và B nói thế nào? → A nói nên khen cả nỗ lực chứ không chỉ kết quả; B nói nên khen cả những việc trẻ vẫn làm hằng ngày.",
+        "why": "A: không chỉ khen kết quả (結果だけをほめるのは好ましくない) mà khen quá trình nỗ lực (それまでの取り組み). B: kể cả việc trẻ làm thường ngày (普段からしていること), thấy tốt thì cứ khen.",
+        "options": [
+          "A phản đối chỉ khen kết quả; B không nói về kết quả. Sai.",
+          "B nói ngược lại: chờ việc đặc biệt mới khen thì cơ hội khen ít đi. Sai.",
+          "A không nói \"khen trong mọi trường hợp\"; A còn lưu ý cách khen. Sai.",
+          "A: khen cả nỗ lực; B: khen cả việc thường ngày. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "取り組み", "r": "とりくみ", "hv": "THỦ TỔ", "vi": "sự nỗ lực, việc chuyên tâm làm" },
+          { "w": "好ましい", "r": "このましい", "hv": "HẢO", "vi": "đáng mong muốn, tốt" },
+          { "w": "長所", "r": "ちょうしょ", "hv": "TRƯỜNG SỞ", "vi": "ưu điểm" },
+          { "w": "当たり前", "r": "あたりまえ", "hv": "ĐƯƠNG TIỀN", "vi": "đương nhiên" }
+        ],
+        "grammar": null,
+        "evidence": "A：「いい成績をとって、偉いね。」と結果だけをほめるのは好ましくありません。…それまでの取り組みをほめるようにすると、子どものやる気を引き出すことができます。／B：だから、子どもが普段からしていることでも、よいと思ったことや長所はどんどんほめるようにしたほうがいい。",
+        "tip": "Câu hỏi so sánh A/B: kiểm tra từng nửa của phương án với từng bài, chỉ cần một nửa sai là loại."
+      }
+    },
+    {
+      "num": 70,
+      "passage": "AB",
+      "stem": "AとBは、ほめることで子どもはどのようになると述べているか。",
+      "options": [
+        "AもBも、親の愛情を感じるようになると述べている。",
+        "AもBも、努力の大切さを理解できるようになると述べている。",
+        "Aは自信を持つようになると述べ、Bはほめられたことを続けようとすると述べている。",
+        "Aはすなおに親の言うことを受け入れるようになると述べ、Bは積極的に物事に取り組むようになると述べている。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "A và B nói rằng nhờ được khen, trẻ sẽ trở nên thế nào? → A: trẻ sẽ tự tin; B: trẻ sẽ muốn tiếp tục điều được khen.",
+        "why": "A: trẻ tiếp nhận lời khen và tự tin vào hành động, thái độ của mình. B: ai được khen cũng vui và muốn tiếp tục điều được khen.",
+        "options": [
+          "Không bài nào nói về cảm nhận tình yêu của cha mẹ. Sai.",
+          "Không bài nào nói trẻ hiểu tầm quan trọng của nỗ lực. Sai.",
+          "A: tự tin; B: muốn tiếp tục điều được khen. ĐÚNG.",
+          "A nói trẻ \"tiếp nhận lời khen\" (ほめられたことを受け入れ), không phải \"nghe lời cha mẹ\"; B không nói \"tích cực làm mọi việc\". Sai."
+        ],
+        "vocab": [
+          { "w": "自信", "r": "じしん", "hv": "TỰ TÍN", "vi": "tự tin" },
+          { "w": "受け入れる", "r": "うけいれる", "hv": "THỤ NHẬP", "vi": "tiếp nhận, chấp nhận" },
+          { "w": "やる気を引き出す", "r": "やるきをひきだす", "hv": "DẪN XUẤT", "vi": "khơi dậy động lực" },
+          { "w": "伸ばす", "r": "のばす", "hv": "THÂN", "vi": "phát triển, kéo dài" }
+        ],
+        "grammar": {
+          "pattern": "〜ものだ",
+          "meaning": "vốn dĩ là ~ (bản chất, lẽ thường)",
+          "form": "普通形 + ものだ",
+          "example": "人は誰でも失敗するものだ。"
+        },
+        "evidence": "A：子どもはすなおですから、ほめられたことをそのまま受け入れ、行動や態度に自信を持つことができます。／B：誰でもほめられるとうれしいし、ほめられたことは続けていこうと思うものだ。",
+        "tip": "Phương án 4 là bẫy: lấy chữ すなお・受け入れ từ bài A nhưng đổi đối tượng thành 親の言うこと."
+      }
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "exam": "2017-12",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các phương án thành câu đúng và chọn phương án nằm ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "（教室で）生徒「これからご紹介するのは、私が新しい単語を覚える＿★＿ ＿＿＿ ＿＿＿ ＿＿＿思いついた方法です。皆さんも、ぜひ試してみてください。」",
+      "options": ["のに", "とあれこれ考えた", "末に", "いい方法はないか"],
+      "answer": 1,
+      "explanation": {
+        "translation": "(Trong lớp) Học sinh: \"Điều mà em sắp giới thiệu là phương pháp em nghĩ ra sau khi đã suy nghĩ đủ đường xem có cách nào hay để học thuộc từ mới không. Mọi người cũng hãy thử nhé.\"",
+        "why": "Thứ tự đúng: 覚える［1 のに★］［4 いい方法はないか］［2 とあれこれ考えた］［3 末に］思いついた. 覚えるのにいい方法 = phương pháp tốt để học thuộc; 〜た末に = sau khi ~ mãi thì. ★ ở vị trí 1 → のに.",
+        "options": [
+          "のに → vị trí 1 (覚えるのに = để học thuộc), ★. ĐÚNG.",
+          "とあれこれ考えた → vị trí 3, trích dẫn nội dung suy nghĩ. Không phải ★.",
+          "末に → vị trí 4, nối với 思いついた (考えた末に思いついた). Không phải ★.",
+          "いい方法はないか → vị trí 2 (覚えるのにいい方法はないか). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "末に", "r": "すえに", "hv": "MẠT", "vi": "sau khi ~ mãi, cuối cùng" },
+          { "w": "あれこれ", "r": "あれこれ", "hv": "", "vi": "đủ thứ, này nọ" },
+          { "w": "思いつく", "r": "おもいつく", "hv": "TƯ", "vi": "nghĩ ra, nảy ra" },
+          { "w": "単語", "r": "たんご", "hv": "ĐƠN NGỮ", "vi": "từ vựng" }
+        ],
+        "grammar": {
+          "pattern": "Vた末に",
+          "meaning": "sau khi đã ~ rất nhiều (trải qua quá trình dài) thì cuối cùng",
+          "form": "Vた／Nの + 末に",
+          "example": "よく考えた末に、会社を辞めることにした。"
+        },
+        "evidence": null,
+        "tip": "V辞書形 + のに + いい／便利／必要 = (tốt/tiện/cần) để làm V."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "講師「片付けが苦手という話をよく聞きますが、それは＿＿＿ ＿★＿ ＿＿＿ ＿＿＿だけなので、やり方を身につければ必ず片付けられるようになります。」",
+      "options": ["決して", "やり方を知らない", "ではなく", "性格や能力の問題"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Giảng viên: \"Tôi hay nghe chuyện mọi người kém dọn dẹp, nhưng đó tuyệt nhiên không phải là vấn đề tính cách hay năng lực, chỉ là không biết cách làm thôi, nên nếu học được cách thì chắc chắn sẽ dọn dẹp được.\"",
+        "why": "Thứ tự đúng: それは［1 決して］［4 性格や能力の問題★］［3 ではなく］［2 やり方を知らない］だけなので. 決して〜ではなく = tuyệt nhiên không phải ~ mà. ★ ở vị trí 2 → 性格や能力の問題.",
+        "options": [
+          "決して → vị trí 1 (đi với phủ định ではなく). Không phải ★.",
+          "やり方を知らない → vị trí 4, nối với だけ. Không phải ★.",
+          "ではなく → vị trí 3. Không phải ★.",
+          "性格や能力の問題 → vị trí 2, ★. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "決して", "r": "けっして", "hv": "QUYẾT", "vi": "tuyệt nhiên (không)" },
+          { "w": "片付け", "r": "かたづけ", "hv": "PHIẾN PHÓ", "vi": "dọn dẹp" },
+          { "w": "苦手", "r": "にがて", "hv": "KHỔ THỦ", "vi": "kém, không giỏi" },
+          { "w": "性格", "r": "せいかく", "hv": "TÍNH CÁCH", "vi": "tính cách" }
+        ],
+        "grammar": {
+          "pattern": "決して〜ではなく、〜だけだ",
+          "meaning": "tuyệt nhiên không phải ~, chỉ là ~ thôi",
+          "form": "決して + N + ではなく + 普通形 + だけ",
+          "example": "それは決して才能の差ではなく、努力が足りないだけだ。"
+        },
+        "evidence": null,
+        "tip": "決して luôn đi với phủ định → tìm ではなく đặt ngay sau cụm danh từ."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "X市には、市民のための文化施設が＿＿＿ ＿★＿ ＿＿＿ ＿＿＿行っている。",
+      "options": ["はじめとした", "二つあり", "さまざまな催しを", "音楽コンサートを"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Thành phố X có hai cơ sở văn hóa dành cho người dân, tổ chức nhiều sự kiện khác nhau, tiêu biểu là các buổi hòa nhạc.",
+        "why": "Thứ tự đúng: 文化施設が［2 二つあり］［4 音楽コンサートを★］［1 はじめとした］［3 さまざまな催しを］行っている. NをはじめとしたN = những N, tiêu biểu là ~. ★ ở vị trí 2 → 音楽コンサートを.",
+        "options": [
+          "はじめとした → vị trí 3 (コンサートをはじめとした). Không phải ★.",
+          "二つあり → vị trí 1, vị ngữ cho 施設が. Không phải ★.",
+          "さまざまな催しを → vị trí 4, tân ngữ của 行っている. Không phải ★.",
+          "音楽コンサートを → vị trí 2, ★. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "施設", "r": "しせつ", "hv": "THI THIẾT", "vi": "cơ sở, công trình" },
+          { "w": "催し", "r": "もよおし", "hv": "THÔI", "vi": "sự kiện, buổi tổ chức" },
+          { "w": "市民", "r": "しみん", "hv": "THỊ DÂN", "vi": "người dân thành phố" }
+        ],
+        "grammar": {
+          "pattern": "〜をはじめとした／〜をはじめとする + N",
+          "meaning": "những N như ~ (lấy ~ làm tiêu biểu)",
+          "form": "N1 + をはじめとした + N2",
+          "example": "東京をはじめとした大都市では、家賃が高い。"
+        },
+        "evidence": null,
+        "tip": "Thấy をはじめとした → trước nó là N + を, sau nó là danh từ chỉ nhóm (さまざまな催し)."
+      }
+    },
+    {
+      "num": 48,
+      "passage": null,
+      "stem": "おなかがすいている＿＿＿ ＿＿＿ ＿★＿ ＿＿＿だろう。",
+      "options": ["どうして", "おなかが鳴るのは", "でもないのに", "わけ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Đâu phải là đang đói bụng, vậy mà sao bụng lại kêu nhỉ?",
+        "why": "Thứ tự đúng: おなかがすいている［4 わけ］［3 でもないのに］［2 おなかが鳴るのは★］［1 どうして］だろう. 〜わけでもないのに = đâu phải là ~ vậy mà; 〜のはどうしてだろう = việc ~ là tại sao nhỉ. ★ ở vị trí 3 → おなかが鳴るのは.",
+        "options": [
+          "どうして → vị trí 4 (どうしてだろう). Không phải ★.",
+          "おなかが鳴るのは → vị trí 3, ★. ĐÚNG.",
+          "でもないのに → vị trí 2 (わけでもないのに). Không phải ★.",
+          "わけ → vị trí 1 (すいているわけ). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "おなかがすく", "r": "おなかがすく", "hv": "", "vi": "đói bụng" },
+          { "w": "鳴る", "r": "なる", "hv": "MINH", "vi": "kêu, reo" }
+        ],
+        "grammar": {
+          "pattern": "〜わけでもないのに",
+          "meaning": "đâu phải là ~, vậy mà…",
+          "form": "普通形 + わけでもないのに",
+          "example": "嫌いなわけでもないのに、なぜか彼とは話しにくい。"
+        },
+        "evidence": null,
+        "tip": "〜のは＋どうして＋だろう: \"…のはどうしてだろう\" – không nói \"どうして〜のはだろう\"."
+      }
+    },
+    {
+      "num": 49,
+      "passage": null,
+      "stem": "＿＿＿ ＿＿＿ ＿★＿ ＿＿＿先週から工事で休業中なので、今回は別のホテルに泊まることにした。",
+      "options": ["泊まっている", "たびに", "Yホテルが", "出張に行く"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Khách sạn Y mà tôi vẫn ở mỗi lần đi công tác đang tạm nghỉ để sửa chữa từ tuần trước, nên lần này tôi quyết định ở khách sạn khác.",
+        "why": "Thứ tự đúng: ［4 出張に行く］［2 たびに］［1 泊まっている★］［3 Yホテルが］先週から工事で休業中. 〜たびに = mỗi khi ~. Cụm \"出張に行くたびに泊まっている\" bổ nghĩa cho Yホテル. ★ ở vị trí 3 → 泊まっている.",
+        "options": [
+          "泊まっている → vị trí 3, ★. ĐÚNG.",
+          "たびに → vị trí 2 (行くたびに). Không phải ★.",
+          "Yホテルが → vị trí 4, chủ ngữ của 休業中. Không phải ★.",
+          "出張に行く → vị trí 1. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "出張", "r": "しゅっちょう", "hv": "XUẤT TRƯƠNG", "vi": "đi công tác" },
+          { "w": "休業", "r": "きゅうぎょう", "hv": "HƯU NGHIỆP", "vi": "tạm nghỉ kinh doanh" },
+          { "w": "工事", "r": "こうじ", "hv": "CÔNG SỰ", "vi": "thi công, sửa chữa" }
+        ],
+        "grammar": {
+          "pattern": "〜たびに",
+          "meaning": "mỗi lần ~ thì (lần nào cũng)",
+          "form": "V辞書形／Nの + たびに",
+          "example": "この歌を聞くたびに、学生時代を思い出す。"
+        },
+        "evidence": null,
+        "tip": "Mệnh đề bổ nghĩa (出張に行くたびに泊まっている) đứng trước danh từ Yホテル."
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "exam": "2022-12",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B, chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "　面接や発表などで、緊張を恐れるあまり、ますます緊張してしまう人がいる。適度に緊張している状態は、集中力を高める効果があるので、緊張をなくそうとする必要はない。それより、緊張している状態でも自分の力を出せるようにしたほうがいい。\n　緊張しているときに大事なのは、うまくできた状況を思い描くことだ。りゅうちょうに話している自分の姿を具体的にイメージするのだ。繰り返しイメージすることで、実際にうまくできるように思えてくる。失敗したときのことを考えるのは、緊張が増すだけだからやめたほうがいい。緊張は誰にでも起こり得ることなので、うまく付き合っていくことが大切だ。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "　面接や発表などの際は、なぜ緊張するのだろうか。それは「能力があるように見られたい」という思いが強すぎることが大きな原因だ。他人によい姿を見せたいと思っていると、失敗するのが怖くなり緊張してしまう。できるだけ緊張しないようにするには、他人を意識しないことが大事だ。自分をよく見せることではなく、伝えたいことをきちんと伝えることに意識を向ければ、気持ちが落ちついてくるはずだ。\n　また、よく緊張してはいけないと思う人がいるが、緊張している姿から真剣さが伝わり、逆に好印象を与えることがある。だから、緊張を恐れなくてもいいと思う。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 65,
+      "passage": "AB",
+      "stem": "緊張することについて、AとBが共通して述べていることは何か。",
+      "options": [
+        "緊張するのは悪いことではない。",
+        "緊張しない方法を考えても意味がない。",
+        "緊張しているほうが自分の力が出せる。",
+        "失敗を防ぐには、できるだけ緊張しないほうがいい。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về việc căng thẳng, điều mà cả A và B cùng nói là gì? → Căng thẳng không phải là điều xấu.",
+        "why": "A: căng thẳng vừa phải giúp tăng sự tập trung, không cần loại bỏ. B: căng thẳng cho thấy sự nghiêm túc, đôi khi tạo ấn tượng tốt, không cần sợ. → Cả hai đều cho rằng căng thẳng không xấu.",
+        "options": [
+          "Căng thẳng không phải điều xấu. ĐÚNG (A: 緊張をなくそうとする必要はない; B: 緊張を恐れなくてもいい).",
+          "Sai: B lại đưa ra cách để bớt căng thẳng (他人を意識しない).",
+          "Sai: A chỉ nói căng thẳng 'vừa phải' giúp tập trung; B không nói vậy.",
+          "Sai: cả hai đều không nói phải tránh căng thẳng để khỏi thất bại."
+        ],
+        "vocab": [
+          { "w": "緊張", "r": "きんちょう", "hv": "KHẨN TRƯƠNG", "vi": "căng thẳng, hồi hộp" },
+          { "w": "適度", "r": "てきど", "hv": "THÍCH ĐỘ", "vi": "vừa phải" },
+          { "w": "集中力", "r": "しゅうちゅうりょく", "hv": "TẬP TRUNG LỰC", "vi": "sức tập trung" },
+          { "w": "真剣さ", "r": "しんけんさ", "hv": "CHÂN KIẾM", "vi": "sự nghiêm túc" }
+        ],
+        "grammar": {
+          "pattern": "～あまり",
+          "meaning": "vì quá ~ nên (dẫn đến kết quả không tốt)",
+          "form": "Vる／Nの＋あまり",
+          "example": "緊張のあまり、何も言えなかった。"
+        },
+        "evidence": "A：適度に緊張している状態は、集中力を高める効果があるので、緊張をなくそうとする必要はない。\nB：緊張している姿から真剣さが伝わり、逆に好印象を与えることがある。だから、緊張を恐れなくてもいいと思う。",
+        "tip": null
+      }
+    },
+    {
+      "num": 66,
+      "passage": "AB",
+      "stem": "AとBは、緊張していると感じたときに、どうしたらいいと述べているか。",
+      "options": [
+        "AもBも、できるだけ結果のことを考えないようにしたほうがいいと述べている。",
+        "AもBも、必要以上に格好をつけようと思うのをやめたほうがいいと述べている。",
+        "Aは失敗した状況をイメージしないほうがいいと述べ、Bは自分がなぜ緊張しているのか考えたほうがいいと述べている。",
+        "Aは成功した自分を想像したほうがいいと述べ、Bは自分をよく見せようと考えるのをやめたほうがいいと述べている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "A và B nói nên làm gì khi cảm thấy căng thẳng? → A nói nên tưởng tượng bản thân thành công; B nói nên thôi nghĩ đến việc thể hiện bản thân tốt đẹp.",
+        "why": "A: điều quan trọng là hình dung tình huống làm tốt, hình dung bản thân nói trôi chảy. B: đừng để ý người khác, hướng ý thức vào việc truyền đạt chứ không phải làm mình trông tốt.",
+        "options": [
+          "Sai: A khuyên nghĩ đến kết quả tốt (hình dung thành công), không phải không nghĩ đến kết quả.",
+          "Sai: chỉ B nói về việc muốn thể hiện; A không đề cập.",
+          "Sai: vế A đúng một phần, nhưng B giải thích nguyên nhân căng thẳng chứ không khuyên người đọc tự suy nghĩ vì sao mình căng thẳng.",
+          "A: tưởng tượng thành công; B: thôi cố thể hiện bản thân. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "思い描く", "r": "おもいえがく", "hv": "TƯ MIÊU", "vi": "hình dung" },
+          { "w": "りゅうちょう", "r": "りゅうちょう", "hv": "LƯU SƯỚNG", "vi": "trôi chảy (流暢)" },
+          { "w": "意識を向ける", "r": "いしきをむける", "hv": "Ý THỨC HƯỚNG", "vi": "hướng sự chú ý vào" },
+          { "w": "格好をつける", "r": "かっこうをつける", "hv": "CÁCH HẢO", "vi": "làm màu, ra vẻ" }
+        ],
+        "grammar": null,
+        "evidence": "A：緊張しているときに大事なのは、うまくできた状況を思い描くことだ。\nB：自分をよく見せることではなく、伝えたいことをきちんと伝えることに意識を向ければ、気持ちが落ちついてくるはずだ。",
+        "tip": "Dạng câu hỏi so sánh A/B: kiểm tra riêng từng vế A và B, chỉ cần một vế sai là loại."
+      }
+    }
+  ]
+}

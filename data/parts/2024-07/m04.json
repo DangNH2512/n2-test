@@ -1,0 +1,189 @@
+{
+  "exam": "2024-07",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ đúng nhất để điền vào chỗ trống (theo ngữ cảnh).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "両親はおいしい料理で客を（　　）のが好きだ。",
+      "options": ["もてなす", "おだてる", "ゆるす", "すくう"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Bố mẹ tôi thích tiếp đãi khách bằng những món ăn ngon.",
+        "why": "もてなす = tiếp đãi, chiêu đãi (khách). \"Dùng món ngon để ~ khách\" chỉ hợp với もてなす.",
+        "options": [
+          "もてなす → 持て成す: tiếp đãi, chiêu đãi. ĐÚNG.",
+          "おだてる → tâng bốc, nịnh. Sai.",
+          "ゆるす → 許す: tha thứ, cho phép. Sai.",
+          "すくう → 救う: cứu giúp. Sai."
+        ],
+        "vocab": [
+          { "w": "もてなす", "r": "もてなす", "hv": "", "vi": "tiếp đãi, chiêu đãi" },
+          { "w": "おもてなし", "r": "おもてなし", "hv": "", "vi": "lòng hiếu khách, sự tiếp đãi" },
+          { "w": "おだてる", "r": "おだてる", "hv": "", "vi": "tâng bốc, nịnh nọt" },
+          { "w": "客", "r": "きゃく", "hv": "KHÁCH", "vi": "khách" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "客をもてなす là cụm cố định; danh từ おもてなし rất nổi tiếng."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "その駅は各駅停車の電車は止まりますが、急行電車は（　　）します。",
+      "options": ["経由", "直進", "通過", "横断"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Ga đó tàu thường (dừng mọi ga) thì dừng, nhưng tàu nhanh thì chạy qua (không dừng).",
+        "why": "通過 (つうか) = đi qua mà không dừng lại. Đối lập với 止まります → 急行は通過します.",
+        "options": [
+          "経由 → けいゆ: đi qua/quá cảnh (via), thường dùng 〜を経由して, không diễn tả \"không dừng\". Sai.",
+          "直進 → ちょくしん: đi thẳng (không rẽ). Sai.",
+          "通過 → つうか: chạy qua không dừng. ĐÚNG.",
+          "横断 → おうだん: băng qua đường (theo chiều ngang). Sai."
+        ],
+        "vocab": [
+          { "w": "通過", "r": "つうか", "hv": "THÔNG QUÁ", "vi": "đi qua, chạy qua (không dừng)" },
+          { "w": "各駅停車", "r": "かくえきていしゃ", "hv": "CÁC DỊCH ĐÌNH XA", "vi": "tàu dừng tất cả các ga" },
+          { "w": "急行", "r": "きゅうこう", "hv": "CẤP HÀNH", "vi": "tàu tốc hành" },
+          { "w": "経由", "r": "けいゆ", "hv": "KINH DO", "vi": "đi qua, quá cảnh" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Thông báo ga tàu: 「この駅は通過します」 = tàu không dừng ở ga này."
+      }
+    },
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "見た人の記憶に残るような（　　）のあるポスターにしたい。",
+      "options": ["インパクト", "プレッシャー", "チャージ", "ショック"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi muốn làm một tấm áp phích có sức ấn tượng mạnh, khiến người xem nhớ mãi.",
+        "why": "インパクト (impact) = ấn tượng mạnh, sức tác động. インパクトのある〜 = gây ấn tượng mạnh → \"đọng lại trong ký ức\".",
+        "options": [
+          "インパクト → sức ấn tượng mạnh. ĐÚNG.",
+          "プレッシャー → áp lực. Sai.",
+          "チャージ → nạp tiền, sạc. Sai.",
+          "ショック → cú sốc (cảm xúc tiêu cực), không nói ショックのあるポスター. Sai."
+        ],
+        "vocab": [
+          { "w": "インパクト", "r": "いんぱくと", "hv": "", "vi": "ấn tượng mạnh, tác động" },
+          { "w": "記憶", "r": "きおく", "hv": "KÝ ỨC", "vi": "trí nhớ, ký ức" },
+          { "w": "残る", "r": "のこる", "hv": "TÀN", "vi": "còn lại, đọng lại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "インパクトがある／インパクトが強い = ấn tượng; ショックを受ける = bị sốc."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "地元の選手がオリンピックでメダルを獲得したことがテレビで（　　）された。",
+      "options": ["通信", "普及", "伝言", "報道"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Việc vận động viên địa phương giành huy chương tại Olympic đã được đưa tin trên tivi.",
+        "why": "報道 (ほうどう) = đưa tin, đưa tin trên báo chí/truyền hình. テレビで報道される = được truyền hình đưa tin.",
+        "options": [
+          "通信 → つうしん: thông tin liên lạc, truyền dữ liệu. Sai.",
+          "普及 → ふきゅう: phổ cập, lan rộng. Sai.",
+          "伝言 → でんごん: lời nhắn. Sai.",
+          "報道 → ほうどう: đưa tin. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "報道", "r": "ほうどう", "hv": "BÁO ĐẠO", "vi": "đưa tin, thông tin báo chí" },
+          { "w": "獲得", "r": "かくとく", "hv": "HOẠCH ĐẮC", "vi": "giành được, đạt được" },
+          { "w": "地元", "r": "じもと", "hv": "ĐỊA NGUYÊN", "vi": "địa phương, quê nhà" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "報道番組 = chương trình thời sự; 報道陣 = cánh nhà báo."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "台風で電車が運休になり通勤や通学で利用する人に（　　）影響を与えた。",
+      "options": ["大まかな", "偉大な", "大げさな", "多大な"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Do bão, tàu ngừng chạy, gây ảnh hưởng to lớn đến những người đi làm, đi học.",
+        "why": "多大な (ただいな) = rất lớn (về lượng, mức độ), thường đi với 影響・被害・損害・迷惑. 多大な影響を与える là kết hợp cố định.",
+        "options": [
+          "大まかな → おおまかな: đại khái, sơ lược. Sai.",
+          "偉大な → いだいな: vĩ đại (người, thành tựu). Sai.",
+          "大げさな → おおげさな: phóng đại, làm quá. Sai.",
+          "多大な → ただいな: to lớn. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "多大な", "r": "ただいな", "hv": "ĐA ĐẠI", "vi": "to lớn, rất nhiều" },
+          { "w": "運休", "r": "うんきゅう", "hv": "VẬN HƯU", "vi": "ngừng chạy (tàu, xe)" },
+          { "w": "影響", "r": "えいきょう", "hv": "ẢNH HƯỞNG", "vi": "ảnh hưởng" },
+          { "w": "大げさ", "r": "おおげさ", "hv": "ĐẠI", "vi": "cường điệu, làm quá" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Collocation: 多大な影響／多大な被害／多大なご迷惑."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "西川さんは転校してきたばかりだが、友達もできて、もうすっかりクラスに（　　）いる。",
+      "options": ["当てはまって", "溶け込んで", "結びついて", "触れ合って"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Nishikawa vừa mới chuyển trường đến nhưng đã có bạn và đã hoàn toàn hòa nhập vào lớp.",
+        "why": "溶け込む (とけこむ) = hòa nhập (vào tập thể, môi trường). クラスに溶け込む = hòa đồng với lớp.",
+        "options": [
+          "当てはまって → 当てはまる: phù hợp, khớp với (điều kiện). Sai.",
+          "溶け込んで → 溶け込む: hòa nhập. ĐÚNG.",
+          "結びついて → 結びつく: gắn kết, liên quan với. Sai.",
+          "触れ合って → 触れ合う: tiếp xúc, giao lưu (với nhau), không đi với クラスに. Sai."
+        ],
+        "vocab": [
+          { "w": "溶け込む", "r": "とけこむ", "hv": "DUNG VÀO", "vi": "hòa tan; hòa nhập" },
+          { "w": "転校", "r": "てんこう", "hv": "CHUYỂN HIỆU", "vi": "chuyển trường" },
+          { "w": "当てはまる", "r": "あてはまる", "hv": "ĐƯƠNG", "vi": "phù hợp, khớp với" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nghĩa gốc 溶ける = tan; 溶け込む = tan vào → hòa nhập vào tập thể."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "私は（　　）性格なので、時々財布を持たずに買い物に出かけてしまうことがある。",
+      "options": ["あつかましい", "うっとうしい", "そそっかしい", "さわがしい"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi có tính đoảng (hấp tấp, cẩu thả) nên thỉnh thoảng đi mua sắm mà quên mang ví.",
+        "why": "そそっかしい = hấp tấp, cẩu thả, hay quên. Quên mang ví khi đi mua sắm là biểu hiện của tính そそっかしい.",
+        "options": [
+          "あつかましい → 厚かましい: trơ trẽn, mặt dày. Sai.",
+          "うっとうしい → 鬱陶しい: khó chịu, nặng nề (thời tiết, người). Sai.",
+          "そそっかしい → hấp tấp, đoảng. ĐÚNG.",
+          "さわがしい → 騒がしい: ồn ào. Sai."
+        ],
+        "vocab": [
+          { "w": "そそっかしい", "r": "そそっかしい", "hv": "", "vi": "hấp tấp, cẩu thả, đoảng" },
+          { "w": "厚かましい", "r": "あつかましい", "hv": "HẬU", "vi": "trơ trẽn, mặt dày" },
+          { "w": "性格", "r": "せいかく", "hv": "TÍNH CÁCH", "vi": "tính cách" },
+          { "w": "財布", "r": "さいふ", "hv": "TÀI BỐ", "vi": "cái ví" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "そそっかしい人 = người hay quên trước quên sau, làm vội rồi sai."
+      }
+    }
+  ]
+}

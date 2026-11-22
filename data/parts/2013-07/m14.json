@@ -1,0 +1,78 @@
+{
+  "exam": "2013-07",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "下は、ある事典の販売に関する案内である。下の問いに対する答えとして、最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Dưới đây là thông báo về việc bán một bộ từ điển bách khoa. Chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "日本歴史事典",
+      "text": "日本歴史研究改編著『日本歴史事典』\n2014年1月15日まで、特別価格で予約受付中!\n\n最新の研究に基づいた日本史総合事典が、歴史教育社から発行されます。政治、外交、経済、社会、文化について、約18,000項目が収められた事典です。全てページカラー印刷、写真や図表も多く掲載しています。\nこの機会に是非ご購入くださいますようご案内申し上げます。\n\n書名：日本歴史事典（全２巻）\n編著者名：日本歴史研究会\nページ数：上巻1,500ページ、下巻1,500ページ（予定）\n定価：30,000円（上下巻セット価格・税込）\n発行元：歴史教育社\n発売日：2014年2月1日\n\n予約特別価格\n予約受付：2014年1月15日まで\nお届け：発売日１週間前にご希望の送付先（国内に限る）へお届けします。送料は無料です。\nお申し込み：歴史教育社ホームページで承ります。（書店での申し込みは受け付けられませんのでご注意ください。）\n\n一括払い価格27,000円（上下巻セット価格・税込み）\nお申し込み時にクレジットカードでお支払いいただくか、1月20日までに指定口座にお振込みください。\n\n分割払い価格28,900円（上下巻セット価格・税込み）\nお支払いは指定の口座へのお振込みのみになります。\n支払い回数：3回（初回9,900円、第2回-第3回月9,500円）\n初回は1月20日までにお振り込ください。\n\n*お振込みの場合、手数料はお客様負担でお願いいたします。また、お振込み等の詳細については、歴史教育社ホームページをご覧ください。\n予約期間終了後は、全国書店でも購入のお申し込みを受け付けます。\n\n歴史教育社\nhttp://www.rekishi.com"
+    }
+  ],
+  "questions": [
+    {
+      "num": 74,
+      "passage": "p1",
+      "stem": "岩田さんはこの事典をなるべく安く手に入れたい。予約方法と代金の支払いはどうすればよいか。",
+      "options": [
+        "1月15日までに書店で予約し、1月20日までに全額を振り込む。",
+        "1月15日までに書店で予約し、2月1日に書店で全額を支払う。",
+        "1月15日までにホームページで予約し、同時にクレジットカードで全額を支払う。",
+        "1月15日までにホームページで予約し、1月20日までに分割払いの初回分を振り込む。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh Iwata muốn mua bộ từ điển này rẻ nhất có thể. Nên đặt trước và thanh toán thế nào? → Đặt trước trên trang web trước ngày 15/1 và đồng thời thanh toán toàn bộ bằng thẻ tín dụng.",
+        "why": "Đặt trước chỉ nhận qua trang web (không nhận ở hiệu sách). Trả một lần: 27,000 yên (rẻ hơn trả góp 28,900 yên). Trả một lần có thể dùng thẻ tín dụng khi đăng ký (chuyển khoản thì mất thêm phí chuyển khoản) → thẻ tín dụng là rẻ nhất.",
+        "options": [
+          "Đặt ở hiệu sách → không nhận đặt trước tại hiệu sách. Sai.",
+          "Đặt và trả ở hiệu sách → không được, và sau thời hạn thì giá thường 30,000 yên. Sai.",
+          "Đặt qua web + trả hết bằng thẻ tín dụng (27,000 yên, không phí chuyển khoản). ĐÚNG.",
+          "Trả góp 28,900 yên + phí chuyển khoản → đắt hơn. Sai."
+        ],
+        "vocab": [
+          { "w": "一括払い", "r": "いっかつばらい", "hv": "NHẤT QUÁT PHẤT", "vi": "trả một lần" },
+          { "w": "分割払い", "r": "ぶんかつばらい", "hv": "PHÂN CÁT PHẤT", "vi": "trả góp" },
+          { "w": "振り込む", "r": "ふりこむ", "hv": "CHẤN", "vi": "chuyển khoản" },
+          { "w": "手数料", "r": "てすうりょう", "hv": "THỦ SỐ LIỆU", "vi": "phí thủ tục" }
+        ],
+        "grammar": null,
+        "evidence": "お申し込み：歴史教育社ホームページで承ります。（書店での申し込みは受け付けられませんのでご注意ください。）\n一括払い価格27,000円…お申し込み時にクレジットカードでお支払いいただくか、1月20日までに指定口座にお振込みください。\n*お振込みの場合、手数料はお客様負担でお願いいたします。",
+        "tip": "Câu hỏi 'rẻ nhất' → so sánh giá + chú ý phí phụ (手数料) ở dòng có dấu *."
+      }
+    },
+    {
+      "num": 75,
+      "passage": "p1",
+      "stem": "この事典を予約販売で購入した場合、安さ以外の利点はどれか。",
+      "options": [
+        "発売日より前に、事典を受け取ることができる。",
+        "分割払いの支払い回数を自由に決めることができる。",
+        "発行元に、振り込み手数料を負担してもらえる。",
+        "海外にも送料無料で事典を送付してもらえる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nếu mua theo hình thức đặt trước, lợi ích ngoài giá rẻ là gì? → Có thể nhận từ điển trước ngày phát hành.",
+        "why": "Mục お届け: giao đến nơi nhận 1 tuần trước ngày phát hành, miễn phí vận chuyển → nhận được trước ngày bán.",
+        "options": [
+          "Nhận sách trước ngày phát hành. ĐÚNG.",
+          "Tự chọn số lần trả góp → cố định 3 lần. Sai.",
+          "Nhà xuất bản chịu phí chuyển khoản → khách hàng chịu. Sai.",
+          "Gửi ra nước ngoài miễn phí → chỉ giới hạn trong nước. Sai."
+        ],
+        "vocab": [
+          { "w": "お届け", "r": "おとどけ", "hv": "GIỚI", "vi": "giao hàng" },
+          { "w": "送付先", "r": "そうふさき", "hv": "TỐNG PHÓ TIÊN", "vi": "nơi nhận" },
+          { "w": "国内", "r": "こくない", "hv": "QUỐC NỘI", "vi": "trong nước" },
+          { "w": "送料", "r": "そうりょう", "hv": "TỐNG LIỆU", "vi": "phí vận chuyển" }
+        ],
+        "grammar": null,
+        "evidence": "お届け：発売日１週間前にご希望の送付先（国内に限る）へお届けします。送料は無料です。",
+        "tip": null
+      }
+    }
+  ]
+}

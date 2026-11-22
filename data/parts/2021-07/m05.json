@@ -1,0 +1,133 @@
+{
+  "exam": "2021-07",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ/cụm từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "あの人の冷たい態度には<u>失望した</u>。",
+      "options": ["がっかりした", "びっくりした", "かっとした", "ぞっとした"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đã thất vọng trước thái độ lạnh lùng của người đó.",
+        "why": "失望する (THẤT VỌNG) = thất vọng = がっかりする.",
+        "options": [
+          "がっかりした → thất vọng, chán nản. ĐÚNG.",
+          "びっくりした → ngạc nhiên, giật mình. Sai.",
+          "かっとした → nổi nóng, bực tức đột ngột. Sai.",
+          "ぞっとした → rùng mình, sởn gai ốc (sợ). Sai."
+        ],
+        "vocab": [
+          { "w": "失望", "r": "しつぼう", "hv": "THẤT VỌNG", "vi": "thất vọng" },
+          { "w": "態度", "r": "たいど", "hv": "THÁI ĐỘ", "vi": "thái độ" },
+          { "w": "がっかり", "r": "がっかり", "hv": "", "vi": "thất vọng, chán nản" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhóm cảm xúc: がっかり (thất vọng), びっくり (ngạc nhiên), かっと (nổi giận), ぞっと (sợ hãi)."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "すぐに仕事に<u>とりかかります</u>。",
+      "options": ["仕事を探します", "仕事を始めます", "仕事を教えます", "仕事を頼みます"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi sẽ bắt tay vào công việc ngay.",
+        "why": "取りかかる = bắt tay vào, bắt đầu làm (một việc) = 始める.",
+        "options": [
+          "仕事を探します → tìm việc. Sai.",
+          "仕事を始めます → bắt đầu công việc. ĐÚNG.",
+          "仕事を教えます → dạy việc. Sai.",
+          "仕事を頼みます → nhờ việc. Sai."
+        ],
+        "vocab": [
+          { "w": "取りかかる", "r": "とりかかる", "hv": "THỦ", "vi": "bắt tay vào làm" },
+          { "w": "取り組む", "r": "とりくむ", "hv": "THỦ TỔ", "vi": "nỗ lực giải quyết" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nに取りかかる = Nを始める (仕事に取りかかる／準備に取りかかる)."
+      }
+    },
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "手書きの文字には書いた人の<u>人柄</u>が出る。",
+      "options": ["格好", "体調", "気分", "性格"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Chữ viết tay thể hiện tính cách của người viết.",
+        "why": "人柄 (ひとがら) = nhân cách, tính cách con người = 性格.",
+        "options": [
+          "格好 → dáng vẻ, bề ngoài. Sai.",
+          "体調 → tình trạng sức khỏe. Sai.",
+          "気分 → tâm trạng (nhất thời). Sai.",
+          "性格 → tính cách. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "人柄", "r": "ひとがら", "hv": "NHÂN BÍNH", "vi": "nhân cách, tính cách" },
+          { "w": "手書き", "r": "てがき", "hv": "THỦ THƯ", "vi": "viết tay" },
+          { "w": "性格", "r": "せいかく", "hv": "TÍNH CÁCH", "vi": "tính cách" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "柄 (がら): 人柄 (tính người), 花柄 (họa tiết hoa), 家柄 (gia thế)."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "スピーチは<u>案の定</u>うまくできなかった。",
+      "options": ["あまり", "あいかわらず", "やっぱり", "ぜんぜん"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Bài phát biểu, đúng như dự đoán, đã không làm tốt được.",
+        "why": "案の定 (あんのじょう) = quả nhiên, đúng như đã lo/dự đoán = やっぱり (やはり).",
+        "options": [
+          "あまり → không ~ lắm (đi với phủ định). Sai.",
+          "あいかわらず → vẫn như mọi khi. Sai.",
+          "やっぱり → quả nhiên, đúng như nghĩ. ĐÚNG.",
+          "ぜんぜん → hoàn toàn không. Sai."
+        ],
+        "vocab": [
+          { "w": "案の定", "r": "あんのじょう", "hv": "ÁN ĐỊNH", "vi": "quả nhiên, đúng như dự đoán" },
+          { "w": "相変わらず", "r": "あいかわらず", "hv": "TƯƠNG BIẾN", "vi": "vẫn như cũ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "案の定 thường dùng khi điều xấu xảy ra đúng như lo ngại."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "ごみを<u>くるんで</u>捨てた。",
+      "options": ["縛って", "集めて", "分けて", "包んで"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi đã gói rác lại rồi vứt đi.",
+        "why": "くるむ = quấn, bọc, gói lại = 包む (つつむ).",
+        "options": [
+          "縛って → 縛る: buộc, trói. Sai.",
+          "集めて → 集める: gom lại. Sai.",
+          "分けて → 分ける: chia, phân loại. Sai.",
+          "包んで → 包む: gói, bọc. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "くるむ", "r": "くるむ", "hv": "", "vi": "quấn, bọc" },
+          { "w": "包む", "r": "つつむ", "hv": "BAO", "vi": "gói, bọc" },
+          { "w": "縛る", "r": "しばる", "hv": "PHƯỢC", "vi": "buộc, trói" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "くるむ ≈ 包む: 赤ちゃんを毛布でくるむ (quấn em bé trong chăn)."
+      }
+    }
+  ]
+}

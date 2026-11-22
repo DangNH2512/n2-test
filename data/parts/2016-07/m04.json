@@ -1,0 +1,191 @@
+{
+  "exam": "2016-07",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "その話が本当かどうか分からないのに、確認もしないで（　　）信じてしまった。",
+      "options": ["率直に", "安易に", "柔軟に", "短気に"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Dù không biết câu chuyện đó có thật hay không, tôi đã dễ dãi tin ngay mà không kiểm tra.",
+        "why": "安易に (あんいに) = dễ dãi, hời hợt, không suy nghĩ kỹ. 'Không kiểm tra mà tin ngay' → 安易に信じる.",
+        "options": [
+          "率直に → thẳng thắn (率直に言う). Sai.",
+          "安易に → dễ dãi, khinh suất. ĐÚNG.",
+          "柔軟に → linh hoạt (柔軟に対応する). Sai.",
+          "短気に → 短気 = nóng tính; không dùng như phó từ với 信じる. Sai."
+        ],
+        "vocab": [
+          { "w": "安易", "r": "あんい", "hv": "AN DỊ", "vi": "dễ dãi, hời hợt" },
+          { "w": "率直", "r": "そっちょく", "hv": "SUẤT TRỰC", "vi": "thẳng thắn" },
+          { "w": "柔軟", "r": "じゅうなん", "hv": "NHU NHUYỄN", "vi": "mềm dẻo, linh hoạt" },
+          { "w": "短気", "r": "たんき", "hv": "ĐOẢN KHÍ", "vi": "nóng tính" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "安易 mang sắc thái tiêu cực: 安易な考え (suy nghĩ hời hợt)."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "今年は天候に恵まれたので、昨年を上回る量の農作物が（　　）できるだろう。",
+      "options": ["収穫", "成立", "採集", "取得"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Năm nay thời tiết thuận lợi nên có lẽ sẽ thu hoạch được lượng nông sản vượt năm ngoái.",
+        "why": "収穫 (しゅうかく) = thu hoạch (nông sản). 農作物を収穫する là kết hợp cố định.",
+        "options": [
+          "収穫 → thu hoạch. ĐÚNG.",
+          "成立 → thành lập, được thông qua (法律が成立する). Sai.",
+          "採集 → sưu tầm, thu thập (côn trùng, thực vật hoang dã). Sai.",
+          "取得 → đạt được (bằng, giấy phép). Sai."
+        ],
+        "vocab": [
+          { "w": "収穫", "r": "しゅうかく", "hv": "THU HOẠCH", "vi": "thu hoạch" },
+          { "w": "農作物", "r": "のうさくもつ", "hv": "NÔNG TÁC VẬT", "vi": "nông sản" },
+          { "w": "上回る", "r": "うわまわる", "hv": "THƯỢNG HỒI", "vi": "vượt quá, nhiều hơn" },
+          { "w": "恵まれる", "r": "めぐまれる", "hv": "HUỆ", "vi": "được ưu đãi, may mắn có" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "採集: 昆虫採集 (sưu tầm côn trùng). 取得: 資格を取得する (lấy chứng chỉ)."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "先週は忙しかったので、週末は家で本を読んで（　　）過ごした。",
+      "options": ["だぶだぶ", "がらがら", "ぐっすり", "のんびり"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tuần trước bận rộn nên cuối tuần tôi ở nhà đọc sách, thong thả nghỉ ngơi.",
+        "why": "のんびり = thong thả, thư thái. のんびり過ごす = trải qua thời gian thư giãn — hợp với ngữ cảnh nghỉ sau tuần bận.",
+        "options": [
+          "だぶだぶ → (quần áo) rộng thùng thình. Sai.",
+          "がらがら → vắng tanh / khàn tiếng. Sai.",
+          "ぐっすり → (ngủ) say. Chỉ đi với 眠る/寝る. Sai.",
+          "のんびり → thong thả, thư thái. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "のんびり", "r": "のんびり", "hv": "", "vi": "thong thả, thư thái" },
+          { "w": "ぐっすり", "r": "ぐっすり", "hv": "", "vi": "(ngủ) say sưa" },
+          { "w": "過ごす", "r": "すごす", "hv": "QUÁ", "vi": "trải qua (thời gian)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ぐっすり眠る / のんびり過ごす / 電車ががらがらだ / 服がだぶだぶだ."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "このサービスの利用者はまだ少なく、一般の人々に（　　）するには時間がかかるだろう。",
+      "options": ["普及", "充満", "伝染", "進行"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Người dùng dịch vụ này còn ít, có lẽ sẽ mất thời gian để nó phổ biến rộng rãi đến mọi người.",
+        "why": "普及 (ふきゅう) = phổ cập, lan rộng (dịch vụ, công nghệ) trong xã hội. ～に普及する = phổ biến đến ~.",
+        "options": [
+          "普及 → phổ cập, phổ biến rộng rãi. ĐÚNG.",
+          "充満 → tràn ngập (khí, mùi trong phòng). Sai.",
+          "伝染 → lây nhiễm (bệnh). Sai.",
+          "進行 → tiến triển, tiến hành. Sai."
+        ],
+        "vocab": [
+          { "w": "普及", "r": "ふきゅう", "hv": "PHỔ CẬP", "vi": "phổ cập, phổ biến" },
+          { "w": "充満", "r": "じゅうまん", "hv": "SUNG MÃN", "vi": "tràn đầy, tràn ngập" },
+          { "w": "伝染", "r": "でんせん", "hv": "TRUYỀN NHIỄM", "vi": "lây nhiễm" },
+          { "w": "一般", "r": "いっぱん", "hv": "NHẤT BAN", "vi": "chung, phổ thông" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "スマホが普及する / 煙が充満する / 病気が伝染する."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "話したいことがあったので、帰ろうとした友人を（　　）。",
+      "options": ["取り付けた", "引き止めた", "持ち寄った", "受け入れた"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Vì có chuyện muốn nói nên tôi đã giữ người bạn đang định về lại.",
+        "why": "引き止める (ひきとめる) = níu giữ, giữ lại người đang định đi. Hợp với 帰ろうとした友人を～.",
+        "options": [
+          "取り付けた → lắp đặt (máy). Sai.",
+          "引き止めた → níu giữ lại. ĐÚNG.",
+          "持ち寄った → mỗi người mang đến góp chung. Sai.",
+          "受け入れた → tiếp nhận, chấp nhận. Sai."
+        ],
+        "vocab": [
+          { "w": "引き止める", "r": "ひきとめる", "hv": "DẪN CHỈ", "vi": "níu giữ, giữ lại" },
+          { "w": "取り付ける", "r": "とりつける", "hv": "THỦ PHÓ", "vi": "lắp đặt" },
+          { "w": "持ち寄る", "r": "もちよる", "hv": "TRÌ KÝ", "vi": "mang đến góp chung" },
+          { "w": "受け入れる", "r": "うけいれる", "hv": "THỤ NHẬP", "vi": "tiếp nhận, chấp nhận" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Vようとする = định làm V. 帰ろうとした人を引き止める là cụm rất hay gặp."
+      }
+    },
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "林さんは企画チームの（　　）として、部下をまとめ、導いていく責任がある。",
+      "options": ["ライバル", "ゲスト", "リーダー", "ファン"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Với tư cách là trưởng nhóm kế hoạch, anh Hayashi có trách nhiệm gắn kết và dẫn dắt cấp dưới.",
+        "why": "Người 'gắn kết cấp dưới và dẫn dắt' (部下をまとめ、導く) chính là リーダー (leader – người lãnh đạo).",
+        "options": [
+          "ライバル → đối thủ. Sai.",
+          "ゲスト → khách mời. Sai.",
+          "リーダー → người lãnh đạo, trưởng nhóm. ĐÚNG.",
+          "ファン → người hâm mộ. Sai."
+        ],
+        "vocab": [
+          { "w": "リーダー", "r": "リーダー", "hv": "", "vi": "người lãnh đạo (leader)" },
+          { "w": "企画", "r": "きかく", "hv": "XÍ HOẠCH", "vi": "kế hoạch, dự án" },
+          { "w": "導く", "r": "みちびく", "hv": "ĐẠO", "vi": "dẫn dắt" },
+          { "w": "部下", "r": "ぶか", "hv": "BỘ HẠ", "vi": "cấp dưới" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "～として = với tư cách là ~."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "外国語が得意な森さんは、海外旅行の時に通訳をして皆を助けてくれて、とても（　　）。",
+      "options": ["したしかった", "なつかしかった", "くわしかった", "たのもしかった"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh Mori giỏi ngoại ngữ đã phiên dịch giúp mọi người khi đi du lịch nước ngoài, thật là đáng tin cậy.",
+        "why": "頼もしい (たのもしい) = đáng tin cậy, có thể nhờ cậy. Người giúp đỡ mọi người lúc cần → 頼もしかった.",
+        "options": [
+          "したしかった → 親しい: thân thiết. Không khớp với việc giúp đỡ. Sai.",
+          "なつかしかった → 懐かしい: nhớ nhung, hoài niệm. Sai.",
+          "くわしかった → 詳しい: am hiểu, chi tiết; cần 'về cái gì'. Sai.",
+          "たのもしかった → 頼もしい: đáng tin cậy. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "頼もしい", "r": "たのもしい", "hv": "LẠI", "vi": "đáng tin cậy, vững vàng" },
+          { "w": "通訳", "r": "つうやく", "hv": "THÔNG DỊCH", "vi": "phiên dịch (nói)" },
+          { "w": "親しい", "r": "したしい", "hv": "THÂN", "vi": "thân thiết" },
+          { "w": "懐かしい", "r": "なつかしい", "hv": "HOÀI", "vi": "nhớ nhung, hoài niệm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "頼もしい = 頼る (dựa vào) + もしい → người có thể dựa vào."
+      }
+    }
+  ]
+}

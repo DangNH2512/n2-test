@@ -1,0 +1,124 @@
+{
+  "exam": "2021-07",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn sau và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "かつては学校を卒業したら、それから30年か40年の人生を考えればよかったのです。今は学校を出ても、これからあと80年近い人生を考えなければいけないかもしれません。わたしたちを待ち伏せ（注1）している人生の時間が、とんでもなく長くなっています。うかつに（注2）、歳もとれなくなっているのです。\n100年前、人生50年と言われた時代には、どんなことをするのにもとんでもない時間がもったいないぐらいかかっていました。自動車がなかった。飛行機がなかった。どこへゆくのにも、今から考えればとんでもない時間がかかっています。それがあっという間に、どんどん速くなった。新幹線ができた。かつては動くことだけではなくて、何をするのにも、どこへ行くのにも時間を考えなければならなかったのです。いろいろなことをするというのは、時間のかかることをあえてすることでした。漬物には、季節が一つ必要でした。人生は短かったときに、何かするのに、それだけ長い時間が必要でした。ですから、①<u>退屈する前に、時間は過ぎた</u>のです。\n昔なら一泊か二泊を要したところへ、今は日帰りで行って帰ってくるということをしている。そんなに時間を惜しんで、物事を急いでして、しかも昔の人の生きたのよりもその二倍に近いような、長い長い人生を送らなければいけないとしたら、②<u>時間がむしろ負担になってくる</u>かもしれません。便利になって、時間がどんどん節約されてきた。ところが、一生の時間の方はどんどんと長くなった。そうすると、どういうことになるでしょうか。使わない時間、もてあます時間、何もしない時間、極端に言うと、何をしていいのかわからない時間がどんどんふえてくる、ということです。\nわたしたちの人生は、先に途方もない時間が待っている人生です。そうしたことを考えるときに、ますます重要になってくるのが、わたしの考えでは読書です。わたしたちの人生に否応なく割り込んできてしまう、この途方もない長さの時間に、じゅうぶんに耐えられるだけのソフトウェア（注3）をもっている、それどころかどんなに一生ぜんぶを使っても絶対に使い切れないほどソフトウェアをもっているのは、本しかないからです。なにしろ本というソフトウェアは、10年や30年の産物ではないのです。すくなく見積もっても、2、3000年かけてつくられつづけているのです。\n\n（注1）待ち伏せする：かくれて待つ\n（注2）うかつに：うっかり\n（注3）ソフトウェア：ここでは知識などの内容を指す"
+    }
+  ],
+  "questions": [
+    {
+      "num": 68,
+      "passage": "p1",
+      "stem": "①<u>退屈する前に、時間は過ぎた</u>とはどういうことか。",
+      "options": [
+        "漬物を漬ける季節はその準備がとても忙しかったので、退屈するような暇はなかったということ。",
+        "自動車や飛行機がなかった頃に比べると、今は退屈する前に目的地につくことができるということ。",
+        "100年前は何をするにも非常に長い時間が必要だったので、人生で退屈する時間はなかったということ。",
+        "かつて人々は時間のかかることをあえてしていたから、退屈するのは当たり前のことだったということ。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "\"Thời gian đã trôi qua trước khi kịp thấy chán\" nghĩa là gì? → 100 năm trước, làm gì cũng cần rất nhiều thời gian nên trong đời không có lúc nào để chán.",
+        "why": "Ngay trước câu gạch chân: đời người ngắn mà làm việc gì cũng tốn nhiều thời gian (ですから) → chưa kịp chán thì thời gian (cuộc đời) đã qua → không có thời gian để buồn chán.",
+        "options": [
+          "Mùa muối dưa bận chuẩn bị nên không rảnh → 漬物 chỉ là ví dụ việc tốn thời gian, không nói về sự bận rộn của mùa đó. Sai.",
+          "Ngày nay đến nơi trước khi kịp chán → câu gạch chân nói về thời xưa, không phải hiện tại. Sai.",
+          "Xưa làm gì cũng tốn rất nhiều thời gian nên không có lúc để chán. ĐÚNG.",
+          "Xưa chán là chuyện đương nhiên → ngược nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "退屈", "r": "たいくつ", "hv": "THOÁI KHUẤT", "vi": "buồn chán" },
+          { "w": "漬物", "r": "つけもの", "hv": "TÍ VẬT", "vi": "dưa muối" },
+          { "w": "あえて", "r": "あえて", "hv": "", "vi": "cố tình, dám" },
+          { "w": "とんでもない", "r": "とんでもない", "hv": "", "vi": "khủng khiếp, quá mức" }
+        ],
+        "grammar": {
+          "pattern": "ですから",
+          "meaning": "vì vậy (kết luận từ câu trước)",
+          "form": "[Lý do]。ですから、[Kết luận]。",
+          "example": "雨が降っています。ですから、試合は中止です。"
+        },
+        "evidence": "人生は短かったときに、何かするのに、それだけ長い時間が必要でした。ですから、退屈する前に、時間は過ぎたのです。",
+        "tip": "Câu gạch chân bắt đầu bằng ですから → lý do nằm ở câu ngay trước."
+      }
+    },
+    {
+      "num": 69,
+      "passage": "p1",
+      "stem": "②<u>時間がむしろ負担になってくる</u>のはなぜか。",
+      "options": [
+        "物事が便利になり、寿命も延びて、使い方がわからない時間が増えるから。",
+        "若いうちから30年も40年も先の人生の過ごし方を考えなければならないから。",
+        "時間のかかることをあえてすることで、結果としてあわただしい人生になるから。",
+        "ひとつのことを済ませるのに時間がかからなくなった分、することが増えるから。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Vì sao thời gian ngược lại trở thành gánh nặng? → Vì mọi thứ trở nên tiện lợi, tuổi thọ lại kéo dài, nên thời gian không biết dùng vào đâu tăng lên.",
+        "why": "Ngay sau câu gạch chân, tác giả giải thích: tiện lợi → tiết kiệm thời gian; nhưng thời gian cả đời lại dài ra → thời gian thừa, \"không biết làm gì\" ngày càng nhiều.",
+        "options": [
+          "Tiện lợi + tuổi thọ tăng → tăng thời gian không biết dùng thế nào. ĐÚNG.",
+          "Phải nghĩ trước cách sống 30–40 năm sau từ khi còn trẻ → bài nói ngày nay phải nghĩ đến gần 80 năm, và đây không phải lý do của gánh nặng. Sai.",
+          "Cố làm việc tốn thời gian → đời bận rộn → ngược với nội dung (đó là chuyện thời xưa). Sai.",
+          "Làm việc nhanh hơn nên việc phải làm tăng lên → bài nói thời gian rảnh tăng, không phải việc tăng. Sai."
+        ],
+        "vocab": [
+          { "w": "負担", "r": "ふたん", "hv": "PHỤ ĐẢM", "vi": "gánh nặng" },
+          { "w": "節約", "r": "せつやく", "hv": "TIẾT ƯỚC", "vi": "tiết kiệm" },
+          { "w": "もてあます", "r": "もてあます", "hv": "", "vi": "không biết xử lý thế nào, thừa thãi" },
+          { "w": "寿命", "r": "じゅみょう", "hv": "THỌ MỆNH", "vi": "tuổi thọ" }
+        ],
+        "grammar": {
+          "pattern": "むしろ",
+          "meaning": "ngược lại, đúng hơn là",
+          "form": "むしろ＋[nhận định trái kỳ vọng]",
+          "example": "休むと、むしろ疲れることもある。"
+        },
+        "evidence": "便利になって、時間がどんどん節約されてきた。ところが、一生の時間の方はどんどんと長くなった。…何をしていいのかわからない時間がどんどんふえてくる、ということです。",
+        "tip": "Câu hỏi 〜のはなぜか → đọc đoạn ngay sau câu gạch chân (そうすると、どういうことになるでしょうか)."
+      }
+    },
+    {
+      "num": 70,
+      "passage": "p1",
+      "stem": "この文章で筆者が一番主張したいことは何か。",
+      "options": [
+        "昔と比べて現在は何をするにも時間がかからなくなり、人生の時間が余って人々の負担になっている。",
+        "現在は人生そのものも長くなり、物事をするのにかかる時間も節約されている。これは素晴らしいことだ。",
+        "現代の長い人生を過ごす上で読書の果たす役割は大きく、本だけがそのような長い時間に耐えられる。",
+        "科学の進歩も素晴らしいが、そんなに急いで物事をしても、人生において何の意味もないのではないか。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều tác giả muốn khẳng định nhất trong bài là gì? → Trong cuộc đời dài của thời hiện đại, vai trò của việc đọc sách rất lớn; chỉ có sách mới đủ sức lấp đầy quãng thời gian dài ấy.",
+        "why": "Phần đầu chỉ là dẫn dắt (đời dài + thời gian thừa). Đoạn cuối là chủ trương: 「ますます重要になってくるのが、わたしの考えでは読書です」 và 「…本しかないからです」.",
+        "options": [
+          "Thời gian đời người thừa ra thành gánh nặng → chỉ là vấn đề được nêu, chưa phải chủ trương chính. Sai.",
+          "Đời dài, tiết kiệm thời gian, thật tuyệt vời → tác giả không ca ngợi, còn nói thời gian thành gánh nặng. Sai.",
+          "Đọc sách có vai trò lớn, chỉ sách mới chịu được quãng thời gian dài đó. ĐÚNG.",
+          "Làm vội vàng thì vô nghĩa → không phải ý của tác giả. Sai."
+        ],
+        "vocab": [
+          { "w": "読書", "r": "どくしょ", "hv": "ĐỘC THƯ", "vi": "đọc sách" },
+          { "w": "途方もない", "r": "とほうもない", "hv": "ĐỒ PHƯƠNG", "vi": "phi thường, quá sức tưởng tượng" },
+          { "w": "否応なく", "r": "いやおうなく", "hv": "PHỦ ỨNG", "vi": "bất kể muốn hay không" },
+          { "w": "耐える", "r": "たえる", "hv": "NẠI", "vi": "chịu đựng" }
+        ],
+        "grammar": {
+          "pattern": "〜しかない",
+          "meaning": "chỉ có ~ (ngoài ra không có)",
+          "form": "N＋しかない",
+          "example": "この問題を解決できるのは、彼しかいない。"
+        },
+        "evidence": "そうしたことを考えるときに、ますます重要になってくるのが、わたしの考えでは読書です。…絶対に使い切れないほどソフトウェアをもっているのは、本しかないからです。",
+        "tip": "「わたしの考えでは」 = tín hiệu chủ kiến của tác giả; ý chính thường ở đoạn cuối."
+      }
+    }
+  ]
+}

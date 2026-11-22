@@ -1,0 +1,162 @@
+{
+  "exam": "2022-07",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các phương án thành câu đúng và chọn phương án nằm ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "この歌を聞く＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ことだ。彼はカラオケに行くと必ずこの歌を歌っていた。",
+      "options": ["のは", "思い出す", "たびに", "高校時代の友人の"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Mỗi lần nghe bài hát này, điều tôi nhớ đến là người bạn thời cấp ba. Cứ đi karaoke là cậu ấy nhất định hát bài này.",
+        "why": "Thứ tự đúng: 聞く［3 たびに］［2 思い出す］［1 のは★］［4 高校時代の友人の］ことだ. Vるたびに = mỗi lần; cấu trúc nhấn mạnh 「～のは…ことだ」. ★ ở vị trí 3 → のは.",
+        "options": [
+          "のは → vị trí 3, ★ (思い出すのは = điều nhớ đến là). ĐÚNG.",
+          "思い出す → vị trí 2, sau たびに. Không phải ★.",
+          "たびに → vị trí 1, nối sau 聞く (聞くたびに). Không phải ★.",
+          "高校時代の友人の → vị trí 4, bổ nghĩa cho こと (友人のことだ). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "〜たびに", "r": "たびに", "hv": "ĐỘ", "vi": "mỗi lần ~" },
+          { "w": "思い出す", "r": "おもいだす", "hv": "TƯ XUẤT", "vi": "nhớ lại" },
+          { "w": "高校時代", "r": "こうこうじだい", "hv": "CAO HIỆU THỜI ĐẠI", "vi": "thời cấp ba" }
+        ],
+        "grammar": {
+          "pattern": "Vるたびに ／ ～のは…ことだ",
+          "meaning": "mỗi lần V thì… / điều mà ~ chính là…",
+          "form": "Vる / Nの + たびに；V普通形 + のは + N(の)こと + だ",
+          "example": "この写真を見るたびに、子供のころを思い出す。"
+        },
+        "evidence": null,
+        "tip": "「〜のは」 thường mở đầu chủ đề, và cuối câu có 「〜ことだ」 làm vị ngữ."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "昨日、アルバイトに遅刻しそうだったので＿＿＿ ＿＿＿ ＿★＿ ＿＿＿、結局遅刻してしまった。",
+      "options": ["タクシーに乗ったら", "かえって時間がかかり", "急ごうと思って", "道が渋滞していたせいで"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hôm qua sắp muộn giờ làm thêm nên tôi định đi cho nhanh và bắt taxi, nhưng vì đường bị tắc nên ngược lại còn mất thời gian hơn, rốt cuộc vẫn bị muộn.",
+        "why": "Thứ tự đúng: ので［3 急ごうと思って］［1 タクシーに乗ったら］［4 道が渋滞していたせいで★］［2 かえって時間がかかり］、結局… ★ ở vị trí 3 → 4.",
+        "options": [
+          "タクシーに乗ったら → vị trí 2 (Vたら = phát hiện kết quả). Không phải ★.",
+          "かえって時間がかかり → vị trí 4, nối với 、結局. Không phải ★.",
+          "急ごうと思って → vị trí 1, lý do bắt taxi. Không phải ★.",
+          "道が渋滞していたせいで → vị trí 3, ★ (nguyên nhân dẫn đến mất thời gian). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "渋滞", "r": "じゅうたい", "hv": "SÁP TRỆ", "vi": "tắc đường" },
+          { "w": "かえって", "r": "かえって", "hv": "", "vi": "ngược lại, trái lại (còn tệ hơn)" },
+          { "w": "遅刻", "r": "ちこく", "hv": "TRÌ KHẮC", "vi": "đến muộn" }
+        ],
+        "grammar": {
+          "pattern": "～せいで ／ かえって",
+          "meaning": "tại vì ~ (nguyên nhân xấu) / ngược lại (kết quả trái mong đợi)",
+          "form": "普通形（Nの／Naな）+ せいで",
+          "example": "薬を飲んだせいで、かえって気分が悪くなった。"
+        },
+        "evidence": null,
+        "tip": "Chuỗi nhân quả: ý định (急ごう) → hành động (タクシー) → nguyên nhân (渋滞) → kết quả (時間がかかり)."
+      }
+    },
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "来月結婚する友人に結婚式のスピーチを頼まれた。大勢の前で話すのは＿＿＿ ＿＿＿ ＿★＿ ＿＿＿引き受けることにした。",
+      "options": ["悩んだのだが", "と言われて", "どうしても", "苦手なので"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi được người bạn sắp cưới tháng sau nhờ phát biểu ở lễ cưới. Nói trước đông người là việc tôi không giỏi nên tôi đã băn khoăn, nhưng bị bảo là \"nhất định phải nhờ cậu\" nên tôi quyết định nhận lời.",
+        "why": "Thứ tự đúng: 話すのは［4 苦手なので］［1 悩んだのだが］［3 どうしても★］［2 と言われて］引き受けることにした. 「どうしても」 là lời bạn nói (nhất định nhờ cậu), được trích dẫn bằng と言われて. ★ = 3.",
+        "options": [
+          "悩んだのだが → vị trí 2. Không phải ★.",
+          "と言われて → vị trí 4, nối với 引き受ける. Không phải ★.",
+          "どうしても → vị trí 3, ★ (lời nài nỉ được trích dẫn). ĐÚNG.",
+          "苦手なので → vị trí 1, nối sau 話すのは (話すのは苦手). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "苦手", "r": "にがて", "hv": "KHỔ THỦ", "vi": "kém, không giỏi, ngại" },
+          { "w": "悩む", "r": "なやむ", "hv": "NÃO", "vi": "phiền não, băn khoăn" },
+          { "w": "引き受ける", "r": "ひきうける", "hv": "DẪN THỤ", "vi": "nhận lời, đảm nhận" },
+          { "w": "大勢", "r": "おおぜい", "hv": "ĐẠI THẾ", "vi": "đông người" }
+        ],
+        "grammar": {
+          "pattern": "～と言われて",
+          "meaning": "bị/được nói rằng ~ (nên…)",
+          "form": "Lời trích dẫn + と言われて",
+          "example": "先生にどうしてもと言われて、会の代表を引き受けた。"
+        },
+        "evidence": null,
+        "tip": "「どうしても」 đứng một mình như lời nài nỉ rút gọn (どうしても頼みたい), rồi + と言われて."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "先日の政治家A氏の発言はあまりに無責任だ。＿＿＿ ＿＿＿ ＿★＿ ＿＿＿、と思う。",
+      "options": ["政治家としての", "うえで", "発言しなければならなかった", "自分の立場をよく考えた"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Phát ngôn hôm trước của chính trị gia A quá vô trách nhiệm. Tôi nghĩ ông ấy lẽ ra phải phát ngôn sau khi đã cân nhắc kỹ lập trường của mình với tư cách là chính trị gia.",
+        "why": "Thứ tự đúng: ［1 政治家としての］［4 自分の立場をよく考えた］［2 うえで★］［3 発言しなければならなかった］、と思う. Vたうえで = sau khi đã V (rồi mới làm việc tiếp theo). ★ = 2.",
+        "options": [
+          "政治家としての → vị trí 1, bổ nghĩa cho 立場. Không phải ★.",
+          "うえで → vị trí 3, ★ (考えたうえで). ĐÚNG.",
+          "発言しなければならなかった → vị trí 4, nối với 、と思う. Không phải ★.",
+          "自分の立場をよく考えた → vị trí 2. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "発言", "r": "はつげん", "hv": "PHÁT NGÔN", "vi": "phát ngôn" },
+          { "w": "無責任", "r": "むせきにん", "hv": "VÔ TRÁCH NHIỆM", "vi": "vô trách nhiệm" },
+          { "w": "立場", "r": "たちば", "hv": "LẬP TRƯỜNG", "vi": "lập trường, vị trí" }
+        ],
+        "grammar": {
+          "pattern": "Vたうえで",
+          "meaning": "sau khi đã V (cẩn thận) rồi mới…",
+          "form": "Vた / Nの + うえで",
+          "example": "よく相談したうえで、決めてください。"
+        },
+        "evidence": null,
+        "tip": "Nとしての + N: 政治家としての立場 = lập trường với tư cách chính trị gia."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "食事や睡眠などの生活習慣は一度乱れてしまうと＿＿＿ ＿＿＿ ＿★＿ ＿＿＿大切だ。",
+      "options": ["規則正しい生活を", "戻そうとしても", "普段から意識することが", "なかなか戻せないので"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Thói quen sinh hoạt như ăn uống, ngủ nghỉ một khi đã bị đảo lộn thì dù có cố đưa lại cũng khó mà đưa lại được, vì vậy điều quan trọng là ý thức sống điều độ ngay từ thường ngày.",
+        "why": "Thứ tự đúng: 乱れてしまうと［2 戻そうとしても］［4 なかなか戻せないので］［1 規則正しい生活を★］［3 普段から意識することが］大切だ. ★ = 1.",
+        "options": [
+          "規則正しい生活を → vị trí 3, ★ (tân ngữ của 意識する). ĐÚNG.",
+          "戻そうとしても → vị trí 1 (Vようとしても = dù cố V). Không phải ★.",
+          "普段から意識することが → vị trí 4, chủ ngữ của 大切だ. Không phải ★.",
+          "なかなか戻せないので → vị trí 2. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "乱れる", "r": "みだれる", "hv": "LOẠN", "vi": "rối loạn, đảo lộn" },
+          { "w": "規則正しい", "r": "きそくただしい", "hv": "QUY TẮC CHÍNH", "vi": "điều độ, có quy củ" },
+          { "w": "意識", "r": "いしき", "hv": "Ý THỨC", "vi": "ý thức" },
+          { "w": "生活習慣", "r": "せいかつしゅうかん", "hv": "SINH HOẠT TẬP QUÁN", "vi": "thói quen sinh hoạt" }
+        ],
+        "grammar": {
+          "pattern": "Vようとしても～ない",
+          "meaning": "dù có cố gắng V cũng không ~",
+          "form": "V意向形 + としても",
+          "example": "忘れようとしても、なかなか忘れられない。"
+        },
+        "evidence": null,
+        "tip": "～ことが大切だ: vị trí cuối phải là cụm 「～ことが」 → 3 đứng ngay trước 大切だ."
+      }
+    }
+  ]
+}

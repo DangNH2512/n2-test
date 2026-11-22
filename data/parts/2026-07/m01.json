@@ -1,0 +1,137 @@
+{
+  "exam": "2026-07",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "祖父は<u>濃い</u>味のものを好む。",
+      "options": ["からい", "うすい", "あまい", "こい"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Ông tôi thích những món có vị đậm.",
+        "why": "濃い đọc là こい (NỒNG) = đậm, đặc (vị, màu). Câu nói về 味 (vị) nên 濃い味 = vị đậm.",
+        "options": [
+          "からい → 辛い: cay, mặn. Sai chữ.",
+          "うすい → 薄い: nhạt, mỏng (trái nghĩa với 濃い). Sai.",
+          "あまい → 甘い: ngọt. Sai chữ.",
+          "こい → 濃い: đậm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "濃い", "r": "こい", "hv": "NỒNG", "vi": "đậm, đặc" },
+          { "w": "祖父", "r": "そふ", "hv": "TỔ PHỤ", "vi": "ông (của mình)" },
+          { "w": "好む", "r": "このむ", "hv": "HẢO", "vi": "thích, ưa chuộng" },
+          { "w": "薄い", "r": "うすい", "hv": "BẠC", "vi": "nhạt, mỏng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "濃い（こい）⇔ 薄い（うすい）là cặp trái nghĩa hay gặp: 濃いコーヒー / 薄いコーヒー."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "次の<u>競技</u>に出場する人は、あちらに集まってください。",
+      "options": ["きょうぎ", "きゅうぎ", "きょうじ", "きゅうじ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Những người tham gia môn thi đấu tiếp theo, xin hãy tập trung ở đằng kia.",
+        "why": "競技 đọc là きょうぎ (CẠNH KỸ) = môn thi đấu, cuộc thi thể thao. 競 đọc きょう (âm ngắn với ょ), 技 đọc ぎ (như 技術 ぎじゅつ).",
+        "options": [
+          "きょうぎ → 競技: thi đấu. ĐÚNG.",
+          "きゅうぎ → 球技: môn thể thao dùng bóng. Sai chữ.",
+          "きょうじ → 矜持: lòng tự trọng (ít dùng). Sai.",
+          "きゅうじ → 給仕: người phục vụ bàn. Sai."
+        ],
+        "vocab": [
+          { "w": "競技", "r": "きょうぎ", "hv": "CẠNH KỸ", "vi": "thi đấu, môn thi đấu" },
+          { "w": "出場", "r": "しゅつじょう", "hv": "XUẤT TRƯỜNG", "vi": "ra sân, tham gia thi đấu" },
+          { "w": "球技", "r": "きゅうぎ", "hv": "CẦU KỸ", "vi": "môn thể thao bóng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "競 = きょう (競争 きょうそう), 技 = ぎ (技術 ぎじゅつ). Đừng nhầm với 球技 きゅうぎ."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "傷口を洗ったら、この薬で<u>消毒</u>してください。",
+      "options": ["しょうどく", "しょうとく", "しょどく", "しょとく"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Rửa vết thương xong thì hãy sát trùng bằng thuốc này.",
+        "why": "消毒 đọc là しょうどく (TIÊU ĐỘC) = khử trùng, sát trùng. 消 là しょう (trường âm), 毒 là どく (có dakuten).",
+        "options": [
+          "しょうどく → 消毒: sát trùng. ĐÚNG.",
+          "しょうとく → thiếu dakuten ở どく (しょうとく là tên riêng 聖徳). Sai.",
+          "しょどく → thiếu trường âm しょう. Sai.",
+          "しょとく → 所得: thu nhập. Sai."
+        ],
+        "vocab": [
+          { "w": "消毒", "r": "しょうどく", "hv": "TIÊU ĐỘC", "vi": "sát trùng, khử trùng" },
+          { "w": "傷口", "r": "きずぐち", "hv": "THƯƠNG KHẨU", "vi": "miệng vết thương" },
+          { "w": "毒", "r": "どく", "hv": "ĐỘC", "vi": "chất độc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "消 luôn là しょう (消防 しょうぼう, 消化 しょうか); 毒 luôn là どく (中毒 ちゅうどく)."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "彼のことは、もう<u>構わない</u>ことにした。",
+      "options": ["かばわない", "かまわない", "きらわない", "さそわない"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi đã quyết định không bận tâm (không để ý) đến anh ta nữa.",
+        "why": "構う đọc là かまう (CẤU) = bận tâm, để ý, quan tâm đến. 構わない = không để ý / mặc kệ.",
+        "options": [
+          "かばわない → 庇わない: không bao che. Sai chữ.",
+          "かまわない → 構わない: không bận tâm, mặc kệ. ĐÚNG.",
+          "きらわない → 嫌わない: không ghét. Sai chữ.",
+          "さそわない → 誘わない: không rủ. Sai chữ."
+        ],
+        "vocab": [
+          { "w": "構う", "r": "かまう", "hv": "CẤU", "vi": "bận tâm, để ý; chăm sóc" },
+          { "w": "庇う", "r": "かばう", "hv": "TÍ", "vi": "che chở, bao che" },
+          { "w": "嫌う", "r": "きらう", "hv": "HIỀM", "vi": "ghét" },
+          { "w": "誘う", "r": "さそう", "hv": "DỤ", "vi": "rủ, mời" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm quen thuộc: 構いません (không sao), 構わないで (mặc kệ tôi)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "鈴木さんは、父の古くからの<u>知人</u>です。",
+      "options": ["ちにん", "しじん", "ちじん", "しにん"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh Suzuki là người quen lâu năm của bố tôi.",
+        "why": "知人 đọc là ちじん (TRI NHÂN) = người quen. 知 = ち, 人 ở đây đọc âm On じん (như 友人 ゆうじん).",
+        "options": [
+          "ちにん → không có từ này. Sai.",
+          "しじん → 詩人: nhà thơ. Sai.",
+          "ちじん → 知人: người quen. ĐÚNG.",
+          "しにん → 死人: người chết. Sai."
+        ],
+        "vocab": [
+          { "w": "知人", "r": "ちじん", "hv": "TRI NHÂN", "vi": "người quen" },
+          { "w": "古く", "r": "ふるく", "hv": "CỔ", "vi": "từ lâu, xưa" },
+          { "w": "詩人", "r": "しじん", "hv": "THI NHÂN", "vi": "nhà thơ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "人 chỉ người theo quan hệ thường đọc じん: 知人, 友人, 恋人 (こいびと là ngoại lệ kun)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "exam": "2011-07",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "下は、A社とB社の海外引越サービスの案内である。下の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Dưới đây là thông tin dịch vụ chuyển nhà ra nước ngoài của công ty A và công ty B. Chọn câu trả lời đúng nhất.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "A社・B社 海外引越サービス",
+      "text": "【A社　海外引越サービス　プラン比較】\nプラン①\n　こんな方に：荷物が多い方／手間をかけたくない方\n　荷造り：当社スタッフが行います\n　荷物量：Mサイズ10箱以上\n　料金：1箱12,000円～\nプラン②\n　こんな方に：荷物が少ない方／手間をかけたくない方\n　荷造り：当社スタッフが行います\n　荷物量：Mサイズ10箱未満\n　料金：1箱15,000円～\nプラン③\n　こんな方に：予算を抑えたい方／必要なサービスだけ利用したい方\n　荷造り：お客様ご自身で行ってください\n　荷物量：Mサイズ5箱以上\n　料金：1箱10,000円～\nプラン④\n　こんな方に：荷物が少ない方／早く荷物を受け取りたい方\n　荷造り：お客様ご自身で行ってください\n　荷物量：Mサイズ5箱まで\n　料金：1箱15,000円～\n・料金には、荷物の日本でのお引き取り、輸出入税関手続き、海外でのお届け費用を含みます。\n・プラン①は、海外での荷物のお届けの際に日本語がわかるスタッフがうかがうので安心です。\n・プラン④のみ、他のプランに追加してのご利用が可能です。\n\n【B社　海外引越サービス　プラン診断】\nお客様の状況やご希望に合わせて、最適なプランをお選びします。\n（以下はすべて、当社のスタッフが荷造りからお手伝いする「らくらくプラン」になります。）\n質問1：a 単身でのお引越 → プランI　／　b ご家族でのお引越 → 質問2へ\n質問2：a 海外生活はベテラン → プランII　／　b 海外生活ははじめて → 質問3へ\n質問3：海外で荷物を受け取るときは　a 日本語ができるスタッフでなくてもかまわない。→ プランIII　／　b 日本語ができるスタッフに来てほしい。→ プランIV\n・以上の診断結果だけではなく、各プランの詳しい内容をご確認のうえ、お申し込みください。\n・プランIII、IVをお申し込みのお客様は、当社主催「海外生活情報セミナー」にご招待いたします。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 74,
+      "passage": "p1",
+      "stem": "チャンさんは来月帰国する際に、A社を利用して引越する予定である。荷物が10箱以上あるのでなるべく安い料金で送りたいが、そのうち帰国後すぐに使うものが入った5箱は料金が少し高くてもいいので早く着くように送りたい。チャンさんはどうしたらいいか。",
+      "options": [
+        "急ぐものはプラン①で、その他のものはプラン②で送る。",
+        "急ぐものはプラン①で、その他のものはプラン③で送る。",
+        "急ぐものはプラン④で、その他のものはプラン②で送る。",
+        "急ぐものはプラン④で、その他のものはプラン③で送る。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh Chan định dùng công ty A để chuyển đồ khi về nước tháng sau. Có trên 10 thùng nên muốn gửi rẻ nhất có thể, nhưng 5 thùng đựng đồ dùng ngay sau khi về thì muốn gửi nhanh dù hơi đắt. Anh Chan nên làm gì? → Đồ gấp gửi plan ④, phần còn lại gửi plan ③.",
+        "why": "Đồ gấp (5 thùng, muốn nhận sớm): plan ④ dành cho người 'muốn nhận hàng sớm', tối đa 5 thùng, và là plan duy nhất có thể dùng thêm cùng plan khác. Phần còn lại (từ 5 thùng trở lên, muốn rẻ): plan ③ rẻ nhất (10,000 yên/thùng, từ 5 thùng).",
+        "options": [
+          "Plan ① không phải gói gửi nhanh; plan ② (15,000 yên) không rẻ; và ① không thể kết hợp thêm. Sai.",
+          "Plan ① không phải gói gửi nhanh, và chỉ ④ mới kết hợp được với gói khác. Sai.",
+          "④ cho đồ gấp đúng, nhưng ② (15,000 yên/thùng) đắt hơn ③. Sai.",
+          "④ (nhận sớm, tối đa 5 thùng) + ③ (rẻ nhất, từ 5 thùng). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "荷造り", "r": "にづくり", "hv": "HÀ TẠO", "vi": "đóng gói hành lý" },
+          { "w": "予算を抑える", "r": "よさんをおさえる", "hv": "", "vi": "tiết kiệm ngân sách" },
+          { "w": "未満", "r": "みまん", "hv": "VỊ MÃN", "vi": "dưới (không bao gồm)" },
+          { "w": "追加", "r": "ついか", "hv": "TRUY GIA", "vi": "thêm vào" }
+        ],
+        "grammar": null,
+        "evidence": "プラン④：早く荷物を受け取りたい方／Mサイズ5箱まで。プラン③：予算を抑えたい方／1箱10,000円～。・プラン④のみ、他のプランに追加してのご利用が可能です。",
+        "tip": "Bài tra cứu thông tin: đọc kỹ các dòng chú thích (・) dưới bảng – thường chứa điều kiện quyết định."
+      }
+    },
+    {
+      "num": 75,
+      "passage": "p1",
+      "stem": "会社員の有田さんは3ヶ月後に海外支店に転勤することになった。一緒に行く家族は外国での生活が初めてなので、日本語で対応してもらえて、なるべく楽なプランを利用したいと思っている。有田さんはA、B両社のどのプランを検討したらいいか。",
+      "options": [
+        "A社のプラン①とB社のプランⅢ",
+        "A社のプラン①とB社のプランIV",
+        "A社のプラン②とB社のプランⅢ",
+        "A社のプラン②とB社のプランIV"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Anh Arita, nhân viên công ty, 3 tháng nữa sẽ chuyển công tác sang chi nhánh nước ngoài. Gia đình đi cùng lần đầu sống ở nước ngoài nên muốn dùng gói được hỗ trợ bằng tiếng Nhật và càng nhẹ nhàng càng tốt. Anh nên xem xét gói nào của hai công ty? → Gói ① của A và gói III của B (theo đáp án chính thức).",
+        "why": "Công ty A: chỉ plan ① có nhân viên biết tiếng Nhật đến giao hàng ở nước ngoài, và nhân viên công ty đóng gói hộ (楽) → plan ①. Công ty B: chuyển cả gia đình → lần đầu sống ở nước ngoài → muốn nhân viên nói tiếng Nhật; đáp án chính thức là plan III (tất cả gói của B đều là 'らくらくプラン' nhân viên đóng gói hộ).",
+        "options": [
+          "A社① (nhân viên biết tiếng Nhật, đóng gói hộ) + B社III. ĐÚNG (theo đáp án chính thức).",
+          "A社① + B社IV – theo sơ đồ trong bản đề này, nhánh 'muốn nhân viên nói tiếng Nhật' dẫn tới IV; tuy nhiên đáp án chính thức là 1. Sai (theo đáp án).",
+          "A社② không có ghi chú nhân viên tiếng Nhật. Sai.",
+          "A社② không có ghi chú nhân viên tiếng Nhật. Sai."
+        ],
+        "vocab": [
+          { "w": "転勤", "r": "てんきん", "hv": "CHUYỂN CẦN", "vi": "chuyển công tác" },
+          { "w": "支店", "r": "してん", "hv": "CHI ĐIẾM", "vi": "chi nhánh" },
+          { "w": "単身", "r": "たんしん", "hv": "ĐƠN THÂN", "vi": "một mình" },
+          { "w": "検討", "r": "けんとう", "hv": "KIỂM THẢO", "vi": "xem xét, cân nhắc" }
+        ],
+        "grammar": null,
+        "evidence": "・プラン①は、海外での荷物のお届けの際に日本語がわかるスタッフがうかがうので安心です。／B社：b ご家族でのお引越 → b 海外生活ははじめて → 海外で荷物を受け取るときは…日本語ができるスタッフ…",
+        "tip": "Lưu ý: trong bản PDF này, sơ đồ của B社 có vẻ đặt nhãn 'b 日本語ができるスタッフに来てほしい' dẫn tới プランIV, mâu thuẫn với đáp án chính thức (III). Có thể bản gốc của đề ghi nhãn ngược lại. Phần chắc chắn là A社 phải chọn プラン① (loại 3, 4)."
+      }
+    }
+  ]
+}

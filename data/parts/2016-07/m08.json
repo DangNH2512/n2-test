@@ -1,0 +1,160 @@
+{
+  "exam": "2016-07",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các vế cho đúng và chọn vế rơi vào vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "一人暮らしを始めたころは、料理も洗濯もすべて自分でするのが大変で、これまでずっと＿＿＿ ＿＿＿ ★ ＿＿＿。",
+      "options": ["環境にいたか", "毎日だった", "どんなに恵まれた", "と感じさせられる"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hồi mới bắt đầu sống một mình, việc tự làm hết nấu ăn lẫn giặt giũ thật vất vả, ngày nào tôi cũng bị buộc phải nhận ra rằng từ trước đến giờ mình đã sống trong môi trường được ưu đãi biết bao.",
+        "why": "Thứ tự đúng: これまでずっと [3 どんなに恵まれた] [1 環境にいたか] [4 と感じさせられる] [2 毎日だった]。 → Vị trí ★ (thứ 3) là 4.",
+        "options": [
+          "環境にいたか → vị trí 2: どんなに恵まれた環境にいたか (đã ở môi trường ưu đãi biết bao).",
+          "毎日だった → vị trí 4, đứng cuối trước 「。」.",
+          "どんなに恵まれた → vị trí 1, どんなに đi với か ở cuối mệnh đề.",
+          "と感じさせられる → vị trí ★ (thứ 3): ~と感じさせられる毎日. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "恵まれる", "r": "めぐまれる", "hv": "HUỆ", "vi": "được ưu đãi, may mắn" },
+          { "w": "環境", "r": "かんきょう", "hv": "HOÀN CẢNH", "vi": "môi trường" },
+          { "w": "一人暮らし", "r": "ひとりぐらし", "hv": "NHẤT NHÂN MỘ", "vi": "sống một mình" }
+        ],
+        "grammar": {
+          "pattern": "どんなに～か / 使役受身 (感じさせられる)",
+          "meaning": "~ biết bao (cảm thán gián tiếp) / bị buộc phải cảm thấy, không khỏi cảm thấy",
+          "form": "どんなに + 普通形 + か; V使役受身: 感じる → 感じさせられる",
+          "example": "親のありがたさをしみじみ感じさせられた。"
+        },
+        "evidence": null,
+        "tip": "どんなに… luôn chờ か phía sau → ghép どんなに恵まれた + 環境にいたか trước."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "このお菓子はとても簡単に作れるから初心者でも失敗する＿＿＿ ＿＿＿ ★ ＿＿＿友人の話を聞いて、作ってみようと思った。",
+      "options": ["ことは", "という", "ない", "まず"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nghe bạn nói rằng loại bánh này làm rất dễ nên ngay cả người mới bắt đầu cũng hầu như không thể thất bại, tôi đã định thử làm.",
+        "why": "Thứ tự đúng: 失敗する [1 ことは] [4 まず] [3 ない] [2 という] 友人の話。 → Vị trí ★ (thứ 3) là 3.",
+        "options": [
+          "ことは → vị trí 1: 失敗することは.",
+          "という → vị trí 4: ~という友人の話 (lời bạn nói rằng ~).",
+          "ない → vị trí ★ (thứ 3): まずない. ĐÚNG.",
+          "まず → vị trí 2: まず＋ない = hầu như chắc chắn không."
+        ],
+        "vocab": [
+          { "w": "初心者", "r": "しょしんしゃ", "hv": "SƠ TÂM GIẢ", "vi": "người mới bắt đầu" },
+          { "w": "失敗", "r": "しっぱい", "hv": "THẤT BẠI", "vi": "thất bại" },
+          { "w": "お菓子", "r": "おかし", "hv": "QUẢ TỬ", "vi": "bánh kẹo" }
+        ],
+        "grammar": {
+          "pattern": "まず～ない",
+          "meaning": "hầu như chắc chắn không ~",
+          "form": "まず + Vない / Vることはまずない",
+          "example": "この時間なら、道が混むことはまずない。"
+        },
+        "evidence": null,
+        "tip": "～という + N (話・噂・意見): という luôn đứng ngay trước danh từ 友人の話."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "近所のスーパーの隣にはクリーニング屋がある。スーパーもクリーニング屋も私が＿＿＿ ＿＿＿ ★ ＿＿＿助かる。",
+      "options": ["開いていて", "買い物するついでに", "預けた服を取りに行けるのが", "仕事から帰る時間でも"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Bên cạnh siêu thị gần nhà có tiệm giặt là. Cả siêu thị lẫn tiệm giặt đều mở cửa ngay cả vào giờ tôi đi làm về, nên tiện ghé mua sắm thì lấy luôn quần áo đã gửi, thật là đỡ.",
+        "why": "Thứ tự đúng: 私が [4 仕事から帰る時間でも] [1 開いていて] [2 買い物するついでに] [3 預けた服を取りに行けるのが] 助かる。 → Vị trí ★ (thứ 3) là 2.",
+        "options": [
+          "開いていて → vị trí 2: (giờ đó) vẫn mở cửa.",
+          "買い物するついでに → vị trí ★ (thứ 3). ĐÚNG.",
+          "預けた服を取りに行けるのが → vị trí 4: chủ ngữ của 助かる (việc ~ thì đỡ quá).",
+          "仕事から帰る時間でも → vị trí 1: nối với 私が (私が仕事から帰る)."
+        ],
+        "vocab": [
+          { "w": "ついでに", "r": "ついでに", "hv": "", "vi": "nhân tiện, tiện thể" },
+          { "w": "預ける", "r": "あずける", "hv": "DỰ", "vi": "gửi (đồ)" },
+          { "w": "助かる", "r": "たすかる", "hv": "TRỢ", "vi": "được giúp, đỡ quá" }
+        ],
+        "grammar": {
+          "pattern": "Vるついでに",
+          "meaning": "nhân tiện làm V thì làm luôn ~",
+          "form": "V辞書形/Vた/Nの + ついでに",
+          "example": "散歩のついでに、郵便局に寄った。"
+        },
+        "evidence": null,
+        "tip": "～のが助かる: phần ngay trước 助かる phải là danh từ hóa (～のが)."
+      }
+    },
+    {
+      "num": 48,
+      "passage": null,
+      "stem": "薬を正しく＿＿＿ ＿＿＿ ★ ＿＿＿状態を悪化させてしまう危険もある。",
+      "options": ["効果が", "飲まないと", "得られるはずの", "得られないだけでなく"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nếu không uống thuốc đúng cách thì không những không đạt được hiệu quả đáng lẽ phải có, mà còn có nguy cơ làm bệnh tình xấu đi.",
+        "why": "Thứ tự đúng: 薬を正しく [2 飲まないと] [3 得られるはずの] [1 効果が] [4 得られないだけでなく] 状態を悪化させてしまう…。 → Vị trí ★ (thứ 3) là 1.",
+        "options": [
+          "効果が → vị trí ★ (thứ 3): 得られるはずの効果が. ĐÚNG.",
+          "飲まないと → vị trí 1: 正しく飲まないと (nếu không uống đúng).",
+          "得られるはずの → vị trí 2: bổ nghĩa cho 効果.",
+          "得られないだけでなく → vị trí 4: nối với vế sau '…危険もある' (も tương ứng だけでなく)."
+        ],
+        "vocab": [
+          { "w": "効果", "r": "こうか", "hv": "HIỆU QUẢ", "vi": "hiệu quả" },
+          { "w": "悪化", "r": "あっか", "hv": "ÁC HÓA", "vi": "xấu đi, trở nặng" },
+          { "w": "危険", "r": "きけん", "hv": "NGUY HIỂM", "vi": "nguy hiểm, nguy cơ" }
+        ],
+        "grammar": {
+          "pattern": "～だけでなく…も",
+          "meaning": "không chỉ ~ mà còn …",
+          "form": "普通形 + だけでなく, …も",
+          "example": "彼は英語だけでなく、中国語も話せる。"
+        },
+        "evidence": null,
+        "tip": "～はずの + N: はず bổ nghĩa cho danh từ bằng の."
+      }
+    },
+    {
+      "num": 49,
+      "passage": null,
+      "stem": "いつ行っても長い行列ができているラーメン屋なのに＿＿＿ ＿＿＿ ★ ＿＿＿だ。",
+      "options": ["行ったから", "何時ごろがすいているか", "事前に確認してから", "今回あまり並ばないで済んだのは"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Dù là quán ramen lúc nào đến cũng có hàng dài, việc lần này tôi không phải xếp hàng mấy là vì đã kiểm tra trước khoảng mấy giờ thì vắng rồi mới đi.",
+        "why": "Thứ tự đúng: ラーメン屋なのに [4 今回あまり並ばないで済んだのは] [2 何時ごろがすいているか] [3 事前に確認してから] [1 行ったから] だ。 → Vị trí ★ (thứ 3) là 3.",
+        "options": [
+          "行ったから → vị trí 4: ~のは…行ったからだ (lý do).",
+          "何時ごろがすいているか → vị trí 2: tân ngữ của 確認する.",
+          "事前に確認してから → vị trí ★ (thứ 3). ĐÚNG.",
+          "今回あまり並ばないで済んだのは → vị trí 1: chủ đề '~のは', đối lập với なのに."
+        ],
+        "vocab": [
+          { "w": "行列", "r": "ぎょうれつ", "hv": "HÀNH LIỆT", "vi": "hàng người xếp" },
+          { "w": "事前に", "r": "じぜんに", "hv": "SỰ TIỀN", "vi": "trước, sự trước" },
+          { "w": "済む", "r": "すむ", "hv": "TẾ", "vi": "xong, giải quyết được" }
+        ],
+        "grammar": {
+          "pattern": "～のは…からだ / Vないで済む",
+          "meaning": "việc ~ là vì … / không phải làm V mà vẫn xong",
+          "form": "普通形 + のは + 理由 + からだ; Vない + で済む",
+          "example": "遅刻したのは、電車が止まったからだ。"
+        },
+        "evidence": null,
+        "tip": "Câu kết thúc bằng 'だ' + có 'から' trong lựa chọn → nghĩ đến mẫu ～のは～からだ."
+      }
+    }
+  ]
+}

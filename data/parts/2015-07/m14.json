@@ -1,0 +1,80 @@
+{
+  "exam": "2015-07",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "下は、「バーベキュー会場開設のお知らせ」である。下の問いに対する答えとして、最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Dưới đây là 'Thông báo mở khu nướng BBQ'. Chọn câu trả lời đúng nhất cho các câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "バーベキュー会場開設のお知らせ",
+      "text": "バーベキュー会場開設のお知らせ\n南の丘公園内で、本格的なバーベキューが楽しめます\n\n【開設期間】４月１日～１１月３０日\n【利用時間】① 10：30～14：30（４時間）　② 15：00～19：30（４時間）\n【利用料金】個人：1,200円（１名分）\n● 施設および調理器具使用料となります。\n● バーベキューの材料は、各自ご持参いただくか、会場内で下記の＜バーベキューセット＞をご購入ください。\n● 飲み物も自由にお持ち込みいただけます。会場内でも販売しております。\n● 利用時間①②を続けて利用される場合、利用料金は2回分必要となります。\n＜団体割引＞団体でのご利用は割引料金が適用されます。20名以上：1,000円（１名分）\n\n＜バーベキューセット＞\nバーベキューに必要な材料がそろったお得なセットです。以下の２種類のメニューからいずれかをお選びください。\nボリュームセット：2,000円（１名分）　数種類のお肉と野菜がたっぷり\nミックスセット：2,400円（１名分）　お肉と魚介類の両方が楽しめる\n\n【利用方法】\n● ホームページ、またはお電話で、事前にご予約ください。\n● ご利用日の1か月前から先着順でご予約を受け付けます。団体でご予約のお客様は、2か月前から優先予約が可能です。\n● 空きがある場合のみ、当日のご利用も可能です。\n● 料金は、ご利用日当日、会場でお支払いください。\n\n【注意】\n（１）お客様が調理器具を持ち込むことはできません。\n（２）花火やカラオケなど他の利用者や近隣の住民の方への迷惑となる行為は禁止です。\n（３）屋外施設のため、強風などの悪天候により営業を中止する場合があります。\n\n南の丘公園バーベキュー予約センター\nホームページ：http://www.mimaminooka-koen.com/bbq　電話：0558-055-5555"
+    }
+  ],
+  "questions": [
+    {
+      "num": 74,
+      "passage": "p1",
+      "stem": "チェさんは、職場の同僚とバーベキューに行くことになった。費用を調べるように頼まれたので、日時と人数などを聞いてメモをした。費用は一人いくらかかるか。\n\nチェさんのメモ\n● 11月15日（日）10:30～14:30\n● 参加者 25人\n● ボリュームセット 25人分\n● 飲み物は会社から持参",
+      "options": [
+        "利用料金1,000円のみ",
+        "利用料金1,200円のみ",
+        "利用料金1,000円とバーベキューセット代2,000円",
+        "利用料金1,200円とバーベキューセット代2,000円"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh Che sẽ đi BBQ với đồng nghiệp. Mỗi người tốn bao nhiêu? → Phí sử dụng 1.000 yên và tiền set BBQ 2.000 yên.",
+        "why": "25 người ≥ 20 người → được giảm giá đoàn: phí sử dụng 1.000 yên/người. Chỉ dùng khung giờ ① (10:30–14:30) nên trả 1 lần. Đặt Volume set: 2.000 yên/người. Đồ uống mang theo nên không tốn thêm. → 1.000 + 2.000 yên.",
+        "options": [
+          "Thiếu tiền set BBQ (có đặt Volume set). Sai.",
+          "Sai giá (đoàn 25 người được 1.000 yên) và thiếu tiền set. Sai.",
+          "1.000 yên phí sử dụng + 2.000 yên Volume set. ĐÚNG.",
+          "Không áp dụng giá đoàn (1.200 yên là giá cá nhân). Sai."
+        ],
+        "vocab": [
+          { "w": "団体割引", "r": "だんたいわりびき", "hv": "ĐOÀN THỂ CÁT DẪN", "vi": "giảm giá theo đoàn" },
+          { "w": "適用", "r": "てきよう", "hv": "THÍCH DỤNG", "vi": "áp dụng" },
+          { "w": "持参", "r": "じさん", "hv": "TRÌ THAM", "vi": "mang theo" },
+          { "w": "費用", "r": "ひよう", "hv": "PHÍ DỤNG", "vi": "chi phí" },
+          { "w": "同僚", "r": "どうりょう", "hv": "ĐỒNG LIÊU", "vi": "đồng nghiệp" }
+        ],
+        "grammar": null,
+        "evidence": "＜団体割引＞団体でのご利用は割引料金が適用されます。20名以上：1,000円（１名分）／ボリュームセット：2,000円（１名分）",
+        "tip": "Bài tính tiền: kiểm tra số người (giảm giá đoàn), số khung giờ, đồ mang theo."
+      }
+    },
+    {
+      "num": 75,
+      "passage": "p1",
+      "stem": "この施設を利用する際に気をつけなければならないことは、次のうちどれか。",
+      "options": [
+        "飲み物と調理器具は、各自が持参する。",
+        "10:30から19:00まで利用する場合、2回の利用料金を払う。",
+        "団体で利用する場合、予約は2か月前にしておく。",
+        "予約と料金の支払いは、利用の前日までに済ませておく。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Khi sử dụng cơ sở này cần chú ý điều gì? → Nếu dùng từ 10:30 đến 19:00 thì phải trả phí sử dụng 2 lần.",
+        "why": "10:30–19:00 trải qua cả khung ① (10:30–14:30) và khung ② (15:00–19:30). Thông báo ghi: dùng liên tiếp ① và ② thì phí sử dụng tính 2 lần → đáp án 2.",
+        "options": [
+          "Đồ uống được mang theo, nhưng KHÔNG được mang dụng cụ nấu (注意(1)). Sai.",
+          "Dùng 10:30–19:00 phải trả phí 2 lần. ĐÚNG.",
+          "Đoàn 'có thể' đặt ưu tiên từ 2 tháng trước, không bắt buộc phải đặt đúng 2 tháng trước. Sai.",
+          "Tiền trả tại hội trường vào ngày sử dụng, không phải trước một ngày. Sai."
+        ],
+        "vocab": [
+          { "w": "調理器具", "r": "ちょうりきぐ", "hv": "ĐIỀU LÝ KHÍ CỤ", "vi": "dụng cụ nấu ăn" },
+          { "w": "持ち込む", "r": "もちこむ", "hv": "TRÌ", "vi": "mang vào" },
+          { "w": "優先予約", "r": "ゆうせんよやく", "hv": "ƯU TIÊN DỰ ƯỚC", "vi": "đặt chỗ ưu tiên" },
+          { "w": "先着順", "r": "せんちゃくじゅん", "hv": "TIÊN TRƯỚC THUẬN", "vi": "theo thứ tự ai đến trước" },
+          { "w": "当日", "r": "とうじつ", "hv": "ĐƯƠNG NHẬT", "vi": "ngày hôm đó" }
+        ],
+        "grammar": null,
+        "evidence": "● 利用時間①②を続けて利用される場合、利用料金は2回分必要となります。",
+        "tip": "Bẫy 'có thể' (可能です) ≠ 'phải' (しておく). Đọc kỹ mục 注意 (cấm mang dụng cụ nấu)."
+      }
+    }
+  ]
+}

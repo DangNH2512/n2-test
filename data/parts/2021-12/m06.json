@@ -1,0 +1,164 @@
+{
+  "exam": "2021-12",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn câu dùng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "栽培",
+      "options": [
+        "両親は牧場で牛を<u>栽培</u>して、チーズを作っています。",
+        "私は今、生まれて半年の赤ちゃんを<u>栽培</u>しています。",
+        "庭で見つけた虫の卵を<u>栽培</u>して、観察日記を書いた。",
+        "この畑では、農薬を使わずに野菜を<u>栽培</u>しています。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Ở cánh đồng này, chúng tôi trồng rau mà không dùng thuốc trừ sâu.",
+        "why": "栽培 (さいばい) = trồng trọt, chỉ dùng cho cây cối, rau, hoa. Chỉ câu 4 nói về rau.",
+        "options": [
+          "Nuôi bò → phải dùng 飼育 (しいく) / 飼う. Sai.",
+          "Nuôi con nhỏ → 育てる / 育児. Sai.",
+          "Ấp/nuôi trứng côn trùng → 飼育する / 育てる. Sai.",
+          "Trồng rau không dùng thuốc trừ sâu → 野菜を栽培する. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "栽培", "r": "さいばい", "hv": "TÀI BỒI", "vi": "trồng trọt" },
+          { "w": "飼育", "r": "しいく", "hv": "TỰ DỤC", "vi": "chăn nuôi" },
+          { "w": "農薬", "r": "のうやく", "hv": "NÔNG DƯỢC", "vi": "thuốc trừ sâu, nông dược" },
+          { "w": "牧場", "r": "ぼくじょう", "hv": "MỤC TRƯỜNG", "vi": "trang trại chăn nuôi" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Thực vật → 栽培; động vật → 飼育; người → 育てる・育児."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "急激",
+      "options": [
+        "イベントの開催日が近くなり、準備が<u>急激</u>に進められている。",
+        "新しい駅ができて、市の人口が<u>急激</u>に増加している。",
+        "このパンは非常に人気があり、朝8時に開店すると<u>急激</u>に売れていく。",
+        "松田選手が現れると、ファンの人たちが<u>急激</u>に取り囲んだ。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Có nhà ga mới nên dân số thành phố đang tăng đột biến.",
+        "why": "急激 (きゅうげき) = (thay đổi) đột ngột và mạnh mẽ, dùng cho sự biến đổi của số lượng/tình trạng: 急激に増加・減少・変化する.",
+        "options": [
+          "Chuẩn bị được tiến hành gấp → 急ピッチで / 急いで. Sai.",
+          "Dân số tăng đột biến → 急激に増加. ĐÚNG.",
+          "Bánh bán hết rất nhanh → どんどん / 次々に売れる. Sai.",
+          "Fan vây quanh ngay lập tức → すぐに / 一斉に取り囲む. Sai."
+        ],
+        "vocab": [
+          { "w": "急激", "r": "きゅうげき", "hv": "CẤP KÍCH", "vi": "đột ngột, dữ dội" },
+          { "w": "増加", "r": "ぞうか", "hv": "TĂNG GIA", "vi": "tăng thêm" },
+          { "w": "取り囲む", "r": "とりかこむ", "hv": "", "vi": "vây quanh" },
+          { "w": "開催", "r": "かいさい", "hv": "KHAI THÔI", "vi": "tổ chức (sự kiện)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "急激 đi với từ chỉ biến động: 増える、減る、変わる、上昇、低下."
+      }
+    },
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "漏れる",
+      "options": [
+        "ジュースを注ぎすぎて、コップから<u>漏れて</u>しまった。",
+        "転んでしまって、ひざから血が<u>漏れて</u>きた。",
+        "水道管に穴があいているのか、水が<u>漏れて</u>きている。",
+        "悲しい映画を見たせいで、涙が<u>漏れて</u>きた。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Có lẽ ống nước bị thủng lỗ nên nước đang rò rỉ ra.",
+        "why": "漏れる (もれる) = rò rỉ, lọt ra qua khe hở/lỗ thủng (nước, khí, ánh sáng, thông tin). Câu 3: nước rò qua lỗ ống.",
+        "options": [
+          "Rót quá đầy làm tràn cốc → あふれる (溢れる). Sai.",
+          "Máu chảy ra từ đầu gối → 出る / 流れる. Sai.",
+          "Nước rò rỉ từ lỗ thủng ống nước → 漏れる. ĐÚNG.",
+          "Nước mắt trào ra → 出る / あふれる / こぼれる. Sai."
+        ],
+        "vocab": [
+          { "w": "漏れる", "r": "もれる", "hv": "LẬU", "vi": "rò rỉ, lọt ra" },
+          { "w": "溢れる", "r": "あふれる", "hv": "DẬT", "vi": "tràn ra" },
+          { "w": "水道管", "r": "すいどうかん", "hv": "THỦY ĐẠO QUẢN", "vi": "ống nước" },
+          { "w": "注ぐ", "r": "そそぐ", "hv": "CHÚ", "vi": "rót" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ガス漏れ (rò khí ga), 情報漏れ (lộ thông tin): 漏れる = lọt qua khe hở."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "傾向",
+      "options": [
+        "ファッション誌によると、今年は黄色が<u>傾向</u>するそうだ。",
+        "最近では、家族がばらばらに食事をする<u>傾向</u>がある。",
+        "姉は日本文学の研究に<u>傾向</u>している。",
+        "この坂は<u>傾向</u>がきつくて、自転車だとつらい。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Gần đây có xu hướng các thành viên gia đình ăn riêng lẻ.",
+        "why": "傾向 (けいこう) = khuynh hướng, xu hướng; là danh từ, dùng 「～傾向がある／～傾向にある」, không dùng 傾向する.",
+        "options": [
+          "Màu vàng thịnh hành → 流行する (りゅうこう). Sai.",
+          "Có xu hướng ăn riêng → 傾向がある. ĐÚNG.",
+          "Dốc sức nghiên cứu → 熱中している / 打ち込んでいる. Sai.",
+          "Độ dốc lớn → 傾斜 (けいしゃ) / 勾配 (こうばい). Sai."
+        ],
+        "vocab": [
+          { "w": "傾向", "r": "けいこう", "hv": "KHUYNH HƯỚNG", "vi": "xu hướng, khuynh hướng" },
+          { "w": "流行", "r": "りゅうこう", "hv": "LƯU HÀNH", "vi": "thịnh hành, mốt" },
+          { "w": "傾斜", "r": "けいしゃ", "hv": "KHUYNH TÀ", "vi": "độ nghiêng, dốc" },
+          { "w": "ばらばら", "r": "ばらばら", "hv": "", "vi": "rời rạc, mỗi người một nơi" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "傾向 không đi với する. Dạng hay gặp: 増加傾向にある (đang có xu hướng tăng)."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "さっさと",
+      "options": [
+        "いつまでもテレビを見てないで、<u>さっさと</u>宿題をしなさい。",
+        "雷が鳴り出したと思ったら、<u>さっさと</u>雨が降り出した。",
+        "<u>さっさと</u>着くので、もう少しそこで待っていてください。",
+        "買ってまだ一週間なのに、<u>さっさと</u>壊れた。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Đừng xem tivi mãi nữa, mau làm bài tập đi.",
+        "why": "さっさと = (làm việc gì đó) nhanh gọn, mau lên — dùng cho hành động có chủ ý của con người, hay dùng trong câu thúc giục.",
+        "options": [
+          "Mau làm bài tập đi → さっさと宿題をしなさい. ĐÚNG.",
+          "Mưa đổ xuống ngay → すぐに / たちまち (hiện tượng tự nhiên, không chủ ý). Sai.",
+          "Sắp tới nơi → もうすぐ / じきに. Sai.",
+          "Mới mua đã hỏng → すぐ壊れた / もう壊れた. Sai."
+        ],
+        "vocab": [
+          { "w": "さっさと", "r": "さっさと", "hv": "", "vi": "nhanh gọn, mau lẹ" },
+          { "w": "雷", "r": "かみなり", "hv": "LÔI", "vi": "sấm sét" },
+          { "w": "たちまち", "r": "たちまち", "hv": "", "vi": "ngay lập tức, thoắt cái" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "さっさと = hành động có ý chí của người; hiện tượng/đồ vật thì dùng すぐ・たちまち."
+      }
+    }
+  ]
+}

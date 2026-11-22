@@ -1,0 +1,292 @@
+{
+  "exam": "2022-12",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（１）から（４）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn từ (1) đến (4) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "以下は、スポーツの指導者に向けて書かれた文章である。\n\n　物事は、タイミングがすべてです。同じことを伝えるにしても、タイミングによって効果が変わります。いろいろなタイミングの種類がありますが、まず、初めて会ったときの相手に与える印象に気をつけましょう。相手に自分の第一印象を与えるチャンスは最初の一回だけです。話す相手が誰であろうと（注1）、あなたのメッセージの中で最初の一分が一番重要なのです。初めて指導する参加者に会うことがわかっているときには、最初に何を話すのかをよく考えて計画することはとても効果的です。\n　また、メッセージは即座に送ることです。特にフィードバック（注2）をする上で、選手にすぐにその場で伝えるほうが上達を早めます。（中略）\n　しかし問題が起こって、自分が感情的になり、生産的にメッセージを伝えられないと判断したときは、少し間を置く必要もあるでしょう。このとき、相手の感情がどうであるか察知する（注3）ことが重要です。大事な試合を落とした直後は選手も興奮、落胆（注4）などさまざまな感情が入り交じっていて、生産的なパフォーマンス（注5）に関する話し合いは不可能なので、一日おいて（注6）話すほうがよいでしょう。こういうときは、人の話を聞いたり、批判を受け止める状態ではないので、いくら生産的なメッセージを用意してもまったく効果がありません。\n（注1）誰であろうと：誰であっても\n（注2）フィードバック：ここでは、動き方に対する指摘\n（注3）察知する：感じ取る\n（注4）落胆：失望\n（注5）パフォーマンス：ここでは、動き方\n（注6）一日おいて：一日たってから"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "　自慢ではないが、小中学時代、私はかなりの読書家だったと思う。学年でも上位に入るほうだったと思う。しかし、さあ読書感想文を書けと言われても、いっこうに書けないのだ。自分でも不思議だった。どうして、こんなに本を読んでいるのに書けないのか、わからなかった。\n　つい先日、その永年の疑問が氷解した（注1）。私は、読書感想文が書けるような本を読んでいなかったのだ。といって、大人向けの妖しげな本ばかりだったわけではない。私が主に読んでいたのは、汽車の時刻表、地図帳、人名事典、旅行案内、百科事典、美術写真集、植物図鑑などの類（注2）であって、それらは、読書感想文を書けない種類の本だったのだ。\n　世の中には、読むための本と、調べるための本がある。読むための本は最初から最後まで読まなければならない。たいてい、一人の人間が最初から最後まで書いている。一度退屈したら、挫折する（注3）しかない。小説や読み物はそのようなものだ。そうして、それが読書感想文の扱える典型的な本なのだ。私が読んでいたのは、何か疑問があったときに読む本で、必要なページしか読まない。退屈する暇がない。\n（中略）\n　世に読書嫌いと言われる子どもたちが多い。親は必死になって、いわゆる（注4）読み物の類を買い与える。面白がるのならそれでもいいけれど、そんな本はつまらない、と言う子がいてもおかしくはない。それでも、恐竜カタログは好きかもしれない。歌の本なら読むかもしれない。\n　本の形をしているものに親しむことが大切なのではなかろうか（注5）。\n（注1）氷解する：ここでは、解決する\n（注2）類：種類のもの\n（注3）挫折する：ここでは、あきらめる\n（注4）いわゆる：一般的に言われている\n（注5）ではなかろうか：～ではないだろうか"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "　映像作品においては、作者が意識していることや認識（注1）していることが、見る者に必ずそのまま伝達される（注2）わけではない。会話のように双方向的なやりとりであるなら、自分が言おうとすることを相手が理解できなかった場合には質問が戻ってくる。ところが映像による表現は、印刷物がそうであるのと同じく、基本的に一方向的な伝達である。ゆえに（注3）映像の作者は、目の前にいない受け手がどのように理解するかを考えて、制作を行う必要がある。\n　作者は、自らの思考や意志のもとに作品を加工（注4）していくが、そこであつかう内容を作者自身は十分に知っているため、説明の不足や整理の不十分さに気づかない場合がある。作品のわかりにくさや混乱は、見る者に不快さやつまらなさを感じさせ、作者の思考や意志を理解することを妨げるばかりでプラスに作用（注5）することは少ない。この問題を解決するためには、見る者はなにも知らない状態で見ているという認識を、作者はもつべきである。\n　しかし相手がなにも知らないからといって、すべてを説明しなければならないわけでもない。（中略）細かすぎる地図が必ずしもわかりやすい地図ではないのと同じで、必要なことだけを整理して伝えるべきなのだ。自分の映像作品に含まれている情報、たとえばひとつのショット（注6）の画像がどのような意味や情報を含んでいるか、あるいは含むべきかについて注意を払い、整理しておく。これは、上手に話をしようとするときに、言葉を選び、話の順番を考えることに似ている。\n（注1）認識する：理解する\n（注2）伝達する：伝える\n（注3）ゆえに：したがって\n（注4）加工する：ここでは、作り上げる\n（注5）作用する：働く\n（注6）ショット：場面"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "　そもそも（注1）大人が「夢」を子どもに問うとき、「高い目標に向かって突き進め。そして必ず成功しろ」という期待を押しつけている感じがします。「夢＝成功すること」になってしまっている。そういう大人の意図を、子どもは敏感に察知します（注2）。高い目標を目指すことはいいことですが、そればかりでは子どもは疲れてしまいます。（中略）\n　本来、「夢」という言葉は、もっと広い意味のはず。「職業」だけでなく、「どんな人間になりたいか」「どんな暮らしをしたいか」という願いも含んでいます。「友だちを裏切らない人間になりたい」「自然に囲まれて暮らしたい」といった夢だっていいのです。そのほうがずっと具体的で、その子が今持っている思いや願いや時には（注3）悩みを含んでいることだってあります。\n　「夢は何？」という問いへの子どもの答えにもっと耳を傾け、深く掘り下げて語り合いましょう。子どもが語る「夢」に含まれる、小さなつぶやきや（注4）、表に出てきづらい願いを、無視しないでください。たとえば、「子どもを産んで、幸せな家庭を築きたい」という子どもの夢には、今の家庭への不満や将来への不安が隠れているかも知れません。親子で夢について深く語り合うことで、子どもの気持ちがよくわかってきます。子どもの答えの背景（注5）にどんな思いや願いやあこがれが込められているのかを、読み取ってあげませんか。\n（注1）そもそも：ここでは、普通\n（注2）察知する：気づく\n（注3）時には：ある時は\n（注4）つぶやき：ここでは、思い\n（注5）背景：ここでは、後ろ"
+    }
+  ],
+  "questions": [
+    {
+      "num": 57,
+      "passage": "p1",
+      "stem": "筆者によると、初めて選手に会うときに大切なことは何か。",
+      "options": [
+        "指導の計画を立てておく。",
+        "最初に話すことを考えておく。",
+        "相手のことをよく調べておく。",
+        "一分で話せるように準備しておく。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo tác giả, điều quan trọng khi gặp vận động viên lần đầu là gì? → Suy nghĩ trước điều sẽ nói đầu tiên.",
+        "why": "Tác giả nói ấn tượng đầu tiên chỉ có một lần, phút đầu tiên quan trọng nhất, nên khi biết sắp gặp người mình hướng dẫn lần đầu thì hãy suy nghĩ và lên kế hoạch xem sẽ nói gì đầu tiên.",
+        "options": [
+          "Sai: điều cần lên kế hoạch là 'nói gì đầu tiên', không phải kế hoạch huấn luyện.",
+          "Suy nghĩ trước điều sẽ nói đầu tiên. ĐÚNG.",
+          "Sai: bài không nói tìm hiểu kỹ về đối phương.",
+          "Sai: 'một phút đầu quan trọng nhất' không có nghĩa là chuẩn bị nói trong một phút."
+        ],
+        "vocab": [
+          { "w": "指導者", "r": "しどうしゃ", "hv": "CHỈ ĐẠO GIẢ", "vi": "người hướng dẫn, huấn luyện viên" },
+          { "w": "第一印象", "r": "だいいちいんしょう", "hv": "ĐỆ NHẤT ẤN TƯỢNG", "vi": "ấn tượng đầu tiên" },
+          { "w": "効果的", "r": "こうかてき", "hv": "HIỆU QUẢ ĐÍCH", "vi": "hiệu quả" }
+        ],
+        "grammar": null,
+        "evidence": "初めて指導する参加者に会うことがわかっているときには、最初に何を話すのかをよく考えて計画することはとても効果的です。",
+        "tip": "Bẫy: phương án 4 mượn chữ 「一分」 trong bài nhưng sai ý."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p1",
+      "stem": "筆者によると、選手が大事な試合に負けたときは、指導者はどうしたらよいか。",
+      "options": [
+        "選手に役立つメッセージをすぐに伝える。",
+        "選手を批判せず、感情を受け入れてなぐさめる。",
+        "時間をあけてから、選手と話し合いをする。",
+        "その場で問題点を指摘したあと、選手自身に考えさせる。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Theo tác giả, khi vận động viên thua trận quan trọng, người huấn luyện nên làm gì? → Để một thời gian rồi mới nói chuyện với vận động viên.",
+        "why": "Ngay sau trận thua quan trọng, cảm xúc của VĐV đang hỗn loạn nên không thể thảo luận hiệu quả; tác giả khuyên nên đợi một ngày rồi mới nói (一日おいて話すほうがよい).",
+        "options": [
+          "Sai: lúc đó dù chuẩn bị thông điệp hữu ích đến đâu cũng hoàn toàn vô hiệu.",
+          "Sai: bài không nói đến việc an ủi.",
+          "Để một thời gian rồi mới nói chuyện. ĐÚNG.",
+          "Sai: 'ngay tại chỗ' là nguyên tắc chung cho phản hồi, nhưng không áp dụng sau trận thua quan trọng."
+        ],
+        "vocab": [
+          { "w": "落胆", "r": "らくたん", "hv": "LẠC ĐẢM", "vi": "thất vọng, nản lòng" },
+          { "w": "興奮", "r": "こうふん", "hv": "HƯNG PHẤN", "vi": "kích động, hưng phấn" },
+          { "w": "即座に", "r": "そくざに", "hv": "TỨC TỌA", "vi": "ngay lập tức" },
+          { "w": "批判", "r": "ひはん", "hv": "PHÊ PHÁN", "vi": "phê bình" }
+        ],
+        "grammar": null,
+        "evidence": "大事な試合を落とした直後は…生産的なパフォーマンスに関する話し合いは不可能なので、一日おいて話すほうがよいでしょう。",
+        "tip": "試合を落とす = thua trận. 一日おいて ≈ 時間をあけて."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p2",
+      "stem": "筆者によると、読書感想文が書ける本とはどのような本か。",
+      "options": [
+        "子どもには理解するのが難しい本。",
+        "子どもでも退屈しないで読める本。",
+        "最後まで読む必要がある本。",
+        "疑問を解決してくれる本。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Theo tác giả, sách có thể viết cảm nhận đọc sách là loại sách thế nào? → Sách cần đọc đến hết.",
+        "why": "Tác giả chia sách thành 'sách để đọc' và 'sách để tra cứu'. Sách để đọc phải đọc từ đầu đến cuối (như tiểu thuyết), và đó là loại sách điển hình mà bài cảm nhận có thể viết về.",
+        "options": [
+          "Sai: bài không nói về độ khó.",
+          "Sai: ngược lại, sách để đọc nếu chán một lần là bỏ cuộc; 'không chán' là đặc điểm của sách tra cứu.",
+          "Sách cần đọc đến hết. ĐÚNG.",
+          "Sai: sách đọc khi có thắc mắc là sách tra cứu — loại KHÔNG viết được cảm nhận."
+        ],
+        "vocab": [
+          { "w": "読書感想文", "r": "どくしょかんそうぶん", "hv": "ĐỘC THƯ CẢM TƯỞNG VĂN", "vi": "bài cảm nhận sau khi đọc sách" },
+          { "w": "退屈", "r": "たいくつ", "hv": "THOÁI KHUẤT", "vi": "chán" },
+          { "w": "挫折", "r": "ざせつ", "hv": "TỎA CHIẾT", "vi": "bỏ cuộc giữa chừng" },
+          { "w": "典型的", "r": "てんけいてき", "hv": "ĐIỂN HÌNH ĐÍCH", "vi": "điển hình" }
+        ],
+        "grammar": null,
+        "evidence": "読むための本は最初から最後まで読まなければならない。…小説や読み物はそのようなものだ。そうして、それが読書感想文の扱える典型的な本なのだ。",
+        "tip": "Phân biệt: 読むための本 (đọc hết, viết được cảm nhận) ↔ 調べるための本 (chỉ đọc trang cần)."
+      }
+    },
+    {
+      "num": 60,
+      "passage": "p2",
+      "stem": "子どもと読書について、筆者の考えに合うのはどれか。",
+      "options": [
+        "本の種類に関係なく、興味のある本を読めばいい。",
+        "読みたくなければ、無理に本を読まなくてもいい。",
+        "できるだけ多くの種類の本を読んだほうがいい。",
+        "最初は読み物よりもカタログなどを読めばいい。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về trẻ em và việc đọc sách, câu nào khớp với suy nghĩ của tác giả? → Không cần quan tâm loại sách, cứ đọc sách mình hứng thú là được.",
+        "why": "Tác giả nói trẻ chán truyện đọc cũng không lạ, nhưng có thể thích catalogue khủng long, sách bài hát; điều quan trọng là làm quen với những thứ có hình dạng cuốn sách → loại sách nào cũng được, miễn trẻ thích.",
+        "options": [
+          "Đọc sách mình hứng thú, bất kể loại nào. ĐÚNG.",
+          "Sai: tác giả vẫn muốn trẻ gần gũi với sách (本の形をしているものに親しむ).",
+          "Sai: bài không khuyên đọc càng nhiều loại càng tốt.",
+          "Sai: catalogue chỉ là ví dụ; không có ý 'lúc đầu nên đọc catalogue trước truyện'."
+        ],
+        "vocab": [
+          { "w": "親しむ", "r": "したしむ", "hv": "THÂN", "vi": "làm quen, gần gũi" },
+          { "w": "読書嫌い", "r": "どくしょぎらい", "hv": "ĐỘC THƯ HIỀM", "vi": "ghét đọc sách" },
+          { "w": "恐竜", "r": "きょうりゅう", "hv": "KHỦNG LONG", "vi": "khủng long" },
+          { "w": "必死", "r": "ひっし", "hv": "TẤT TỬ", "vi": "cố hết sức" }
+        ],
+        "grammar": {
+          "pattern": "～ではなかろうか",
+          "meaning": "chẳng phải là ~ sao (= ～ではないだろうか, nêu ý kiến một cách mềm mỏng)",
+          "form": "普通形(Na/N bỏ だ)＋のではなかろうか",
+          "example": "この計画は無理なのではなかろうか。"
+        },
+        "evidence": "それでも、恐竜カタログは好きかもしれない。歌の本なら読むかもしれない。本の形をしているものに親しむことが大切なのではなかろうか。",
+        "tip": null
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p3",
+      "stem": "筆者によると、映像作品の作者はどのような姿勢で作品を作らなければならないか。",
+      "options": [
+        "会話のように見る者とのやりとりを意識する。",
+        "見る者が楽しめる内容をあつかうようにする。",
+        "見る者が自身と同じ思考をもてるようにする。",
+        "見る者がなにも知らないことを前提にする。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, người làm tác phẩm hình ảnh phải làm tác phẩm với thái độ thế nào? → Lấy tiền đề là người xem không biết gì.",
+        "why": "Tác giả biết rõ nội dung nên dễ không nhận ra chỗ thiếu giải thích; để giải quyết, tác giả phải ý thức rằng người xem đang xem trong trạng thái không biết gì.",
+        "options": [
+          "Sai: phim ảnh là truyền đạt một chiều, không phải trao đổi hai chiều như hội thoại.",
+          "Sai: bài không nói chọn nội dung vui; chỉ nói sự khó hiểu làm người xem chán.",
+          "Sai: mục tiêu là người xem hiểu được ý tác giả, không phải có cùng suy nghĩ.",
+          "Lấy tiền đề người xem không biết gì. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "映像作品", "r": "えいぞうさくひん", "hv": "ÁNH TƯỢNG TÁC PHẨM", "vi": "tác phẩm hình ảnh/phim" },
+          { "w": "一方向的", "r": "いちほうこうてき", "hv": "NHẤT PHƯƠNG HƯỚNG ĐÍCH", "vi": "một chiều" },
+          { "w": "前提", "r": "ぜんてい", "hv": "TIỀN ĐỀ", "vi": "tiền đề" },
+          { "w": "妨げる", "r": "さまたげる", "hv": "PHƯƠNG", "vi": "cản trở" }
+        ],
+        "grammar": null,
+        "evidence": "この問題を解決するためには、見る者はなにも知らない状態で見ているという認識を、作者はもつべきである。",
+        "tip": "～べきである = câu chủ trương của tác giả → thường là đáp án."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p3",
+      "stem": "筆者によると、映像作品の制作で目指すことと、上手に話をすることの似ている点はなにか。",
+      "options": [
+        "すべてを説明するのではなく、必要な情報を整理して伝えること。",
+        "相手が知らない多くの情報を、できるだけ整理して伝えること。",
+        "わかりやすくするだけではなく、内容を詳しく伝えること。",
+        "言葉の意味に注意を払うよりも、順番を考えて伝えること。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, điểm giống nhau giữa điều hướng tới khi làm phim và việc nói chuyện giỏi là gì? → Không giải thích tất cả, mà sắp xếp và truyền đạt thông tin cần thiết.",
+        "why": "Tác giả: không cần giải thích mọi thứ, chỉ nên sắp xếp và truyền đạt điều cần thiết (như bản đồ quá chi tiết không dễ hiểu). Việc chọn lọc, sắp xếp này giống như khi nói chuyện giỏi phải chọn từ, nghĩ thứ tự.",
+        "options": [
+          "Không giải thích tất cả, chỉ sắp xếp và truyền đạt thông tin cần thiết. ĐÚNG.",
+          "Sai: không phải truyền 'nhiều thông tin', mà chỉ thông tin cần thiết.",
+          "Sai: 'truyền đạt chi tiết' trái với ý 'bản đồ quá chi tiết không dễ hiểu'.",
+          "Sai: bài nói cả chọn từ lẫn thứ tự, không coi thứ tự quan trọng hơn ý nghĩa."
+        ],
+        "vocab": [
+          { "w": "整理", "r": "せいり", "hv": "CHỈNH LÝ", "vi": "sắp xếp, chỉnh lý" },
+          { "w": "必ずしも～ない", "r": "かならずしも～ない", "hv": "TẤT", "vi": "không hẳn, không nhất thiết" },
+          { "w": "注意を払う", "r": "ちゅういをはらう", "hv": "CHÚ Ý PHẤT", "vi": "chú ý" }
+        ],
+        "grammar": {
+          "pattern": "～からといって、～わけでもない",
+          "meaning": "dù ~ nhưng không có nghĩa là ~",
+          "form": "普通形＋からといって＋～わけではない",
+          "example": "高いからといって、品質がいいわけではない。"
+        },
+        "evidence": "しかし相手がなにも知らないからといって、すべてを説明しなければならないわけでもない。…必要なことだけを整理して伝えるべきなのだ。…これは、上手に話をしようとするときに、言葉を選び、話の順番を考えることに似ている。",
+        "tip": null
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p4",
+      "stem": "大人が子どもに夢を問うときの問題点について、筆者はどのように述べているか。",
+      "options": [
+        "大人がいいと考える目標を求めがちだ。",
+        "大人でも実現できない目標を求めがちだ。",
+        "子どもが思いつかない目標を求めがちだ。",
+        "子どもが興味を示さない目標を求めがちだ。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về vấn đề khi người lớn hỏi trẻ về ước mơ, tác giả nói thế nào? → Người lớn hay đòi hỏi mục tiêu mà người lớn cho là tốt.",
+        "why": "Khi hỏi về ước mơ, người lớn áp đặt kỳ vọng 'hãy hướng tới mục tiêu cao và nhất định thành công' → ước mơ = thành công theo tiêu chuẩn người lớn.",
+        "options": [
+          "Đòi hỏi mục tiêu mà người lớn cho là tốt. ĐÚNG.",
+          "Sai: bài không nói mục tiêu mà người lớn cũng không làm được.",
+          "Sai: bài không nói trẻ không nghĩ ra được.",
+          "Sai: bài không nói trẻ không có hứng thú với mục tiêu đó."
+        ],
+        "vocab": [
+          { "w": "押しつける", "r": "おしつける", "hv": "ÁP", "vi": "áp đặt" },
+          { "w": "突き進む", "r": "つきすすむ", "hv": "ĐỘT TIẾN", "vi": "lao tới, xông lên" },
+          { "w": "意図", "r": "いと", "hv": "Ý ĐỒ", "vi": "ý đồ, ý định" },
+          { "w": "敏感", "r": "びんかん", "hv": "MẪN CẢM", "vi": "nhạy cảm" }
+        ],
+        "grammar": {
+          "pattern": "Vます＋がちだ",
+          "meaning": "hay có xu hướng ~ (thường là điều không tốt)",
+          "form": "V(bỏ ます)／N＋がちだ",
+          "example": "冬は運動不足になりがちだ。"
+        },
+        "evidence": "そもそも大人が「夢」を子どもに問うとき、「高い目標に向かって突き進め。そして必ず成功しろ」という期待を押しつけている感じがします。",
+        "tip": null
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p4",
+      "stem": "筆者が最も言いたいことは何か。",
+      "options": [
+        "大人は子どもに夢とは何かを伝えることが必要だ。",
+        "大人は子どもに夢の実現のしかたを教えてあげることが大切だ。",
+        "大人は子どもの夢に含まれる思いを理解することが大切だ。",
+        "大人は夢を語り合う前に、子どもの不安を取り除くことが必要だ。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều tác giả muốn nói nhất là gì? → Người lớn cần hiểu những suy nghĩ ẩn chứa trong ước mơ của trẻ.",
+        "why": "Đoạn cuối kêu gọi lắng nghe câu trả lời của trẻ, không bỏ qua những mong muốn khó bộc lộ, và 'đọc ra' suy nghĩ, mong ước ẩn sau câu trả lời → hiểu suy nghĩ trong ước mơ của trẻ.",
+        "options": [
+          "Sai: tác giả không bảo người lớn dạy trẻ ước mơ là gì.",
+          "Sai: bài không nói về cách thực hiện ước mơ.",
+          "Hiểu những suy nghĩ chứa trong ước mơ của trẻ. ĐÚNG.",
+          "Sai: nỗi bất an được phát hiện THÔNG QUA việc trò chuyện về ước mơ, không phải xóa bỏ trước."
+        ],
+        "vocab": [
+          { "w": "耳を傾ける", "r": "みみをかたむける", "hv": "NHĨ KHUYNH", "vi": "lắng nghe" },
+          { "w": "掘り下げる", "r": "ほりさげる", "hv": "QUẬT HẠ", "vi": "đào sâu" },
+          { "w": "背景", "r": "はいけい", "hv": "BỐI CẢNH", "vi": "bối cảnh, phía sau" },
+          { "w": "読み取る", "r": "よみとる", "hv": "ĐỘC THỦ", "vi": "đọc hiểu, nắm bắt" }
+        ],
+        "grammar": null,
+        "evidence": "子どもの答えの背景にどんな思いや願いやあこがれが込められているのかを、読み取ってあげませんか。",
+        "tip": "～ませんか ở cuối bài = lời kêu gọi → ý chính của tác giả."
+      }
+    }
+  ]
+}

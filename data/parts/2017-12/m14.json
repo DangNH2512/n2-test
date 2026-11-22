@@ -1,0 +1,78 @@
+{
+  "exam": "2017-12",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "下のページは、あるビジネススクールのホームページである。下の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Trang dưới là trang web của một trường đào tạo kinh doanh. Chọn câu trả lời đúng nhất (tìm thông tin).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "JBセンター ビジネス研修のご案内",
+      "text": "JBセンター\nビジネス研修のご案内\n\nJBセンターは、ビジネス場面で役立つ様々なコースをご用意しております。ご希望に応じて「通学型研修」、「講師出張型研修」の二つのスタイルからお選びいただけます。\n\n■通学型研修\nJBセンターのセミナールームで受講していただくスタイルです。お一人様からでも受講可能です。\n\nコース名｜内容｜開催曜日＊1（9月）｜受講料\nA｜・ビジネスマナー｜① 毎週 水曜 9：00～12：00／② 毎週 金曜 13：00～16：00｜21,000円（3時間）\nB｜・電話応対｜① 毎週 火曜 9：00～12：00／② 毎週 木曜 13：00～16：00｜21,000円（3時間）\nC｜・ビジネス文書｜① 毎週 金曜 9：00～12：00｜21,000円（3時間）\nD｜・ビジネスマナー・電話応対｜① 毎週 金曜 9：00～16：00｜35,000円（6時間）\nE｜・ビジネスマナー・ビジネス文書｜① 毎週 木曜 9：00～16：00｜35,000円（6時間）\nF｜・ビジネスマナー・電話応対・ビジネス文書｜① 毎週 月・水曜（2日連続）10：00～16：00｜60,000円（2日間）\n\n＊1 A、Bを受講される方は、①か②のどちらかをお選びください。\n\n■講師出張型研修\n講師が出張し、貴社内で受講していただくスタイルです。通学型研修で実施しているプログラムはもちろん、ご希望に添ったプログラムのご提案、実施が可能です＊2。\n\n出張可能な曜日：月～土（日・祝日をご希望の方は可能な範囲で対応いたします。）\n受講対象人数：少人数から100名まで対応しています。\n料金：研修内容、時間等によって異なりますが、受講者数による料金の増減はございません。貴社のご希望をお伺いした後、お見積もりいたします。\n\n＊2 講師対応の都合上、実施希望日の2か月前までのお申し込みをお願いしています。\n\n研修の詳しい内容、お申し込み方法は、各詳細ページをご覧ください。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 74,
+      "passage": "p1",
+      "stem": "サラさんは、通学型研修で「ビジネスマナー」について学ぶように上司から指示された。「ビジネスマナー」が学べて、受講料が4万円以下なら、自由にコースを選んでいいと言われたので、できるだけ多くの内容を含むものを受けるつもりだ。行ける曜日は、金曜日である。サラさんの条件に最も合うコースはどれか。",
+      "options": ["Ａ", "Ｂ", "Ｃ", "Ｄ"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Sara được cấp trên chỉ thị học \"Business manner\" theo hình thức đến trung tâm. Được phép tự chọn khóa nếu học được \"Business manner\" và học phí từ 40.000 yên trở xuống, nên cô định học khóa có càng nhiều nội dung càng tốt. Ngày cô đi được là thứ Sáu. Khóa nào phù hợp nhất với điều kiện của Sara? → D.",
+        "why": "Điều kiện: (1) có ビジネスマナー, (2) ≤ 40.000 yên, (3) học thứ Sáu, (4) nhiều nội dung nhất. Các khóa có マナー: A, D, E, F. F 60.000 yên → loại; E học thứ Năm → loại. Còn A (② thứ Sáu, 1 nội dung, 21.000) và D (thứ Sáu, 2 nội dung: マナー + 電話応対, 35.000) → D nhiều nội dung hơn.",
+        "options": [
+          "A: có マナー, thứ Sáu (②), 21.000 yên – nhưng chỉ 1 nội dung, ít hơn D. Sai.",
+          "B: chỉ có 電話応対, không có ビジネスマナー. Sai.",
+          "C: chỉ có ビジネス文書, không có ビジネスマナー. Sai.",
+          "D: マナー + 電話応対, thứ Sáu, 35.000 yên ≤ 40.000. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "通学型", "r": "つうがくがた", "hv": "THÔNG HỌC HÌNH", "vi": "hình thức đến trường học" },
+          { "w": "受講料", "r": "じゅこうりょう", "hv": "THỤ GIẢNG LIÊU", "vi": "học phí" },
+          { "w": "電話応対", "r": "でんわおうたい", "hv": "ĐIỆN THOẠI ỨNG ĐỐI", "vi": "tiếp nhận điện thoại" },
+          { "w": "上司", "r": "じょうし", "hv": "THƯỢNG TY", "vi": "cấp trên" }
+        ],
+        "grammar": null,
+        "evidence": "A｜・ビジネスマナー｜② 毎週 金曜 13：00～16：00｜21,000円／D｜・ビジネスマナー・電話応対｜① 毎週 金曜 9：00～16：00｜35,000円（6時間）",
+        "tip": "Lọc từng điều kiện một (nội dung → giá → ngày → nhiều nội dung nhất)."
+      }
+    },
+    {
+      "num": 75,
+      "passage": "p1",
+      "stem": "田中さんは、新入社員のための社内研修を企画中で、JBセンターの講師出張型研修を利用しようと思っている。申し込みに関して気をつけなければならないことは、次のうちどれか。",
+      "options": [
+        "通学型研修のプログラムの中から内容を選ばなければならない。",
+        "研修の実施日を月曜から土曜の間で決めなければならない。",
+        "受講者が少ない場合でも、料金は変わらない。",
+        "実施日の2か月前にならなければ、申し込めない。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh Tanaka đang lên kế hoạch đào tạo nội bộ cho nhân viên mới và định dùng hình thức giảng viên đến tận công ty của JB Center. Điều cần lưu ý khi đăng ký là gì? → Dù số người học ít, phí cũng không thay đổi.",
+        "why": "Mục 料金: \"受講者数による料金の増減はございません\" – phí không tăng giảm theo số học viên → ít người thì phí vẫn vậy (cần lưu ý vì không được giảm).",
+        "options": [
+          "Có thể đề xuất chương trình theo yêu cầu (ご希望に添ったプログラム), không bắt buộc chọn từ chương trình đến trường. Sai.",
+          "Chủ nhật, ngày lễ cũng có thể đáp ứng trong phạm vi có thể. Sai.",
+          "Phí không thay đổi theo số học viên. ĐÚNG.",
+          "Phải đăng ký TRƯỚC 2 tháng (2か月前までに) – tức là muộn nhất 2 tháng trước, không phải \"đến 2 tháng trước mới được đăng ký\". Sai."
+        ],
+        "vocab": [
+          { "w": "講師出張型", "r": "こうししゅっちょうがた", "hv": "GIẢNG SƯ XUẤT TRƯƠNG HÌNH", "vi": "giảng viên đến tận nơi" },
+          { "w": "増減", "r": "ぞうげん", "hv": "TĂNG GIẢM", "vi": "tăng giảm" },
+          { "w": "見積もり", "r": "みつもり", "hv": "KIẾN TÍCH", "vi": "báo giá, ước tính" },
+          { "w": "企画", "r": "きかく", "hv": "XÍ HOẠCH", "vi": "lên kế hoạch" }
+        ],
+        "grammar": {
+          "pattern": "〜までに",
+          "meaning": "trước (thời hạn) ~, muộn nhất là ~",
+          "form": "N(thời điểm) + までに",
+          "example": "実施希望日の2か月前までにお申し込みください。"
+        },
+        "evidence": "料金：研修内容、時間等によって異なりますが、受講者数による料金の増減はございません。",
+        "tip": "Bẫy 2か月前まで (hạn chót) ↔ 2か月前にならなければ (chỉ được từ mốc đó) – nghĩa ngược nhau."
+      }
+    }
+  ]
+}

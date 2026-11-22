@@ -1,0 +1,126 @@
+{
+  "exam": "2019-07",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn sau và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "正しい仕事の任せ方というのは、一体どのようなものだろうか。\n理想的なのは、部下の実力よりも少し上のレベルの仕事——部下が何とか自分の力で判断・実行することができ、ときには（注１）小さな失敗を招くであろうレベルの仕事を任せることだ。<u>そういう仕事</u>を、段階的にレベルを上げながら与えていくことで、部下は着実に仕事力を磨いていくのだ。\nところが、そのような仕事を部下に与えたとしても、日本の会社では、「ホウ・レン・ソウ」（報告・連絡・相談）などといって、上司がいちいち部下の仕事に干渉し（注２）がちだ。そして結局は、部下に自分の力でハードル（注３）を乗り越えさせないことが多い。\nたとえば、あるプレゼン資料を部下につくらせるとする。日本の会社の多くの上司は、全体像を示さず、ただ「こういうものをつくれ」と部下に曖昧に命じ、持ってこさせる。\nそして「ここをこう直せ」と要求し、部下はその意図がわからないまま上司の指示通りに修正をする。そんなことを何度も繰り返す。その結果、部下に身につくのは、エクセルやらパワーポイント（注４）の操作法だけ、ということになる。これでは、レベルの高いプレゼン資料を自分で考え、つくり上げる力はつかないだろう。\nそうではなく、「この資料は、こういう目的で、こういう相手に対して、このように説得するために使用するものだ」という全体像を事前に明確に説明すべきだ。\nその上で、見本を見せて、あとは部下の創意工夫（注５）に任せ、部下が最善だと思う資料ができるまで口出しはしない（注６）ことだ。\n結果的に出来上がるものが、上司の想定するものと違うこともあるだろう。しかし、その資料をつくる意図、全体像がつかめていれば、なぜいけないのか、どこが悪いのか、どう修正すればよくなるのかがわかるし、上司からの修正指示に納得もできるし、学ぶこともできる。\n部下は、「いや、そういう目的なら、自分だったらこうするけどな…」と思うかもしれない。それならそれでいいのだ。そういうことを積み重ねながら、最終的には、部下は自分なりの仕事のやり方を確立（注７）していくはずだ。上司では考えられなかったようなレベルの高い資料を作ることも、いずれはあるかもしれない。\n繰り返すが「部下を教育するのが上司の役目」というのは間違っている。部下を育てるのは「仕事」そのものであり、その仕事をするための「場を与える」のが上司の役目なのである。\n\n（注１）ときには：場合によっては\n（注２）干渉する：ここでは、必要以上に関わる\n（注３）ハードル：障害\n（注４）エクセルやらパワーポイント：コンピュータのソフト\n（注５）創意工夫：あたらしいアイデアや工夫\n（注６）口出しはしない：ここでは、何も言わない\n（注７）確立する：ここでは、しっかり身につける"
+    }
+  ],
+  "questions": [
+    {
+      "num": 69,
+      "passage": "p1",
+      "stem": "<u>そういう仕事</u>とはどのような仕事か。",
+      "options": [
+        "上司の助けがあれば、大きな失敗をしないような仕事",
+        "部下が自身の力で問題なくできるような仕事",
+        "失敗する可能性があっても、部下自身がしたいと思うような仕事",
+        "実力を超えているが、部下自身で最後までできるような仕事"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "“Công việc như thế” là công việc như thế nào? → Công việc vượt quá năng lực nhưng cấp dưới có thể tự mình làm đến cùng.",
+        "why": "そういう仕事 chỉ câu trước: công việc ở mức “cao hơn năng lực của cấp dưới một chút”, nhưng cấp dưới “bằng cách nào đó tự mình phán đoán và thực hiện được” (có thể đôi khi thất bại nhỏ). → Vượt năng lực nhưng tự làm đến cùng được.",
+        "options": [
+          "Sai: không phải nhờ sự giúp đỡ của cấp trên; bài nhấn mạnh tự lực.",
+          "Sai: công việc cao hơn năng lực, có thể thất bại nhỏ — không phải “làm được mà không gặp vấn đề gì”.",
+          "Sai: tiêu chí là mức độ khó, không phải việc cấp dưới muốn làm.",
+          "Vượt năng lực nhưng tự làm đến cùng được. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "部下", "r": "ぶか", "hv": "BỘ HẠ", "vi": "cấp dưới" },
+          { "w": "実力", "r": "じつりょく", "hv": "THỰC LỰC", "vi": "thực lực, năng lực" },
+          { "w": "任せる", "r": "まかせる", "hv": "NHẬM", "vi": "giao phó" },
+          { "w": "段階的", "r": "だんかいてき", "hv": "ĐOẠN GIAI ĐÍCH", "vi": "theo từng bước" },
+          { "w": "着実", "r": "ちゃくじつ", "hv": "TRƯỚC THỰC", "vi": "vững chắc, chắc chắn" }
+        ],
+        "grammar": {
+          "pattern": "～であろう",
+          "meaning": "có lẽ sẽ ... (văn viết của ～だろう)",
+          "form": "V/N＋であろう＋N",
+          "example": "将来起こるであろう問題に備える。"
+        },
+        "evidence": "理想的なのは、部下の実力よりも少し上のレベルの仕事——部下が何とか自分の力で判断・実行することができ、ときには小さな失敗を招くであろうレベルの仕事を任せることだ。",
+        "tip": "何とか自分の力で = bằng cách nào đó tự mình làm được → khớp “部下自身で最後までできる”."
+      }
+    },
+    {
+      "num": 70,
+      "passage": "p1",
+      "stem": "筆者によると、上司が部下にプレゼン資料を作成させるときに大切なことは何か。",
+      "options": [
+        "事前に見本を見せて、部下のわからない部分を教えること",
+        "事前に全体像を示したら、あとは部下に任せること",
+        "部下のアイデアを取り入れた上で、最善の方法を指示すること",
+        "最初から完成まで何も言わず、自分のやり方でさせること"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo tác giả, điều quan trọng khi cấp trên cho cấp dưới làm tài liệu thuyết trình là gì? → Sau khi trình bày trước bức tranh tổng thể thì giao phó phần còn lại cho cấp dưới.",
+        "why": "Tác giả: nên giải thích rõ ràng bức tranh tổng thể (mục đích, đối tượng, cách thuyết phục) từ trước; sau đó cho xem mẫu, phần còn lại để cấp dưới tự sáng tạo, không xen vào.",
+        "options": [
+          "Sai: cho xem mẫu thì có, nhưng tác giả nói không xen vào, không “dạy phần không hiểu”.",
+          "Trình bày tổng thể trước rồi giao phó. ĐÚNG.",
+          "Sai: “chỉ thị phương pháp tốt nhất” trái với việc để cấp dưới tự làm.",
+          "Sai: không phải im lặng từ đầu — trước hết phải giải thích tổng thể."
+        ],
+        "vocab": [
+          { "w": "全体像", "r": "ぜんたいぞう", "hv": "TOÀN THỂ TƯỢNG", "vi": "bức tranh tổng thể" },
+          { "w": "見本", "r": "みほん", "hv": "KIẾN BẢN", "vi": "mẫu" },
+          { "w": "創意工夫", "r": "そういくふう", "hv": "SÁNG Ý CÔNG PHU", "vi": "sáng kiến, sáng tạo" },
+          { "w": "口出し", "r": "くちだし", "hv": "KHẨU XUẤT", "vi": "xen vào, can thiệp bằng lời" },
+          { "w": "干渉", "r": "かんしょう", "hv": "CAN THIỆP", "vi": "can thiệp" }
+        ],
+        "grammar": {
+          "pattern": "～べきだ",
+          "meaning": "nên, phải (ý kiến của người nói)",
+          "form": "Vる＋べきだ (する→すべき)",
+          "example": "約束は守るべきだ。"
+        },
+        "evidence": "「この資料は、こういう目的で、こういう相手に対して、このように説得するために使用するものだ」という全体像を事前に明確に説明すべきだ。その上で、見本を見せて、あとは部下の創意工夫に任せ、部下が最善だと思う資料ができるまで口出しはしないことだ。",
+        "tip": "その上で (sau đó, trên cơ sở đó) cho biết thứ tự: giải thích tổng thể → giao phó."
+      }
+    },
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "筆者によると、上司としてするべきことは何か。",
+      "options": [
+        "部下が仕事を通して成長できるような状況をつくること",
+        "部下が最終的に自分の力で仕事ができるように教育すること",
+        "部下が上司を追い越せるようなレベルになるまで育てること",
+        "部下が上司の仕事のやり方を学べるような環境を整えること"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, việc cấp trên nên làm là gì? → Tạo ra hoàn cảnh để cấp dưới có thể trưởng thành thông qua công việc.",
+        "why": "Câu kết: thứ nuôi dưỡng cấp dưới là “chính công việc”, vai trò của cấp trên là “tạo ra nơi (cơ hội) để làm công việc đó” → tạo hoàn cảnh để cấp dưới trưởng thành qua công việc.",
+        "options": [
+          "Tạo hoàn cảnh để cấp dưới trưởng thành qua công việc. ĐÚNG.",
+          "Sai: tác giả nói “giáo dục cấp dưới là vai trò của cấp trên” là SAI.",
+          "Sai: việc vượt cấp trên chỉ là khả năng có thể xảy ra, không phải mục tiêu.",
+          "Sai: mục đích là cấp dưới xây dựng cách làm của riêng mình, không phải học cách làm của cấp trên."
+        ],
+        "vocab": [
+          { "w": "役目", "r": "やくめ", "hv": "DỊCH MỤC", "vi": "vai trò, nhiệm vụ" },
+          { "w": "育てる", "r": "そだてる", "hv": "DỤC", "vi": "nuôi dưỡng, đào tạo" },
+          { "w": "確立", "r": "かくりつ", "hv": "XÁC LẬP", "vi": "xác lập, hình thành vững chắc" },
+          { "w": "場", "r": "ば", "hv": "TRƯỜNG", "vi": "nơi, cơ hội, môi trường" }
+        ],
+        "grammar": {
+          "pattern": "～そのもの",
+          "meaning": "chính bản thân ...",
+          "form": "N＋そのもの",
+          "example": "彼は真面目そのものだ。"
+        },
+        "evidence": "繰り返すが「部下を教育するのが上司の役目」というのは間違っている。部下を育てるのは「仕事」そのものであり、その仕事をするための「場を与える」のが上司の役目なのである。",
+        "tip": "Bẫy: phương án 2 dùng 教育する — chính là điều tác giả phủ định."
+      }
+    }
+  ]
+}

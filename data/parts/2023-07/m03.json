@@ -1,0 +1,88 @@
+{
+  "exam": "2023-07",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ (tiền tố/hậu tố) thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "アンケートでは、質問に（　　）回答の人もいた。",
+      "options": ["無", "空", "欠", "失"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Trong bảng khảo sát, cũng có người không trả lời câu hỏi.",
+        "why": "無回答 (むかいとう) = không trả lời, bỏ trống. Tiền tố 無～ (VÔ) gắn với danh từ chỉ hành động để chỉ \"không có ~\": 無回答・無断・無関心.",
+        "options": [
+          "無 → 無回答: không trả lời. ĐÚNG.",
+          "空 → 空～ dùng như 空き缶, 空席 (ghế trống), không ghép với 回答. Sai.",
+          "欠 → 欠～ như 欠席 (vắng mặt), 欠点; không có 欠回答. Sai.",
+          "失 → 失～ như 失業, 失敗; không có 失回答. Sai."
+        ],
+        "vocab": [
+          { "w": "無回答", "r": "むかいとう", "hv": "VÔ HỒI ĐÁP", "vi": "không trả lời" },
+          { "w": "無断", "r": "むだん", "hv": "VÔ ĐOẠN", "vi": "tự ý, không xin phép" },
+          { "w": "無関心", "r": "むかんしん", "hv": "VÔ QUAN TÂM", "vi": "thờ ơ" },
+          { "w": "欠席", "r": "けっせき", "hv": "KHIẾM TỊCH", "vi": "vắng mặt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Trong khảo sát: 無回答 (không trả lời), 未回答 (chưa trả lời) – cả hai đều có, nhưng chỉ 無 có trong đáp án."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "この本には海外にある日本（　　）の家がたくさん載っている。",
+      "options": ["気", "類", "風", "状"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Cuốn sách này có đăng nhiều ngôi nhà kiểu Nhật ở nước ngoài.",
+        "why": "～風 (ふう, PHONG) gắn sau danh từ = theo kiểu, theo phong cách ~. 日本風の家 = nhà kiểu Nhật.",
+        "options": [
+          "気 → ～気 (げ/け) như 寒気 (さむけ), không dùng với 日本. Sai.",
+          "類 → ～類 (るい): loại, nhóm (魚類, 書類). Sai.",
+          "風 → 日本風: kiểu Nhật. ĐÚNG.",
+          "状 → ～状 (じょう): trạng thái/hình dạng (液状, 招待状). Sai."
+        ],
+        "vocab": [
+          { "w": "日本風", "r": "にほんふう", "hv": "NHẬT BẢN PHONG", "vi": "kiểu Nhật" },
+          { "w": "和風", "r": "わふう", "hv": "HÒA PHONG", "vi": "phong cách Nhật" },
+          { "w": "洋風", "r": "ようふう", "hv": "DƯƠNG PHONG", "vi": "phong cách Tây" },
+          { "w": "載る", "r": "のる", "hv": "TẢI", "vi": "được đăng (trên sách, báo)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "～風 (ふう) = \"kiểu ~\": 和風・洋風・中華風・会社員風の男."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "壁（　　）のソファーに座る。",
+      "options": ["所", "際", "辺", "域"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Ngồi lên chiếc sofa sát tường.",
+        "why": "～際 (ぎわ, TẾ) = sát mép, ngay cạnh ~. 壁際 (かべぎわ) = sát tường. Cùng nhóm: 窓際 (まどぎわ), 水際 (みずぎわ).",
+        "options": [
+          "所 → ～所 (しょ/じょ) chỉ nơi chốn (研究所), không ghép 壁所. Sai.",
+          "際 → 壁際: sát tường. ĐÚNG.",
+          "辺 → ～辺 (へん/べ): vùng xung quanh (この辺, 海辺), không có 壁辺. Sai.",
+          "域 → ～域 (いき): khu vực (地域, 区域). Sai."
+        ],
+        "vocab": [
+          { "w": "壁際", "r": "かべぎわ", "hv": "BÍCH TẾ", "vi": "sát tường" },
+          { "w": "窓際", "r": "まどぎわ", "hv": "SONG TẾ", "vi": "cạnh cửa sổ" },
+          { "w": "壁", "r": "かべ", "hv": "BÍCH", "vi": "bức tường" },
+          { "w": "地域", "r": "ちいき", "hv": "ĐỊA VỰC", "vi": "khu vực" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "際 khi làm hậu tố đọc ぎわ: 壁際・窓際・生え際 (chân tóc). Đứng một mình 際 (さい) = khi, lúc."
+      }
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "exam": "2015-12",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉で漢字を書くとき、最もよいものを1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết chữ Hán đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "多くの人が集まったため、会場の中は<u>こんらん</u>していた。",
+      "options": ["混乱", "混雑", "困乱", "困雑"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Vì có rất nhiều người tụ tập nên bên trong hội trường đã hỗn loạn.",
+        "why": "こんらん viết là 混乱 (HỖN LOẠN) = hỗn loạn, rối loạn. 混 (こん – trộn lẫn) + 乱 (らん – loạn).",
+        "options": [
+          "混乱 → こんらん: hỗn loạn. ĐÚNG.",
+          "混雑 → こんざつ: đông đúc, chen chúc. Nghĩa gần nhưng cách đọc khác. Sai.",
+          "困乱 → không có từ này (困 = khốn, khó khăn). Sai.",
+          "困雑 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "混乱", "r": "こんらん", "hv": "HỖN LOẠN", "vi": "hỗn loạn, rối loạn" },
+          { "w": "混雑", "r": "こんざつ", "hv": "HỖN TẠP", "vi": "đông nghịt, chen chúc" },
+          { "w": "会場", "r": "かいじょう", "hv": "HỘI TRƯỜNG", "vi": "hội trường, địa điểm tổ chức" },
+          { "w": "困難", "r": "こんなん", "hv": "KHỐN NAN", "vi": "khó khăn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "混 (bộ 氵 nước – trộn lẫn) vs 困 (cây 木 bị nhốt trong khung – khó khăn). Cùng âm こん nên hay bị ra bẫy."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "この計画は<u>じゅんちょう</u>に進んでいる。",
+      "options": ["準長", "準調", "順長", "順調"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Kế hoạch này đang tiến triển thuận lợi.",
+        "why": "じゅんちょう viết là 順調 (THUẬN ĐIỀU) = suôn sẻ, thuận lợi. 順 (thứ tự, thuận) + 調 (điều hòa, trạng thái).",
+        "options": [
+          "準長 → không có từ này (準 = chuẩn). Sai.",
+          "準調 → không có từ này. Sai.",
+          "順長 → không có từ này (長 = dài). Sai.",
+          "順調 → じゅんちょう: thuận lợi. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "順調", "r": "じゅんちょう", "hv": "THUẬN ĐIỀU", "vi": "suôn sẻ, thuận lợi" },
+          { "w": "計画", "r": "けいかく", "hv": "KẾ HOẠCH", "vi": "kế hoạch" },
+          { "w": "準備", "r": "じゅんび", "hv": "CHUẨN BỊ", "vi": "chuẩn bị" },
+          { "w": "体調", "r": "たいちょう", "hv": "THỂ ĐIỀU", "vi": "thể trạng, sức khỏe" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "調 = trạng thái: 順調, 好調 (こうちょう), 不調 (ふちょう). 準 dùng trong 準備, 基準, 水準."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "新製品の販売権に関し、A社とB社が<u>あらそって</u>いる。",
+      "options": ["争って", "戦って", "競って", "抗って"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Liên quan đến quyền bán sản phẩm mới, công ty A và công ty B đang tranh chấp nhau.",
+        "why": "あらそう viết là 争う (TRANH) = tranh giành, tranh chấp. Các chữ khác có cách đọc kun khác.",
+        "options": [
+          "争って → あらそって: tranh chấp. ĐÚNG.",
+          "戦って → たたかって: chiến đấu. Sai.",
+          "競って → きそって: ganh đua. Sai.",
+          "抗って → あらがって: chống lại, kháng cự. Sai."
+        ],
+        "vocab": [
+          { "w": "争う", "r": "あらそう", "hv": "TRANH", "vi": "tranh giành, tranh chấp" },
+          { "w": "販売権", "r": "はんばいけん", "hv": "PHIẾN MẠI QUYỀN", "vi": "quyền phân phối, quyền bán" },
+          { "w": "競う", "r": "きそう", "hv": "CẠNH", "vi": "ganh đua, thi đua" },
+          { "w": "戦う", "r": "たたかう", "hv": "CHIẾN", "vi": "chiến đấu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "争 âm On そう: 競争 (きょうそう), 戦争 (せんそう), 論争 (ろんそう)."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "先生に<u>してき</u>された部分を直して、レポートを再提出した。",
+      "options": ["指的", "指摘", "支的", "支摘"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi đã sửa những phần bị thầy chỉ ra và nộp lại báo cáo.",
+        "why": "してき viết là 指摘 (CHỈ TRÍCH) = chỉ ra (lỗi, vấn đề). 摘 (てき) có bộ 扌 tay – nhặt ra.",
+        "options": [
+          "指的 → không có từ này (的 = mục tiêu, đích). Sai.",
+          "指摘 → してき: chỉ ra. ĐÚNG.",
+          "支的 → không có từ này. Sai.",
+          "支摘 → không có từ này (支 = chi). Sai."
+        ],
+        "vocab": [
+          { "w": "指摘", "r": "してき", "hv": "CHỈ TRÍCH", "vi": "chỉ ra, nêu ra (lỗi)" },
+          { "w": "再提出", "r": "さいていしゅつ", "hv": "TÁI ĐỀ XUẤT", "vi": "nộp lại" },
+          { "w": "直す", "r": "なおす", "hv": "TRỰC", "vi": "sửa chữa" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "指摘 trong tiếng Nhật chỉ là \"chỉ ra\", không mang nghĩa \"chỉ trích\" nặng nề như tiếng Việt."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "この絵は空の色がとても<u>あざやか</u>だ。",
+      "options": ["照やか", "晴やか", "鮮やか", "濃やか"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Bức tranh này có màu trời rất tươi sáng, rực rỡ.",
+        "why": "あざやか viết là 鮮やか (TIÊN) = tươi tắn, rực rỡ, rõ nét. Các lựa chọn còn lại không phải cách viết của あざやか.",
+        "options": [
+          "照やか → không có từ này (照 = chiếu sáng). Sai.",
+          "晴やか → viết đúng là 晴れやか (はれやか): tươi tỉnh, rạng rỡ. Sai.",
+          "鮮やか → あざやか: rực rỡ, tươi. ĐÚNG.",
+          "濃やか → こまやか: đậm đà, ân cần. Sai."
+        ],
+        "vocab": [
+          { "w": "鮮やか", "r": "あざやか", "hv": "TIÊN", "vi": "tươi tắn, rực rỡ, rõ nét" },
+          { "w": "新鮮", "r": "しんせん", "hv": "TÂN TIÊN", "vi": "tươi mới" },
+          { "w": "晴れやか", "r": "はれやか", "hv": "TÌNH", "vi": "rạng rỡ, quang đãng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "鮮 = 魚 + 羊 (cá, thịt tươi) → tươi. 鮮やか cũng dùng cho kỹ thuật: 鮮やかな手つき (tay nghề điêu luyện)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "exam": "2022-12",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（１）から（５）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn từ (1) đến (5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "　人物の情報を集めるときはひとりの意見だけでなく、複数の意見を聞くのは、そうしないと、人物の全体像がわからないからだ。情景や物体を眺める時、人の判断はあまり変わらない。しかし、人物を見る時、人が感じる印象はかなり違うのである。ある人物のプロフィール（注）を書くのならば、ひとりが会いに行っただけでは不完全だ。ふたりで会いに行って、それぞれがどういう印象を持ったのかを合わせた方がいい。採用の面接を複数で行うのも、同じ理由からだと思う。\n（注）プロフィール：ここでは、紹介"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、ある大学のホームページに掲載されたお知らせである。\n\n山森大学 > お知らせ\n8月10日\n移転作業に伴うパソコン自習室の利用について\n　先日お知らせしたように、キャンパスの整備にあたり、現在2号館のパソコン自習室が4号館に移転します。移転作業に伴い、利用は9月5日までになるとお知らせしましたが、工事期間の変更により8月31日に閉室することになりました。移転先の利用開始は10月1日で変更ありません。移転が完了するまでは、6号館のパソコン自習室、および図書館の情報検索室をご利用ください。\n問い合わせ先：情報支援センター\n電話：071-992-8555"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "以下は、金魚の飼い方について書かれた文章である。\n\n　水温が下がると消化機能も低下するので、えさをあまり多く与えると消化不良を起こして体調をくずしてしまいます。\n　屋内の水槽（注1）で飼育（注2）している場合でも、水温が10度以下になると金魚の動きは鈍くなり、えさもあまりほしがらなくなります。\n　ヒーターを入れて、飼育水の温度を18～20度に保てば、金魚は活発に泳いでえさもよく食べるようになり、一年中元気な金魚と接することができます。\n（注1）水槽：生物を飼うために水を入れた容器\n（注2）飼育する：飼う"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "以下は、ある会社の社員が、別の課の社員から受け取ったメールである。\n\n営業課　高原様\n\n企画課の山下です。\n　部長から発表がありましたとおり、12日から新モデル発売に向けての営業課・企画課合同の会議を始めます。12日は初回となりますので、営業課では旧モデルの売り上げについての資料をご準備ください。昨年度分だけでなく、販売開始以降のものすべてをお願いします。\n　初回の会議では、まずこちらから新モデルの概要と今後のスケジュール案を示しご説明しますので、営業課の皆さんのご意見をお聞かせください。どうぞよろしくお願いします。\n\n企画課　山下"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "　自分がのめりこんだ（注1）ことが、仕事として成立したなら、これほど楽しいことはないだろう。もしかしたらその感覚は、世の中の常識とは順番が逆なのかもしれない。本来はまず仕事ありき（注2）なのだろう。与えられた仕事をどう楽しめるかと考えるのがふつうなのかもしれない。\n　でも仕事がただ与えられるだけのものだったら、やっぱり面白くするにも限界がある。自分が何を面白いと感じるか。まずそれありきで仕事を考えた方がいいと思うのだ。\n（注1）のめりこむ：熱中する\n（注2）～ありき：ここでは、優先"
+    }
+  ],
+  "questions": [
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "物も人物も、複数の意見を聞いて判断することが必要だ。",
+        "物を見る時より人物を見る時の方が、人が持つ印象は正確だ。",
+        "人物の印象は、見る状況によって異なる。",
+        "人物を判断するには、ひとりが持つ印象だけでは不十分だ。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Câu nào phù hợp với suy nghĩ của tác giả? → Để đánh giá một con người, chỉ ấn tượng của một người là không đủ.",
+        "why": "Tác giả nói ấn tượng về con người khác nhau tùy người nhìn, nên viết giới thiệu về ai đó mà chỉ một người đi gặp thì 'không hoàn chỉnh' (不完全). Đó chính là ý của phương án 4.",
+        "options": [
+          "Sai: với cảnh vật/đồ vật, phán đoán của mọi người hầu như giống nhau (あまり変わらない), nên không cần nhiều ý kiến.",
+          "Sai: bài không nói ấn tượng về người 'chính xác hơn'; ngược lại, nó khác nhau nhiều.",
+          "Sai: ấn tượng khác nhau là do người nhìn khác nhau, không phải do 'tình huống nhìn'.",
+          "Chỉ ấn tượng của một người là không đủ để đánh giá con người. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "全体像", "r": "ぜんたいぞう", "hv": "TOÀN THỂ TƯỢNG", "vi": "bức tranh toàn cảnh" },
+          { "w": "印象", "r": "いんしょう", "hv": "ẤN TƯỢNG", "vi": "ấn tượng" },
+          { "w": "不完全", "r": "ふかんぜん", "hv": "BẤT HOÀN TOÀN", "vi": "không hoàn chỉnh" },
+          { "w": "採用", "r": "さいよう", "hv": "THẢI DỤNG", "vi": "tuyển dụng" }
+        ],
+        "grammar": null,
+        "evidence": "人物を見る時、人が感じる印象はかなり違うのである。ある人物のプロフィールを書くのならば、ひとりが会いに行っただけでは不完全だ。",
+        "tip": "不完全 = 不十分: bẫy từ đồng nghĩa giữa bài và phương án."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p2",
+      "stem": "このお知らせで伝えたいことは何か。",
+      "options": [
+        "9月5日から2号館のパソコン自習室が利用できなくなること。",
+        "10月1日から6号館のパソコン自習室が利用できること。",
+        "2号館のパソコン自習室の閉室日が早まったこと。",
+        "4号館のパソコン自習室の利用開始日が早まったこと。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều thông báo này muốn truyền đạt là gì? → Ngày đóng cửa phòng tự học máy tính ở tòa nhà số 2 đã được đẩy sớm lên.",
+        "why": "Trước đây thông báo dùng được đến 9/5, nay do thay đổi lịch thi công nên đóng cửa ngày 8/31 → ngày đóng cửa sớm hơn. Ngày mở cửa ở chỗ mới (10/1) không đổi.",
+        "options": [
+          "Sai: 9/5 là thông tin cũ; bây giờ đóng từ 8/31.",
+          "Sai: phòng ở tòa số 6 dùng được ngay trong thời gian di dời, không phải 'từ 10/1'.",
+          "Ngày đóng cửa phòng ở tòa số 2 sớm hơn. ĐÚNG.",
+          "Sai: ngày bắt đầu dùng ở tòa số 4 vẫn là 10/1, không thay đổi (変更ありません)."
+        ],
+        "vocab": [
+          { "w": "移転", "r": "いてん", "hv": "DI CHUYỂN", "vi": "di dời" },
+          { "w": "自習室", "r": "じしゅうしつ", "hv": "TỰ TẬP THẤT", "vi": "phòng tự học" },
+          { "w": "閉室", "r": "へいしつ", "hv": "BẾ THẤT", "vi": "đóng cửa phòng" },
+          { "w": "～に伴い", "r": "～にともない", "hv": "BẠN", "vi": "cùng với, kèm theo" }
+        ],
+        "grammar": null,
+        "evidence": "利用は9月5日までになるとお知らせしましたが、工事期間の変更により8月31日に閉室することになりました。移転先の利用開始は10月1日で変更ありません。",
+        "tip": "Thông báo thay đổi: tìm cặp 「～とお知らせしましたが」＋「～ことになりました」 → đó là ý chính."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p3",
+      "stem": "金魚の飼い方について、筆者の説明に合うのはどれか。",
+      "options": [
+        "えさの量を適切に調整すれば、金魚は活発に泳ぐ。",
+        "屋内より屋外で飼ったほうが、金魚はえさをよく食べる。",
+        "水温を適切にしておけば、金魚はえさをよく食べる。",
+        "水温とえさの量を一定に保てば、金魚は活発に泳ぐ。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về cách nuôi cá vàng, câu nào khớp với giải thích của tác giả? → Nếu giữ nhiệt độ nước thích hợp thì cá vàng sẽ ăn nhiều.",
+        "why": "Bài viết: dùng máy sưởi giữ nước ở 18–20 độ thì cá bơi khỏe và ăn nhiều. Yếu tố quyết định là nhiệt độ nước, không phải lượng thức ăn.",
+        "options": [
+          "Sai: điều chỉnh lượng thức ăn là để tránh khó tiêu, không làm cá bơi khỏe.",
+          "Sai: bài không so sánh nuôi trong nhà và ngoài trời.",
+          "Giữ nhiệt độ nước thích hợp → cá ăn nhiều. ĐÚNG.",
+          "Sai: bài không nói phải giữ lượng thức ăn cố định."
+        ],
+        "vocab": [
+          { "w": "水温", "r": "すいおん", "hv": "THỦY ÔN", "vi": "nhiệt độ nước" },
+          { "w": "消化", "r": "しょうか", "hv": "TIÊU HÓA", "vi": "tiêu hóa" },
+          { "w": "鈍い", "r": "にぶい", "hv": "ĐỘN", "vi": "chậm chạp" },
+          { "w": "活発", "r": "かっぱつ", "hv": "HOẠT PHÁT", "vi": "hoạt bát, năng động" }
+        ],
+        "grammar": null,
+        "evidence": "ヒーターを入れて、飼育水の温度を18～20度に保てば、金魚は活発に泳いでえさもよく食べるようになり、一年中元気な金魚と接することができます。",
+        "tip": "Bẫy: phương án 1 và 4 lấy từ 'えさ' và '活発' trong bài nhưng ghép sai quan hệ nhân quả."
+      }
+    },
+    {
+      "num": 55,
+      "passage": "p4",
+      "stem": "高原さんは、初回の会議までに何をしなければならないか。",
+      "options": [
+        "旧モデルのこれまでの販売実績が分かる資料を作成する。",
+        "旧モデルと新モデルの相違点をまとめた資料を作成する。",
+        "新モデルの概要と今後のスケジュール案を作成する。",
+        "企画課が作成したスケジュール案について、営業課の意見をまとめる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Anh Takahara phải làm gì trước buổi họp đầu tiên? → Làm tài liệu cho thấy kết quả bán hàng từ trước đến nay của mẫu cũ.",
+        "why": "Email yêu cầu phòng kinh doanh chuẩn bị tài liệu doanh số mẫu cũ, không chỉ năm trước mà toàn bộ từ khi bắt đầu bán → 'これまでの販売実績'.",
+        "options": [
+          "Tài liệu thành tích bán hàng mẫu cũ từ trước đến nay. ĐÚNG.",
+          "Sai: không yêu cầu so sánh mẫu cũ và mẫu mới.",
+          "Sai: tổng quan mẫu mới và lịch trình là do phòng kế hoạch (こちら) trình bày.",
+          "Sai: ý kiến được nêu tại cuộc họp sau khi nghe giải thích, không phải tổng hợp trước."
+        ],
+        "vocab": [
+          { "w": "営業課", "r": "えいぎょうか", "hv": "DOANH NGHIỆP KHÓA", "vi": "phòng kinh doanh" },
+          { "w": "企画課", "r": "きかくか", "hv": "XÍ HOẠCH KHÓA", "vi": "phòng kế hoạch" },
+          { "w": "販売実績", "r": "はんばいじっせき", "hv": "PHIẾN MẠI THỰC TÍCH", "vi": "thành tích bán hàng" },
+          { "w": "概要", "r": "がいよう", "hv": "KHÁI YẾU", "vi": "tổng quan" }
+        ],
+        "grammar": null,
+        "evidence": "営業課では旧モデルの売り上げについての資料をご準備ください。昨年度分だけでなく、販売開始以降のものすべてをお願いします。",
+        "tip": "販売開始以降のものすべて = これまでの販売実績."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p5",
+      "stem": "筆者が言いたいことは何か。",
+      "options": [
+        "与えられた仕事を楽しむことが大切だ。",
+        "興味のあることを仕事にするのがいい。",
+        "面白い仕事を与えられることが重要だ。",
+        "どんな仕事でも続けていれば楽しくなる。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều tác giả muốn nói là gì? → Nên lấy điều mình hứng thú làm công việc.",
+        "why": "Tác giả cho rằng nếu chỉ làm việc được giao thì có giới hạn; nên ưu tiên trước hết điều mình thấy thú vị rồi mới nghĩ đến công việc → biến điều mình thích thành công việc.",
+        "options": [
+          "Sai: đây là 'lẽ thường của xã hội' mà tác giả nêu ra để phản bác (でも…).",
+          "Lấy điều mình hứng thú làm công việc. ĐÚNG.",
+          "Sai: tác giả không chờ được giao việc thú vị, mà bắt đầu từ điều mình thấy thú vị.",
+          "Sai: bài không nói cứ tiếp tục là sẽ vui."
+        ],
+        "vocab": [
+          { "w": "のめりこむ", "r": "のめりこむ", "hv": "", "vi": "say mê, đắm chìm" },
+          { "w": "成立", "r": "せいりつ", "hv": "THÀNH LẬP", "vi": "hình thành, trở thành hiện thực" },
+          { "w": "常識", "r": "じょうしき", "hv": "THƯỜNG THỨC", "vi": "lẽ thường" },
+          { "w": "限界", "r": "げんかい", "hv": "HẠN GIỚI", "vi": "giới hạn" }
+        ],
+        "grammar": {
+          "pattern": "Nありき",
+          "meaning": "lấy N làm tiền đề, ưu tiên N trước tiên",
+          "form": "N＋ありき",
+          "example": "結論ありきの会議では意味がない。"
+        },
+        "evidence": "自分が何を面白いと感じるか。まずそれありきで仕事を考えた方がいいと思うのだ。",
+        "tip": "Ý kiến tác giả thường nằm sau でも／しかし và ở câu cuối có ～と思うのだ."
+      }
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "exam": "2023-07",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の(1)から(4)の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc 4 đoạn văn vừa (1)–(4) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "以下は、図書館で司書（注1）が子どもたちに本を読んで聞かせることについて書かれた文章である。\n\n<u>読み聞かせ</u>の時には、まず子どもたちに表紙を見せます。そして、ゆっくりと書名と筆者や画家の名前を読み上げます。表紙をめくると、見返し紙が出てきて、それは無地の色紙であったり、または本の中身とかかわる絵があったりするのですが、それもゆっくりと見せます。ここは、その本の中身に入る前の気持ちの準備のためのページなのです。それから扉のページがあって、開けるとその本の世界が広がります。\nつまり、すぐに本の中身に飛び込んでゆくのではなく、じっくりと本を見せて、そのお話の世界に子どもたちを案内する。ただ子どもたちがおもしろがればいいのではなく、一人ひとりがその世界に入っていく、そうして自分で何かを感じ取る、それが図書館でのお話し会なのです。\nその時、語り手が主役ではありません。筆者が読者に伝えたいことを、その代わりになって伝える仕事ですから、大げさな身振りや声色（注2）よりも、ごく（注3）自然な話し方と、それに伴う控えめな（注4）身振りで、筆者の思いを伝えようとします。\n（中略）\nそこで、司書は、読み聞かせやお話をする前に、その本を何度も読みこんで、この筆者が何をいおうとするのかを考え、どこに間を入れたらよいのかを考えます。それから練習に入ります。読み聞かせの場合も、本文をほとんど暗記するほどに読みこむことが必要とされています。子どもと本とを結びつけるのには、そういう配慮（注5）と厳しい訓練が必要なのです。\n\n（注1）司書：図書館の専門的な仕事をする職員\n（注2）声色：声の調子\n（注3）ごく：非常に\n（注4）控えめな：大げさでない\n（注5）配慮：ここでは、気持ち"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "いま、ハーバードやMIT（マサチューセッツ工科大学）、あるいは日本の京都大学でも、授業内容のインターネットでの公開を始めている。せっかく大学に入って授業料も支払っているのに、その内容がインターネットで見られるというのは、どういうことだろう。\n要するに、もはや（注1）、そこで得られる知識や情報＝コンテンツは世界共有になってしまったのだ。かつては、東京に行かなければ得られない知識、あるいはパリやニューヨークまで行かなければ得られない情報というものが確かにあった。しかし、いまや（注2）、どんな情報も知識も、インターネットで簡単に手に入れることができる。そのことを大前提にしつつ、それでも「ここで、共に、学ぶ」ことが重要な時代になってきたのだ。もはや、学校の、少なくとも大学以上の高等教育機関の存在価値は、新しい知識や情報を得る場所としてではなく、共に学び、議論し、共同作業を行うという点だけになった。\nだとするならば、大学側も、どのような学びの共同体をそこに実現するかを、きちんと公表していかなければならない。どんな学生に来て欲しいのかを示すと共に、どんな教職員がそこにいて、そこにどのような「学び」が実現するのかを、はっきりと示していかなければならない。\n\n（注1）もはや：すでに\n（注2）いまや：いまでは"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "自分を見失わない（注1）ためのコツとして、ぼくは「何でも正直に話をする」ようにしています。\nその場で波風（注2）を立てずに、聞き心地（注3）がいいことだけを他人に言っていたら、同じようなことを心の中で自分に対しても言うようになってしまいます。長期的に見て、「本心（注4）を口にしない」ことの悪影響は、非常に大きいのです。自分についたウソは、気付かないうちにそれがウソか本当かもわからなくなる。自分を慰めるために言っているのか、現実がそうなのか、区別がつかなくなります。これが怖いのです。\n（中略）\n自分にウソをつかないことのメリットはもう一つあります。「記憶のコスト」が低くなるということです。\nその場の空気で調子を合わせていると、「自分がどこで何を言ったか」を記憶しておかなければいけません。たくさんの案件（注5）を同時進行で動かしていると、自分がどのような基準で、どう判断したかを記憶することは、すごく大変な作業になります。\nただ正直ということを最優先していれば、忘れてしまっている案件でも、ほぼ同じ決断に辿り着くことができます。まわりに合わせて自分にウソをついていたりすると、まったく逆のことを言ってしまったりして、判断がぶれる（注6）のです。\n\n（注1）～を見失う：～がわからなくなる\n（注2）波風を立てずに：ここでは、雰囲気を悪くしないで\n（注3）聞き心地：聞いたときの感じ\n（注4）本心：本当の気持ち\n（注5）案件：ことがら\n（注6）ぶれる：ここでは、同じではなくなる"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "以下は、いい写真を撮りたいと思っている人に向けて書かれた文章である。\n\nポートフォリオ（注1）を作ることには大きく二つの意味がある。まず自分のため、そしてもう一つは他者に見せる（プレゼンテーションする）ためだ。写真を撮り続けるうちに、だんだん自分が何をしようとしているのかが見えてくる。被写体（注2）について漠然（注3）とした認識（注4）しか持てなかったのが、はっきりと焦点が絞られてきて、このやり方でいいのだという自信が芽生えてくる。そうなったらポートフォリオを作ってみるといい。\nよく「形にしてみないとわからない」というが、これは本当だと思う。作品をまとめることで、自信が確信に変わることがよくあるからだ。逆にポートフォリオにしてみると、自分の写真の弱点もよく見えてくる。撮影中には見過ごしていた（注5）ことが、後で冷静に見直すとくっきりと浮かび上がってくるのだ。欠けていたものを修整（注6）することで、作品をさらによくすることができるだろう。\n他人に見せるというのも大事なことだ。写真をどこかで発表したいとか、写真家として仕事をしたいという人は当然だが、そこまで考えていなくてもポートフォリオを人に見せるのはとても有意義だと思う。自分の作品がどれくらいのレベルにあるのか、どの程度のインパクトを持っているのか客観的に判断するきっかけになるからだ。\n（中略）\n作品は他者にきちんと届いて初めて価値を持つ。自己完結した（注7）小さな世界が、受け手とのキャッチボールでより大きなものになっていく。その第一歩としてポートフォリオを誰かに見せてみよう。\n\n（注1）ポートフォリオ：ここでは、自分が撮った写真をまとめたもの\n（注2）被写体：写真に撮られる対象\n（注3）漠然とした：ぼんやりとした\n（注4）認識：ここでは、捉え方\n（注5）見過ごしている：ここでは、気づいていない\n（注6）修整する：ここでは、補う\n（注7）自己完結した：ここでは、自分だけで出来上がった"
+    }
+  ],
+  "questions": [
+    {
+      "num": 57,
+      "passage": "p1",
+      "stem": "<u>読み聞かせ</u>の前に、語り手は子どもたちに対してどんな工夫をしているか。",
+      "options": [
+        "本の世界に入れるように、時間をかけて表紙から見せていく。",
+        "本の中身に飛び込めるように、表紙と絵の多いページを見せる。",
+        "関心を高めるために、表紙を見せながら多くの情報を伝える。",
+        "自分で何かを感じ取れるように、表紙から自由にめくらせる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Trước khi đọc truyện, người kể đã làm gì để giúp bọn trẻ? → Dành thời gian cho xem từ bìa sách để các em có thể bước vào thế giới của cuốn sách.",
+        "why": "Người kể cho xem bìa, đọc chậm tên sách, tác giả, rồi chậm rãi cho xem trang lót – đó là trang \"chuẩn bị tâm lý\". Tóm lại: không nhảy ngay vào nội dung mà từ từ dẫn trẻ vào thế giới câu chuyện.",
+        "options": [
+          "Từ từ cho xem từ bìa để trẻ vào thế giới của sách. ĐÚNG.",
+          "Bài nói rõ 「すぐに本の中身に飛び込んでゆくのではなく」 – ngược lại. Sai.",
+          "Chỉ đọc tên sách, tác giả, họa sĩ; không phải truyền nhiều thông tin. Sai.",
+          "Người kể cho xem, không phải để trẻ tự lật. Sai."
+        ],
+        "vocab": [
+          { "w": "読み聞かせ", "r": "よみきかせ", "hv": "ĐỘC VĂN", "vi": "đọc truyện cho nghe" },
+          { "w": "表紙", "r": "ひょうし", "hv": "BIỂU CHỈ", "vi": "bìa sách" },
+          { "w": "めくる", "r": "めくる", "hv": "", "vi": "lật (trang)" },
+          { "w": "中身", "r": "なかみ", "hv": "TRUNG THÂN", "vi": "nội dung bên trong" },
+          { "w": "案内する", "r": "あんないする", "hv": "ÁN NỘI", "vi": "dẫn dắt, hướng dẫn" }
+        ],
+        "grammar": {
+          "pattern": "AのではなくB",
+          "meaning": "không phải A mà là B",
+          "form": "普通形 ＋ のではなく",
+          "example": "答えを教えるのではなく、考えさせることが大切だ。"
+        },
+        "evidence": "つまり、すぐに本の中身に飛び込んでゆくのではなく、じっくりと本を見せて、そのお話の世界に子どもたちを案内する。",
+        "tip": "つまり = tóm lại → câu sau つまり thường là đáp án cho câu hỏi tổng hợp."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p1",
+      "stem": "筆者によると、本を読み聞かせるために語り手はどんな準備をしているか。",
+      "options": [
+        "子どもが楽しみながら聞けるように、子どもの興味を知る。",
+        "著者の思いが伝わるように、声の強弱をつけて読む練習をする。",
+        "著者の思いを届けるために、何度も読みこんで内容を理解し練習する。",
+        "著者が何をいおうとしているのかを考え、内容をいい換えられるようにする。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Theo tác giả, người kể chuẩn bị gì để đọc sách cho trẻ nghe? → Để truyền tải tâm tư tác giả, đọc đi đọc lại nhiều lần để hiểu nội dung rồi luyện tập.",
+        "why": "Trước buổi đọc, thủ thư đọc kỹ nhiều lần, suy nghĩ tác giả muốn nói gì, chỗ nào nên ngắt nghỉ, rồi luyện tập – đến mức gần như thuộc lòng.",
+        "options": [
+          "Bài không nói tìm hiểu sở thích của trẻ. Sai.",
+          "Bài nói tránh 大げさな声色, dùng cách nói tự nhiên – không phải luyện nhấn giọng mạnh nhẹ. Sai.",
+          "Đọc nhiều lần, hiểu nội dung, luyện tập. ĐÚNG.",
+          "Có \"nghĩ tác giả muốn nói gì\" nhưng không có \"diễn đạt lại nội dung\" – trái lại, phải gần như thuộc nguyên văn. Sai."
+        ],
+        "vocab": [
+          { "w": "語り手", "r": "かたりて", "hv": "NGỮ THỦ", "vi": "người kể chuyện" },
+          { "w": "読みこむ", "r": "よみこむ", "hv": "ĐỘC", "vi": "đọc kỹ, đọc nhiều lần" },
+          { "w": "暗記", "r": "あんき", "hv": "ÁM KÝ", "vi": "học thuộc lòng" },
+          { "w": "控えめ", "r": "ひかえめ", "hv": "KHỐNG", "vi": "chừng mực, khiêm tốn" },
+          { "w": "身振り", "r": "みぶり", "hv": "THÂN CHẤN", "vi": "cử chỉ" }
+        ],
+        "grammar": {
+          "pattern": "～ほど（程度）",
+          "meaning": "đến mức ~",
+          "form": "Vる ＋ ほど(に)",
+          "example": "涙が出るほど笑った。"
+        },
+        "evidence": "司書は、読み聞かせやお話をする前に、その本を何度も読みこんで、この筆者が何をいおうとするのかを考え、どこに間を入れたらよいのかを考えます。それから練習に入ります。",
+        "tip": "Đáp án 4 lấy một nửa câu trong bài (何をいおうとするのか) rồi ghép thêm ý lạ (いい換える) – bẫy \"đúng một nửa\"."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p2",
+      "stem": "いまの大学について、筆者の考えに合うのはどれか。",
+      "options": [
+        "授業内容の公開によって、授業料を支払う意味がなくなった。",
+        "どこにいても学べるようになって、大学を選ぶ必要がなくなった。",
+        "インターネットの発達で、世界で同じレベルの教育ができるようになった。",
+        "インターネットの普及で、知識や情報を得る場所としての価値はなくなった。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Về trường đại học hiện nay, điều nào phù hợp với suy nghĩ của tác giả? → Do Internet phổ biến, giá trị là nơi tiếp nhận tri thức, thông tin đã không còn.",
+        "why": "Mọi thông tin, tri thức đều lấy được dễ dàng qua Internet; giá trị tồn tại của đại học không còn là nơi lấy kiến thức mới mà chỉ còn ở việc cùng học, thảo luận, cộng tác.",
+        "options": [
+          "Tác giả chỉ đặt câu hỏi \"như vậy nghĩa là sao\", không kết luận học phí vô nghĩa. Sai.",
+          "Ngược lại, tác giả cho rằng đại học phải công bố rõ mình là cộng đồng học tập thế nào để được lựa chọn. Sai.",
+          "Bài nói kiến thức được chia sẻ toàn cầu, không nói giáo dục cùng trình độ. Sai.",
+          "Giá trị làm nơi tiếp nhận tri thức/thông tin đã mất. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "公開", "r": "こうかい", "hv": "CÔNG KHAI", "vi": "công khai, công bố" },
+          { "w": "共有", "r": "きょうゆう", "hv": "CỘNG HỮU", "vi": "chia sẻ chung" },
+          { "w": "高等教育機関", "r": "こうとうきょういくきかん", "hv": "CAO ĐẲNG GIÁO DỤC CƠ QUAN", "vi": "cơ sở giáo dục bậc cao" },
+          { "w": "存在価値", "r": "そんざいかち", "hv": "TỒN TẠI GIÁ TRỊ", "vi": "giá trị tồn tại" },
+          { "w": "普及", "r": "ふきゅう", "hv": "PHỔ CẬP", "vi": "phổ cập, phổ biến" }
+        ],
+        "grammar": {
+          "pattern": "AとしてではなくB",
+          "meaning": "không phải với tư cách A mà là B",
+          "form": "N ＋ としてではなく",
+          "example": "客としてではなく、友人として招待された。"
+        },
+        "evidence": "もはや、学校の、少なくとも大学以上の高等教育機関の存在価値は、新しい知識や情報を得る場所としてではなく、共に学び、議論し、共同作業を行うという点だけになった。",
+        "tip": "Bản đề đánh máy ghi 「授業内の公開」 ở đáp án 1, đã sửa thành 「授業内容の公開」."
+      }
+    },
+    {
+      "num": 60,
+      "passage": "p2",
+      "stem": "大学について、筆者が言いたいことは何か。",
+      "options": [
+        "学生が求めている学びの共同体を実現するべきだ。",
+        "ほかでは得られない情報や知識を提供する必要がある。",
+        "学びの共同体として、何ができるかを具体的に示す必要がある。",
+        "どのような学びの共同体を作るかを、学生自身にも考えさせるべきだ。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tác giả muốn nói gì về trường đại học? → Cần thể hiện cụ thể mình có thể làm được gì với tư cách là một cộng đồng học tập.",
+        "why": "Đoạn cuối: đại học phải công bố rõ sẽ hiện thực hóa cộng đồng học tập như thế nào – muốn sinh viên nào, có giảng viên nào, \"học\" kiểu gì – phải thể hiện rõ ràng.",
+        "options": [
+          "Bài không nói phải đáp ứng cộng đồng mà sinh viên mong muốn; trọng tâm là đại học công bố. Sai.",
+          "Ngược lại: thông tin, tri thức giờ đã có sẵn trên Internet. Sai.",
+          "Thể hiện cụ thể sẽ hiện thực hóa cộng đồng học tập thế nào. ĐÚNG.",
+          "Bài không nói để sinh viên tự nghĩ. Sai."
+        ],
+        "vocab": [
+          { "w": "共同体", "r": "きょうどうたい", "hv": "CỘNG ĐỒNG THỂ", "vi": "cộng đồng" },
+          { "w": "実現", "r": "じつげん", "hv": "THỰC HIỆN", "vi": "hiện thực hóa" },
+          { "w": "公表", "r": "こうひょう", "hv": "CÔNG BIỂU", "vi": "công bố" },
+          { "w": "教職員", "r": "きょうしょくいん", "hv": "GIÁO CHỨC VIÊN", "vi": "giảng viên và nhân viên" }
+        ],
+        "grammar": {
+          "pattern": "～ていかなければならない",
+          "meaning": "phải tiếp tục ~ (từ nay về sau)",
+          "form": "Vて ＋ いかなければならない",
+          "example": "環境問題に取り組んでいかなければならない。"
+        },
+        "evidence": "だとするならば、大学側も、どのような学びの共同体をそこに実現するかを、きちんと公表していかなければならない。…そこにどのような「学び」が実現するのかを、はっきりと示していかなければならない。",
+        "tip": "～なければならない／～べきだ ở đoạn cuối = chủ trương của tác giả."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p3",
+      "stem": "筆者によると、自分の本当の気持ちを言わないでいるとどうなるか。",
+      "options": [
+        "自分が本当だと思っていることがわからなくなる。",
+        "自分の本当の気持ちを常に隠すようになる。",
+        "他人と自分の気持ちの区別がつきにくくなる。",
+        "他人との関係がうまくいかなくなる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, nếu cứ không nói ra cảm xúc thật thì sẽ thế nào? → Sẽ không còn biết điều mình thực sự nghĩ là gì.",
+        "why": "Nói dối bản thân thì dần dần không phân biệt được đó là thật hay dối, là lời tự an ủi hay thực tế – tức là không biết cái mình cho là thật nữa.",
+        "options": [
+          "Không biết được đâu là điều mình thực sự nghĩ. ĐÚNG.",
+          "Bài không nói \"luôn che giấu\" – hậu quả là mất phân biệt thật/giả. Sai.",
+          "Không phân biệt được \"tự an ủi\" và \"thực tế\", không phải cảm xúc người khác và mình. Sai.",
+          "Bài không nói quan hệ với người khác xấu đi (ngược lại, mục đích là 波風を立てない). Sai."
+        ],
+        "vocab": [
+          { "w": "見失う", "r": "みうしなう", "hv": "KIẾN THẤT", "vi": "đánh mất, không còn nhận ra" },
+          { "w": "本心", "r": "ほんしん", "hv": "BẢN TÂM", "vi": "lòng thật" },
+          { "w": "悪影響", "r": "あくえいきょう", "hv": "ÁC ẢNH HƯỞNG", "vi": "ảnh hưởng xấu" },
+          { "w": "慰める", "r": "なぐさめる", "hv": "ÚY", "vi": "an ủi" },
+          { "w": "区別", "r": "くべつ", "hv": "KHU BIỆT", "vi": "phân biệt" }
+        ],
+        "grammar": {
+          "pattern": "～うちに",
+          "meaning": "trong lúc ~ (thì sự thay đổi xảy ra lúc nào không hay)",
+          "form": "Vない ＋ うちに／Vている ＋ うちに",
+          "example": "気付かないうちに、夜になっていた。"
+        },
+        "evidence": "自分についたウソは、気付かないうちにそれがウソか本当かもわからなくなる。自分を慰めるために言っているのか、現実がそうなのか、区別がつかなくなります。",
+        "tip": "Bản đề đánh máy có lỗi 「開き心地」「悪影警」, đã sửa thành 「聞き心地」「悪影響」."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p3",
+      "stem": "「記憶のコスト」が低くなるとはどういうことか。",
+      "options": [
+        "判断の基準を覚えていなくても、その場の空気に合わせて判断ができる。",
+        "判断の基準だけ覚えていれば、正しい決断ができる。",
+        "自分が言ったことを覚えていなくても、同じ決断ができる。",
+        "正直に話したことだけを思い出せば、同じ決断ができる。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "\"Chi phí ghi nhớ\" thấp đi nghĩa là gì? → Dù không nhớ mình đã nói gì, vẫn có thể đưa ra quyết định giống như trước.",
+        "why": "Nếu ưu tiên sự trung thực thì dù đã quên vụ việc, vẫn đi đến gần như cùng một quyết định → không cần nhớ mình đã nói gì ở đâu.",
+        "options": [
+          "\"Hùa theo không khí\" là điều tác giả phê phán (làm phán đoán dao động). Sai.",
+          "Tác giả nói không cần nhớ, chứ không nói chỉ cần nhớ tiêu chuẩn. Sai.",
+          "Không nhớ mình đã nói gì vẫn ra được cùng quyết định. ĐÚNG.",
+          "Không cần \"nhớ lại\" điều gì cả. Sai."
+        ],
+        "vocab": [
+          { "w": "記憶", "r": "きおく", "hv": "KÝ ỨC", "vi": "ghi nhớ, trí nhớ" },
+          { "w": "案件", "r": "あんけん", "hv": "ÁN KIỆN", "vi": "vụ việc, dự án" },
+          { "w": "基準", "r": "きじゅん", "hv": "CƠ CHUẨN", "vi": "tiêu chuẩn" },
+          { "w": "決断", "r": "けつだん", "hv": "QUYẾT ĐOÁN", "vi": "quyết định" },
+          { "w": "辿り着く", "r": "たどりつく", "hv": "", "vi": "đi đến, đạt tới" }
+        ],
+        "grammar": {
+          "pattern": "～ていれば",
+          "meaning": "chỉ cần (duy trì trạng thái) ~ thì",
+          "form": "Vて ＋ いれば",
+          "example": "毎日練習していれば、上手になる。"
+        },
+        "evidence": "ただ正直ということを最優先していれば、忘れてしまっている案件でも、ほぼ同じ決断に辿り着くことができます。",
+        "tip": "Đối chiếu: hùa theo không khí → phải nhớ \"đã nói gì ở đâu\" (chi phí cao); trung thực → không cần nhớ (chi phí thấp)."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p4",
+      "stem": "筆者によると、いつポートフォリオを作ってみるのがいいか。",
+      "options": [
+        "自分の写真を他人に見てもらって、自信を持ちたいと思ったとき。",
+        "自分の撮りたい写真が明確になって、自信がついてきたとき。",
+        "対象をさまざまな捉え方で撮れるようになったとき。",
+        "いい写真が撮れて、人に見せたいと思ったとき。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo tác giả, khi nào nên thử làm portfolio? → Khi đã rõ mình muốn chụp ảnh gì và bắt đầu có tự tin.",
+        "why": "Chụp mãi sẽ thấy rõ mình muốn làm gì; từ nhận thức mơ hồ, tiêu điểm trở nên rõ ràng, nảy sinh tự tin \"làm thế này là đúng\" → そうなったら làm portfolio.",
+        "options": [
+          "Tự tin đã có trước khi làm portfolio; không phải nhờ người khác xem để có tự tin. Sai.",
+          "Rõ ràng điều mình muốn chụp + bắt đầu tự tin. ĐÚNG.",
+          "Bài nói tiêu điểm được thu hẹp (焦点が絞られる), không phải chụp được nhiều cách nhìn. Sai.",
+          "Bài không nói \"chụp được ảnh đẹp, muốn khoe\" là thời điểm. Sai."
+        ],
+        "vocab": [
+          { "w": "被写体", "r": "ひしゃたい", "hv": "BỊ TẢ THỂ", "vi": "đối tượng chụp" },
+          { "w": "漠然", "r": "ばくぜん", "hv": "MẠC NHIÊN", "vi": "mơ hồ" },
+          { "w": "焦点", "r": "しょうてん", "hv": "TIÊU ĐIỂM", "vi": "tiêu điểm" },
+          { "w": "絞る", "r": "しぼる", "hv": "GIẢO", "vi": "thu hẹp; vắt" },
+          { "w": "芽生える", "r": "めばえる", "hv": "NHA SINH", "vi": "nảy mầm, nảy sinh" }
+        ],
+        "grammar": {
+          "pattern": "～たら～といい",
+          "meaning": "khi ~ thì nên ~ (lời khuyên)",
+          "form": "Vたら ＋ Vる ＋ といい",
+          "example": "疲れたら少し休むといい。"
+        },
+        "evidence": "被写体について漠然とした認識しか持てなかったのが、はっきりと焦点が絞られてきて、このやり方でいいのだという自信が芽生えてくる。そうなったらポートフォリオを作ってみるといい。",
+        "tip": "Câu hỏi \"khi nào\" → tìm từ chỉ thời điểm trong bài: そうなったら… → xem そう chỉ cái gì ở câu trước."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p4",
+      "stem": "筆者によると、ポートフォリオを他人に見せるといいのはなぜか。",
+      "options": [
+        "自分が写真家になれるレベルかどうかがわかるから。",
+        "作品を他人が正しく理解したかどうかがわかるから。",
+        "作品の欠点がわかり、新しい撮り方ができるから。",
+        "作品に対する他人の評価を知ることができるから。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, vì sao nên cho người khác xem portfolio? → Vì có thể biết được đánh giá của người khác đối với tác phẩm.",
+        "why": "Cho người khác xem là cơ hội phán đoán khách quan tác phẩm của mình đang ở trình độ nào, có sức tác động đến mức nào → tức là biết người khác đánh giá ra sao.",
+        "options": [
+          "Bài nói dù không định làm nhiếp ảnh gia cũng nên cho xem; không phải để biết có đủ trình làm chuyên nghiệp. Sai.",
+          "Bài không nói kiểm tra người khác có hiểu đúng không. Sai.",
+          "Thấy điểm yếu là lợi ích của việc tự tổng hợp portfolio (cho bản thân), không phải của việc cho người khác xem. Sai.",
+          "Biết được đánh giá (khách quan) của người khác. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "有意義", "r": "ゆういぎ", "hv": "HỮU Ý NGHĨA", "vi": "có ý nghĩa, bổ ích" },
+          { "w": "客観的", "r": "きゃっかんてき", "hv": "KHÁCH QUAN ĐÍCH", "vi": "khách quan" },
+          { "w": "判断", "r": "はんだん", "hv": "PHÁN ĐOÁN", "vi": "phán đoán" },
+          { "w": "評価", "r": "ひょうか", "hv": "BÌNH GIÁ", "vi": "đánh giá" },
+          { "w": "きっかけ", "r": "きっかけ", "hv": "", "vi": "cơ hội, động lực" }
+        ],
+        "grammar": {
+          "pattern": "～て初めて",
+          "meaning": "phải ~ rồi mới (lần đầu) ~",
+          "form": "Vて ＋ 初めて",
+          "example": "病気になって初めて健康の大切さがわかった。"
+        },
+        "evidence": "自分の作品がどれくらいのレベルにあるのか、どの程度のインパクトを持っているのか客観的に判断するきっかけになるからだ。",
+        "tip": "Bài chia 2 lợi ích: cho bản thân (thấy điểm yếu) và cho người khác xem (biết đánh giá khách quan). Đáp án 3 là lợi ích thứ nhất – bẫy nhầm đoạn."
+      }
+    }
+  ]
+}

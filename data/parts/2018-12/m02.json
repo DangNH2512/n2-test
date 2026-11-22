@@ -1,0 +1,136 @@
+{
+  "exam": "2018-12",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết chữ Hán đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "明日10時に<u>むかえ</u>に行きます。",
+      "options": ["招え", "仰え", "迎え", "紹え"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Ngày mai tôi sẽ đi đón lúc 10 giờ.",
+        "why": "むかえる viết là 迎える (NGHÊNH) = đón. 迎えに行く = đi đón.",
+        "options": [
+          "招え → 招 là まねく (招く: mời). Không có 招え. Sai.",
+          "仰え → 仰 là あおぐ (仰ぐ: ngửa nhìn, kính ngưỡng). Sai.",
+          "迎え → むかえ: sự đón. ĐÚNG.",
+          "紹え → 紹 chỉ dùng trong 紹介 (しょうかい). Sai."
+        ],
+        "vocab": [
+          { "w": "迎える", "r": "むかえる", "hv": "NGHÊNH", "vi": "đón, tiếp đón" },
+          { "w": "歓迎", "r": "かんげい", "hv": "HOAN NGHÊNH", "vi": "hoan nghênh, chào đón" },
+          { "w": "招く", "r": "まねく", "hv": "CHIÊU", "vi": "mời, chiêu mời; gây ra" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "迎 có bộ 辶 (đi lại) → đi ra đón người. Cùng họ: 歓迎会 (tiệc chào mừng)."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "坂本さんは<u>かいご</u>の仕事をしている。",
+      "options": ["看穫", "介護", "介種", "看護"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh/chị Sakamoto đang làm công việc chăm sóc (người già, người khuyết tật).",
+        "why": "かいご viết là 介護 (GIỚI HỘ) = điều dưỡng, chăm sóc. 介 = かい, 護 = ご.",
+        "options": [
+          "看穫 → không có từ này (穫 là かく trong 収穫). Sai.",
+          "介護 → かいご: chăm sóc, điều dưỡng. ĐÚNG.",
+          "介種 → 種 là しゅ/たね, không phải ご. Sai.",
+          "看護 → かんご: hộ lý, y tá (chăm sóc bệnh nhân). Đọc khác. Sai."
+        ],
+        "vocab": [
+          { "w": "介護", "r": "かいご", "hv": "GIỚI HỘ", "vi": "chăm sóc, điều dưỡng" },
+          { "w": "看護", "r": "かんご", "hv": "KHÁN HỘ", "vi": "chăm sóc bệnh nhân (y tá)" },
+          { "w": "保護", "r": "ほご", "hv": "BẢO HỘ", "vi": "bảo hộ, bảo vệ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "介護 (かいご) ≠ 看護 (かんご): chữ đầu quyết định cách đọc. 護 (ご) có bộ 言."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "カップや皿を同じ<u>けいとう</u>の色でそろえた。",
+      "options": ["系統", "系等", "形統", "形等"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đã sắp đồng bộ cốc và đĩa theo cùng một tông màu.",
+        "why": "けいとう viết là 系統 (HỆ THỐNG) = hệ thống, dòng, tông (màu). 同じ系統の色 = màu cùng tông.",
+        "options": [
+          "系統 → けいとう: hệ thống, dòng, tông. ĐÚNG.",
+          "系等 → 等 là とう nhưng không có từ 系等. Sai.",
+          "形統 → 形 là けい nhưng không có từ này. Sai.",
+          "形等 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "系統", "r": "けいとう", "hv": "HỆ THỐNG", "vi": "hệ thống, dòng, tông" },
+          { "w": "揃える", "r": "そろえる", "hv": "TIỄN", "vi": "sắp cho đồng bộ, gom đủ" },
+          { "w": "統一", "r": "とういつ", "hv": "THỐNG NHẤT", "vi": "thống nhất" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "統 (とう) = thống nhất, quản lý: 伝統, 統計. 系 (けい) = hệ: 体系, 系列."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "古い新聞や本をひもで<u>たばねた</u>。",
+      "options": ["結ねた", "収ねた", "包ねた", "束ねた"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi đã buộc báo cũ và sách lại thành bó bằng dây.",
+        "why": "たばねる viết là 束ねる (THÚC) = bó lại, buộc thành bó. 束 (たば) = bó.",
+        "options": [
+          "結ねた → 結 là むすぶ (結ぶ: buộc, thắt). Sai.",
+          "収ねた → 収 là おさめる (収める). Sai.",
+          "包ねた → 包 là つつむ (包む: gói). Sai.",
+          "束ねた → たばねた: đã bó lại. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "束ねる", "r": "たばねる", "hv": "THÚC", "vi": "bó lại, buộc thành bó" },
+          { "w": "花束", "r": "はなたば", "hv": "HOA THÚC", "vi": "bó hoa" },
+          { "w": "紐", "r": "ひも", "hv": "NỮU", "vi": "dây" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "束 = 木 bị buộc ở giữa → bó củi. 約束 (やくそく: hứa hẹn) cũng dùng chữ này."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "出張後、費用の<u>せいさん</u>をした。",
+      "options": ["請算", "製算", "精算", "制算"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Sau chuyến công tác, tôi đã thanh toán (quyết toán) chi phí.",
+        "why": "せいさん (quyết toán, tính toán lại chính xác) viết là 精算 (TINH TOÁN). 費用の精算 = quyết toán chi phí.",
+        "options": [
+          "請算 → không có từ này (請 = 請求 せいきゅう). Sai.",
+          "製算 → 製 dùng trong 製品, 製造. Không có từ này. Sai.",
+          "精算 → せいさん: quyết toán, thanh toán chênh lệch. ĐÚNG.",
+          "制算 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "精算", "r": "せいさん", "hv": "TINH TOÁN", "vi": "quyết toán, tính lại chính xác" },
+          { "w": "出張", "r": "しゅっちょう", "hv": "XUẤT TRƯƠNG", "vi": "đi công tác" },
+          { "w": "費用", "r": "ひよう", "hv": "PHÍ DỤNG", "vi": "chi phí" },
+          { "w": "生産", "r": "せいさん", "hv": "SINH SẢN", "vi": "sản xuất (đồng âm)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "せいさん có nhiều đồng âm: 精算 (quyết toán), 生産 (sản xuất), 清算 (thanh lý, thanh toán nợ). Ở ga tàu có 精算機 (máy bù tiền vé)."
+      }
+    }
+  ]
+}

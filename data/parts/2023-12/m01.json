@@ -1,0 +1,139 @@
+{
+  "exam": "2023-12",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "昨日から<u>腕</u>が痛くて困っている。",
+      "options": ["こし", "うで", "かた", "ひざ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Từ hôm qua cánh tay tôi bị đau, thật khổ sở.",
+        "why": "腕 đọc âm Kun là うで (OẢN) = cánh tay. Các lựa chọn còn lại đều là bộ phận cơ thể khác, viết bằng chữ Hán khác.",
+        "options": [
+          "こし → 腰: thắt lưng, hông. Sai.",
+          "うで → 腕: cánh tay. ĐÚNG.",
+          "かた → 肩: vai. Sai.",
+          "ひざ → 膝: đầu gối. Sai."
+        ],
+        "vocab": [
+          { "w": "腕", "r": "うで", "hv": "OẢN", "vi": "cánh tay; tay nghề" },
+          { "w": "腰", "r": "こし", "hv": "YÊU", "vi": "thắt lưng, hông" },
+          { "w": "肩", "r": "かた", "hv": "KIÊN", "vi": "vai" },
+          { "w": "膝", "r": "ひざ", "hv": "TẤT", "vi": "đầu gối" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "腕 còn có nghĩa \"tay nghề\": 腕がいい (giỏi nghề), 腕時計 (うでどけい – đồng hồ đeo tay). Âm On: わん (腕力 わんりょく)."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "青木さんは<u>善良</u>な人です。",
+      "options": ["せんりょう", "ぜんりゅう", "ぜんりょう", "せんりゅう"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh/chị Aoki là một người lương thiện.",
+        "why": "善良 đọc là ぜんりょう (THIỆN LƯƠNG) = lương thiện, hiền lành. 善 đọc ぜん (âm đục), 良 đọc りょう (trường âm ょう, không phải ゅう).",
+        "options": [
+          "せんりょう → 善 phải là âm đục ぜん. (せんりょう là 占領: chiếm đóng). Sai.",
+          "ぜんりゅう → 良 đọc りょう, không phải りゅう. Sai.",
+          "ぜんりょう → 善良: lương thiện. ĐÚNG.",
+          "せんりゅう → 川柳: thể thơ trào phúng. Sai."
+        ],
+        "vocab": [
+          { "w": "善良", "r": "ぜんりょう", "hv": "THIỆN LƯƠNG", "vi": "lương thiện, hiền lành" },
+          { "w": "改善", "r": "かいぜん", "hv": "CẢI THIỆN", "vi": "cải thiện" },
+          { "w": "不良", "r": "ふりょう", "hv": "BẤT LƯƠNG", "vi": "hư hỏng, kém chất lượng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "良 luôn đọc りょう (良好 りょうこう, 優良 ゆうりょう). りゅう là của 流・留・竜."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "丸山さんは意外に<u>幼い</u>ところがある。",
+      "options": ["おさない", "するどい", "かしこい", "しつこい"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Anh/chị Maruyama có những điểm trẻ con (non nớt) ngoài dự đoán.",
+        "why": "幼い đọc là おさない (ẤU) = nhỏ tuổi, trẻ con, non nớt. 幼い + ところがある = có mặt trẻ con.",
+        "options": [
+          "おさない → 幼い: nhỏ, trẻ con, non nớt. ĐÚNG.",
+          "するどい → 鋭い: sắc bén, nhạy bén. Sai.",
+          "かしこい → 賢い: thông minh. Sai.",
+          "しつこい → dai dẳng, lằng nhằng (thường viết kana). Sai."
+        ],
+        "vocab": [
+          { "w": "幼い", "r": "おさない", "hv": "ẤU", "vi": "nhỏ tuổi, trẻ con, non nớt" },
+          { "w": "幼稚園", "r": "ようちえん", "hv": "ẤU TRĨ VIÊN", "vi": "trường mẫu giáo" },
+          { "w": "意外", "r": "いがい", "hv": "Ý NGOẠI", "vi": "ngoài dự đoán, bất ngờ" },
+          { "w": "鋭い", "r": "するどい", "hv": "NHUỆ", "vi": "sắc bén" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "幼: âm On よう (幼児 ようじ, 幼稚 ようち), âm Kun おさな(い). 幼なじみ = bạn từ thuở nhỏ."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "古いデータを<u>削除</u>した。",
+      "options": ["そくよ", "さくよ", "そくじょ", "さくじょ"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi đã xóa dữ liệu cũ.",
+        "why": "削除 đọc là さくじょ (TƯỚC TRỪ) = xóa bỏ. 削 đọc さく, 除 đọc じょ (như 掃除 そうじ, 除外 じょがい).",
+        "options": [
+          "そくよ → sai cả hai âm. Sai.",
+          "さくよ → 除 không đọc よ (よ là của 余・予). Sai.",
+          "そくじょ → 削 không đọc そく (そく là 速・測・則). Sai.",
+          "さくじょ → 削除: xóa bỏ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "削除", "r": "さくじょ", "hv": "TƯỚC TRỪ", "vi": "xóa, loại bỏ" },
+          { "w": "削る", "r": "けずる", "hv": "TƯỚC", "vi": "gọt, cắt giảm" },
+          { "w": "削減", "r": "さくげん", "hv": "TƯỚC GIẢM", "vi": "cắt giảm" },
+          { "w": "除く", "r": "のぞく", "hv": "TRỪ", "vi": "loại trừ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "除 = じょ: 掃除 そうじ là ngoại lệ (じ). Còn lại: 除外 じょがい, 解除 かいじょ, 削除 さくじょ."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "私たちは働く機会の<u>平等</u>を求めています。",
+      "options": ["へいど", "びょうどう", "びょうど", "へいどう"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Chúng tôi đang đòi hỏi sự bình đẳng về cơ hội làm việc.",
+        "why": "平等 đọc là びょうどう (BÌNH ĐẲNG) = bình đẳng. Đây là cách đọc đặc biệt: 平 đọc びょう (không phải へい), 等 đọc どう (trường âm).",
+        "options": [
+          "へいど → sai cả 平 và trường âm của 等. Sai.",
+          "びょうどう → 平等: bình đẳng. ĐÚNG.",
+          "びょうど → thiếu trường âm (どう). Sai.",
+          "へいどう → 平 trong 平等 đọc びょう. Sai."
+        ],
+        "vocab": [
+          { "w": "平等", "r": "びょうどう", "hv": "BÌNH ĐẲNG", "vi": "bình đẳng" },
+          { "w": "不平等", "r": "ふびょうどう", "hv": "BẤT BÌNH ĐẲNG", "vi": "bất bình đẳng" },
+          { "w": "機会", "r": "きかい", "hv": "CƠ HỘI", "vi": "cơ hội" },
+          { "w": "求める", "r": "もとめる", "hv": "CẦU", "vi": "yêu cầu, tìm kiếm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "平 đọc びょう chỉ trong vài từ: 平等 びょうどう. Thông thường là へい (平和 へいわ) hoặc ひら (平仮名)."
+      }
+    }
+  ]
+}

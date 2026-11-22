@@ -1,0 +1,292 @@
+{
+  "exam": "2015-12",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（1）から（3）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(3) và chọn câu trả lời đúng nhất cho mỗi câu hỏi (đọc hiểu đoạn trung bình).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "人間というのは、自分でわかっていることに関しては手早くポイントだけを取り出して相手に教えて、たくさんの説明をつい省略してしまいがちだ。そのせいで、教わる側が理解しにくくなってしまうこともある。人に教える時には、自分が理解した時点まで戻ってていねいに相手に伝えないと、うまく理解してもらえないのではないか。\nまた、そのプロセスのなかで、教わる側が積極的に質問することがとても重要だと思う。質問をすれば、何を理解していないのか。何を誤解しているのかが、教える側にとてもよくわかるからだ。それに、同じことでも繰り返し説明されることによって、理解が深まるケース（注1）も多い。\n個人的には、一回だけの説明で理解してもらえるケースというのは、実はとても少ないのではないかと思っている。\nまた、すべてを教えるのではなく大部分を伝え、最後の部分は自分で考えて理解させるようにするのが、理想的な教え方ではないかと考えている。\n一方的に入ってきた知識は、一方的に出て行きやすい。しかし、自分で体得（注2）したものは出て行きにくい。\n小学生に大学の講義を聞かせてもチンプンカンプンな（注3）ように、相手のレベルに合わせて、相手が必要としていることを教えなければ意味はない。それは、非常に微妙な調整を必要とする、<u>ある種の職人技</u>だ。そんなところが、教える側の大きなやり甲斐ではないかと考えている。\n\n（羽生善治『大局観―自分と闘って負けない心』による）\n（注1）ケース：場合\n（注2）体得する：身につける\n（注3）チンプンカンプンな：全くわからない"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "近年、おもちゃメーカーが大人向けのおもちゃに力を入れ、売り上げを伸ばしている。少子化に伴い、マーケットを大人にまで広げる必要性が出てきたという事情もあるが、この売り上げの伸び方はそれだけでは説明できない。その裏には、大人に「おもちゃを買いたい」と思わせたおもちゃメーカーの戦略がある。\n子供の時に欲しいおもちゃをすべて買ってもらえたという人はいないだろう。買ってもらいたかったのにという思いを忘れられず、今でもおもちゃに思いを寄せる大人は意外と多い。おもちゃメーカーは<u>そこに注目した</u>。しかし、大人が子供向けのおもちゃを買うことには抵抗感があると同時に、物足りなさも感じる。大人向けのおもちゃには、大人が買いたくなる工夫が必要だ。例えば、鉄道模型には特殊な素材を使用し、完成後にインテリアとして飾ることができる。組み立て式のミニギターは組み立て後に本格的な演奏も楽しめるし、色使いが落ち着いたカードのゲームは気持ちをリラックスさせる。このように、大人向けのおもちゃには単におもちゃとして遊ぶだけではない他の魅力がある。\nまた、大人向けのおもちゃは高いものが多い。高くしたほうが価値があると考えられて人気が出ることさえある。一般的にメーカーは商品価格をあまり高く設定できないものだが、大人向けのおもちゃならできる。おもちゃメーカーにとっては魅力的なマーケットである。"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "今の若い人は、ある程度完備した科学社会に生まれている。携帯電話もカーナビ（注1）も当たり前になった社会である。発展の過程を見ていない彼らは、どういった原理でそれらが機能しているのかを知らない。知らなくても、その恩恵を受けることができる。充電さえしていれば、誰とでもいつでも連絡がつくと信じている。電波がどんなもので、どのような設備によって成り立っているのかを知らない人が多い。十数メートルしか離れていない場所なのに、携帯電話が通じなくなることがあるなんて、考えてもいないだろう。\nこういった「科学離れ」については、昔から問題意識はあった。だから、子供たち向けに科学を教育するシステムをいろいろな形で模索（注2）してきた。けれども、<u>僕が感じることが一つある</u>。そういう教育をしているのは、科学が好きな人たちだ。だから、口を揃えてこう言う、「科学の楽しさを子供たちに知ってもらいたい」と。この言葉を聞くたびに、「楽しさ」を押しつけている姿勢を感じずにはいられない。読書の楽しみを知ってもらいたい。スポーツの楽しさを感じてもらいたい。ほかの分野でも、こういった姿勢は根強い。しかし、科学の場合は、そんな悠長な（注3）問題ではない、と思うのだ。読書やスポーツが嫌いな人は、それをしなくても良いだろう。楽しみは、ほかにいくらでもある。しかし、科学を避けることは、この現代に生きていくうえではほとんど無理なのである。（中略）もはや（注4）、好きとか嫌いで片づけられる（注5）ものではない、ということだ。\n\n（森博嗣『科学的とはどういう意味か』による）\n（注1）カーナビ：自分の車の位置を知らせながら道案内する装置\n（注2）模索する：探し求める\n（注3）悠長な：のんびりした\n（注4）もはや：今ではもう\n（注5）片づける：済ます"
+    }
+  ],
+  "questions": [
+    {
+      "num": 60,
+      "passage": "p1",
+      "stem": "教える側がよくしてしまうことは何か。",
+      "options": ["自分がわかっていることは相手にすべて教える。", "自分がわかっていることは簡単な説明で済ませる。", "自分がよく理解していないことは説明を省略する。", "自分が理解したのと同じやり方で相手に理解させる。"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Người dạy thường hay mắc điều gì? → Với những gì mình đã hiểu thì chỉ giải thích qua loa đơn giản.",
+        "why": "Câu đầu: với điều mình hiểu, người ta có xu hướng chỉ rút ra ý chính để dạy và lược bỏ nhiều phần giải thích (〜てしまいがちだ). = giải thích đơn giản cho xong → đáp án 2.",
+        "options": [
+          "Sai: ngược lại, họ lược bỏ chứ không dạy hết.",
+          "Đúng: chỉ lấy ý chính, bỏ bớt giải thích = 簡単な説明で済ませる. ĐÚNG.",
+          "Sai: bài nói về điều mình ĐÃ hiểu, không phải điều chưa hiểu.",
+          "Sai: tác giả khuyên quay lại thời điểm mình hiểu để giải thích – đó là lời khuyên, không phải thói quen xấu."
+        ],
+        "vocab": [
+          { "w": "手早く", "r": "てばやく", "hv": "THỦ TẢO", "vi": "nhanh gọn" },
+          { "w": "省略", "r": "しょうりゃく", "hv": "TỈNH LƯỢC", "vi": "lược bỏ" },
+          { "w": "済ませる", "r": "すませる", "hv": "TẾ", "vi": "làm cho xong" }
+        ],
+        "grammar": {
+          "pattern": "～がちだ",
+          "meaning": "hay, có xu hướng ~ (thường là xấu)",
+          "form": "Vます(bỏ ます)／N + がちだ",
+          "example": "冬は運動不足になりがちだ。"
+        },
+        "evidence": "人間というのは、自分でわかっていることに関しては手早くポイントだけを取り出して相手に教えて、たくさんの説明をつい省略してしまいがちだ。",
+        "tip": "Câu hỏi \"よくしてしまうこと\" → tìm 〜がちだ／つい〜てしまう trong bài."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p1",
+      "stem": "理想的な教え方とはどのようにすることか。",
+      "options": ["教わる側に質問をして、理解できたかを確認すること", "教わる側と一緒に考えながら、理解させるようにすること", "最後にそれまでの内容をまとめて説明し、理解を深めさせること", "最後の部分は、教わる側に自分で考えて理解させるようにすること"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Cách dạy lý tưởng là như thế nào? → Phần cuối thì để người học tự suy nghĩ và hiểu.",
+        "why": "Bài viết rõ: không dạy hết mà truyền đạt phần lớn, phần cuối để người học tự suy nghĩ để hiểu – đó là cách dạy lý tưởng. Vì kiến thức tự lĩnh hội (体得) khó quên.",
+        "options": [
+          "Sai: bài nói người HỌC nên chủ động đặt câu hỏi, không phải người dạy hỏi để kiểm tra.",
+          "Sai: không phải cùng suy nghĩ; phần cuối để người học TỰ nghĩ.",
+          "Sai: không nói tóm tắt lại ở cuối.",
+          "Đúng: 最後の部分は自分で考えて理解させる. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "理想的", "r": "りそうてき", "hv": "LÝ TƯỞNG ĐÍCH", "vi": "lý tưởng" },
+          { "w": "体得", "r": "たいとく", "hv": "THỂ ĐẮC", "vi": "lĩnh hội, thấm nhuần bằng trải nghiệm" },
+          { "w": "大部分", "r": "だいぶぶん", "hv": "ĐẠI BỘ PHẬN", "vi": "phần lớn" }
+        ],
+        "grammar": {
+          "pattern": "～のではなく",
+          "meaning": "không phải ~ mà là",
+          "form": "Vる／N + のではなく",
+          "example": "答えを教えるのではなく、考え方を教える。"
+        },
+        "evidence": "すべてを教えるのではなく大部分を伝え、最後の部分は自分で考えて理解させるようにするのが、理想的な教え方ではないかと考えている。",
+        "tip": "Từ khóa câu hỏi (理想的な教え方) xuất hiện nguyên văn trong bài → đọc câu chứa nó."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p1",
+      "stem": "<u>ある種の職人技</u>とあるが、どのようなことか。",
+      "options": ["相手が覚えるまで繰り返し教えられること", "相手のレベルを超えた内容も教えられること", "内容や教え方を相手に応じて変えられること", "誰でも理解できるような知識だけを選べること"],
+      "answer": 3,
+      "explanation": {
+        "translation": "\"Một loại tay nghề nghệ nhân\" nghĩa là gì? → Có thể thay đổi nội dung và cách dạy cho phù hợp với người học.",
+        "why": "それ (= 職人技) chỉ câu trước: 相手のレベルに合わせて、相手が必要としていることを教える – điều chỉnh tinh tế theo trình độ và nhu cầu người học → đáp án 3.",
+        "options": [
+          "Sai: lặp lại có được nhắc, nhưng không phải là \"tay nghề\" được nói đến.",
+          "Sai: ngược ý – dạy vượt trình độ (giảng đại học cho học sinh tiểu học) là vô nghĩa.",
+          "Đúng: điều chỉnh nội dung, cách dạy theo người học. ĐÚNG.",
+          "Sai: không phải chọn kiến thức ai cũng hiểu, mà là hợp với từng người."
+        ],
+        "vocab": [
+          { "w": "職人技", "r": "しょくにんわざ", "hv": "CHỨC NHÂN KỸ", "vi": "tay nghề của nghệ nhân" },
+          { "w": "微妙", "r": "びみょう", "hv": "VI DIỆU", "vi": "tinh tế, tế nhị" },
+          { "w": "調整", "r": "ちょうせい", "hv": "ĐIỀU CHỈNH", "vi": "điều chỉnh" },
+          { "w": "やり甲斐", "r": "やりがい", "hv": "GIÁP", "vi": "giá trị, ý nghĩa khi làm việc gì" }
+        ],
+        "grammar": {
+          "pattern": "～に合わせて／～に応じて",
+          "meaning": "phù hợp với ~, tùy theo ~",
+          "form": "N + に合わせて／に応じて",
+          "example": "客の好みに応じて、味を変える。"
+        },
+        "evidence": "相手のレベルに合わせて、相手が必要としていることを教えなければ意味はない。それは、非常に微妙な調整を必要とする、ある種の職人技だ。",
+        "tip": "Phần gạch chân có それは ngay trước → nội dung nằm ở câu liền trước."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p2",
+      "stem": "<u>そこに注目した</u>とあるが、何に注目したのか。",
+      "options": ["子供の時にあまりおもちゃで遊ばなかった大人が多くいること", "子供の時に遊んでいたおもちゃを大人が欲しがっていること", "おもちゃへの思いを持ち続けている大人が多くいること", "おもちゃの中には大人でも楽しめるものがあること"],
+      "answer": 3,
+      "explanation": {
+        "translation": "\"Chú ý vào điểm đó\" – đã chú ý vào điều gì? → Việc có nhiều người lớn vẫn mang mãi tình cảm với đồ chơi.",
+        "why": "そこ chỉ câu trước: 今でもおもちゃに思いを寄せる大人は意外と多い (có bất ngờ nhiều người lớn đến giờ vẫn còn gửi gắm tình cảm vào đồ chơi) → đáp án 3.",
+        "options": [
+          "Sai: bài nói không được mua hết đồ chơi muốn có, không phải ít chơi đồ chơi.",
+          "Sai: họ nhớ món đồ chơi MUỐN mà không được mua, không phải món đã từng chơi.",
+          "Đúng: nhiều người lớn vẫn còn tình cảm với đồ chơi. ĐÚNG.",
+          "Sai: đây là chiến lược sau đó (thiết kế cho người lớn), không phải điều được \"chú ý\"."
+        ],
+        "vocab": [
+          { "w": "注目", "r": "ちゅうもく", "hv": "CHÚ MỤC", "vi": "chú ý, để mắt tới" },
+          { "w": "思いを寄せる", "r": "おもいをよせる", "hv": "TƯ KÝ", "vi": "gửi gắm tình cảm, hướng lòng về" },
+          { "w": "少子化", "r": "しょうしか", "hv": "THIỂU TỬ HÓA", "vi": "tình trạng ít trẻ em" },
+          { "w": "戦略", "r": "せんりゃく", "hv": "CHIẾN LƯỢC", "vi": "chiến lược" }
+        ],
+        "grammar": null,
+        "evidence": "買ってもらいたかったのにという思いを忘れられず、今でもおもちゃに思いを寄せる大人は意外と多い。おもちゃメーカーはそこに注目した。",
+        "tip": "Bẫy đáp án 2: \"đồ chơi từng chơi\" ≠ \"đồ chơi muốn được mua\"."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p2",
+      "stem": "大人向けのおもちゃには、どのような工夫があるか。",
+      "options": ["遊ぶ目的以外の違ったよさが感じられるようにしてある。", "大人に合わせた高度な遊びができるようにしてある。", "二つ以上の遊び方ができるようにしてある。", "何度でも飽きずに遊べるようにしてある。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Đồ chơi cho người lớn có những cải tiến gì? → Được làm để cảm nhận được giá trị khác ngoài mục đích vui chơi.",
+        "why": "Các ví dụ: mô hình tàu dùng làm đồ trang trí nội thất, đàn ghi-ta mini chơi nhạc thật, trò chơi thẻ giúp thư giãn → tổng kết: 単におもちゃとして遊ぶだけではない他の魅力がある → đáp án 1.",
+        "options": [
+          "Đúng: có sức hút khác ngoài việc chơi. ĐÚNG.",
+          "Sai: không nói \"trò chơi cao cấp, phức tạp\".",
+          "Sai: không nói có nhiều cách chơi; giá trị thêm là trang trí, biểu diễn, thư giãn.",
+          "Sai: không nhắc đến việc chơi mãi không chán."
+        ],
+        "vocab": [
+          { "w": "魅力", "r": "みりょく", "hv": "MỊ LỰC", "vi": "sức hấp dẫn" },
+          { "w": "物足りなさ", "r": "ものたりなさ", "hv": "VẬT TÚC", "vi": "cảm giác thiếu thiếu, chưa thỏa mãn" },
+          { "w": "本格的", "r": "ほんかくてき", "hv": "BẢN CÁCH ĐÍCH", "vi": "thực thụ, chính thức" },
+          { "w": "飾る", "r": "かざる", "hv": "SỨC", "vi": "trang trí" }
+        ],
+        "grammar": {
+          "pattern": "単に～だけではない",
+          "meaning": "không chỉ đơn thuần là ~",
+          "form": "単に + 普通形 + だけではない",
+          "example": "これは単に安いだけではない、品質もいい。"
+        },
+        "evidence": "このように、大人向けのおもちゃには単におもちゃとして遊ぶだけではない他の魅力がある。",
+        "tip": "このように = câu tổng kết các ví dụ → thường chính là đáp án."
+      }
+    },
+    {
+      "num": 65,
+      "passage": "p2",
+      "stem": "メーカーにとって大人向けのおもちゃマーケットの何が魅力的なのか。",
+      "options": ["子供向けのおもちゃと同様に多く売れる点", "昔と同じおもちゃを作れば売れる点", "工夫が多ければ多いほど売れる点", "価格を高くしても売れる点"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đối với nhà sản xuất, thị trường đồ chơi người lớn hấp dẫn ở điểm nào? → Dù đặt giá cao vẫn bán được.",
+        "why": "Đoạn cuối: đồ chơi người lớn nhiều món đắt, có khi đắt lại càng được chuộng; thông thường nhà sản xuất không thể đặt giá quá cao nhưng với đồ chơi người lớn thì làm được → thị trường hấp dẫn.",
+        "options": [
+          "Sai: không so sánh số lượng bán với đồ chơi trẻ em.",
+          "Sai: không nói làm lại đồ chơi cũ.",
+          "Sai: không có ý \"càng nhiều cải tiến càng bán chạy\".",
+          "Đúng: giá cao vẫn bán được. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "価格", "r": "かかく", "hv": "GIÁ CÁCH", "vi": "giá cả" },
+          { "w": "設定", "r": "せってい", "hv": "THIẾT ĐỊNH", "vi": "thiết lập, đặt (giá)" },
+          { "w": "価値", "r": "かち", "hv": "GIÁ TRỊ", "vi": "giá trị" }
+        ],
+        "grammar": {
+          "pattern": "～さえ",
+          "meaning": "thậm chí ~",
+          "form": "N／Vること + さえ",
+          "example": "忙しくて、食事をする時間さえない。"
+        },
+        "evidence": "一般的にメーカーは商品価格をあまり高く設定できないものだが、大人向けのおもちゃならできる。おもちゃメーカーにとっては魅力的なマーケットである。",
+        "tip": "Từ khóa 魅力的なマーケット ở câu cuối → đọc câu ngay trước nó."
+      }
+    },
+    {
+      "num": 66,
+      "passage": "p3",
+      "stem": "筆者は、今の若者をどのように見ているか。",
+      "options": ["科学が発展した社会に生まれたので、携帯電話などの機器のない不便さを知らない。", "科学社会で育っていても、携帯電話などの機器の原理を知らないで使っている。", "科学の発展過程を知らないため、携帯電話などの機器の進歩が実感できない。", "科学に関心がないので、携帯電話などの機器を十分に活用していない。"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tác giả nhìn giới trẻ ngày nay như thế nào? → Dù lớn lên trong xã hội khoa học, họ vẫn dùng điện thoại di động… mà không biết nguyên lý.",
+        "why": "Bài: 発展の過程を見ていない彼らは、どういった原理でそれらが機能しているのかを知らない。知らなくても、その恩恵を受けることができる。 → dùng mà không biết nguyên lý → đáp án 2.",
+        "options": [
+          "Sai: bài không nói về \"không biết sự bất tiện khi không có máy\".",
+          "Đúng: không biết nguyên lý nhưng vẫn sử dụng. ĐÚNG.",
+          "Sai: không nhắc đến việc \"không cảm nhận được sự tiến bộ\".",
+          "Sai: họ vẫn hưởng lợi (恩恵を受ける), không phải không tận dụng."
+        ],
+        "vocab": [
+          { "w": "完備", "r": "かんび", "hv": "HOÀN BỊ", "vi": "đầy đủ, hoàn chỉnh" },
+          { "w": "原理", "r": "げんり", "hv": "NGUYÊN LÝ", "vi": "nguyên lý" },
+          { "w": "恩恵", "r": "おんけい", "hv": "ÂN HUỆ", "vi": "lợi ích, ân huệ" },
+          { "w": "機能", "r": "きのう", "hv": "CƠ NĂNG", "vi": "chức năng, vận hành" }
+        ],
+        "grammar": null,
+        "evidence": "発展の過程を見ていない彼らは、どういった原理でそれらが機能しているのかを知らない。知らなくても、その恩恵を受けることができる。",
+        "tip": "Đáp án đúng thường diễn đạt lại (恩恵を受ける → 使っている)."
+      }
+    },
+    {
+      "num": 67,
+      "passage": "p3",
+      "stem": "<u>僕が感じることが一つある</u>とあるが、何を感じているのか。",
+      "options": ["科学が好きな人たちだけが、科学の楽しさを教えられるわけではない。", "「科学離れ」を防ぐには、科学の楽しさを教えることが大切だ。", "科学の楽しさは、子供が簡単に理解できるものではない。", "科学教育は、科学の楽しさばかりを強調している。"],
+      "answer": 4,
+      "explanation": {
+        "translation": "\"Có một điều tôi cảm thấy\" – tác giả cảm thấy điều gì? → Giáo dục khoa học chỉ toàn nhấn mạnh sự thú vị của khoa học.",
+        "why": "Ngay sau đó: người làm giáo dục là người thích khoa học, ai cũng nói \"muốn trẻ biết sự thú vị của khoa học\" → tác giả cảm thấy họ đang áp đặt \"sự thú vị\" (「楽しさ」を押しつけている). Tức là chỉ chăm chăm nhấn mạnh sự thú vị.",
+        "options": [
+          "Sai: tác giả không bàn ai có thể dạy.",
+          "Sai: đây chính là quan điểm tác giả phê phán.",
+          "Sai: không nói trẻ khó hiểu sự thú vị.",
+          "Đúng: chỉ nhấn mạnh sự thú vị (áp đặt). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "押しつける", "r": "おしつける", "hv": "ÁP", "vi": "áp đặt, ép buộc" },
+          { "w": "口を揃える", "r": "くちをそろえる", "hv": "KHẨU TIỄN", "vi": "đồng thanh, cùng nói một ý" },
+          { "w": "姿勢", "r": "しせい", "hv": "TƯ THẾ", "vi": "thái độ, lập trường" },
+          { "w": "強調", "r": "きょうちょう", "hv": "CƯỜNG ĐIỀU", "vi": "nhấn mạnh" }
+        ],
+        "grammar": {
+          "pattern": "～ずにはいられない",
+          "meaning": "không thể không ~",
+          "form": "Vない(bỏ ない) + ずにはいられない（する→せずに）",
+          "example": "あの映画を見ると、泣かずにはいられない。"
+        },
+        "evidence": "だから、口を揃えてこう言う、「科学の楽しさを子供たちに知ってもらいたい」と。この言葉を聞くたびに、「楽しさ」を押しつけている姿勢を感じずにはいられない。",
+        "tip": "けれども + gạch chân → điều tác giả cảm thấy đi ngược với nỗ lực giáo dục vừa nêu."
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p3",
+      "stem": "筆者の考えに合っているのはどれか。",
+      "options": ["現代は科学とかかわらずに生きていくことはできない。", "現代は科学を無理に好きになる必要はない。", "科学が読書やスポーツより楽しくないのは当然だ。", "これからは科学嫌いをなくさなければならない。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều nào hợp với suy nghĩ của tác giả? → Thời hiện đại không thể sống mà không liên quan đến khoa học.",
+        "why": "Tác giả: đọc sách, thể thao không thích thì không làm cũng được, nhưng 科学を避けることは、この現代に生きていくうえではほとんど無理 → không thể tránh khoa học khi sống ở hiện đại → đáp án 1.",
+        "options": [
+          "Đúng: không thể sống mà tránh khoa học. ĐÚNG.",
+          "Sai: tác giả có phê phán việc áp đặt \"sự thú vị\", nhưng kết luận là khoa học \"không thể giải quyết bằng thích hay ghét\" vì không tránh được; bài không chủ trương \"không cần thích\".",
+          "Sai: không so sánh khoa học thú vị kém hơn.",
+          "Sai: tác giả nói khoa học không giải quyết được bằng thích/ghét, không chủ trương xóa bỏ việc ghét khoa học."
+        ],
+        "vocab": [
+          { "w": "避ける", "r": "さける", "hv": "TỴ", "vi": "tránh" },
+          { "w": "悠長", "r": "ゆうちょう", "hv": "DU TRƯỜNG", "vi": "thong thả, chậm rãi" },
+          { "w": "もはや", "r": "もはや", "hv": "", "vi": "giờ đây đã (không còn)" },
+          { "w": "片づける", "r": "かたづける", "hv": "PHIẾN", "vi": "giải quyết, cho qua" }
+        ],
+        "grammar": {
+          "pattern": "～うえで（は）",
+          "meaning": "trong việc ~, khi ~",
+          "form": "Vる + うえで",
+          "example": "外国で生活するうえで、言葉は大切だ。"
+        },
+        "evidence": "しかし、科学を避けることは、この現代に生きていくうえではほとんど無理なのである。",
+        "tip": "Ý chính thường sau しかし ở cuối bài."
+      }
+    }
+  ]
+}

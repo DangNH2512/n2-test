@@ -1,0 +1,140 @@
+{
+  "exam": "2023-07",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、48から51の中に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án đúng nhất cho các ô 48–51.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "香道",
+      "text": "以下は、留学生がスピーチのために書いた文章である。\n\n香道\nベルナールマリー\n\n「香道」とは、香りを楽しむ日本の伝統文化です。私は、友人が香道の体験ができる教室に誘ってくれたのをきっかけに、初めて香道のことを知りました。私は普段から香水などで香りを楽しんでいるので、香道の体験も楽しむことができました。\n香道は、「香木」と呼ばれる木の破片を熱し、その香りを楽しみます。「香木」（48）、そのような名前の木がもともと存在するわけではありません。いくつかの種類の木の中で、様々な自然条件のもとで、年月の経過によって香りを発生させるようになった木をそう呼びます。人工的に生産できないため、大変貴重なものと（49）。\n香道には600年以上の歴史がありますが、その存在はあまり知られていません。数に限りがある香木は、香道が広まり需要が増えすぎればなくなるおそれもあります。（50）、香道ではあまり多くの弟子を受け入れませんでした。香道がよく知られていないのは、そういった事情もあるそうです。\n香道では、香りをかいで、じっくりと味わうことを「香りを聞く」と言います。香りに心を傾けて聞くことを基本に、香りを聞きながら古典文学を鑑賞したり、どれがどの香木の香りかを当てて楽しんだりもします。\n繊細な香りを心の中でゆっくり味わうことを通して、私は「香りを聞く」という意味がわかったような気がしました。香水のように手軽ではありませんが、このような香りの楽しみ方も（51）。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 48,
+      "passage": "p1",
+      "stem": "（48）に入るもの",
+      "options": ["のように", "のほかに", "といっても", "であっても"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tuy gọi là \"hương mộc\" nhưng không phải vốn dĩ có loại cây mang tên như vậy.",
+        "why": "～といっても = tuy nói là ~ nhưng thực tế (điều chỉnh, bổ sung cho cách hiểu thông thường). Vế sau 〜わけではありません phủ nhận suy nghĩ \"có loài cây tên là 香木\".",
+        "options": [
+          "のように → giống như ~ – không có đối tượng so sánh. Sai.",
+          "のほかに → ngoài ~ ra – không hợp nghĩa. Sai.",
+          "といっても → tuy nói là ~ nhưng. ĐÚNG.",
+          "であっても → dù là ~ đi nữa – giả định nhượng bộ, không phải đính chính. Sai."
+        ],
+        "vocab": [
+          { "w": "香木", "r": "こうぼく", "hv": "HƯƠNG MỘC", "vi": "gỗ thơm, trầm hương" },
+          { "w": "破片", "r": "はへん", "hv": "PHÁ PHIẾN", "vi": "mảnh vỡ" },
+          { "w": "熱する", "r": "ねっする", "hv": "NHIỆT", "vi": "làm nóng, đốt nóng" },
+          { "w": "存在", "r": "そんざい", "hv": "TỒN TẠI", "vi": "tồn tại" }
+        ],
+        "grammar": {
+          "pattern": "～といっても",
+          "meaning": "tuy nói là ~ nhưng (thực tế không như người ta nghĩ)",
+          "form": "N／普通形 ＋ といっても",
+          "example": "料理ができるといっても、簡単なものだけです。"
+        },
+        "evidence": "「香木」（48）、そのような名前の木がもともと存在するわけではありません。",
+        "tip": "～といっても thường đi với vế sau mang tính đính chính: ～わけではない／それほど～ない."
+      }
+    },
+    {
+      "num": 49,
+      "passage": "p1",
+      "stem": "（49）に入るもの",
+      "options": ["しておきます", "されています", "しておく点です", "されている点です"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Vì không thể sản xuất nhân tạo nên nó được xem là thứ vô cùng quý giá.",
+        "why": "～とされている = được coi là, được cho là ~ (nhận định chung của xã hội). Chủ ngữ là 香木 (bị đánh giá) → dạng bị động されています.",
+        "options": [
+          "しておきます → (tôi) sẽ coi là ~ trước – chủ động, sai chủ thể. Sai.",
+          "されています → được coi là ~. ĐÚNG.",
+          "しておく点です → điểm (tôi) coi là – sai cả chủ thể lẫn cấu trúc. Sai.",
+          "されている点です → \"là điểm được coi là\" – câu không có chủ đề 〜のは để nối với 点です. Sai."
+        ],
+        "vocab": [
+          { "w": "人工的", "r": "じんこうてき", "hv": "NHÂN CÔNG ĐÍCH", "vi": "nhân tạo" },
+          { "w": "生産", "r": "せいさん", "hv": "SINH SẢN", "vi": "sản xuất" },
+          { "w": "貴重", "r": "きちょう", "hv": "QUÝ TRỌNG", "vi": "quý giá" },
+          { "w": "経過", "r": "けいか", "hv": "KINH QUÁ", "vi": "sự trôi qua (thời gian)" }
+        ],
+        "grammar": {
+          "pattern": "～とされている",
+          "meaning": "được coi là, được cho là ~",
+          "form": "N／普通形 ＋ とされている",
+          "example": "この寺は日本で最も古い寺の一つとされている。"
+        },
+        "evidence": "人工的に生産できないため、大変貴重なものと（49）。",
+        "tip": "～とする (coi là) → bị động ～とされる dùng trong văn giải thích khách quan."
+      }
+    },
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["一方", "ちなみに", "ところが", "そのため"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hương mộc có số lượng giới hạn nên nếu hương đạo phổ biến, nhu cầu tăng quá mức thì có nguy cơ cạn kiệt. Vì thế, hương đạo đã không nhận quá nhiều đệ tử.",
+        "why": "Câu trước là nguyên nhân (sợ hết 香木), câu sau là kết quả (không nhận nhiều đệ tử) → liên từ chỉ kết quả そのため.",
+        "options": [
+          "一方 → mặt khác (đối chiếu). Sai.",
+          "ちなみに → nhân tiện (thông tin bên lề). Sai.",
+          "ところが → thế nhưng (trái với dự đoán). Sai.",
+          "そのため → vì lý do đó. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "需要", "r": "じゅよう", "hv": "NHU YẾU", "vi": "nhu cầu" },
+          { "w": "弟子", "r": "でし", "hv": "ĐỆ TỬ", "vi": "đệ tử, học trò" },
+          { "w": "受け入れる", "r": "うけいれる", "hv": "THỤ NHẬP", "vi": "tiếp nhận" },
+          { "w": "事情", "r": "じじょう", "hv": "SỰ TÌNH", "vi": "hoàn cảnh, lý do" }
+        ],
+        "grammar": {
+          "pattern": "そのため",
+          "meaning": "vì vậy, do đó (nối nguyên nhân → kết quả)",
+          "form": "Câu nguyên nhân。そのため、câu kết quả。",
+          "example": "大雪が降った。そのため、電車が止まった。"
+        },
+        "evidence": "数に限りがある香木は、香道が広まり需要が増えすぎればなくなるおそれもあります。（50）、香道ではあまり多くの弟子を受け入れませんでした。",
+        "tip": "Câu sau còn có 「そういった事情もある」 → xác nhận câu trước là lý do."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["いいものだと思います", "いいと思ったのでしょう", "よかったはずです", "よかったのではありませんか"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tuy không tiện lợi như nước hoa, nhưng tôi nghĩ cách thưởng thức hương thơm như thế này cũng là một điều hay.",
+        "why": "Câu kết bài phát biểu: người viết nêu cảm nhận của chính mình ở hiện tại → いいものだと思います. ～ものだ diễn tả cảm thán/nhận xét về bản chất.",
+        "options": [
+          "いいものだと思います → tôi nghĩ đó là điều hay. ĐÚNG.",
+          "いいと思ったのでしょう → hẳn (ai đó) đã nghĩ là hay – suy đoán về người khác. Sai.",
+          "よかったはずです → lẽ ra đã tốt – suy luận quá khứ, không phải cảm nghĩ. Sai.",
+          "よかったのではありませんか → chẳng phải đã tốt sao – hỏi người nghe, không hợp kết bài. Sai."
+        ],
+        "vocab": [
+          { "w": "繊細", "r": "せんさい", "hv": "TIÊM TẾ", "vi": "tinh tế, mỏng manh" },
+          { "w": "手軽", "r": "てがる", "hv": "THỦ KHINH", "vi": "dễ dàng, tiện lợi" },
+          { "w": "傾ける", "r": "かたむける", "hv": "KHUYNH", "vi": "nghiêng; dồn (tâm trí)" },
+          { "w": "古典文学", "r": "こてんぶんがく", "hv": "CỔ ĐIỂN VĂN HỌC", "vi": "văn học cổ điển" }
+        ],
+        "grammar": {
+          "pattern": "～ものだ（感慨）",
+          "meaning": "thật là ~ (cảm thán, nhận xét về bản chất sự việc)",
+          "form": "Aい／Naな ＋ ものだ",
+          "example": "旅行はいいものだ。"
+        },
+        "evidence": "香水のように手軽ではありませんが、このような香りの楽しみ方も（51）。",
+        "tip": "Câu cuối bài スピーチ thường là ý kiến của người viết ở thì hiện tại: ～と思います."
+      }
+    }
+  ]
+}

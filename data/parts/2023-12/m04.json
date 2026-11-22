@@ -1,0 +1,192 @@
+{
+  "exam": "2023-12",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ đúng nhất điền vào chỗ trống (theo ngữ cảnh).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "このアニメは、登場人物がとてもかわいいと、若者の間で（　　）になっている。",
+      "options": ["課題", "題名", "題材", "話題"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Bộ anime này đang trở thành chủ đề bàn tán trong giới trẻ vì các nhân vật rất dễ thương.",
+        "why": "～の間で話題になっている = đang được bàn tán, đang gây chú ý trong ~. 話題 (わだい – THOẠI ĐỀ) = đề tài câu chuyện, chủ đề nóng.",
+        "options": [
+          "課題 → かだい: nhiệm vụ, bài tập, vấn đề cần giải quyết. Sai.",
+          "題名 → だいめい: tên tác phẩm, tiêu đề. Sai.",
+          "題材 → だいざい: đề tài, chất liệu (để sáng tác). Sai.",
+          "話題 → わだい: chủ đề bàn tán. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "話題", "r": "わだい", "hv": "THOẠI ĐỀ", "vi": "chủ đề câu chuyện, chủ đề nóng" },
+          { "w": "課題", "r": "かだい", "hv": "KHÓA ĐỀ", "vi": "nhiệm vụ, bài tập, vấn đề" },
+          { "w": "題材", "r": "だいざい", "hv": "ĐỀ TÀI", "vi": "đề tài, chất liệu sáng tác" },
+          { "w": "登場人物", "r": "とうじょうじんぶつ", "hv": "ĐĂNG TRƯỜNG NHÂN VẬT", "vi": "nhân vật (trong truyện)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm cố định: 話題になる (thành đề tài bàn tán), 話題の店 (quán đang hot)."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "あのとき、友達に謝らなかったことをずっと（　　）している。",
+      "options": ["同情", "後悔", "我慢", "恐縮"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi vẫn luôn hối hận vì lúc đó đã không xin lỗi bạn.",
+        "why": "～ことを後悔する = hối hận về việc ~. Việc trong quá khứ (謝らなかった) + cảm giác day dứt (ずっと) → 後悔 (こうかい – HẬU HỐI).",
+        "options": [
+          "同情 → どうじょう: thông cảm, thương hại (người khác). Sai.",
+          "後悔 → こうかい: hối hận. ĐÚNG.",
+          "我慢 → がまん: chịu đựng, nhẫn nhịn. Sai.",
+          "恐縮 → きょうしゅく: ngại ngùng, áy náy (lời khiêm nhường khi được giúp). Sai."
+        ],
+        "vocab": [
+          { "w": "後悔", "r": "こうかい", "hv": "HẬU HỐI", "vi": "hối hận" },
+          { "w": "謝る", "r": "あやまる", "hv": "TẠ", "vi": "xin lỗi" },
+          { "w": "同情", "r": "どうじょう", "hv": "ĐỒNG TÌNH", "vi": "thông cảm, thương hại" },
+          { "w": "恐縮", "r": "きょうしゅく", "hv": "KHỦNG SÚC", "vi": "áy náy, ngại (kính ngữ)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Tục ngữ: 後悔先に立たず = hối hận thì đã muộn."
+      }
+    },
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "楽器の音量を確認するために、コンサートの前日に会場で（　　）をした。",
+      "options": ["チャージ", "アポイントメント", "オリエンテーション", "リハーサル"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Để kiểm tra âm lượng nhạc cụ, chúng tôi đã tổng duyệt tại hội trường vào ngày trước buổi hòa nhạc.",
+        "why": "Ngày trước buổi biểu diễn, tại địa điểm diễn, kiểm tra âm lượng → リハーサル (rehearsal) = tổng duyệt, diễn tập.",
+        "options": [
+          "チャージ → nạp tiền, sạc pin (charge). Sai.",
+          "アポイントメント → cuộc hẹn (appointment). Sai.",
+          "オリエンテーション → buổi định hướng, hướng dẫn ban đầu. Sai.",
+          "リハーサル → tổng duyệt, diễn tập. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "リハーサル", "r": "リハーサル", "hv": "", "vi": "tổng duyệt, diễn tập (rehearsal)" },
+          { "w": "音量", "r": "おんりょう", "hv": "ÂM LƯỢNG", "vi": "âm lượng" },
+          { "w": "楽器", "r": "がっき", "hv": "NHẠC KHÍ", "vi": "nhạc cụ" },
+          { "w": "前日", "r": "ぜんじつ", "hv": "TIỀN NHẬT", "vi": "ngày hôm trước" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "アポ (viết tắt của アポイントメント) = cuộc hẹn công việc: アポを取る."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "この魚は、いつでもこの辺りの海にいるわけではなく、（　　）の時期にしかない。",
+      "options": ["特定", "指定", "固定", "限定"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Loài cá này không phải lúc nào cũng có ở vùng biển quanh đây, mà chỉ có vào một thời kỳ nhất định.",
+        "why": "特定の～ = ~ đặc định, ~ nhất định (một cái cụ thể). 特定の時期 = một khoảng thời gian nhất định. (Đề in しかない, hiểu là しかいない – chỉ có mặt vào lúc đó.)",
+        "options": [
+          "特定 → とくてい: đặc định, nhất định. ĐÚNG.",
+          "指定 → してい: chỉ định (người ta chỉ ra, quy định): 指定席. Sai vì cá không \"được chỉ định\" thời kỳ.",
+          "固定 → こてい: cố định (không di chuyển). Sai.",
+          "限定 → げんてい: giới hạn (限定商品, 期間限定); \"限定の時期\" không tự nhiên. Sai."
+        ],
+        "vocab": [
+          { "w": "特定", "r": "とくてい", "hv": "ĐẶC ĐỊNH", "vi": "đặc định, nhất định, xác định" },
+          { "w": "指定", "r": "してい", "hv": "CHỈ ĐỊNH", "vi": "chỉ định" },
+          { "w": "限定", "r": "げんてい", "hv": "HẠN ĐỊNH", "vi": "giới hạn" },
+          { "w": "辺り", "r": "あたり", "hv": "BIÊN", "vi": "vùng quanh, khoảng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "特定の＋N (特定の人・特定の場所) = một ~ cụ thể nào đó. 期間限定 (không có の) = có giới hạn thời gian."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "この季節は乾燥していて、肌が（　　）になる。",
+      "options": ["どろどろ", "ふさふさ", "かさかさ", "べたべた"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Mùa này khô hanh nên da trở nên khô ráp.",
+        "why": "乾燥 (khô) → da かさかさ = khô ráp, sần sùi do thiếu ẩm.",
+        "options": [
+          "どろどろ → sền sệt, lầy lội (bùn, súp đặc). Sai.",
+          "ふさふさ → rậm rạp, dày (tóc, lông). Sai.",
+          "かさかさ → khô ráp (da, môi). ĐÚNG.",
+          "べたべた → dính nhớp nháp (ngược với khô). Sai."
+        ],
+        "vocab": [
+          { "w": "かさかさ", "r": "かさかさ", "hv": "", "vi": "khô ráp, sần sùi" },
+          { "w": "乾燥", "r": "かんそう", "hv": "CAN TÁO", "vi": "khô, khô hanh" },
+          { "w": "肌", "r": "はだ", "hv": "CƠ", "vi": "da" },
+          { "w": "べたべた", "r": "べたべた", "hv": "", "vi": "nhớp nháp, dính" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cặp đối lập: 肌がかさかさ (khô) ↔ べたべた (nhờn dính) ↔ すべすべ (mịn màng)."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "先生の発音をよく聞いて、同じになるように発音を（　　）みましょう。",
+      "options": ["まねて", "かなえて", "映して", "保って"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hãy nghe kỹ phát âm của thầy cô và thử bắt chước để phát âm giống như vậy.",
+        "why": "同じになるように (để giống hệt) → まねる (真似る) = bắt chước. まねてみる = thử bắt chước.",
+        "options": [
+          "まねて → 真似る: bắt chước. ĐÚNG.",
+          "かなえて → 叶える: biến (ước mơ) thành hiện thực. Sai.",
+          "映して → 映す: phản chiếu, chiếu (lên màn hình, gương). Sai.",
+          "保って → 保つ: giữ, duy trì. Sai."
+        ],
+        "vocab": [
+          { "w": "真似る", "r": "まねる", "hv": "CHÂN TỰ", "vi": "bắt chước" },
+          { "w": "叶える", "r": "かなえる", "hv": "DIỆP", "vi": "thực hiện (ước mơ)" },
+          { "w": "保つ", "r": "たもつ", "hv": "BẢO", "vi": "giữ gìn, duy trì" },
+          { "w": "発音", "r": "はつおん", "hv": "PHÁT ÂM", "vi": "phát âm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "真似 (まね): 人の真似をする = bắt chước người khác. 夢をかなえる = biến ước mơ thành thật."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "金子さんとは初めて会ったが、お互いサッカーが大好きだと分かって、話が（　　）。",
+      "options": ["飛び出した", "行き過ぎた", "盛り上がった", "駆け抜けた"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi mới gặp anh Kaneko lần đầu, nhưng khi biết cả hai đều rất thích bóng đá, câu chuyện trở nên sôi nổi.",
+        "why": "話が盛り上がる (もりあがる) = câu chuyện trở nên rôm rả, sôi nổi. Có chung sở thích → nói chuyện hăng say.",
+        "options": [
+          "飛び出した → 飛び出す: lao ra, bay ra. Sai.",
+          "行き過ぎた → 行き過ぎる: đi quá, quá đà. Sai.",
+          "盛り上がった → 盛り上がる: sôi nổi, hào hứng. ĐÚNG.",
+          "駆け抜けた → 駆け抜ける: chạy vượt qua. Sai."
+        ],
+        "vocab": [
+          { "w": "盛り上がる", "r": "もりあがる", "hv": "THỊNH THƯỢNG", "vi": "sôi nổi, náo nhiệt" },
+          { "w": "飛び出す", "r": "とびだす", "hv": "PHI XUẤT", "vi": "lao ra, nhảy ra" },
+          { "w": "駆け抜ける", "r": "かけぬける", "hv": "KHU BẠT", "vi": "chạy xuyên qua" },
+          { "w": "お互い", "r": "おたがい", "hv": "HỖ", "vi": "lẫn nhau, cả hai" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "盛り上がる dùng cho 話・パーティー・会場・試合: 試合が盛り上がった (trận đấu sôi động)."
+      }
+    }
+  ]
+}

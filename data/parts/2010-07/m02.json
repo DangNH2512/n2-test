@@ -1,0 +1,139 @@
+{
+  "exam": "2010-07",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "彼はとても<u>れいぎ</u>正しいです。",
+      "options": ["札義", "札儀", "礼義", "礼儀"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh ấy rất lễ phép.",
+        "why": "れいぎ = 礼儀 (LỄ NGHI) = lễ nghi, phép lịch sự. 礼 (lễ) có bộ 示 (ネ), 儀 (nghi) có bộ nhân đứng 亻.",
+        "options": [
+          "札義 → 札 (さつ: tờ, thẻ) sai chữ, 義 cũng sai. Sai.",
+          "札儀 → 札 là “tờ tiền/thẻ”, không phải 礼. Sai.",
+          "礼義 → 義 (nghĩa) thiếu bộ 亻. Sai.",
+          "礼儀 → lễ nghi. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "礼儀", "r": "れいぎ", "hv": "LỄ NGHI", "vi": "lễ nghi, phép lịch sự" },
+          { "w": "礼儀正しい", "r": "れいぎただしい", "hv": "LỄ NGHI CHÍNH", "vi": "lễ phép, lịch sự" },
+          { "w": "札", "r": "さつ / ふだ", "hv": "TRÁT", "vi": "tờ tiền, thẻ, biển" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "礼(ネ) ≠ 札(木). 儀 = nghi thức (儀式), có 亻; 義 = nghĩa (意義, 正義)."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "彼は苦労を重ねて、社長にまで<u>しゅっせ</u>した。",
+      "options": ["出成", "出世", "昇成", "昇世"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh ấy trải qua nhiều gian khổ và đã thăng tiến lên tới chức giám đốc.",
+        "why": "しゅっせ = 出世 (XUẤT THẾ) = thăng tiến, thành đạt. 世 ở đây đọc せ (như 世の中 よのなか / 世話 せわ).",
+        "options": [
+          "出成 → không có từ này. Sai.",
+          "出世 → thăng tiến, thành đạt. ĐÚNG.",
+          "昇成 → không có từ này. Sai.",
+          "昇世 → không có từ này (昇進 しょうしん = thăng chức). Sai."
+        ],
+        "vocab": [
+          { "w": "出世", "r": "しゅっせ", "hv": "XUẤT THẾ", "vi": "thăng tiến, thành đạt" },
+          { "w": "苦労", "r": "くろう", "hv": "KHỔ LAO", "vi": "vất vả, gian khổ" },
+          { "w": "重ねる", "r": "かさねる", "hv": "TRÙNG", "vi": "chồng chất, lặp đi lặp lại" },
+          { "w": "昇進", "r": "しょうしん", "hv": "THĂNG TIẾN", "vi": "thăng chức" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đừng nhầm 出世(しゅっせ) với 昇進(しょうしん); cả hai đều liên quan thăng tiến nhưng chữ khác."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "この店は<u>でんとう</u>の味を守り続けている。",
+      "options": ["伝授", "伝承", "伝統", "伝達"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Cửa hàng này vẫn tiếp tục giữ gìn hương vị truyền thống.",
+        "why": "でんとう = 伝統 (TRUYỀN THỐNG). 統 đọc とう. Các đáp án khác đều có 伝 nhưng đọc khác.",
+        "options": [
+          "伝授 → でんじゅ: truyền dạy. Sai.",
+          "伝承 → でんしょう: truyền thừa (truyền lại qua đời). Sai.",
+          "伝統 → でんとう: truyền thống. ĐÚNG.",
+          "伝達 → でんたつ: truyền đạt. Sai."
+        ],
+        "vocab": [
+          { "w": "伝統", "r": "でんとう", "hv": "TRUYỀN THỐNG", "vi": "truyền thống" },
+          { "w": "伝承", "r": "でんしょう", "hv": "TRUYỀN THỪA", "vi": "truyền lại (truyền thuyết, phong tục)" },
+          { "w": "伝達", "r": "でんたつ", "hv": "TRUYỀN ĐẠT", "vi": "truyền đạt" },
+          { "w": "守る", "r": "まもる", "hv": "THỦ", "vi": "giữ gìn, bảo vệ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "統(とう) = thống: 統一(とういつ), 伝統(でんとう)."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "そんなに<u>あせらなくても</u>大丈夫ですよ。",
+      "options": ["焦らなくても", "騒らなくても", "競らなくても", "暴らなくても"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Không cần phải sốt ruột như vậy đâu, ổn mà.",
+        "why": "あせる = 焦る (TIÊU) = nóng vội, sốt ruột. Các chữ còn lại không đọc あせる.",
+        "options": [
+          "焦らなくても → 焦る: sốt ruột, cuống. ĐÚNG.",
+          "騒らなくても → 騒 dùng trong 騒ぐ(さわぐ) ồn ào; không có “騒る”. Sai.",
+          "競らなくても → 競る(せる): tranh giành, đấu giá. Sai.",
+          "暴らなくても → 暴 dùng trong 暴れる(あばれる) quậy phá; không có “暴る”. Sai."
+        ],
+        "vocab": [
+          { "w": "焦る", "r": "あせる", "hv": "TIÊU", "vi": "sốt ruột, nóng vội" },
+          { "w": "騒ぐ", "r": "さわぐ", "hv": "TAO", "vi": "làm ồn, náo động" },
+          { "w": "競う", "r": "きそう", "hv": "CẠNH", "vi": "cạnh tranh, thi đua" },
+          { "w": "暴れる", "r": "あばれる", "hv": "BẠO", "vi": "quậy phá, hung hăng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "焦 còn đọc こげる (焦げる = bị cháy khét). Cháy → nóng ruột → 焦る."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "大学に入学してから、一人で<u>くらして</u>います。",
+      "options": ["幕らして", "募らして", "暮らして", "墓らして"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Từ khi vào đại học, tôi sống một mình.",
+        "why": "くらす = 暮らす (MỘ) = sinh sống. 暮 có bộ 日 (mặt trời) ở dưới – mặt trời lặn, cuộc sống ngày qua ngày.",
+        "options": [
+          "幕らして → 幕(まく): tấm màn, bộ 巾. Sai.",
+          "募らして → 募(つの)る: chiêu mộ, bộ 力. Sai.",
+          "暮らして → 暮らす: sinh sống. ĐÚNG.",
+          "墓らして → 墓(はか): ngôi mộ, bộ 土. Sai."
+        ],
+        "vocab": [
+          { "w": "暮らす", "r": "くらす", "hv": "MỘ", "vi": "sinh sống" },
+          { "w": "幕", "r": "まく", "hv": "MẠC", "vi": "tấm màn" },
+          { "w": "募集", "r": "ぼしゅう", "hv": "MỘ TẬP", "vi": "tuyển mộ" },
+          { "w": "墓", "r": "はか", "hv": "MỘ", "vi": "ngôi mộ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bộ phía dưới quyết định: 暮(日) sống/chiều tối, 幕(巾) màn, 募(力) chiêu mộ, 墓(土) mộ, 慕(心) ngưỡng mộ."
+      }
+    }
+  ]
+}

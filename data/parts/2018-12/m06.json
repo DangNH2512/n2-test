@@ -1,0 +1,163 @@
+{
+  "exam": "2018-12",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn câu sử dụng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "保存",
+      "options": [
+        "将来のためにお金は<u>保存</u>したほうがいいですよ。",
+        "食堂に早く着いたので、後から来る友達の席を<u>保存</u>しておいた。",
+        "この食品は必ず冷蔵庫で<u>保存</u>してください。",
+        "山登りは長時間の運動なので、体力を<u>保存</u>しないと後半が大変だ。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "保存 (ほぞん) = bảo quản, lưu giữ. Câu đúng: \"Thực phẩm này nhất định phải bảo quản trong tủ lạnh.\"",
+        "why": "保存 dùng khi giữ đồ vật/dữ liệu ở trạng thái tốt, không bị hỏng: 食品を保存する, データを保存する.",
+        "options": [
+          "Tiền để dành cho tương lai → お金を貯める/貯金する. Sai.",
+          "Giữ chỗ cho bạn → 席を取っておく/確保する. Sai.",
+          "Bảo quản thực phẩm trong tủ lạnh → 冷蔵庫で保存する. ĐÚNG.",
+          "Giữ sức, tiết kiệm thể lực → 体力を温存する/残しておく. Sai."
+        ],
+        "vocab": [
+          { "w": "保存", "r": "ほぞん", "hv": "BẢO TỒN", "vi": "bảo quản, lưu giữ" },
+          { "w": "確保", "r": "かくほ", "hv": "XÁC BẢO", "vi": "đảm bảo có, giữ được (chỗ, nguồn)" },
+          { "w": "温存", "r": "おんぞん", "hv": "ÔN TỒN", "vi": "giữ lại để dành (sức lực)" },
+          { "w": "貯金", "r": "ちょきん", "hv": "TRỮ KIM", "vi": "tiết kiệm tiền" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Tiền → 貯金; chỗ ngồi → 確保; thể lực → 温存; đồ ăn, file → 保存."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "鈍い",
+      "options": [
+        "私は数学が苦手で、計算がとても<u>鈍い</u>。",
+        "今日は仕事が暇で、時間がたつのが<u>鈍く</u>感じられた。",
+        "彼は仕事が<u>鈍い</u>が、その分丁寧だ。",
+        "疲れているのか、彼はいつもより動きが<u>鈍い</u>。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "鈍い (にぶい) = chậm chạp, cùn, kém nhạy. Câu đúng: \"Không biết có phải mệt không mà cử động của anh ấy chậm chạp hơn mọi khi.\"",
+        "why": "鈍い dùng cho phản ứng/động tác/cảm giác kém nhạy bén: 動きが鈍い, 反応が鈍い, 勘が鈍い.",
+        "options": [
+          "Tính toán chậm → 計算が遅い. Sai.",
+          "Thời gian trôi chậm → 時間がたつのが遅く感じられた. Sai.",
+          "Làm việc chậm → 仕事が遅い. Sai.",
+          "Cử động chậm chạp do mệt → 動きが鈍い. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "鈍い", "r": "にぶい", "hv": "ĐỘN", "vi": "chậm chạp, cùn, kém nhạy" },
+          { "w": "鈍感", "r": "どんかん", "hv": "ĐỘN CẢM", "vi": "kém nhạy cảm, vô tâm" },
+          { "w": "丁寧", "r": "ていねい", "hv": "ĐINH NINH", "vi": "cẩn thận, lịch sự" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Tốc độ công việc/thời gian → 遅い; độ nhạy của cơ thể, giác quan, dao → 鈍い."
+      }
+    },
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "日課",
+      "options": [
+        "停留所でバスの<u>日課</u>を見ると、次の発車時刻は20分後だった。",
+        "今日は売り上げが10万円以上あったので、<u>日課</u>が達成できた。",
+        "朝9時までに出社することが会社の<u>日課</u>で決まっている。",
+        "健康のため、毎朝30分体操することを<u>日課</u>にしている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "日課 (にっか) = việc làm hằng ngày (thói quen tự đặt ra). Câu đúng: \"Vì sức khỏe, tôi lấy việc tập thể dục 30 phút mỗi sáng làm việc làm hằng ngày.\"",
+        "why": "日課 = việc mình làm đều đặn mỗi ngày. Mẫu hay gặp: ～を日課にしている.",
+        "options": [
+          "Lịch chạy xe buýt → 時刻表. Sai.",
+          "Chỉ tiêu doanh thu trong ngày → 目標/ノルマ. Sai.",
+          "Quy định của công ty → 規則. Sai.",
+          "Tập thể dục mỗi sáng thành thói quen → 日課にしている. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "日課", "r": "にっか", "hv": "NHẬT KHÓA", "vi": "việc làm hằng ngày" },
+          { "w": "時刻表", "r": "じこくひょう", "hv": "THỜI KHẮC BIỂU", "vi": "bảng giờ tàu xe" },
+          { "w": "達成", "r": "たっせい", "hv": "ĐẠT THÀNH", "vi": "đạt được, hoàn thành" },
+          { "w": "規則", "r": "きそく", "hv": "QUY TẮC", "vi": "quy tắc, nội quy" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "日課 là thói quen cá nhân, không phải lịch trình (時刻表) hay quy định (規則)."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "多彩",
+      "options": [
+        "高橋氏は、小説家や画家として<u>多彩</u>な活動を行っている。",
+        "今夜は空に星が<u>多彩</u>に輝いていて、とてもきれいです。",
+        "文章にあいまいな表現を使うと、読者が<u>多彩</u>な理解をするだろう。",
+        "木村さんには生活全般において<u>多彩</u>にお世話になりました。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "多彩 (たさい) = đa dạng, phong phú, nhiều màu sắc. Câu đúng: \"Ông Takahashi đang hoạt động đa dạng với tư cách là tiểu thuyết gia và họa sĩ.\"",
+        "why": "多彩 dùng để khen sự phong phú về tài năng, hoạt động, nội dung: 多彩な活動, 多彩な才能, 多彩なメニュー.",
+        "options": [
+          "Hoạt động phong phú (vừa viết văn vừa vẽ) → 多彩な活動. ĐÚNG.",
+          "Sao lấp lánh nhiều → 無数に/たくさん輝いて. Sai.",
+          "Người đọc hiểu theo nhiều cách → さまざまな理解. Sai.",
+          "Được giúp đỡ nhiều mặt → いろいろと/大変お世話になりました. Sai."
+        ],
+        "vocab": [
+          { "w": "多彩", "r": "たさい", "hv": "ĐA THÁI", "vi": "đa dạng, phong phú, nhiều màu sắc" },
+          { "w": "輝く", "r": "かがやく", "hv": "HUY", "vi": "chiếu sáng, lấp lánh" },
+          { "w": "全般", "r": "ぜんぱん", "hv": "TOÀN BAN", "vi": "toàn bộ, nói chung" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "多彩 mang sắc thái khen ngợi sự phong phú; \"nhiều cách hiểu khác nhau\" thì dùng さまざま."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "乗り継ぐ",
+      "options": [
+        "居眠りをして、降りるつもりだった駅を<u>乗り継いで</u>しまった。",
+        "疲れたので友達に運転を<u>乗り継いで</u>もらった。",
+        "バスと電車を<u>乗り継いで</u>、やっと目的地に着いた。",
+        "朝はたくさんの人が電車を<u>乗り継ぐ</u>ので、ドアの近くに立っていると大変だ。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "乗り継ぐ (のりつぐ) = chuyển tiếp (đổi sang phương tiện khác để đi tiếp). Câu đúng: \"Tôi chuyển từ xe buýt sang tàu điện, cuối cùng mới đến được nơi cần đến.\"",
+        "why": "乗り継ぐ = đi tiếp bằng cách nối nhiều chuyến xe/tàu/máy bay: バスと電車を乗り継ぐ.",
+        "options": [
+          "Ngủ gật nên đi quá ga → 乗り越す/乗り過ごす. Sai.",
+          "Nhờ bạn lái thay → 運転を代わってもらう. Sai.",
+          "Nối chuyến xe buýt và tàu điện → 乗り継いで. ĐÚNG.",
+          "Nhiều người lên xuống tàu → 乗り降りする. Sai."
+        ],
+        "vocab": [
+          { "w": "乗り継ぐ", "r": "のりつぐ", "hv": "THỪA KẾ", "vi": "nối chuyến, chuyển tiếp" },
+          { "w": "乗り過ごす", "r": "のりすごす", "hv": "THỪA QUÁ", "vi": "đi quá ga, lỡ ga" },
+          { "w": "居眠り", "r": "いねむり", "hv": "CƯ MIÊN", "vi": "ngủ gật" },
+          { "w": "目的地", "r": "もくてきち", "hv": "MỤC ĐÍCH ĐỊA", "vi": "nơi cần đến, đích đến" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "乗り継ぎ便 = chuyến bay nối chuyến (transit). 乗り換える cũng gần nghĩa (đổi tàu)."
+      }
+    }
+  ]
+}

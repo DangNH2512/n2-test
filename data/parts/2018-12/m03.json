@@ -1,0 +1,136 @@
+{
+  "exam": "2018-12",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ đúng nhất điền vào chỗ trống (tiền tố / hậu tố, cấu tạo từ).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "（　　）計画のまま始めるのはやめたほうがいい。",
+      "options": ["不", "非", "無", "反"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Không nên bắt đầu trong tình trạng không có kế hoạch.",
+        "why": "無計画 (むけいかく) = không có kế hoạch, làm bừa. 無 + danh từ = \"không có ～\".",
+        "options": [
+          "不 → 不～ phủ định tính chất: 不可能, 不便, 不注意. Không nói 不計画. Sai.",
+          "非 → 非～ = \"phi, không phải\": 非常識, 非公式. Không có 非計画. Sai.",
+          "無 → 無計画: không có kế hoạch. ĐÚNG.",
+          "反 → 反～ = \"phản, chống\": 反社会的, 反比例. Sai."
+        ],
+        "vocab": [
+          { "w": "無計画", "r": "むけいかく", "hv": "VÔ KẾ HOẠCH", "vi": "không có kế hoạch, tùy tiện" },
+          { "w": "無責任", "r": "むせきにん", "hv": "VÔ TRÁCH NHIỆM", "vi": "vô trách nhiệm" },
+          { "w": "非常識", "r": "ひじょうしき", "hv": "PHI THƯỜNG THỨC", "vi": "thiếu hiểu biết thông thường" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "無 + N (có/không có cái gì): 無料, 無関係, 無計画, 無意識."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "怪しいメールが届いたときには、メールの送信（　　）を確認するようにしている。",
+      "options": ["元", "原", "根", "素"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Khi nhận được email đáng ngờ, tôi luôn cố gắng kiểm tra nguồn gửi (người/địa chỉ gửi) của email.",
+        "why": "～元 (もと) gắn sau danh từ chỉ nơi xuất phát: 送信元 (nơi gửi), 発行元 (nơi phát hành), 製造元 (nhà sản xuất).",
+        "options": [
+          "元 → 送信元 (そうしんもと): nguồn gửi. ĐÚNG.",
+          "原 → 原～ đứng trước: 原文, 原因, 原料. Không nói 送信原. Sai.",
+          "根 → 根 (ね: gốc rễ), không làm hậu tố kiểu này. Sai.",
+          "素 → 素 (もと/そ: nguyên tố, chất gốc): 素材. Không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "送信元", "r": "そうしんもと", "hv": "TỐNG TÍN NGUYÊN", "vi": "nơi gửi, nguồn gửi" },
+          { "w": "怪しい", "r": "あやしい", "hv": "QUÁI", "vi": "đáng ngờ, khả nghi" },
+          { "w": "発行元", "r": "はっこうもと", "hv": "PHÁT HÀNH NGUYÊN", "vi": "đơn vị phát hành" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "～元 (もと) = nguồn/nơi xuất phát: nhớ nhóm 送信元・製造元・発行元・発売元."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "この国では農家の働き（　　）が減少している。",
+      "options": ["顔", "手", "足", "腕"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Ở nước này, lực lượng lao động (người làm) trong các hộ nông dân đang giảm.",
+        "why": "働き手 (はたらきて) = người lao động, lao động chính. ～手 = người làm việc ～: 書き手, 話し手, 担い手.",
+        "options": [
+          "顔 → không có 働き顔. Sai.",
+          "手 → 働き手: người lao động. ĐÚNG.",
+          "足 → 足 (あし) không làm hậu tố chỉ người. Sai.",
+          "腕 → 腕 (うで: tay nghề) không ghép thành 働き腕. Sai."
+        ],
+        "vocab": [
+          { "w": "働き手", "r": "はたらきて", "hv": "ĐỘNG THỦ", "vi": "người lao động, trụ cột lao động" },
+          { "w": "農家", "r": "のうか", "hv": "NÔNG GIA", "vi": "hộ nông dân, nhà nông" },
+          { "w": "減少", "r": "げんしょう", "hv": "GIẢM THIỂU", "vi": "giảm, sụt giảm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Vます + 手 = người làm V: 話し手 (người nói), 聞き手 (người nghe), 買い手 (người mua), 売り手 (người bán)."
+      }
+    },
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "このスーパーは店の前に車をとめる（　　）がない。",
+      "options": ["スペース", "フロア", "ステージ", "フロント"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Siêu thị này không có chỗ (khoảng trống) để đỗ xe ở trước cửa hàng.",
+        "why": "スペース (space) = khoảng trống, chỗ. 車をとめるスペース = chỗ đỗ xe.",
+        "options": [
+          "スペース → khoảng trống, chỗ. ĐÚNG.",
+          "フロア → floor: tầng, sàn nhà. Sai.",
+          "ステージ → stage: sân khấu. Sai.",
+          "フロント → front: quầy lễ tân. Sai."
+        ],
+        "vocab": [
+          { "w": "スペース", "r": "スペース", "hv": "", "vi": "khoảng trống, chỗ" },
+          { "w": "止める", "r": "とめる", "hv": "CHỈ", "vi": "dừng, đỗ (xe)" },
+          { "w": "駐車場", "r": "ちゅうしゃじょう", "hv": "TRÚ XA TRƯỜNG", "vi": "bãi đỗ xe" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "フロント ở khách sạn = quầy lễ tân, không phải \"phía trước\"."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "エレベーターに異常がないか、定期的に（　　）している。",
+      "options": ["参観", "検診", "観測", "点検"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Chúng tôi kiểm tra định kỳ xem thang máy có gì bất thường không.",
+        "why": "点検 (てんけん) = kiểm tra (máy móc, thiết bị) từng điểm một. Dùng cho thang máy, xe, thiết bị.",
+        "options": [
+          "参観 → さんかん: tham quan, dự giờ (授業参観). Sai.",
+          "検診 → けんしん: khám sức khỏe (cho người). Sai.",
+          "観測 → かんそく: quan trắc (thời tiết, thiên văn). Sai.",
+          "点検 → てんけん: kiểm tra thiết bị. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "点検", "r": "てんけん", "hv": "ĐIỂM KIỂM", "vi": "kiểm tra (thiết bị)" },
+          { "w": "異常", "r": "いじょう", "hv": "DỊ THƯỜNG", "vi": "bất thường" },
+          { "w": "定期的", "r": "ていきてき", "hv": "ĐỊNH KỲ ĐÍCH", "vi": "định kỳ" },
+          { "w": "観測", "r": "かんそく", "hv": "QUAN TRẮC", "vi": "quan trắc, quan sát đo đạc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Máy móc → 点検; người → 検診/健診; thời tiết, sao → 観測."
+      }
+    }
+  ]
+}

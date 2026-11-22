@@ -1,0 +1,160 @@
+{
+  "exam": "2019-07",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn câu dùng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "廃止",
+      "options": [
+        "予想以上のコストがかかることがわかり、新製品の開発を<u>廃止した</u>。",
+        "石川さんは毎日ジョギングすることを<u>廃止した</u>らしい。",
+        "ほかの人に話すことで、不安を<u>廃止できる</u>こともある。",
+        "あの銀行はATM手数料無料のサービスを<u>廃止する</u>そうだ。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "(Câu 4) Nghe nói ngân hàng đó sẽ bãi bỏ dịch vụ miễn phí phí giao dịch ATM.",
+        "why": "廃止 (はいし - PHẾ CHỈ) = bãi bỏ một chế độ, quy định, dịch vụ đang tồn tại lâu dài. Bãi bỏ một dịch vụ của ngân hàng là đúng cách dùng.",
+        "options": [
+          "Dừng việc phát triển sản phẩm (một dự án) → nên dùng 中止した / 中断した. Sai.",
+          "Thói quen cá nhân → nên dùng やめた. Sai.",
+          "Xóa bỏ nỗi bất an → nên dùng 解消できる. Sai.",
+          "Bãi bỏ dịch vụ miễn phí → 廃止する. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "廃止", "r": "はいし", "hv": "PHẾ CHỈ", "vi": "bãi bỏ (chế độ, dịch vụ, luật)" },
+          { "w": "中止", "r": "ちゅうし", "hv": "TRUNG CHỈ", "vi": "hủy bỏ, đình chỉ (kế hoạch, sự kiện)" },
+          { "w": "解消", "r": "かいしょう", "hv": "GIẢI TIÊU", "vi": "giải tỏa, xóa bỏ (căng thẳng, bất an)" },
+          { "w": "手数料", "r": "てすうりょう", "hv": "THỦ SỐ LIỆU", "vi": "phí dịch vụ, lệ phí" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "廃止 đi với 制度・法律・サービス・路線 (tuyến xe)."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "初歩",
+      "options": [
+        "３年前に英語を<u>初歩</u>から始め、今では自由に話せるようになった。",
+        "バスケットボールの試合で、<u>初歩</u>から大量の点を取られた。",
+        "今日は暑さはまだほんの<u>初歩</u>で、これからますます暑くなっていくだろう。",
+        "兄とのけんかの<u>初歩</u>は、くだらないことだった。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "(Câu 1) Ba năm trước tôi bắt đầu học tiếng Anh từ căn bản, giờ đã nói được thoải mái.",
+        "why": "初歩 (しょほ - SƠ BỘ) = bước đầu, trình độ nhập môn của việc học một kỹ năng/kiến thức. 初歩から始める = học từ con số 0.",
+        "options": [
+          "Học tiếng Anh từ căn bản → 初歩から. ĐÚNG.",
+          "Đầu trận đấu → nên dùng 序盤 (じょばん) / 最初. Sai.",
+          "Cái nóng mới chỉ bắt đầu → nên dùng 始まり / 序の口. Sai.",
+          "Nguyên nhân khởi đầu cuộc cãi nhau → nên dùng きっかけ / 原因. Sai."
+        ],
+        "vocab": [
+          { "w": "初歩", "r": "しょほ", "hv": "SƠ BỘ", "vi": "bước đầu, căn bản (học tập)" },
+          { "w": "序盤", "r": "じょばん", "hv": "TỰ BÀN", "vi": "giai đoạn đầu (trận đấu)" },
+          { "w": "きっかけ", "r": "きっかけ", "hv": "", "vi": "cơ hội, nguyên cớ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "初歩的なミス = lỗi sơ đẳng. 初歩 gắn với học tập/kỹ năng."
+      }
+    },
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "だらしない",
+      "options": [
+        "昨日から作ったスープは塩がたりなかったのか、とても<u>だらしない</u>味だった。",
+        "この公園は管理する人がいないので、あちこち草が<u>だらしなく</u>生えている。",
+        "知識が<u>だらしなかった</u>せいで、間違ったことを人に教えてしまった。",
+        "先月までは、仕事もしないで遊んでばかりの<u>だらしない</u>生活をしていた。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "(Câu 4) Cho đến tháng trước tôi đã sống một cuộc sống bê tha, không làm việc mà chỉ toàn chơi bời.",
+        "why": "だらしない = luộm thuộm, bê tha, thiếu kỷ luật — dùng cho con người, lối sống, ăn mặc. だらしない生活 là cách dùng chuẩn.",
+        "options": [
+          "Vị nhạt → nên dùng 物足りない / 味が薄い. Sai.",
+          "Cỏ mọc um tùm → nên dùng 伸び放題に / ぼうぼうと. Sai.",
+          "Kiến thức thiếu → nên dùng 不十分だった / 足りなかった. Sai.",
+          "Lối sống bê tha → だらしない生活. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "だらしない", "r": "だらしない", "hv": "", "vi": "luộm thuộm, bê tha" },
+          { "w": "物足りない", "r": "ものたりない", "hv": "VẬT TÚC", "vi": "chưa đủ, thiếu thiếu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "だらしない đi với 人・生活・服装・性格."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "即座に",
+      "options": [
+        "私が駅に着くと<u>即座に</u>友人たちも来た。",
+        "さっきまで晴れていたのに、<u>即座に</u>雲が出てきた。",
+        "先生は学生からの質問に<u>即座に</u>答えた。",
+        "一月になってから<u>即座に</u>仕事が忙しくなった。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "(Câu 3) Thầy giáo trả lời ngay lập tức câu hỏi của sinh viên.",
+        "why": "即座に (そくざに - TỨC TỌA) = ngay tại chỗ, lập tức — dùng cho hành động phản ứng có chủ ý của con người (trả lời, quyết định) ngay khi có tác động.",
+        "options": [
+          "Bạn bè đến cùng lúc → nên dùng ちょうど / 同時に. Sai.",
+          "Hiện tượng tự nhiên thay đổi bất ngờ → nên dùng 急に. Sai.",
+          "Trả lời câu hỏi ngay lập tức → 即座に. ĐÚNG.",
+          "Công việc bỗng bận lên → nên dùng 急に / とたんに. Sai."
+        ],
+        "vocab": [
+          { "w": "即座に", "r": "そくざに", "hv": "TỨC TỌA", "vi": "ngay lập tức, ngay tại chỗ" },
+          { "w": "急に", "r": "きゅうに", "hv": "CẤP", "vi": "đột nhiên" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "即座に答える / 即座に判断する. Không dùng cho thời tiết hay sự việc tự xảy ra."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "尽きる",
+      "options": [
+        "あしたで定期券の期限が<u>尽きる</u>ので、新しいのを買いに行った。",
+        "森さんと会うのは久しぶりだったので、いくら話しても話が<u>尽きなかった</u>。",
+        "木村選手は、けがのせいで連続出場の記録が<u>尽きて</u>しまった。",
+        "この作家の絵は好きなので、展示会が<u>尽きない</u>うちにもう一度見に来たい。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Câu 2) Lâu lắm mới gặp anh Mori nên nói mãi vẫn không hết chuyện.",
+        "why": "尽きる (つきる - TẬN) = cạn kiệt, hết sạch (thứ vốn có: sức lực, tiền, câu chuyện). 話が尽きない = chuyện nói mãi không hết.",
+        "options": [
+          "Hết hạn vé tháng → nên dùng 期限が切れる. Sai.",
+          "Chuyện nói không hết → 話が尽きない. ĐÚNG.",
+          "Kỷ lục bị gián đoạn → nên dùng 途切れて / 止まって. Sai.",
+          "Trước khi triển lãm kết thúc → nên dùng 終わらない. Sai."
+        ],
+        "vocab": [
+          { "w": "尽きる", "r": "つきる", "hv": "TẬN", "vi": "cạn, hết" },
+          { "w": "途切れる", "r": "とぎれる", "hv": "ĐỒ THIẾT", "vi": "bị gián đoạn" },
+          { "w": "期限", "r": "きげん", "hv": "KỲ HẠN", "vi": "kỳ hạn" },
+          { "w": "定期券", "r": "ていきけん", "hv": "ĐỊNH KỲ KHOÁN", "vi": "vé tháng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm hay gặp: 力が尽きる, お金が尽きる, 話が尽きない."
+      }
+    }
+  ]
+}

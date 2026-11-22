@@ -1,0 +1,133 @@
+{
+  "exam": "2011-07",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống (tiền tố / hậu tố tạo từ).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "彼は医学（　　）ではかなり知られた存在だ。",
+      "options": ["界", "帯", "域", "区"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Anh ấy là người khá nổi tiếng trong giới y học.",
+        "why": "～界 (かい, GIỚI) = giới, lĩnh vực (医学界 = giới y học, 芸能界 = giới giải trí). Chỉ cộng đồng người trong một ngành.",
+        "options": [
+          "界 → 医学界: giới y học. ĐÚNG.",
+          "帯 → ～帯 (たい): vùng, dải (時間帯、地帯). Sai.",
+          "域 → ～域 (いき): khu vực, phạm vi (地域、領域). Không nói 医学域. Sai.",
+          "区 → ～区 (く): quận, khu hành chính. Sai."
+        ],
+        "vocab": [
+          { "w": "医学界", "r": "いがくかい", "hv": "Y HỌC GIỚI", "vi": "giới y học" },
+          { "w": "存在", "r": "そんざい", "hv": "TỒN TẠI", "vi": "sự tồn tại; nhân vật" },
+          { "w": "時間帯", "r": "じかんたい", "hv": "THỜI GIAN ĐỚI", "vi": "khung giờ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhớ cụm: 経済界・政界・芸能界・スポーツ界 → giới/ngành."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "決勝戦で負けて、（　　）優勝に終わった。",
+      "options": ["後", "準", "次", "副"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Thua ở trận chung kết nên kết thúc với ngôi á quân.",
+        "why": "準～ (じゅん, CHUẨN) = gần bằng, hạng dưới một bậc. 準優勝 = á quân (hạng nhì), 準決勝 = bán kết.",
+        "options": [
+          "後 → không nói 後優勝. Sai.",
+          "準 → 準優勝: á quân. ĐÚNG.",
+          "次 → 次～ (じ): kế tiếp (次回、次期). Sai.",
+          "副 → 副～ (ふく): phó (副社長、副作用). Sai."
+        ],
+        "vocab": [
+          { "w": "準優勝", "r": "じゅんゆうしょう", "hv": "CHUẨN ƯU THẮNG", "vi": "á quân" },
+          { "w": "決勝戦", "r": "けっしょうせん", "hv": "QUYẾT THẮNG CHIẾN", "vi": "trận chung kết" },
+          { "w": "副社長", "r": "ふくしゃちょう", "hv": "PHÓ XÃ TRƯỞNG", "vi": "phó giám đốc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "準決勝 = bán kết, 準優勝 = á quân, 準備 = chuẩn bị."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "（　　）段階では詳細は決まっていないらしい。",
+      "options": ["現", "直", "近", "当"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Ở giai đoạn hiện tại, có vẻ chi tiết vẫn chưa được quyết định.",
+        "why": "現～ (げん, HIỆN) = hiện tại, hiện nay. 現段階 = giai đoạn hiện tại.",
+        "options": [
+          "現 → 現段階: giai đoạn hiện tại. ĐÚNG.",
+          "直 → 直～: trực tiếp (直前、直後), không nói 直段階. Sai.",
+          "近 → 近～: gần (近未来), không nói 近段階. Sai.",
+          "当 → 当～: (nói về) cái đó, lúc đó (当日、当時). Không nói 当段階. Sai."
+        ],
+        "vocab": [
+          { "w": "現段階", "r": "げんだんかい", "hv": "HIỆN ĐOẠN GIAI", "vi": "giai đoạn hiện tại" },
+          { "w": "詳細", "r": "しょうさい", "hv": "TƯỜNG TẾ", "vi": "chi tiết" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "現～: 現時点 (thời điểm hiện tại), 現住所 (địa chỉ hiện tại), 現社長."
+      }
+    },
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "今回の大臣の訪問は（　　）公式に行われた。",
+      "options": ["不", "未", "無", "非"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Chuyến thăm của bộ trưởng lần này được tiến hành không chính thức.",
+        "why": "非～ (ひ, PHI) đi với 公式 → 非公式 = không chính thức. Đây là cách kết hợp cố định.",
+        "options": [
+          "不 → 不～ (ふ): bất (不便、不安), không đi với 公式. Sai.",
+          "未 → 未～ (み): chưa (未完成、未経験). Sai.",
+          "無 → 無～ (む): vô, không có (無料、無責任). Sai.",
+          "非 → 非公式: không chính thức. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "非公式", "r": "ひこうしき", "hv": "PHI CÔNG THỨC", "vi": "không chính thức" },
+          { "w": "大臣", "r": "だいじん", "hv": "ĐẠI THẦN", "vi": "bộ trưởng" },
+          { "w": "訪問", "r": "ほうもん", "hv": "PHỎNG VẤN", "vi": "chuyến thăm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhớ các từ 非～: 非常識 (thiếu thường thức), 非公開 (không công khai), 非常口 (lối thoát hiểm)."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "わが社の今年の（　　）売上は、昨年を上回った。",
+      "options": ["集", "総", "合", "満"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tổng doanh thu năm nay của công ty chúng tôi đã vượt năm ngoái.",
+        "why": "総～ (そう, TỔNG) = toàn bộ, tổng cộng. 総売上 = tổng doanh thu.",
+        "options": [
+          "集 → không nói 集売上. Sai.",
+          "総 → 総売上: tổng doanh thu. ĐÚNG.",
+          "合 → 合～ dùng như 合計 (tổng cộng) nhưng không làm tiền tố cho 売上. Sai.",
+          "満 → 満～: đầy, tròn (満員、満点). Sai."
+        ],
+        "vocab": [
+          { "w": "総売上", "r": "そううりあげ", "hv": "TỔNG MẠI THƯỢNG", "vi": "tổng doanh thu" },
+          { "w": "上回る", "r": "うわまわる", "hv": "THƯỢNG HỒI", "vi": "vượt quá, cao hơn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "総～: 総人口 (tổng dân số), 総選挙 (tổng tuyển cử), 総額 (tổng số tiền)."
+      }
+    }
+  ]
+}

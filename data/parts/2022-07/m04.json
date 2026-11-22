@@ -1,0 +1,186 @@
+{
+  "exam": "2022-07",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ đúng nhất để điền vào chỗ trống (theo ngữ cảnh).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "職場環境の問題については、会社との（　　）の結果、改善してもらえることになった。",
+      "options": ["交渉", "授受", "通話", "出願"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về vấn đề môi trường làm việc, sau kết quả đàm phán với công ty, (tôi) đã được công ty cải thiện cho.",
+        "why": "会社との交渉 (こうしょう) = đàm phán, thương lượng với công ty. Kết quả của thương lượng → được cải thiện.",
+        "options": [
+          "交渉 → こうしょう: đàm phán, thương lượng. ĐÚNG.",
+          "授受 → じゅじゅ: trao và nhận (tiền, đồ vật). Sai.",
+          "通話 → つうわ: cuộc gọi điện thoại. Sai.",
+          "出願 → しゅつがん: nộp đơn (xin nhập học, bằng sáng chế). Sai."
+        ],
+        "vocab": [
+          { "w": "交渉", "r": "こうしょう", "hv": "GIAO THIỆP", "vi": "đàm phán, thương lượng" },
+          { "w": "職場環境", "r": "しょくばかんきょう", "hv": "CHỨC TRƯỜNG HOÀN CẢNH", "vi": "môi trường làm việc" },
+          { "w": "改善", "r": "かいぜん", "hv": "CẢI THIỆN", "vi": "cải thiện" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜と交渉する / 交渉がまとまる (đàm phán thành công) / 値段を交渉する (mặc cả)."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "この企画を成功させるには、いくつもの課題を（　　）しなければならない。",
+      "options": ["キャンセル", "クリア", "カット", "ブラッシュ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Để dự án này thành công, phải vượt qua (giải quyết) nhiều vấn đề cần giải quyết.",
+        "why": "課題をクリアする = vượt qua / giải quyết được các thử thách, vấn đề. クリア (clear) = vượt qua, hoàn thành.",
+        "options": [
+          "キャンセル → hủy bỏ (đặt chỗ). Không hủy được 課題. Sai.",
+          "クリア → vượt qua, giải quyết. ĐÚNG.",
+          "カット → cắt, cắt giảm. Sai.",
+          "ブラッシュ → chải (brush); ブラッシュアップ mới là trau chuốt. Sai."
+        ],
+        "vocab": [
+          { "w": "クリアする", "r": "クリアする", "hv": "", "vi": "vượt qua, giải quyết xong" },
+          { "w": "課題", "r": "かだい", "hv": "KHÓA ĐỀ", "vi": "vấn đề cần giải quyết, bài tập" },
+          { "w": "企画", "r": "きかく", "hv": "XÍ HOẠCH", "vi": "kế hoạch, dự án" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Collocation: 課題／条件／基準をクリアする."
+      }
+    },
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "このカメラは小型だが、通常のモデルに比べて性能が（　　）いるわけではない。",
+      "options": ["縮んで", "荒れて", "沈んで", "劣って"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Chiếc máy ảnh này tuy nhỏ gọn nhưng không có nghĩa là tính năng kém hơn so với mẫu thông thường.",
+        "why": "性能が劣る (おとる) = tính năng kém hơn. ～に比べて劣る là collocation chuẩn để so sánh kém hơn.",
+        "options": [
+          "縮んで → 縮む (ちぢむ): co lại. Sai.",
+          "荒れて → 荒れる (あれる): (trời) động, (da) sần, hỗn loạn. Sai.",
+          "沈んで → 沈む (しずむ): chìm, lặn. Sai.",
+          "劣って → 劣る (おとる): kém hơn. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "劣る", "r": "おとる", "hv": "LIỆT", "vi": "kém hơn, thua kém" },
+          { "w": "性能", "r": "せいのう", "hv": "TÍNH NĂNG", "vi": "tính năng" },
+          { "w": "小型", "r": "こがた", "hv": "TIỂU HÌNH", "vi": "cỡ nhỏ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "劣る ↔ 優れる (すぐれる: vượt trội). 劣等感 (れっとうかん) = mặc cảm tự ti."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "父は手術後、医者も驚くほど（　　）回復した。",
+      "options": ["劇的に", "格別に", "真剣に", "強大に"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Sau phẫu thuật, bố tôi đã hồi phục một cách ngoạn mục đến mức bác sĩ cũng ngạc nhiên.",
+        "why": "劇的に (げきてきに) = một cách ngoạn mục, kịch tính, thay đổi rất lớn. 劇的に回復する / 劇的に変化する là cách nói tự nhiên.",
+        "options": [
+          "劇的に → ngoạn mục, kịch tính. ĐÚNG.",
+          "格別に → đặc biệt (hơn hẳn bình thường), thường dùng với cảm nhận: 格別においしい. Sai.",
+          "真剣に → nghiêm túc. Không hợp với 回復. Sai.",
+          "強大に → hùng mạnh (quốc gia, quyền lực). Sai."
+        ],
+        "vocab": [
+          { "w": "劇的", "r": "げきてき", "hv": "KỊCH ĐÍCH", "vi": "ngoạn mục, kịch tính" },
+          { "w": "回復", "r": "かいふく", "hv": "HỒI PHỤC", "vi": "hồi phục" },
+          { "w": "手術", "r": "しゅじゅつ", "hv": "THỦ THUẬT", "vi": "phẫu thuật" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "劇的な変化 (thay đổi ngoạn mục), 劇的な勝利 (chiến thắng kịch tính)."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "このシステムを利用するには、インターネットに（　　）しているパソコンが必要です。",
+      "options": ["到達", "付属", "接続", "密着"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Để sử dụng hệ thống này, cần một máy tính có kết nối Internet.",
+        "why": "インターネットに接続 (せつぞく) する = kết nối Internet. 接続 dùng cho mạng, thiết bị, tàu xe nối chuyến.",
+        "options": [
+          "到達 → とうたつ: đạt tới, đến nơi. Sai.",
+          "付属 → ふぞく: phụ thuộc, kèm theo. Sai.",
+          "接続 → せつぞく: kết nối. ĐÚNG.",
+          "密着 → みっちゃく: dính sát, bám sát. Sai."
+        ],
+        "vocab": [
+          { "w": "接続", "r": "せつぞく", "hv": "TIẾP TỤC", "vi": "kết nối" },
+          { "w": "付属", "r": "ふぞく", "hv": "PHÓ THUỘC", "vi": "phụ thuộc, đi kèm" },
+          { "w": "到達", "r": "とうたつ", "hv": "ĐÁO ĐẠT", "vi": "đạt tới" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ネットに接続する / 接続が切れる (mất kết nối) / 電車の接続 (nối chuyến tàu)."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "アルバイトの募集は3月末で（　　）ので、もう応募はできません。",
+      "options": ["取り払った", "打ち消した", "締め切った", "引き離した"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Việc tuyển nhân viên làm thêm đã kết thúc nhận hồ sơ vào cuối tháng 3, nên không thể ứng tuyển nữa.",
+        "why": "募集を締め切る (しめきる) = đóng/hết hạn nhận đăng ký. Hợp với ý \"không thể ứng tuyển nữa\".",
+        "options": [
+          "取り払った → 取り払う: dỡ bỏ, dọn đi (vật cản). Sai.",
+          "打ち消した → 打ち消す: phủ nhận (tin đồn). Sai.",
+          "締め切った → 締め切る: đóng, hết hạn nhận. ĐÚNG.",
+          "引き離した → 引き離す: kéo tách ra; bỏ xa (đối thủ). Sai."
+        ],
+        "vocab": [
+          { "w": "締め切る", "r": "しめきる", "hv": "ĐẾ THIẾT", "vi": "khóa sổ, hết hạn nhận" },
+          { "w": "締め切り", "r": "しめきり", "hv": "ĐẾ THIẾT", "vi": "hạn chót" },
+          { "w": "募集", "r": "ぼしゅう", "hv": "MỘ TẬP", "vi": "tuyển, chiêu mộ" },
+          { "w": "応募", "r": "おうぼ", "hv": "ỨNG MỘ", "vi": "ứng tuyển, đăng ký" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "締め切り = deadline. 打ち消す hay đi với うわさ／否定."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "ガイドの後ろをツアー客たちが、（　　）ついて歩いている。",
+      "options": ["ごくごく", "ぞろぞろ", "ぎしぎし", "じめじめ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Đoàn khách du lịch đang lũ lượt đi theo sau hướng dẫn viên.",
+        "why": "ぞろぞろ = (nhiều người) lũ lượt nối đuôi nhau đi. Rất hợp với cảnh nhiều khách đi theo hướng dẫn viên.",
+        "options": [
+          "ごくごく → (uống) ừng ực. Sai.",
+          "ぞろぞろ → lũ lượt, nối đuôi nhau. ĐÚNG.",
+          "ぎしぎし → kẽo kẹt (tiếng sàn gỗ, đồ vật cọ xát). Sai.",
+          "じめじめ → ẩm ướt, ẩm thấp. Sai."
+        ],
+        "vocab": [
+          { "w": "ぞろぞろ", "r": "ぞろぞろ", "hv": "", "vi": "lũ lượt, nối đuôi nhau" },
+          { "w": "ごくごく", "r": "ごくごく", "hv": "", "vi": "ừng ực (uống)" },
+          { "w": "じめじめ", "r": "じめじめ", "hv": "", "vi": "ẩm ướt, ẩm thấp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ぞろぞろ: nhiều người/vật di chuyển liên tục (人がぞろぞろ出てくる)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "exam": "2021-07",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống (theo ngữ cảnh).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "最近、物価が（　　）している。",
+      "options": ["増加", "上達", "増大", "上昇"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Gần đây, vật giá đang tăng lên.",
+        "why": "Giá cả, nhiệt độ, mức độ… tăng lên (theo chiều cao/mức) dùng 上昇 (じょうしょう). 物価が上昇する là kết hợp cố định.",
+        "options": [
+          "増加 → tăng (số lượng: 人口が増加する), không dùng cho giá cả. Sai.",
+          "上達 → tiến bộ (kỹ năng: 日本語が上達する). Sai.",
+          "増大 → tăng lớn (quy mô, khối lượng: 負担が増大する). Sai.",
+          "上昇 → tăng lên (giá, nhiệt độ). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "物価", "r": "ぶっか", "hv": "VẬT GIÁ", "vi": "vật giá, giá cả" },
+          { "w": "上昇", "r": "じょうしょう", "hv": "THƯỢNG THĂNG", "vi": "tăng lên, đi lên" },
+          { "w": "増加", "r": "ぞうか", "hv": "TĂNG GIA", "vi": "gia tăng (số lượng)" },
+          { "w": "上達", "r": "じょうたつ", "hv": "THƯỢNG ĐẠT", "vi": "tiến bộ (kỹ năng)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "物価・気温・株価 → 上昇／下降. 人口・数 → 増加／減少."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "ちょうどいい（　　）で警官が通りかかったので、助かった。",
+      "options": ["タイマー", "アクシデント", "タイミング", "アクション"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đúng lúc có viên cảnh sát tình cờ đi ngang qua nên tôi đã được cứu.",
+        "why": "ちょうどいいタイミングで = vào đúng thời điểm thích hợp. タイミング (timing) = thời điểm.",
+        "options": [
+          "タイマー → đồng hồ hẹn giờ (timer). Sai.",
+          "アクシデント → tai nạn, sự cố (accident). Sai.",
+          "タイミング → thời điểm (timing). ĐÚNG.",
+          "アクション → hành động (action). Sai."
+        ],
+        "vocab": [
+          { "w": "タイミング", "r": "タイミング", "hv": "", "vi": "thời điểm, đúng lúc" },
+          { "w": "警官", "r": "けいかん", "hv": "CẢNH QUAN", "vi": "cảnh sát" },
+          { "w": "通りかかる", "r": "とおりかかる", "hv": "THÔNG", "vi": "tình cờ đi ngang qua" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm cố định: タイミングがいい／悪い, いいタイミングで."
+      }
+    },
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "遠慮はいらないので、いつでも（　　）声をかけてください。",
+      "options": ["無事に", "気軽に", "率直に", "器用に"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Không cần ngại đâu, lúc nào cũng cứ thoải mái gọi tôi nhé.",
+        "why": "気軽に = thoải mái, không ngại ngần. Hợp với 遠慮はいらない (không cần khách sáo). Cụm thường gặp: お気軽に声をかけてください.",
+        "options": [
+          "無事に → bình an, suôn sẻ. Sai.",
+          "気軽に → thoải mái, không ngại. ĐÚNG.",
+          "率直に → thẳng thắn (率直に言う/意見を言う), không hợp 声をかける. Sai.",
+          "器用に → khéo léo (tay). Sai."
+        ],
+        "vocab": [
+          { "w": "気軽", "r": "きがる", "hv": "KHÍ KHINH", "vi": "thoải mái, dễ dàng" },
+          { "w": "遠慮", "r": "えんりょ", "hv": "VIỄN LỰ", "vi": "ngại ngùng, khách sáo" },
+          { "w": "率直", "r": "そっちょく", "hv": "SUẤT TRỰC", "vi": "thẳng thắn" },
+          { "w": "器用", "r": "きよう", "hv": "KHÍ DỤNG", "vi": "khéo tay" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Câu kinh điển trong cửa hàng: 「お気軽にお声がけください」."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "Eメールに（　　）されたファイルが開けない。",
+      "options": ["輸送", "付属", "郵送", "添付"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi không mở được tệp đính kèm trong email.",
+        "why": "添付 (てんぷ) = đính kèm (tài liệu, file). メールに添付する／添付ファイル.",
+        "options": [
+          "輸送 → vận chuyển (hàng hóa bằng xe, tàu). Sai.",
+          "付属 → phụ thuộc, đi kèm (付属品: phụ kiện), không dùng cho file email. Sai.",
+          "郵送 → gửi qua bưu điện. Sai.",
+          "添付 → đính kèm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "添付", "r": "てんぷ", "hv": "THIÊM PHÓ", "vi": "đính kèm" },
+          { "w": "付属", "r": "ふぞく", "hv": "PHỤ THUỘC", "vi": "đi kèm, trực thuộc" },
+          { "w": "輸送", "r": "ゆそう", "hv": "THÂU TỐNG", "vi": "vận chuyển" },
+          { "w": "郵送", "r": "ゆうそう", "hv": "BƯU TỐNG", "vi": "gửi bưu điện" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Email: 添付ファイル (file đính kèm). Sản phẩm: 付属品 (phụ kiện kèm theo)."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "そんなに人のことを（　　）見るものではありませんよ。",
+      "options": ["じろじろ", "たまたま", "さっさと", "うっとり"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Không nên nhìn chằm chằm người khác như thế đâu.",
+        "why": "じろじろ見る = nhìn chằm chằm một cách soi mói, bất lịch sự. 〜ものではない = không nên ~ (lời khuyên răn) → hợp với hành vi bất lịch sự.",
+        "options": [
+          "じろじろ → nhìn chằm chằm, soi mói. ĐÚNG.",
+          "たまたま → tình cờ. Sai.",
+          "さっさと → nhanh nhanh, mau lẹ (さっさと帰る). Sai.",
+          "うっとり → say mê, ngây ngất (うっとり見とれる) — không phải điều bị khuyên răn. Sai."
+        ],
+        "vocab": [
+          { "w": "じろじろ", "r": "じろじろ", "hv": "", "vi": "chằm chằm (nhìn soi mói)" },
+          { "w": "うっとり", "r": "うっとり", "hv": "", "vi": "say mê, ngây ngất" },
+          { "w": "さっさと", "r": "さっさと", "hv": "", "vi": "nhanh chóng, mau lẹ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜ものではない (không nên ~) báo hiệu hành vi xấu → じろじろ."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "その選手は体力の（　　）まで走り続けた。",
+      "options": ["制限", "限界", "境界", "境目"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Vận động viên đó đã chạy liên tục cho đến giới hạn thể lực.",
+        "why": "限界 (げんかい) = giới hạn, mức tối đa có thể (năng lực, sức chịu đựng). 体力の限界 là cụm cố định.",
+        "options": [
+          "制限 → giới hạn do quy định đặt ra (速度制限, 年齢制限). Sai.",
+          "限界 → giới hạn năng lực. ĐÚNG.",
+          "境界 → ranh giới (đất đai, lãnh thổ). Sai.",
+          "境目 → đường phân chia, ranh giới (giữa hai thứ). Sai."
+        ],
+        "vocab": [
+          { "w": "限界", "r": "げんかい", "hv": "HẠN GIỚI", "vi": "giới hạn (năng lực)" },
+          { "w": "制限", "r": "せいげん", "hv": "CHẾ HẠN", "vi": "hạn chế, giới hạn (quy định)" },
+          { "w": "境界", "r": "きょうかい", "hv": "CẢNH GIỚI", "vi": "ranh giới" },
+          { "w": "境目", "r": "さかいめ", "hv": "CẢNH MỤC", "vi": "đường ranh giới" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "限界 = giới hạn của bản thân; 制限 = giới hạn bị người khác đặt ra."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "彼はその出来事がきっかけで、医者になる決意を（　　）。",
+      "options": ["固めた", "まとめた", "仕上げた", "合わせた"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nhân sự việc đó, anh ấy đã hạ quyết tâm trở thành bác sĩ.",
+        "why": "決意を固める = củng cố/hạ quyết tâm (kết hợp cố định). Tương tự: 決心を固める.",
+        "options": [
+          "固めた → 固める: làm cho vững chắc → 決意を固める. ĐÚNG.",
+          "まとめた → まとめる: tóm tắt, gom lại (意見をまとめる). Sai.",
+          "仕上げた → 仕上げる: hoàn thành (作品を仕上げる). Sai.",
+          "合わせた → 合わせる: hợp lại, khớp (力を合わせる). Sai."
+        ],
+        "vocab": [
+          { "w": "決意", "r": "けつい", "hv": "QUYẾT Ý", "vi": "quyết tâm" },
+          { "w": "固める", "r": "かためる", "hv": "CỐ", "vi": "làm cứng, củng cố" },
+          { "w": "きっかけ", "r": "きっかけ", "hv": "", "vi": "cơ hội, nguyên cớ" },
+          { "w": "出来事", "r": "できごと", "hv": "XUẤT LAI SỰ", "vi": "sự việc, biến cố" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Collocation: 決意／決心／基礎を固める."
+      }
+    }
+  ]
+}

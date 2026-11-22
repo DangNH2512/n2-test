@@ -1,0 +1,191 @@
+{
+  "exam": "2025-07",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "息子はみんなの前で、悪いことはもう絶対にしないと（　　）。",
+      "options": ["論じた", "命じた", "誓った", "迫った"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Con trai tôi đã thề trước mọi người rằng sẽ tuyệt đối không làm điều xấu nữa.",
+        "why": "～と誓う = thề, hứa chắc chắn sẽ (không) làm gì. 'もう絶対にしない' là lời hứa của chính mình → 誓った.",
+        "options": [
+          "論じた → 論じる: bàn luận, nghị luận. Sai.",
+          "命じた → 命じる: ra lệnh (cho người khác). Sai.",
+          "誓った → 誓う: thề, nguyện. ĐÚNG.",
+          "迫った → 迫る: thúc ép, đến gần. Sai."
+        ],
+        "vocab": [
+          { "w": "誓う", "r": "ちかう", "hv": "THỆ", "vi": "thề, nguyện" },
+          { "w": "論じる", "r": "ろんじる", "hv": "LUẬN", "vi": "bàn luận" },
+          { "w": "命じる", "r": "めいじる", "hv": "MỆNH", "vi": "ra lệnh" },
+          { "w": "迫る", "r": "せまる", "hv": "BÁCH", "vi": "thúc ép; đến gần" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Lời hứa của bản thân → 誓う/約束する; bắt người khác làm → 命じる."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "工事のため、（　　）電気が止まることがあります。",
+      "options": ["簡潔に", "一時的に", "手軽に", "不完全に"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Do thi công, có lúc điện sẽ bị ngắt tạm thời.",
+        "why": "一時的に = tạm thời, trong một thời gian ngắn. Cúp điện do thi công thường chỉ trong thời gian ngắn.",
+        "options": [
+          "簡潔に → ngắn gọn, súc tích (cách nói, viết). Sai.",
+          "一時的に → tạm thời. ĐÚNG.",
+          "手軽に → dễ dàng, đơn giản. Sai.",
+          "不完全に → không hoàn chỉnh. Sai."
+        ],
+        "vocab": [
+          { "w": "一時的", "r": "いちじてき", "hv": "NHẤT THỜI ĐÍCH", "vi": "tạm thời" },
+          { "w": "簡潔", "r": "かんけつ", "hv": "GIẢN KHIẾT", "vi": "ngắn gọn, súc tích" },
+          { "w": "手軽", "r": "てがる", "hv": "THỦ KHINH", "vi": "dễ dàng, nhẹ nhàng" },
+          { "w": "工事", "r": "こうじ", "hv": "CÔNG SỰ", "vi": "thi công, công trình" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "あの人物が今回の事件に（　　）していたのは間違いない。",
+      "options": ["参列", "加入", "登場", "関与"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Chắc chắn người đó đã có liên quan (dính líu) đến vụ án lần này.",
+        "why": "事件に関与する = can dự, dính líu vào vụ việc. Đây là cụm cố định thường dùng với 事件・犯罪.",
+        "options": [
+          "参列 → tham dự (lễ cưới, tang lễ, nghi thức). Sai.",
+          "加入 → gia nhập (hội, bảo hiểm). Sai.",
+          "登場 → xuất hiện (trên sân khấu, phim). Sai.",
+          "関与 → can dự, liên quan. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "関与", "r": "かんよ", "hv": "QUAN DỮ", "vi": "can dự, dính líu" },
+          { "w": "参列", "r": "さんれつ", "hv": "THAM LIỆT", "vi": "tham dự (nghi lễ)" },
+          { "w": "加入", "r": "かにゅう", "hv": "GIA NHẬP", "vi": "gia nhập" },
+          { "w": "事件", "r": "じけん", "hv": "SỰ KIỆN", "vi": "vụ án, vụ việc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "事件・犯罪に関与する là collocation hay gặp."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "油で汚れたフライパンは、（　　）してとても洗いにくいです。",
+      "options": ["べたべた", "かさかさ", "じめじめ", "ちくちく"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Chảo dính dầu mỡ thì nhớp nháp nên rất khó rửa.",
+        "why": "べたべた = dính nhớp nháp (dầu, mồ hôi, keo). Chảo dính dầu → べたべたする.",
+        "options": [
+          "べたべた → dính nhớp. ĐÚNG.",
+          "かさかさ → khô ráp (da, lá khô). Sai.",
+          "じめじめ → ẩm thấp (thời tiết, căn phòng). Sai.",
+          "ちくちく → châm chích, ngứa ran (len, gai). Sai."
+        ],
+        "vocab": [
+          { "w": "べたべた", "r": "べたべた", "hv": "", "vi": "dính nhớp nháp" },
+          { "w": "かさかさ", "r": "かさかさ", "hv": "", "vi": "khô ráp" },
+          { "w": "じめじめ", "r": "じめじめ", "hv": "", "vi": "ẩm ướt, ẩm thấp" },
+          { "w": "ちくちく", "r": "ちくちく", "hv": "", "vi": "châm chích" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Dầu mỡ, mồ hôi, đồ ngọt dính tay → べたべた."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "サッカーで手を使うのは禁止されていて、もし使ったら（　　）になる。",
+      "options": ["反則", "違法", "非常識", "不都合"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Trong bóng đá, việc dùng tay bị cấm, nếu dùng thì sẽ bị phạm lỗi.",
+        "why": "反則 = phạm luật (trong thể thao, trò chơi). Vi phạm luật chơi bóng đá → 反則になる.",
+        "options": [
+          "反則 → phạm luật (thể thao). ĐÚNG.",
+          "違法 → phạm pháp luật nhà nước; quá nặng cho luật chơi. Sai.",
+          "非常識 → thiếu ý thức thông thường. Sai.",
+          "不都合 → bất tiện, không thuận lợi. Sai."
+        ],
+        "vocab": [
+          { "w": "反則", "r": "はんそく", "hv": "PHẢN TẮC", "vi": "phạm luật, phạm quy" },
+          { "w": "違法", "r": "いほう", "hv": "VI PHÁP", "vi": "phạm pháp" },
+          { "w": "非常識", "r": "ひじょうしき", "hv": "PHI THƯỜNG THỨC", "vi": "thiếu hiểu biết thông thường, vô ý thức" },
+          { "w": "不都合", "r": "ふつごう", "hv": "BẤT ĐÔ HỢP", "vi": "bất tiện" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Luật chơi (ルール) → 反則; luật pháp (法律) → 違法."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "虫が飛んできたので、手に持っていた帽子を振って遠くに（　　）。",
+      "options": ["連れ出した", "締め出した", "取り払った", "追い払った"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Có con côn trùng bay tới nên tôi vẫy chiếc mũ đang cầm để xua nó đi xa.",
+        "why": "追い払う = xua đuổi (người, động vật, côn trùng) đi chỗ khác. Vẫy mũ để đuổi côn trùng → 追い払った.",
+        "options": [
+          "連れ出した → 連れ出す: dẫn ai đó ra ngoài. Sai.",
+          "締め出した → 締め出す: khóa cửa không cho vào, loại ra. Sai.",
+          "取り払った → 取り払う: dỡ bỏ (vật cản, rào chắn). Sai.",
+          "追い払った → 追い払う: xua đuổi. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "追い払う", "r": "おいはらう", "hv": "TRUY PHẤT", "vi": "xua đuổi" },
+          { "w": "締め出す", "r": "しめだす", "hv": "ĐẾ XUẤT", "vi": "khóa ngoài, loại ra" },
+          { "w": "取り払う", "r": "とりはらう", "hv": "THỦ PHẤT", "vi": "dỡ bỏ, dọn đi" },
+          { "w": "振る", "r": "ふる", "hv": "CHẤN", "vi": "vẫy, lắc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "社会の変化に合わせて、働き方や休日の過ごし方など人々が選ぶ生活の（　　）も変わってきた。",
+      "options": ["ポーズ", "スタイル", "ブランド", "シリーズ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo sự thay đổi của xã hội, phong cách sống mà mọi người lựa chọn như cách làm việc, cách trải qua ngày nghỉ cũng đã thay đổi.",
+        "why": "生活のスタイル (ライフスタイル) = lối sống, phong cách sống. Cách làm việc, cách nghỉ ngơi là ví dụ của lối sống.",
+        "options": [
+          "ポーズ → tư thế (chụp ảnh); tạm dừng. Sai.",
+          "スタイル → phong cách, kiểu. ĐÚNG.",
+          "ブランド → thương hiệu. Sai.",
+          "シリーズ → loạt, series. Sai."
+        ],
+        "vocab": [
+          { "w": "スタイル", "r": "すたいる", "hv": "", "vi": "phong cách, kiểu; dáng người" },
+          { "w": "過ごし方", "r": "すごしかた", "hv": "QUÁ", "vi": "cách trải qua (thời gian)" },
+          { "w": "変化", "r": "へんか", "hv": "BIẾN HÓA", "vi": "sự thay đổi" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": null
+      }
+    }
+  ]
+}

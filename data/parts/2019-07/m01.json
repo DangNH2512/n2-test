@@ -1,0 +1,135 @@
+{
+  "exam": "2019-07",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "誰も<u>憎んで</u>なんていませんから、心配しないでください。",
+      "options": ["なやんで", "くやんで", "うらんで", "にくんで"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi chẳng hề căm ghét ai cả, nên đừng lo lắng.",
+        "why": "憎む đọc là にくむ (TĂNG) = ghét, căm ghét. Thể て: 憎んで → にくんで.",
+        "options": [
+          "なやんで → 悩んで (NÃO): phiền muộn, trăn trở. Sai.",
+          "くやんで → 悔やんで (HỐI): hối tiếc. Sai.",
+          "うらんで → 恨んで (HẬN): oán hận. Nghĩa gần nhưng là chữ khác. Sai.",
+          "にくんで → 憎んで: căm ghét. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "憎む", "r": "にくむ", "hv": "TĂNG", "vi": "ghét, căm ghét" },
+          { "w": "恨む", "r": "うらむ", "hv": "HẬN", "vi": "oán hận" },
+          { "w": "悩む", "r": "なやむ", "hv": "NÃO", "vi": "phiền não, trăn trở" },
+          { "w": "心配", "r": "しんぱい", "hv": "TÂM PHỐI", "vi": "lo lắng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "憎 (にく): 憎い・憎む・憎しみ. Đừng nhầm với 恨 (うら) cũng mang nghĩa ghét/oán."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "<u>偶然</u>、駅で友達に会った。",
+      "options": ["とつぜん", "ぐうぜん", "ぐぜん", "とぜん"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tình cờ tôi gặp bạn ở nhà ga.",
+        "why": "偶然 đọc là ぐうぜん (NGẪU NHIÊN) = tình cờ, ngẫu nhiên. 偶 có trường âm ぐう.",
+        "options": [
+          "とつぜん → 突然 (ĐỘT NHIÊN): đột nhiên. Sai.",
+          "ぐうぜん → 偶然: tình cờ. ĐÚNG.",
+          "ぐぜん → thiếu trường âm, không có từ này. Sai.",
+          "とぜん → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "偶然", "r": "ぐうぜん", "hv": "NGẪU NHIÊN", "vi": "tình cờ, ngẫu nhiên" },
+          { "w": "突然", "r": "とつぜん", "hv": "ĐỘT NHIÊN", "vi": "đột nhiên" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "偶 = ぐう (偶数 ぐうすう: số chẵn). Bẫy thường gặp là bỏ mất trường âm."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "大学のゼミではいろいろな<u>刺激</u>を受けた。",
+      "options": ["さてき", "さげき", "しげき", "してき"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Ở lớp seminar đại học tôi đã nhận được nhiều kích thích (động lực, cảm hứng) khác nhau.",
+        "why": "刺激 đọc là しげき (THÍCH KÍCH) = kích thích, tác động. 刺 đọc し, 激 đọc げき (激しい はげしい).",
+        "options": [
+          "さてき → không có từ này. Sai.",
+          "さげき → không có từ này. Sai.",
+          "しげき → 刺激: kích thích. ĐÚNG.",
+          "してき → 指摘 (CHỈ TRÍCH): chỉ ra, nêu ra. Sai."
+        ],
+        "vocab": [
+          { "w": "刺激", "r": "しげき", "hv": "THÍCH KÍCH", "vi": "kích thích, tác động (tạo động lực)" },
+          { "w": "指摘", "r": "してき", "hv": "CHỈ TRÍCH", "vi": "chỉ ra, nêu ra" },
+          { "w": "ゼミ", "r": "ゼミ", "hv": "", "vi": "lớp seminar (nhóm nghiên cứu ở đại học)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "刺激を受ける = được truyền cảm hứng/kích thích. 刺 (さす: đâm) nhưng âm On là し."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "失敗して<u>恥</u>をかいたが、先輩の優しい一言に慰められた。",
+      "options": ["はし", "はじ", "はず", "はす"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi thất bại và bị bẽ mặt, nhưng đã được an ủi nhờ một lời nói dịu dàng của đàn anh.",
+        "why": "恥 đọc là はじ (SỈ) = sự xấu hổ. Cụm cố định: 恥をかく = bị mất mặt, xấu hổ.",
+        "options": [
+          "はし → 橋/箸/端: cây cầu/đũa/mép. Sai.",
+          "はじ → 恥: sự xấu hổ. ĐÚNG.",
+          "はず → 筈: lẽ ra, chắc chắn là. Sai.",
+          "はす → 蓮: hoa sen. Sai."
+        ],
+        "vocab": [
+          { "w": "恥", "r": "はじ", "hv": "SỈ", "vi": "sự xấu hổ, nỗi nhục" },
+          { "w": "恥をかく", "r": "はじをかく", "hv": "", "vi": "bị bẽ mặt, xấu hổ" },
+          { "w": "慰める", "r": "なぐさめる", "hv": "ÚY", "vi": "an ủi" },
+          { "w": "先輩", "r": "せんぱい", "hv": "TIÊN BỐI", "vi": "đàn anh, tiền bối" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "恥ずかしい (はずかしい) dùng âm はず, nhưng danh từ 恥 đọc là はじ."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "彼の強さは<u>圧倒的</u>だ。",
+      "options": ["あっとうてき", "おっとうてき", "あつどうてき", "おつどうてき"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Sức mạnh của anh ấy thật áp đảo.",
+        "why": "圧倒的 đọc là あっとうてき (ÁP ĐẢO ĐÍCH). 圧 (あつ) + 倒 (とう) → あつ biến thành あっ (âm ngắt), 倒 giữ とう, không biến thành どう.",
+        "options": [
+          "あっとうてき → 圧倒的: áp đảo. ĐÚNG.",
+          "おっとうてき → 圧 không đọc おっ. Sai.",
+          "あつどうてき → thiếu âm ngắt và sai biến âm どう. Sai.",
+          "おつどうてき → sai cả hai âm. Sai."
+        ],
+        "vocab": [
+          { "w": "圧倒的", "r": "あっとうてき", "hv": "ÁP ĐẢO ĐÍCH", "vi": "áp đảo, vượt trội" },
+          { "w": "圧力", "r": "あつりょく", "hv": "ÁP LỰC", "vi": "áp lực" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "圧 = あつ (圧力), khi đứng trước âm hàng た thì thành あっ: 圧倒 あっとう."
+      }
+    }
+  ]
+}

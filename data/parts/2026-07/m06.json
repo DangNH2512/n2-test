@@ -1,0 +1,164 @@
+{
+  "exam": "2026-07",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn câu dùng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "要点",
+      "options": [
+        "彼は今、成功するかどうかの<u>要点</u>にいる。",
+        "人間にとっての<u>要点</u>は、心臓と脳である。",
+        "あまり時間がなかったので、計画の<u>要点</u>だけを説明した。",
+        "卒業式の日に先生にいただいた言葉は私の<u>要点</u>です。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vì không có nhiều thời gian nên tôi chỉ giải thích những điểm chính của kế hoạch.",
+        "why": "要点 (ようてん, YẾU ĐIỂM) = điểm chính, ý chính của nội dung (bài nói, văn bản, kế hoạch). 「計画の要点だけを説明した」 là cách dùng chuẩn.",
+        "options": [
+          "Sai: 'thời điểm quyết định thành bại' phải là 分かれ目 (わかれめ) / 瀬戸際 (せとぎわ).",
+          "Sai: bộ phận quan trọng của cơ thể phải là 急所 (きゅうしょ) / 重要な器官.",
+          "ĐÚNG: 要点 = ý chính của kế hoạch.",
+          "Sai: lời nói làm kim chỉ nam là 支え (ささえ) / 座右の銘 (ざゆうのめい)."
+        ],
+        "vocab": [
+          { "w": "要点", "r": "ようてん", "hv": "YẾU ĐIỂM", "vi": "điểm chính, ý chính" },
+          { "w": "分かれ目", "r": "わかれめ", "hv": "PHÂN", "vi": "bước ngoặt, điểm phân định" },
+          { "w": "心臓", "r": "しんぞう", "hv": "TÂM TẠNG", "vi": "tim" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "要点をまとめる / 要点を押さえる (nắm ý chính) — luôn nói về nội dung thông tin."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "裂ける",
+      "options": [
+        "壁から飛び出していたくぎに引っかかって、スカートが<u>裂けて</u>しまった。",
+        "ズボンのポケットに携帯電話を入れていたら、画面が<u>裂けて</u>しまった。",
+        "硬い肉を切ろうとして力を入れたら、箸が<u>裂けて</u>しまった。",
+        "冷蔵庫を開けたときに卵が落ちて<u>裂けて</u>しまった。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Bị vướng vào cái đinh nhô ra từ tường nên váy bị rách toạc.",
+        "why": "裂ける (さける, LIỆT) = rách toạc, bị xé ra (vải, giấy, da… thứ mềm, dạng sợi bị kéo tách ra). Váy vướng đinh → rách toạc: đúng.",
+        "options": [
+          "ĐÚNG: vải váy bị rách toạc do vướng đinh.",
+          "Sai: màn hình bị nứt/vỡ là 割れる (われる) / ひびが入る.",
+          "Sai: đũa bị gãy là 折れる (おれる).",
+          "Sai: trứng rơi vỡ là 割れる (われる)."
+        ],
+        "vocab": [
+          { "w": "裂ける", "r": "さける", "hv": "LIỆT", "vi": "rách toạc, nứt toác" },
+          { "w": "割れる", "r": "われる", "hv": "CÁT", "vi": "vỡ, nứt (đồ cứng: kính, trứng)" },
+          { "w": "折れる", "r": "おれる", "hv": "CHIẾT", "vi": "gãy (que, cành, xương)" },
+          { "w": "引っかかる", "r": "ひっかかる", "hv": "", "vi": "bị vướng, mắc vào" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "裂ける: vải/giấy rách; 割れる: kính/trứng/đĩa vỡ; 折れる: que/xương gãy; 破れる: giấy/vải thủng, rách."
+      }
+    },
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "経過",
+      "options": [
+        "うっかりして、降りる駅を<u>経過</u>してしまった。",
+        "忙しすぎて、季節が<u>経過</u>するのに気づけなかった。",
+        "たくさんの失敗を<u>経過</u>して、立派な大人になった。",
+        "就職して１年が<u>経過</u>し、新しい生活にも慣れてきた。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đã qua 1 năm kể từ khi đi làm, tôi cũng đã quen dần với cuộc sống mới.",
+        "why": "経過 (けいか, KINH QUÁ) = (thời gian) trôi qua, kể từ ~; hoặc diễn biến. Mẫu chuẩn: 「～して＋khoảng thời gian＋が経過する」.",
+        "options": [
+          "Sai: lỡ đi quá ga là 乗り過ごす (のりすごす).",
+          "Sai: mùa thay đổi là 季節が移り変わる (うつりかわる) / 過ぎる.",
+          "Sai: trải qua thất bại là 経験する / 経る (へる).",
+          "ĐÚNG: 1年が経過する = 1 năm trôi qua."
+        ],
+        "vocab": [
+          { "w": "経過", "r": "けいか", "hv": "KINH QUÁ", "vi": "trôi qua (thời gian); diễn biến" },
+          { "w": "乗り過ごす", "r": "のりすごす", "hv": "THỪA QUÁ", "vi": "đi quá ga" },
+          { "w": "移り変わる", "r": "うつりかわる", "hv": "DI BIẾN", "vi": "thay đổi, chuyển dời" },
+          { "w": "就職", "r": "しゅうしょく", "hv": "TỰU CHỨC", "vi": "đi làm, có việc làm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "経過 thường đi với khoảng thời gian cụ thể (～年/～分が経過) hoặc 手術後の経過 (diễn biến sau mổ)."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "打ち消す",
+      "options": [
+        "用事ができて旅行に行けなくなったので、ホテルの予約を<u>打ち消した</u>。",
+        "その選手は記者会見で引退のうわさを<u>打ち消した</u>。",
+        "答えを書く場所を間違えたので、全部<u>打ち消して</u>書き直した。",
+        "仕事内容を見直し、残業を先月より50パーセント<u>打ち消した</u>。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Vận động viên đó đã phủ nhận tin đồn giải nghệ tại buổi họp báo.",
+        "why": "打ち消す (うちけす) = phủ nhận, bác bỏ (tin đồn, ý kiến), xua tan (cảm giác). 「うわさを打ち消す」 là collocation chuẩn.",
+        "options": [
+          "Sai: hủy đặt phòng là 取り消す (とりけす) / キャンセルする.",
+          "ĐÚNG: うわさを打ち消す = phủ nhận tin đồn.",
+          "Sai: xóa chữ đã viết là 消す (けす).",
+          "Sai: giảm làm thêm giờ là 減らす (へらす) / 削減する (さくげん)."
+        ],
+        "vocab": [
+          { "w": "打ち消す", "r": "うちけす", "hv": "ĐẢ TIÊU", "vi": "phủ nhận, bác bỏ" },
+          { "w": "取り消す", "r": "とりけす", "hv": "THỦ TIÊU", "vi": "hủy bỏ (đặt chỗ, lời nói)" },
+          { "w": "引退", "r": "いんたい", "hv": "DẪN THOÁI", "vi": "giải nghệ, nghỉ hưu" },
+          { "w": "噂", "r": "うわさ", "hv": "", "vi": "tin đồn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy kinh điển: 打ち消す (phủ nhận) vs 取り消す (hủy bỏ)."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "さっと",
+      "options": [
+        "東京は電車の数が多いので、乗り遅れても次の電車が<u>さっと</u>来ます。",
+        "朝は涼しかったが、昼になると<u>さっと</u>暑くなって気温が30度を超えた。",
+        "刑事がうそを指摘すると、犯人の顔色が<u>さっと</u>変わった。",
+        "山口さんに、戻ったら<u>さっと</u>電話をしてほしいと伝えてください。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Khi viên thám tử chỉ ra lời nói dối, sắc mặt tên tội phạm lập tức biến đổi.",
+        "why": "さっと = (động tác, thay đổi) nhanh gọn, thoắt một cái, trong tích tắc. 「顔色がさっと変わる」 (sắc mặt biến đổi tức thì) là cách dùng điển hình.",
+        "options": [
+          "Sai: tàu tiếp theo đến ngay phải là すぐ (に) 来ます.",
+          "Sai: thời tiết nóng lên nhanh phải là 急に / ぐっと暑くなる.",
+          "ĐÚNG: 顔色がさっと変わった.",
+          "Sai: gọi điện ngay khi về phải là すぐ (に) 電話をする."
+        ],
+        "vocab": [
+          { "w": "さっと", "r": "さっと", "hv": "", "vi": "nhanh gọn, thoắt một cái" },
+          { "w": "刑事", "r": "けいじ", "hv": "HÌNH SỰ", "vi": "cảnh sát hình sự, thám tử" },
+          { "w": "指摘", "r": "してき", "hv": "CHỈ TRÍCH", "vi": "chỉ ra" },
+          { "w": "顔色", "r": "かおいろ", "hv": "NHAN SẮC", "vi": "sắc mặt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "さっと thường đi với động tác ngắn: さっと立ち上がる, さっと洗う, 顔色がさっと変わる. 'Ngay sau đó' trong thời gian dài → dùng すぐ."
+      }
+    }
+  ]
+}

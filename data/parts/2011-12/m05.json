@@ -1,0 +1,134 @@
+{
+  "exam": "2011-12",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ/cụm từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "真夏の屋外でずっと仕事をしたら、<u>くたくた</u>になった。",
+      "options": ["ひどく疲れた", "のどがかわいた", "お腹が空いた", "汗をかいた"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Làm việc suốt ngoài trời giữa mùa hè, tôi mệt rã rời.",
+        "why": "くたくた = mệt lả, kiệt sức (cũng dùng cho vải nhàu nát). くたくたになる = ひどく疲れる.",
+        "options": [
+          "ひどく疲れた → mệt rã rời. ĐÚNG.",
+          "のどがかわいた → khát nước (からから). Sai.",
+          "お腹が空いた → đói bụng (ぺこぺこ). Sai.",
+          "汗をかいた → đổ mồ hôi (びっしょり). Sai."
+        ],
+        "vocab": [
+          { "w": "くたくた", "r": "くたくた", "hv": "", "vi": "mệt rã rời; nhàu nát" },
+          { "w": "真夏", "r": "まなつ", "hv": "CHÂN HẠ", "vi": "giữa mùa hè" },
+          { "w": "屋外", "r": "おくがい", "hv": "ỐC NGOẠI", "vi": "ngoài trời" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhóm từ tượng thái: くたくた (mệt), ぺこぺこ (đói), からから (khát), びっしょり (ướt sũng)."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "この10年で、この島の自然環境は<u>わずかに</u>変化した。",
+      "options": ["急に", "ゆっくり", "大きく", "少し"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Trong 10 năm qua, môi trường tự nhiên của hòn đảo này đã thay đổi một chút.",
+        "why": "わずかに (僅かに) = chỉ một chút, rất ít ≈ 少し.",
+        "options": [
+          "急に → đột ngột. Sai.",
+          "ゆっくり → chậm rãi (nói tốc độ, không phải mức độ). Sai.",
+          "大きく → nhiều, lớn – trái nghĩa. Sai.",
+          "少し → một chút. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "わずか（僅か）", "r": "わずか", "hv": "CẬN", "vi": "chút ít, ít ỏi" },
+          { "w": "環境", "r": "かんきょう", "hv": "HOÀN CẢNH", "vi": "môi trường" },
+          { "w": "変化", "r": "へんか", "hv": "BIẾN HÓA", "vi": "thay đổi" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "わずか = ほんの少し; 残りわずか = chỉ còn ít."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "田中さんは子供のころから<u>優秀だった</u>らしい。",
+      "options": ["あたまがよかった", "体が丈夫だった", "話がおもしろかった", "人気があった"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nghe nói anh Tanaka từ nhỏ đã rất xuất sắc (giỏi giang).",
+        "why": "優秀 = ưu tú, xuất sắc (học giỏi, năng lực cao) ≈ あたまがよい.",
+        "options": [
+          "あたまがよかった → thông minh, học giỏi. ĐÚNG.",
+          "体が丈夫だった → khỏe mạnh (健康). Sai.",
+          "話がおもしろかった → nói chuyện thú vị. Sai.",
+          "人気があった → được yêu thích. Sai."
+        ],
+        "vocab": [
+          { "w": "優秀", "r": "ゆうしゅう", "hv": "ƯU TÚ", "vi": "xuất sắc, ưu tú" },
+          { "w": "丈夫", "r": "じょうぶ", "hv": "TRƯỢNG PHU", "vi": "khỏe mạnh, bền" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "優秀な成績 = thành tích xuất sắc; 優秀賞 = giải xuất sắc."
+      }
+    },
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "鈴木さんは恥ずかしそうに<u>うつむい</u>ていた。",
+      "options": ["横を向いて", "下を向いて", "頭をかいて", "鼻をかいて"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh Suzuki cúi gằm mặt có vẻ xấu hổ.",
+        "why": "うつむく (俯く) = cúi đầu, cúi mặt xuống ≈ 下を向く.",
+        "options": [
+          "横を向いて → quay sang ngang (そっぽを向く). Sai.",
+          "下を向いて → nhìn xuống, cúi mặt. ĐÚNG.",
+          "頭をかいて → gãi đầu (cũng là cử chỉ ngượng). Sai.",
+          "鼻をかいて → gãi mũi. Sai."
+        ],
+        "vocab": [
+          { "w": "うつむく（俯く）", "r": "うつむく", "hv": "PHỦ", "vi": "cúi mặt xuống" },
+          { "w": "恥ずかしい", "r": "はずかしい", "hv": "SỈ", "vi": "xấu hổ" },
+          { "w": "あおむく（仰向く）", "r": "あおむく", "hv": "NGƯỠNG", "vi": "ngửa mặt lên" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "うつむく ↔ あおむく. うつぶせ = nằm sấp."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "学生時代の友人が<u>いきなり</u>訪ねてきた。",
+      "options": ["つぎつぎ", "やっと", "とつぜん", "いちどに"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Người bạn thời sinh viên đột nhiên đến thăm.",
+        "why": "いきなり = bất thình lình, đột ngột không báo trước ≈ とつぜん (突然).",
+        "options": [
+          "つぎつぎ → lần lượt, liên tiếp. Sai.",
+          "やっと → cuối cùng thì (sau chờ đợi). Sai.",
+          "とつぜん → đột nhiên. ĐÚNG.",
+          "いちどに → cùng một lúc. Sai."
+        ],
+        "vocab": [
+          { "w": "いきなり", "r": "いきなり", "hv": "", "vi": "đột ngột, bất thình lình" },
+          { "w": "突然", "r": "とつぜん", "hv": "ĐỘT NHIÊN", "vi": "đột nhiên" },
+          { "w": "訪ねる", "r": "たずねる", "hv": "PHỎNG", "vi": "đến thăm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đồng nghĩa: いきなり・突然・不意に・急に."
+      }
+    }
+  ]
+}

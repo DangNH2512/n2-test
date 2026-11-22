@@ -1,0 +1,137 @@
+{
+  "exam": "2022-12",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "あの選手には<u>テクニック</u>がある。",
+      "options": ["自信", "技術", "経験", "体力"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Vận động viên đó có kỹ thuật.",
+        "why": "テクニック (technique) = 技術 (ぎじゅつ: kỹ thuật, kỹ năng).",
+        "options": [
+          "自信 → じしん: sự tự tin. Sai.",
+          "技術 → ぎじゅつ: kỹ thuật. ĐÚNG.",
+          "経験 → けいけん: kinh nghiệm. Sai.",
+          "体力 → たいりょく: thể lực. Sai."
+        ],
+        "vocab": [
+          { "w": "テクニック", "r": "てくにっく", "hv": "", "vi": "kỹ thuật (technique)" },
+          { "w": "技術", "r": "ぎじゅつ", "hv": "KỸ THUẬT", "vi": "kỹ thuật" },
+          { "w": "選手", "r": "せんしゅ", "hv": "TUYỂN THỦ", "vi": "vận động viên" },
+          { "w": "体力", "r": "たいりょく", "hv": "THỂ LỰC", "vi": "thể lực" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "ここには大量の<u>書籍</u>が収められている。",
+      "options": ["新聞", "絵", "本", "手紙"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Ở đây lưu trữ một lượng lớn sách.",
+        "why": "書籍 (しょせき: THƯ TỊCH) = sách, sách vở (cách nói trang trọng của 本).",
+        "options": [
+          "新聞 → しんぶん: báo. Sai.",
+          "絵 → え: tranh. Sai.",
+          "本 → ほん: sách. ĐÚNG.",
+          "手紙 → てがみ: thư. Sai."
+        ],
+        "vocab": [
+          { "w": "書籍", "r": "しょせき", "hv": "THƯ TỊCH", "vi": "sách" },
+          { "w": "大量", "r": "たいりょう", "hv": "ĐẠI LƯỢNG", "vi": "số lượng lớn" },
+          { "w": "収める", "r": "おさめる", "hv": "THU", "vi": "cất giữ, chứa" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "書 (しょ) liên quan đến sách/văn bản: 書籍・書店(hiệu sách)・図書."
+      }
+    },
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "今年になって国の方針が<u>一転した</u>。",
+      "options": ["すっかり変わった", "少し変わった", "やっと決まった", "すぐに決まった"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Sang năm nay, phương châm của nhà nước đã thay đổi hoàn toàn.",
+        "why": "一転する (いってん: NHẤT CHUYỂN) = thay đổi hoàn toàn, quay ngoắt 180 độ → すっかり変わった.",
+        "options": [
+          "すっかり変わった → thay đổi hoàn toàn. ĐÚNG.",
+          "少し変わった → thay đổi một chút; 一転 là thay đổi hẳn. Sai.",
+          "やっと決まった → cuối cùng cũng quyết định. Sai.",
+          "すぐに決まった → quyết định ngay. Sai."
+        ],
+        "vocab": [
+          { "w": "一転する", "r": "いってんする", "hv": "NHẤT CHUYỂN", "vi": "thay đổi hoàn toàn" },
+          { "w": "方針", "r": "ほうしん", "hv": "PHƯƠNG CHÂM", "vi": "phương châm, đường lối" },
+          { "w": "すっかり", "r": "すっかり", "hv": "", "vi": "hoàn toàn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "態度が一転する = thái độ thay đổi hẳn."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "この道具は先が<u>とがって</u>いる。",
+      "options": ["柔らかくなって", "細くなって", "硬くなって", "太くなって"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Dụng cụ này đầu nhọn.",
+        "why": "とがる (尖る) = nhọn, đầu thon lại → 先が細くなっている (đầu nhỏ dần lại).",
+        "options": [
+          "柔らかくなって → trở nên mềm. Sai.",
+          "細くなって → nhỏ/thon lại. ĐÚNG.",
+          "硬くなって → trở nên cứng. Sai.",
+          "太くなって → trở nên to, dày. Sai (ngược nghĩa)."
+        ],
+        "vocab": [
+          { "w": "尖る", "r": "とがる", "hv": "TIÊM", "vi": "nhọn" },
+          { "w": "道具", "r": "どうぐ", "hv": "ĐẠO CỤ", "vi": "dụng cụ" },
+          { "w": "先", "r": "さき", "hv": "TIÊN", "vi": "đầu, mũi (của vật)" },
+          { "w": "細い", "r": "ほそい", "hv": "TẾ", "vi": "mảnh, thon" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Chữ 尖 = 小 (nhỏ) trên 大 (to): to ở dưới, nhỏ ở trên → nhọn."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "彼がしていることは<u>くだらない</u>。",
+      "options": ["効果がない", "目的がない", "変化がない", "価値がない"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Việc anh ta đang làm thật vô bổ (chẳng có giá trị gì).",
+        "why": "くだらない = vô vị, vô giá trị, nhảm nhí → 価値がない (không có giá trị).",
+        "options": [
+          "効果がない → không hiệu quả. Sai.",
+          "目的がない → không có mục đích. Sai.",
+          "変化がない → không thay đổi. Sai.",
+          "価値がない → không có giá trị. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "くだらない", "r": "くだらない", "hv": "", "vi": "vô vị, nhảm nhí, vô giá trị" },
+          { "w": "価値", "r": "かち", "hv": "GIÁ TRỊ", "vi": "giá trị" },
+          { "w": "効果", "r": "こうか", "hv": "HIỆU QUẢ", "vi": "hiệu quả" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "くだらない ≈ つまらない ≈ ばかばかしい."
+      }
+    }
+  ]
+}

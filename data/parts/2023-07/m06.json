@@ -1,0 +1,168 @@
+{
+  "exam": "2023-07",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn câu dùng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "早期",
+      "options": [
+        "夏休みの<u>早期</u>は旅行をして、その後は試験勉強をする予定だ。",
+        "明日の飛行機は<u>早期</u>の便だから、朝5時に家を出なければならない。",
+        "一人暮らしの<u>早期</u>は、料理などの失敗も多くて苦労した。",
+        "医学の進歩によって、病気を<u>早期</u>の段階で見つけられるようになった。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nhờ sự tiến bộ của y học, bệnh tật đã có thể được phát hiện ở giai đoạn sớm.",
+        "why": "早期 (そうき, TẢO KỲ) = giai đoạn sớm, thời kỳ đầu của một quá trình (bệnh, phát hiện, xử lý): 早期発見・早期治療・早期の段階.",
+        "options": [
+          "Đầu kỳ nghỉ hè → phải dùng 前半 (ぜんはん) hoặc 初め. Sai.",
+          "Chuyến bay sáng sớm → phải dùng 早朝 (そうちょう) / 朝早い便. Sai.",
+          "Thời gian đầu sống một mình → phải dùng 最初のころ／初め. Sai.",
+          "病気を早期の段階で見つける → phát hiện bệnh ở giai đoạn sớm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "早期", "r": "そうき", "hv": "TẢO KỲ", "vi": "giai đoạn sớm" },
+          { "w": "早朝", "r": "そうちょう", "hv": "TẢO TRIÊU", "vi": "sáng sớm" },
+          { "w": "前半", "r": "ぜんはん", "hv": "TIỀN BÁN", "vi": "nửa đầu" },
+          { "w": "段階", "r": "だんかい", "hv": "ĐOẠN GIAI", "vi": "giai đoạn" },
+          { "w": "進歩", "r": "しんぽ", "hv": "TIẾN BỘ", "vi": "tiến bộ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm cố định: 早期発見 (phát hiện sớm)・早期退職 (nghỉ hưu sớm)・早期解決 (giải quyết sớm)."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "偉大",
+      "options": [
+        "山川さんのフランス語のスピーチはとても<u>偉大</u>だった。",
+        "この国には<u>偉大</u>な画家がたくさんいる。",
+        "あの家は、この辺りでいちばん<u>偉大</u>な家です。",
+        "あの人は<u>偉大</u>な馬を何頭も飼っている。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Đất nước này có rất nhiều họa sĩ vĩ đại.",
+        "why": "偉大 (いだい, VĨ ĐẠI) = vĩ đại, dùng cho con người hoặc thành tựu có tầm ảnh hưởng lớn: 偉大な画家・偉大な業績.",
+        "options": [
+          "Bài phát biểu tiếng Pháp hay → dùng 素晴らしい／見事. Sai.",
+          "偉大な画家 → họa sĩ vĩ đại. ĐÚNG.",
+          "Ngôi nhà to nhất vùng → dùng 大きい／立派な. Sai.",
+          "Ngựa to khỏe → dùng 立派な／大きな. Sai."
+        ],
+        "vocab": [
+          { "w": "偉大", "r": "いだい", "hv": "VĨ ĐẠI", "vi": "vĩ đại" },
+          { "w": "偉い", "r": "えらい", "hv": "VĨ", "vi": "giỏi, đáng khâm phục; có địa vị" },
+          { "w": "画家", "r": "がか", "hv": "HỌA GIA", "vi": "họa sĩ" },
+          { "w": "立派", "r": "りっぱ", "hv": "LẬP PHÁI", "vi": "tuyệt vời, đồ sộ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "偉大 ≠ \"to lớn về kích thước\". Kích thước dùng 巨大 (きょだい)."
+      }
+    },
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "印",
+      "options": [
+        "復習するときのために、大切な単語に赤のペンで<u>印</u>をつけた。",
+        "係員が旗を上げたのを<u>印</u>に、選手たちは一斉に走りだした。",
+        "角に病院がありますから、それを<u>印</u>に私の家まで来てください。",
+        "運転する人は、交通の<u>印</u>の意味を全部知っていなければならない。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Để tiện khi ôn bài, tôi đã đánh dấu những từ quan trọng bằng bút đỏ.",
+        "why": "印 (しるし, ẤN) = dấu, ký hiệu đánh dấu. 印をつける = đánh dấu là cách dùng chuẩn.",
+        "options": [
+          "印をつける → đánh dấu từ vựng. ĐÚNG.",
+          "Lấy việc giơ cờ làm hiệu lệnh → dùng 合図 (あいず). Sai.",
+          "Lấy bệnh viện làm mốc → dùng 目印 (めじるし). Sai.",
+          "Biển báo giao thông → dùng 交通標識 (ひょうしき). Sai."
+        ],
+        "vocab": [
+          { "w": "印", "r": "しるし", "hv": "ẤN", "vi": "dấu, ký hiệu" },
+          { "w": "目印", "r": "めじるし", "hv": "MỤC ẤN", "vi": "mốc nhận biết" },
+          { "w": "合図", "r": "あいず", "hv": "HỢP ĐỒ", "vi": "tín hiệu, hiệu lệnh" },
+          { "w": "標識", "r": "ひょうしき", "hv": "TIÊU THỨC", "vi": "biển báo" },
+          { "w": "一斉に", "r": "いっせいに", "hv": "NHẤT TỀ", "vi": "đồng loạt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Phân biệt: 印 (dấu đánh lên vật) / 目印 (mốc để tìm đường) / 合図 (tín hiệu bắt đầu) / 標識 (biển báo)."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "続出",
+      "options": [
+        "昨日からの雪で、転んでけがをする人が<u>続出</u>している。",
+        "ゆうべはせきが<u>続出</u>して、あまりよく眠れなかった。",
+        "鈴木アナウンサーは、このテレビ番組に5年間<u>続出</u>している。",
+        "この映画に関係する本や商品が、来週から<u>続出</u>するらしい。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Do tuyết rơi từ hôm qua, số người ngã bị thương liên tục xuất hiện.",
+        "why": "続出 (ぞくしゅつ, TỤC XUẤT) = (sự việc, người – thường tiêu cực) lần lượt xuất hiện liên tiếp, nhiều. けが人が続出 là cách dùng điển hình.",
+        "options": [
+          "けがをする人が続出 → người bị thương liên tiếp xuất hiện. ĐÚNG.",
+          "Ho liên tục → dùng せきが止まらない／続く. Sai.",
+          "Xuất hiện trên chương trình suốt 5 năm → dùng 出演し続ける. Sai.",
+          "Sách, hàng hóa lần lượt phát hành → dùng 次々と発売される. Sai."
+        ],
+        "vocab": [
+          { "w": "続出", "r": "ぞくしゅつ", "hv": "TỤC XUẤT", "vi": "liên tiếp xuất hiện" },
+          { "w": "出演", "r": "しゅつえん", "hv": "XUẤT DIỄN", "vi": "biểu diễn, xuất hiện (TV)" },
+          { "w": "発売", "r": "はつばい", "hv": "PHÁT MẠI", "vi": "phát hành, bán ra" },
+          { "w": "転ぶ", "r": "ころぶ", "hv": "CHUYỂN", "vi": "ngã" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "続出 thường đi với chủ ngữ số nhiều: 被害者・けが人・苦情・欠席者が続出する."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "さまたげる",
+      "options": [
+        "掲示板のポスターが取れそうになっていたので、テープで<u>さまたげた</u>。",
+        "原材料が高くなったが、製造方法を変えて、製品の値上げを<u>さまたげた</u>。",
+        "関係のない発言で、会議の進行を<u>さまたげないで</u>ください。",
+        "工場内の事故を<u>さまたげる</u>ために、作業の前に安全確認を行う。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Xin đừng cản trở tiến trình cuộc họp bằng những phát ngôn không liên quan.",
+        "why": "妨げる (さまたげる, PHƯƠNG) = cản trở, gây trở ngại cho một hoạt động đang diễn ra: 進行を妨げる・睡眠を妨げる.",
+        "options": [
+          "Dán băng keo cho poster khỏi rơi → dùng 留めた (とめた). Sai.",
+          "Ngăn việc tăng giá → dùng 抑えた (おさえた). Sai.",
+          "会議の進行を妨げる → cản trở tiến trình họp. ĐÚNG.",
+          "Phòng ngừa tai nạn → dùng 防ぐ (ふせぐ). Sai."
+        ],
+        "vocab": [
+          { "w": "妨げる", "r": "さまたげる", "hv": "PHƯƠNG", "vi": "cản trở" },
+          { "w": "防ぐ", "r": "ふせぐ", "hv": "PHÒNG", "vi": "phòng ngừa, ngăn chặn" },
+          { "w": "抑える", "r": "おさえる", "hv": "ỨC", "vi": "kiềm chế, giữ ở mức thấp" },
+          { "w": "進行", "r": "しんこう", "hv": "TIẾN HÀNH", "vi": "tiến trình" },
+          { "w": "掲示板", "r": "けいじばん", "hv": "YẾT THỊ BẢN", "vi": "bảng thông báo" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "妨げる = cản việc đang diễn ra; 防ぐ = ngăn việc xấu xảy ra (事故を防ぐ). Bẫy kinh điển."
+      }
+    }
+  ]
+}

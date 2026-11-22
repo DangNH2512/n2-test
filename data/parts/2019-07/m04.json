@@ -1,0 +1,193 @@
+{
+  "exam": "2019-07",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "予算もスタッフも希望通りにしたんだから成果を期待しているよと、上司に（　　）をかけられた。",
+      "options": ["ショック", "プレッシャー", "ダメージ", "コンプレックス"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Sếp gây áp lực cho tôi rằng: “Ngân sách lẫn nhân viên đều đã theo đúng nguyện vọng của cậu rồi, nên tôi kỳ vọng vào kết quả đấy”.",
+        "why": "プレッシャーをかける = gây áp lực. Ở đây dạng bị động プレッシャーをかけられる = bị (sếp) gây áp lực, đúng với ngữ cảnh sếp nói “tôi kỳ vọng vào kết quả”.",
+        "options": [
+          "ショック: cú sốc (ショックを受ける). Không đi với かける. Sai.",
+          "プレッシャー: áp lực (プレッシャーをかける). ĐÚNG.",
+          "ダメージ: thiệt hại (ダメージを受ける/与える). Sai.",
+          "コンプレックス: mặc cảm (コンプレックスを持つ). Sai."
+        ],
+        "vocab": [
+          { "w": "プレッシャー", "r": "プレッシャー", "hv": "", "vi": "áp lực (pressure)" },
+          { "w": "予算", "r": "よさん", "hv": "DỰ TOÁN", "vi": "ngân sách" },
+          { "w": "成果", "r": "せいか", "hv": "THÀNH QUẢ", "vi": "thành quả" },
+          { "w": "期待", "r": "きたい", "hv": "KỲ ĐÃI", "vi": "kỳ vọng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhớ cụm động từ đi kèm: プレッシャーをかける / ショックを受ける / ダメージを与える."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "アルバイトの仕事は勤務が多い月と少ない月があって、毎月の収入が（　　）だ。",
+      "options": ["不安定", "不理由", "不都合", "不公平"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Công việc làm thêm có tháng nhiều ca, có tháng ít ca nên thu nhập hàng tháng không ổn định.",
+        "why": "Ca làm lúc nhiều lúc ít → thu nhập 不安定 (ふあんてい - BẤT AN ĐỊNH) = không ổn định.",
+        "options": [
+          "不安定 (ふあんてい): không ổn định. ĐÚNG.",
+          "不理由 → không có từ này. Sai.",
+          "不都合 (ふつごう): bất tiện, có trục trặc. Sai.",
+          "不公平 (ふこうへい): bất công. Sai."
+        ],
+        "vocab": [
+          { "w": "不安定", "r": "ふあんてい", "hv": "BẤT AN ĐỊNH", "vi": "không ổn định" },
+          { "w": "不都合", "r": "ふつごう", "hv": "BẤT ĐÔ HỢP", "vi": "bất tiện, không thuận lợi" },
+          { "w": "不公平", "r": "ふこうへい", "hv": "BẤT CÔNG BÌNH", "vi": "bất công" },
+          { "w": "勤務", "r": "きんむ", "hv": "CẦN VỤ", "vi": "làm việc, ca làm" },
+          { "w": "収入", "r": "しゅうにゅう", "hv": "THU NHẬP", "vi": "thu nhập" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "収入が安定している ⇔ 収入が不安定だ."
+      }
+    },
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "彼は（　　）返事をしていたから、パーティーに来るかどうかわからない。",
+      "options": ["地味な", "かすかな", "あいまいな", "鈍感な"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh ấy trả lời mập mờ nên không biết có đến bữa tiệc hay không.",
+        "why": "“không biết có đến hay không” → câu trả lời không rõ ràng = あいまいな返事 (câu trả lời mập mờ).",
+        "options": [
+          "地味な (じみな): giản dị, không nổi bật (quần áo, màu sắc). Sai.",
+          "かすかな: mờ nhạt, yếu ớt (âm thanh, ánh sáng). Sai.",
+          "あいまいな (曖昧な): mập mờ, không rõ ràng. ĐÚNG.",
+          "鈍感な (どんかんな): chậm cảm nhận, vô tâm. Sai."
+        ],
+        "vocab": [
+          { "w": "曖昧", "r": "あいまい", "hv": "ÁI MUỘI", "vi": "mập mờ, không rõ ràng" },
+          { "w": "地味", "r": "じみ", "hv": "ĐỊA VỊ", "vi": "giản dị, không lòe loẹt" },
+          { "w": "鈍感", "r": "どんかん", "hv": "ĐỘN CẢM", "vi": "chậm cảm nhận" },
+          { "w": "返事", "r": "へんじ", "hv": "PHẢN SỰ", "vi": "câu trả lời, hồi âm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "かすか dùng cho cảm giác vật lý (かすかな音, かすかな記憶), không dùng cho câu trả lời."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "新しいことがなかなか覚えられないのは記憶力が（　　）からだろうか。",
+      "options": ["傷んだ", "散った", "かれた", "おとろえた"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Việc mãi không nhớ được điều mới có phải là do trí nhớ đã suy giảm không nhỉ.",
+        "why": "衰える (おとろえる - SUY) = suy yếu, suy giảm (sức khỏe, năng lực). 記憶力が衰える = trí nhớ suy giảm.",
+        "options": [
+          "傷んだ (いたんだ): hư, hỏng, thiu (đồ ăn, đồ vật). Sai.",
+          "散った (ちった): rơi rụng (hoa, lá). Sai.",
+          "かれた (枯れた): héo, khô (cây cỏ). Sai.",
+          "おとろえた (衰えた): suy giảm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "衰える", "r": "おとろえる", "hv": "SUY", "vi": "suy yếu, suy giảm" },
+          { "w": "記憶力", "r": "きおくりょく", "hv": "KÝ ỨC LỰC", "vi": "trí nhớ" },
+          { "w": "傷む", "r": "いたむ", "hv": "THƯƠNG", "vi": "hư hỏng, bị thiu" },
+          { "w": "枯れる", "r": "かれる", "hv": "KHÔ", "vi": "héo, khô" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "衰える dùng cho 体力・記憶力・人気・勢い."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "相手が弱いと思って（　　）したら、負けてしまった。",
+      "options": ["納得", "油断", "失望", "覚悟"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi nghĩ đối thủ yếu nên chủ quan, thế là bị thua.",
+        "why": "Nghĩ đối thủ yếu → lơ là → thua. 油断する (ゆだん - DU ĐOẠN) = chủ quan, lơ là.",
+        "options": [
+          "納得 (なっとく): hiểu và chấp nhận, tâm phục. Sai.",
+          "油断 (ゆだん): chủ quan, lơ là. ĐÚNG.",
+          "失望 (しつぼう): thất vọng. Sai.",
+          "覚悟 (かくご): chuẩn bị tinh thần, quyết tâm. Sai."
+        ],
+        "vocab": [
+          { "w": "油断", "r": "ゆだん", "hv": "DU ĐOẠN", "vi": "chủ quan, lơ là" },
+          { "w": "納得", "r": "なっとく", "hv": "NẠP ĐẮC", "vi": "hiểu và đồng ý, tâm phục" },
+          { "w": "失望", "r": "しつぼう", "hv": "THẤT VỌNG", "vi": "thất vọng" },
+          { "w": "覚悟", "r": "かくご", "hv": "GIÁC NGỘ", "vi": "chuẩn bị tinh thần, sẵn sàng đón nhận" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Thành ngữ: 油断大敵 (ゆだんたいてき) = chủ quan là kẻ thù lớn nhất."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "二人とも働いているので、家事や育児は夫婦で（　　）している。",
+      "options": ["分別", "区別", "区分", "分担"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vì cả hai đều đi làm nên việc nhà và chăm con vợ chồng chia nhau đảm nhận.",
+        "why": "分担 (ぶんたん - PHÂN ĐẢM) = phân chia nhau phụ trách công việc. 家事を分担する là cụm rất tự nhiên.",
+        "options": [
+          "分別 (ぶんべつ): phân loại (rác...). Sai.",
+          "区別 (くべつ): phân biệt (A với B). Sai.",
+          "区分 (くぶん): phân chia khu vực/hạng mục. Sai.",
+          "分担 (ぶんたん): chia nhau đảm nhận. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "分担", "r": "ぶんたん", "hv": "PHÂN ĐẢM", "vi": "phân chia đảm nhận" },
+          { "w": "分別", "r": "ぶんべつ", "hv": "PHÂN BIỆT", "vi": "phân loại (rác)" },
+          { "w": "区別", "r": "くべつ", "hv": "KHU BIỆT", "vi": "phân biệt" },
+          { "w": "育児", "r": "いくじ", "hv": "DỤC NHI", "vi": "nuôi dạy con" },
+          { "w": "家事", "r": "かじ", "hv": "GIA SỰ", "vi": "việc nhà" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đối tượng của 分担 là công việc/trách nhiệm; của 分別 là đồ vật (ゴミの分別)."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "次の社長に最も（　　）人は、経験豊富な鈴木さんでしょう。",
+      "options": ["ふさわしい", "等しい", "ありがちな", "当たり前"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Người xứng đáng nhất cho vị trí giám đốc tiếp theo có lẽ là anh Suzuki giàu kinh nghiệm.",
+        "why": "Nに ふさわしい = xứng đáng, phù hợp với N. 社長にふさわしい人 = người xứng làm giám đốc.",
+        "options": [
+          "ふさわしい: xứng đáng, phù hợp. ĐÚNG.",
+          "等しい (ひとしい): bằng nhau, tương đương. Sai.",
+          "ありがちな: thường hay xảy ra (lỗi thường gặp). Sai.",
+          "当たり前 (あたりまえ): đương nhiên; bổ nghĩa danh từ phải là 当たり前の, và nghĩa không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "ふさわしい", "r": "ふさわしい", "hv": "", "vi": "xứng đáng, phù hợp" },
+          { "w": "等しい", "r": "ひとしい", "hv": "ĐẲNG", "vi": "bằng nhau" },
+          { "w": "経験豊富", "r": "けいけんほうふ", "hv": "KINH NGHIỆM PHONG PHÚ", "vi": "giàu kinh nghiệm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Mẫu cố định: Nに（最も）ふさわしい."
+      }
+    }
+  ]
+}

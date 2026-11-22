@@ -1,0 +1,109 @@
+{
+  "exam": "2018-07",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn sau và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "以下は、会社における評価について書かれた文章である。\n\n私たちの会社では、志願（注1）してくれたのに、採用できなかった学生から、こんな問い合わせを受けることがよくあります。「なぜ、自分は落ちたのでしょうか」と。\n彼らの多くは、筆記試験の成績も優秀で、面接での受け答えのしっかりした学生。合格しなかったのは、単に当社との相性を他の志願者と比べた結果であって、重大な問題があったわけではありません。しかし、彼らの頭の中には、自分と採用しなかった当社との関係しかない。だから、「落ちたのは自分に問題があるから」と考え込んでしまうのでしょう。\n①<u>こういう人</u>は社会に出ても苦労します。上司が他の社員と比べて評価を下していることまで想像（注2）が及びませんから、より結果を出している同僚を棚に上げ（注3）、「自分はこんなに頑張って、成果を上げているのに評価されない」と悩んでしまう。\n（中略）\n一定の水準を満たした志願者全員が、入社できるわけではありません。一定以上の業績（注4）を上げれば、誰でも高い評価が得られるわけでもない。「自分はこれだけ成果を出したから大丈夫」ということはありません。より大きな成果を出した人がいれば、自分の評価が相対的に下がるのは当たり前。大事なのは他者との比較です。単純な話ですが、皆、意外なほど、②<u>この事実</u>に気づいていない。\n成長するためにはまず、「自分は常に他者と比較されている」ということを意識してください。もし、社内での自分の評価を上げたければ、同僚と自分を積極的に比較しましょう。\nよく「人は人、自分は自分」と言います。評価の高い同僚は、あなたとは強みも活躍する領域（注5）も違うかもしれません。それでも、同じような時期に生まれ、自分の得意分野を確立し（注6）、頭角（注7）を現している人がいるなら、その事実に向き合ってください。そして、上司の視点で自分と比べてみる。「自分に足りないもの」や「評価されるには何をすべきか」といったことが見えてくるはずです。\n\n（注1）志願する：ここでは、応募する\n（注2）想像が及ばない：想像できない\n（注3）～を棚に上げる：ここでは、～のことを考えない\n（注4）業績：仕事の成果\n（注5）領域：分野\n（注6）確立する：ここでは、しっかり持つ\n（注7）頭角を現している人：能力が高くて、目立つ人"
+    }
+  ],
+  "questions": [
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "①<u>こういう人</u>とはどのような人か。",
+      "options": [
+        "不採用になった理由を、何度説明しても納得しない人",
+        "不採用になった理由を、自分自身で深く考えようとしない人",
+        "不採用になったのは、評価の仕方がよくないからだと考える人",
+        "不採用になったのは、自分自身に悪い点があるからだと考える人"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "'Người như thế này' là người như thế nào? → Người nghĩ rằng mình bị loại là do bản thân có điểm xấu.",
+        "why": "こういう人 chỉ những ứng viên ở câu ngay trước: chỉ nghĩ đến quan hệ giữa mình và công ty nên cứ trăn trở 'bị trượt là do mình có vấn đề'.",
+        "options": [
+          "Không nói giải thích nhiều lần mà không chịu. Sai.",
+          "Ngược lại, họ suy nghĩ quá nhiều (考え込む). Sai.",
+          "Họ đổ lỗi cho bản thân chứ không cho cách đánh giá. Sai.",
+          "Nghĩ là do bản thân có vấn đề. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "不採用", "r": "ふさいよう", "hv": "BẤT THẢI DỤNG", "vi": "không được tuyển" },
+          { "w": "考え込む", "r": "かんがえこむ", "hv": "KHẢO VÀO", "vi": "suy nghĩ đăm chiêu, trăn trở" },
+          { "w": "相性", "r": "あいしょう", "hv": "TƯƠNG TÍNH", "vi": "độ hợp nhau" },
+          { "w": "志願者", "r": "しがんしゃ", "hv": "CHÍ NGUYỆN GIẢ", "vi": "người ứng tuyển" }
+        ],
+        "grammar": null,
+        "evidence": "だから、「落ちたのは自分に問題があるから」と考え込んでしまうのでしょう。",
+        "tip": "こういう／この + N → tìm nội dung ở câu ngay trước."
+      }
+    },
+    {
+      "num": 72,
+      "passage": "p1",
+      "stem": "②<u>この事実</u>とあるが、どのようなことか。",
+      "options": [
+        "一定以上の成果を出さなければ、会社では評価されないこと",
+        "会社の評価は厳しいので、高い評価はめったに得られないこと",
+        "自分より成果を出した人がいれば、自分の評価は下がること",
+        "自分の出した成果に満足していると、すぐに他者に追い抜かれること"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "'Sự thật này' là gì? → Nếu có người đạt thành quả lớn hơn mình thì đánh giá về mình sẽ giảm.",
+        "why": "Ngay trước đó: 'Nếu có người đạt thành quả lớn hơn thì đánh giá của mình tương đối giảm là đương nhiên. Điều quan trọng là so sánh với người khác.'",
+        "options": [
+          "Tác giả nói ngược lại: dù đạt trên mức nhất định cũng không chắc được đánh giá cao. Sai.",
+          "Không nói đánh giá nghiêm khắc, hiếm được cao. Sai.",
+          "Người khác giỏi hơn → đánh giá mình giảm. ĐÚNG.",
+          "Không nói về việc tự mãn và bị vượt. Sai."
+        ],
+        "vocab": [
+          { "w": "相対的", "r": "そうたいてき", "hv": "TƯƠNG ĐỐI ĐÍCH", "vi": "tương đối" },
+          { "w": "成果", "r": "せいか", "hv": "THÀNH QUẢ", "vi": "thành quả" },
+          { "w": "比較", "r": "ひかく", "hv": "TỶ GIẢO", "vi": "so sánh" },
+          { "w": "水準", "r": "すいじゅん", "hv": "THỦY CHUẨN", "vi": "tiêu chuẩn, mức" }
+        ],
+        "grammar": null,
+        "evidence": "より大きな成果を出した人がいれば、自分の評価が相対的に下がるのは当たり前。大事なのは他者との比較です。",
+        "tip": null
+      }
+    },
+    {
+      "num": 73,
+      "passage": "p1",
+      "stem": "筆者によると、会社内で高く評価されるにはどうすればいいか。",
+      "options": [
+        "評価の高い同僚をよく観察し、その行動をまねる。",
+        "評価の高い同僚と比べて、自分がすべきことを考える。",
+        "同僚とは比べず、自分の得意分野で高い成果を出す。",
+        "同僚と比べて、自分に何が足りないのかを上司から考えてもらう。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo tác giả, để được đánh giá cao trong công ty thì nên làm gì? → So sánh với đồng nghiệp được đánh giá cao và suy nghĩ việc mình cần làm.",
+        "why": "Tác giả khuyên chủ động so sánh mình với đồng nghiệp, đối diện với người nổi bật, rồi nhìn từ góc độ cấp trên để thấy 'mình thiếu gì' và 'cần làm gì để được đánh giá'.",
+        "options": [
+          "Không nói bắt chước hành động. Sai.",
+          "So sánh với đồng nghiệp giỏi → nghĩ việc mình nên làm. ĐÚNG.",
+          "Tác giả bảo PHẢI so sánh với đồng nghiệp. Sai.",
+          "Bản thân phải tự suy nghĩ 'từ góc nhìn của cấp trên', không phải nhờ cấp trên nghĩ hộ. Sai."
+        ],
+        "vocab": [
+          { "w": "同僚", "r": "どうりょう", "hv": "ĐỒNG LIÊU", "vi": "đồng nghiệp" },
+          { "w": "視点", "r": "してん", "hv": "THỊ ĐIỂM", "vi": "góc nhìn" },
+          { "w": "向き合う", "r": "むきあう", "hv": "HƯỚNG HỢP", "vi": "đối diện" },
+          { "w": "積極的", "r": "せっきょくてき", "hv": "TÍCH CỰC ĐÍCH", "vi": "tích cực, chủ động" }
+        ],
+        "grammar": null,
+        "evidence": "もし、社内での自分の評価を上げたければ、同僚と自分を積極的に比較しましょう。…上司の視点で自分と比べてみる。「自分に足りないもの」や「評価されるには何をすべきか」といったことが見えてくるはずです。",
+        "tip": "Bẫy lựa chọn 4: 上司の視点で (từ góc nhìn của sếp) ≠ 上司から考えてもらう (nhờ sếp nghĩ)."
+      }
+    }
+  ]
+}

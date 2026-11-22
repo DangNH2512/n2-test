@@ -1,0 +1,211 @@
+{
+  "exam": "2024-07",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（1）から（5）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi (đoạn văn ngắn).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "自分の言葉は自分の頭の中にしかなく、相手の言葉は相手の頭の中にしかありません。抽象的な言葉の場合には、まったく同じ意味で使用していることのほうが少ないと言えるでしょう。したがって、議論をする際には、言葉の定義づけ（注）が重要になってきます。相手がどういう意味でその言葉を使用しているのか、自分と同じ意味で使用しているのかを確認することは大切なことです。これは、論理的に会話をするうえでの大前提となるものです。\n\n（注）定義づけ：ここでは、意味を決めること"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、ある鉄道会社がホームページに掲載したお知らせである。\n\nトップ＞お知らせ＞定期システム点検実施のお知らせ\n\n6月の定期システム点検実施のお知らせ\n\nいつも北坂鉄道をご利用いただきまして、ありがとうございます。\n当社では情報管理システムの安全性向上のため、第4土曜日の夜間にシステム点検を実施しております。\n今月の作業は6月23日（土）午前2時から4時までとなります。この間は、予約システムを休止いたします。インターネットでの特急券予約がご利用いただけなくなりますので、ご注意ください。なお、ホームページ内の時刻表や運賃表は通常どおり閲覧が可能です。\nご不便をおかけいたしますが、ご理解くださいますようお願い申し上げます。\n\n北坂鉄道株式会社"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "新緑の時期に森を歩くと、地面に小さなロールキャベツ（注1）状の物体が落ちているのを見かけます。しばしば一か所に大量に落ちていて、とてもよく目立ちます。これはオトシブミという小さな甲虫（注2）の仲間が、自分の幼虫のためにつくったものです。この虫のメスは、数分の間に産んだ卵を木の葉で丁寧に包んでから地面に落とす習性（注3）をもちます。中で孵った（注4）幼虫は、内側からこの巻いた葉を食べて成長します。幼虫にとっては、この葉巻きは隠れ家であるとともに食料なわけです。\n\n（注1）ロールキャベツ：キャベツで肉を包んだ料理\n（注2）甲虫：虫の一種\n（注3）習性：ここでは、特徴的な性質\n（注4）孵った：ここでは、卵から生まれた"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "以下は、ある会社に届いたメールである。\n\nコイノ株式会社\n営業部　島川英一様\n\nお世話になっております。JC文具の池西です。\n昨日、商品「軽量ホチキスcx35」の見本が2個届きました。機能性とシンプルなデザインは社内で評価が高く、取り扱い商品に加える方向で検討を進めております。\n同封されていた最新のカタログによると、来月から新色として3色が追加で発売され、全部で5色になるとのことですので、新色の見本も送付していただけないでしょうか。代金が必要な場合は、お支払いします。\n取り扱うことが正式に決定しましたら、まずは5色を20個ずつ注文する予定です。\nよろしくお願いいたします。\n\nJC文具\n池西秋子　ikenishi_a@jcbungu.co.jp"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "競争や出世にはあまり関係のない、たとえばだれかを支えたり育んだり（注1）する仕事に喜びを感じる人もいるでしょう。仕事はそこそこに（注2）、趣味に生きることを楽しむ人もいるでしょう。たとえ、受験や就職、あるいは出世などの過酷な（注3）競争ゲームのただ中（注4）にあったとしても、そしてそれにある時、敗れてしまったとしても、わたしたちの人生の選択肢はそれだけではないし、「それで終わり」というわけでもありません。視点を変えれば、現代社会にはさまざまな生き方の世界が広がっているのです。\n\n（注1）育む：育てる\n（注2）そこそこに：適度に\n（注3）過酷な：非常に厳しい\n（注4）ただ中：最中"
+    }
+  ],
+  "questions": [
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "筆者によると、論理的な会話をするのに必要なことは何か。",
+      "options": [
+        "抽象的な言葉をできるだけ使用しないようにする。",
+        "抽象的な言葉を、正しい意味かどうかを確認してから使用する。",
+        "同じ言葉を、相手と自分が同じ意味で使用しているかを確認する。",
+        "相手の知らない言葉は、自分がどういう意味で使用しているかを説明する。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Theo tác giả, điều cần thiết để hội thoại một cách logic là gì? → Xác nhận xem mình và đối phương có đang dùng cùng một từ với cùng một nghĩa hay không.",
+        "why": "Tác giả nói việc xác nhận \"đối phương dùng từ đó với nghĩa gì, có giống nghĩa mình dùng không\" là tiền đề lớn của hội thoại logic → đáp án 3.",
+        "options": [
+          "Tác giả không bảo tránh dùng từ trừu tượng. Sai.",
+          "Không phải kiểm tra nghĩa \"đúng\" (chuẩn), mà kiểm tra nghĩa giữa hai người có trùng không. Sai.",
+          "Khớp với câu 「自分と同じ意味で使用しているのかを確認する」. ĐÚNG.",
+          "Bài không nói về \"từ đối phương không biết\". Sai."
+        ],
+        "vocab": [
+          { "w": "抽象的", "r": "ちゅうしょうてき", "hv": "TRỪU TƯỢNG ĐÍCH", "vi": "trừu tượng" },
+          { "w": "定義", "r": "ていぎ", "hv": "ĐỊNH NGHĨA", "vi": "định nghĩa" },
+          { "w": "論理的", "r": "ろんりてき", "hv": "LUẬN LÝ ĐÍCH", "vi": "logic, hợp lý" },
+          { "w": "大前提", "r": "だいぜんてい", "hv": "ĐẠI TIỀN ĐỀ", "vi": "tiền đề lớn, điều kiện tiên quyết" }
+        ],
+        "grammar": {
+          "pattern": "〜うえで（の）",
+          "meaning": "trong việc ~, khi ~",
+          "form": "V辞書形 + うえで",
+          "example": "仕事をするうえで大切なことは何ですか。"
+        },
+        "evidence": "相手がどういう意味でその言葉を使用しているのか、自分と同じ意味で使用しているのかを確認することは大切なことです。これは、論理的に会話をするうえでの大前提となるものです。",
+        "tip": "Câu kết có これは〜大前提 → đáp án nằm ở câu ngay trước これ."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p2",
+      "stem": "このお知らせで伝えたいことは何か。",
+      "options": [
+        "6月23日の午前2時から4時までは、インターネットで特急券が予約できない。",
+        "6月23日の午前2時から4時までは、ホームページで時刻表や運賃表が見られない。",
+        "6月23日の午前4時以降インターネットで特急券が予約できるようになる。",
+        "6月23日の午前4時以降、ホームページで時刻表や運賃表が見られるようになる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều thông báo này muốn truyền đạt là gì? → Từ 2 giờ đến 4 giờ sáng ngày 23/6 không thể đặt vé tàu tốc hành qua Internet.",
+        "why": "Trong thời gian bảo trì (2–4 giờ sáng 23/6), hệ thống đặt chỗ tạm dừng → không thể đặt vé tốc hành trên Internet. Đó là nội dung chính cần lưu ý.",
+        "options": [
+          "Đúng nội dung chính: không đặt vé qua mạng được trong 2–4 giờ. ĐÚNG.",
+          "Ngược lại: bảng giờ tàu và giá vé vẫn xem bình thường (通常どおり閲覧が可能). Sai.",
+          "Có thể suy ra nhưng không phải điều thông báo muốn truyền đạt chính (trọng tâm là thời gian bị dừng). Sai.",
+          "Bảng giờ/giá vé lúc nào cũng xem được, không phải từ 4 giờ mới xem được. Sai."
+        ],
+        "vocab": [
+          { "w": "点検", "r": "てんけん", "hv": "ĐIỂM KIỂM", "vi": "kiểm tra, bảo trì" },
+          { "w": "休止", "r": "きゅうし", "hv": "HƯU CHỈ", "vi": "tạm ngừng" },
+          { "w": "特急券", "r": "とっきゅうけん", "hv": "ĐẶC CẤP KHOÁN", "vi": "vé tàu tốc hành đặc biệt" },
+          { "w": "閲覧", "r": "えつらん", "hv": "DUYỆT LÃM", "vi": "xem, duyệt (tài liệu, web)" }
+        ],
+        "grammar": null,
+        "evidence": "今月の作業は6月23日（土）午前2時から4時までとなります。この間は、予約システムを休止いたします。インターネットでの特急券予約がご利用いただけなくなりますので、ご注意ください。",
+        "tip": "Trong thông báo, câu có ご注意ください thường là thông tin chính."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p3",
+      "stem": "オトシブミという虫について、筆者はどのように述べているか。",
+      "options": [
+        "食料を木の葉で包んで落とし、幼虫はそれを見つけて食べる。",
+        "木の葉と卵を落とし、生まれた幼虫は食料をその葉で巻いて隠す。",
+        "卵を木の葉で包んで落とし、生まれた幼虫はその中でその葉を食べる。",
+        "落ちている木の葉に卵を産んで包み、幼虫はその中で生まれて育つ。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tác giả nói gì về loài côn trùng Otoshibumi? → Con cái gói trứng bằng lá cây rồi thả xuống, ấu trùng nở ra ăn chính chiếc lá đó từ bên trong.",
+        "why": "Con cái 「卵を木の葉で丁寧に包んでから地面に落とす」, ấu trùng 「内側からこの巻いた葉を食べて成長」 → khớp với 3.",
+        "options": [
+          "Thứ được gói là trứng, không phải thức ăn. Sai.",
+          "Lá và trứng không thả riêng; ấu trùng không tự cuộn lá để giấu thức ăn. Sai.",
+          "Gói trứng trong lá rồi thả, ấu trùng ăn lá từ bên trong. ĐÚNG.",
+          "Con cái gói trứng bằng lá trên cây rồi mới thả, không phải đẻ vào lá đã rơi. Sai."
+        ],
+        "vocab": [
+          { "w": "幼虫", "r": "ようちゅう", "hv": "ẤU TRÙNG", "vi": "ấu trùng" },
+          { "w": "卵", "r": "たまご", "hv": "NOÃN", "vi": "trứng" },
+          { "w": "包む", "r": "つつむ", "hv": "BAO", "vi": "gói, bọc" },
+          { "w": "隠れ家", "r": "かくれが", "hv": "ẨN GIA", "vi": "nơi ẩn náu" }
+        ],
+        "grammar": {
+          "pattern": "〜であるとともに",
+          "meaning": "vừa là ~ đồng thời cũng là",
+          "form": "N + であるとともに",
+          "example": "彼は医者であるとともに作家でもある。"
+        },
+        "evidence": "この虫のメスは、数分の間に産んだ卵を木の葉で丁寧に包んでから地面に落とす習性をもちます。中で孵った幼虫は、内側からこの巻いた葉を食べて成長します。",
+        "tip": "Chú ý thứ tự hành động: đẻ trứng → gói bằng lá → thả xuống đất."
+      }
+    },
+    {
+      "num": 55,
+      "passage": "p4",
+      "stem": "このメールの用件は何か。",
+      "options": [
+        "見本として5色すべての商品を送ってほしい。",
+        "見本として新色の3個を追加で送ってほしい。",
+        "見本の代金としていくら支払えばいいか教えてほしい。",
+        "商品5色を20個ずつ注文できるかどうか教えてほしい。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Mục đích của email này là gì? → Muốn được gửi thêm 3 mẫu màu mới.",
+        "why": "Đã nhận 2 mẫu (2 màu hiện có). Catalogue cho biết thêm 3 màu mới → 「新色の見本も送付していただけないでしょうか」 = xin gửi thêm mẫu 3 màu mới.",
+        "options": [
+          "Đã có 2 màu rồi, chỉ xin thêm màu mới, không phải cả 5 màu. Sai.",
+          "Xin gửi thêm 3 mẫu màu mới. ĐÚNG.",
+          "Chỉ nói \"nếu cần trả tiền thì sẽ trả\", không hỏi giá. Sai.",
+          "Việc đặt 5 màu × 20 cái là dự định sau khi quyết định chính thức, không phải câu hỏi. Sai."
+        ],
+        "vocab": [
+          { "w": "見本", "r": "みほん", "hv": "KIẾN BẢN", "vi": "hàng mẫu" },
+          { "w": "用件", "r": "ようけん", "hv": "DỤNG KIỆN", "vi": "việc cần nói, mục đích" },
+          { "w": "同封", "r": "どうふう", "hv": "ĐỒNG PHONG", "vi": "gửi kèm trong phong bì" },
+          { "w": "送付", "r": "そうふ", "hv": "TỐNG PHÓ", "vi": "gửi đi" }
+        ],
+        "grammar": {
+          "pattern": "〜ていただけないでしょうか",
+          "meaning": "có thể vui lòng ~ giúp được không ạ (nhờ vả lịch sự)",
+          "form": "Vて + いただけないでしょうか",
+          "example": "資料を送っていただけないでしょうか。"
+        },
+        "evidence": "来月から新色として3色が追加で発売され、全部で5色になるとのことですので、新色の見本も送付していただけないでしょうか。",
+        "tip": "Email công việc: 用件 thường nằm ở câu có 〜ていただけないでしょうか／お願いします."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p5",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "他人と競争せずに、自分の生き方を見つければいい。",
+        "人生の選択肢は多様であり、生き方は一つではない。",
+        "人生の選択肢が多ければ多いほど、世界が広がっていく。",
+        "仕事や趣味を通して、さまざまな生き方を知ることができる。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Lựa chọn trong cuộc đời rất đa dạng, cách sống không chỉ có một.",
+        "why": "Tác giả nói dù thua trong cạnh tranh, lựa chọn cuộc đời không chỉ có vậy, xã hội hiện đại có nhiều cách sống → 2.",
+        "options": [
+          "Tác giả không khuyên \"đừng cạnh tranh\"; chỉ nói dù có thua cũng không phải là hết. Sai.",
+          "Lựa chọn đa dạng, cách sống không chỉ một. ĐÚNG.",
+          "Không nói \"càng nhiều lựa chọn thì thế giới càng mở rộng\" (quan hệ tỉ lệ). Sai.",
+          "Công việc, sở thích chỉ là ví dụ về cách sống, không phải phương tiện để \"biết\" cách sống. Sai."
+        ],
+        "vocab": [
+          { "w": "出世", "r": "しゅっせ", "hv": "XUẤT THẾ", "vi": "thăng tiến, thành đạt" },
+          { "w": "選択肢", "r": "せんたくし", "hv": "TUYỂN TRẠCH CHI", "vi": "lựa chọn, phương án" },
+          { "w": "過酷", "r": "かこく", "hv": "QUÁ KHỐC", "vi": "khắc nghiệt" },
+          { "w": "視点", "r": "してん", "hv": "THỊ ĐIỂM", "vi": "góc nhìn" }
+        ],
+        "grammar": {
+          "pattern": "たとえ〜としても",
+          "meaning": "cho dù ~ đi nữa",
+          "form": "たとえ + 普通形 + としても",
+          "example": "たとえ失敗したとしても、後悔はしない。"
+        },
+        "evidence": "わたしたちの人生の選択肢はそれだけではないし、「それで終わり」というわけでもありません。視点を変えれば、現代社会にはさまざまな生き方の世界が広がっているのです。",
+        "tip": "Câu kết 〜のです thường chứa ý chính của tác giả."
+      }
+    }
+  ]
+}

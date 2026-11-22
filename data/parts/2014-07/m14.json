@@ -1,0 +1,75 @@
+{
+  "exam": "2014-07",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "右の内容はデパートの通信販売の案内である。下の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Nội dung bên phải là hướng dẫn mua hàng qua bưu điện/online của một cửa hàng bách hóa. Chọn câu trả lời đúng nhất cho các câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "いずみデパート通信販売ショップガイド",
+      "text": "いずみデパート通信販売ショップガイド\n\nご注文：ご注文は以下の方法からお選びいただけます。\n・インターネット　http://www.izumi-shopping.jp\n・電話　0121-333-444（通話料無料）\n・ファックス　0121-333-665（通信料無料）\n\n送料\n1回のご注文金額：5,250円（税込）以上の場合　→　全国どこでも送料無料\n1回のご注文金額：5,250円（税込）未満の場合　→　350円\n・複数のお届け先に商品を発送することもできます〔一件あたりのお届け商品が5,250円（税込）未満となった場合、お届け先ごとに送料350円が必要になります。〕\n\nお届け：ご注文受付後、2～5日でお届けします。\n以下をご指定いただくことができます。（手数料無料）\n・お届け先……ご自宅／指定のお届け先\n・お届け日……ご注文日の6日後から30日後まで\n・お届け時間帯……午前中／12～18時／18～21時\n\nお支払い：ご注文時に以下の方法の中からご指定ください。\nクレジットカード／現金振り込み（手数料無料）／代金引換＊（手数料300円）\n＊商品お届け時に代金と手数料をお支払いください。\n\n返品・交換\n返品・交換をご希望のお客様は、返品・交換係にまずご連絡ください。ご連絡は、商品到着後14日以内にお願いします。\n商品を返送する際には、商品と一緒に納品書を返送してください。納品書の返品理由欄には、返品理由をご記入ください。\nなお、お客様のご都合による返品・交換の場合、返送料はお客様負担となります。\n商品代金の返金は商品の到着確認後となりますので、2週間前後お時間をいただきます。お支払いにクレジットカードをご利用の場合、翌月または翌々月になる場合もございますので、ご了承ください。\n\n連絡先　0121-333-555（通話料無料）\n返送先　〒000-123　やなぎ市北町5-　いずみデパート　返品・交換係"
+    }
+  ],
+  "questions": [
+    {
+      "num": 74,
+      "passage": "p1",
+      "stem": "商品を購入する際に、送料と手数料を払わなくてもいいのは次の4人のうち誰か。\n\n名前｜一回の注文金額（税込）｜届け先数｜届け先／日時｜支払方法\nヘサル｜3,150円｜1｜指定する｜現金振り込み\n山田｜4,200円｜1｜指定しない｜クレジットカード\nジョンソン｜6,300円｜1｜指定する｜現金振り込み\nシン｜10,500円｜1｜指定しない｜代金引換",
+      "options": ["ヘサルさん", "山田さん", "ジョンソンさん", "シンさん"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Khi mua hàng, ai trong 4 người sau không phải trả phí vận chuyển và phí thủ tục? → Anh Johnson.",
+        "why": "Điều kiện: đơn từ 5,250 yên trở lên thì miễn phí ship; chỉ định nơi/ngày/giờ giao miễn phí; thanh toán bằng thẻ hoặc chuyển khoản miễn phí, còn 代金引換 (COD) mất 300 yên. Johnson: 6,300 yên (≥5,250) + chuyển khoản → không mất phí gì.",
+        "options": [
+          "ヘサル: 3,150 yên < 5,250 → mất phí ship 350 yên. Sai.",
+          "山田: 4,200 yên < 5,250 → mất phí ship 350 yên. Sai.",
+          "ジョンソン: 6,300 yên → miễn ship; chỉ định giao miễn phí; chuyển khoản miễn phí. ĐÚNG.",
+          "シン: 10,500 yên → miễn ship, nhưng trả COD (代金引換) mất 300 yên phí. Sai."
+        ],
+        "vocab": [
+          { "w": "送料", "r": "そうりょう", "hv": "TỐNG LIỆU", "vi": "phí vận chuyển" },
+          { "w": "手数料", "r": "てすうりょう", "hv": "THỦ SỐ LIỆU", "vi": "phí thủ tục, phí dịch vụ" },
+          { "w": "代金引換", "r": "だいきんひきかえ", "hv": "ĐẠI KIM DẪN HOÁN", "vi": "thanh toán khi nhận hàng (COD)" },
+          { "w": "振り込み", "r": "ふりこみ", "hv": "CHẤN NHẬP", "vi": "chuyển khoản" },
+          { "w": "未満", "r": "みまん", "hv": "VỊ MÃN", "vi": "chưa đến, dưới" }
+        ],
+        "grammar": null,
+        "evidence": "5,250円（税込）以上の場合　全国どこでも送料無料／以下をご指定いただくことができます。（手数料無料）／クレジットカード／現金振り込み（手数料無料）／代金引換＊（手数料300円）",
+        "tip": "Kiểm tra lần lượt 3 loại phí: ship (theo tổng tiền), chỉ định giao, cách thanh toán."
+      }
+    },
+    {
+      "num": 75,
+      "passage": "p1",
+      "stem": "返品・交換をしたい人が注意しなければならないことはどれか。",
+      "options": ["連絡は、商品を返送する前か返送直後にする。", "返送は、商品到着後14日以内に行う。", "商品は、返品理由を書いた納品書と一緒に返送する。", "返送料は、返品・交換理由にかかわらず自身が負担する。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Người muốn đổi/trả hàng phải chú ý điều gì? → Gửi trả hàng kèm phiếu giao hàng có ghi lý do trả hàng.",
+        "why": "Hướng dẫn ghi: khi gửi trả hàng, gửi kèm 納品書 (phiếu giao hàng) và ghi lý do vào ô lý do trả hàng trên phiếu → đúng với lựa chọn 3.",
+        "options": [
+          "Liên lạc trước hoặc ngay sau khi gửi trả — phải 'まずご連絡ください' (liên lạc trước tiên), không được gửi rồi mới báo. Sai.",
+          "Gửi trả trong 14 ngày — mốc 14 ngày là hạn 'liên lạc', không phải hạn gửi trả. Sai.",
+          "Gửi kèm phiếu giao hàng có ghi lý do trả hàng. ĐÚNG.",
+          "Tự trả phí gửi trả bất kể lý do — chỉ khi đổi/trả 'vì lý do của khách' (お客様のご都合) mới phải chịu phí. Sai."
+        ],
+        "vocab": [
+          { "w": "返品", "r": "へんぴん", "hv": "PHẢN PHẨM", "vi": "trả hàng" },
+          { "w": "交換", "r": "こうかん", "hv": "GIAO HOÁN", "vi": "đổi (hàng)" },
+          { "w": "納品書", "r": "のうひんしょ", "hv": "NẠP PHẨM THƯ", "vi": "phiếu giao hàng" },
+          { "w": "負担", "r": "ふたん", "hv": "PHỤ ĐẢM", "vi": "gánh chịu (chi phí)" },
+          { "w": "返送", "r": "へんそう", "hv": "PHẢN TỐNG", "vi": "gửi trả lại" }
+        ],
+        "grammar": {
+          "pattern": "～にかかわらず",
+          "meaning": "bất kể, không liên quan đến ~",
+          "form": "N + にかかわらず",
+          "example": "天候にかかわらず、試合は行われる。"
+        },
+        "evidence": "商品を返送する際には、商品と一緒に納品書を返送してください。納品書の返品理由欄には、返品理由をご記入ください。",
+        "tip": "Bẫy kinh điển: đổi đối tượng của mốc thời gian (liên lạc ↔ gửi trả) và bỏ điều kiện (お客様のご都合)."
+      }
+    }
+  ]
+}

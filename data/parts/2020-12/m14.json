@@ -1,0 +1,89 @@
+{
+  "exam": "2020-12",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "右のページは、平山空港の配送サービスの案内である。下の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Trang bên là thông tin hướng dẫn dịch vụ gửi hành lý của sân bay Hirayama. Chọn câu trả lời đúng nhất cho các câu hỏi bên dưới.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "平山空港配送サービス",
+      "text": "トップ ＊ サービスを調べる ＊ 平山空港配送サービス\n\n【平山空港へ送る】\nご出発の3日前までにお荷物をお預けください（営業所への持ち込み、またはご自宅での集荷）。お荷物は、ご出発当日に空港内カウンターでお受け取りください。\n\n【平山空港から送る】\n通常配送に加え、当日中にお届けする「当日便」や、壊れやすいものを安全にお運びする「安全便」、食品などを冷やしたまま運送する「クール便」がご利用になれます。ビンなどのガラス製品を送る場合は、必ず「安全便」をご利用ください。\n\n【空港内カウンターご案内】\n（受取／通常便／当日便／安全便／クール便）\n①ターミナル2階：営業時間 06時～22時／受取〇・通常便〇・当日便×・安全便〇・クール便〇\n②ターミナル1階：営業時間 10時～22時／受取〇・通常便〇・当日便〇・安全便〇・クール便×\n③ターミナル2階南：営業時間 06時～20時／受取〇・通常便〇・当日便〇・安全便〇・クール便〇\n・空港でお荷物をお受け取りになる際、身分証明書が必要となります。\n・当日便は、14時までにお荷物を預ける場合に限りご利用になれます。\n・安全便とクール便は、専用ボックスの購入が必要です。\n\n【料金・割引について】\n・配送料は「料金検索」のページでお調べください。\n・空港への配送時、お近くの営業所へ直接お持ち込みになると100円の割引になります。\n・往復でご利用の場合、配送料金の合計から200円の割引になります。\n\n【料金検索結果：通常配送（四国地方から平山空港へ）】\n（サイズ：大きさ〈縦・横・高さの合計〉／重さ／配送料）\n80サイズ：80cm以内／5kgまで／1700円\n100サイズ：100cm以内／10kgまで／2000円\n150サイズ：150cm以内／18kgまで／2400円\n200サイズ：200cm以内／30kgまで／2800円\n※大きさと重さが同じサイズに当てはまらない場合、大きい方のサイズとして扱います。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "海外旅行から帰国した大原さんは、今、平山空港にいる。平山空港から友人の家に、ビン入りのジュースを送ることにした。今は朝の6時で、すぐにカウンターへ行って送りたいと思っている。どうすればいいか。",
+      "options": [
+        "①へ行き、身分証明書を見せ、安全便で送る。",
+        "①へ行き、専用ボックスを購入し、クール便で送る。",
+        "①か②へ行き、専用ボックスを購入し、安全便で送る。",
+        "①か③へ行き、専用ボックスを購入し、安全便で送る。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh Ohara vừa du lịch nước ngoài về, đang ở sân bay Hirayama. Anh định gửi nước ép đựng trong chai thủy tinh đến nhà bạn. Bây giờ là 6 giờ sáng và anh muốn đến quầy gửi ngay. Anh nên làm thế nào? → Đến quầy ① hoặc ③, mua hộp chuyên dụng và gửi bằng 安全便.",
+        "why": "Đồ thủy tinh (ビン) → bắt buộc dùng 「安全便」; 安全便 phải 「専用ボックスの購入」. Lúc 6 giờ sáng chỉ có ① (06時～) và ③ (06時～) mở cửa, cả hai đều có 安全便 (〇). ② mở từ 10 giờ.",
+        "options": [
+          "Chỉ nói ① và xuất trình giấy tờ → giấy tờ tùy thân cần khi 「nhận」 hành lý, không phải khi gửi; lại thiếu việc mua hộp chuyên dụng và bỏ sót ③. Sai.",
+          "Gửi クール便 → chai thủy tinh bắt buộc dùng 安全便. Sai.",
+          "② mở cửa từ 10 giờ, lúc 6 giờ chưa mở. Sai.",
+          "① hoặc ③, mua hộp chuyên dụng, gửi 安全便. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "配送", "r": "はいそう", "hv": "PHỐI TỐNG", "vi": "giao hàng, vận chuyển" },
+          { "w": "専用ボックス", "r": "せんようボックス", "hv": "CHUYÊN DỤNG", "vi": "hộp chuyên dụng" },
+          { "w": "身分証明書", "r": "みぶんしょうめいしょ", "hv": "THÂN PHẬN CHỨNG MINH THƯ", "vi": "giấy tờ tùy thân" },
+          { "w": "営業時間", "r": "えいぎょうじかん", "hv": "DOANH NGHIỆP THỜI GIAN", "vi": "giờ mở cửa" }
+        ],
+        "grammar": {
+          "pattern": "～に限り",
+          "meaning": "chỉ giới hạn ở ~",
+          "form": "N／Vる場合＋に限り",
+          "example": "当日便は、14時までにお荷物を預ける場合に限りご利用になれます。"
+        },
+        "evidence": "ビンなどのガラス製品を送る場合は、必ず「安全便」をご利用ください。／①06時～22時 安全便〇、②10時～22時、③06時～20時 安全便〇／安全便とクール便は、専用ボックスの購入が必要です。",
+        "tip": "Bài tra cứu thông tin: lọc lần lượt theo từng điều kiện (giờ → loại dịch vụ → thủ tục)."
+      }
+    },
+    {
+      "num": 72,
+      "passage": "p1",
+      "stem": "加山さんは、旅行に行くため四国地方の自宅から平山空港に荷物を送ろうと思っている。縦、横、高さの合計が90cmで重さが13kgのスーツケースを、配送会社の営業所に持っていって通常配送で送るつもりである。片道だけの利用の場合、料金はいくらになるか。",
+      "options": [
+        "2000円から100円割引された金額",
+        "2000円から200円割引された金額",
+        "2400円から200円割引された金額",
+        "2400円から100円割引された金額"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh Kayama định gửi hành lý từ nhà ở vùng Shikoku đến sân bay Hirayama để đi du lịch. Anh định mang chiếc vali có tổng 3 chiều 90cm, nặng 13kg đến văn phòng giao nhận và gửi thường. Nếu chỉ dùng 1 chiều thì cước phí là bao nhiêu? → Giá 2400 yên giảm 100 yên.",
+        "why": "Kích thước 90cm thuộc 100サイズ, nhưng 13kg vượt 10kg → thuộc 150サイズ (18kgまで). Theo ※, khi kích thước và cân nặng không cùng một cỡ thì tính theo cỡ lớn hơn → 2400円. Mang trực tiếp đến văn phòng → giảm 100円. Chỉ 1 chiều nên không được giảm 200円 (giảm khi dùng khứ hồi).",
+        "options": [
+          "2000円 là giá 100サイズ, nhưng 13kg vượt giới hạn 10kg. Sai.",
+          "Sai giá cơ bản, và giảm 200円 chỉ áp dụng cho khứ hồi. Sai.",
+          "Giá đúng nhưng giảm 200円 là cho khứ hồi, anh chỉ đi 1 chiều. Sai.",
+          "2400円 trừ 100円 (mang đến văn phòng). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "片道", "r": "かたみち", "hv": "PHIẾN ĐẠO", "vi": "một chiều" },
+          { "w": "往復", "r": "おうふく", "hv": "VÃNG PHỤC", "vi": "khứ hồi, hai chiều" },
+          { "w": "営業所", "r": "えいぎょうしょ", "hv": "DOANH NGHIỆP SỞ", "vi": "văn phòng giao dịch" },
+          { "w": "割引", "r": "わりびき", "hv": "CÁT DẪN", "vi": "giảm giá" },
+          { "w": "持ち込み", "r": "もちこみ", "hv": "TRÌ", "vi": "mang đến (trực tiếp)" }
+        ],
+        "grammar": {
+          "pattern": "～として扱う",
+          "meaning": "xử lý như là ~, coi là ~",
+          "form": "N＋として扱う",
+          "example": "大きい方のサイズとして扱います。"
+        },
+        "evidence": "100サイズ 100cm以内 10kgまで 2000円／150サイズ 150cm以内 18kgまで 2400円／※大きさと重さが同じサイズに当てはまらない場合、大きい方のサイズとして扱います。／空港への配送時、お近くの営業所へ直接お持ち込みになると100円の割引になります。",
+        "tip": "Luôn đọc phần ※ (chú thích) dưới bảng giá — đó thường là chìa khóa của câu hỏi."
+      }
+    }
+  ]
+}

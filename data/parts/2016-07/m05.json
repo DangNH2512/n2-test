@@ -1,0 +1,136 @@
+{
+  "exam": "2016-07",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "佐藤氏は、<u>たびたび</u>この店を訪れた。",
+      "options": ["必ず", "ようやく", "偶然", "何度も"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Ông Sato đã nhiều lần ghé thăm cửa hàng này.",
+        "why": "たびたび (度々) = nhiều lần, thường xuyên → đồng nghĩa với 何度も.",
+        "options": [
+          "必ず → nhất định, chắc chắn. Sai.",
+          "ようやく → cuối cùng thì (sau thời gian dài). Sai.",
+          "偶然 → tình cờ. Sai.",
+          "何度も → nhiều lần. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "度々", "r": "たびたび", "hv": "ĐỘ ĐỘ", "vi": "nhiều lần, thường xuyên" },
+          { "w": "訪れる", "r": "おとずれる", "hv": "PHỎNG", "vi": "thăm, ghé thăm" },
+          { "w": "偶然", "r": "ぐうぜん", "hv": "NGẪU NHIÊN", "vi": "tình cờ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đồng nghĩa たびたび: しばしば, よく, 何度も."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "今日の林氏の発言に皆が<u>注目</u>した。",
+      "options": ["関心を持った", "疑問を持った", "感動した", "驚いた"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Mọi người đều chú ý đến phát ngôn hôm nay của ông Hayashi.",
+        "why": "注目する (ちゅうもく) = chú ý, để mắt tới với sự quan tâm → gần nhất là 関心を持つ (có sự quan tâm).",
+        "options": [
+          "関心を持った → quan tâm. ĐÚNG.",
+          "疑問を持った → nghi ngờ, thắc mắc. Sai.",
+          "感動した → cảm động. Sai.",
+          "驚いた → ngạc nhiên. Sai."
+        ],
+        "vocab": [
+          { "w": "注目", "r": "ちゅうもく", "hv": "CHÚ MỤC", "vi": "chú ý, để mắt tới" },
+          { "w": "関心", "r": "かんしん", "hv": "QUAN TÂM", "vi": "sự quan tâm" },
+          { "w": "発言", "r": "はつげん", "hv": "PHÁT NGÔN", "vi": "phát biểu, lời nói" },
+          { "w": "疑問", "r": "ぎもん", "hv": "NGHI VẤN", "vi": "nghi vấn, thắc mắc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "注目を集める = thu hút sự chú ý."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "このことは本人に<u>じかに</u>伝えてください。",
+      "options": ["直接", "あとで", "すべて", "確実に"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Việc này xin hãy trực tiếp nói với chính người đó.",
+        "why": "じかに (直に) = trực tiếp, không qua trung gian → 直接.",
+        "options": [
+          "直接 → trực tiếp. ĐÚNG.",
+          "あとで → sau đó. Sai.",
+          "すべて → toàn bộ. Sai.",
+          "確実に → chắc chắn. Sai."
+        ],
+        "vocab": [
+          { "w": "直に", "r": "じかに", "hv": "TRỰC", "vi": "trực tiếp" },
+          { "w": "直接", "r": "ちょくせつ", "hv": "TRỰC TIẾP", "vi": "trực tiếp" },
+          { "w": "本人", "r": "ほんにん", "hv": "BẢN NHÂN", "vi": "chính người đó" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "直に có 2 cách đọc: じかに (trực tiếp) và すぐに (ngay)."
+      }
+    },
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "もう少しで<u>衝突する</u>ところだった。",
+      "options": ["倒れる", "壊れる", "ぶつかる", "破れる"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Suýt chút nữa thì đã va chạm.",
+        "why": "衝突する (しょうとつ) = va chạm, đâm vào nhau → ぶつかる.",
+        "options": [
+          "倒れる → ngã, đổ. Sai.",
+          "壊れる → hỏng, vỡ. Sai.",
+          "ぶつかる → va, đâm vào. ĐÚNG.",
+          "破れる → rách. Sai."
+        ],
+        "vocab": [
+          { "w": "衝突", "r": "しょうとつ", "hv": "XUNG ĐỘT", "vi": "va chạm, xung đột" },
+          { "w": "ぶつかる", "r": "ぶつかる", "hv": "", "vi": "va, đâm vào" },
+          { "w": "もう少しで～ところだった", "r": "もうすこしで～ところだった", "hv": "", "vi": "suýt nữa thì ~" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "もう少しで Vる ところだった = suýt nữa thì V (nhưng không xảy ra)."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "高橋さんは、そんな<u>ひきょう</u>なやり方はしませんよ。",
+      "options": ["危ない", "ずるい", "厳しい", "しつこい"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh Takahashi không dùng cách làm hèn hạ như thế đâu.",
+        "why": "卑怯 (ひきょう) = hèn hạ, không chính đáng, gian xảo → gần nhất là ずるい (gian, láu cá).",
+        "options": [
+          "危ない → nguy hiểm. Sai.",
+          "ずるい → gian xảo, không công bằng. ĐÚNG.",
+          "厳しい → nghiêm khắc. Sai.",
+          "しつこい → dai dẳng, lằng nhằng. Sai."
+        ],
+        "vocab": [
+          { "w": "卑怯", "r": "ひきょう", "hv": "TI KHIẾP", "vi": "hèn hạ, gian trá" },
+          { "w": "ずるい", "r": "ずるい", "hv": "", "vi": "gian xảo, ăn gian" },
+          { "w": "しつこい", "r": "しつこい", "hv": "", "vi": "dai dẳng, lằng nhằng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "卑怯な手段 = thủ đoạn hèn hạ."
+      }
+    }
+  ]
+}

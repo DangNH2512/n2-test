@@ -1,0 +1,124 @@
+{
+  "exam": "2018-12",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn dài và chọn câu trả lời đúng nhất cho mỗi câu hỏi (đọc hiểu chủ đề).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "人類進化学の研究によると、現在生きて地球環境問題をおこしている人類は、現代人、すなわち学名をホモ・サピエンスという種類である。\nホモ・サピエンスは今から約20万年から30万年前、アフリカに現れ、それから広く世界に拡散していって（注1）、現在ではほぼ全地球上に住んでいる。\nその間には人口も増えた。\n人口が増えれば、必要とされる食物や生活物資の量も増える。自然界には自ずから（注2）その限界というものが存在しているはずであるが、自然を支配して生きようとした動物である人間は、食物の栽培や物資の生産を始めた。そして、その生産（農業生産や工業生産）の拡大によって、自然界の限界を乗り越え、人口を拡大していった。ふつうの動物であれば、一つの土地にいるその動物の個体数が増えれば、ある時点で集団の分裂（注3）がおこる。\nしかし、体に武器というものを持たない動物であった人間は、どうやら100人、200人を超える大集団を作って生活し、それによって敵から身を守り、食物も獲得していたように思われる。そして、そのような大集団をなんとか維持する個体間関係を保つことが可能でもあった。\n当然ながら、子どもたちもその大集団の中で育ち、年齢もキャラクター（注4）もさまざまなたくさんの他人たちの中で、その人々のしていることから、言語や概念（注5）も含めて多種多様なことを急速に学びとって成長していったと考えられる。\nつまり、大集団で生活すること、そしてそれが可能であったということが、人間という動物の特徴であったのである。\nしたがって集団の人口増加も「都市」の拡大も、人間にとって有利なことであった。こうして人間の人口は、有史以来ひたすら増えつづけてきた。そしてもはや（注6）かなり前から警告されているとおり、今や地球環境の限界を超えてしまっているのである。\n（中略）\nだとすれば私たちは今何をしたらよいのだろうか？\n自然を支配して生きていこうという人間の生きかたを、今さら変えることは無理だろう。それはライオンに草を食え、ウマやウシにネズミを食えというようなものである。体の作りからいってもそれは無理である。\nではどうしたらよいのか？\nそれには人間が自然というものをもっとよく知り、環境とは何か、それぞれの生きものにとっての環世界（注7）というものは何かをもっと深く知るほかはあるまい。\n\n（注1）拡散する：広がる\n（注2）自ずから：もともと\n（注3）分裂：いくつかに分かれること\n（注4）キャラクター：性格\n（注5）概念：ここでは、意味内容\n（注6）もはや：すでに\n（注7）環世界：ここでは、自然環境"
+    }
+  ],
+  "questions": [
+    {
+      "num": 69,
+      "passage": "p1",
+      "stem": "人口の増加について、筆者はどのように述べているか。",
+      "options": [
+        "自然界の食物を限界まで消費し、人口を増やしていった。",
+        "自然災害を乗り越えることによって、人口を増やしていった。",
+        "食物を求めて他の動物と争いながら、人口を増やしていった。",
+        "食物や生活物資を作り出すことによって、人口を増やしていった。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả nói gì về sự gia tăng dân số? → Loài người đã tăng dân số bằng cách tự tạo ra thực phẩm và vật tư sinh hoạt.",
+        "why": "Con người bắt đầu trồng trọt lương thực và sản xuất vật tư; nhờ mở rộng sản xuất (nông nghiệp, công nghiệp) đã vượt qua giới hạn của tự nhiên và mở rộng dân số.",
+        "options": [
+          "Không phải tiêu thụ thức ăn tự nhiên đến giới hạn, mà là tự sản xuất để vượt giới hạn. Sai.",
+          "Bài không nói về thiên tai; \"vượt qua\" là vượt giới hạn tự nhiên. Sai.",
+          "Không nói tranh giành với động vật khác. Sai.",
+          "Khớp với 「食物の栽培や物資の生産を始めた…その生産の拡大によって…人口を拡大していった」. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "栽培", "r": "さいばい", "hv": "TÀI BỒI", "vi": "trồng trọt" },
+          { "w": "生活物資", "r": "せいかつぶっし", "hv": "SINH HOẠT VẬT TƯ", "vi": "vật tư sinh hoạt" },
+          { "w": "乗り越える", "r": "のりこえる", "hv": "THỪA VIỆT", "vi": "vượt qua" },
+          { "w": "拡大", "r": "かくだい", "hv": "KHUẾCH ĐẠI", "vi": "mở rộng" }
+        ],
+        "grammar": {
+          "pattern": "～によって",
+          "meaning": "nhờ vào, bằng (phương tiện/nguyên nhân)",
+          "form": "N ＋ によって",
+          "example": "技術の進歩によって、生活が便利になった。"
+        },
+        "evidence": "自然を支配して生きようとした動物である人間は、食物の栽培や物資の生産を始めた。そして、その生産（農業生産や工業生産）の拡大によって、自然界の限界を乗り越え、人口を拡大していった。",
+        "tip": "Bẫy phương án 2: 乗り越える có trong bài nhưng đối tượng là 自然界の限界, không phải 自然災害."
+      }
+    },
+    {
+      "num": 70,
+      "passage": "p1",
+      "stem": "筆者によると、人間がふつうの動物と違うのはどのような点か。",
+      "options": [
+        "大集団同士が学び合って、関係を維持していった点。",
+        "個体間関係を保ちながら、大集団を維持していった点。",
+        "武器を作って身を守りながら、大集団を作っていった点。",
+        "武器を持たないため、大集団同士の戦いを避けて生きていた点。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo tác giả, con người khác động vật thông thường ở điểm nào? → Ở chỗ vừa giữ được quan hệ giữa các cá thể vừa duy trì được tập thể lớn.",
+        "why": "Động vật thông thường khi số cá thể tăng thì tập thể sẽ phân tách; còn con người sống thành tập thể lớn trên 100–200 người và có thể duy trì quan hệ giữa các cá thể để giữ tập thể lớn đó. \"Sống thành tập thể lớn và việc đó khả thi\" là đặc trưng của con người.",
+        "options": [
+          "Bài không nói các tập thể lớn học hỏi lẫn nhau (trẻ em học từ người khác trong tập thể). Sai.",
+          "Khớp với 「大集団をなんとか維持する個体間関係を保つことが可能でもあった」. ĐÚNG.",
+          "Con người \"không có vũ khí trên cơ thể\", bài không nói chế tạo vũ khí. Sai.",
+          "Không nói về tránh chiến tranh giữa các tập thể. Sai."
+        ],
+        "vocab": [
+          { "w": "個体", "r": "こたい", "hv": "CÁ THỂ", "vi": "cá thể" },
+          { "w": "維持", "r": "いじ", "hv": "DUY TRÌ", "vi": "duy trì" },
+          { "w": "分裂", "r": "ぶんれつ", "hv": "PHÂN LIỆT", "vi": "phân tách, chia rẽ" },
+          { "w": "保つ", "r": "たもつ", "hv": "BẢO", "vi": "giữ gìn, duy trì" }
+        ],
+        "grammar": {
+          "pattern": "～ながら",
+          "meaning": "vừa ~ vừa (hai việc đồng thời)",
+          "form": "Vます(bỏ ます) ＋ ながら",
+          "example": "仕事をしながら、大学に通っている。"
+        },
+        "evidence": "ふつうの動物であれば、一つの土地にいるその動物の個体数が増えれば、ある時点で集団の分裂がおこる。しかし、…人間は、どうやら100人、200人を超える大集団を作って生活し…そして、そのような大集団をなんとか維持する個体間関係を保つことが可能でもあった。",
+        "tip": "Câu hỏi \"khác với ~\" → tìm cặp đối lập ふつうの動物であれば… しかし…人間は."
+      }
+    },
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "筆者は、地球環境を守るためにどうすればいいと考えているか。",
+      "options": [
+        "他の生きものに対しての人間の役割をもっと考える。",
+        "人間が自然を支配して生きていくという姿勢を改める。",
+        "自然や個々の生きものにとっての環境をよく理解する。",
+        "環境の限界を理解して、人間の生きかたを変える努力をする。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tác giả nghĩ cần làm gì để bảo vệ môi trường Trái Đất? → Hiểu rõ tự nhiên và môi trường đối với từng sinh vật.",
+        "why": "Tác giả cho rằng thay đổi cách sống chi phối tự nhiên của con người là không thể; chỉ còn cách hiểu tự nhiên hơn, hiểu sâu hơn môi trường là gì và \"thế giới môi trường\" của từng sinh vật là gì.",
+        "options": [
+          "Không nói về \"vai trò của con người đối với sinh vật khác\". Sai.",
+          "Tác giả nói thay đổi lối sống chi phối tự nhiên là \"không thể\" (無理だろう). Sai.",
+          "Khớp với câu kết 「自然というものをもっとよく知り…環世界というものは何かをもっと深く知るほかはあるまい」. ĐÚNG.",
+          "\"Thay đổi lối sống con người\" bị tác giả bác bỏ. Sai."
+        ],
+        "vocab": [
+          { "w": "環世界", "r": "かんせかい", "hv": "HOÀN THẾ GIỚI", "vi": "thế giới môi trường (môi trường riêng của từng sinh vật)" },
+          { "w": "支配", "r": "しはい", "hv": "CHI PHỐI", "vi": "chi phối, thống trị" },
+          { "w": "姿勢", "r": "しせい", "hv": "TƯ THẾ", "vi": "thái độ, tư thế" },
+          { "w": "警告", "r": "けいこく", "hv": "CẢNH CÁO", "vi": "cảnh báo" }
+        ],
+        "grammar": {
+          "pattern": "～ほかはあるまい",
+          "meaning": "có lẽ chỉ còn cách ~ (không có cách nào khác)",
+          "form": "V辞書形 ＋ ほか(は)ない／ほかはあるまい",
+          "example": "誰も手伝ってくれないなら、自分でやるほかはあるまい。"
+        },
+        "evidence": "自然を支配して生きていこうという人間の生きかたを、今さら変えることは無理だろう。…それには人間が自然というものをもっとよく知り、環境とは何か、それぞれの生きものにとっての環世界というものは何かをもっと深く知るほかはあるまい。",
+        "tip": "～まい = ～ないだろう (phủ định suy đoán). ほかはあるまい = chắc chỉ còn cách đó."
+      }
+    }
+  ]
+}

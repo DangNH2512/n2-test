@@ -1,0 +1,160 @@
+{
+  "exam": "2013-07",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các từ để hoàn thành câu và chọn từ nằm ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "この国でサッカー ＿＿＿ ＿＿＿ ★ ＿＿＿ 野球だ。",
+      "options": ["スポーツ", "に次いで", "といえば", "人気のある"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Ở đất nước này, nói đến môn thể thao được yêu thích chỉ sau bóng đá thì đó là bóng chày.",
+        "why": "Thứ tự đúng: サッカー【に次いで(2)】【人気のある(4)】【スポーツ(1)★】【といえば(3)】野球だ. Vị trí ★ là スポーツ.",
+        "options": [
+          "スポーツ → vị trí thứ 3 (★). ĐÚNG.",
+          "に次いで → vị trí 1, ngay sau サッカー.",
+          "といえば → vị trí 4, trước 野球だ.",
+          "人気のある → vị trí 2, bổ nghĩa cho スポーツ."
+        ],
+        "vocab": [
+          { "w": "次いで", "r": "ついで", "hv": "THỨ", "vi": "tiếp theo, sau (ai/cái gì)" },
+          { "w": "人気", "r": "にんき", "hv": "NHÂN KHÍ", "vi": "được ưa chuộng" },
+          { "w": "野球", "r": "やきゅう", "hv": "DÃ CẦU", "vi": "bóng chày" }
+        ],
+        "grammar": {
+          "pattern": "Nに次いで",
+          "meaning": "đứng sau N, chỉ sau N",
+          "form": "N＋に次いで",
+          "example": "大阪は東京に次いで大きな都市だ。(Osaka là thành phố lớn chỉ sau Tokyo.)"
+        },
+        "evidence": null,
+        "tip": "～といえば ～だ: nói đến ... thì là ... → といえば đứng ngay trước đáp án 野球だ."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "田中「あれ？木村さん、だいぶ髪が伸びましたね。」\n木村「ええ、半年前に ＿＿＿ ＿＿＿ ★ ＿＿＿ ないんですよ。」",
+      "options": ["きり", "一度も", "切って", "切った"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tanaka: 'Ồ? Kimura, tóc dài ra nhiều rồi nhỉ.' Kimura: 'Ừ, từ lần cắt nửa năm trước đến giờ chưa cắt lần nào.'",
+        "why": "Thứ tự đúng: 半年前に【切った(4)】【きり(1)】【一度も(2)★】【切って(3)】ないんですよ. Vたきり = từ khi ... rồi không ... nữa.",
+        "options": [
+          "きり → vị trí 2, sau 切った.",
+          "一度も → vị trí 3 (★). ĐÚNG.",
+          "切って → vị trí 4, nối với ない (切ってない).",
+          "切った → vị trí 1, ngay sau 半年前に."
+        ],
+        "vocab": [
+          { "w": "伸びる", "r": "のびる", "hv": "THÂN", "vi": "dài ra, mọc dài" },
+          { "w": "一度も", "r": "いちども", "hv": "NHẤT ĐỘ", "vi": "(không) một lần nào" }
+        ],
+        "grammar": {
+          "pattern": "Vたきり～ない",
+          "meaning": "từ khi làm V thì không ... nữa (trạng thái kéo dài)",
+          "form": "Vた＋きり＋(vế phủ định)",
+          "example": "彼とは去年会ったきり、連絡していない。(Từ lần gặp năm ngoái tôi chưa liên lạc với anh ấy.)"
+        },
+        "evidence": null,
+        "tip": "切ってない = 切っていない (văn nói)."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "私たちの学校には指導熱心な先生方が多いが、中でも、経験豊富な ＿＿＿ ＿＿＿ ★ ＿＿＿ 信頼も厚い。",
+      "options": ["生徒は", "田中先生は", "もとより", "保護者からの"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Trường chúng tôi có nhiều thầy cô nhiệt tình giảng dạy, trong đó thầy Tanaka giàu kinh nghiệm được không chỉ học sinh mà cả phụ huynh cũng hết sức tin tưởng.",
+        "why": "Thứ tự đúng: 経験豊富な【田中先生は(2)】【生徒は(1)】【もとより(3)★】【保護者からの(4)】信頼も厚い. AはもとよりBも = A thì đương nhiên rồi, cả B cũng...",
+        "options": [
+          "生徒は → vị trí 2.",
+          "田中先生は → vị trí 1, được 経験豊富な bổ nghĩa.",
+          "もとより → vị trí 3 (★). ĐÚNG.",
+          "保護者からの → vị trí 4, nối với 信頼も."
+        ],
+        "vocab": [
+          { "w": "指導", "r": "しどう", "hv": "CHỈ ĐẠO", "vi": "hướng dẫn, chỉ dạy" },
+          { "w": "保護者", "r": "ほごしゃ", "hv": "BẢO HỘ GIẢ", "vi": "phụ huynh, người giám hộ" },
+          { "w": "信頼", "r": "しんらい", "hv": "TÍN LẠI", "vi": "sự tin cậy" },
+          { "w": "豊富", "r": "ほうふ", "hv": "PHONG PHÚ", "vi": "phong phú, dồi dào" }
+        ],
+        "grammar": {
+          "pattern": "AはもとよりBも",
+          "meaning": "A thì đương nhiên, cả B cũng",
+          "form": "N＋はもとより＋N＋も",
+          "example": "この店は味はもとより、サービスもいい。(Quán này vị ngon đã đành, phục vụ cũng tốt.)"
+        },
+        "evidence": null,
+        "tip": "信頼も厚い có も → cặp với もとより. 信頼が厚い = rất được tin tưởng."
+      }
+    },
+    {
+      "num": 48,
+      "passage": null,
+      "stem": "宇宙にはこれだけ ＿＿＿ ＿＿＿ ★ ＿＿＿ としても不思議ではないと思う。",
+      "options": ["多くの星がある", "生物がいた", "のだから", "どこかの星に"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vì vũ trụ có nhiều ngôi sao đến thế này, nên tôi nghĩ dù có sinh vật ở ngôi sao nào đó thì cũng không có gì lạ.",
+        "why": "Thứ tự đúng: これだけ【多くの星がある(1)】【のだから(3)】【どこかの星に(4)★】【生物がいた(2)】としても. これだけ + 多くの bổ nghĩa; のだから nêu lý do; Vたとしても = dù cho.",
+        "options": [
+          "多くの星がある → vị trí 1, sau これだけ.",
+          "生物がいた → vị trí 4, nối với としても.",
+          "のだから → vị trí 2.",
+          "どこかの星に → vị trí 3 (★). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "宇宙", "r": "うちゅう", "hv": "VŨ TRỤ", "vi": "vũ trụ" },
+          { "w": "生物", "r": "せいぶつ", "hv": "SINH VẬT", "vi": "sinh vật" },
+          { "w": "不思議", "r": "ふしぎ", "hv": "BẤT TƯ NGHỊ", "vi": "kỳ lạ" }
+        ],
+        "grammar": {
+          "pattern": "～としても",
+          "meaning": "dù cho, giả sử ... đi nữa",
+          "form": "普通形＋としても",
+          "example": "今から急いだとしても、間に合わないだろう。(Dù giờ có vội cũng không kịp đâu.)"
+        },
+        "evidence": null,
+        "tip": "どこかの星に生物がいた: に chỉ nơi tồn tại đi với いる."
+      }
+    },
+    {
+      "num": 49,
+      "passage": null,
+      "stem": "仕事の ＿＿＿ ＿＿＿ ★ ＿＿＿ 山田さんと林さんだが、プライベートではとても仲がいい。",
+      "options": ["対立する", "ことの", "上では", "多い"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh Yamada và anh Hayashi tuy trong công việc thường xuyên đối lập nhau, nhưng ở đời tư lại rất thân.",
+        "why": "Thứ tự đúng: 仕事の【上では(3)】【対立する(1)】【ことの(2)★】【多い(4)】山田さんと林さん. Nの上では = về mặt N; ～ことの多い = thường hay ... (の thay cho が trong mệnh đề bổ nghĩa).",
+        "options": [
+          "対立する → vị trí 2.",
+          "ことの → vị trí 3 (★). ĐÚNG.",
+          "上では → vị trí 1, sau 仕事の.",
+          "多い → vị trí 4, bổ nghĩa cho 山田さんと林さん."
+        ],
+        "vocab": [
+          { "w": "対立", "r": "たいりつ", "hv": "ĐỐI LẬP", "vi": "đối lập, bất đồng" },
+          { "w": "仲がいい", "r": "なかがいい", "hv": "TRỌNG", "vi": "thân thiết" },
+          { "w": "上では", "r": "うえでは", "hv": "THƯỢNG", "vi": "về mặt..., trên phương diện..." }
+        ],
+        "grammar": {
+          "pattern": "Nの上では／Vることが多い",
+          "meaning": "về mặt N / thường hay V",
+          "form": "Nの上では ; Vること（が→の）多い＋N",
+          "example": "暦の上では春だが、まだ寒い。(Theo lịch thì đã là xuân nhưng vẫn còn lạnh.)"
+        },
+        "evidence": null,
+        "tip": "Trong mệnh đề bổ nghĩa danh từ, が có thể đổi thành の: ことが多い人 → ことの多い人."
+      }
+    }
+  ]
+}

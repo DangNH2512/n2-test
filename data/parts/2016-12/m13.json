@@ -1,0 +1,118 @@
+{
+  "exam": "2016-12",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn dài và chọn câu trả lời đúng nhất cho mỗi câu hỏi (đọc hiểu chủ đề).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "長文",
+      "text": "以下は、あるデザイナーの書いた文章である。\n\n私のアイディアのもとは、自分の生きてきた道の中にすべて詰まっているのだ、というふうに思っています。いままで生きてきた中で、<u>感動したことを現代に持ち帰ってくる</u>。過去の中で感動したことをコピーして、それをデザインしているのです。アイディアはいつも人から、時代からもらう。自分で考え出すことは少ないのです。\n私は、感動したときのシーンはよく覚えています。色も匂いも形も光も季節も、そのときの景色も、そのときその場に誰がいたかも、何を食べたかも、思い出の中に鮮明に刻み込まれています。感動すると、それくらい記憶装置が自動的に働いて、すべてを映し込んでいるのです。\n（中略）\n中学の頃のこと、高校のあのとき、社会人になったときのこと、妻と旅をしたときの情景などいろいろなシーンが思い出されて、それを遡って切り取りにいくわけです。\nけれどもそれが、もやーっとした（注1）ものだと切り取れない。なぜ、もやーっとするかと言えば、心の底から感動していないからです。しっかり感動していないと、持ち帰れないのです。\n感動は、自分の力だけでなく、親の力だったり、友だちの力だったり、ほかの人の力によってもつくられています。子どものときから大事に育てられたとか、自分を包んでくれる街がきちっと大人たちによって美しく保たれていたとか、そういう周囲の力でつくられている場合もあるわけです。\nそうした感動の思い出を大切に持ち帰ってきて、いまあるものとコラボレーションする（注2）と、新商品が生まれます。そういう意味では、まるっきりの（注3）新商品なんてあり得ません。アイディアはいつも、そんな過去の「感動の森」の中から探し出してくるものなのです。\nいい思い出がたくさんあるかどうか、いい人に会ったかどうか、美味しいものを食べたかどうか。そういうヒト・コト・モノとのよき思い出の引き出しをどれだけ持っているかによって、アイディアの湧き出る（注4）量は変わるのです。\n（水戸岡鋭治『あと1%だけ、やってみよう―私の仕事哲学』による）\n（注1）もやーっとした：はっきりしない\n（注2）コラボレーションする：ここでは、組み合わせる\n（注3）まるっきりの：全くの\n（注4）湧き出る：ここでは、生まれてくる"
+    }
+  ],
+  "questions": [
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "<u>感動したことを現代に持ち帰ってくる</u>とは、どのようなことか。",
+      "options": [
+        "感動したシーンを人に語る。",
+        "感動した記憶をデザインに生かす。",
+        "過去に流行したデザインをコピーする。",
+        "人が感動したことからデザインのヒントをもらう。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "\"Mang những điều đã cảm động về hiện tại\" nghĩa là gì? → Tận dụng ký ức cảm động vào thiết kế.",
+        "why": "Câu ngay sau giải thích: \"sao chép những điều đã cảm động trong quá khứ và đem nó vào thiết kế\" (過去の中で感動したことをコピーして、それをデザインしている) → dùng ký ức cảm động cho thiết kế.",
+        "options": [
+          "Bài không nói kể lại cho người khác. Sai.",
+          "Tận dụng ký ức cảm động vào thiết kế. ĐÚNG.",
+          "Thứ được \"copy\" là cảm động của bản thân trong quá khứ, không phải thiết kế từng thịnh hành. Sai.",
+          "Là điều chính tác giả cảm động, không phải điều người khác cảm động. Sai."
+        ],
+        "vocab": [
+          { "w": "感動", "r": "かんどう", "hv": "CẢM ĐỘNG", "vi": "cảm động, xúc động mạnh" },
+          { "w": "詰まる", "r": "つまる", "hv": "CẬT", "vi": "chứa đầy, chật kín" },
+          { "w": "持ち帰る", "r": "もちかえる", "hv": "TRÌ QUY", "vi": "mang về" },
+          { "w": "生かす", "r": "いかす", "hv": "SINH", "vi": "tận dụng, phát huy" }
+        ],
+        "grammar": null,
+        "evidence": "過去の中で感動したことをコピーして、それをデザインしているのです。",
+        "tip": "Câu giải thích cụm gạch chân thường nằm ngay sau nó (thường kết bằng のです)."
+      }
+    },
+    {
+      "num": 72,
+      "passage": "p1",
+      "stem": "感動について、筆者の考えに合うのはどれか。",
+      "options": [
+        "感動は周囲の力でしかつくられない。",
+        "感動したことは年を取るにつれて思い出せなくなる。",
+        "周囲の力でつくられた感動は記憶に残りやすい。",
+        "心の底から感動したことは鮮明な思い出となる。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Về sự cảm động, điều nào phù hợp với suy nghĩ của tác giả? → Điều cảm động từ tận đáy lòng sẽ trở thành kỷ niệm rõ nét.",
+        "why": "Khi cảm động, mọi thứ (màu, mùi, hình, ánh sáng...) được khắc sâu rõ nét trong ký ức; ký ức mờ nhạt là do không cảm động từ tận đáy lòng → cảm động thật sự = kỷ niệm rõ nét.",
+        "options": [
+          "Bài nói cảm động được tạo ra \"không chỉ\" bởi bản thân mà còn bởi người khác (だけでなく), không phải \"chỉ\" bởi xung quanh. Sai.",
+          "Bài không nói càng già càng không nhớ. Sai.",
+          "Bài không so sánh cảm động do xung quanh tạo ra dễ nhớ hơn. Sai.",
+          "Cảm động từ đáy lòng → kỷ niệm rõ nét. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "鮮明", "r": "せんめい", "hv": "TIÊN MINH", "vi": "rõ nét, sắc nét" },
+          { "w": "刻み込む", "r": "きざみこむ", "hv": "KHẮC", "vi": "khắc sâu" },
+          { "w": "心の底", "r": "こころのそこ", "hv": "TÂM ĐỂ", "vi": "tận đáy lòng" },
+          { "w": "周囲", "r": "しゅうい", "hv": "CHU VI", "vi": "xung quanh" }
+        ],
+        "grammar": {
+          "pattern": "〜だけでなく",
+          "meaning": "không chỉ ~ mà còn",
+          "form": "N / 普通形 + だけでなく",
+          "example": "彼は英語だけでなく、中国語も話せる。"
+        },
+        "evidence": "感動したときのシーンはよく覚えています。…思い出の中に鮮明に刻み込まれています。／なぜ、もやーっとするかと言えば、心の底から感動していないからです。",
+        "tip": "Bẫy でしか〜ない (chỉ) đối lập với だけでなく (không chỉ) trong bài."
+      }
+    },
+    {
+      "num": 73,
+      "passage": "p1",
+      "stem": "アイディアについて、筆者はどのように考えているか。",
+      "options": [
+        "記憶が強いほど、アイデアが生まれやすくなる。",
+        "他人の力を上手に利用することで、アイディアが商品につながる。",
+        "感動した思い出が豊富であるほど、多くのアイディアが生まれる。",
+        "感動をヒト・コト・モノに分けて考えると、いいアイディアが生まれる。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tác giả nghĩ thế nào về ý tưởng? → Càng có nhiều kỷ niệm cảm động thì càng nảy sinh nhiều ý tưởng.",
+        "why": "Câu cuối: lượng ý tưởng thay đổi tùy theo việc ta có bao nhiêu \"ngăn kéo\" kỷ niệm đẹp với người–việc–vật; ý tưởng luôn được tìm ra từ \"khu rừng cảm động\" quá khứ → nhiều kỷ niệm cảm động = nhiều ý tưởng.",
+        "options": [
+          "Bài nói về số lượng kỷ niệm cảm động, không nói \"trí nhớ tốt\" sinh ý tưởng. Sai.",
+          "Bài không nói khéo lợi dụng người khác để biến ý tưởng thành sản phẩm. Sai.",
+          "Càng nhiều kỷ niệm cảm động → càng nhiều ý tưởng. ĐÚNG.",
+          "ヒト・コト・モノ chỉ là ví dụ loại kỷ niệm, không nói chia ra để suy nghĩ. Sai."
+        ],
+        "vocab": [
+          { "w": "引き出し", "r": "ひきだし", "hv": "DẪN XUẤT", "vi": "ngăn kéo; vốn liếng" },
+          { "w": "湧き出る", "r": "わきでる", "hv": "DŨNG XUẤT", "vi": "trào ra, nảy sinh" },
+          { "w": "豊富", "r": "ほうふ", "hv": "PHONG PHÚ", "vi": "phong phú, dồi dào" }
+        ],
+        "grammar": {
+          "pattern": "〜ほど ／ 〜によって",
+          "meaning": "càng ~ càng ／ tùy theo ~",
+          "form": "普通形 + ほど ； N + によって",
+          "example": "練習すればするほど上手になる。／人によって考え方は違う。"
+        },
+        "evidence": "そういうヒト・コト・モノとのよき思い出の引き出しをどれだけ持っているかによって、アイディアの湧き出る量は変わるのです。",
+        "tip": "Câu hỏi về quan điểm tổng thể → thường nằm ở đoạn cuối bài."
+      }
+    }
+  ]
+}

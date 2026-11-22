@@ -1,0 +1,78 @@
+{
+  "exam": "2022-12",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "右のページは、あるテニススクールの入会案内である。下の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Trang bên phải là hướng dẫn đăng ký của một trường dạy tennis. Chọn câu trả lời đúng nhất cho các câu hỏi bên dưới.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "秋原テニスクール入会案内\n\nコース・クラスについて\n　以下の四つのコースの中から、ご希望の曜日、時間のクラスをお選びいただけます。曜日、時間については、別紙をご確認ください。中学生以上から受講が可能です。\n各コースの一クラスの定員：10名　　レッスン時間：60分\n\n【コース：受講料（週一回、一ヶ月分）】\nA. 平日昼間（初心者）：8,800円\nB. 平日昼間（中・上級者）：12,000円\nC. 平日夜間・土日（初心者）：9,300円\nD. 平日夜間・土日（中・上級者）：12,500円\n\n● 入会時のお支払い\nご入会の際に、入会金（6,600円）、年会費（2,200円）、受講料一ヶ月分を現金でお支払いください。受講料は2ヶ月目から口座引き落としになります。\n\n● 割引制度\n複数の割引は同時に適応できません。一番条件のいい割引が一つ適用されます。\n【種類／適応対象／割引内容】\n学生割引／中学生、高校生／毎月の受講料を10％割引\n複数のコース・クラス割引／複数コース・クラスを受講する方／二つ目以降のコース・クラス毎月の受講料を50％割引\n家族割引／ご家族に本スクールの受講生がいる方／入会金無料、毎月の受講料を15％割引\n\n● 振り替え制度\n同じコースの他の曜日に振り替えて受講する場合フロントで事前にご予約ください。\n\n● 各種手続き\n以下の場合は、期日までにフロントでお手続きください。\n変更（コースを変更したり、同じコース内で曜日・時間を変更する場合）：変更したい月の前月10日まで\n退会（スクールをやめる場合）：最終受講の前月月末まで\n休会（スクールを一ヵ月以上休む場合）：休会したい月の前月20日まで\n※手数料550円がかかります（入会後3ヶ月以内に手続きをする場合は無料）。\n\n電話：062－241－3998（9時～22時）\n〒433－0010 北高市朝中町27\nホームページ：http://www.Akiharamori－tennis.jp"
+    }
+  ],
+  "questions": [
+    {
+      "num": 70,
+      "passage": "p1",
+      "stem": "高校生の村田さんは「C. 平日夜間・土日（初心者）コース」に入会したいと思っている。姉がすでに同じコースを受講しているが、入会時に支払うものは何か。",
+      "options": [
+        "入会金、年会費、10%割引された受講料。",
+        "入会金、年会費、15%割引された受講料。",
+        "年会費、15%割引された受講料。",
+        "年会費、50%割引された受講料。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Bạn Murata là học sinh cấp 3, muốn đăng ký khóa C. Chị gái đã đang học cùng khóa đó. Khi nhập học phải trả những gì? → Phí thường niên và học phí được giảm 15%.",
+        "why": "Murata đủ điều kiện 2 loại giảm giá: giảm giá học sinh (10%) và giảm giá gia đình (miễn phí nhập học + giảm 15%). Không được dùng đồng thời, chỉ áp dụng loại có lợi nhất → giảm giá gia đình. Vậy trả: phí thường niên (2,200 yên) + học phí 1 tháng giảm 15%; phí nhập học được miễn.",
+        "options": [
+          "Sai: giảm giá học sinh 10% kém hơn giảm giá gia đình, và phí nhập học được miễn.",
+          "Sai: giảm 15% đúng nhưng phí nhập học được miễn nhờ giảm giá gia đình.",
+          "Phí thường niên + học phí giảm 15%. ĐÚNG.",
+          "Sai: giảm 50% chỉ dành cho người học từ khóa thứ hai trở đi (chính người đó học nhiều khóa)."
+        ],
+        "vocab": [
+          { "w": "入会金", "r": "にゅうかいきん", "hv": "NHẬP HỘI KIM", "vi": "phí nhập hội" },
+          { "w": "年会費", "r": "ねんかいひ", "hv": "NIÊN HỘI PHÍ", "vi": "phí thường niên" },
+          { "w": "受講料", "r": "じゅこうりょう", "hv": "THỤ GIẢNG LIÊU", "vi": "học phí" },
+          { "w": "割引", "r": "わりびき", "hv": "CÁT DẪN", "vi": "giảm giá" }
+        ],
+        "grammar": null,
+        "evidence": "複数の割引は同時に適応できません。一番条件のいい割引が一つ適用されます。／家族割引：ご家族に本スクールの受講生がいる方：入会金無料、毎月の受講料を15％割引／ご入会の際に、入会金（6,600円）、年会費（2,200円）、受講料一ヶ月分を現金でお支払いください。",
+        "tip": "Bẫy: 'học sinh cấp 3' gợi ý giảm 10%, nhưng phải chọn loại giảm có lợi nhất."
+      }
+    },
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "リナさんは、このテニススクールに１か月前に入会し、現在「B. 平日昼間（中・上級者）コース」を受講している。５月から「D. 平日夜間・土日（中・上級者）コース」に変わりたいと思っているが、リナさんはどうしなければならないか。今日は３月15日である。",
+      "options": [
+        "4月10日までに、手数料550円を支払い手続きをする。",
+        "4月10日までに手続きをする。手数料は必要ない。",
+        "4月20日までに、手数料550円を支払い手続きをする。",
+        "4月20日までに手続きをする。手数料は必要ない。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Rina đăng ký vào trường 1 tháng trước, hiện học khóa B. Muốn chuyển sang khóa D từ tháng 5. Hôm nay là 15/3. Rina phải làm gì? → Làm thủ tục trước ngày 10/4. Không cần phí.",
+        "why": "Đổi khóa = 変更 → hạn là ngày 10 của tháng trước tháng muốn đổi → tháng 5 thì hạn 10/4. Phí 550 yên được miễn nếu làm thủ tục trong vòng 3 tháng sau khi nhập hội: Rina nhập hội khoảng 15/2, làm trước 10/4 → vẫn trong 3 tháng → miễn phí.",
+        "options": [
+          "Sai: hạn 10/4 đúng, nhưng Rina được miễn phí vì còn trong 3 tháng đầu.",
+          "Trước 10/4, không mất phí. ĐÚNG.",
+          "Sai: ngày 20 là hạn của 休会 (tạm nghỉ), không phải đổi khóa; và cũng không mất phí.",
+          "Sai: ngày 20 là hạn của 休会."
+        ],
+        "vocab": [
+          { "w": "手続き", "r": "てつづき", "hv": "THỦ TỤC", "vi": "thủ tục" },
+          { "w": "手数料", "r": "てすうりょう", "hv": "THỦ SỐ LIÊU", "vi": "phí thủ tục" },
+          { "w": "休会", "r": "きゅうかい", "hv": "HƯU HỘI", "vi": "tạm nghỉ (thành viên)" },
+          { "w": "退会", "r": "たいかい", "hv": "THOÁI HỘI", "vi": "rút khỏi hội, nghỉ hẳn" }
+        ],
+        "grammar": null,
+        "evidence": "変更（コースを変更したり、同じコース内で曜日・時間を変更する場合）：変更したい月の前月10日まで／※手数料550円がかかります（入会後3ヶ月以内に手続きをする場合は無料）。",
+        "tip": "Đọc kỹ dòng ※ nhỏ ở cuối bảng — điều kiện miễn phí thường nằm ở đó."
+      }
+    }
+  ]
+}

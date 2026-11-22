@@ -1,0 +1,159 @@
+{
+  "exam": "2014-07",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の＿★＿に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các vế cho đúng câu và chọn vế nằm ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "A「じゃあ、そろそろ帰るね。お茶、ごちそうさまでした。」\nB「え、もう帰るの？せっかく＿＿＿ ＿★＿ ＿＿＿ ＿＿＿いいのに。」",
+      "options": ["もう少し", "いけば", "来たんだから", "ゆっくりして"],
+      "answer": 1,
+      "explanation": {
+        "translation": "A: 'Thôi, mình về đây. Cảm ơn vì chén trà.' B: 'Ơ, về rồi à? Đã mất công đến rồi thì ở chơi thêm chút nữa có phải hay không.'",
+        "why": "Câu đúng: せっかく 来たんだから(3) もう少し(1) ゆっくりして(4) いけば(2) いいのに。→ ★ ở vị trí 2 = もう少し.",
+        "options": [
+          "もう少し → vị trí 2 (★). ĐÚNG.",
+          "いけば → vị trí 4, nối với いいのに (～ばいいのに). Sai.",
+          "来たんだから → vị trí 1, ngay sau せっかく. Sai.",
+          "ゆっくりして → vị trí 3 (ゆっくりしていく). Sai."
+        ],
+        "vocab": [
+          { "w": "せっかく", "r": "せっかく", "hv": "", "vi": "đã mất công, hiếm khi có dịp" },
+          { "w": "ゆっくりしていく", "r": "ゆっくりしていく", "hv": "", "vi": "ở lại thong thả (rồi hãy đi)" }
+        ],
+        "grammar": {
+          "pattern": "せっかく～んだから／～ばいいのに",
+          "meaning": "đã mất công ~ thì…／giá mà ~ thì tốt",
+          "form": "せっかく + V thể thường + のだから；Vば + いいのに",
+          "example": "せっかく作ったんだから、食べていけばいいのに。"
+        },
+        "evidence": null,
+        "tip": "Bắt cặp cố định trước: せっかく→来たんだから; いけば→いいのに."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "レポートを作成＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ことは、事実なのか意見なのかを明確にすることだ。",
+      "options": ["注意", "上で", "する", "すべき"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều cần chú ý khi viết báo cáo là làm rõ đâu là sự thật, đâu là ý kiến.",
+        "why": "Câu đúng: レポートを作成 する(3) 上で(2) 注意(1) すべき(4) ことは… → ★ ở vị trí 3 = 注意.",
+        "options": [
+          "注意 → vị trí 3 (★): 注意すべき. ĐÚNG.",
+          "上で → vị trí 2: 作成する上で. Sai.",
+          "する → vị trí 1: 作成する. Sai.",
+          "すべき → vị trí 4, bổ nghĩa cho こと. Sai."
+        ],
+        "vocab": [
+          { "w": "作成", "r": "さくせい", "hv": "TÁC THÀNH", "vi": "soạn thảo, lập" },
+          { "w": "明確", "r": "めいかく", "hv": "MINH XÁC", "vi": "rõ ràng" },
+          { "w": "事実", "r": "じじつ", "hv": "SỰ THỰC", "vi": "sự thật" }
+        ],
+        "grammar": {
+          "pattern": "～上で／～べき",
+          "meaning": "khi làm ~, trong quá trình ~／nên, cần phải",
+          "form": "Vる + 上で；Vる + べき（する → すべき）",
+          "example": "外国で生活する上で注意すべきことは何ですか。"
+        },
+        "evidence": null,
+        "tip": "Vる上で = 'khi ~' (điều kiện/quá trình), khác Vた上で = 'sau khi ~'."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "私は、どんなに＿＿＿ ＿＿＿ ＿★＿ ＿＿＿。",
+      "options": ["つらいことがあっても", "いつもにこにこしている", "石川さんを尊敬している", "そんな様子を全く見せず"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi kính trọng chị Ishikawa, người dù có chuyện khổ sở đến đâu cũng không hề tỏ ra, lúc nào cũng tươi cười.",
+        "why": "Câu đúng: どんなに つらいことがあっても(1) そんな様子を全く見せず(4) いつもにこにこしている(2) 石川さんを尊敬している(3)。→ ★ ở vị trí 3 = いつもにこにこしている.",
+        "options": [
+          "つらいことがあっても → vị trí 1 (どんなに～ても). Sai.",
+          "いつもにこにこしている → vị trí 3 (★), bổ nghĩa cho 石川さん. ĐÚNG.",
+          "石川さんを尊敬している → vị trí 4, vị ngữ cuối câu của 私は. Sai.",
+          "そんな様子を全く見せず → vị trí 2 (そんな chỉ つらいこと). Sai."
+        ],
+        "vocab": [
+          { "w": "尊敬", "r": "そんけい", "hv": "TÔN KÍNH", "vi": "kính trọng" },
+          { "w": "様子", "r": "ようす", "hv": "DẠNG TỬ", "vi": "dáng vẻ, biểu hiện" },
+          { "w": "にこにこ", "r": "にこにこ", "hv": "", "vi": "tươi cười" }
+        ],
+        "grammar": {
+          "pattern": "どんなに～ても／～ず（に）",
+          "meaning": "dù ~ đến đâu cũng／không ~ mà (= ～ないで)",
+          "form": "どんなに + Vて／Aくて + も；Vない(bỏ ない) + ず",
+          "example": "どんなに忙しくても、朝ご飯は食べる。"
+        },
+        "evidence": null,
+        "tip": "私は … 尊敬している: chủ ngữ 私 cần vị ngữ ở cuối → (3) đứng cuối."
+      }
+    },
+    {
+      "num": 48,
+      "passage": null,
+      "stem": "A「サラリーマンから農家＿＿＿ ＿＿＿ ＿★＿ ＿＿＿があるんだね。」\nB「自分の夢をどうしてもあきらめきれなくてね。」",
+      "options": ["勇気", "とは", "ずいぶん", "になる"],
+      "answer": 3,
+      "explanation": {
+        "translation": "A: 'Từ nhân viên văn phòng chuyển sang làm nông, cậu thật là can đảm ghê.' B: 'Vì mình không thể nào từ bỏ ước mơ của mình được.'",
+        "why": "Câu đúng: 農家 になる(4) とは(2) ずいぶん(3) 勇気(1) があるんだね。→ ★ ở vị trí 3 = ずいぶん.",
+        "options": [
+          "勇気 → vị trí 4, đứng trước があるんだね. Sai.",
+          "とは → vị trí 2: ～になるとは (bày tỏ ngạc nhiên). Sai.",
+          "ずいぶん → vị trí 3 (★), bổ nghĩa cho 勇気がある. ĐÚNG.",
+          "になる → vị trí 1: 農家になる. Sai."
+        ],
+        "vocab": [
+          { "w": "農家", "r": "のうか", "hv": "NÔNG GIA", "vi": "nhà nông, nông dân" },
+          { "w": "勇気", "r": "ゆうき", "hv": "DŨNG KHÍ", "vi": "dũng khí, can đảm" },
+          { "w": "あきらめきれない", "r": "あきらめきれない", "hv": "", "vi": "không thể từ bỏ hẳn" }
+        ],
+        "grammar": {
+          "pattern": "～とは（驚き）",
+          "meaning": "(việc) ~ thì thật là… (ngạc nhiên, cảm thán)",
+          "form": "V／A／N thể thường + とは",
+          "example": "あの二人が結婚するとは、驚いた。"
+        },
+        "evidence": null,
+        "tip": "Phó từ ずいぶん đứng ngay trước cụm nó bổ nghĩa (勇気がある)."
+      }
+    },
+    {
+      "num": 49,
+      "passage": null,
+      "stem": "A「昨日、また仕事で失敗しちゃったんだよね。この仕事、私には向いていないんだろうね。やっぱり転職しようかな。」\nB「私は反対しないよ。本当に向いていないと＿＿＿ ＿＿＿ ＿★＿ ＿＿＿思うからね。」",
+      "options": ["こともないと", "思う", "んだったら", "続ける"],
+      "answer": 4,
+      "explanation": {
+        "translation": "A: 'Hôm qua mình lại làm hỏng việc rồi. Chắc công việc này không hợp với mình. Hay là chuyển việc nhỉ.' B: 'Mình không phản đối đâu. Vì mình nghĩ nếu cậu thật sự thấy không hợp thì cũng chẳng cần phải tiếp tục làm.'",
+        "why": "Câu đúng: 向いていないと 思う(2) んだったら(3) 続ける(4) こともないと(1) 思うからね。→ ★ ở vị trí 3 = 続ける.",
+        "options": [
+          "こともないと → vị trí 4: 続けることもないと思う. Sai.",
+          "思う → vị trí 1: 向いていないと思う. Sai.",
+          "んだったら → vị trí 2: 思うんだったら (nếu nghĩ vậy thì). Sai.",
+          "続ける → vị trí 3 (★): 続けることもない. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "向いている", "r": "むいている", "hv": "HƯỚNG", "vi": "phù hợp" },
+          { "w": "転職", "r": "てんしょく", "hv": "CHUYỂN CHỨC", "vi": "chuyển việc" },
+          { "w": "反対", "r": "はんたい", "hv": "PHẢN ĐỐI", "vi": "phản đối" }
+        ],
+        "grammar": {
+          "pattern": "～ことはない／～こともない",
+          "meaning": "không cần phải ~",
+          "form": "Vる + こと(は／も)ない",
+          "example": "そんなに心配することはないよ。"
+        },
+        "evidence": null,
+        "tip": "～と思うんだったら = nếu (cậu) nghĩ là ~ thì. 'こと' luôn cần một Vる đứng trước → 続ける."
+      }
+    }
+  ]
+}

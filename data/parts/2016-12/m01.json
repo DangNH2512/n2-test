@@ -1,0 +1,135 @@
+{
+  "exam": "2016-12",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "先生に<u>貴重</u>な資料を見せていただいた。",
+      "options": ["きじゅう", "きちょう", "きっじゅう", "きっちょう"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi đã được thầy cho xem tài liệu quý giá.",
+        "why": "貴重 đọc là きちょう (QUÝ TRỌNG) = quý giá, quý báu. 重 trong từ này đọc ちょう (như 慎重 しんちょう, 尊重 そんちょう), không phải じゅう; và không có âm ngắt っ.",
+        "options": [
+          "きじゅう → đọc sai 重 thành じゅう. Sai.",
+          "きちょう → 貴重: quý giá. ĐÚNG.",
+          "きっじゅう → thêm っ và đọc じゅう, không tồn tại. Sai.",
+          "きっちょう → thêm âm ngắt っ thừa. Sai."
+        ],
+        "vocab": [
+          { "w": "貴重", "r": "きちょう", "hv": "QUÝ TRỌNG", "vi": "quý giá, quý báu" },
+          { "w": "資料", "r": "しりょう", "hv": "TƯ LIỆU", "vi": "tài liệu, tư liệu" },
+          { "w": "貴重品", "r": "きちょうひん", "hv": "QUÝ TRỌNG PHẨM", "vi": "đồ có giá trị" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "重 = ちょう trong 貴重・慎重・尊重・重複; = じゅう trong 体重・重要・重大."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "その話を聞いて、とても<u>怪しい</u>と思った。",
+      "options": ["むなしい", "くやしい", "おかしい", "あやしい"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nghe câu chuyện đó, tôi thấy rất đáng ngờ.",
+        "why": "怪しい đọc là あやしい (QUÁI) = đáng ngờ, khả nghi, mờ ám.",
+        "options": [
+          "むなしい → 空しい/虚しい: trống rỗng, vô ích. Sai.",
+          "くやしい → 悔しい: cay cú, tiếc nuối. Sai.",
+          "おかしい → 可笑しい: buồn cười, kỳ lạ. Sai.",
+          "あやしい → 怪しい: đáng ngờ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "怪しい", "r": "あやしい", "hv": "QUÁI", "vi": "đáng ngờ, khả nghi" },
+          { "w": "怪我", "r": "けが", "hv": "QUÁI NGÃ", "vi": "vết thương" },
+          { "w": "悔しい", "r": "くやしい", "hv": "HỐI", "vi": "cay cú, tức tối" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "怪: âm Kun あや(しい); âm On かい (怪談 かいだん: chuyện ma)."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "佐藤さんは<u>容姿</u>も性格もいい。",
+      "options": ["よし", "ようし", "ようす", "よす"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh/chị Sato cả ngoại hình lẫn tính cách đều tốt.",
+        "why": "容姿 đọc là ようし (DUNG TƯ) = dung mạo, ngoại hình. 容 có trường âm よう, 姿 âm On là し.",
+        "options": [
+          "よし → thiếu trường âm của 容. Sai.",
+          "ようし → 容姿: ngoại hình. ĐÚNG.",
+          "ようす → 様子: tình hình, dáng vẻ (chữ khác). Sai.",
+          "よす → 止す: thôi, bỏ. Sai."
+        ],
+        "vocab": [
+          { "w": "容姿", "r": "ようし", "hv": "DUNG TƯ", "vi": "dung mạo, ngoại hình" },
+          { "w": "性格", "r": "せいかく", "hv": "TÍNH CÁCH", "vi": "tính cách" },
+          { "w": "姿", "r": "すがた", "hv": "TƯ", "vi": "dáng, hình dáng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy: 様子 (ようす) nghe gần giống. 姿 On = し (姿勢 しせい: tư thế)."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "これは危険を<u>伴う</u>実験だ。",
+      "options": ["はらう", "あつかう", "ともなう", "すくう"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đây là thí nghiệm kèm theo nguy hiểm.",
+        "why": "伴う đọc là ともなう (BẠN) = đi kèm, kéo theo. 危険を伴う = có kèm rủi ro, nguy hiểm.",
+        "options": [
+          "はらう → 払う: trả tiền, phủi. Sai.",
+          "あつかう → 扱う: xử lý, đối xử. Sai.",
+          "ともなう → 伴う: kèm theo. ĐÚNG.",
+          "すくう → 救う: cứu; 巣くう: làm tổ. Sai."
+        ],
+        "vocab": [
+          { "w": "伴う", "r": "ともなう", "hv": "BẠN", "vi": "đi kèm, kéo theo" },
+          { "w": "危険", "r": "きけん", "hv": "NGUY HIỂM", "vi": "nguy hiểm" },
+          { "w": "実験", "r": "じっけん", "hv": "THỰC NGHIỆM", "vi": "thí nghiệm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Mẫu hay gặp: 〜に伴って = cùng với, kéo theo (人口の増加に伴って…)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "以前は、海外で暮らしたいという<u>願望</u>が強かった。",
+      "options": ["がんぼう", "げんぼう", "がんぼ", "げんぼ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Trước đây, mong muốn được sống ở nước ngoài của tôi rất mạnh mẽ.",
+        "why": "願望 đọc là がんぼう (NGUYỆN VỌNG) = mong ước, nguyện vọng. 願 = がん, 望 = ぼう (có trường âm).",
+        "options": [
+          "がんぼう → 願望: mong ước. ĐÚNG.",
+          "げんぼう → đọc sai 願 thành げん. Sai.",
+          "がんぼ → thiếu trường âm của 望. Sai.",
+          "げんぼ → sai cả hai âm. Sai."
+        ],
+        "vocab": [
+          { "w": "願望", "r": "がんぼう", "hv": "NGUYỆN VỌNG", "vi": "mong ước, nguyện vọng" },
+          { "w": "暮らす", "r": "くらす", "hv": "MỘ", "vi": "sinh sống" },
+          { "w": "希望", "r": "きぼう", "hv": "HY VỌNG", "vi": "hy vọng, nguyện vọng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "願 = がん (願書 がんしょ: đơn xin); 望 = ぼう (希望・失望・望遠鏡)."
+      }
+    }
+  ]
+}

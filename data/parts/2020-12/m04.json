@@ -1,0 +1,190 @@
+{
+  "exam": "2020-12",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "彼の演技はとても個性的で、見る人の（　　）が大きく分かれる。",
+      "options": ["考慮", "評価", "信頼", "測定"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Diễn xuất của anh ấy rất cá tính nên đánh giá của người xem rất khác nhau (chia rẽ).",
+        "why": "評価が分かれる là cụm cố định = ý kiến đánh giá bị chia làm nhiều phía (người khen, người chê). Phù hợp với 「rất cá tính」.",
+        "options": [
+          "考慮 → こうりょ: cân nhắc, xem xét. Không nói 考慮が分かれる. Sai.",
+          "評価 → ひょうか: đánh giá. 評価が分かれる. ĐÚNG.",
+          "信頼 → しんらい: tin cậy. Không hợp nghĩa. Sai.",
+          "測定 → そくてい: đo lường (máy móc). Sai."
+        ],
+        "vocab": [
+          { "w": "評価", "r": "ひょうか", "hv": "BÌNH GIÁ", "vi": "đánh giá" },
+          { "w": "演技", "r": "えんぎ", "hv": "DIỄN KỸ", "vi": "diễn xuất" },
+          { "w": "個性的", "r": "こせいてき", "hv": "CÁ TÍNH ĐÍCH", "vi": "cá tính, độc đáo" },
+          { "w": "考慮", "r": "こうりょ", "hv": "KHẢO LỰ", "vi": "cân nhắc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm hay gặp: 意見が分かれる・評価が分かれる (ý kiến/đánh giá chia rẽ)."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "話し合いでは、相手の意見を（　　）し、よく聞くことが大切だ。",
+      "options": ["尊重", "信仰", "提案", "発揮"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Khi thảo luận, điều quan trọng là tôn trọng ý kiến của đối phương và lắng nghe kỹ.",
+        "why": "意見を尊重する = tôn trọng ý kiến. Đi cùng 「よく聞く」 rất hợp lý.",
+        "options": [
+          "尊重 → そんちょう: tôn trọng. ĐÚNG.",
+          "信仰 → しんこう: tín ngưỡng, đức tin (tôn giáo). Sai.",
+          "提案 → ていあん: đề xuất. 「đề xuất ý kiến đối phương」 vô lý. Sai.",
+          "発揮 → はっき: phát huy (năng lực). Sai."
+        ],
+        "vocab": [
+          { "w": "尊重", "r": "そんちょう", "hv": "TÔN TRỌNG", "vi": "tôn trọng" },
+          { "w": "話し合い", "r": "はなしあい", "hv": "", "vi": "cuộc thảo luận, bàn bạc" },
+          { "w": "発揮", "r": "はっき", "hv": "PHÁT HUY", "vi": "phát huy" },
+          { "w": "信仰", "r": "しんこう", "hv": "TÍN NGƯỠNG", "vi": "tín ngưỡng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "力・能力を発揮する; 意見・人権を尊重する."
+      }
+    },
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "この商品は、健康を気にする40代から50代の人を（　　）に開発しました。",
+      "options": ["ゴール", "インパクト", "アピール", "ターゲット"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Sản phẩm này được phát triển nhắm vào đối tượng là những người 40–50 tuổi quan tâm đến sức khỏe.",
+        "why": "～をターゲットに(して) = lấy ~ làm đối tượng mục tiêu (khách hàng mục tiêu).",
+        "options": [
+          "ゴール → đích, mục tiêu cuối (goal). Không dùng cho nhóm khách hàng. Sai.",
+          "インパクト → ấn tượng mạnh (impact). Sai.",
+          "アピール → sự thu hút, kêu gọi (appeal). Sai.",
+          "ターゲット → đối tượng mục tiêu (target). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "ターゲット", "r": "ターゲット", "hv": "", "vi": "đối tượng mục tiêu" },
+          { "w": "商品", "r": "しょうひん", "hv": "THƯƠNG PHẨM", "vi": "sản phẩm, hàng hóa" },
+          { "w": "開発", "r": "かいはつ", "hv": "KHAI PHÁT", "vi": "phát triển, khai phá" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "～を対象に (たいしょうに) = ～をターゲットに."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "佐藤さんは服装や髪形が個性的で、他の人とは違う（　　）の雰囲気がある。",
+      "options": ["定着", "専用", "独特", "区別"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Chị Sato có trang phục và kiểu tóc cá tính, mang một bầu không khí độc đáo khác với người khác.",
+        "why": "独特の雰囲気 = bầu không khí riêng, đặc trưng chỉ người đó có. Hợp với 「khác người khác」.",
+        "options": [
+          "定着 → ていちゃく: bám rễ, trở nên phổ biến. Sai.",
+          "専用 → せんよう: dành riêng (cho ai dùng). Sai.",
+          "独特 → どくとく: độc đáo, đặc trưng riêng. ĐÚNG.",
+          "区別 → くべつ: phân biệt. Sai."
+        ],
+        "vocab": [
+          { "w": "独特", "r": "どくとく", "hv": "ĐỘC ĐẶC", "vi": "độc đáo, riêng biệt" },
+          { "w": "雰囲気", "r": "ふんいき", "hv": "PHÂN VI KHÍ", "vi": "bầu không khí" },
+          { "w": "服装", "r": "ふくそう", "hv": "PHỤC TRANG", "vi": "trang phục" },
+          { "w": "髪形", "r": "かみがた", "hv": "PHÁT HÌNH", "vi": "kiểu tóc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "前回の大会では、あの二人は最後まで優勝を（　　）いた。",
+      "options": ["戦って", "争って", "奪って", "破って"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Ở giải đấu lần trước, hai người đó đã tranh chức vô địch đến tận cuối cùng.",
+        "why": "優勝を争う = tranh giành chức vô địch. 争う nhận tân ngữ là thứ được tranh giành (優勝・1位).",
+        "options": [
+          "戦って → 戦う: chiến đấu (với ai: ～と戦う). Không nói 優勝を戦う. Sai.",
+          "争って → 争う: tranh giành. ĐÚNG.",
+          "奪って → 奪う: cướp đoạt. 「cướp chức vô địch đến cuối」 không hợp ngữ cảnh hai người cùng tranh. Sai.",
+          "破って → 破る: đánh bại, phá vỡ (kỷ lục). Sai."
+        ],
+        "vocab": [
+          { "w": "争う", "r": "あらそう", "hv": "TRANH", "vi": "tranh giành, cạnh tranh" },
+          { "w": "優勝", "r": "ゆうしょう", "hv": "ƯU THẮNG", "vi": "vô địch" },
+          { "w": "大会", "r": "たいかい", "hv": "ĐẠI HỘI", "vi": "giải đấu, đại hội" },
+          { "w": "奪う", "r": "うばう", "hv": "ĐOẠT", "vi": "cướp, giành lấy" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "相手と戦う (đấu với đối thủ) / 1位を争う (tranh hạng nhất)."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "高橋さんの家を訪ねたが、みんな出かけているようで、人の（　　）がなかった。",
+      "options": ["動作", "実感", "気配", "状態"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi đã đến thăm nhà anh Takahashi nhưng có vẻ mọi người đi vắng cả, không có dấu hiệu gì của người ở trong nhà.",
+        "why": "人の気配 = cảm giác/dấu hiệu có người. 気配がない = không thấy có ai.",
+        "options": [
+          "動作 → どうさ: động tác, cử động. Sai.",
+          "実感 → じっかん: cảm nhận thực sự. Sai.",
+          "気配 → けはい: dấu hiệu, cảm giác có (người). ĐÚNG.",
+          "状態 → じょうたい: trạng thái. Sai."
+        ],
+        "vocab": [
+          { "w": "気配", "r": "けはい", "hv": "KHÍ PHỐI", "vi": "dấu hiệu, cảm giác có (người, vật)" },
+          { "w": "訪ねる", "r": "たずねる", "hv": "PHỎNG", "vi": "đến thăm" },
+          { "w": "実感", "r": "じっかん", "hv": "THỰC CẢM", "vi": "cảm nhận thực tế" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "気配 đọc けはい (đặc biệt), không phải きはい. Cũng dùng: 春の気配 (dấu hiệu mùa xuân)."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "彼は自分で決めたルールも守らない、（　　）人だ。",
+      "options": ["不規則", "あやふやな", "大まかな", "いいかげんな"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh ta là người cẩu thả (vô trách nhiệm), đến quy tắc tự mình đặt ra cũng không giữ.",
+        "why": "いいかげんな人 = người làm qua loa, thiếu trách nhiệm, không giữ lời. Hợp với 「quy tắc tự đặt cũng không giữ」.",
+        "options": [
+          "不規則 → ふきそく: không đều đặn (生活が不規則). Thiếu な, và không dùng chỉ tính cách. Sai.",
+          "あやふやな → mập mờ, không rõ ràng (câu trả lời, ký ức). Sai.",
+          "大まかな → おおまかな: đại khái, sơ lược. Sai.",
+          "いいかげんな → cẩu thả, vô trách nhiệm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "いいかげん", "r": "いいかげん", "hv": "", "vi": "cẩu thả, qua loa, vô trách nhiệm" },
+          { "w": "あやふや", "r": "あやふや", "hv": "", "vi": "mập mờ, không chắc chắn" },
+          { "w": "大まか", "r": "おおまか", "hv": "ĐẠI", "vi": "đại khái, sơ lược" },
+          { "w": "不規則", "r": "ふきそく", "hv": "BẤT QUY TẮC", "vi": "không đều đặn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "あやふやな返事 (trả lời mập mờ) / 大まかな計画 (kế hoạch sơ lược) / いいかげんな人 (người cẩu thả)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "exam": "2025-07",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ (tiếp đầu/tiếp vĩ ngữ, từ ghép) thích hợp nhất điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "教師たちの間で、新たな教育（　　）が注目されている。",
+      "options": ["則", "理", "論", "規"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Trong giới giáo viên, một lý luận giáo dục mới đang được chú ý.",
+        "why": "～論 (LUẬN) gắn sau danh từ = lý luận, học thuyết về ～: 教育論 (lý luận giáo dục), 文化論, 経営論. Phù hợp với 'mới, được chú ý'.",
+        "options": [
+          "則 → ～則 (quy tắc) như 規則, 原則; không nói 教育則. Sai.",
+          "理 → ～理 không ghép thành 教育理. Sai.",
+          "論 → 教育論: lý luận giáo dục. ĐÚNG.",
+          "規 → 規 (quy) không dùng làm hậu tố ở đây. Sai."
+        ],
+        "vocab": [
+          { "w": "教育論", "r": "きょういくろん", "hv": "GIÁO DỤC LUẬN", "vi": "lý luận giáo dục" },
+          { "w": "新た", "r": "あらた", "hv": "TÂN", "vi": "mới" },
+          { "w": "注目する", "r": "ちゅうもくする", "hv": "CHÚ MỤC", "vi": "chú ý, để mắt tới" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "～論: 教育論、人生論、文学論、反対論 (ý kiến phản đối)."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "この魚は骨が多くて食べ（　　）。",
+      "options": ["づらい", "いたい", "おそい", "ぐるしい"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Con cá này nhiều xương nên khó ăn.",
+        "why": "Vます(bỏ ます)+づらい = khó làm V (vì gây khó chịu/trở ngại). 食べづらい = khó ăn vì nhiều xương.",
+        "options": [
+          "づらい → 食べづらい: khó ăn. ĐÚNG.",
+          "いたい → không có dạng 食べいたい (khác với 食べたい). Sai.",
+          "おそい → 食べおそい không tồn tại. Sai.",
+          "ぐるしい → ～苦しい chỉ ghép với vài từ như 見苦しい, 聞き苦しい; không nói 食べぐるしい. Sai."
+        ],
+        "vocab": [
+          { "w": "骨", "r": "ほね", "hv": "CỐT", "vi": "xương" },
+          { "w": "～づらい", "r": "づらい", "hv": "", "vi": "khó (làm gì)" },
+          { "w": "見苦しい", "r": "みぐるしい", "hv": "KIẾN KHỔ", "vi": "khó coi" }
+        ],
+        "grammar": {
+          "pattern": "Vます + づらい",
+          "meaning": "khó làm V (vì có trở ngại, khó chịu)",
+          "form": "Vます(bỏ ます)+づらい",
+          "example": "この靴は歩きづらい。(Đôi giày này khó đi.)"
+        },
+        "evidence": null,
+        "tip": "～づらい ≈ ～にくい nhưng nhấn mạnh cảm giác khó chịu của người làm."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "今度の事故は（　　）条件が重なって起きた。",
+      "options": ["損", "劣", "危", "悪"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vụ tai nạn lần này xảy ra do nhiều điều kiện xấu chồng chất.",
+        "why": "悪～ (ÁC) là tiền tố = xấu, bất lợi: 悪条件 (あくじょうけん) = điều kiện bất lợi, 悪天候, 悪影響.",
+        "options": [
+          "損 → 損 (TỔN) = thiệt hại; không có 損条件. Sai.",
+          "劣 → 劣 (LIỆT) = kém; không có 劣条件 (có 劣等感). Sai.",
+          "危 → 危 (NGUY) không dùng làm tiền tố như vậy. Sai.",
+          "悪 → 悪条件: điều kiện xấu. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "悪条件", "r": "あくじょうけん", "hv": "ÁC ĐIỀU KIỆN", "vi": "điều kiện bất lợi" },
+          { "w": "重なる", "r": "かさなる", "hv": "TRÙNG", "vi": "chồng chất, trùng nhau" },
+          { "w": "悪影響", "r": "あくえいきょう", "hv": "ÁC ẢNH HƯỞNG", "vi": "ảnh hưởng xấu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "悪～ (あく): 悪条件・悪天候・悪循環・悪影響."
+      }
+    }
+  ]
+}

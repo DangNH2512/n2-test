@@ -1,0 +1,83 @@
+{
+  "exam": "2013-07",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B, chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "将来、有効となる能力とは、「理解力」「想像力」「表現力」の三つです。数学や外国語、歴史、理科など、さまざまなジャンル（注１）、要するに別角度からのアプローチ（注２）を経て、この三つの力を養うのが勉強の本質（注３）なのです。\n人生におけるほとんどの仕事は、この能力によってなされます。あるいは、子どもが成長して、大きな困難にぶつかったとしても、この能力が養われていれば、上手に克服することができます。さらに、この能力は、小金を稼ぐためにのみ役立てるべきではありません。社会に貢献し、人類が進歩するための貴重な一助となるためにこそ、能力を高めなければならない、とそこまで言ってやると、子どもの目は断然と（注４）輝き始めます。\n（鈴木光司『なぜ勉強するのか？』による）"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "社会はわからないことだらけだ。そんな社会で生きるために大事なことは、わからなくても簡単にあきらめないことだ。\n簡単にあきらめない能力を養うためにどうしたらいいか。実は、この能力を養うために人は社会に出る前に勉強をしているのだ。勉強するとわからないことに出会える。わからないからこそ勉強するのであって、初めからわかっていたら勉強しようという気も起きない。社会人になった今では数学も歴史も、習ったそのままの知識は忘れ去ってしまったが日常生活には特に困ってはいない。しかし、わからないことにチャレンジし、わかるようになるまであきらめずに勉強するという姿勢は、今も役に立っている。\n（注１）ジャンル：ここでは、科目\n（注２）アプローチを経て：アプローチによって\n（注３）本質：ここでは、いちばん大切なこと\n（注４）断然と：ここでは、必ず"
+    }
+  ],
+  "questions": [
+    {
+      "num": 69,
+      "passage": "AB",
+      "stem": "ＡとＢで共通して述べられていることは何か。",
+      "options": [
+        "勉強しなければ、何がわからないかも気づけない。",
+        "勉強によって身につけた力だけでは、生きていけない。",
+        "勉強によって養った力は、将来社会に出てから役立つ。",
+        "勉強で成績が良い人間は、困難を克服する力を持っている。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều cả A và B cùng đề cập là gì? → Năng lực bồi dưỡng qua việc học sẽ có ích khi ra xã hội trong tương lai.",
+        "why": "A: ba năng lực (hiểu, tưởng tượng, biểu đạt) học được sẽ hữu ích trong tương lai, hầu hết công việc đều dựa vào chúng. B: thái độ không bỏ cuộc rèn qua việc học 'đến giờ vẫn có ích' khi đã đi làm.",
+        "options": [
+          "Không học thì không biết mình không hiểu gì → chỉ gần với B. Sai.",
+          "Chỉ với năng lực học được thì không sống được → cả hai không nói. Sai.",
+          "Năng lực rèn qua học tập có ích khi ra xã hội. ĐÚNG.",
+          "Người học giỏi có năng lực vượt khó → không ai nói về thành tích. Sai."
+        ],
+        "vocab": [
+          { "w": "養う", "r": "やしなう", "hv": "DƯỠNG", "vi": "nuôi dưỡng, bồi dưỡng" },
+          { "w": "克服", "r": "こくふく", "hv": "KHẮC PHỤC", "vi": "khắc phục, vượt qua" },
+          { "w": "有効", "r": "ゆうこう", "hv": "HỮU HIỆU", "vi": "có hiệu lực, hữu ích" },
+          { "w": "役に立つ", "r": "やくにたつ", "hv": "DỊCH LẬP", "vi": "có ích" }
+        ],
+        "grammar": null,
+        "evidence": "A：将来、有効となる能力とは、「理解力」「想像力」「表現力」の三つです。…人生におけるほとんどの仕事は、この能力によってなされます。\nB：わからないことにチャレンジし、わかるようになるまであきらめずに勉強するという姿勢は、今も役に立っている。",
+        "tip": null
+      }
+    },
+    {
+      "num": 70,
+      "passage": "AB",
+      "stem": "勉強することについて、ＡとＢはどのように考えているか。",
+      "options": [
+        "ＡもＢも、各科目を勉強することが、途中であきらめない強い心を養うと考えている。",
+        "ＡもＢも、社会に出る前の勉強よりも、社会に出てから学ぶことのほうが大切だと考えている。",
+        "Ａは社会に貢献する能力を養うことが、Ｂは生活に役立つ知識を学ぶことが、生きていく力になると考えている。",
+        "Ａはさまざまな科目を勉強することが、Ｂはわからないことを勉強し続けることが、大切だと考えている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "A và B nghĩ thế nào về việc học? → A cho rằng học nhiều môn khác nhau là quan trọng, B cho rằng tiếp tục học những điều mình chưa hiểu là quan trọng.",
+        "why": "A: bồi dưỡng 3 năng lực qua 'nhiều môn học (さまざまなジャンル) từ nhiều góc độ' là bản chất của việc học. B: thử thách điều chưa hiểu và học không bỏ cuộc đến khi hiểu là điều có ích.",
+        "options": [
+          "Cả hai nói về ý chí không bỏ cuộc → chỉ B nói. Sai.",
+          "Học sau khi ra xã hội quan trọng hơn → không ai nói. Sai.",
+          "B coi trọng 'kiến thức có ích' → B nói kiến thức đã quên mà vẫn không sao; điều quan trọng là thái độ. Sai.",
+          "A: học nhiều môn; B: tiếp tục học điều chưa hiểu. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "本質", "r": "ほんしつ", "hv": "BẢN CHẤT", "vi": "bản chất, điều cốt lõi" },
+          { "w": "貢献", "r": "こうけん", "hv": "CỐNG HIẾN", "vi": "đóng góp" },
+          { "w": "忘れ去る", "r": "わすれさる", "hv": "VONG KHỨ", "vi": "quên sạch" },
+          { "w": "姿勢", "r": "しせい", "hv": "TƯ THẾ", "vi": "thái độ" }
+        ],
+        "grammar": null,
+        "evidence": "A：数学や外国語、歴史、理科など、さまざまなジャンル、要するに別角度からのアプローチを経て、この三つの力を養うのが勉強の本質なのです。\nB：わからないことにチャレンジし、わかるようになるまであきらめずに勉強するという姿勢は、今も役に立っている。",
+        "tip": "Bẫy ở phương án 3: B nói kiến thức cụ thể đã quên (忘れ去ってしまった) nên không phải 'kiến thức hữu ích'."
+      }
+    }
+  ]
+}

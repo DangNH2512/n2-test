@@ -1,0 +1,73 @@
+{
+  "exam": "2026-07",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "右のページは、ある市のレシピコンテストの募集案内である。下の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Trang bên phải là thông báo tuyển chọn cuộc thi công thức nấu ăn của một thành phố. Chọn câu trả lời đúng nhất cho các câu hỏi bên dưới.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "青原市 レシピコンテスト",
+      "text": "青原市　レシピコンテスト\n青原市で多く生産されている農産物を使ったレシピを募集します。受賞したレシピはホームページで公開し、受賞者には賞品を差し上げます。\n\n1. 募集条件\n・以下の材料を2種類以上使用すること。それ以外の材料は自由です。\n　トマト、きゅうり、たまねぎ、なす、たまご、とり肉、米\n・分量は二人分で、調理時間は30分以内、材料費は1,000円以内であること。\n・応募者自身が考えたレシピで、未発表のもの。\n\n2. 募集部門と応募資格\n部門ごとに最優秀賞1名と優秀賞2名を決定します。\n中学・高校生の部：市内在住の中学・高校生、または市内の中学校か高等学校に通う生徒\n一般の部：市内在住の方（高校生以下を除く）、または市内で働いている方か、市内の大学に通う学生\n\n3. 応募方法\n・応募用紙に、【氏名、住所、料理名、材料、作り方の詳細】を記入のうえ、料理の写真を添付して、提出してください。応募用紙は、市役所や市の施設に置いてあります。市役所のホームページでもダウンロードできます。\n・応募は一人3品まで可能です。応募用紙1枚あたり1品のレシピを記入してください。\n\n4. 応募締め切りと提出方法\n6月24日（金）必着で青原市役所農業課に郵送してください。\n※ 青原市内の中学校・高等学校に通う生徒は、6月20日（月）までに在籍する学校に提出してください。\n\n5. 結果発表\n結果は7月下旬にホームページで発表します。\n\n【問い合わせ・応募先】青原市役所農業課　〒449-3489 青原市中央2-3\n電話 065-721-5796　ホームページ https://www.city.aohara.lg.jp/nogyo/"
+    }
+  ],
+  "questions": [
+    {
+      "num": 70,
+      "passage": "p1",
+      "stem": "次の4人は、レシピコンテストに応募したいと考えている。この中で、応募可能なのは誰か。\n名前／住所／勤務先または通学先／使用する材料／調理時間／材料費\nハオさん／青原市／青原市内の会社／たまねぎ、なす、とり肉／40分／720円\n中村さん／青原市／青原市内の中学校／米、くり、にんじん／20分／510円\nマットさん／木山市／青原市内の会社／トマト、きゅうり、じゃがいも／15分／350円\n西田さん／青原市／木山市内の大学／トマト、たまご、とり肉／25分／1,290円",
+      "options": ["ハオさん", "中村さん", "マットさん", "西田さん"],
+      "answer": 3,
+      "explanation": {
+        "translation": "4 người sau muốn tham gia cuộc thi công thức nấu ăn. Trong số này, ai có thể đăng ký? → Anh Matt.",
+        "why": "Điều kiện: dùng ≥2 nguyên liệu trong danh sách (トマト、きゅうり、たまねぎ、なす、たまご、とり肉、米), nấu ≤30 phút, chi phí ≤1.000 yên, và đủ tư cách (sống/làm việc/học tại thành phố). Matt: sống ở 木山市 nhưng làm việc tại công ty trong 青原市 → đủ tư cách 一般の部; トマト・きゅうり (2 loại); 15 phút; 350 yên → hợp lệ.",
+        "options": [
+          "ハオさん → nấu 40 phút, vượt quá 30 phút. Không hợp lệ.",
+          "中村さん → chỉ có 米 thuộc danh sách (くり, にんじん không có) → chưa đủ 2 loại. Không hợp lệ.",
+          "マットさん → thỏa mãn mọi điều kiện. ĐÚNG.",
+          "西田さん → chi phí 1.290 yên, vượt 1.000 yên. Không hợp lệ."
+        ],
+        "vocab": [
+          { "w": "募集", "r": "ぼしゅう", "hv": "MỘ TẬP", "vi": "tuyển, chiêu mộ" },
+          { "w": "応募資格", "r": "おうぼしかく", "hv": "ỨNG MỘ TƯ CÁCH", "vi": "tư cách dự tuyển" },
+          { "w": "在住", "r": "ざいじゅう", "hv": "TẠI TRÚ", "vi": "cư trú" },
+          { "w": "材料費", "r": "ざいりょうひ", "hv": "TÀI LIỆU PHÍ", "vi": "chi phí nguyên liệu" }
+        ],
+        "grammar": null,
+        "evidence": "以下の材料を2種類以上使用すること。…分量は二人分で、調理時間は30分以内、材料費は1,000円以内であること。／一般の部：市内在住の方（高校生以下を除く）、または市内で働いている方か、市内の大学に通う学生",
+        "tip": "Lập bảng kiểm tra từng điều kiện cho từng người; chỉ cần sai 1 điều kiện là loại."
+      }
+    },
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "高校生の林さんは、レシピコンテストに応募しようと思っている。考えたレシピは2品である。林さんは青原市内の高校に通っている。林さんはどうすればいいか。",
+      "options": [
+        "1枚の応募用紙に2品のレシピを書いて、6月20日までに学校に提出する",
+        "1枚の応募用紙に2品のレシピを書いて、6月24日必着で農業課に郵送する",
+        "2枚の応募用紙に1品ずつレシピを書いて、6月20日までに学校に提出する",
+        "2枚の応募用紙に1品ずつレシピを書いて、6月24日必着で農業課に郵送する"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Bạn Hayashi là học sinh cấp 3, định tham gia cuộc thi với 2 món. Bạn học ở một trường cấp 3 trong thành phố Aohara. Hayashi nên làm gì? → Viết mỗi tờ đơn 1 món (2 tờ), nộp cho trường trước ngày 20/6.",
+        "why": "Quy định: 'mỗi tờ đơn ghi 1 món' → 2 món cần 2 tờ. Học sinh học tại trường cấp 2/3 trong thành phố nộp cho trường mình trước 20/6 (thứ Hai), không gửi bưu điện.",
+        "options": [
+          "Sai: 1 tờ chỉ được ghi 1 món.",
+          "Sai: sai cả số tờ lẫn cách nộp (học sinh trong thành phố nộp ở trường).",
+          "ĐÚNG: 2 tờ, mỗi tờ 1 món, nộp ở trường trước 20/6.",
+          "Sai: gửi bưu điện đến 農業課 hạn 24/6 là dành cho người khác, không phải học sinh trường trong thành phố."
+        ],
+        "vocab": [
+          { "w": "応募用紙", "r": "おうぼようし", "hv": "ỨNG MỘ DỤNG CHỈ", "vi": "mẫu đơn đăng ký" },
+          { "w": "提出", "r": "ていしゅつ", "hv": "ĐỀ XUẤT", "vi": "nộp" },
+          { "w": "必着", "r": "ひっちゃく", "hv": "TẤT TRƯỚC", "vi": "phải đến nơi (trước hạn)" },
+          { "w": "在籍", "r": "ざいせき", "hv": "TẠI TỊCH", "vi": "đang theo học, có tên trong danh sách" }
+        ],
+        "grammar": null,
+        "evidence": "応募は一人3品まで可能です。応募用紙1枚あたり1品のレシピを記入してください。／※ 青原市内の中学校・高等学校に通う生徒は、6月20日（月）までに在籍する学校に提出してください。",
+        "tip": "Chú ý dòng ※ (lưu ý đặc biệt) — đề N2 thường giấu đáp án ở đó."
+      }
+    }
+  ]
+}

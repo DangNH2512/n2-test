@@ -1,0 +1,138 @@
+{
+  "exam": "2010-12",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết chữ Hán đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "来月、スポーツ大会が<u>かいさい</u>される。",
+      "options": ["開催", "開幕", "開演", "開講"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tháng sau, đại hội thể thao sẽ được tổ chức.",
+        "why": "かいさい = 開催 (KHAI THÔI) = tổ chức (sự kiện, hội nghị, đại hội). Ba phương án còn lại đọc khác hẳn.",
+        "options": [
+          "開催 (かいさい): tổ chức. ĐÚNG.",
+          "開幕 (かいまく): khai mạc, mở màn. Đọc khác. Sai.",
+          "開演 (かいえん): bắt đầu buổi diễn. Đọc khác. Sai.",
+          "開講 (かいこう): khai giảng khóa học. Đọc khác. Sai."
+        ],
+        "vocab": [
+          { "w": "開催", "r": "かいさい", "hv": "KHAI THÔI", "vi": "tổ chức (sự kiện)" },
+          { "w": "開幕", "r": "かいまく", "hv": "KHAI MẠC", "vi": "khai mạc" },
+          { "w": "開演", "r": "かいえん", "hv": "KHAI DIỄN", "vi": "bắt đầu biểu diễn" },
+          { "w": "開講", "r": "かいこう", "hv": "KHAI GIẢNG", "vi": "mở lớp, khai giảng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "催 (さい) còn trong 主催 (しゅさい) = đứng ra tổ chức, 催促 (さいそく) = thúc giục."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "小林さんは<u>たより</u>になる人だ。",
+      "options": ["依り", "任り", "頼り", "援り"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh Kobayashi là người đáng tin cậy (có thể dựa vào).",
+        "why": "たより = 頼り (LẠI) = chỗ dựa, sự trông cậy. 頼りになる = đáng tin cậy, có thể nhờ cậy. Động từ gốc 頼る (たよる).",
+        "options": [
+          "依り → 依 (Y) có nghĩa ‘dựa’ (依頼) nhưng không viết たより bằng chữ này. Sai.",
+          "任り → 任 (NHIỆM) đọc まかせる (任せる). Sai.",
+          "頼り → たより: chỗ dựa. ĐÚNG.",
+          "援り → 援 (VIỆN) trong 応援・援助, không có cách viết này. Sai."
+        ],
+        "vocab": [
+          { "w": "頼り", "r": "たより", "hv": "LẠI", "vi": "chỗ dựa, sự trông cậy" },
+          { "w": "頼る", "r": "たよる", "hv": "LẠI", "vi": "dựa vào, nhờ cậy" },
+          { "w": "頼む", "r": "たのむ", "hv": "LẠI", "vi": "nhờ, nhờ vả" },
+          { "w": "任せる", "r": "まかせる", "hv": "NHIỆM", "vi": "giao phó" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "頼 có 3 cách đọc hay gặp: たよる・たのむ・らい (信頼 しんらい = tín nhiệm)."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "最近忙しくて生活のリズムが<u>みだれて</u>いる。",
+      "options": ["破れて", "乱れて", "荒れて", "暴れて"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Dạo này bận nên nhịp sinh hoạt bị rối loạn.",
+        "why": "みだれる = 乱れる (LOẠN) = rối loạn, xáo trộn. 生活のリズムが乱れる = nhịp sinh hoạt bị đảo lộn.",
+        "options": [
+          "破れて (やぶれて): bị rách; thua. Sai.",
+          "乱れて (みだれて): rối loạn. ĐÚNG.",
+          "荒れて (あれて): hoang tàn, sần sùi, (thời tiết) dữ dội. Sai.",
+          "暴れて (あばれて): quậy phá, làm loạn (người/động vật). Sai."
+        ],
+        "vocab": [
+          { "w": "乱れる", "r": "みだれる", "hv": "LOẠN", "vi": "rối loạn, xáo trộn" },
+          { "w": "破れる", "r": "やぶれる", "hv": "PHÁ", "vi": "rách; thất bại" },
+          { "w": "荒れる", "r": "あれる", "hv": "HOANG", "vi": "hoang tàn; thô ráp; dữ dội" },
+          { "w": "暴れる", "r": "あばれる", "hv": "BẠO", "vi": "quậy phá, nổi loạn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "4 phương án đều là tự động từ -れる mang nghĩa ‘hỏng/loạn’ → phải nhớ đúng âm đọc từng chữ."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "東京駅までの<u>うんちん</u>はいくらですか。",
+      "options": ["運貸", "運費", "運賃", "運貨"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tiền vé (cước phí) đến ga Tokyo là bao nhiêu?",
+        "why": "うんちん = 運賃 (VẬN NHẪM) = tiền vé, cước vận chuyển. 賃 (ちん) = tiền công/tiền thuê, như 家賃 (やちん).",
+        "options": [
+          "運貸 → 貸 (THẢI) = cho mượn, đọc たい. Không có từ này. Sai.",
+          "運費 → 費 (PHÍ) đọc ひ. Không có từ này. Sai.",
+          "運賃 → うんちん: tiền vé, cước phí. ĐÚNG.",
+          "運貨 → 貨 (HÓA) đọc か. Không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "運賃", "r": "うんちん", "hv": "VẬN NHẪM", "vi": "tiền vé, cước vận chuyển" },
+          { "w": "家賃", "r": "やちん", "hv": "GIA NHẪM", "vi": "tiền thuê nhà" },
+          { "w": "貸す", "r": "かす", "hv": "THẢI", "vi": "cho mượn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "賃 và 貸 trông giống nhau (đều có 貝 ở dưới): 賃 = 任 + 貝 (tiền công), 貸 = 代 + 貝 (cho mượn)."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "近くの公園でドラマの<u>さつえい</u>が行われた。",
+      "options": ["録映", "撮映", "録影", "撮影"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Ở công viên gần đây đã diễn ra buổi quay phim truyền hình.",
+        "why": "さつえい = 撮影 (TOÁT ẢNH) = quay phim, chụp ảnh. 撮 (さつ, とる) = chụp; 影 (えい) = hình bóng.",
+        "options": [
+          "録映 → 録 đọc ろく (録画), không phải さつ. Sai.",
+          "撮映 → 映 đọc えい nhưng từ đúng dùng 影. Sai.",
+          "録影 → 録 sai. Sai.",
+          "撮影 → さつえい: quay phim, chụp ảnh. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "撮影", "r": "さつえい", "hv": "TOÁT ẢNH", "vi": "quay phim, chụp ảnh" },
+          { "w": "録画", "r": "ろくが", "hv": "LỤC HỌA", "vi": "ghi hình" },
+          { "w": "映画", "r": "えいが", "hv": "ÁNH HỌA", "vi": "phim" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy: 映 và 影 đều đọc えい. 撮影 dùng 影 (bóng hình); 映 dùng trong 映画・上映・反映."
+      }
+    }
+  ]
+}

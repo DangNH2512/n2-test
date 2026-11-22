@@ -1,0 +1,80 @@
+{
+  "exam": "2023-07",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "次のページは、ある公園のホームページに載っている案内である。下の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Trang sau là thông tin hướng dẫn đăng trên trang web của một công viên. Chọn câu trả lời đúng nhất (tìm thông tin).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "青水湖自然公園",
+      "text": "青水湖自然公園\nハイキングのお勧めコース・ガイドツアーのご案内\n\n◆ お勧めコース（合計時間は休憩等を含めた大体の時間です）\nコース名｜コース内容｜合計時間\nらくらくコース｜北口から登山鉄道で山頂へ → 徒歩で植物園へ → 植物園前からボートで北口前へ → 徒歩で北口へ｜1時間\n花を楽しむコース｜北口から登山鉄道で山頂へ → 徒歩で植物園へ → 植物園前からボートで公園案内所前へ → 徒歩で南口へ｜1.5時間\n半周コース｜南口から徒歩で植物園へ → 徒歩で山頂へ → 徒歩で北口へ｜1.5時間\n一周コース｜南口から徒歩で公園案内所へ → 公園案内所前からボートで北口前へ → 登山鉄道で山頂へ → 徒歩で植物園へ → 徒歩で南口へ｜3時間\n※ 登山鉄道やボートの詳細については、本ホームページ内の「園内の移動手段」のページをご覧ください。\n\n◆ ガイドツアーのご案内\n・「お勧めコース」をガイドが一緒に回って、公園内をご案内します。お申し込みは、ツアーを希望される日の10日前の午後6時まで、電話で受け付けています。ツアーをご希望の日、出発時間、人数、コースをお知らせください。\n・どのコースでも、ガイド料金は参加者1名につき500円です（登山鉄道代、ボート代は別にかかります）。当日の集合時に、ガイドにお支払いください。\n・1グループの定員は10名です。11名以上でお申し込みの場合、当日複数のグループに分かれていただきます。\n・出発時間は開園（4月～9月：午前8時30分、10月～3月：午前9時）から午前11時までの間で指定してください。\n・キャンセルは3日前の午後6時までに電話でお願いいたします。天候不良により、ツアーが中止になる場合は、前日の午後7時までにご連絡いたします。\n\nガイドツアーのご予約：029-123-4568"
+    }
+  ],
+  "questions": [
+    {
+      "num": 70,
+      "passage": "p1",
+      "stem": "アニカさんは友達と3人で一緒に、ハイキングに行くことにした。ハイキングのコースは、「お勧めコース」から選びたいと思っている。アニカさんは3人の希望をメモに書いた。3人の希望に最も合うコースはどれか。\n\nアニカさんのメモ\nテイエ……登山鉄道に乗りたい。\nサナ……「合計時間」が、2時間までのものがいい。\nアニカ……スタートとゴールは違う場所にしたい。",
+      "options": ["らくらくコース", "花を楽しむコース", "半周コース", "一周コース"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anika cùng 2 người bạn (3 người) quyết định đi bộ đường dài và muốn chọn trong các \"tuyến đề xuất\". Tuyến nào phù hợp nhất với mong muốn của cả 3? → Tuyến ngắm hoa.",
+        "why": "Điều kiện: (1) có đi tàu leo núi, (2) tổng thời gian ≤ 2 giờ, (3) điểm xuất phát ≠ điểm kết thúc. Tuyến ngắm hoa: có tàu leo núi, 1,5 giờ, đi từ cổng Bắc đến cổng Nam → thỏa cả 3.",
+        "options": [
+          "らくらくコース: có tàu, 1 giờ nhưng xuất phát và kết thúc đều ở cổng Bắc (北口→北口). Sai.",
+          "花を楽しむコース: tàu leo núi ✓, 1,5 giờ ✓, 北口→南口 ✓. ĐÚNG.",
+          "半周コース: 南口→北口, 1,5 giờ nhưng đi bộ hoàn toàn, không có tàu leo núi. Sai.",
+          "一周コース: có tàu nhưng 3 giờ (quá 2 giờ) và 南口→南口. Sai."
+        ],
+        "vocab": [
+          { "w": "登山鉄道", "r": "とざんてつどう", "hv": "ĐĂNG SƠN THIẾT ĐẠO", "vi": "tàu leo núi" },
+          { "w": "山頂", "r": "さんちょう", "hv": "SƠN ĐỈNH", "vi": "đỉnh núi" },
+          { "w": "植物園", "r": "しょくぶつえん", "hv": "THỰC VẬT VIÊN", "vi": "vườn thực vật" },
+          { "w": "徒歩", "r": "とほ", "hv": "ĐỒ BỘ", "vi": "đi bộ" },
+          { "w": "案内所", "r": "あんないじょ", "hv": "ÁN NỘI SỞ", "vi": "quầy hướng dẫn" }
+        ],
+        "grammar": null,
+        "evidence": "花を楽しむコース｜北口から登山鉄道で山頂へ → 徒歩で植物園へ → 植物園前からボートで公園案内所前へ → 徒歩で南口へ｜1.5時間",
+        "tip": "Lập bảng 3 điều kiện × 4 tuyến rồi loại dần. Bản đề đánh máy ghi 「アニさんのメモ」, đã sửa thành 「アニカさんのメモ」; số câu trong đề in là 68–69 nhưng theo đáp án chính thức là 70–71."
+      }
+    },
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "ダンさんは、10月に会社の同僚15人とガイドツアーを利用したいと思っている。申し込みにあたり気をつけなければならないこととして、合っているのはどれか。",
+      "options": [
+        "申し込みはツアーを希望する日の3日前の午後6時までに電話でする必要がある。",
+        "ガイド料金は、どの「お勧めコース」を選ぶかによって変わる。",
+        "申し込みはまとめてできるが、当日は複数のグループに分かれなければならない。",
+        "出発時間は、午前8時30分から午前11時までの間で指定する必要がある。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh Dan muốn sử dụng tour có hướng dẫn viên vào tháng 10 cùng 15 đồng nghiệp. Điều nào đúng về những điểm cần lưu ý khi đăng ký? → Có thể đăng ký chung một lần, nhưng hôm đó phải chia thành nhiều nhóm.",
+        "why": "Mỗi nhóm tối đa 10 người; đăng ký từ 11 người trở lên thì hôm đó sẽ chia thành nhiều nhóm. Dan + 15 đồng nghiệp = 16 người (dù tính 15 cũng > 10) → phải chia nhóm.",
+        "options": [
+          "Hạn đăng ký là 10 ngày trước, 6 giờ chiều; \"3 ngày trước\" là hạn hủy (キャンセル). Sai.",
+          "Phí hướng dẫn là 500 yên/người cho mọi tuyến (どのコースでも). Sai.",
+          "Đăng ký chung được nhưng trên 10 người phải chia nhóm. ĐÚNG.",
+          "Tháng 10 thuộc giai đoạn 10–3: mở cửa 9 giờ sáng, nên chọn từ 9:00–11:00, không phải 8:30. Sai."
+        ],
+        "vocab": [
+          { "w": "同僚", "r": "どうりょう", "hv": "ĐỒNG LIÊU", "vi": "đồng nghiệp" },
+          { "w": "定員", "r": "ていいん", "hv": "ĐỊNH VIÊN", "vi": "số người tối đa" },
+          { "w": "複数", "r": "ふくすう", "hv": "PHỨC SỐ", "vi": "nhiều, số nhiều" },
+          { "w": "開園", "r": "かいえん", "hv": "KHAI VIÊN", "vi": "công viên mở cửa" },
+          { "w": "指定", "r": "してい", "hv": "CHỈ ĐỊNH", "vi": "chỉ định" }
+        ],
+        "grammar": {
+          "pattern": "～にあたり",
+          "meaning": "khi, nhân dịp (bắt đầu làm việc gì quan trọng)",
+          "form": "N／Vる ＋ にあたり（にあたって）",
+          "example": "入学にあたり、必要な書類を準備した。"
+        },
+        "evidence": "1グループの定員は10名です。11名以上でお申し込みの場合、当日複数のグループに分かれていただきます。",
+        "tip": "Bẫy thường gặp ở 問題14: nhầm hạn đăng ký với hạn hủy, và quên điều kiện theo mùa (tháng 10 mở cửa 9:00)."
+      }
+    }
+  ]
+}

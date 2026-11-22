@@ -1,0 +1,134 @@
+{
+  "exam": "2021-12",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、48から51の中に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, xét nội dung toàn bài và chọn phương án thích hợp nhất cho các chỗ trống 48–51.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "「落語」体験",
+      "text": "以下は、留学生の作文である。\n\n「落語」体験\nバラージペーテル\n\n今回、留学生センターで行われた文化体験のテーマは「落語」だった。落語は日本の伝統的な芸能の一つだ。着物を着た落語家が舞台に正座したまま、一人で何役も演じ、語って聞かせる。たいていは、面白く、おかしい話だ。私の国には演劇はあるが、落語のようなものはない。\n私は、文化体験が落語だと知って、実はがっかりした。以前、ある落語を授業で読んだが、あまり面白いと（48）。話をただ聞いているのは退屈だろうと思ったし、聞き取れるかどうかも不安だった。\n（49）落語を聞いている間、私はよく笑った。落語家の動作や声の出し方は本当に面白くて、場面の様子もよくわかった。しぐさや話し方を変えて、親と子など二役以上を一人で演じ、会話を進める。座ったまま体を揺らして歩いている様子を見せ、家から店に移動したことを表す。食事の動作は、本当に何かを食べているようだった。\n文化体験が終わったとき、落語の印象がすっかり変わっていた。落語とは、落語家の動作と語りを同時に（50）。私は、話の細部は理解できていなかったかもしれない。しかし、落語家の動作と語りを通して、登場人物の性格や暮らしが感じられた。それに、映像や音楽や踊りがなくても、生き生きと話を伝え、人を笑わせられる落語家の表現力にも感動した。\n落語には、怖い話や感動的な話もあるそうだ。落語家は（51）をするのだろうか。ぜひいろいろな落語を聞いてみたい。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 48,
+      "passage": "p1",
+      "stem": "（48）に入るもの",
+      "options": ["思えなかったまでだ", "思えなかったほどだ", "思えなかっただけだ", "思えなかったからだ"],
+      "answer": 4,
+      "explanation": {
+        "translation": "(Tôi thất vọng.) Vì trước đây đọc một tích Rakugo trên lớp mà không thấy thú vị lắm.",
+        "why": "Câu trước: 'tôi thất vọng'. Câu (48) giải thích LÝ DO cho sự thất vọng đó → ～からだ (là vì ~).",
+        "options": [
+          "思えなかったまでだ → までだ = chỉ đơn giản là ~ thôi (biện minh), không nêu lý do. Sai.",
+          "思えなかったほどだ → ほどだ = đến mức ~ (nhấn mức độ), không nối logic với câu trước. Sai.",
+          "思えなかっただけだ → chỉ là ~ thôi (giảm nhẹ), không hợp. Sai.",
+          "思えなかったからだ → là vì không thấy thú vị. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "がっかりする", "r": "がっかりする", "hv": "", "vi": "thất vọng" },
+          { "w": "退屈", "r": "たいくつ", "hv": "THOÁI KHUẤT", "vi": "chán, buồn tẻ" },
+          { "w": "落語", "r": "らくご", "hv": "LẠC NGỮ", "vi": "Rakugo (nghệ thuật kể chuyện hài truyền thống)" }
+        ],
+        "grammar": {
+          "pattern": "～からだ",
+          "meaning": "là vì ~ (giải thích lý do cho câu trước)",
+          "form": "普通形＋からだ",
+          "example": "遅刻した。電車が止まったからだ。(Tôi đến muộn. Là vì tàu bị dừng.)"
+        },
+        "evidence": "私は、文化体験が落語だと知って、実はがっかりした。以前、ある落語を授業で読んだが、あまり面白いと（48）。",
+        "tip": "Câu A. Câu B ～からだ. → B là lý do của A."
+      }
+    },
+    {
+      "num": 49,
+      "passage": "p1",
+      "stem": "（49）に入るもの",
+      "options": ["しかも", "すなわち", "ところが", "したがって"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Thế nhưng, trong lúc nghe Rakugo, tôi đã cười rất nhiều.",
+        "why": "Đoạn trước: lo rằng sẽ chán, không nghe hiểu. Đoạn sau: cười rất nhiều → kết quả trái với dự đoán → ところが (thế nhưng, vậy mà).",
+        "options": [
+          "しかも → hơn nữa (bổ sung cùng chiều). Sai.",
+          "すなわち → tức là (diễn giải lại). Sai.",
+          "ところが → thế nhưng (trái với dự đoán). ĐÚNG.",
+          "したがって → do đó (kết quả logic). Sai."
+        ],
+        "vocab": [
+          { "w": "動作", "r": "どうさ", "hv": "ĐỘNG TÁC", "vi": "động tác" },
+          { "w": "しぐさ", "r": "しぐさ", "hv": "", "vi": "cử chỉ" }
+        ],
+        "grammar": {
+          "pattern": "ところが",
+          "meaning": "thế nhưng, vậy mà (kết quả ngược với dự đoán)",
+          "form": "Câu A。ところが、câu B。",
+          "example": "簡単だと思った。ところが、全然できなかった。(Tưởng dễ. Vậy mà chẳng làm được gì.)"
+        },
+        "evidence": "話をただ聞いているのは退屈だろうと思ったし、聞き取れるかどうかも不安だった。（49）落語を聞いている間、私はよく笑った。",
+        "tip": null
+      }
+    },
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["楽しむものなのだ", "楽しむはずなのだ", "楽しむようにするのだ", "楽しむことになったのだ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Rakugo, hóa ra, là thứ để thưởng thức đồng thời cả động tác lẫn lời kể của nghệ sĩ.",
+        "why": "「AとはBものだ」 = định nghĩa bản chất của A. Tác giả nhận ra bản chất của Rakugo sau trải nghiệm → 楽しむものなのだ.",
+        "options": [
+          "楽しむものなのだ → (bản chất) là thứ để thưởng thức. ĐÚNG.",
+          "楽しむはずなのだ → lẽ ra phải thưởng thức (suy đoán), không phải định nghĩa. Sai.",
+          "楽しむようにするのだ → cố gắng thưởng thức (ý chí). Sai.",
+          "楽しむことになったのだ → đã được quyết định là thưởng thức. Sai."
+        ],
+        "vocab": [
+          { "w": "印象", "r": "いんしょう", "hv": "ẤN TƯỢNG", "vi": "ấn tượng" },
+          { "w": "語り", "r": "かたり", "hv": "NGỮ", "vi": "lời kể" },
+          { "w": "同時に", "r": "どうじに", "hv": "ĐỒNG THỜI", "vi": "đồng thời" }
+        ],
+        "grammar": {
+          "pattern": "AとはBものだ",
+          "meaning": "A (về bản chất) là B",
+          "form": "N＋とは＋Vる＋ものだ",
+          "example": "人生とは旅のようなものだ。(Cuộc đời giống như một chuyến đi.)"
+        },
+        "evidence": "文化体験が終わったとき、落語の印象がすっかり変わっていた。落語とは、落語家の動作と語りを同時に（50）。",
+        "tip": "Thấy 「～とは」 ở đầu câu → hay kết thúc bằng 「～ものだ／ことだ」 (định nghĩa)."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["どんな表現", "その表現", "表現", "こういう表現"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nghe nói Rakugo còn có những câu chuyện đáng sợ hoặc cảm động. Không biết khi đó nghệ sĩ sẽ thể hiện như thế nào nhỉ.",
+        "why": "Câu kết thúc bằng 「～のだろうか」 (tự hỏi) và tác giả chưa từng nghe loại chuyện đáng sợ/cảm động → câu hỏi mở: どんな表現をするのだろうか (sẽ thể hiện ra sao).",
+        "options": [
+          "どんな表現 → thể hiện như thế nào (câu hỏi mở). ĐÚNG.",
+          "その表現 → 'cách thể hiện đó' — chưa có cách thể hiện cụ thể nào được nói đến. Sai.",
+          "表現 → 'có thể hiện không?' — nghĩa nhạt, không phù hợp. Sai.",
+          "こういう表現 → 'kiểu thể hiện này' — không có gì để chỉ. Sai."
+        ],
+        "vocab": [
+          { "w": "表現", "r": "ひょうげん", "hv": "BIỂU HIỆN", "vi": "sự thể hiện, diễn đạt" },
+          { "w": "感動的", "r": "かんどうてき", "hv": "CẢM ĐỘNG ĐÍCH", "vi": "cảm động" }
+        ],
+        "grammar": {
+          "pattern": "どんな～のだろうか",
+          "meaning": "không biết ~ như thế nào nhỉ (tự hỏi)",
+          "form": "疑問詞＋普通形＋のだろうか",
+          "example": "彼は今どこで何をしているのだろうか。(Không biết bây giờ anh ấy đang ở đâu, làm gì nhỉ.)"
+        },
+        "evidence": "落語には、怖い話や感動的な話もあるそうだ。落語家は（51）をするのだろうか。ぜひいろいろな落語を聞いてみたい。",
+        "tip": null
+      }
+    }
+  ]
+}

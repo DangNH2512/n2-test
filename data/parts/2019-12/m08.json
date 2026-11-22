@@ -1,0 +1,160 @@
+{
+  "exam": "2019-12",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các phương án vào chỗ trống và chọn phương án đứng ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "他社からの質問や問い合わせには、一度社内で＿＿＿ ＿＿＿ ★ ＿＿＿できないことになっています。",
+      "options": ["検討", "回答", "でないと", "してから"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đối với câu hỏi và yêu cầu thông tin từ công ty khác, theo quy định thì nếu chưa xem xét một lần trong nội bộ công ty thì không thể trả lời.",
+        "why": "Thứ tự: 検討(1) → してから(4) → でないと(3) → 回答(2): 一度社内で検討してからでないと回答できない. ★ ở vị trí 3 = でないと.",
+        "options": [
+          "検討 → vị trí 1 (検討する). Sai.",
+          "回答 → vị trí 4, ngay trước できない (回答できない). Sai.",
+          "でないと → vị trí 3 (★): Vてからでないと〜ない. ĐÚNG.",
+          "してから → vị trí 2. Sai."
+        ],
+        "vocab": [
+          { "w": "検討", "r": "けんとう", "hv": "KIỂM THẢO", "vi": "xem xét, cân nhắc" },
+          { "w": "回答", "r": "かいとう", "hv": "HỒI ĐÁP", "vi": "trả lời (chính thức)" },
+          { "w": "問い合わせ", "r": "といあわせ", "hv": "VẤN HỢP", "vi": "hỏi, yêu cầu thông tin" }
+        ],
+        "grammar": {
+          "pattern": "～てからでないと～ない",
+          "meaning": "nếu chưa ~ thì không thể ~",
+          "form": "Vて＋からでないと＋Vない（可能形）",
+          "example": "代金を払ってからでないと、商品は受け取れません。"
+        },
+        "evidence": null,
+        "tip": "Thấy できない ở cuối → nghĩ ngay ～てからでないと."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "昨日の夜は、11時までには＿＿＿ ＿＿＿ ★ ＿＿＿、結局寝たのは1時だった。",
+      "options": ["つい", "寝ようと", "思いつつ", "テレビを見続けてしまい"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tối qua, tôi định đi ngủ trước 11 giờ nhưng lỡ cứ xem TV mãi, rốt cuộc 1 giờ mới ngủ.",
+        "why": "Thứ tự: 寝ようと(2) → 思いつつ(3) → つい(1) → テレビを見続けてしまい(4): 11時までには寝ようと思いつつ、ついテレビを見続けてしまい. ★ ở vị trí 3 = つい.",
+        "options": [
+          "つい → vị trí 3 (★): つい〜てしまう. ĐÚNG.",
+          "寝ようと → vị trí 1 (Vようと思う). Sai.",
+          "思いつつ → vị trí 2. Sai.",
+          "テレビを見続けてしまい → vị trí 4, nối với 、結局…. Sai."
+        ],
+        "vocab": [
+          { "w": "つい", "r": "つい", "hv": "", "vi": "lỡ, vô tình (làm điều không định làm)" },
+          { "w": "結局", "r": "けっきょく", "hv": "KẾT CỤC", "vi": "rốt cuộc" },
+          { "w": "見続ける", "r": "みつづける", "hv": "KIẾN TỤC", "vi": "xem liên tục" }
+        ],
+        "grammar": {
+          "pattern": "～つつ（も）",
+          "meaning": "mặc dù ~ nhưng (biết vậy mà vẫn)",
+          "form": "Vます（bỏ ます）＋つつ（も）",
+          "example": "体に悪いと思いつつ、タバコをやめられない。"
+        },
+        "evidence": null,
+        "tip": "つい luôn đi với ～てしまう → đặt つい ngay trước テレビを見続けてしまい."
+      }
+    },
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "私は、新しいことにチャレンジするときでも悩まない。＿＿＿ ＿＿＿ ★ ＿＿＿と思っているからだ。",
+      "options": ["まずやってみて", "もう一度考えればいい", "うまくいかなかったら", "そのときにどうしたらいいか"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi không băn khoăn kể cả khi thử thách điều mới. Vì tôi nghĩ rằng cứ làm thử trước đã, nếu không suôn sẻ thì lúc đó suy nghĩ lại xem nên làm thế nào là được.",
+        "why": "Thứ tự: まずやってみて(1) → うまくいかなかったら(3) → そのときにどうしたらいいか(4) → もう一度考えればいい(2) + と思っている. ★ ở vị trí 3 = そのときにどうしたらいいか.",
+        "options": [
+          "まずやってみて → vị trí 1. Sai.",
+          "もう一度考えればいい → vị trí 4, ngay trước と思っている. Sai.",
+          "うまくいかなかったら → vị trí 2 (điều kiện). Sai.",
+          "そのときにどうしたらいいか → vị trí 3 (★), là tân ngữ của 考える. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "悩む", "r": "なやむ", "hv": "NÃO", "vi": "băn khoăn, phiền não" },
+          { "w": "うまくいく", "r": "うまくいく", "hv": "", "vi": "suôn sẻ, thành công" }
+        ],
+        "grammar": {
+          "pattern": "～ばいい（と思う）",
+          "meaning": "chỉ cần ~ là được",
+          "form": "Vば＋いい",
+          "example": "わからなければ、先生に聞けばいい。"
+        },
+        "evidence": null,
+        "tip": "Câu hỏi gián tiếp 'どうしたらいいか' đứng trước động từ suy nghĩ (考える)."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "家の近くの本屋では＿＿＿ ＿＿＿ ★ ＿＿＿少し遠いけど行ってみようと思う。",
+      "options": ["買えなかった漫画の最新号が", "まだ買えるらしいので", "もう売り切れていて", "隣町のABC書店に行けば"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Ở hiệu sách gần nhà thì đã bán hết rồi, nghe nói nếu đến hiệu sách ABC ở thị trấn bên cạnh thì số mới nhất của bộ truyện tranh mà tôi chưa mua được vẫn còn mua được, nên dù hơi xa tôi cũng định đi thử.",
+        "why": "Theo đáp án chính thức, thứ tự là: もう売り切れていて(3) → 隣町のABC書店に行けば(4) → 買えなかった漫画の最新号が(1) → まだ買えるらしいので(2) → 少し遠いけど…. ★ ở vị trí 3 = 買えなかった漫画の最新号が (chủ ngữ của まだ買える).",
+        "options": [
+          "買えなかった漫画の最新号が → vị trí 3 (★), chủ ngữ của まだ買えるらしい. ĐÚNG.",
+          "まだ買えるらしいので → vị trí 4, ので nối với 少し遠いけど行ってみよう. Sai.",
+          "もう売り切れていて → vị trí 1, nối với 家の近くの本屋では. Sai.",
+          "隣町のABC書店に行けば → vị trí 2 (điều kiện). Sai."
+        ],
+        "vocab": [
+          { "w": "売り切れる", "r": "うりきれる", "hv": "MẠI THIẾT", "vi": "bán hết" },
+          { "w": "最新号", "r": "さいしんごう", "hv": "TỐI TÂN HIỆU", "vi": "số mới nhất (tạp chí, truyện)" },
+          { "w": "隣町", "r": "となりまち", "hv": "LÂN ĐINH", "vi": "thị trấn bên cạnh" }
+        ],
+        "grammar": {
+          "pattern": "～ば～らしいので",
+          "meaning": "nghe nói nếu ~ thì ~, nên ~",
+          "form": "Vば＋[thể thường]＋らしい＋ので",
+          "example": "駅前のスーパーに行けば安く買えるらしいので、行ってみる。"
+        },
+        "evidence": null,
+        "tip": "Mấu chốt: ので phải đứng cuối để nối với 少し遠いけど; ～ば đứng trước kết quả まだ買える. Lưu ý: thứ tự 3→1→4→2 nghe cũng khá tự nhiên, nhưng đáp án chính thức là 1."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "話題のカレー屋さんを初訪問。野菜の＿＿＿ ＿＿＿ ★ ＿＿＿「夏限定ベジタブルカレー」。評判どおりのおいしさだった。",
+      "options": ["中で", "私が選んだのは、", "夏の野菜がたっぷり入った", "カレーがいくつかある"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Lần đầu ghé quán cà ri đang được bàn tán. Trong số vài món cà ri rau, món tôi chọn là 'cà ri rau củ chỉ có mùa hè' với đầy ắp rau mùa hè. Ngon đúng như lời đồn.",
+        "why": "Thứ tự: カレーがいくつかある(4) → 中で(1) → 私が選んだのは、(2) → 夏の野菜がたっぷり入った(3) → 「夏限定ベジタブルカレー」. ★ ở vị trí 3 = 私が選んだのは、.",
+        "options": [
+          "中で → vị trí 2 (〜がある中で: trong số ~). Sai.",
+          "私が選んだのは、 → vị trí 3 (★), cấu trúc 〜のは＋N. ĐÚNG.",
+          "夏の野菜がたっぷり入った → vị trí 4, bổ nghĩa cho 「夏限定ベジタブルカレー」. Sai.",
+          "カレーがいくつかある → vị trí 1, nối với 野菜の (野菜のカレー). Sai."
+        ],
+        "vocab": [
+          { "w": "初訪問", "r": "はつほうもん", "hv": "SƠ PHỎNG VẤN", "vi": "lần đầu ghé thăm" },
+          { "w": "限定", "r": "げんてい", "hv": "HẠN ĐỊNH", "vi": "giới hạn, chỉ có (mùa/số lượng)" },
+          { "w": "評判", "r": "ひょうばん", "hv": "BÌNH PHÁN", "vi": "tiếng tăm, lời đồn" },
+          { "w": "たっぷり", "r": "たっぷり", "hv": "", "vi": "đầy ắp, nhiều" }
+        ],
+        "grammar": {
+          "pattern": "～中で／～のは～だ",
+          "meaning": "trong số ~ / cái mà ~ là ~ (nhấn mạnh)",
+          "form": "Vる/N の＋中で；Vた＋のは＋N",
+          "example": "いくつかある中で、私が選んだのはこれだ。"
+        },
+        "evidence": null,
+        "tip": "Mệnh đề bổ nghĩa (夏の野菜がたっぷり入った) đứng ngay trước danh từ nó bổ nghĩa."
+      }
+    }
+  ]
+}

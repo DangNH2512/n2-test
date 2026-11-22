@@ -1,0 +1,127 @@
+{
+  "exam": "2023-07",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn dài (chủ đề/luận điểm) và chọn câu trả lời đúng nhất.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "問題13",
+      "text": "大きな感動をあたえてくれた場所には、またいきたくなる。できれば、その場所にいつまでも居つづけたい。そう思うのは、人の自然な感情だ。\n宇宙飛行士の毛利衛さんにとっては、「宇宙」が、その場所だった。\nスペース・シャトルでの初めての宇宙飛行から帰還してからは、しばらくは講演活動やマネージメントの仕事をしていたらしいが、そんな生活が、物足りなくてしょうがない。ひとつの夢を果たし終えて、自分の人生まで終わってしまったように思えてくる。「もう一度、宇宙へいきたい」という気持ちがわいてくるのも自然な感情だろう。\n張り詰めた緊張感のある生活を、もう一度送りたい。宇宙から地球を見たときの、その感動を、もう一度味わいたい…。\n二度目の宇宙飛行への挑戦（注1）を決心したとき、毛利さんはすでに四十八歳になっていた。すでに若くはない人間にとってはつらい訓練でもあったが、どうにか（注2）乗り越えて、ふたたび宇宙へ旅立った。\n毛利さんばかりではないように思う。プロ野球選手は、いつまでもグラウンドに立ちつづけたいと思うだろうし、サラリーマンは定年になっても、職場から離れがたく思うものだろう。その場所を去らなければならない「とき」がやってくる。毛利さんも、じつはそのことは、二度目の訓練を受けているときから薄々（注3）感じていた。体力も反射神経（注4）も、もう若い人にはかなわない（注5）。\n宇宙飛行は、希望すればだれでもいけるというものではない。スペース・シャトルには「定員」があるし、選ばれなければ宇宙へはいけない。\n「三度目」はないかもしれない。後ろ髪を引かれる（注6）ような寂しさはあるが、しかし、いまの毛利さんには、「なにがなんでも（注7）、もう一度」という強いこだわりはないのだという。\nそれは、新しい「生きがい」を見つけることができたからだそうだ。自分には経験がある。知識もある。いつまでも若い人と競うのではなく、自分が得てきたものを若い人たちに伝えてゆく「喜び」もあるのではないか。\n自分の夢を追い求める人生から、次の世代の人たちの夢を応援する人生へ。たしかに、そのような発想の転換ができれば、新しい「生きがい」を見つけるのも早そうだ。\n次の世代に夢をつなげていくのは、「老兵」の重要な仕事なのである。\n\n（注1）挑戦：チャレンジ\n（注2）どうにか：なんとか\n（注3）薄々：なんとなく\n（注4）反射神経：ここでは、反応する速さ\n（注5）かなわない：勝てない\n（注6）後ろ髪を引かれる：ここでは、なかなか諦められない\n（注7）なにがなんでも：どうしても"
+    }
+  ],
+  "questions": [
+    {
+      "num": 67,
+      "passage": "p1",
+      "stem": "筆者によると、初めての宇宙飛行から帰ってきたあと、毛利さんはどのように感じていたか。",
+      "options": [
+        "宇宙飛行のような大きな夢を持って生活を送りたい。",
+        "宇宙でやり残したもうひとつの夢を果たしたい。",
+        "経験したことを生かすために、また宇宙へいきたい。",
+        "緊張感や感動を得るために、また宇宙へいきたい。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, sau khi trở về từ chuyến bay vũ trụ đầu tiên, ông Mohri cảm thấy thế nào? → Muốn lại bay vào vũ trụ để có được cảm giác căng thẳng và xúc động.",
+        "why": "Cuộc sống sau khi về thấy nhạt nhẽo; ông muốn lại sống cuộc sống căng thẳng, muốn lại được nếm cảm xúc khi nhìn Trái Đất từ vũ trụ → muốn bay vào vũ trụ lần nữa.",
+        "options": [
+          "Ông muốn quay lại chính vũ trụ, không phải mang một giấc mơ lớn \"giống như\" bay vũ trụ. Sai.",
+          "Không có \"giấc mơ khác còn dang dở\"; bài nói đã hoàn thành một giấc mơ. Sai.",
+          "\"Tận dụng kinh nghiệm\" là suy nghĩ ở giai đoạn sau (truyền lại cho thế hệ trẻ). Sai.",
+          "Muốn lại căng thẳng và xúc động → muốn lên vũ trụ lần nữa. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "宇宙飛行士", "r": "うちゅうひこうし", "hv": "VŨ TRỤ PHI HÀNH SĨ", "vi": "phi hành gia" },
+          { "w": "帰還", "r": "きかん", "hv": "QUY HOÀN", "vi": "trở về" },
+          { "w": "物足りない", "r": "ものたりない", "hv": "VẬT TÚC", "vi": "thiếu thiếu, không thỏa mãn" },
+          { "w": "張り詰める", "r": "はりつめる", "hv": "TRƯƠNG CẬT", "vi": "căng thẳng (tinh thần)" },
+          { "w": "感動", "r": "かんどう", "hv": "CẢM ĐỘNG", "vi": "xúc động, cảm động" }
+        ],
+        "grammar": {
+          "pattern": "～てしょうがない",
+          "meaning": "~ không chịu nổi, vô cùng ~",
+          "form": "Vて／Aくて／Naで ＋ しょうがない",
+          "example": "試験の結果が気になってしょうがない。"
+        },
+        "evidence": "張り詰めた緊張感のある生活を、もう一度送りたい。宇宙から地球を見たときの、その感動を、もう一度味わいたい…。",
+        "tip": "Đáp án dùng từ đồng nghĩa: 緊張感のある生活 + 感動を味わいたい → 緊張感や感動を得るために."
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p1",
+      "stem": "筆者によると、二度目の訓練を受けているとき、毛利さんはどのように感じていたか。",
+      "options": [
+        "自分が輝ける場所をふたたび見つけられないかもしれない。",
+        "いつかは活躍していた場所から離れなくてはならない。",
+        "人は自分の体力に合ったことをしなければならない。",
+        "訓練がつらくて、乗り越えられないかもしれない。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo tác giả, khi đang huấn luyện lần thứ hai, ông Mohri cảm thấy thế nào? → Rằng một lúc nào đó sẽ phải rời khỏi nơi mình từng hoạt động.",
+        "why": "「そのこと」 = thời khắc phải rời bỏ nơi đó (その場所を去らなければならない「とき」がやってくる). Ông đã lờ mờ cảm nhận điều này từ khi huấn luyện lần hai vì thể lực, phản xạ không bằng người trẻ.",
+        "options": [
+          "Bài không nói sợ không tìm lại được nơi tỏa sáng. Sai.",
+          "Một lúc nào đó phải rời khỏi nơi đã hoạt động (vũ trụ). ĐÚNG.",
+          "Thể lực chỉ là lý do cảm nhận, không phải bài học \"phải làm việc hợp thể lực\". Sai.",
+          "Huấn luyện tuy vất vả nhưng ông đã vượt qua; không phải điều ông \"lờ mờ cảm thấy\". Sai."
+        ],
+        "vocab": [
+          { "w": "訓練", "r": "くんれん", "hv": "HUẤN LUYỆN", "vi": "huấn luyện" },
+          { "w": "定年", "r": "ていねん", "hv": "ĐỊNH NIÊN", "vi": "tuổi nghỉ hưu" },
+          { "w": "去る", "r": "さる", "hv": "KHỨ", "vi": "rời đi" },
+          { "w": "薄々", "r": "うすうす", "hv": "BẠC", "vi": "lờ mờ, mang máng" },
+          { "w": "反射神経", "r": "はんしゃしんけい", "hv": "PHẢN XẠ THẦN KINH", "vi": "phản xạ" }
+        ],
+        "grammar": {
+          "pattern": "Vます ＋ がたい",
+          "meaning": "khó mà ~ (về mặt tâm lý)",
+          "form": "Vます(bỏ ます) ＋ がたい",
+          "example": "彼の話は信じがたい。"
+        },
+        "evidence": "その場所を去らなければならない「とき」がやってくる。毛利さんも、じつはそのことは、二度目の訓練を受けているときから薄々感じていた。",
+        "tip": "Câu hỏi về cảm nhận → tìm chỉ thị từ そのこと và xác định nó chỉ câu nào ngay trước."
+      }
+    },
+    {
+      "num": 69,
+      "passage": "p1",
+      "stem": "筆者が言いたいことは何か。",
+      "options": [
+        "自分の夢を追い求めたあとは、若い人の夢を応援することが大切だ。",
+        "夢はひとつだけではないことを若い人に伝えて、応援するべきだ。",
+        "若い人の夢を応援しながら、自分の夢も追い求めつづけたほうがいい。",
+        "若い人の夢を応援するには、さまざまな経験や知識が必要だ。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tác giả muốn nói gì? → Sau khi đã theo đuổi giấc mơ của mình, việc ủng hộ giấc mơ của người trẻ là điều quan trọng.",
+        "why": "Đoạn kết: từ cuộc đời theo đuổi giấc mơ của mình chuyển sang cuộc đời ủng hộ giấc mơ của thế hệ sau; nối tiếp giấc mơ cho thế hệ sau là công việc quan trọng của \"lão binh\".",
+        "options": [
+          "Theo đuổi mơ ước xong → ủng hộ mơ ước người trẻ. ĐÚNG.",
+          "Bài không nói truyền đạt \"giấc mơ không chỉ có một\". Sai.",
+          "Bài nói chuyển hướng (từ mơ của mình sang mơ người khác), không phải song song cả hai. Sai.",
+          "Kinh nghiệm, kiến thức được nhắc đến như thứ có thể truyền lại, không phải điều kiện cần. Sai."
+        ],
+        "vocab": [
+          { "w": "生きがい", "r": "いきがい", "hv": "SINH", "vi": "lẽ sống, ý nghĩa cuộc đời" },
+          { "w": "追い求める", "r": "おいもとめる", "hv": "TRUY CẦU", "vi": "theo đuổi" },
+          { "w": "発想の転換", "r": "はっそうのてんかん", "hv": "PHÁT TƯỞNG CHUYỂN HOÁN", "vi": "thay đổi cách nghĩ" },
+          { "w": "老兵", "r": "ろうへい", "hv": "LÃO BINH", "vi": "lão binh, người lớn tuổi giàu kinh nghiệm" },
+          { "w": "応援", "r": "おうえん", "hv": "ỨNG VIỆN", "vi": "ủng hộ, cổ vũ" }
+        ],
+        "grammar": {
+          "pattern": "～なのである",
+          "meaning": "chính là ~ (khẳng định, kết luận của người viết)",
+          "form": "N／Naな ＋ のである",
+          "example": "努力こそが成功への道なのである。"
+        },
+        "evidence": "自分の夢を追い求める人生から、次の世代の人たちの夢を応援する人生へ。…次の世代に夢をつなげていくのは、「老兵」の重要な仕事なのである。",
+        "tip": "Câu kết bằng ～なのである là thông điệp chính. Chú ý trình tự \"từ A sang B\" (から～へ) – loại đáp án 3 (làm song song)."
+      }
+    }
+  ]
+}

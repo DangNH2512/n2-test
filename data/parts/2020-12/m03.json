@@ -1,0 +1,85 @@
+{
+  "exam": "2020-12",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ (tiền tố/hậu tố) thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "宿題を（　　）提出するよう、先生に言われた。",
+      "options": ["復", "改", "再", "補"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi bị thầy giáo bảo nộp lại bài tập.",
+        "why": "再 (さい, TÁI) là tiền tố mang nghĩa 「làm lại lần nữa」: 再提出 (さいていしゅつ) = nộp lại.",
+        "options": [
+          "復 → ふく: phục (復習, 回復), không làm tiền tố với 提出. Sai.",
+          "改 → かい: cải (改正, 改札), không nói 改提出. Sai.",
+          "再 → 再提出: nộp lại. ĐÚNG.",
+          "補 → ほ: bổ sung (補習, 補足), không nói 補提出. Sai."
+        ],
+        "vocab": [
+          { "w": "再提出", "r": "さいていしゅつ", "hv": "TÁI ĐỀ XUẤT", "vi": "nộp lại" },
+          { "w": "提出", "r": "ていしゅつ", "hv": "ĐỀ XUẤT", "vi": "nộp, đệ trình" },
+          { "w": "宿題", "r": "しゅくだい", "hv": "TÚC ĐỀ", "vi": "bài tập về nhà" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "再～: 再開発・再確認・再試験・再利用."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "あの人は都会（　　）だ。",
+      "options": ["育ち", "過ごし", "始まり", "生き"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Người đó lớn lên ở thành phố.",
+        "why": "Danh từ chỉ nơi + 育ち (そだち) = lớn lên ở đâu: 都会育ち = người lớn lên ở thành phố.",
+        "options": [
+          "育ち → 都会育ち: lớn lên ở thành phố. ĐÚNG.",
+          "過ごし → không dùng làm hậu tố (過ごす = trải qua). Sai.",
+          "始まり → sự bắt đầu, không ghép với nơi chốn. Sai.",
+          "生き → không nói 都会生き. Sai."
+        ],
+        "vocab": [
+          { "w": "～育ち", "r": "～そだち", "hv": "DỤC", "vi": "lớn lên ở ~" },
+          { "w": "都会", "r": "とかい", "hv": "ĐÔ HỘI", "vi": "thành phố, đô thị" },
+          { "w": "田舎育ち", "r": "いなかそだち", "hv": "", "vi": "lớn lên ở nông thôn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Hay gặp: 東京生まれの大阪育ち (sinh ra ở Tokyo, lớn lên ở Osaka)."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "（　　）仕事終わったので、休憩しよう。",
+      "options": ["半", "短", "小", "一"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đã xong một phần việc rồi, nghỉ giải lao thôi.",
+        "why": "一仕事 (ひとしごと) = một phần việc (khá vất vả). 一 đọc ひと làm tiền tố: 一休み, 一眠り.",
+        "options": [
+          "半 → はん: một nửa (半日), không nói 半仕事. Sai.",
+          "短 → たん: ngắn (短期間), không nói 短仕事. Sai.",
+          "小 → こ: nhỏ (小雨), không nói 小仕事 trong ngữ cảnh này. Sai.",
+          "一 → 一仕事: một phần việc. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "一仕事", "r": "ひとしごと", "hv": "NHẤT SĨ SỰ", "vi": "một phần việc, một việc" },
+          { "w": "休憩", "r": "きゅうけい", "hv": "HƯU KHẾ", "vi": "nghỉ giải lao" },
+          { "w": "一休み", "r": "ひとやすみ", "hv": "", "vi": "nghỉ một chút" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "一仕事終える = làm xong một việc; một cụm rất tự nhiên trước khi nghỉ."
+      }
+    }
+  ]
+}

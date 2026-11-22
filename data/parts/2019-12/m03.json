@@ -1,0 +1,85 @@
+{
+  "exam": "2019-12",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ (tiền tố/hậu tố) thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "この建物は（　　）町長の時代に建てられたものだ。",
+      "options": ["先", "古", "前", "昔"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tòa nhà này được xây vào thời của thị trưởng tiền nhiệm (thị trưởng trước).",
+        "why": "前＋chức danh (前町長・前社長・前大統領) = người giữ chức đó ngay trước người hiện tại. 前町長 đọc ぜんちょうちょう.",
+        "options": [
+          "先 → 先 + danh từ thời gian (先月, 先週, 先日); không ghép với chức danh theo nghĩa 'tiền nhiệm'. Sai.",
+          "古 → 古〜 (古本, 古新聞) = cũ, đã qua sử dụng. Sai.",
+          "前 → 前町長: thị trưởng tiền nhiệm. ĐÚNG.",
+          "昔 → không dùng làm tiền tố như vậy. Sai."
+        ],
+        "vocab": [
+          { "w": "前町長", "r": "ぜんちょうちょう", "hv": "TIỀN ĐINH TRƯỞNG", "vi": "thị trưởng tiền nhiệm" },
+          { "w": "元〜", "r": "もと〜", "hv": "NGUYÊN", "vi": "cựu ~ (từng giữ chức, không nhất thiết liền trước)" },
+          { "w": "建物", "r": "たてもの", "hv": "KIẾN VẬT", "vi": "tòa nhà" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "前〜 = người tiền nhiệm ngay trước; 元〜 = cựu (từng là); 現〜 = đương nhiệm."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "池田さんには何度も助けてもらっているので、今回は頼み（　　）。",
+      "options": ["づらい", "わるい", "きつい", "よわい"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Vì đã được anh Ikeda giúp đỡ nhiều lần rồi, nên lần này tôi khó mở lời nhờ vả.",
+        "why": "Vます＋づらい = khó làm (về mặt tâm lý, ngại). 頼みづらい = ngại nhờ, khó mở lời nhờ.",
+        "options": [
+          "づらい → Vます＋づらい: khó làm (ngại). ĐÚNG.",
+          "わるい → không ghép sau Vます như vậy. Sai.",
+          "きつい → tính từ độc lập (chật, vất vả), không làm hậu tố. Sai.",
+          "よわい → 弱い: yếu, không làm hậu tố sau Vます. Sai."
+        ],
+        "vocab": [
+          { "w": "〜づらい（辛い）", "r": "づらい", "hv": "TÂN", "vi": "khó làm, ngại làm ~" },
+          { "w": "頼む", "r": "たのむ", "hv": "LẠI", "vi": "nhờ vả" },
+          { "w": "助ける", "r": "たすける", "hv": "TRỢ", "vi": "giúp đỡ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜にくい (khó về khách quan) vs 〜づらい (khó vì ngại, đau, tâm lý). Ví dụ: 言いづらい, 頼みづらい."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "この歌の歌詞は政治（　　）が強いように感じられる。",
+      "options": ["香", "風", "味", "色"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Lời bài hát này dường như mang màu sắc chính trị đậm nét.",
+        "why": "〜色 (しょく) = màu sắc, xu hướng, khuynh hướng. 政治色が強い = mang đậm màu sắc chính trị. Cách nói cố định: 政治色, 地方色, 国際色.",
+        "options": [
+          "香 → không ghép thành 政治香. Sai.",
+          "風 → 〜風 (ふう) = kiểu, phong cách (和風, 洋風); không nói 政治風が強い. Sai.",
+          "味 → 〜味 (み) = có vẻ (人間味, 現実味); không nói 政治味. Sai.",
+          "色 → 政治色: màu sắc chính trị. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "政治色", "r": "せいじしょく", "hv": "CHÍNH TRỊ SẮC", "vi": "màu sắc chính trị" },
+          { "w": "歌詞", "r": "かし", "hv": "CA TỪ", "vi": "lời bài hát" },
+          { "w": "国際色", "r": "こくさいしょく", "hv": "QUỐC TẾ SẮC", "vi": "tính quốc tế, màu sắc quốc tế" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜色が強い/豊か: 政治色が強い, 国際色豊か, 地方色 (sắc thái địa phương)."
+      }
+    }
+  ]
+}

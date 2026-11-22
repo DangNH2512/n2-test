@@ -1,0 +1,163 @@
+{
+  "exam": "2011-12",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn câu sử dụng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "世間",
+      "options": [
+        "この映画は動物の<u>世間</u>を描いた作品だ。",
+        "あの政党は、よりよい<u>世間</u>の実現を目指している。",
+        "田中さんは数学の<u>世間</u>では有名だ。",
+        "その事件は<u>世間</u>の注目を集めた。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vụ việc đó đã thu hút sự chú ý của dư luận (xã hội).",
+        "why": "世間 (せけん) = xã hội, người đời, công chúng nói chung (những người xung quanh mình). 世間の注目を集める = thu hút sự chú ý của dư luận.",
+        "options": [
+          "Nói \"thế giới động vật\" phải dùng 世界 (動物の世界). Sai.",
+          "\"Xã hội tốt đẹp hơn\" (mục tiêu chính trị) phải dùng 社会 (よりよい社会). Sai.",
+          "\"Giới toán học\" phải dùng 世界 hoặc 〜界 (数学の世界／数学界). Sai.",
+          "世間の注目 = sự chú ý của dư luận. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "世間", "r": "せけん", "hv": "THẾ GIAN", "vi": "xã hội, người đời, dư luận" },
+          { "w": "注目", "r": "ちゅうもく", "hv": "CHÚ MỤC", "vi": "chú ý" },
+          { "w": "政党", "r": "せいとう", "hv": "CHÍNH ĐẢNG", "vi": "chính đảng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "世間話 (chuyện phiếm), 世間知らず (không biết sự đời), 世間体 (thể diện)."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "違反",
+      "options": [
+        "ルールに<u>違反</u>して退場になった選手が3人もいる。",
+        "子供のころは皆、親に<u>違反</u>する時期があるものだ。",
+        "彼の意見に<u>違反</u>する人はあまりいなかった。",
+        "見た目がよくないが、予想に<u>違反</u>しておいしかった。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Có tới 3 cầu thủ bị đuổi khỏi sân vì vi phạm luật.",
+        "why": "違反 (いはん) = vi phạm (luật, quy tắc, hợp đồng). ルールに違反する là cách dùng chuẩn.",
+        "options": [
+          "ルールに違反する: vi phạm luật. ĐÚNG.",
+          "Chống đối cha mẹ → 反抗する (親に反抗する). Sai.",
+          "Phản đối ý kiến → 反対する (意見に反対する). Sai.",
+          "Trái với dự đoán → 予想に反して. Sai."
+        ],
+        "vocab": [
+          { "w": "違反", "r": "いはん", "hv": "VI PHẢN", "vi": "vi phạm" },
+          { "w": "退場", "r": "たいじょう", "hv": "THOÁI TRƯỜNG", "vi": "rời sân, bị đuổi" },
+          { "w": "反抗", "r": "はんこう", "hv": "PHẢN KHÁNG", "vi": "chống đối" },
+          { "w": "〜に反して", "r": "にはんして", "hv": "PHẢN", "vi": "trái với ~" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "交通違反, 契約違反, 法律に違反する – đối tượng là luật/quy định."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "質素",
+      "options": [
+        "この文章は<u>質素</u>で、とてもわかりやすい。",
+        "もう少し値段の<u>質素</u>なツアーはありませんか。",
+        "経験は<u>質素</u>でも、やる気がある人を採用したい。",
+        "無駄なものを買わずに、<u>質素</u>な生活を送っている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi sống một cuộc sống giản dị, không mua đồ thừa thãi.",
+        "why": "質素 (しっそ) = giản dị, đạm bạc, tiết kiệm (lối sống, bữa ăn, trang phục). 質素な生活 là collocation chuẩn.",
+        "options": [
+          "Văn ngắn gọn dễ hiểu → 簡潔 (かんけつ). Sai.",
+          "Giá rẻ → 手頃な／安い. Sai.",
+          "Kinh nghiệm ít → 浅い／少ない. Sai.",
+          "質素な生活: cuộc sống giản dị. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "質素", "r": "しっそ", "hv": "CHẤT TỐ", "vi": "giản dị, đạm bạc" },
+          { "w": "簡潔", "r": "かんけつ", "hv": "GIẢN KHIẾT", "vi": "ngắn gọn, súc tích" },
+          { "w": "採用", "r": "さいよう", "hv": "THÁI DỤNG", "vi": "tuyển dụng" },
+          { "w": "無駄", "r": "むだ", "hv": "VÔ ĐÀ", "vi": "lãng phí, vô ích" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "質素 ↔ ぜいたく (xa xỉ), 派手 (lòe loẹt)."
+      }
+    },
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "とっくに",
+      "options": [
+        "この辺には、<u>とっくに</u>大きいお寺があった。",
+        "山田さんなら<u>とっくに</u>帰りましたよ。",
+        "あの時のことを今ごろ謝っても<u>とっくに</u>遅いよ。",
+        "さっきから電話が<u>とっくに</u>鳴りっぱなしだ。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh Yamada thì đã về từ lâu rồi.",
+        "why": "とっくに = đã ~ từ lâu rồi (hành động đã hoàn tất từ sớm), đi với thể た. とっくに帰りました là cách dùng đúng.",
+        "options": [
+          "\"Ngày xưa có ngôi chùa lớn\" → 昔は／かつて. Sai.",
+          "とっくに帰りました: đã về từ lâu. ĐÚNG.",
+          "\"Bây giờ xin lỗi thì đã muộn\" → もう遅い; không nói とっくに遅い. Sai.",
+          "\"Chuông reo liên tục từ nãy\" → ずっと; とっくに không đi với trạng thái đang tiếp diễn. Sai."
+        ],
+        "vocab": [
+          { "w": "とっくに", "r": "とっくに", "hv": "", "vi": "từ lâu rồi, đã sớm" },
+          { "w": "〜っぱなし", "r": "っぱなし", "hv": "", "vi": "để nguyên, liên tục ~" },
+          { "w": "謝る", "r": "あやまる", "hv": "TẠ", "vi": "xin lỗi" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "とっくに＋Vた／とっくの昔に. Gần nghĩa: すでに, もうずっと前に."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "受け入れる",
+      "options": [
+        "チケットのお申し込みは電話で<u>受け入れて</u>います。",
+        "入口でパンフレットを<u>受け入れて</u>から席にお座りください。",
+        "私の大学では毎年大勢の留学生を<u>受け入れて</u>います。",
+        "最新の技術を<u>受け入れた</u>製品について説明してもらいました。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Trường đại học của tôi mỗi năm tiếp nhận rất nhiều du học sinh.",
+        "why": "受け入れる = tiếp nhận (người vào tổ chức), chấp nhận (ý kiến, yêu cầu). 留学生を受け入れる là cách dùng điển hình.",
+        "options": [
+          "Nhận đăng ký qua điện thoại → 受け付ける. Sai.",
+          "Nhận tờ rơi ở cửa → 受け取る. Sai.",
+          "留学生を受け入れる: tiếp nhận du học sinh. ĐÚNG.",
+          "Sản phẩm áp dụng công nghệ mới → 取り入れる. Sai."
+        ],
+        "vocab": [
+          { "w": "受け入れる", "r": "うけいれる", "hv": "THỤ NHẬP", "vi": "tiếp nhận, chấp nhận" },
+          { "w": "受け付ける", "r": "うけつける", "hv": "THỤ PHÓ", "vi": "tiếp nhận (hồ sơ, đăng ký)" },
+          { "w": "受け取る", "r": "うけとる", "hv": "THỤ THỦ", "vi": "nhận (đồ vật)" },
+          { "w": "取り入れる", "r": "とりいれる", "hv": "THỦ NHẬP", "vi": "áp dụng, đưa vào" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Phân biệt nhóm 受け〜: 受け付ける (hồ sơ), 受け取る (đồ vật), 受け入れる (người/ý kiến), 取り入れる (công nghệ/ý tưởng)."
+      }
+    }
+  ]
+}

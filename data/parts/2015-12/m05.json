@@ -1,0 +1,134 @@
+{
+  "exam": "2015-12",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "明日は今日より<u>やや</u>涼しくなると思います。",
+      "options": ["絶対", "もっと", "たぶん", "少し"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi nghĩ ngày mai sẽ mát hơn hôm nay một chút.",
+        "why": "やや = hơi, một chút (văn viết, trang trọng) ≈ 少し.",
+        "options": [
+          "絶対 (ぜったい) → tuyệt đối, chắc chắn. Sai.",
+          "もっと → hơn nữa (mức độ tăng nhiều). Sai.",
+          "たぶん → có lẽ (phỏng đoán). Sai.",
+          "少し (すこし) → một chút. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "やや", "r": "やや", "hv": "", "vi": "hơi, một chút" },
+          { "w": "涼しい", "r": "すずしい", "hv": "LƯƠNG", "vi": "mát mẻ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhóm \"một chút\": やや・わずか・多少・少々 ≈ 少し."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "私はこれくらいの<u>テンポ</u>の曲が歌いやすいと思う。",
+      "options": ["速さ", "長さ", "高さ", "明るさ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi nghĩ những bài hát có nhịp độ cỡ này thì dễ hát.",
+        "why": "テンポ (tempo) = nhịp độ, tốc độ (của nhạc, sự việc) ≈ 速さ.",
+        "options": [
+          "速さ (はやさ) → tốc độ. ĐÚNG.",
+          "長さ (ながさ) → độ dài. Sai.",
+          "高さ (たかさ) → độ cao (cao độ âm). Sai.",
+          "明るさ (あかるさ) → độ sáng, vui tươi. Sai."
+        ],
+        "vocab": [
+          { "w": "テンポ", "r": "テンポ", "hv": "", "vi": "nhịp độ, tempo" },
+          { "w": "速さ", "r": "はやさ", "hv": "TỐC", "vi": "tốc độ" },
+          { "w": "曲", "r": "きょく", "hv": "KHÚC", "vi": "bản nhạc, bài hát" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cũng nói 話のテンポ (nhịp kể chuyện), テンポがいい (nhịp nhanh, cuốn)."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "昨日、<u>妙な</u>話を聞いた。",
+      "options": ["うれしい", "変な", "なつかしい", "嫌な"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hôm qua tôi đã nghe một câu chuyện kỳ lạ.",
+        "why": "妙な (みょうな – DIỆU) = kỳ lạ, khác thường ≈ 変な (へんな).",
+        "options": [
+          "うれしい → vui mừng. Sai.",
+          "変な (へんな) → kỳ quặc, lạ. ĐÚNG.",
+          "なつかしい → hoài niệm, nhớ nhung. Sai.",
+          "嫌な (いやな) → khó chịu, đáng ghét. Sai."
+        ],
+        "vocab": [
+          { "w": "妙な", "r": "みょうな", "hv": "DIỆU", "vi": "kỳ lạ, khác thường" },
+          { "w": "変な", "r": "へんな", "hv": "BIẾN", "vi": "lạ, kỳ quặc" },
+          { "w": "奇妙", "r": "きみょう", "hv": "KỲ DIỆU", "vi": "kỳ quái" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "妙に = một cách kỳ lạ (妙に静かだ). Không nhầm với nghĩa \"tuyệt diệu\" trong 絶妙 (ぜつみょう)."
+      }
+    },
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "高橋さんは、<u>ささやくように</u>話した。",
+      "options": ["急いで", "ゆっくり", "大声で", "小声で"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh Takahashi nói như thể thì thầm.",
+        "why": "ささやく (囁く) = thì thầm, nói nhỏ → ささやくように ≈ 小声で (nói nhỏ).",
+        "options": [
+          "急いで (いそいで) → vội vàng. Sai.",
+          "ゆっくり → chậm rãi. Sai.",
+          "大声で (おおごえで) → nói to. Ngược nghĩa. Sai.",
+          "小声で (こごえで) → nói nhỏ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "ささやく（囁く）", "r": "ささやく", "hv": "NHIẾP", "vi": "thì thầm" },
+          { "w": "小声", "r": "こごえ", "hv": "TIỂU THANH", "vi": "giọng nhỏ" },
+          { "w": "大声", "r": "おおごえ", "hv": "ĐẠI THANH", "vi": "giọng to" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhóm động từ nói: ささやく (thì thầm), つぶやく (lẩm bẩm), 叫ぶ (さけぶ – hét)."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "鈴木氏は、<u>かつて</u>フランスに住んでいた。",
+      "options": ["確か", "主に", "以前", "しばらく"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Ông Suzuki trước đây từng sống ở Pháp.",
+        "why": "かつて (嘗て) = trước đây, đã từng (trong quá khứ) ≈ 以前 (いぜん).",
+        "options": [
+          "確か (たしか) → hình như, nếu tôi nhớ không lầm. Sai.",
+          "主に (おもに) → chủ yếu. Sai.",
+          "以前 (いぜん) → trước đây. ĐÚNG.",
+          "しばらく → một thời gian, một lúc. Sai."
+        ],
+        "vocab": [
+          { "w": "かつて", "r": "かつて", "hv": "", "vi": "trước đây, đã từng" },
+          { "w": "以前", "r": "いぜん", "hv": "DĨ TIỀN", "vi": "trước đây" },
+          { "w": "〜氏", "r": "し", "hv": "THỊ", "vi": "ông/bà ~ (trang trọng)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "かつてない = chưa từng có (かつてない大きな地震)."
+      }
+    }
+  ]
+}

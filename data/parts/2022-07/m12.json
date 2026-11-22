@@ -1,0 +1,83 @@
+{
+  "exam": "2022-07",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B rồi chọn câu trả lời đúng nhất (đọc so sánh).",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "感謝の手紙を書くとき、どうしたら相手に自分の思いをうまく伝えられるだろうか。手紙というと、始まりや終わりの決まり文句など、形式的な表現や文を使わなければならないと思われがちだ。そのような表現や文を使うことは、確かに表面上は相手のことを大切に考えているような印象を与えるが、実は失礼にならないように自分を飾っているだけなのではないか。\n思いを伝えるには、手紙を読んだ相手の気持ちを想像することが大事になる。そのうえで、形式的な表現や文を使わずに自分の言葉で書けば、思いが相手の心にまっすぐ届く。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "感謝の思いは、手紙で伝えるのがいいと思う。ふだんとは違う丁寧に書かれた文章から、真剣な気持ちが伝わるからだ。手紙で思いを伝えるには、始まりや終わりの決まり文句など、形式的な表現や文を、正しく理解して使ったほうがいい。相手と自分との関係に合わせて適切に使い、相手が読んでどう感じるかもよく考えながら書くことが重要だ。\n手紙は個人的なものだから、どのように書いても自由だと思うかもしれない。しかし、形式的な表現や文を正しく使い、礼儀正しい印象を持ってもらうことで、自分が伝えたいこともしっかり伝わるものだ。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 65,
+      "passage": "AB",
+      "stem": "感謝の手紙を書く際に形式的な表現や文を使うことについて、AとBはどのように述べているか。",
+      "options": [
+        "AもBも、礼儀正しすぎる印象を与えるのであまり使わないほうがいいと述べている。",
+        "AもBも、自分の思いをきちんと伝えるためにできるだけ使ったほうがいいと述べている。",
+        "Aは自分をよく見せようとしているだけなので使わないほうがいいと述べ、Bは使い方を理解してうまく使ったほうがいいと述べている。",
+        "Aは正しく使うのは難しいので使わないほうがいいと述べ、Bは真剣な気持ちが伝わるので使ったほうがいいと述べている。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về việc dùng các cách diễn đạt mang tính khuôn mẫu khi viết thư cảm ơn, A và B nói thế nào? → A cho rằng đó chỉ là cố tô vẽ bản thân nên không nên dùng; B cho rằng nên hiểu cách dùng và dùng khéo léo.",
+        "why": "A: dùng câu khuôn mẫu thực ra chỉ là \"tô vẽ bản thân để khỏi thất lễ\" → hãy viết bằng lời của mình, không dùng khuôn mẫu. B: nên hiểu đúng và dùng các câu khuôn mẫu phù hợp với quan hệ.",
+        "options": [
+          "B ủng hộ dùng khuôn mẫu; A không nói lý do \"quá lịch sự\". Sai.",
+          "A phản đối dùng khuôn mẫu. Sai.",
+          "A: chỉ là tô vẽ bản thân → không dùng; B: hiểu và dùng đúng. ĐÚNG.",
+          "A không nói lý do là \"khó dùng đúng\"; B nói \"chân thành truyền tải\" là nhờ văn viết cẩn thận nói chung, ý chính về khuôn mẫu là \"hiểu đúng và dùng\". Sai."
+        ],
+        "vocab": [
+          { "w": "決まり文句", "r": "きまりもんく", "hv": "QUYẾT VĂN CÚ", "vi": "câu nói khuôn mẫu, câu cửa miệng" },
+          { "w": "形式的", "r": "けいしきてき", "hv": "HÌNH THỨC ĐÍCH", "vi": "mang tính hình thức, khuôn mẫu" },
+          { "w": "飾る", "r": "かざる", "hv": "SỨC", "vi": "trang trí, tô vẽ" },
+          { "w": "礼儀正しい", "r": "れいぎただしい", "hv": "LỄ NGHI CHÍNH", "vi": "lễ phép, lịch sự" }
+        ],
+        "grammar": null,
+        "evidence": "A：実は失礼にならないように自分を飾っているだけなのではないか。…形式的な表現や文を使わずに自分の言葉で書けば、思いが相手の心にまっすぐ届く。\nB：形式的な表現や文を、正しく理解して使ったほうがいい。",
+        "tip": "自分を飾っている = 自分をよく見せようとしている (paraphrase)."
+      }
+    },
+    {
+      "num": 66,
+      "passage": "AB",
+      "stem": "感謝の手紙を書く上で、AとBが共通して大切だと述べていることは何か。",
+      "options": [
+        "自分の思いを自由に表現すること。",
+        "自分らしい文章にすること。",
+        "相手との関係に合わせて書き方を変えること。",
+        "相手の気持ちを考えて書くこと。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Khi viết thư cảm ơn, điều mà cả A và B cùng cho là quan trọng là gì? → Viết có suy nghĩ đến cảm xúc của người nhận.",
+        "why": "A: \"tưởng tượng cảm xúc của người đọc thư là quan trọng\". B: \"vừa viết vừa nghĩ kỹ người đọc sẽ cảm thấy thế nào là quan trọng\" → điểm chung: nghĩ đến cảm xúc người nhận.",
+        "options": [
+          "Chỉ gần với A; B không đề cao tự do, còn phản bác \"viết sao cũng được\". Sai.",
+          "Chỉ A (viết bằng lời của mình); B không nói. Sai.",
+          "Chỉ B nói điều chỉnh theo quan hệ; A không nói. Sai.",
+          "Cả hai: nghĩ đến cảm xúc người nhận. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "感謝", "r": "かんしゃ", "hv": "CẢM TẠ", "vi": "cảm ơn, biết ơn" },
+          { "w": "想像", "r": "そうぞう", "hv": "TƯỞNG TƯỢNG", "vi": "tưởng tượng" },
+          { "w": "共通", "r": "きょうつう", "hv": "CỘNG THÔNG", "vi": "chung" },
+          { "w": "適切", "r": "てきせつ", "hv": "THÍCH THIẾT", "vi": "thích hợp" }
+        ],
+        "grammar": null,
+        "evidence": "A：思いを伝えるには、手紙を読んだ相手の気持ちを想像することが大事になる。\nB：相手が読んでどう感じるかもよく考えながら書くことが重要だ。",
+        "tip": "Câu hỏi \"共通\" → tìm ý xuất hiện ở CẢ HAI bài; loại các ý chỉ một bên nói."
+      }
+    }
+  ]
+}

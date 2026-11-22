@@ -1,0 +1,309 @@
+{
+  "exam": "2024-07",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（1）から（4）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(4) và chọn câu trả lời đúng nhất cho mỗi câu hỏi (đoạn văn trung bình).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "ほとんどの人が、スマホやタブレット（注1）を通して、大量のSNSやネットニュース（注2）を毎日見ていることでしょう。多くの人がその膨大な情報を読むことあるいは見ることに、かなりの時間を費やして（注3）いて、ネット上の情報に追われている印象すら受けます。その結果、じっくり考える時間がどんどん少なくなっているようにも感じられます。\nまた、大量の情報がネット上に流されるようになった結果、自分に都合の良い情報にしか接しない人が増えてきています。技術革新（注4）のおかげではあるのですが、SNSやネットニュースでは、その人の履歴（注5）から判断して、その人が関心を持っていると思われる情報やニュースが目につくところに流れるような工夫がされています。\n<u>このような工夫</u>はとても便利なことで、それによって時間が節約できたりする面は確かにあります。（中略）\nしかし、人々が見たいものだけを見て、信じている情報だけに接すると、発想が固定化してしまい、新しい進化が生まれにくくなってしまいます。また、思想的にも偏りのある考えが生まれやすくなってしまいます。\nそう考えると、この大量情報社会においては、いかに（注6）うまく情報を処理していくかがとても大事なことがわかります。また、大量の情報を、一部だけ最初から抜き出して把握する（注7）のではなく、偏りがない形で、大量に処理することも必要です。\n\n（注1）スマホやタブレット：コンピューターの機能を持った小型の電子機器類\n（注2）SNSやネットニュース：ここでは、インターネット上でやり取りされる情報やニュース\n（注3）費やす：使う\n（注4）技術革新：技術の進歩\n（注5）履歴：ここでは、インターネット上の情報の閲覧の記録\n（注6）いかに：どのように\n（注7）把握する：理解する"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "勉強にしても、仕事にしても、その能率には必ず波があり、それがないようにみえても、波が小さいだけである。つまり、人間は機械のようにいつも同じ調子ではたらいてはいないから、1時間に50個の製品がつくれるから、10時間で500個がつくれる、という具合には計算できない。従って、脳が最も快調にはたらいているときを基準にすると、たいていのときは不調ということになってしまう。\nそれでも、全く無計画に勉強や仕事をするわけにもゆかないので、一応はスケジュールを立てる。その際に、快調に脳がはたらいているときの能率を基準にしてスケジュールを立てれば、そのスケジュールの通りにことが進行することは絶対にないといってもいい。その度に、自分の才能に失望していれば、失望しつづけることになる。さし迫った（注1）難しい状態では、どうしても脳がフル回転して（注2）いるときを基準にスケジュールを組むので、たいていは不完全な形で終わってしまう。スケジュールをつくるときには、せめて中等度に脳がはたらいているときの能率を基準にする必要がある。スケジュール以上にはかどっても（注3）誰もこまる人はいない。\nそして、スケジュールにこだわるよりは、脳の変動の波をできるだけ感じとり、能率が悪くても悲観（注4）せずに、必ず上げ潮のとき（注5）がくることを期待すればいい。そして、上げ潮のときには自分でもおどろくほどに能率が上がるので、そのときに一気に遅れをとり戻せばいいのである。\n\n（注1）さし迫った：ここでは、時間に余裕がない\n（注2）フル回転する：ここでは、最もはたらく\n（注3）はかどる：順調に進む\n（注4）悲観する：悲しむ\n（注5）上げ潮のとき：調子が上向きになるとき"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "お祭りの日は町の雰囲気が一変（注1）して、ふだんひっそりとしている町並み（注2）がいきいきとしています。そんな町の様子を「祭りがある町」として撮る。神社の境内（注3）で行われるような祭りであれば、「神社」の風景として撮る。というふうに少し視点を周辺にずらしてみると単なる祭り写真ではない写真に出会えます。祭りの中から自分だけの祭りを探し出すことができるかどうか。写真を見た人から、こういう祭りの見方もあるんだねと言われるような写真が撮れたら「祭りの写真」ではなく<u>写真として内容のあるもの</u>になると思います。\n（中略）\n「もう何年もかけて撮ってるんだけど、いい写真が撮れなくてね」とぼやく（注4）人がいますが、そういう人は頭の中で思い描いた「上手い写真」の構図（注5）から離れることができずにいて、すでにいろいろと見慣れている同じような画像を撮らされるだけだからなのです。\nねらった被写体（注6）を自分のものにするのだと独占する強引さがないと、被写体が刺激的であるほどその場にふりまわされてしまいます。祭りなら激しい動きに、絶景（注7）なら色彩にのみこまれて被写体に撮らされているみたいになる。\n被写体に撮らされてしまうような写真は、結局その場の説明でしかない。表現としての写真は自分だけの写真を撮ることになるわけで、それはフィクションでもあるのですから、つねに「私はこう見た」「私はこう撮った」を撮るのです。\n\n（注1）一変する：すっかり変わる\n（注2）町並み：ここでは、町の様子\n（注3）境内：ここでは、敷地内\n（注4）ぼやく：不満を言う\n（注5）構図：画面の構成\n（注6）被写体：写真に撮る対象\n（注7）絶景：素晴らしい景色"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "何事もそうですが、「できる人」は応用がききます。接客が完全にマニュアル化されているファーストフード店に行っても、やはりスタッフの差は出ます。たまたま時間のかかるメニューを頼んでしまった際の事前説明、セットメニューに関する質問への対応など、ちょっと注意して観察してみると、頭の回転と表現力の差は随所（注1）に表れてきます。\n（中略）\nもっと高度な判断を求められる仕事の現場はどうでしょう。どんな仕事にも、マニュアルもしくは（注2）マニュアルに類するような規準があります。その中で「できる人」は、それぞれの仕事にあるマニュアル的なものを咀嚼（注3）して状況に対応します。これがまさに「仕事力の差」につながります。\n簡単に言えば、「できる人」は勝手に自分で応用してしまうのです。それは本人にとっては良いことであり、暴走（注4）による失敗は別として、お客にとっても会社や店にとってもプラスに作用することが多いと思います。\nしかし今度は人を率いる（注5）立場になり、多くの人を育てる番になったとき、今まで意識しなかった壁に突き当たることがあります。\n自分が自然とやってきたことを、なかなかできない人がたくさんいるという事実。これを頭では理解しても、なかなか感覚でキャッチ（注6）できません。そのため部下への指導が、「マニュアルを越えたものが見えている人の世界」で行われてしまうのです。ところが指導される側は「見えていない世界」の住人ですから、うまく受け取ることができないのは当然です。\n\n（注1）随所：いろいろなところ\n（注2）もしくは：または\n（注3）咀嚼する：十分に理解する\n（注4）暴走：ここでは、周囲の状況を考えないでやること\n（注5）率いる：ここでは、指導する\n（注6）キャッチする：受け取る"
+    }
+  ],
+  "questions": [
+    {
+      "num": 57,
+      "passage": "p1",
+      "stem": "<u>このような工夫</u>とはどのようなことか。",
+      "options": [
+        "情報を要約して、短時間で大量に見られるようにすること。",
+        "多くの人が関心を持っている情報を優先的に流すこと。",
+        "見る人が自分では探せない情報を選んで、提供すること。",
+        "見る人の興味の傾向に合わせて、情報を提供すること。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "\"Sự cải tiến như thế này\" là gì? → Cung cấp thông tin phù hợp với xu hướng sở thích của người xem.",
+        "why": "このような工夫 chỉ câu ngay trước: dựa vào lịch sử duyệt web của từng người để hiện thông tin mà người đó có vẻ quan tâm → cung cấp theo sở thích cá nhân.",
+        "options": [
+          "Bài không nói về việc tóm tắt thông tin. Sai.",
+          "Không phải thông tin \"nhiều người\" quan tâm, mà thông tin \"người đó\" quan tâm. Sai.",
+          "Ngược lại: đưa thông tin người đó vốn thích, không phải thông tin họ không tự tìm được. Sai.",
+          "Cung cấp theo xu hướng quan tâm của người xem (dựa vào 履歴). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "工夫", "r": "くふう", "hv": "CÔNG PHU", "vi": "sự sáng tạo, cải tiến, bố trí khéo" },
+          { "w": "履歴", "r": "りれき", "hv": "LÝ LỊCH", "vi": "lịch sử (duyệt web), lý lịch" },
+          { "w": "関心", "r": "かんしん", "hv": "QUAN TÂM", "vi": "sự quan tâm" },
+          { "w": "傾向", "r": "けいこう", "hv": "KHUYNH HƯỚNG", "vi": "khuynh hướng" }
+        ],
+        "grammar": null,
+        "evidence": "SNSやネットニュースでは、その人の履歴から判断して、その人が関心を持っていると思われる情報やニュースが目につくところに流れるような工夫がされています。",
+        "tip": "Câu hỏi về từ chỉ thị (この・その) → tìm ở câu ngay phía trước."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p1",
+      "stem": "大量情報社会について、筆者の考えに合うのはどれか。",
+      "options": [
+        "発想が固定化しないように、大量の情報を工夫して処理しなければならない。",
+        "思想的に偏りのある考えでも、工夫してうまく処理しなければならない。",
+        "必要な情報を選ぶために、大量の情報をうまく処理しなければならない。",
+        "時間がかかっても、偏りなく大量の情報を処理しなければならない。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về xã hội thông tin khổng lồ, điều nào phù hợp với suy nghĩ của tác giả? → Phải xử lý khéo léo lượng thông tin lớn để tư duy không bị cứng nhắc.",
+        "why": "Tác giả lo rằng chỉ tiếp xúc thông tin mình muốn thì 発想が固定化; vì vậy 「いかにうまく情報を処理していくかがとても大事」 → xử lý khéo để tránh tư duy cố định → 1.",
+        "options": [
+          "Xử lý khéo để tư duy không bị cố định. ĐÚNG.",
+          "Tác giả không nói phải xử lý \"tư tưởng thiên lệch\"; thiên lệch là hậu quả cần tránh. Sai.",
+          "Tác giả phản đối việc chỉ chọn lọc một phần (一部だけ抜き出して把握するのではなく). Sai.",
+          "\"Dù tốn thời gian\" không có trong bài. Sai."
+        ],
+        "vocab": [
+          { "w": "発想", "r": "はっそう", "hv": "PHÁT TƯỞNG", "vi": "ý tưởng, cách nghĩ" },
+          { "w": "固定化", "r": "こていか", "hv": "CỐ ĐỊNH HÓA", "vi": "cố định hóa, cứng nhắc" },
+          { "w": "偏り", "r": "かたより", "hv": "THIÊN", "vi": "sự thiên lệch" },
+          { "w": "処理", "r": "しょり", "hv": "XỬ LÝ", "vi": "xử lý" }
+        ],
+        "grammar": {
+          "pattern": "いかに〜か",
+          "meaning": "làm thế nào để ~ (nhấn mạnh cách thức)",
+          "form": "いかに + V/Adj + か",
+          "example": "いかに時間を有効に使うかが大切だ。"
+        },
+        "evidence": "人々が見たいものだけを見て、信じている情報だけに接すると、発想が固定化してしまい、…そう考えると、この大量情報社会においては、いかにうまく情報を処理していくかがとても大事なことがわかります。",
+        "tip": "Trong đề in câu hỏi ghi 「大量情報会社」, rõ ràng là lỗi in của 「大量情報社会」."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p2",
+      "stem": "筆者によると、スケジュールを立てる際の注意点は何か。",
+      "options": [
+        "脳の調子がいいときを基準にしない。",
+        "いつも脳が同じ調子ではたらけるようにする。",
+        "能率の変化を考えすぎない。",
+        "能率が悪くなったときに変更できるようにしておく。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, điều cần lưu ý khi lập kế hoạch là gì? → Đừng lấy lúc não hoạt động tốt nhất làm chuẩn.",
+        "why": "Nếu lấy lúc não chạy tốt làm chuẩn thì kế hoạch \"tuyệt đối không bao giờ\" theo đúng được; nên lấy mức \"trung bình\" làm chuẩn → không dựa vào lúc tốt nhất.",
+        "options": [
+          "Không lấy lúc não tốt nhất làm chuẩn. ĐÚNG.",
+          "Tác giả nói con người không thể luôn cùng một nhịp như máy. Sai.",
+          "Tác giả khuyên cảm nhận dao động, không phải \"đừng nghĩ nhiều\". Sai.",
+          "Không đề cập việc chỉnh sửa lịch khi hiệu suất kém. Sai."
+        ],
+        "vocab": [
+          { "w": "能率", "r": "のうりつ", "hv": "NĂNG SUẤT", "vi": "hiệu suất" },
+          { "w": "基準", "r": "きじゅん", "hv": "CƠ CHUẨN", "vi": "tiêu chuẩn, mốc" },
+          { "w": "快調", "r": "かいちょう", "hv": "KHOÁI ĐIỀU", "vi": "suôn sẻ, phong độ tốt" },
+          { "w": "中等度", "r": "ちゅうとうど", "hv": "TRUNG ĐẲNG ĐỘ", "vi": "mức trung bình" }
+        ],
+        "grammar": {
+          "pattern": "せめて〜",
+          "meaning": "ít nhất thì cũng ~",
+          "form": "せめて + N/V",
+          "example": "せめて一日一回は連絡してほしい。"
+        },
+        "evidence": "快調に脳がはたらいているときの能率を基準にしてスケジュールを立てれば、そのスケジュールの通りにことが進行することは絶対にないといってもいい。…スケジュールをつくるときには、せめて中等度に脳がはたらいているときの能率を基準にする必要がある。",
+        "tip": "〜必要がある là dấu hiệu lời khuyên trực tiếp của tác giả."
+      }
+    },
+    {
+      "num": 60,
+      "passage": "p2",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "能率を上げるためには、脳の状態をコントロールするといい。",
+        "脳の変動の波に合わせて勉強や仕事を進められる方法を探すといい。",
+        "計画の通りに行かなくても失望せずに、脳の調子が上がるのを待てばいい。",
+        "計画の通りに勉強や仕事を進めるために、脳の変動の波を小さくすればいい。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Dù không theo đúng kế hoạch cũng đừng thất vọng, cứ chờ lúc não lên phong độ.",
+        "why": "Đoạn cuối: đừng bi quan khi hiệu suất kém, hãy chờ \"lúc thủy triều lên\" (phong độ tăng) rồi lấy lại tiến độ một mạch → 3.",
+        "options": [
+          "Tác giả không nói kiểm soát trạng thái não. Sai.",
+          "Không nói \"tìm phương pháp\"; chỉ bảo cảm nhận và chờ đợi. Sai.",
+          "Không thất vọng, chờ phong độ lên. ĐÚNG.",
+          "Tác giả cho rằng dao động là tự nhiên, không bảo làm nhỏ nó; còn khuyên không nên câu nệ kế hoạch. Sai."
+        ],
+        "vocab": [
+          { "w": "変動", "r": "へんどう", "hv": "BIẾN ĐỘNG", "vi": "biến động, dao động" },
+          { "w": "悲観", "r": "ひかん", "hv": "BI QUAN", "vi": "bi quan" },
+          { "w": "失望", "r": "しつぼう", "hv": "THẤT VỌNG", "vi": "thất vọng" },
+          { "w": "取り戻す", "r": "とりもどす", "hv": "THỦ LỆ", "vi": "lấy lại" }
+        ],
+        "grammar": {
+          "pattern": "〜よりは",
+          "meaning": "thay vì ~ thì (nên…)",
+          "form": "V辞書形 + よりは",
+          "example": "悩んでいるよりは、行動したほうがいい。"
+        },
+        "evidence": "スケジュールにこだわるよりは、脳の変動の波をできるだけ感じとり、能率が悪くても悲観せずに、必ず上げ潮のときがくることを期待すればいい。",
+        "tip": "Câu kết 〜ばいいのである là chủ trương của tác giả."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p3",
+      "stem": "<u>写真として内容のあるもの</u>とはどのようなものか。",
+      "options": [
+        "祭りの風景から町の人の様子が分かるような写真。",
+        "祭りに対する撮る人自身の見方が感じられる写真。",
+        "見る人にとって祭り独特の魅力が感じられる写真。",
+        "撮る人自身の祭りに対する情熱が伝わってくる写真。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "\"Bức ảnh có nội dung xét về mặt nhiếp ảnh\" là bức ảnh như thế nào? → Bức ảnh cảm nhận được góc nhìn riêng của người chụp về lễ hội.",
+        "why": "Ngay trước đó: tìm ra \"lễ hội của riêng mình\", chụp được ảnh khiến người xem nói \"hóa ra cũng có cách nhìn lễ hội như thế này\" → ảnh thể hiện cách nhìn riêng của người chụp.",
+        "options": [
+          "\"Hiểu được dáng vẻ người dân\" chỉ là một ví dụ về đổi góc nhìn, không phải định nghĩa. Sai.",
+          "Cảm nhận được cách nhìn riêng của người chụp. ĐÚNG.",
+          "Không phải sức hút đặc trưng của lễ hội, mà là góc nhìn cá nhân. Sai.",
+          "Bài nói về \"cách nhìn\" (見方), không phải \"nhiệt huyết\" (情熱). Sai."
+        ],
+        "vocab": [
+          { "w": "視点", "r": "してん", "hv": "THỊ ĐIỂM", "vi": "góc nhìn" },
+          { "w": "見方", "r": "みかた", "hv": "KIẾN PHƯƠNG", "vi": "cách nhìn" },
+          { "w": "一変", "r": "いっぺん", "hv": "NHẤT BIẾN", "vi": "thay đổi hoàn toàn" },
+          { "w": "単なる", "r": "たんなる", "hv": "ĐƠN", "vi": "đơn thuần" }
+        ],
+        "grammar": null,
+        "evidence": "祭りの中から自分だけの祭りを探し出すことができるかどうか。写真を見た人から、こういう祭りの見方もあるんだねと言われるような写真が撮れたら「祭りの写真」ではなく写真として内容のあるものになると思います。",
+        "tip": "Chữ khóa: 自分だけの・見方 → đáp án có 撮る人自身の見方."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p3",
+      "stem": "写真を撮ることについて、筆者が言いたいことは何か。",
+      "options": [
+        "上手い写真を撮ろうと思っても撮れるものではない。",
+        "上手い写真が撮れるまで、自分の撮り方を続けるべきだ。",
+        "自分だけの写真を撮るには、刺激的な対象を探し出すべきだ。",
+        "自分にしか表現できないものを撮るという気持ちで撮るべきだ。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Về việc chụp ảnh, điều tác giả muốn nói là gì? → Nên chụp với tâm thế chụp thứ chỉ mình mới thể hiện được.",
+        "why": "Kết luận: ảnh như một sự biểu đạt là chụp \"ảnh của riêng mình\", luôn chụp \"tôi đã nhìn thế này, tôi đã chụp thế này\" → 4.",
+        "options": [
+          "Tác giả phê phán việc bám vào hình mẫu \"ảnh đẹp\", không nói \"muốn chụp đẹp cũng không được\". Sai.",
+          "Không khuyên kiên trì cách chụp cũ cho đến khi đẹp. Sai.",
+          "Đối tượng càng kích thích càng dễ bị cuốn theo – tác giả không khuyên tìm đối tượng kích thích. Sai.",
+          "Chụp với tinh thần thể hiện cái chỉ mình có. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "被写体", "r": "ひしゃたい", "hv": "BỊ TẢ THỂ", "vi": "đối tượng chụp ảnh" },
+          { "w": "構図", "r": "こうず", "hv": "CẤU ĐỒ", "vi": "bố cục" },
+          { "w": "表現", "r": "ひょうげん", "hv": "BIỂU HIỆN", "vi": "biểu đạt, thể hiện" },
+          { "w": "独占", "r": "どくせん", "hv": "ĐỘC CHIẾM", "vi": "độc chiếm" }
+        ],
+        "grammar": {
+          "pattern": "〜でしかない",
+          "meaning": "chẳng qua chỉ là ~",
+          "form": "N + でしかない",
+          "example": "それは言い訳でしかない。"
+        },
+        "evidence": "表現としての写真は自分だけの写真を撮ることになるわけで、それはフィクションでもあるのですから、つねに「私はこう見た」「私はこう撮った」を撮るのです。",
+        "tip": "Đoạn cuối bài thường chứa thông điệp chính (câu hỏi 言いたいこと)."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p4",
+      "stem": "筆者によると、「できる人」とはどのような人か。",
+      "options": [
+        "マニュアルの問題点を見つけて改善できる人",
+        "マニュアルをよく理解し、マニュアルどおりに対応できる人",
+        "マニュアルをよく理解したうえで、自分が置かれた状況に対応できる人",
+        "マニュアルがなくても、自分のやり方で状況に対応できる人"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Theo tác giả, \"người giỏi việc\" là người như thế nào? → Người hiểu kỹ sổ tay hướng dẫn rồi ứng phó được với tình huống của mình.",
+        "why": "「できる人」は…マニュアル的なものを咀嚼して（＝十分に理解して）状況に対応します → hiểu kỹ manual rồi ứng biến theo tình huống → 3.",
+        "options": [
+          "Không nói tìm lỗi và cải tiến manual. Sai.",
+          "Không phải làm \"đúng như manual\", mà vận dụng vượt manual. Sai.",
+          "Hiểu kỹ manual rồi ứng phó theo tình huống. ĐÚNG.",
+          "Không phải \"không cần manual\"; họ hiểu manual rồi mới ứng dụng. Sai."
+        ],
+        "vocab": [
+          { "w": "応用", "r": "おうよう", "hv": "ỨNG DỤNG", "vi": "ứng dụng, vận dụng" },
+          { "w": "咀嚼", "r": "そしゃく", "hv": "TƯ TƯỚC", "vi": "nhai; hiểu thấu" },
+          { "w": "接客", "r": "せっきゃく", "hv": "TIẾP KHÁCH", "vi": "tiếp khách" },
+          { "w": "対応", "r": "たいおう", "hv": "ĐỐI ỨNG", "vi": "ứng phó, đối ứng" }
+        ],
+        "grammar": {
+          "pattern": "〜たうえで",
+          "meaning": "sau khi ~ (làm cơ sở) rồi mới…",
+          "form": "Vた + うえで",
+          "example": "よく考えたうえで決めてください。"
+        },
+        "evidence": "その中で「できる人」は、それぞれの仕事にあるマニュアル的なものを咀嚼して状況に対応します。",
+        "tip": "Đọc chú thích (注3 咀嚼する：十分に理解する) để nối với đáp án よく理解したうえで."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p4",
+      "stem": "筆者によると、「できる人」が人を育てるときに問題になることは何か。",
+      "options": [
+        "マニュアルを使わないで、自分の好きなように説明してしまうこと",
+        "自分ができることは説明できても、できないことはうまく説明できないこと",
+        "自分ができることだけでなく、できないことまで、相手に期待してしまうこと",
+        "自分にはできることでも、それをできない人もいることが実感できないこと"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, vấn đề khi \"người giỏi việc\" đào tạo người khác là gì? → Không cảm nhận được thực tế rằng có người không làm được điều mà mình làm được.",
+        "why": "「自分が自然とやってきたことを、なかなかできない人がたくさんいるという事実。これを頭では理解しても、なかなか感覚でキャッチできません」 → hiểu bằng đầu nhưng không cảm nhận được → 4.",
+        "options": [
+          "Bài không nói họ giải thích tùy thích, bỏ manual. Sai.",
+          "Không nói về việc giải thích điều bản thân không làm được. Sai.",
+          "Không nói kỳ vọng cả điều bản thân không làm được. Sai.",
+          "Không thực cảm được rằng có người không làm được việc mình làm được. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "率いる", "r": "ひきいる", "hv": "SUẤT", "vi": "dẫn dắt, lãnh đạo" },
+          { "w": "突き当たる", "r": "つきあたる", "hv": "ĐỘT ĐƯƠNG", "vi": "đụng phải, vấp phải" },
+          { "w": "実感", "r": "じっかん", "hv": "THỰC CẢM", "vi": "cảm nhận thực tế" },
+          { "w": "指導", "r": "しどう", "hv": "CHỈ ĐẠO", "vi": "hướng dẫn, chỉ đạo" }
+        ],
+        "grammar": {
+          "pattern": "〜ても、なかなか〜ない",
+          "meaning": "dù ~ nhưng mãi vẫn không ~",
+          "form": "Vても + なかなか + Vない",
+          "example": "頭ではわかっても、なかなか実行できない。"
+        },
+        "evidence": "自分が自然とやってきたことを、なかなかできない人がたくさんいるという事実。これを頭では理解しても、なかなか感覚でキャッチできません。",
+        "tip": "感覚でキャッチできない ≈ 実感できない (paraphrase thường gặp)."
+      }
+    }
+  ]
+}

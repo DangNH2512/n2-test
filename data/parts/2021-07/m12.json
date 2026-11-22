@@ -1,0 +1,83 @@
+{
+  "exam": "2021-07",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B, chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "子供に特定のスポーツを習わせる家庭は多い。早くから一つのスポーツを集中的に練習させることで、子供の才能を伸ばしたいという親の気持ちは理解できるが、子供の体への負担が大きいことが心配だ。同じ動きを繰り返し練習することになり、けがをしやすくなるからだ。まだ成長の途中の子供にとってまず必要なのは、さまざまなスポーツを通して、多様な動きを身につけることではないだろうか。得意な動きも苦手な動きも行うことによって、全身の運動能力をバランスよく向上させられる。専門的な技術の習得は、そのあとでも遅くはないのだ。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "体力をつけるために、子供にスポーツを習わせるのはいいことだ。ただ、幼いうちから特定のスポーツだけを習わせることには問題があると思う。幼い子供は、何が好きか、何がしたいのか、分からないことが多いので、親の決めたスポーツを習い始めることになる。その結果、興味が持てなくてすぐにやめたり、いやいや練習を続けることになって、スポーツが嫌いになってしまったりすることがあるのだ。そのため、幼いうちは、一つのスポーツに絞るのではなく、多くのスポーツを経験させて、スポーツの楽しさを教えることが大切だ。さらに、いろいろなスポーツをすることで、全身を動かし、基礎的な運動能力を身につけることができる。これは、将来本格的にスポーツをしようと思ったときに必ず役立つはずだ。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 66,
+      "passage": "AB",
+      "stem": "幼い子供に特定のスポーツを習わせることについて、AとBはどのように述べているか。",
+      "options": [
+        "AもBも、子供の才能を伸ばすことができるので賛成だと述べている。",
+        "AもBも、子供の希望ではないことが多いので反対だと述べている。",
+        "Aは子供の健康に悪影響を与えるので反対だと述べ、Bは体力が向上するので賛成だと述べている。",
+        "Aはけがにつながる恐れがあるので反対だと述べ、Bはスポーツが嫌いになる可能性があるので反対だと述べている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "A và B nói gì về việc cho trẻ nhỏ học một môn thể thao cụ thể? → A phản đối vì có nguy cơ dẫn đến chấn thương, B phản đối vì trẻ có thể trở nên ghét thể thao.",
+        "why": "A lo ngại gánh nặng cho cơ thể: luyện cùng một động tác lặp lại dễ chấn thương. B cho rằng trẻ học môn bố mẹ chọn, không hứng thú, phải tập miễn cưỡng → ghét thể thao. Cả hai đều phản đối, nhưng lý do khác nhau.",
+        "options": [
+          "Cả hai tán thành vì phát triển tài năng → cả hai đều phản đối. Sai.",
+          "Cả hai phản đối vì thường không phải mong muốn của trẻ → đó chỉ là lý do của B; A nói về chấn thương. Sai.",
+          "A phản đối, B tán thành vì tăng thể lực → B tán thành cho trẻ chơi thể thao nói chung, nhưng phản đối chỉ học một môn. Sai.",
+          "A phản đối vì nguy cơ chấn thương, B phản đối vì có thể ghét thể thao. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "特定", "r": "とくてい", "hv": "ĐẶC ĐỊNH", "vi": "đặc định, cụ thể" },
+          { "w": "負担", "r": "ふたん", "hv": "PHỤ ĐẢM", "vi": "gánh nặng" },
+          { "w": "いやいや", "r": "いやいや", "hv": "", "vi": "miễn cưỡng, bất đắc dĩ" },
+          { "w": "恐れ", "r": "おそれ", "hv": "KHỦNG", "vi": "nguy cơ, e ngại" }
+        ],
+        "grammar": null,
+        "evidence": "A：子供の体への負担が大きいことが心配だ。同じ動きを繰り返し練習することになり、けがをしやすくなるからだ。／B：幼いうちから特定のスポーツだけを習わせることには問題があると思う。…スポーツが嫌いになってしまったりすることがあるのだ。",
+        "tip": "B mở đầu bằng いいことだ nhưng ngay sau là ただ (tuy nhiên) → ý chính nằm sau ただ."
+      }
+    },
+    {
+      "num": 67,
+      "passage": "AB",
+      "stem": "子供にスポーツを習わせるときに、AとBが共通して大切だと述べていることは何か。",
+      "options": [
+        "成長に合ったスポーツをさせること",
+        "子供の好きなスポーツをさせること",
+        "全身の運動能力を高めさせること",
+        "苦手意識を持たせないこと"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điểm chung mà A và B cho là quan trọng khi cho trẻ học thể thao là gì? → Giúp trẻ nâng cao năng lực vận động toàn thân.",
+        "why": "A: qua nhiều môn → nâng cao năng lực vận động toàn thân một cách cân bằng. B: chơi nhiều môn → vận động toàn thân, có được năng lực vận động cơ bản. Cả hai cùng nhắc 全身＋運動能力.",
+        "options": [
+          "Cho chơi môn phù hợp với sự phát triển → không ai nói chọn môn theo độ tuổi. Sai.",
+          "Cho chơi môn trẻ thích → chỉ B gần với ý này (dạy niềm vui thể thao), A không nói. Sai.",
+          "Nâng cao năng lực vận động toàn thân. ĐÚNG.",
+          "Không để trẻ có cảm giác yếu kém → A còn khuyến khích làm cả động tác 苦手. Sai."
+        ],
+        "vocab": [
+          { "w": "全身", "r": "ぜんしん", "hv": "TOÀN THÂN", "vi": "toàn thân" },
+          { "w": "運動能力", "r": "うんどうのうりょく", "hv": "VẬN ĐỘNG NĂNG LỰC", "vi": "năng lực vận động" },
+          { "w": "向上", "r": "こうじょう", "hv": "HƯỚNG THƯỢNG", "vi": "nâng cao, cải thiện" },
+          { "w": "基礎的", "r": "きそてき", "hv": "CƠ SỞ ĐÍCH", "vi": "cơ bản, nền tảng" }
+        ],
+        "grammar": null,
+        "evidence": "A：得意な動きも苦手な動きも行うことによって、全身の運動能力をバランスよく向上させられる。／B：いろいろなスポーツをすることで、全身を動かし、基礎的な運動能力を身につけることができる。",
+        "tip": "Câu hỏi \"điểm chung\": tìm từ khóa xuất hiện ở CẢ HAI bài (全身・運動能力)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "exam": "2025-12",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "二人の意見は<u>一致していた</u>。",
+      "options": ["正しかった", "同じだった", "はっきりしていた", "似ていた"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Ý kiến của hai người trùng khớp nhau (giống nhau).",
+        "why": "一致する (いっち: NHẤT TRÍ) = trùng khớp, giống hệt, thống nhất → 同じだった.",
+        "options": [
+          "正しかった → đúng. Không liên quan. Sai.",
+          "同じだった → giống nhau. ĐÚNG.",
+          "はっきりしていた → rõ ràng. Sai.",
+          "似ていた → giống giống (tương tự, chưa hoàn toàn trùng). Sai."
+        ],
+        "vocab": [
+          { "w": "一致", "r": "いっち", "hv": "NHẤT TRÍ", "vi": "trùng khớp, thống nhất" },
+          { "w": "意見", "r": "いけん", "hv": "Ý KIẾN", "vi": "ý kiến" },
+          { "w": "似る", "r": "にる", "hv": "TỰ", "vi": "giống, na ná" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy 似ていた: 一致 là trùng hoàn toàn, 似る chỉ là giống một phần."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "この作品の<u>題</u>はとても印象的だ。",
+      "options": ["デザイン", "アイデア", "ストーリー", "タイトル"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tiêu đề của tác phẩm này rất ấn tượng.",
+        "why": "題 (だい: ĐỀ) = tên, đầu đề (題名) → タイトル (title).",
+        "options": [
+          "デザイン → thiết kế. Sai.",
+          "アイデア → ý tưởng. Sai.",
+          "ストーリー → câu chuyện, cốt truyện. Sai.",
+          "タイトル → tiêu đề. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "題", "r": "だい", "hv": "ĐỀ", "vi": "tiêu đề, đầu đề" },
+          { "w": "題名", "r": "だいめい", "hv": "ĐỀ DANH", "vi": "tên tác phẩm" },
+          { "w": "作品", "r": "さくひん", "hv": "TÁC PHẨM", "vi": "tác phẩm" },
+          { "w": "印象的", "r": "いんしょうてき", "hv": "ẤN TƯỢNG ĐÍCH", "vi": "ấn tượng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "この辺りはいつも<u>そうぞうしい</u>。",
+      "options": ["暗い", "静かだ", "明るい", "うるさい"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Khu vực này lúc nào cũng ồn ào.",
+        "why": "そうぞうしい (騒々しい: TAO) = ồn ào, náo động → うるさい.",
+        "options": [
+          "暗い → tối. Sai.",
+          "静かだ → yên tĩnh (trái nghĩa). Sai.",
+          "明るい → sáng sủa. Sai.",
+          "うるさい → ồn ào. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "騒々しい", "r": "そうぞうしい", "hv": "TAO TAO", "vi": "ồn ào, náo động" },
+          { "w": "騒ぐ", "r": "さわぐ", "hv": "TAO", "vi": "làm ồn" },
+          { "w": "辺り", "r": "あたり", "hv": "BIÊN", "vi": "vùng, khu vực quanh đây" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đừng nhầm với 想像 (そうぞう: tưởng tượng). 騒 = 騒ぐ (làm ồn), 騒音 (そうおん: tiếng ồn)."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "私はいつもより<u>用心</u>した。",
+      "options": ["注意", "努力", "準備", "集中"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đã cẩn thận hơn mọi khi.",
+        "why": "用心する (ようじん: DỤNG TÂM) = đề phòng, cẩn thận → 注意する.",
+        "options": [
+          "注意 → chú ý, cẩn thận. ĐÚNG.",
+          "努力 → nỗ lực. Sai.",
+          "準備 → chuẩn bị. Sai.",
+          "集中 → tập trung. Sai."
+        ],
+        "vocab": [
+          { "w": "用心", "r": "ようじん", "hv": "DỤNG TÂM", "vi": "cẩn thận, đề phòng" },
+          { "w": "注意", "r": "ちゅうい", "hv": "CHÚ Ý", "vi": "chú ý, cẩn thận" },
+          { "w": "火の用心", "r": "ひのようじん", "hv": "HỎA DỤNG TÂM", "vi": "cẩn thận phòng cháy" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "用心 ≠ \"dụng tâm\" (cố ý) trong tiếng Việt; tiếng Nhật nghĩa là đề phòng, cảnh giác (用心深い: thận trọng)."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "このシャツは私には<u>ぶかぶか</u>だ。",
+      "options": ["派手すぎる", "小さすぎる", "大きすぎる", "地味すぎる"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Cái áo sơ mi này quá rộng thùng thình đối với tôi.",
+        "why": "ぶかぶか = (quần áo, giày) rộng thùng thình, quá khổ so với người mặc → 大きすぎる.",
+        "options": [
+          "派手すぎる (はですぎる) → quá sặc sỡ. Sai.",
+          "小さすぎる → quá chật (trái nghĩa; chật là きつい／ぴちぴち). Sai.",
+          "大きすぎる → quá rộng. ĐÚNG.",
+          "地味すぎる (じみすぎる) → quá giản dị, nhạt. Sai."
+        ],
+        "vocab": [
+          { "w": "ぶかぶか", "r": "ぶかぶか", "hv": "", "vi": "rộng thùng thình" },
+          { "w": "派手", "r": "はで", "hv": "PHÁI THỦ", "vi": "sặc sỡ, lòe loẹt" },
+          { "w": "地味", "r": "じみ", "hv": "ĐỊA VỊ", "vi": "giản dị, không nổi bật" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đối lập: ぶかぶか (rộng) ↔ きつい／ぴちぴち (chật)."
+      }
+    }
+  ]
+}

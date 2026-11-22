@@ -1,0 +1,73 @@
+{
+  "exam": "2018-12",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "次のページは、あるレンタル専門店のホームページである。下の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Trang sau là trang web của một cửa hàng chuyên cho thuê. Chọn câu trả lời đúng nhất (tìm thông tin).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "スーツケースレンタル専門店エイト",
+      "text": "<u>スーツケースレンタル専門店エイト</u>\n\nエイトでは、様々なタイプ、大きさのスーツケースを取り扱っております。ご旅行先や日数に合わせて、お好きなスーツケースをお選びください。\n\n【エイトのレンタルシステム】\nご出発日の3日前にお届けし、ご帰宅日の翌日に運送会社が回収に伺います。料金が発生するのはご旅行期間中のみで、往復送料も無料です。\n例）4月4日－8日のご旅行（5日間）の場合：4月1日にお届け、9日に回収。\n→お支払いいただく料金は、5日間のレンタル料金のみとなります。\n\n【レンタル料金】\n■丈夫で安全性の高いフレームタイプ\nご旅行期間｜Sサイズ＊1｜Mサイズ＊1｜Lサイズ＊1\n7日間まで｜3,200円｜3,600円｜4,100円\n15日間まで｜4,800円｜5,200円｜5,600円\n30日間まで｜6,000円｜6,400円｜6,800円\n\n■フレームタイプより軽く、使いやすいファスナータイプ\nご旅行期間｜Sサイズ＊1｜Mサイズ＊1｜Lサイズ＊1\n7日間まで｜2,400円｜2,800円｜3,200円\n15日間まで｜3,600円｜4,000円｜4,400円\n30日間まで｜4,500円｜4,900円｜5,300円\n\n＊1 容量　S：50リットル　M：64リットル　L：81リットル\n\n【お申し込み方法】\na. インターネット受付：ご出発日の2か月前から7日前まで（24時間受付）\nご希望のレンタルスーツケース商品ページよりお申し込みください。\nb. 電話受付：ご出発日の2か月前から3日前＊2まで\n下記営業時間内に、041－369－2500にお電話ください。\n\n＊2 ただし、直前（ご出発日の4日前、3日前）のお申し込みの場合、お届けはご出発日の前日になります。ご出発日の3日前までのお届けをご希望の方は、ご出発日の5日前の午後1時までにお電話ください。\n\nスーツケースレンタル専門店エイト\n営業時間：午前10時～午後6時（月～土曜日）"
+    }
+  ],
+  "questions": [
+    {
+      "num": 72,
+      "passage": "p1",
+      "stem": "ワンさんは旅行用にできるだけ軽いスーツケースを借りたいと考えている。容量は60リットルあればいい。ワンさんの旅行期間は10日間だが、ワンさんの希望に最も合うスーツケースを借りる場合、料金はいくらになるか。",
+      "options": ["2,800円", "3,600円", "4,000円", "5,200円"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh Wang muốn thuê một chiếc vali càng nhẹ càng tốt để đi du lịch. Dung tích chỉ cần 60 lít. Chuyến đi của anh Wang dài 10 ngày; nếu thuê chiếc vali hợp nhất với mong muốn của anh thì giá bao nhiêu? → 4.000 yên.",
+        "why": "Nhẹ nhất → loại khóa kéo (ファスナータイプ: nhẹ hơn loại khung). Cần 60 lít → size S (50L) không đủ, chọn size M (64L). 10 ngày → mục \"đến 15 ngày\". Ô tương ứng: 4.000 yên.",
+        "options": [
+          "2,800円 → khóa kéo, size M, \"đến 7 ngày\" — nhưng chuyến đi 10 ngày. Sai.",
+          "3,600円 → khóa kéo, size S, 15 ngày — S chỉ 50L, không đủ 60L. Sai.",
+          "4,000円 → khóa kéo, size M, đến 15 ngày. ĐÚNG.",
+          "5,200円 → loại khung (nặng hơn), size M, 15 ngày. Sai."
+        ],
+        "vocab": [
+          { "w": "容量", "r": "ようりょう", "hv": "DUNG LƯỢNG", "vi": "dung tích" },
+          { "w": "丈夫", "r": "じょうぶ", "hv": "TRƯỢNG PHU", "vi": "bền, chắc chắn" },
+          { "w": "ファスナー", "r": "ファスナー", "hv": "", "vi": "khóa kéo" },
+          { "w": "期間", "r": "きかん", "hv": "KỲ GIAN", "vi": "thời gian, thời hạn" }
+        ],
+        "grammar": null,
+        "evidence": "フレームタイプより軽く、使いやすいファスナータイプ／15日間まで｜Mサイズ：4,000円／＊1 容量 S：50リットル M：64リットル L：81リットル",
+        "tip": "Kiểm tra 3 điều kiện riêng rẽ: loại (nhẹ) → size (≥60L) → thời gian (10 ngày → mốc 15 ngày)."
+      }
+    },
+    {
+      "num": 73,
+      "passage": "p1",
+      "stem": "タンヤさんは出張用にスーツケースを借りることにした。今日は出発日の6日前である。出発日の3日前にスーツケースを届けてもらうためには、どうしなければならないか。",
+      "options": [
+        "インターネットで、今日中（出発日の6日前）に申し込む。",
+        "インターネットで、明日（出発日の5日前）の午後1時までに申し込む。",
+        "電話で、明日（出発日の5日前）の午後1時までに申し込む。",
+        "電話で、しあさって（出発日の3日前）の午後6時までに申し込む。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh/chị Tanya quyết định thuê vali để đi công tác. Hôm nay là 6 ngày trước ngày khởi hành. Để được giao vali vào 3 ngày trước ngày khởi hành thì phải làm gì? → Đăng ký qua điện thoại trước 1 giờ chiều ngày mai (5 ngày trước ngày khởi hành).",
+        "why": "Đăng ký qua Internet chỉ nhận đến 7 ngày trước ngày đi → hôm nay (6 ngày trước) đã quá hạn. Chỉ còn điện thoại; muốn được giao trước 3 ngày thì phải gọi trước 1 giờ chiều của ngày 5 ngày trước khởi hành = ngày mai.",
+        "options": [
+          "Internet chỉ nhận đến 7 ngày trước; hôm nay đã là 6 ngày trước. Sai.",
+          "Internet đã hết hạn; mốc 13 giờ ngày 5 ngày trước là quy định cho điện thoại. Sai.",
+          "Điện thoại, trước 13 giờ ngày mai (5 ngày trước). ĐÚNG.",
+          "Đăng ký sát ngày (4 hoặc 3 ngày trước) thì chỉ được giao vào hôm trước ngày đi. Sai."
+        ],
+        "vocab": [
+          { "w": "申し込む", "r": "もうしこむ", "hv": "THÂN VÀO", "vi": "đăng ký" },
+          { "w": "直前", "r": "ちょくぜん", "hv": "TRỰC TIỀN", "vi": "ngay trước, sát ngày" },
+          { "w": "回収", "r": "かいしゅう", "hv": "HỒI THU", "vi": "thu hồi, đến lấy lại" },
+          { "w": "しあさって", "r": "しあさって", "hv": "", "vi": "ngày kia nữa (3 ngày sau)" }
+        ],
+        "grammar": null,
+        "evidence": "a. インターネット受付：ご出発日の2か月前から7日前まで／＊2 ただし、直前（ご出発日の4日前、3日前）のお申し込みの場合、お届けはご出発日の前日になります。ご出発日の3日前までのお届けをご希望の方は、ご出発日の5日前の午後1時までにお電話ください。",
+        "tip": "Luôn đọc phần chú thích ＊ — thông tin quyết định thường nằm ở đó."
+      }
+    }
+  ]
+}

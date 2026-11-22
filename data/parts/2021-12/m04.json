@@ -1,0 +1,190 @@
+{
+  "exam": "2021-12",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "学生のころ、宿題は（　　）になってからやることが多かった。",
+      "options": ["びりびり", "ばりばり", "ぎりぎり", "じりじり"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hồi còn đi học, tôi thường để sát nút (hạn chót) rồi mới làm bài tập.",
+        "why": "ぎりぎり = sát nút, vừa kịp giới hạn. 「ぎりぎりになって」 = đến phút chót.",
+        "options": [
+          "びりびり → tiếng xé giấy / tê rần (điện giật). Sai.",
+          "ばりばり → làm việc hăng say; tiếng giòn rụm. Sai.",
+          "ぎりぎり → sát giờ, sát hạn. ĐÚNG.",
+          "じりじり → dần dần, nhích từng chút; nắng gay gắt; sốt ruột. Sai."
+        ],
+        "vocab": [
+          { "w": "ぎりぎり", "r": "ぎりぎり", "hv": "", "vi": "sát nút, vừa kịp" },
+          { "w": "ばりばり", "r": "ばりばり", "hv": "", "vi": "hăng hái, sung sức (làm việc)" },
+          { "w": "宿題", "r": "しゅくだい", "hv": "TÚC ĐỀ", "vi": "bài tập về nhà" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "締め切りぎりぎりに出す = nộp sát hạn chót."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "生命保険を（　　）したいので、手続きを教えてください。",
+      "options": ["廃止", "解約", "中止", "解消"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi muốn hủy hợp đồng bảo hiểm nhân thọ, xin chỉ cho tôi thủ tục.",
+        "why": "解約 (かいやく) = hủy hợp đồng. Bảo hiểm, tài khoản, thuê nhà... là 'hợp đồng' nên dùng 解約.",
+        "options": [
+          "廃止 (はいし) → bãi bỏ (chế độ, luật, tuyến đường). Sai.",
+          "解約 (かいやく) → hủy hợp đồng. ĐÚNG.",
+          "中止 (ちゅうし) → hủy, dừng (sự kiện, kế hoạch). Sai.",
+          "解消 (かいしょう) → giải tỏa (stress), xóa bỏ (quan hệ, hôn ước). Sai."
+        ],
+        "vocab": [
+          { "w": "解約", "r": "かいやく", "hv": "GIẢI ƯỚC", "vi": "hủy hợp đồng" },
+          { "w": "生命保険", "r": "せいめいほけん", "hv": "SINH MỆNH BẢO HIỂM", "vi": "bảo hiểm nhân thọ" },
+          { "w": "手続き", "r": "てつづき", "hv": "THỦ TỤC", "vi": "thủ tục" },
+          { "w": "廃止", "r": "はいし", "hv": "PHẾ CHỈ", "vi": "bãi bỏ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "契約 (ký hợp đồng) ↔ 解約 (hủy hợp đồng)."
+      }
+    },
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "私たちは、お客様の（　　）に対応したサービスを提供しています。",
+      "options": ["ニーズ", "ストライキ", "セールス", "エコノミー"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Chúng tôi cung cấp dịch vụ đáp ứng nhu cầu của khách hàng.",
+        "why": "ニーズ (needs) = nhu cầu. 「ニーズに対応する／応える」 là cụm cố định.",
+        "options": [
+          "ニーズ → nhu cầu. ĐÚNG.",
+          "ストライキ → đình công. Sai.",
+          "セールス → bán hàng, chào hàng. Sai.",
+          "エコノミー → kinh tế; hạng phổ thông. Sai."
+        ],
+        "vocab": [
+          { "w": "ニーズ", "r": "ニーズ", "hv": "", "vi": "nhu cầu" },
+          { "w": "対応", "r": "たいおう", "hv": "ĐỐI ỨNG", "vi": "ứng phó, đáp ứng" },
+          { "w": "提供", "r": "ていきょう", "hv": "ĐỀ CUNG", "vi": "cung cấp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "来年ここに新しい支店を（　　）することが決まった。",
+      "options": ["創造", "形成", "工作", "開設"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đã quyết định năm sau sẽ mở chi nhánh mới ở đây.",
+        "why": "開設 (かいせつ) = mở, thành lập (cơ sở, văn phòng, tài khoản, website...). 支店を開設する = mở chi nhánh.",
+        "options": [
+          "創造 (そうぞう) → sáng tạo (cái mới từ ý tưởng). Sai.",
+          "形成 (けいせい) → hình thành (nhân cách, tổ chức). Sai.",
+          "工作 (こうさく) → thủ công, chế tác. Sai.",
+          "開設 (かいせつ) → mở (chi nhánh, tài khoản). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "開設", "r": "かいせつ", "hv": "KHAI THIẾT", "vi": "mở, thiết lập" },
+          { "w": "支店", "r": "してん", "hv": "CHI ĐIẾM", "vi": "chi nhánh" },
+          { "w": "創造", "r": "そうぞう", "hv": "SÁNG TẠO", "vi": "sáng tạo" },
+          { "w": "形成", "r": "けいせい", "hv": "HÌNH THÀNH", "vi": "hình thành" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "口座を開設する = mở tài khoản ngân hàng."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "卒業パーティーには、ちゃんとした（　　）で行ったほうがいいのかな。",
+      "options": ["様子", "容姿", "外見", "格好"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đến tiệc tốt nghiệp có lẽ nên ăn mặc chỉnh tề thì hơn nhỉ.",
+        "why": "格好 (かっこう) = dáng vẻ bề ngoài, cách ăn mặc. 「ちゃんとした格好で行く」 = đi với trang phục đàng hoàng.",
+        "options": [
+          "様子 (ようす) → tình hình, vẻ (trạng thái). Sai.",
+          "容姿 (ようし) → dung mạo, nhan sắc bẩm sinh, không thay đổi được để 'đi'. Sai.",
+          "外見 (がいけん) → bề ngoài nói chung; không dùng với 'mặc gì đi'. Sai.",
+          "格好 (かっこう) → cách ăn mặc, bộ dạng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "格好", "r": "かっこう", "hv": "CÁCH HẢO", "vi": "dáng vẻ, cách ăn mặc" },
+          { "w": "容姿", "r": "ようし", "hv": "DUNG TƯ", "vi": "dung mạo" },
+          { "w": "外見", "r": "がいけん", "hv": "NGOẠI KIẾN", "vi": "vẻ bề ngoài" },
+          { "w": "様子", "r": "ようす", "hv": "DẠNG TỬ", "vi": "tình hình, vẻ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "かっこいい cũng từ 格好 + いい."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "店が忙しいときは臨時にアルバイトを（　　）いる。",
+      "options": ["つかんで", "ふくんで", "やとって", "かせいで"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Khi cửa hàng bận, chúng tôi thuê thêm người làm thêm tạm thời.",
+        "why": "雇う (やとう) = thuê người làm. アルバイトを雇う = thuê nhân viên làm thêm.",
+        "options": [
+          "つかんで → 掴む: nắm, chộp lấy. Sai.",
+          "ふくんで → 含む: bao gồm, chứa. Sai.",
+          "やとって → 雇う: thuê (người). ĐÚNG.",
+          "かせいで → 稼ぐ: kiếm (tiền). Sai."
+        ],
+        "vocab": [
+          { "w": "雇う", "r": "やとう", "hv": "CỐ", "vi": "thuê (người làm)" },
+          { "w": "臨時", "r": "りんじ", "hv": "LÂM THỜI", "vi": "tạm thời, bất thường" },
+          { "w": "稼ぐ", "r": "かせぐ", "hv": "GIÁ", "vi": "kiếm (tiền)" },
+          { "w": "含む", "r": "ふくむ", "hv": "HÀM", "vi": "bao gồm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "雇用 (こよう: tuyển dụng) cùng chữ 雇."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "誰にも言えずにずっと悩んでいたが、昨日親友に（　　）相談してみた。",
+      "options": ["思いきって", "うっかり", "せっかく", "知らず知らず"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đã phiền não mãi mà không thể nói với ai, nhưng hôm qua đã mạnh dạn thử tâm sự với bạn thân.",
+        "why": "思いきって = mạnh dạn, quyết tâm làm điều mình đã do dự. Hợp với ngữ cảnh 'lâu nay không dám nói → cuối cùng nói ra'.",
+        "options": [
+          "思いきって → mạnh dạn, dứt khoát. ĐÚNG.",
+          "うっかり → lỡ, sơ ý (không chủ ý). Sai.",
+          "せっかく → mất công, khó có dịp. Sai.",
+          "知らず知らず → bất giác, lúc nào không hay. Sai."
+        ],
+        "vocab": [
+          { "w": "思いきって", "r": "おもいきって", "hv": "", "vi": "mạnh dạn, quả quyết" },
+          { "w": "悩む", "r": "なやむ", "hv": "NÃO", "vi": "phiền não, trăn trở" },
+          { "w": "親友", "r": "しんゆう", "hv": "THÂN HỮU", "vi": "bạn thân" },
+          { "w": "相談", "r": "そうだん", "hv": "TƯƠNG ĐÀM", "vi": "bàn bạc, xin lời khuyên" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Thấy ngữ cảnh 'do dự lâu rồi cuối cùng làm' → nghĩ ngay 思いきって."
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "exam": "2024-07",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "状況を<u>詳細</u>に書いてください。",
+      "options": ["そうざい", "そうさい", "しょうざい", "しょうさい"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hãy viết chi tiết về tình hình.",
+        "why": "詳細 đọc là しょうさい (TƯỜNG TẾ) = chi tiết, tỉ mỉ. 詳 đọc âm On là しょう (không phải そう), 細 đọc là さい (không biến âm thành ざい).",
+        "options": [
+          "そうざい → 惣菜: món ăn kèm làm sẵn. Sai.",
+          "そうさい → 相殺: bù trừ, triệt tiêu. Sai.",
+          "しょうざい → không có từ này. Sai.",
+          "しょうさい → 詳細: chi tiết. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "詳細", "r": "しょうさい", "hv": "TƯỜNG TẾ", "vi": "chi tiết, tỉ mỉ" },
+          { "w": "状況", "r": "じょうきょう", "hv": "TRẠNG HUỐNG", "vi": "tình hình, tình trạng" },
+          { "w": "詳しい", "r": "くわしい", "hv": "TƯỜNG", "vi": "chi tiết, am hiểu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "細 trong 詳細・細心・繊細 đều đọc さい (không đục). Nhớ thêm: 詳しい (くわしい)."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "<u>分析</u>には少し時間がかかります。",
+      "options": ["ぶんせき", "ぶんかい", "ぶんせつ", "ぶんかつ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Việc phân tích sẽ mất một chút thời gian.",
+        "why": "分析 đọc là ぶんせき (PHÂN TÍCH) = phân tích. 析 chỉ có âm On là せき.",
+        "options": [
+          "ぶんせき → 分析: phân tích. ĐÚNG.",
+          "ぶんかい → 分解: tháo rời, phân giải. Sai.",
+          "ぶんせつ → 文節: cụm từ (ngữ pháp). Sai.",
+          "ぶんかつ → 分割: chia nhỏ, chia ra (trả góp 分割払い). Sai."
+        ],
+        "vocab": [
+          { "w": "分析", "r": "ぶんせき", "hv": "PHÂN TÍCH", "vi": "phân tích" },
+          { "w": "分解", "r": "ぶんかい", "hv": "PHÂN GIẢI", "vi": "tháo rời, phân giải" },
+          { "w": "分割", "r": "ぶんかつ", "hv": "PHÂN CÁT", "vi": "chia tách, chia nhỏ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "析 (せき) có bộ 木 + 斤 (cái rìu) → dùng rìu chẻ gỗ = phân tích, tách ra."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "髪の毛がくしに<u>絡まって</u>しまって。",
+      "options": ["はさまって", "からまって", "つまって", "たまって"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tóc bị rối quấn vào lược mất rồi.",
+        "why": "絡まる đọc là からまる (LẠC) = bị quấn, bị rối vào nhau. Tóc quấn vào lược → からまって.",
+        "options": [
+          "はさまって → 挟まる: bị kẹp vào giữa. Sai.",
+          "からまって → 絡まる: bị quấn, rối vào. ĐÚNG.",
+          "つまって → 詰まる: bị tắc, bị nghẹt. Sai.",
+          "たまって → 溜まる/貯まる: tích tụ, dồn lại. Sai."
+        ],
+        "vocab": [
+          { "w": "絡まる", "r": "からまる", "hv": "LẠC", "vi": "bị quấn, bị rối" },
+          { "w": "髪の毛", "r": "かみのけ", "hv": "PHÁT MAO", "vi": "tóc" },
+          { "w": "くし（櫛）", "r": "くし", "hv": "TRẤT", "vi": "cái lược" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "絡 cũng có trong 連絡 (れんらく – liên lạc): âm On らく, âm Kun から(む/まる)."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "ここでは<u>農薬</u>をまったく使わずに野菜を栽培している。",
+      "options": ["のんやく", "のうやく", "のうらく", "のんらく"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Ở đây người ta trồng rau mà hoàn toàn không dùng thuốc trừ sâu.",
+        "why": "農薬 đọc là のうやく (NÔNG DƯỢC) = thuốc bảo vệ thực vật. 農 là のう (trường âm, không phải のん), 薬 là やく.",
+        "options": [
+          "のんやく → sai trường âm của 農. Sai.",
+          "のうやく → 農薬: thuốc trừ sâu. ĐÚNG.",
+          "のうらく → 薬 không đọc らく (らく là 楽). Sai.",
+          "のんらく → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "農薬", "r": "のうやく", "hv": "NÔNG DƯỢC", "vi": "thuốc trừ sâu, thuốc BVTV" },
+          { "w": "栽培", "r": "さいばい", "hv": "TÀI BỒI", "vi": "trồng trọt" },
+          { "w": "農業", "r": "のうぎょう", "hv": "NÔNG NGHIỆP", "vi": "nông nghiệp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "薬 (やく): 薬局 やっきょく, 医薬品 いやくひん. Đừng nhầm với 楽 (らく)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "とても<u>鮮やか</u>だったことを覚えています。",
+      "options": ["おだやか", "さわやか", "あざやか", "なごやか"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi nhớ là (nó) đã rất tươi tắn, rực rỡ.",
+        "why": "鮮やか đọc là あざやか (TIÊN) = tươi tắn, sặc sỡ, rõ nét (màu sắc, ký ức).",
+        "options": [
+          "おだやか → 穏やか: êm ả, điềm đạm. Sai.",
+          "さわやか → 爽やか: sảng khoái, mát mẻ. Sai.",
+          "あざやか → 鮮やか: tươi tắn, rực rỡ. ĐÚNG.",
+          "なごやか → 和やか: hòa thuận, ấm cúng. Sai."
+        ],
+        "vocab": [
+          { "w": "鮮やか", "r": "あざやか", "hv": "TIÊN", "vi": "tươi tắn, rực rỡ, rõ nét" },
+          { "w": "穏やか", "r": "おだやか", "hv": "ỔN", "vi": "êm đềm, điềm đạm" },
+          { "w": "爽やか", "r": "さわやか", "hv": "SẢNG", "vi": "sảng khoái, dễ chịu" },
+          { "w": "和やか", "r": "なごやか", "hv": "HÒA", "vi": "hòa thuận, ấm áp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "鮮 = 魚 + 羊 → cá tươi; 新鮮 (しんせん) = tươi mới. 4 tính từ 〜やか hay được ra chung, nên học cả nhóm."
+      }
+    }
+  ]
+}

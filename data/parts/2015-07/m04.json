@@ -1,0 +1,190 @@
+{
+  "exam": "2015-07",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống (theo ngữ cảnh).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "この学校の（　　）は、国際交流が盛んなことだ。",
+      "options": ["得点", "性能", "効用", "特色"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nét đặc trưng của ngôi trường này là hoạt động giao lưu quốc tế sôi nổi.",
+        "why": "特色 (とくしょく) = đặc sắc, điểm nổi bật riêng của một tổ chức/vùng. 'Điểm nổi bật của trường là giao lưu quốc tế sôi nổi' là hợp nghĩa.",
+        "options": [
+          "得点 → điểm số (thi đấu, bài thi). Sai.",
+          "性能 → tính năng (máy móc). Sai.",
+          "効用 → công dụng, hiệu quả (thuốc, đồ vật). Sai.",
+          "特色 → đặc sắc, nét nổi bật. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "特色", "r": "とくしょく", "hv": "ĐẶC SẮC", "vi": "đặc điểm nổi bật, nét riêng" },
+          { "w": "国際交流", "r": "こくさいこうりゅう", "hv": "QUỐC TẾ GIAO LƯU", "vi": "giao lưu quốc tế" },
+          { "w": "盛ん", "r": "さかん", "hv": "THỊNH", "vi": "sôi nổi, thịnh vượng" },
+          { "w": "性能", "r": "せいのう", "hv": "TÍNH NĂNG", "vi": "tính năng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "性能 chỉ dùng cho máy móc, thiết bị; trường học/vùng đất dùng 特色."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "だんだん雨が激しくなって、傘を差していたのに服が（　　）ぬれてしまった。",
+      "options": ["すっきり", "ぎっしり", "びっしょり", "ぴったり"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Mưa dần dần nặng hạt, dù đã che ô nhưng quần áo vẫn ướt sũng.",
+        "why": "びっしょり = ướt sũng, ướt đẫm. Thường đi với ぬれる hoặc 汗をかく.",
+        "options": [
+          "すっきり → sảng khoái, gọn gàng. Sai.",
+          "ぎっしり → chật ních, kín mít (đồ được nhét đầy). Sai.",
+          "びっしょり → ướt sũng. ĐÚNG.",
+          "ぴったり → vừa khít, vừa vặn. Sai."
+        ],
+        "vocab": [
+          { "w": "びっしょり", "r": "びっしょり", "hv": "", "vi": "ướt sũng, ướt đẫm" },
+          { "w": "激しい", "r": "はげしい", "hv": "KÍCH", "vi": "dữ dội, mãnh liệt" },
+          { "w": "傘を差す", "r": "かさをさす", "hv": "TẢN SAI", "vi": "che ô" },
+          { "w": "ぎっしり", "r": "ぎっしり", "hv": "", "vi": "chật kín, đầy ắp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đồng nghĩa: びしょびしょ / びしょぬれ (ướt như chuột lột)."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "このチームは何度も優勝し、（　　）成績を残している。",
+      "options": ["力強い", "輝かしい", "分厚い", "限りない"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Đội này đã nhiều lần vô địch và để lại thành tích rực rỡ.",
+        "why": "輝かしい (かがやかしい) = huy hoàng, rực rỡ; collocation cố định: 輝かしい成績・輝かしい未来・輝かしい経歴.",
+        "options": [
+          "力強い → mạnh mẽ (giọng nói, động tác). Sai.",
+          "輝かしい → rực rỡ, vẻ vang. ĐÚNG.",
+          "分厚い → dày cộp (sách, thịt). Sai.",
+          "限りない → vô hạn (tình yêu, khả năng). Sai."
+        ],
+        "vocab": [
+          { "w": "輝かしい", "r": "かがやかしい", "hv": "HUY", "vi": "rực rỡ, vẻ vang" },
+          { "w": "優勝", "r": "ゆうしょう", "hv": "ƯU THẮNG", "vi": "vô địch" },
+          { "w": "成績", "r": "せいせき", "hv": "THÀNH TÍCH", "vi": "thành tích, kết quả" },
+          { "w": "分厚い", "r": "ぶあつい", "hv": "PHÂN HẬU", "vi": "dày cộp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "成績を残す = để lại thành tích; thường đi với 輝かしい / 優秀な."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "Ａホテルは大通りに（　　）いて、分かりやすい場所にある。",
+      "options": ["当たって", "触れて", "面して", "合わせて"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Khách sạn A nằm mặt tiền đại lộ, ở vị trí dễ tìm.",
+        "why": "Nに面する (めんする) = hướng ra, giáp mặt với (đường, biển, sân...). 大通りに面している = nằm ngay mặt đường lớn.",
+        "options": [
+          "当たって → trúng, va vào; (日が当たる: nắng chiếu). Sai.",
+          "触れて → chạm vào. Sai.",
+          "面して → hướng ra, giáp mặt. ĐÚNG.",
+          "合わせて → kết hợp, khớp với. Sai."
+        ],
+        "vocab": [
+          { "w": "面する", "r": "めんする", "hv": "DIỆN", "vi": "hướng ra, giáp mặt" },
+          { "w": "大通り", "r": "おおどおり", "hv": "ĐẠI THÔNG", "vi": "đại lộ, đường lớn" },
+          { "w": "触れる", "r": "ふれる", "hv": "XÚC", "vi": "chạm, đụng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "海に面した部屋 = phòng hướng ra biển."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "それは、問題点を的確にとらえた（　　）質問だった。",
+      "options": ["するどい", "にぶい", "けわしい", "ゆるい"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Đó là một câu hỏi sắc bén, nắm bắt chính xác vấn đề.",
+        "why": "するどい (鋭い) = sắc bén; dùng ẩn dụ cho câu hỏi, nhận xét, giác quan nhạy bén: 鋭い質問・鋭い指摘. Hợp với 的確にとらえた.",
+        "options": [
+          "するどい → 鋭い: sắc bén. ĐÚNG.",
+          "にぶい → 鈍い: cùn, chậm chạp (ngược nghĩa). Sai.",
+          "けわしい → 険しい: hiểm trở, gay gắt (đường núi, nét mặt). Sai.",
+          "ゆるい → 緩い: lỏng, thoai thoải, dễ dãi. Sai."
+        ],
+        "vocab": [
+          { "w": "鋭い", "r": "するどい", "hv": "NHUỆ", "vi": "sắc, sắc bén, nhạy bén" },
+          { "w": "的確", "r": "てきかく", "hv": "ĐÍCH XÁC", "vi": "chính xác, đúng trọng tâm" },
+          { "w": "とらえる", "r": "とらえる", "hv": "", "vi": "nắm bắt" },
+          { "w": "険しい", "r": "けわしい", "hv": "HIỂM", "vi": "hiểm trở, gay gắt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cặp đối: 鋭い ⇔ 鈍い; 緩い ⇔ きつい."
+      }
+    },
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "このいすは、大きさがちょうどいいし、色や（　　）も気に入っている。",
+      "options": ["インテリア", "スペース", "リビング", "デザイン"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Cái ghế này kích thước vừa vặn, tôi cũng thích cả màu sắc lẫn kiểu dáng.",
+        "why": "Liệt kê đặc điểm của chiếc ghế: kích thước, màu sắc và デザイン (kiểu dáng, thiết kế).",
+        "options": [
+          "インテリア → nội thất, đồ trang trí trong nhà (bao quát), không phải thuộc tính của ghế. Sai.",
+          "スペース → không gian, chỗ trống. Sai.",
+          "リビング → phòng khách. Sai.",
+          "デザイン → kiểu dáng, thiết kế. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "デザイン", "r": "デザイン", "hv": "", "vi": "thiết kế, kiểu dáng" },
+          { "w": "インテリア", "r": "インテリア", "hv": "", "vi": "nội thất" },
+          { "w": "気に入る", "r": "きにいる", "hv": "KHÍ NHẬP", "vi": "thích, ưng ý" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "一つの考え方に縛られず、（　　）思考を持つことで、新しい発想が生まれるだろう。",
+      "options": ["快適な", "柔軟な", "円満な", "順調な"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Không bị bó buộc vào một lối nghĩ, có tư duy linh hoạt thì những ý tưởng mới sẽ ra đời.",
+        "why": "柔軟な (じゅうなんな) = mềm dẻo, linh hoạt; 柔軟な思考/発想 là cụm cố định, đối lập với 縛られる (bị trói buộc).",
+        "options": [
+          "快適な → dễ chịu, thoải mái (môi trường, cuộc sống). Sai.",
+          "柔軟な → linh hoạt. ĐÚNG.",
+          "円満な → viên mãn, hòa thuận (gia đình, giải quyết). Sai.",
+          "順調な → thuận lợi, suôn sẻ (tiến độ). Sai."
+        ],
+        "vocab": [
+          { "w": "柔軟", "r": "じゅうなん", "hv": "NHU NHUYỄN", "vi": "mềm dẻo, linh hoạt" },
+          { "w": "縛る", "r": "しばる", "hv": "PHƯỢC", "vi": "trói, ràng buộc" },
+          { "w": "思考", "r": "しこう", "hv": "TƯ KHẢO", "vi": "tư duy" },
+          { "w": "発想", "r": "はっそう", "hv": "PHÁT TƯỞNG", "vi": "ý tưởng, cách nghĩ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "円満: 円満な家庭, 円満に解決する; 順調: 順調に進む."
+      }
+    }
+  ]
+}

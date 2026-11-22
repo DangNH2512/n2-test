@@ -1,0 +1,135 @@
+{
+  "exam": "2014-07",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "ガソリンの値段が<u>大幅</u>に上がった。",
+      "options": ["おおはば", "おおふく", "だいはば", "だいふく"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Giá xăng đã tăng mạnh.",
+        "why": "大幅 đọc là おおはば (ĐẠI PHÚC) = (mức độ) lớn, mạnh. Cả hai chữ đều đọc âm Kun: 大 = おお, 幅 = はば. Hay đi theo cụm 大幅に上がる／下がる／変わる.",
+        "options": [
+          "おおはば → 大幅: mức lớn, mạnh. ĐÚNG.",
+          "おおふく → trộn Kun (おお) + On (ふく), không có từ này. Sai.",
+          "だいはば → trộn On (だい) + Kun (はば), không có từ này. Sai.",
+          "だいふく → 大福: bánh mochi nhân đậu đỏ. Sai."
+        ],
+        "vocab": [
+          { "w": "大幅", "r": "おおはば", "hv": "ĐẠI PHÚC", "vi": "(mức độ) lớn, mạnh, đáng kể" },
+          { "w": "値段", "r": "ねだん", "hv": "TRỊ ĐOẠN", "vi": "giá cả" },
+          { "w": "幅", "r": "はば", "hv": "PHÚC", "vi": "bề rộng, chiều ngang" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhóm 大 đọc おお: 大幅・大勢(おおぜい)・大雨(おおあめ)・大型(おおがた)."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "昨日、とても<u>悔しい</u>出来事があった。",
+      "options": ["かなしい", "くやしい", "はずかしい", "おそろしい"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hôm qua đã có một chuyện rất cay cú / tiếc nuối.",
+        "why": "悔しい đọc là くやしい (HỐI) = cay cú, ấm ức, tiếc (khi thua, khi bị thiệt). Chữ 悔 còn có trong 後悔(こうかい: hối hận).",
+        "options": [
+          "かなしい → 悲しい: buồn. Sai.",
+          "くやしい → 悔しい: cay cú, ấm ức. ĐÚNG.",
+          "はずかしい → 恥ずかしい: xấu hổ. Sai.",
+          "おそろしい → 恐ろしい: đáng sợ. Sai."
+        ],
+        "vocab": [
+          { "w": "悔しい", "r": "くやしい", "hv": "HỐI", "vi": "cay cú, ấm ức, tiếc" },
+          { "w": "出来事", "r": "できごと", "hv": "XUẤT LAI SỰ", "vi": "sự việc, chuyện xảy ra" },
+          { "w": "後悔", "r": "こうかい", "hv": "HẬU HỐI", "vi": "hối hận" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bộ 忄 (tâm đứng) → liên quan cảm xúc: 悔しい, 怖い, 慌てる."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "わかりやすく書いたつもりだったが、<u>幼稚</u>な文章になってしまった。",
+      "options": ["ゆうち", "ようし", "ようち", "ゆうし"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi định viết cho dễ hiểu, nhưng rốt cuộc lại thành một đoạn văn non nớt (trẻ con).",
+        "why": "幼稚 đọc là ようち (ẤU TRĨ) = non nớt, trẻ con. 幼 đọc On là よう (幼児 ようじ), 稚 đọc là ち. Từ quen: 幼稚園(ようちえん: mẫu giáo).",
+        "options": [
+          "ゆうち → 誘致: thu hút, kêu gọi (đầu tư…). Sai.",
+          "ようし → 用紙: giấy mẫu / 要旨: ý chính. Sai.",
+          "ようち → 幼稚: non nớt, trẻ con. ĐÚNG.",
+          "ゆうし → 融資: cho vay vốn. Sai."
+        ],
+        "vocab": [
+          { "w": "幼稚", "r": "ようち", "hv": "ẤU TRĨ", "vi": "non nớt, trẻ con" },
+          { "w": "幼稚園", "r": "ようちえん", "hv": "ẤU TRĨ VIÊN", "vi": "trường mẫu giáo" },
+          { "w": "文章", "r": "ぶんしょう", "hv": "VĂN CHƯƠNG", "vi": "đoạn văn, bài văn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhớ qua 幼稚園 (ようちえん) là chắc chắn chọn được ようち."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "今回は田中選手の<u>圧勝</u>だった。",
+      "options": ["あっしょう", "ゆうしょう", "あっしゅう", "ゆうしゅう"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Lần này là chiến thắng áp đảo của tuyển thủ Tanaka.",
+        "why": "圧勝 đọc là あっしょう (ÁP THẮNG) = thắng áp đảo. 圧 (あつ) + 勝 (しょう) → あつ+しょう biến âm thành あっしょう.",
+        "options": [
+          "あっしょう → 圧勝: thắng áp đảo. ĐÚNG.",
+          "ゆうしょう → 優勝: vô địch. Sai.",
+          "あっしゅう → không có từ này (勝 đọc しょう, không phải しゅう). Sai.",
+          "ゆうしゅう → 優秀: ưu tú, xuất sắc. Sai."
+        ],
+        "vocab": [
+          { "w": "圧勝", "r": "あっしょう", "hv": "ÁP THẮNG", "vi": "thắng áp đảo" },
+          { "w": "選手", "r": "せんしゅ", "hv": "TUYỂN THỦ", "vi": "tuyển thủ, vận động viên" },
+          { "w": "圧力", "r": "あつりょく", "hv": "ÁP LỰC", "vi": "áp lực" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "勝 luôn đọc しょう: 勝利(しょうり), 優勝(ゆうしょう), 決勝(けっしょう)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "暑い季節は食べ物が<u>傷みやすい</u>。",
+      "options": ["きずみやすい", "きすみやすい", "いだみやすい", "いたみやすい"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Mùa nóng đồ ăn dễ bị hỏng (ôi thiu).",
+        "why": "傷む đọc là いたむ (THƯƠNG) = (đồ ăn) bị hỏng, ôi; (đồ vật) bị hư. 傷みやすい = Vます(bỏ ます)+やすい: dễ bị hỏng. 傷 đứng một mình đọc きず (vết thương) nhưng động từ thì là いたむ.",
+        "options": [
+          "きずみやすい → không tồn tại (きず là danh từ 傷, không có động từ きずむ). Sai.",
+          "きすみやすい → không tồn tại. Sai.",
+          "いだみやすい → sai âm (いたむ không bị đục thành いだむ). Sai.",
+          "いたみやすい → 傷みやすい: dễ hỏng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "傷む", "r": "いたむ", "hv": "THƯƠNG", "vi": "bị hỏng, bị ôi, bị hư" },
+          { "w": "傷", "r": "きず", "hv": "THƯƠNG", "vi": "vết thương, vết xước" },
+          { "w": "季節", "r": "きせつ", "hv": "QUÝ TIẾT", "vi": "mùa" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "いたむ có 2 chữ: 痛む (đau) và 傷む (hỏng, hư). Đồ ăn → 傷む."
+      }
+    }
+  ]
+}

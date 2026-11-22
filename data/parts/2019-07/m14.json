@@ -1,0 +1,81 @@
+{
+  "exam": "2019-07",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "右のページは、竹本駅周辺駐輪場の定期利用の案内である。下の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Trang bên phải là thông báo về việc sử dụng định kỳ bãi gửi xe đạp quanh ga Takemoto. Chọn câu trả lời đúng nhất cho các câu hỏi bên dưới.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "竹本駅周辺駐輪場の案内",
+      "text": "2020年度竹本駅周辺駐輪場（自転車）の定期利用のご案内\n2020年4月から2021年3月まで竹本駅周辺駐輪場の定期利用の申請を受け付けます。\n\n【年間定期利用料金】（市民＊の方：一般／高校生以下　｜　市民＊以外の方：一般／高校生以下　｜　設備）\nA　竹本駅東駐輪場：市民 6000円／4000円　｜　市民以外 8000円／5000円　｜　屋根あり・管理人なし\nB　竹本駅西駐輪場：市民 5500円／3500円　｜　市民以外 7500円／4500円　｜　屋根あり・管理人なし\nC　谷山通り駐輪場：市民 7000円／5000円　｜　市民以外 9000円／6000円　｜　屋根あり・管理人あり\nD　東町駐輪場：市民 7000円／5000円　｜　市民以外 5000円／6000円　｜　屋根あり・管理人あり\nE　池中駐輪場：市民 5500円／3500円　｜　市民以外 7500円／4500円　｜　屋根なし・管理人あり\n\n＊市民は以下の①～③のいずれかに当てはまる方です。\n①竹本市にお住まいの方　②竹本市に通勤されている方　③竹本市に通学されている方\n\n【申し込み期間】\n継続して利用される方：2020年1月6日から1月31日まで\n初めて利用される方：2020年2月3日から2月28日まで\n\n【申し込み窓口】\nA、B：駐輪場センター［竹本駅前］（受付：午前8時～午後6時）\nC～E：各駐輪場の管理人室（受付：午前7時～午後9時）\n\n【申し込み方法】\n・指定の申し込み窓口で申請書をご提出ください。ご提出の際には、身分証明証（高校生以下の方は学生証）をご提示ください。\n・現在、定期利用中で来年度も継続して申請をされる方は、登録証を更新しますので現在利用中の登録証をお持ちください。\n\n【支払い】\n3月13日までに指定の金融機関で利用料金をお支払いください。\n\n竹本市役所 交通課　電話：041-551-8754\nhttp://www.city.takemoto.lg.jp/kurashi/churin"
+    }
+  ],
+  "questions": [
+    {
+      "num": 72,
+      "passage": "p1",
+      "stem": "竹本市にある会社に勤めているヨランダさんは、駐輪場の定期利用を申請したいと思っている。屋根があって、管理人がいる駐輪場がいい。ヨランダさんの希望に合う駐輪場はどれで、払うことになる料金はいくらか。",
+      "options": [
+        "Bの5500円か、CかDの7000円",
+        "CかDの7000円",
+        "CかDの9000円",
+        "CかDの9000円か、Eの7500円"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Chị Yolanda làm việc ở một công ty tại thành phố Takemoto muốn đăng ký gửi xe định kỳ, muốn bãi có mái che và có người quản lý. Bãi nào phù hợp và phải trả bao nhiêu? → C hoặc D, 7000 yên.",
+        "why": "① Có mái che + có người quản lý: chỉ C và D (A, B không có người quản lý; E không có mái). ② Yolanda đi làm ở thành phố Takemoto → thuộc “市民” theo điều ② (竹本市に通勤されている方). ③ Giá 市民・一般 của C và D đều là 7000 yên.",
+        "options": [
+          "Sai: B không có người quản lý (管理人なし).",
+          "C hoặc D, 7000 yên. ĐÚNG.",
+          "Sai: 9000 yên là giá cho người không phải 市民, nhưng Yolanda được tính là 市民 vì đi làm ở thành phố.",
+          "Sai: giá 9000 yên không đúng, và E không có mái che."
+        ],
+        "vocab": [
+          { "w": "駐輪場", "r": "ちゅうりんじょう", "hv": "TRÚ LUÂN TRƯỜNG", "vi": "bãi gửi xe đạp" },
+          { "w": "定期利用", "r": "ていきりよう", "hv": "ĐỊNH KỲ LỢI DỤNG", "vi": "sử dụng định kỳ" },
+          { "w": "屋根", "r": "やね", "hv": "ỐC CĂN", "vi": "mái nhà, mái che" },
+          { "w": "管理人", "r": "かんりにん", "hv": "QUẢN LÝ NHÂN", "vi": "người quản lý" },
+          { "w": "通勤", "r": "つうきん", "hv": "THÔNG CẦN", "vi": "đi làm" }
+        ],
+        "grammar": null,
+        "evidence": "＊市民は以下の①～③のいずれかに当てはまる方です。①竹本市にお住まいの方　②竹本市に通勤されている方…\nC　谷山通り駐輪場：市民 7000円…屋根あり・管理人あり\nD　東町駐輪場：市民 7000円…屋根あり・管理人あり",
+        "tip": "Bẫy kinh điển: đọc kỹ dấu ＊ — người đi làm/đi học ở thành phố cũng được tính là 市民."
+      }
+    },
+    {
+      "num": 73,
+      "passage": "p1",
+      "stem": "タンさんは、現在、「竹本駅東駐輪場」を定期利用している。2020年4月から、継続して利用したい場合は、どのように申し込まなければならないか。",
+      "options": [
+        "1月6日から1月31日の間に竹本駅東駐輪場の管理人室に行き、申請書を提出し、身分証明証を提示する。",
+        "1月6日から1月31日の間に竹本駅東駐輪場の管理人室に行き、申請書、登録証を提出し、身分証明証を提示する。",
+        "1月6日から1月31日の間に駐輪場センターに行き、申請書、登録証を提出し、身分証明証を提示する。",
+        "2月3日から2月28日の間に駐輪場センターに行き、申請書、登録証を提出し、身分証明証を提示する。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh Tan hiện đang gửi xe định kỳ ở “bãi phía Đông ga Takemoto” (A). Nếu muốn tiếp tục dùng từ tháng 4/2020 thì phải đăng ký thế nào? → Từ 6/1 đến 31/1 đến Trung tâm bãi gửi xe, nộp đơn và thẻ đăng ký, xuất trình giấy tờ tùy thân.",
+        "why": "① Người tiếp tục sử dụng: đăng ký 6/1–31/1. ② Bãi A, B: nơi tiếp nhận là 駐輪場センター［竹本駅前］ (A không có người quản lý nên không có phòng quản lý). ③ Nộp đơn + xuất trình giấy tờ tùy thân; người gia hạn mang theo thẻ đăng ký hiện tại để làm mới.",
+        "options": [
+          "Sai: bãi A không có phòng quản lý (管理人なし), và còn thiếu thẻ đăng ký.",
+          "Sai: nơi tiếp nhận của bãi A là Trung tâm bãi gửi xe, không phải phòng quản lý.",
+          "Tháng 1 + Trung tâm bãi gửi xe + đơn, thẻ đăng ký, giấy tờ tùy thân. ĐÚNG.",
+          "Sai: 3/2–28/2 là thời gian dành cho người đăng ký lần đầu."
+        ],
+        "vocab": [
+          { "w": "継続", "r": "けいぞく", "hv": "KẾ TỤC", "vi": "tiếp tục" },
+          { "w": "申請書", "r": "しんせいしょ", "hv": "THÂN THỈNH THƯ", "vi": "đơn đăng ký" },
+          { "w": "提出", "r": "ていしゅつ", "hv": "ĐỀ XUẤT", "vi": "nộp" },
+          { "w": "提示", "r": "ていじ", "hv": "ĐỀ THỊ", "vi": "xuất trình" },
+          { "w": "登録証", "r": "とうろくしょう", "hv": "ĐĂNG LỤC CHỨNG", "vi": "thẻ đăng ký" },
+          { "w": "更新", "r": "こうしん", "hv": "CANH TÂN", "vi": "gia hạn, làm mới" }
+        ],
+        "grammar": null,
+        "evidence": "【申し込み期間】継続して利用される方：2020年1月6日から1月31日まで\n【申し込み窓口】A、B：駐輪場センター［竹本駅前］\n現在、定期利用中で来年度も継続して申請をされる方は、登録証を更新しますので現在利用中の登録証をお持ちください。",
+        "tip": "Kiểm tra 3 điều kiện: thời gian – địa điểm – giấy tờ. Loại dần từng phương án."
+      }
+    }
+  ]
+}

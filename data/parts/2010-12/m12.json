@@ -1,0 +1,78 @@
+{
+  "exam": "2010-12",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B rồi chọn câu trả lời đúng nhất (đọc so sánh).",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "社会人になったばかりの今、皆さんは仕事の厳しさや学生時代にはなかったような人間関係の複雑さに驚いているのではないでしょうか。こんなはずではなかったと、抱いていた理想が崩れそうになることがあるかもしれません。特に、自分とは異なる価値観を持った上司や先輩から無理な仕事を頼まれたときなど、強くそう感じることでしょう。時には先輩の言葉につい反発（注1）したくなることもあるでしょう。しかし、そんな時にはまず相手の考え方を受け入れてみてください。信頼関係を築くにはある程度の時間が必要であり、そのあとで自分の考えを述べればよいのです。それまでは自分を抑えることも大切で、それが社会人としての訓練でもあります。\n\n（注1）反発する：言い返す"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "人間にとって心身ともに健康であることが理想的だが、新しく社会に出た若者たちは、時にはうまくいかないことに出会い、自信を失うこともあるだろう。経験から言うと、同僚や先輩の温かい言葉が耳に入らなくなってしまうのは、そういう、自分に自信がなくなったときであることが多い。その結果、今まで築いてきた人間関係まで壊してしまうことさえある。自分の周りの人達を大切にして、助言（注2）を生かしていく気持ちを持つためには、まず自分のこれまでの努力を肯定的にとらえてみよう。結果が完璧でなくても、「よくやった」と自分自身に言えると、ほかの人の言葉も素直に聞くことができるようになる。\n\n（注2）助言：アドバイス"
+    }
+  ],
+  "questions": [
+    {
+      "num": 69,
+      "passage": "AB",
+      "stem": "AとBに共通して述べられていることは何か。",
+      "options": ["職場での人間関係を大事にするにはどうすればいいか。", "職場で自分の努力を認めてもらうにはどうすればいいか。", "社会人になって職場で自信をなくしたとき、どうすればいいか", "社会に出て周囲の人と自分の考えが違ったとき、どうすればいいか。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều cả A và B cùng đề cập là gì? → Làm thế nào để coi trọng (giữ gìn) các mối quan hệ ở nơi làm việc.",
+        "why": "A: khi bất đồng với cấp trên/tiền bối, hãy tiếp nhận suy nghĩ của họ để xây dựng quan hệ tin cậy. B: để trân trọng người xung quanh và tiếp thu lời khuyên (tránh phá hỏng quan hệ), hãy tự khẳng định nỗ lực của mình. → Chủ đề chung: giữ gìn quan hệ ở nơi làm việc.",
+        "options": [
+          "Cả A và B đều bàn cách giữ gìn quan hệ ở nơi làm việc. ĐÚNG.",
+          "Không ai bàn cách để người khác công nhận nỗ lực của mình (B nói TỰ công nhận). Sai.",
+          "Chỉ B nói về lúc mất tự tin. Sai.",
+          "Chỉ A nói về khi quan điểm khác với người xung quanh. Sai."
+        ],
+        "vocab": [
+          { "w": "人間関係", "r": "にんげんかんけい", "hv": "NHÂN GIAN QUAN HỆ", "vi": "quan hệ giữa người với người" },
+          { "w": "信頼関係", "r": "しんらいかんけい", "hv": "TÍN LẠI QUAN HỆ", "vi": "quan hệ tin cậy" },
+          { "w": "価値観", "r": "かちかん", "hv": "GIÁ TRỊ QUAN", "vi": "quan niệm giá trị" },
+          { "w": "築く", "r": "きずく", "hv": "TRÚC", "vi": "xây dựng (quan hệ)" }
+        ],
+        "grammar": null,
+        "evidence": "A：信頼関係を築くにはある程度の時間が必要であり、そのあとで自分の考えを述べればよいのです。\nB：その結果、今まで築いてきた人間関係まで壊してしまうことさえある。自分の周りの人達を大切にして、助言を生かしていく気持ちを持つためには、まず自分のこれまでの努力を肯定的にとらえてみよう。",
+        "tip": "Câu ‘điểm chung’: loại các phương án chỉ đúng với một bài (3 chỉ B, 4 chỉ A)."
+      }
+    },
+    {
+      "num": 70,
+      "passage": "AB",
+      "stem": "AとBでは新社会人にどのようにアドバイスをしているか。",
+      "options": [
+        "Aでは自分の価値観を重視することが大切だと述べ、Bでは自分の努力してきた姿を振り返ることが大切だと述べている。",
+        "Aでは周りの人に自分の考えを伝えることが大切だと述べ、Bでは相手に認めてもらうことが大切だと述べている。",
+        "Aでは相手の考えを尊重することが大切だと述べ、Bでは自分の努力を認めることが大切だと述べている。",
+        "Aでは相手の意見を認めることが大切だと述べ、Bでは周りの人の言葉を聞くことが大切だと述べている。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "A và B khuyên người mới đi làm như thế nào? → A nói tôn trọng suy nghĩ của đối phương là quan trọng, B nói công nhận nỗ lực của bản thân là quan trọng.",
+        "why": "A: まず相手の考え方を受け入れてみてください (tiếp nhận = tôn trọng suy nghĩ đối phương). B: まず自分のこれまでの努力を肯定的にとらえてみよう (nhìn nhận tích cực = công nhận nỗ lực của mình).",
+        "options": [
+          "A không nói coi trọng giá trị quan của bản thân — ngược lại, khuyên kìm nén mình. Sai.",
+          "A nói nêu ý kiến SAU khi có lòng tin, trọng tâm là tiếp nhận đối phương; B không nói để người khác công nhận. Sai.",
+          "A: tôn trọng suy nghĩ đối phương; B: tự công nhận nỗ lực. ĐÚNG.",
+          "Vế A đúng, nhưng với B, nghe lời người khác là KẾT QUẢ; lời khuyên chính là tự công nhận nỗ lực (まず). Sai."
+        ],
+        "vocab": [
+          { "w": "尊重", "r": "そんちょう", "hv": "TÔN TRỌNG", "vi": "tôn trọng" },
+          { "w": "受け入れる", "r": "うけいれる", "hv": "THỤ NHẬP", "vi": "tiếp nhận, chấp nhận" },
+          { "w": "肯定的", "r": "こうていてき", "hv": "KHẲNG ĐỊNH ĐÍCH", "vi": "mang tính khẳng định, tích cực" },
+          { "w": "素直", "r": "すなお", "hv": "TỐ TRỰC", "vi": "ngoan ngoãn, thẳng thắn tiếp thu" }
+        ],
+        "grammar": null,
+        "evidence": "A：しかし、そんな時にはまず相手の考え方を受け入れてみてください。\nB：まず自分のこれまでの努力を肯定的にとらえてみよう。結果が完璧でなくても、「よくやった」と自分自身に言えると、ほかの人の言葉も素直に聞くことができるようになる。",
+        "tip": "Tìm từ まず (trước hết) trong mỗi bài → đó là lời khuyên chính."
+      }
+    }
+  ]
+}

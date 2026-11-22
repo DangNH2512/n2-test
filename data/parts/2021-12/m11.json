@@ -1,0 +1,233 @@
+{
+  "exam": "2021-12",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（1）から（3）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(3) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "次の文章は、ある小学校の先生が自分のクラスについて書いたものである。\n\n5年生を受け持った時の5月、T男は（注1）つぶやいた。「<u>僕はやりたくないなあ</u>。だって、どうせ僕にはいいところなんてないもん」。クラスの友達の「いいところ探し」をしようと提案した時のことだ。\nクラス替えをしたばかりで、まだ子ども同士の関係が深まっていない時期である。友達のことを知ってほしい、長所を見つける目を持ってほしい、という意図で提案した。T男のつぶやきを聞き、自信をつけさせるチャンスになるかもしれない、と考えた。\n「その人のいいところや、良さを見つけた場面などを書きましょう」と全員の名前を書いたプリントを配布した。プリントを前に、ニコニコしながら書く子、友達の顔をちらちらと見て書く子、難しい顔で考え込む子など様々だ。それでも表情を見ているだけで、子どもたちが一生懸命友達の良さを見つけようとしている様子が伝わってきた。\nT男を見ると、全く書けていない。小声で伝えた。「T男くんの良いところを書いてくれている人がたくさんいるよ」「うそだー」「うそじゃないよ。習字がうまいとか、係の仕事をちゃんとやっているとか」。聞いて（注2）まんざらでもないといった表情である。\n続きを翌週までに仕上げておくことにした。T男も全員分の長所の記入ができた。\n提出されたものをまとめ、冊子にして配布した。自分の長所について書かれたものを読んでいる子供たちは、T男を含め誰もが、照れくさいけれどうれしい、といった表情だった。\n\n（注1）つぶやく：小さな声でひとりごとを言う\n（注2）まんざらでもない：必ずしも嫌ではない"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "作り声は「本当の自分の姿を出したくない」という思いの表れでもあります。（中略）\n日本には、話す人が違ってもまるで同じ人であるかのような「職業声」があります。その仕事に就く人は「自分はこんな声にならないといけない」と思い込んでいるかのようです。特に（注1）接客業や営業職に多く見られる職業声は、まるで声をマニュアルや制服と同じように扱っているように感じます。自分の本来の声を職業声で覆ってしまうことで、「仕事を言われたとおりにやっていますよ」「自分はこの仕事をする人になりきっていますよ」と暗に示しているのです。自分の個性を消して（注2）うわべの職業声で話すことは、厳しい見方をすれば、人間対人間の場面で、個人を放棄しているとも言えますね。個人の（注3）放棄は責任の放棄ともたやすく繋がります。\n制服を着てしまうと組織の一員となって個人は消える。職業声も同じです。仕事に個性などいらないということでしょうか。しかし一日の三分の一は仕事をしているわけですから、その時間を制服のような借り物の声で話すことは、気楽ではあるかもしれないけれど、心身には大きな負担であろうと思います。\n\n（注1）接客業：飲食店やホテルなどで客に接する職業\n（注2）うわべの：表面的な\n（注3）放棄する：捨てる"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "数年前、家を引っ越した。50年住み慣れた小さな家だったが、いざ引っ越しとなると、使っていない道具がごろごろ出てきて、あらためてものの多さにびっくりした。道具にしろ、本にしろずいぶん多量に所有していて、これを（注1）使いこなし、（注2）読みつくすには多量の時間がかかる。あと何年生きられるだろうと人生を逆算してみて、①<u>この物量はムダだなあ</u>と引っ越しのトラックの助手席で考えた。\n私は世間の人よりはものの所有欲が強いとは思っていない。むしろものをもたないほうと思っているが、それでもものが多過ぎるのである。\n昔、「預かりものの思想」と言った人がいる。人はぽつんと生まれて、ぷつんと消えていく。家や土地、道具にしても、いくら自分の所有だと励んでみても、死んでしまえばもっていけない。いずれは世の中に返していかなければならない。このわずかな人生の時間の中で、②<u>それ</u>を楽しむしかないのだ。空気や水と同じように、土地も家も道具も、あらゆる諸物は世の中から預かって、生きている間だけ借りているのだ、という考えだった。たしかに、私たちはものへの所有欲が強い。車をもつ、家をもつ、高級ブランド品をもつ、携帯電話をもつ、コンピューターをもつ、所有することで満足感を得ている。しかし、所有欲をふくらませるには、どこかで限界があるだろう。「預かりものの思想」は、そういう（注3）物欲にかられる私たちに冷水をかける思想だった。\n\n（注1）使いこなす：ここでは、すべて使う\n（注2）読みつくす：すべて読む\n（注3）物欲にかられる：物欲を抑えられなくなる"
+    }
+  ],
+  "questions": [
+    {
+      "num": 57,
+      "passage": "p1",
+      "stem": "「<u>僕はやりたくないなあ</u>」とあるが、T男はなぜ「いいところ探し」をやりたくないと言ったのか。",
+      "options": ["自分自身の長所が見つけられないから。", "自分の良さを書くのが恥ずかしいから。", "友達の長所を見つけるのは難しいから。", "友達のことがまだよくわからないから。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "T-o nói 'Em không muốn làm đâu', vì sao cậu không muốn tham gia 'tìm điểm tốt'? → Vì cậu không tìm thấy ưu điểm nào của bản thân.",
+        "why": "Ngay sau câu đó T-o giải thích: 'dù sao thì em cũng chẳng có điểm tốt nào' (どうせ僕にはいいところなんてない) → cậu nghĩ mình không có ưu điểm.",
+        "options": [
+          "Không tìm thấy ưu điểm của bản thân → khớp với 僕にはいいところなんてない. ĐÚNG.",
+          "Ngại viết về điểm tốt của mình → hoạt động là viết về bạn, và lý do không phải xấu hổ. Sai.",
+          "Tìm ưu điểm của bạn khó → T-o không nói vậy. Sai.",
+          "Chưa hiểu rõ bạn bè → đây là bối cảnh lớp mới (lý do giáo viên đề xuất), không phải lý do của T-o. Sai."
+        ],
+        "vocab": [
+          { "w": "つぶやく", "r": "つぶやく", "hv": "", "vi": "lẩm bẩm" },
+          { "w": "どうせ", "r": "どうせ", "hv": "", "vi": "đằng nào thì, dù sao thì (bi quan)" },
+          { "w": "長所", "r": "ちょうしょ", "hv": "TRƯỜNG SỞ", "vi": "ưu điểm, sở trường" },
+          { "w": "提案", "r": "ていあん", "hv": "ĐỀ ÁN", "vi": "đề xuất" }
+        ],
+        "grammar": null,
+        "evidence": "「僕はやりたくないなあ。だって、どうせ僕にはいいところなんてないもん」。",
+        "tip": "「だって～もん」 = lý do (văn nói của trẻ con)."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p1",
+      "stem": "「いいところ探し」は、どのようにするのか。",
+      "options": ["先生からもらった紙に、いいところのある友達の名前を書いて提出する。", "先生からもらった紙に、クラス全員の名前といいところを書いて提出する。", "クラス全員の名前のある紙に、一人ひとりの長所を書いて、先生に提出する。", "クラス全員の名前のある紙に、長所がある友達について書いて、先生に提出する。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hoạt động 'tìm điểm tốt' được làm như thế nào? → Viết ưu điểm của từng người vào tờ giấy có sẵn tên cả lớp, rồi nộp cho giáo viên.",
+        "why": "Giáo viên phát tờ giấy đã in sẵn tên tất cả (全員の名前を書いたプリント), học sinh viết điểm tốt của từng người; T-o cũng 'viết được ưu điểm cho tất cả mọi người' (全員分の長所の記入ができた), sau đó nộp lại.",
+        "options": [
+          "Viết tên bạn có điểm tốt → tên đã in sẵn, và phải viết cho tất cả. Sai.",
+          "Tự viết tên cả lớp và điểm tốt → tên đã được in sẵn, học sinh không viết tên. Sai.",
+          "Giấy có tên cả lớp, viết ưu điểm từng người, nộp giáo viên → ĐÚNG.",
+          "Chỉ viết về bạn nào có ưu điểm → phải viết cho toàn bộ (全員分). Sai."
+        ],
+        "vocab": [
+          { "w": "配布", "r": "はいふ", "hv": "PHỐI BỐ", "vi": "phân phát" },
+          { "w": "記入", "r": "きにゅう", "hv": "KÝ NHẬP", "vi": "điền vào" },
+          { "w": "提出", "r": "ていしゅつ", "hv": "ĐỀ XUẤT", "vi": "nộp" },
+          { "w": "冊子", "r": "さっし", "hv": "SÁCH TỬ", "vi": "cuốn sổ, tập sách nhỏ" }
+        ],
+        "grammar": null,
+        "evidence": "「その人のいいところや、良さを見つけた場面などを書きましょう」と全員の名前を書いたプリントを配布した。／T男も全員分の長所の記入ができた。提出されたものをまとめ…",
+        "tip": "Phân biệt 2 vs 3: ai viết tên? → 全員の名前を書いたプリント = giáo viên đã viết sẵn."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p1",
+      "stem": "「いいところ探し」の目的は何か。",
+      "options": ["T男のいいところをみんなに知ってもらい、T男が新しいクラスに馴染むようにすること", "クラスのみんなが互いに他の友達のことを知り、いいところを認め合うようにすること", "誰も気づいていなかった友達の長所を見つけて書き、クラスの前で話せるようにすること", "友達のいいところを探して書くことで、自分に足りなかったことに気づくようにすること"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Mục đích của 'tìm điểm tốt' là gì? → Để cả lớp hiểu về nhau và công nhận điểm tốt của nhau.",
+        "why": "Giáo viên đề xuất với ý đồ: 'muốn các em biết về bạn bè, có con mắt tìm ra ưu điểm' (友達のことを知ってほしい、長所を見つける目を持ってほしい) trong thời điểm lớp mới, quan hệ chưa sâu.",
+        "options": [
+          "Giúp T-o hòa nhập lớp mới → T-o chỉ là cơ hội phụ (tạo tự tin), không phải mục đích ban đầu. Sai.",
+          "Cả lớp hiểu nhau, công nhận điểm tốt của nhau → khớp ý đồ giáo viên. ĐÚNG.",
+          "Phát biểu trước lớp → không có hoạt động nói trước lớp, mà làm thành cuốn sổ. Sai.",
+          "Nhận ra thiếu sót của bản thân → không được nhắc đến. Sai."
+        ],
+        "vocab": [
+          { "w": "意図", "r": "いと", "hv": "Ý ĐỒ", "vi": "ý đồ, mục đích" },
+          { "w": "馴染む", "r": "なじむ", "hv": "", "vi": "quen, hòa nhập" },
+          { "w": "認め合う", "r": "みとめあう", "hv": "", "vi": "công nhận lẫn nhau" },
+          { "w": "クラス替え", "r": "クラスがえ", "hv": "", "vi": "chia lại lớp" }
+        ],
+        "grammar": null,
+        "evidence": "友達のことを知ってほしい、長所を見つける目を持ってほしい、という意図で提案した。",
+        "tip": "Tìm từ khóa 意図／目的／ために trong bài."
+      }
+    },
+    {
+      "num": 60,
+      "passage": "p2",
+      "stem": "筆者は、人々がなぜ「職業声」を使うと思っているか。",
+      "options": ["自分が仕事をするうえで求められていると思っているから。", "自分が仕事に向いていると思われたいから。", "自分がその仕事に合わないと思われたくないから。", "自分の中で仕事のイメージを明確にできると思っているから。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, vì sao người ta dùng 'giọng nghề nghiệp'? → Vì họ nghĩ đó là điều được yêu cầu khi làm công việc.",
+        "why": "Tác giả viết: người làm nghề đó dường như tin chắc rằng 'mình phải có giọng như thế này' (こんな声にならないといけない) — tức là họ nghĩ công việc đòi hỏi điều đó, giống như manual hay đồng phục.",
+        "options": [
+          "Nghĩ rằng công việc yêu cầu → = こんな声にならないといけないと思い込んでいる. ĐÚNG.",
+          "Muốn được cho là hợp với công việc → bài không nói về mong muốn được đánh giá. Sai.",
+          "Không muốn bị cho là không hợp → không được nhắc đến. Sai.",
+          "Làm rõ hình ảnh công việc trong bản thân → không có trong bài. Sai."
+        ],
+        "vocab": [
+          { "w": "職業声", "r": "しょくぎょうごえ", "hv": "CHỨC NGHIỆP THANH", "vi": "giọng nghề nghiệp" },
+          { "w": "思い込む", "r": "おもいこむ", "hv": "", "vi": "tin chắc, đinh ninh" },
+          { "w": "接客業", "r": "せっきゃくぎょう", "hv": "TIẾP KHÁCH NGHIỆP", "vi": "ngành dịch vụ tiếp khách" },
+          { "w": "求める", "r": "もとめる", "hv": "CẦU", "vi": "yêu cầu, tìm kiếm" }
+        ],
+        "grammar": null,
+        "evidence": "その仕事に就く人は「自分はこんな声にならないといけない」と思い込んでいるかのようです。",
+        "tip": "～ないといけない = phải ~ → 'được yêu cầu' (求められている)."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p2",
+      "stem": "「職業声」で話すことについて、筆者はどのように考えているか。",
+      "options": ["人との繋がりがなくなってしまう。", "人に信用されなくなってしまう。", "仕事に対する自信を失ってしまう。", "個人としての自分を消してしまう。"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả nghĩ gì về việc nói bằng 'giọng nghề nghiệp'? → Nó xóa đi bản thân với tư cách một cá nhân.",
+        "why": "Tác giả: nói bằng giọng nghề nghiệp là 'xóa cá tính, từ bỏ cá nhân' (自分の個性を消して…個人を放棄している) và 'giống như mặc đồng phục thì cá nhân biến mất' (個人は消える。職業声も同じです).",
+        "options": [
+          "Mất kết nối với người khác → bài không nói mất kết nối. Sai.",
+          "Không được người khác tin tưởng → bài nói liên quan đến 'từ bỏ trách nhiệm', không nói mất lòng tin. Sai.",
+          "Mất tự tin vào công việc → không được nhắc đến. Sai.",
+          "Xóa bản thân với tư cách cá nhân → = 個性を消す／個人は消える. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "個性", "r": "こせい", "hv": "CÁ TÍNH", "vi": "cá tính" },
+          { "w": "放棄", "r": "ほうき", "hv": "PHÓNG KHÍ", "vi": "từ bỏ" },
+          { "w": "うわべ", "r": "うわべ", "hv": "", "vi": "bề ngoài" },
+          { "w": "繋がり", "r": "つながり", "hv": "", "vi": "sự kết nối" }
+        ],
+        "grammar": null,
+        "evidence": "自分の個性を消してうわべの職業声で話すことは、厳しい見方をすれば、人間対人間の場面で、個人を放棄しているとも言えますね。／制服を着てしまうと組織の一員となって個人は消える。職業声も同じです。",
+        "tip": "Đề gốc in nhầm 自身 ở phương án 3; đúng là 自信."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p3",
+      "stem": "①<u>この物量はムダだなあ</u>とあるが、筆者はなぜそう考えたのか。",
+      "options": ["残された時間ですべてを利用することができないから。", "使っていない道具も一緒に運ばなければならないから。", "整理のために人生の貴重な時間が奪われるから。", "使わなくなったものがたくさんあるから。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Vì sao tác giả nghĩ 'lượng đồ này thật lãng phí'? → Vì với thời gian còn lại, không thể sử dụng hết mọi thứ.",
+        "why": "Tác giả nói: để dùng hết đồ, đọc hết sách cần rất nhiều thời gian; tính ngược xem còn sống được mấy năm nữa → thấy lãng phí. Tức là thời gian còn lại không đủ để dùng hết.",
+        "options": [
+          "Thời gian còn lại không đủ dùng hết → khớp với 使いこなし、読みつくすには多量の時間がかかる + 人生を逆算. ĐÚNG.",
+          "Phải chở cả đồ không dùng → bài không nói đến lý do vận chuyển. Sai.",
+          "Mất thời gian quý báu để sắp xếp → không nói về việc sắp xếp. Sai.",
+          "Có nhiều đồ không dùng nữa → đây là điều làm tác giả ngạc nhiên, nhưng lý do 'lãng phí' là không đủ thời gian để dùng hết. Sai."
+        ],
+        "vocab": [
+          { "w": "物量", "r": "ぶつりょう", "hv": "VẬT LƯỢNG", "vi": "lượng đồ vật" },
+          { "w": "所有", "r": "しょゆう", "hv": "SỞ HỮU", "vi": "sở hữu" },
+          { "w": "逆算", "r": "ぎゃくさん", "hv": "NGHỊCH TOÁN", "vi": "tính ngược" },
+          { "w": "使いこなす", "r": "つかいこなす", "hv": "", "vi": "dùng thành thạo; (ở đây) dùng hết" }
+        ],
+        "grammar": null,
+        "evidence": "これを使いこなし、読みつくすには多量の時間がかかる。あと何年生きられるだろうと人生を逆算してみて、この物量はムダだなあと…考えた。",
+        "tip": "Đề gốc in thiếu chữ ở phương án 3 (なわれる); hợp lý là 奪われる."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p3",
+      "stem": "②<u>それ</u>とは何を指すか。",
+      "options": ["世の中。", "ものの貸し借り。", "所有しているもの。", "わずかな人生の時間。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "'Nó' ② chỉ cái gì? → Những thứ mình đang sở hữu.",
+        "why": "Câu trước nói về 'nhà, đất, đồ đạc... dù cố cho là của mình thì chết cũng không mang theo được, rồi phải trả lại cho đời'. → 'Trong khoảng đời ngắn ngủi, chỉ còn cách tận hưởng NÓ' = những thứ đang sở hữu (家や土地、道具).",
+        "options": [
+          "Thế gian → là nơi phải trả đồ về, không phải thứ để 'tận hưởng'. Sai.",
+          "Việc vay mượn đồ → không phải đối tượng được nhắc ở câu trước. Sai.",
+          "Những thứ đang sở hữu → = 家や土地、道具. ĐÚNG.",
+          "Khoảng đời ngắn ngủi → nằm ngay trong câu chứa それ (このわずかな人生の時間の中で), không thể là thứ được chỉ. Sai."
+        ],
+        "vocab": [
+          { "w": "預かる", "r": "あずかる", "hv": "DỰ", "vi": "giữ hộ, nhận trông coi" },
+          { "w": "土地", "r": "とち", "hv": "THỔ ĐỊA", "vi": "đất đai" },
+          { "w": "わずか", "r": "わずか", "hv": "", "vi": "ít ỏi, ngắn ngủi" },
+          { "w": "世の中", "r": "よのなか", "hv": "", "vi": "thế gian, xã hội" }
+        ],
+        "grammar": null,
+        "evidence": "家や土地、道具にしても、いくら自分の所有だと励んでみても、死んでしまえばもっていけない。いずれは世の中に返していかなければならない。このわずかな人生の時間の中で、それを楽しむしかないのだ。",
+        "tip": "Từ chỉ thị それ thường chỉ danh từ chính ở câu trước; thay thử vào câu để kiểm tra."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p3",
+      "stem": "「預かりものの思想」では、ものをどのように考えているか。",
+      "options": ["生きている間にすべて返さなければならない。", "生きている間だけ世の中から借りている。", "所有していてもいつかは消えてしまう。", "所有するより借りたほうがいい。"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo 'tư tưởng đồ giữ hộ', đồ vật được nghĩ như thế nào? → Chỉ là mượn từ thế gian trong thời gian còn sống.",
+        "why": "Bài viết tóm tắt tư tưởng: mọi vật đều là giữ hộ từ thế gian, chỉ được mượn trong lúc còn sống (生きている間だけ借りている).",
+        "options": [
+          "Phải trả hết trong lúc còn sống → bài nói chết rồi thì trả lại, không phải phải trả khi còn sống. Sai.",
+          "Chỉ mượn từ thế gian khi còn sống → khớp nguyên văn. ĐÚNG.",
+          "Dù sở hữu thì một lúc nào đó cũng biến mất → bài nói con người biến mất, đồ vật thì trả lại cho đời. Sai.",
+          "Mượn tốt hơn sở hữu → không so sánh như vậy. Sai."
+        ],
+        "vocab": [
+          { "w": "思想", "r": "しそう", "hv": "TƯ TƯỞNG", "vi": "tư tưởng" },
+          { "w": "預かりもの", "r": "あずかりもの", "hv": "", "vi": "đồ được giữ hộ" },
+          { "w": "所有欲", "r": "しょゆうよく", "hv": "SỞ HỮU DỤC", "vi": "ham muốn sở hữu" }
+        ],
+        "grammar": null,
+        "evidence": "空気や水と同じように、土地も家も道具も、あらゆる諸物は世の中から預かって、生きている間だけ借りているのだ、という考えだった。",
+        "tip": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "exam": "2012-07",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn câu sử dụng từ đã cho một cách đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "とぼしい",
+      "options": [
+        "このスープは塩味が<u>とぼしい</u>。",
+        "この国は天然資源に<u>とぼしい</u>。",
+        "音量が<u>とぼしく</u>て聞こえにくい。",
+        "この商品には<u>とぼしい</u>需要しかない。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Đất nước này nghèo tài nguyên thiên nhiên.",
+        "why": "乏しい(とぼしい) = thiếu, nghèo nàn (tài nguyên, kinh nghiệm, kiến thức...). Mẫu thường gặp: 「Nに乏しい」 (資源に乏しい, 経験に乏しい).",
+        "options": [
+          "Vị mặn nhạt → phải dùng 薄い(うすい) / 足りない. Sai.",
+          "天然資源に乏しい: nghèo tài nguyên thiên nhiên. ĐÚNG.",
+          "Âm lượng nhỏ → phải dùng 小さい. Sai.",
+          "Nhu cầu ít → dùng わずかな需要 / 需要が少ない; 乏しい không đứng trước 需要 kiểu này. Sai."
+        ],
+        "vocab": [
+          { "w": "乏しい", "r": "とぼしい", "hv": "PHẠP", "vi": "thiếu thốn, nghèo nàn" },
+          { "w": "天然資源", "r": "てんねんしげん", "hv": "THIÊN NHIÊN TƯ NGUYÊN", "vi": "tài nguyên thiên nhiên" },
+          { "w": "需要", "r": "じゅよう", "hv": "NHU YẾU", "vi": "nhu cầu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhớ cụm: 経験に乏しい, 資源に乏しい, 変化に乏しい (đơn điệu)."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "矛盾",
+      "options": [
+        "山田さんはみんなで決めたことに<u>矛盾</u>している。",
+        "北半球と南半球では夏と冬が<u>矛盾</u>している。",
+        "あの人の言ったことは、この前の話と<u>矛盾</u>している。",
+        "穏やかな彼女がロックを聞くなんて、<u>矛盾</u>している。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều người đó nói mâu thuẫn với câu chuyện lần trước.",
+        "why": "矛盾(むじゅん) = mâu thuẫn (hai lời nói/logic không khớp nhau). 「AとBが矛盾する」「Aは Bと矛盾している」.",
+        "options": [
+          "Làm trái quyết định chung → dùng 反する / 従わない. Sai.",
+          "Mùa hè và mùa đông ngược nhau → dùng 逆(ぎゃく)だ / 反対だ. Sai.",
+          "Lời nói mâu thuẫn với chuyện trước. ĐÚNG.",
+          "Tính cách hiền mà nghe rock → 意外だ (bất ngờ). Sai."
+        ],
+        "vocab": [
+          { "w": "矛盾", "r": "むじゅん", "hv": "MÂU THUẪN", "vi": "mâu thuẫn" },
+          { "w": "穏やか", "r": "おだやか", "hv": "ỔN", "vi": "điềm đạm, ôn hòa" },
+          { "w": "南半球", "r": "みなみはんきゅう", "hv": "NAM BÁN CẦU", "vi": "Nam bán cầu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "矛盾 dùng cho lời nói, lý lẽ, hành động không nhất quán: 言うこととすることが矛盾している."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "問い合わせる",
+      "options": [
+        "ご質問はこの電話番号にお<u>問い合わせ</u>ください。",
+        "街で知らない人に道を<u>問い合わせ</u>られた。",
+        "週末は映画を見に行かないかと、妹に<u>問い合わせた</u>。",
+        "言葉の正確な意味は辞書に<u>問い合わせ</u>よう。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nếu có câu hỏi, xin vui lòng liên hệ (hỏi) qua số điện thoại này.",
+        "why": "問い合わせる(といあわせる) = liên hệ để hỏi thông tin (với cơ quan, công ty, nơi phụ trách). Câu 1 là cách dùng tiêu biểu.",
+        "options": [
+          "Hỏi số điện thoại để hỏi thông tin. ĐÚNG.",
+          "Hỏi đường người lạ → dùng 聞かれた / 尋ねられた. Sai.",
+          "Rủ em gái đi xem phim → dùng 誘った / 聞いた. Sai.",
+          "Tra từ điển → dùng 辞書で調べよう / 辞書を引こう. Sai."
+        ],
+        "vocab": [
+          { "w": "問い合わせる", "r": "といあわせる", "hv": "VẤN HỢP", "vi": "liên hệ hỏi thông tin" },
+          { "w": "尋ねる", "r": "たずねる", "hv": "TẦM", "vi": "hỏi" },
+          { "w": "正確", "r": "せいかく", "hv": "CHÍNH XÁC", "vi": "chính xác" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "お問い合わせ先 = nơi liên hệ; thường đi với 会社・窓口・事務所に問い合わせる."
+      }
+    },
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "交代",
+      "options": [
+        "時計の電池が切れてしまったので、新しいのに<u>交代</u>した。",
+        "少し疲れたので、友達に運転を<u>交代</u>してもらった。",
+        "用事ができて、待ち合わせの時間を1時から3時に<u>交代</u>してもらった。",
+        "今年の4月に前の会社をやめて、会社に<u>交代</u>した。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Vì hơi mệt nên tôi đã nhờ bạn đổi lái thay mình.",
+        "why": "交代(こうたい) = thay phiên, đổi người làm một việc. 「運転を交代する」 = đổi người lái.",
+        "options": [
+          "Thay pin mới → dùng 交換(こうかん)した / 取り替えた. Sai.",
+          "Đổi người lái xe. ĐÚNG.",
+          "Đổi giờ hẹn → dùng 変更(へんこう)してもらった. Sai.",
+          "Chuyển công ty → dùng 転職(てんしょく)した. Sai."
+        ],
+        "vocab": [
+          { "w": "交代", "r": "こうたい", "hv": "GIAO ĐẠI", "vi": "thay phiên, đổi người" },
+          { "w": "交換", "r": "こうかん", "hv": "GIAO HOÁN", "vi": "trao đổi, thay (đồ vật)" },
+          { "w": "変更", "r": "へんこう", "hv": "BIẾN CANH", "vi": "thay đổi (kế hoạch, thời gian)" },
+          { "w": "転職", "r": "てんしょく", "hv": "CHUYỂN CHỨC", "vi": "chuyển việc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "交代 = người thay người (選手交代, 交代で休む); 交換 = vật đổi vật."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "合同",
+      "options": [
+        "複数の大学が<u>合同</u>でスポーツ大会を行った。",
+        "みんなの<u>合同</u>で、イベントの準備は着々と進んでいる。",
+        "三つの市の<u>合同</u>で、県で一番大きな市が誕生した。",
+        "寮ではみんなが<u>合同</u>でシャワールームを使っている。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nhiều trường đại học đã cùng nhau tổ chức chung một đại hội thể thao.",
+        "why": "合同(ごうどう) = nhiều tổ chức/nhóm hợp lại cùng làm một việc. 「合同で～を行う」, 合同練習, 合同会議.",
+        "options": [
+          "Các trường cùng tổ chức đại hội. ĐÚNG.",
+          "Nhờ sự hợp sức của mọi người → dùng 協力(きょうりょく). Sai.",
+          "Ba thành phố sáp nhập → dùng 合併(がっぺい). Sai.",
+          "Dùng chung phòng tắm → dùng 共同(きょうどう)で. Sai."
+        ],
+        "vocab": [
+          { "w": "合同", "r": "ごうどう", "hv": "HỢP ĐỒNG", "vi": "liên kết, cùng nhau tổ chức" },
+          { "w": "合併", "r": "がっぺい", "hv": "HỢP TÍNH", "vi": "sáp nhập" },
+          { "w": "共同", "r": "きょうどう", "hv": "CỘNG ĐỒNG", "vi": "chung, cùng (sử dụng)" },
+          { "w": "協力", "r": "きょうりょく", "hv": "HIỆP LỰC", "vi": "hợp tác" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy: 合同 tiếng Nhật KHÔNG phải 'hợp đồng' (契約 けいやく). 共同で使う = dùng chung."
+      }
+    }
+  ]
+}

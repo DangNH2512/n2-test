@@ -1,0 +1,104 @@
+{
+  "exam": "2010-12",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn rồi chọn câu trả lời đúng nhất cho mỗi câu hỏi (đoạn văn dài).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "記憶力",
+      "text": "「実は、○○と関係があるのですよ。それに思いついて出来たのです。\nどうしても解けないでいた問題を先に解いた人から言われ、それだったら、自分の方が経験が豊富だし、知識があるし、「<u>俺にもできたはずなのに…</u>」と悔しい思いをすることがある。アイデアにしても、「このぐらいのアイデアだったら、自分が考えついてもおかしくないのに」と思うことは結構、多いものである。\n記憶力には、覚える力と引き出す力の二つがある。いくら覚えても、それを引き出せなければ役に立たない。しかし、覚えていないものは引き出しようがない。つまり、その両方を鍛えないと、記憶力は生きてこないのである。\n（中略）\nコンピュータは一人の人が覚えきれない、そもそも普通なら出会うこともない膨大な情報を記憶しており、われわれはそれを検索エンジンによって、検索し引き出せる。しかし、人がある問題解決をしている時は、そうしてコンピュータから引き出した知識が、短期間にせよ自分の頭の中に、それまで持っていた知識とともに記憶構成されなければ役に立たない。\nコンピュータがいくら豊富な知識を内蔵（注1）していても、人間自身がそうして検査した知識を、覚え、関連付け、再び引き出すという訓練をしていなければ、宝の持ち腐れ（注2）である。では、どうしたら、そういう関連して引き出せる記憶とすることができるか？\n記憶力を鍛えるいろいろな本が書かれているが、残念ながら、私には特効薬があるとは思えない。\nが、まず、覚える時に、理解して覚えることである。理解して覚えたことは正しく出てくる。例えば、問題を解くときでも、「あ、これは昨年解いた問題と似た問題だ」と気がついてすらすら解けることがある。しかし、昨年解いた問題をしっかりと理解していないと、関係がわからないために脳の中で連結（注3）することができないのだ。うろ覚え（注4）ではどこかに穴ができて、後で活用することができない。\n次に、どんなことを読んだり聞いたりしても、自分の知っていること、経験したこととの関連を思い浮かべることだ。いつも、「もしそうなら」とその役立ち方について想像を膨らませながら新しい知識を覚えることである。それが知識への感受性（注5）を高める。\n記憶をアイデアや創造という問題解決に生かすためには、一つ一つを覚える時に、「わかった」と「もしそうなら」からスタートすることであろうか。\n\n（金出武雄『素人のように考え、玄人として実行する―問題解決のメタ技術』による）\n\n（注1）内蔵する：その中に持っている\n（注2）宝の持ち腐れである：せっかくいいものでも無駄になってしまう。\n（注3）連結する：結びつける\n（注4）うろ覚え：はっきりと覚えていないこと\n（注5）感受性：物を感じ取る力"
+    }
+  ],
+  "questions": [
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "筆者は「<u>俺にもできたはずなのに</u>…」と述べているが、できなかった理由をどのように考えているか。",
+      "options": ["自分が記憶した方法がその問題の解決に合うものではなかったから。", "自分の今までの経験や知識をその問題と関連付けられなかったから。", "自分の方が経験や知識があると思っていたが実際はそうではなかったから。", "自分では記憶したつもりでいたことが情報として蓄積されていなかったから。"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tác giả nói ‘Lẽ ra mình cũng làm được…’, vậy tác giả nghĩ lý do không làm được là gì? → Vì đã không liên kết được kinh nghiệm, kiến thức của mình với vấn đề đó.",
+        "why": "Có kinh nghiệm và kiến thức nhưng không làm được vì không ‘lấy ra’ được: tác giả nhấn mạnh cần ghi nhớ – liên kết – lấy ra lại (覚え、関連付け、再び引き出す); không hiểu thì không thể 連結 trong não. → Lý do: không liên kết được kiến thức sẵn có với vấn đề.",
+        "options": [
+          "Bài không nói phương pháp đã nhớ không phù hợp với vấn đề. Sai.",
+          "Không liên kết được kinh nghiệm/kiến thức với vấn đề. ĐÚNG.",
+          "Tác giả không phủ nhận việc mình có nhiều kinh nghiệm, kiến thức hơn. Sai.",
+          "Vấn đề không phải ‘chưa tích lũy’ mà là không liên kết và lấy ra được. Sai."
+        ],
+        "vocab": [
+          { "w": "悔しい", "r": "くやしい", "hv": "HỐI", "vi": "tiếc, cay cú" },
+          { "w": "関連付ける", "r": "かんれんづける", "hv": "QUAN LIÊN PHÓ", "vi": "liên kết, gắn kết" },
+          { "w": "引き出す", "r": "ひきだす", "hv": "DẪN XUẤT", "vi": "lấy ra, rút ra" },
+          { "w": "豊富", "r": "ほうふ", "hv": "PHONG PHÚ", "vi": "phong phú, dồi dào" }
+        ],
+        "grammar": {
+          "pattern": "～はずなのに",
+          "meaning": "lẽ ra ~ vậy mà (thực tế không như vậy)",
+          "form": "普通形＋はずなのに",
+          "example": "ちゃんと準備したはずなのに、うまくいかなかった。"
+        },
+        "evidence": "コンピュータがいくら豊富な知識を内蔵していても、人間自身がそうして検査した知識を、覚え、関連付け、再び引き出すという訓練をしていなければ、宝の持ち腐れである。…昨年解いた問題をしっかりと理解していないと、関係がわからないために脳の中で連結することができないのだ。",
+        "tip": "Từ khóa xuyên suốt bài: 関連付け・連結・関連 → câu trả lời đúng thường dùng lại ý này."
+      }
+    },
+    {
+      "num": 72,
+      "passage": "p1",
+      "stem": "筆者はコンピュータの例をあげて何を言おうとしているのか。",
+      "options": ["人間ひとりひとりが持つ情報量はコンピュータの持つ情報量を到底超えることができない。", "人間ひとりひとりが持つ記憶力は情報量の豊富なコンピュータを利用することでさらに生かせる。", "人間が問題を解決する過程は、コンピュータが膨大なデータから必要な情報を引き出す過程と同じだ。", "人間が問題を解決するにはコンピュータのように知識や情報を持っているだけでは不十分である。"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả đưa ví dụ máy tính để muốn nói điều gì? → Để con người giải quyết vấn đề, chỉ sở hữu kiến thức, thông tin như máy tính là chưa đủ.",
+        "why": "Máy tính chứa lượng thông tin khổng lồ, nhưng nếu con người không ghi nhớ – liên kết – lấy ra lại được thì cũng ‘của quý để mục’ (宝の持ち腐れ). → Chỉ ‘có’ kiến thức thì không đủ.",
+        "options": [
+          "Đây là sự thật phụ, không phải điều tác giả muốn nói. Sai.",
+          "Tác giả không nói dùng máy tính giúp phát huy trí nhớ; ngược lại, kiến thức lấy từ máy tính vô dụng nếu không được cấu trúc trong đầu. Sai.",
+          "Tác giả nhấn mạnh sự KHÁC nhau: con người phải ghi nhớ, liên kết trong đầu. Sai.",
+          "Chỉ có kiến thức như máy tính là không đủ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "膨大", "r": "ぼうだい", "hv": "BÀNH ĐẠI", "vi": "khổng lồ, đồ sộ" },
+          { "w": "内蔵", "r": "ないぞう", "hv": "NỘI TÀNG", "vi": "chứa bên trong" },
+          { "w": "宝の持ち腐れ", "r": "たからのもちぐされ", "hv": "BẢO TRÌ HỦ", "vi": "có của quý mà để phí" },
+          { "w": "到底", "r": "とうてい", "hv": "ĐÁO ĐỂ", "vi": "(không) thể nào" }
+        ],
+        "grammar": {
+          "pattern": "～にせよ",
+          "meaning": "dù là ~ đi nữa",
+          "form": "普通形 (N/Na) ＋にせよ",
+          "example": "短期間にせよ、海外で暮らした経験は貴重だ。"
+        },
+        "evidence": "しかし、人がある問題解決をしている時は、そうしてコンピュータから引き出した知識が、短期間にせよ自分の頭の中に、それまで持っていた知識とともに記憶構成されなければ役に立たない。コンピュータがいくら豊富な知識を内蔵していても、…訓練をしていなければ、宝の持ち腐れである。",
+        "tip": "Câu hỏi ‘đưa ví dụ để nói gì’ → tìm câu có しかし ngay sau ví dụ."
+      }
+    },
+    {
+      "num": 73,
+      "passage": "p1",
+      "stem": "筆者は記憶力を鍛えるにはどうすればよいと述べているか。",
+      "options": ["新しい知識を理解して覚え、自分が知っていることと関連させる。", "自分がこれまでに経験したことや膨大な情報をしっかり理解する。", "新しい問題を繰り返し解いて、自分の理解を確認しながら定着させる。", "自分が考え付いたアイデアを情報として蓄え、必要な時に引き出す。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, để rèn luyện trí nhớ thì nên làm gì? → Hiểu rồi mới ghi nhớ kiến thức mới, và liên hệ với những điều mình đã biết.",
+        "why": "Tác giả nêu 2 bước: (1) まず、覚える時に、理解して覚える; (2) 次に、自分の知っていること、経験したこととの関連を思い浮かべる → tóm lại: hiểu rồi nhớ + liên hệ với điều đã biết.",
+        "options": [
+          "Hiểu để nhớ + liên hệ với điều đã biết. ĐÚNG.",
+          "Không phải ‘hiểu kỹ những gì đã trải qua và thông tin khổng lồ’; đối tượng cần hiểu là kiến thức mới khi ghi nhớ. Sai.",
+          "Bài không khuyên giải đi giải lại bài mới. Sai.",
+          "Bài không nói tích trữ ý tưởng của mình làm thông tin. Sai."
+        ],
+        "vocab": [
+          { "w": "鍛える", "r": "きたえる", "hv": "ĐOÁN", "vi": "rèn luyện" },
+          { "w": "特効薬", "r": "とっこうやく", "hv": "ĐẶC HIỆU DƯỢC", "vi": "thuốc đặc trị, cách thần kỳ" },
+          { "w": "うろ覚え", "r": "うろおぼえ", "hv": "", "vi": "nhớ mang máng" },
+          { "w": "感受性", "r": "かんじゅせい", "hv": "CẢM THỤ TÍNH", "vi": "tính nhạy cảm, khả năng cảm nhận" }
+        ],
+        "grammar": null,
+        "evidence": "が、まず、覚える時に、理解して覚えることである。…次に、どんなことを読んだり聞いたりしても、自分の知っていること、経験したこととの関連を思い浮かべることだ。",
+        "tip": "Bài liệt kê bằng まず… 次に… → câu trả lời đúng gộp đủ cả hai ý."
+      }
+    }
+  ]
+}

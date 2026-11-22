@@ -1,0 +1,80 @@
+{
+  "exam": "2010-07",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "下のページは、河山市で開かれる市民セミナーの案内である。下の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Trang dưới đây là thông báo về hội thảo dành cho người dân tổ chức tại thành phố Kawayama. Chọn câu trả lời đúng nhất cho các câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "2010年度　河山市市民セミナーⅢ",
+      "text": "2010年度　河山市市民セミナーⅢ\n「ビジネス場面での効果的なコミュニケーション法」参加者募集のお知らせ\n仕事をスムーズに進めるためには、コミュニケーションをうまくとることが重要です。このセミナーでは相手に自分の考えを効果的に伝えるためのコミュニケーション法を学びます。\n昨年度も同じテーマでセミナーを開催し、多くの方が参加されました。\n講師：鈴木花子（心理カウンセラー『社会人のコミュニケーション』秋川出版　著者）\n対象：河山市在住・在勤の18歳以上の社会人（河山市職員を除きます。）\n受講料：無料\n定員：20名　応募者多数の場合は抽選になります。結果ははがきでお知らせします。\n日程：平成22年10月1日～10月29日　毎週金曜日　全5回　19:00～20:30\n会場：河山市市民センター　第一会議室（河山市上町3―5―2）\n申し込み方法（①～③のいずれかの方法でお申込みください。）：\n①市役所市民課窓口　受付時間：水曜日を除く　9:00～17:00\n②はがき\n・「市民セミナーⅢ参加希望」と明記の上、住所、氏名、年齢、電話番号を記入して、申し込み締め切り日必着で、下記までお送りください。\n・はがき1枚につき1名のみ受付可能です。\n〒432―0001　河山市本町1－1－1　河山市役所市民課　市民セミナー係\n③市役所ホームページ（http://www.city.kawayama.lg.jp/）\n・市民セミナーのページからお申し込みください。\n・毎日午前2:00～5:00はホームページの点検作業のため申し込めません。\n申し込み締め切り：平成22年9月17日（金）\n\n昨年度セミナー受講者の声\n● 講師の指導が具体的でわかりやすかった。\n● コミュニケーションの具体的な取り方の例を聞くことができて大変有意義だった。\n● 自分の話し方が客観的にわかり、今まで気がつかなかった自分の癖を意識するようになった。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 74,
+      "passage": "p1",
+      "stem": "この市民セミナーを受講できるのは次のうちのだれか。",
+      "options": [
+        "市外から河山市の大学に通学している２１歳の女性",
+        "河山市のスーパーに勤務している３５歳の男性",
+        "河山市外の自宅で学習塾を開いている４６歳の女性",
+        "河山市役所の市民課に勤めている５３歳の男性"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Ai trong số sau có thể tham gia hội thảo này? → Người đàn ông 35 tuổi làm việc tại siêu thị ở thành phố Kawayama.",
+        "why": "Đối tượng: 河山市在住・在勤の18歳以上の社会人（河山市職員を除く）. Người đàn ông 35 tuổi làm ở siêu thị trong thành phố = “在勤” + là người đi làm → đủ điều kiện.",
+        "options": [
+          "Sinh viên 21 tuổi, sống ngoài thành phố → không phải 社会人 (người đi làm), cũng không sống/làm ở thành phố. Sai.",
+          "Làm việc tại siêu thị trong thành phố, 35 tuổi → 在勤の社会人. ĐÚNG.",
+          "Mở lớp học thêm tại nhà ở ngoài thành phố → không sống cũng không làm việc ở Kawayama. Sai.",
+          "Nhân viên tòa thị chính Kawayama → bị loại trừ (河山市職員を除きます). Sai."
+        ],
+        "vocab": [
+          { "w": "在住", "r": "ざいじゅう", "hv": "TẠI TRÚ", "vi": "cư trú tại" },
+          { "w": "在勤", "r": "ざいきん", "hv": "TẠI CẦN", "vi": "làm việc tại" },
+          { "w": "社会人", "r": "しゃかいじん", "hv": "XÃ HỘI NHÂN", "vi": "người đã đi làm" },
+          { "w": "職員", "r": "しょくいん", "hv": "CHỨC VIÊN", "vi": "nhân viên (cơ quan)" },
+          { "w": "除く", "r": "のぞく", "hv": "TRỪ", "vi": "loại trừ" }
+        ],
+        "grammar": null,
+        "evidence": "対象：河山市在住・在勤の18歳以上の社会人（河山市職員を除きます。）",
+        "tip": "Đề gốc phương án 3 in “学習を開いている” – hiểu là 学習塾 (lớp học thêm)."
+      }
+    },
+    {
+      "num": 75,
+      "passage": "p1",
+      "stem": "このセミナーの申し込みについて、正しいものはどれか。",
+      "options": [
+        "定員２０名なので早く申し込む必要がある。",
+        "市役所で申し込む場合は、水曜日の決められた時間に行く。",
+        "はがきで申し込む場合は、1枚で何人でも申し込むことができる。",
+        "ホームページから申し込む場合は、申し込めない時間がある。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Về việc đăng ký hội thảo, điều nào đúng? → Khi đăng ký qua trang web, có khung giờ không thể đăng ký.",
+        "why": "Mục ③: 毎日午前2:00～5:00はホームページの点検作業のため申し込めません → có khung giờ không đăng ký được.",
+        "options": [
+          "Phải đăng ký sớm vì chỉ 20 người → sai, nếu đông sẽ bốc thăm (抽選), không phải ai đến trước được trước. Sai.",
+          "Đến tòa thị chính vào thứ Tư → sai, nhận đăng ký mọi ngày TRỪ thứ Tư. Sai.",
+          "Một bưu thiếp đăng ký được nhiều người → sai, 1 tấm chỉ 1 người. Sai.",
+          "Qua trang web có giờ không đăng ký được (2:00–5:00 sáng). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "定員", "r": "ていいん", "hv": "ĐỊNH VIÊN", "vi": "số người tối đa" },
+          { "w": "抽選", "r": "ちゅうせん", "hv": "TRỪU TUYỂN", "vi": "bốc thăm" },
+          { "w": "点検", "r": "てんけん", "hv": "ĐIỂM KIỂM", "vi": "kiểm tra, bảo trì" },
+          { "w": "必着", "r": "ひっちゃく", "hv": "TẤT TRƯỚC", "vi": "phải đến nơi (trước hạn)" },
+          { "w": "締め切り", "r": "しめきり", "hv": "ĐẾ THIẾT", "vi": "hạn chót" }
+        ],
+        "grammar": null,
+        "evidence": "・毎日午前2:00～5:00はホームページの点検作業のため申し込めません。",
+        "tip": "Đề thông tin hay bẫy bằng “除く” (trừ) và “抽選” (bốc thăm ≠ ai đến trước)."
+      }
+    }
+  ]
+}

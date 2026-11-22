@@ -1,0 +1,201 @@
+{
+  "exam": "2010-07",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（１）から（５）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn từ (1) đến (5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "人間の心理にはハロー（後光）効果といって、最初に受けた印象を強めていく傾向があります。例えばお会いした時に清潔な印象をうけると、その人の部屋が本当は汚かったとしても「部屋はいつもきれいに片づいているに違いない。人間関係もきっとさわやかでしょう」などと、こちらが勝手にその人のよいイメージを重ねていきます。\n反対にだらしない印象を受けると、部屋の中をピカピカにしていても「家の中も汚いだろう」と悪い印象を重ねてしまうようです。\n（岩下宣子「実践　マナー塾」2009年4月18日付日本経済新聞による）"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "木を植えることはいいことだ。われわれは無条件にそう考えがちだ。\nでも、乾燥地帯に木を植えれば、少ししかない水が木に吸い取られる。悪くすると地下水が枯れ、川の流量も減る。よく考えてみれば当たり前のことだろう。しかし、森林の役割を重視するあまり、自然の循環を忘れた「<u>植林神話</u>」が世界に広がっているそうだ。\n（伊藤智章「窓」2008年2月20日付朝日新聞夕刊による）"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "2010年6月28日\n販売店各位\n西東薬品株式会社\n販売部長　南　五郎\nアンケート実施についてのお願い\n拝啓\nいつもお世話になっております。\n昨年夏に販売を開始いたしました商品「エネルギーZ」は、おかげさまで順調に売り上げを伸ばしてまいりました。来月、本製品販売１周年を迎えるにあたり、製品の使用効果、値段などについてお客様のご感想やご希望をうかがいたくアンケートを実施することにいたしました。\nつきましては、本製品をお買い上げのお客様へのアンケート用紙の配布および<u>ご協力</u>の呼びかけをお願いいたします。\n販売店のみなさまにはご面倒をおかけいたしますが、よろしくお願い申し上げます。\n敬具"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "国際宇宙ステーションは、地球から約400km離れたところを回る巨大な有人実験施設である。宇宙では、地球から運ばれる水はコップ１杯30～40万円に相当するほど高価なものとなるが、2008年に、ステーションで使用した水をリサイクルする装置が設置された。再生された水は飲料水や実験のほか、酸素を作り出すのにも使われる。いずれ装置が完全に機能すれば、地球から新たに水を運ぶことも不要になる。"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "ほめるという行為は、本来、自然な気持ちのあらわれです。「ほめる教育」におけるほめるという行為は、この点において異なります。自然な気持ちのあらわれなどではなく、ほかの狙いをもった、きわめて（注）意図的な行為です。\n（中略）「ほめる教育」の場合には、ほめることそのものは本来の目的ではないのです。本来の目的は、ほめることを通して相手に影響をあたえることです。相手の心と行動に影響をあたえ、やる気を出させたり、自信をもたせたり、伸びていくようにする。つまり、こちらが望んでいるような方向へ向かわせることがねらいなのです。\n（伊藤進『ほめるな』による）\n（注）きわめて：非常に"
+    }
+  ],
+  "questions": [
+    {
+      "num": 55,
+      "passage": "p1",
+      "stem": "筆者はハロー効果をどのように説明しているか。",
+      "options": [
+        "新しいイメージを次々に重ねることで、最初の印象は次第に変化していく。",
+        "初対面のときに受けた印象は、その後に持つイメージに影響を与えていく。",
+        "だれとでもよい関係を築いておけば、初対面の人にもよいイメージを与えられる。",
+        "最初に悪い印象を与えてしまっても、その後の付き合いでイメージは変えられる。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tác giả giải thích hiệu ứng hào quang như thế nào? → Ấn tượng nhận được khi gặp lần đầu sẽ ảnh hưởng đến những hình ảnh có về sau.",
+        "why": "Hiệu ứng hào quang = khuynh hướng củng cố ấn tượng ban đầu. Gặp thấy sạch sẽ → tự gán thêm hình ảnh tốt (phòng gọn, quan hệ tốt); thấy luộm thuộm → gán hình ảnh xấu. Tức ấn tượng đầu chi phối các hình ảnh sau.",
+        "options": [
+          "Ấn tượng đầu dần thay đổi → ngược lại, ấn tượng đầu được củng cố. Sai.",
+          "Ấn tượng lần đầu ảnh hưởng đến hình ảnh về sau. ĐÚNG.",
+          "Quan hệ tốt với mọi người thì gây ấn tượng tốt → bài không nói. Sai.",
+          "Ấn tượng xấu có thể thay đổi nhờ giao tiếp sau đó → trái với bài (dù phòng sạch vẫn bị nghĩ là bẩn). Sai."
+        ],
+        "vocab": [
+          { "w": "印象", "r": "いんしょう", "hv": "ẤN TƯỢNG", "vi": "ấn tượng" },
+          { "w": "傾向", "r": "けいこう", "hv": "KHUYNH HƯỚNG", "vi": "khuynh hướng" },
+          { "w": "清潔", "r": "せいけつ", "hv": "THANH KHIẾT", "vi": "sạch sẽ" },
+          { "w": "だらしない", "r": "だらしない", "hv": "", "vi": "luộm thuộm, cẩu thả" },
+          { "w": "後光", "r": "ごこう", "hv": "HẬU QUANG", "vi": "hào quang" }
+        ],
+        "grammar": null,
+        "evidence": "人間の心理にはハロー（後光）効果といって、最初に受けた印象を強めていく傾向があります。",
+        "tip": "Đề gốc in “ハロー結果” là lỗi đánh máy; trong bài là ハロー効果."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p2",
+      "stem": "「<u>植林神話</u>」とはどのようなものか。",
+      "options": [
+        "乾燥地帯の地下水を増やすには、環境に適した木を植える必要があると考えること",
+        "自然界の水の循環を考慮して、場所を選んで木を植えたほうがいいと考えること",
+        "自然界における森林の役割に注目し、木を植えるのはいいことだと考えること",
+        "乾燥地帯での森林の役割を見直して、木をどんどん植えようと考えること"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "“Huyền thoại trồng rừng” là gì? → Là suy nghĩ chú trọng vai trò của rừng trong tự nhiên và cho rằng trồng cây là việc tốt.",
+        "why": "Bài mở đầu: 木を植えることはいいことだ…無条件にそう考えがちだ. “Huyền thoại” chính là niềm tin vô điều kiện ấy, sinh ra do 森林の役割を重視するあまり (quá coi trọng vai trò của rừng).",
+        "options": [
+          "Trồng cây phù hợp để tăng nước ngầm → bài không nói. Sai.",
+          "Tính đến tuần hoàn nước, chọn chỗ trồng → đây là quan điểm đúng đắn mà “huyền thoại” bỏ quên. Sai.",
+          "Chú trọng vai trò của rừng, cho rằng trồng cây là tốt. ĐÚNG.",
+          "“Xem lại vai trò của rừng ở vùng khô hạn” → không đúng nội dung. Sai."
+        ],
+        "vocab": [
+          { "w": "植林", "r": "しょくりん", "hv": "THỰC LÂM", "vi": "trồng rừng" },
+          { "w": "神話", "r": "しんわ", "hv": "THẦN THOẠI", "vi": "thần thoại, huyền thoại (niềm tin không căn cứ)" },
+          { "w": "乾燥地帯", "r": "かんそうちたい", "hv": "CAN TÁO ĐỊA ĐỚI", "vi": "vùng khô hạn" },
+          { "w": "循環", "r": "じゅんかん", "hv": "TUẦN HOÀN", "vi": "tuần hoàn" },
+          { "w": "重視", "r": "じゅうし", "hv": "TRỌNG THỊ", "vi": "coi trọng" }
+        ],
+        "grammar": {
+          "pattern": "～あまり",
+          "meaning": "vì quá ～ nên (dẫn đến kết quả không tốt)",
+          "form": "Nの / V辞書形 + あまり",
+          "example": "心配するあまり、眠れなかった。"
+        },
+        "evidence": "木を植えることはいいことだ。われわれは無条件にそう考えがちだ。…森林の役割を重視するあまり、自然の循環を忘れた「植林神話」が世界に広がっているそうだ。",
+        "tip": null
+      }
+    },
+    {
+      "num": 57,
+      "passage": "p3",
+      "stem": "<u>ご協力</u>とあるが、だれが何に協力するのか。",
+      "options": [
+        "販売店が、この製品の売り上げをさらに伸ばすことに協力する。",
+        "販売店が、お客様にアンケート用紙を渡すことに協力する。",
+        "この製品を買った人が、それを他の人にすすめることに協力する。",
+        "この製品を買った人が、アンケートに答えることに協力する。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "“Sự hợp tác” – ai hợp tác vào việc gì? → Người mua sản phẩm hợp tác trả lời phiếu khảo sát.",
+        "why": "Câu: お客様へのアンケート用紙の配布および ご協力の呼びかけ = phát phiếu cho khách VÀ kêu gọi (khách) hợp tác. Việc phát phiếu là việc của cửa hàng; “ご協力” là sự hợp tác của khách hàng – tức trả lời khảo sát.",
+        "options": [
+          "Cửa hàng hợp tác tăng doanh số → không phải nội dung “ご協力”. Sai.",
+          "Cửa hàng phát phiếu → đây là “配布”, phần khác trong câu. Sai.",
+          "Khách giới thiệu cho người khác → không được nhắc. Sai.",
+          "Người mua hợp tác trả lời khảo sát. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "協力", "r": "きょうりょく", "hv": "HIỆP LỰC", "vi": "hợp tác" },
+          { "w": "配布", "r": "はいふ", "hv": "PHỐI BỐ", "vi": "phân phát" },
+          { "w": "呼びかけ", "r": "よびかけ", "hv": "HÔ", "vi": "lời kêu gọi" },
+          { "w": "販売店", "r": "はんばいてん", "hv": "PHIẾN MẠI ĐIẾM", "vi": "cửa hàng bán lẻ" },
+          { "w": "各位", "r": "かくい", "hv": "CÁC VỊ", "vi": "kính gửi quý vị" }
+        ],
+        "grammar": null,
+        "evidence": "つきましては、本製品をお買い上げのお客様へのアンケート用紙の配布および<u>ご協力</u>の呼びかけをお願いいたします。",
+        "tip": "および = và; câu nhờ cửa hàng làm 2 việc: phát phiếu + kêu gọi khách hợp tác."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p4",
+      "stem": "再生装置が完全に機能すると、国際宇宙ステーションで使われる水はどうなると述べているか。",
+      "options": [
+        "実験や酸素を作るときには地球から運ばれた水が使用される。",
+        "使用後の水はリサイクルされ、再生装置からすべて供給される。",
+        "飲料水は地球からの水を使用し、ほかは再生装置から供給される。",
+        "地球から運ばれる水と再生装置で作られた水の両方が使用される。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Khi thiết bị tái chế hoạt động hoàn toàn, nước dùng trên trạm vũ trụ sẽ thế nào? → Nước sau khi dùng được tái chế và toàn bộ được cung cấp từ thiết bị tái chế.",
+        "why": "Câu cuối: 装置が完全に機能すれば、地球から新たに水を運ぶことも不要になる → không cần chở nước từ Trái Đất nữa, tức toàn bộ nước đến từ thiết bị tái chế.",
+        "options": [
+          "Thí nghiệm, tạo oxy dùng nước từ Trái Đất → sai, nước tái chế cũng dùng cho việc đó. Sai.",
+          "Toàn bộ nước được cung cấp từ thiết bị tái chế. ĐÚNG.",
+          "Nước uống dùng nước Trái Đất → sai, nước tái chế dùng cả làm nước uống. Sai.",
+          "Dùng cả hai loại → sai, không cần chở nước từ Trái Đất. Sai."
+        ],
+        "vocab": [
+          { "w": "再生", "r": "さいせい", "hv": "TÁI SINH", "vi": "tái chế, tái sinh" },
+          { "w": "装置", "r": "そうち", "hv": "TRANG TRÍ", "vi": "thiết bị" },
+          { "w": "機能", "r": "きのう", "hv": "CƠ NĂNG", "vi": "chức năng, hoạt động" },
+          { "w": "酸素", "r": "さんそ", "hv": "TOAN TỐ", "vi": "oxy" },
+          { "w": "不要", "r": "ふよう", "hv": "BẤT YẾU", "vi": "không cần thiết" }
+        ],
+        "grammar": null,
+        "evidence": "いずれ装置が完全に機能すれば、地球から新たに水を運ぶことも不要になる。",
+        "tip": null
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p5",
+      "stem": "「ほめる教育」におけるほめる行為とはどのようなものか。",
+      "options": [
+        "相手を伸ばしたいという目的を持った行為である。",
+        "相手自身が望む方向へ向かうようにする行為である。",
+        "相手に自分が感じたことをそのまま伝える行為である。",
+        "相手に自然な気持ちを表現させようとする行為である。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hành vi khen trong “giáo dục bằng lời khen” là gì? → Là hành vi có mục đích muốn giúp đối phương phát triển.",
+        "why": "Bài: khen trong “ほめる教育” là hành vi có chủ đích (意図的), mục đích là tác động đến đối phương: tạo động lực, tự tin, 伸びていくようにする (giúp phát triển).",
+        "options": [
+          "Có mục đích muốn đối phương phát triển. ĐÚNG.",
+          "Hướng tới phương hướng mà chính đối phương mong muốn → sai, là phương hướng “こちらが望んでいる” (người khen mong muốn). Sai.",
+          "Truyền đạt nguyên cảm nhận của mình → đó là lời khen tự nhiên, không phải “ほめる教育”. Sai.",
+          "Làm đối phương bộc lộ cảm xúc tự nhiên → không được nhắc. Sai."
+        ],
+        "vocab": [
+          { "w": "行為", "r": "こうい", "hv": "HÀNH VI", "vi": "hành vi" },
+          { "w": "意図的", "r": "いとてき", "hv": "Ý ĐỒ ĐÍCH", "vi": "có chủ ý" },
+          { "w": "狙い", "r": "ねらい", "hv": "THƯ", "vi": "mục đích, nhắm tới" },
+          { "w": "影響", "r": "えいきょう", "hv": "ẢNH HƯỞNG", "vi": "ảnh hưởng" },
+          { "w": "伸びる", "r": "のびる", "hv": "THÂN", "vi": "phát triển, tiến bộ" }
+        ],
+        "grammar": null,
+        "evidence": "相手の心と行動に影響をあたえ、やる気を出させたり、自信をもたせたり、伸びていくようにする。つまり、こちらが望んでいるような方向へ向かわせることがねらいなのです。",
+        "tip": "Bẫy: phương án 2 đổi “こちらが望む” thành “相手自身が望む”."
+      }
+    }
+  ]
+}

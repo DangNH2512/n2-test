@@ -1,0 +1,85 @@
+{
+  "exam": "2024-07",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ đúng nhất để điền vào chỗ trống (từ ghép, tiền tố/hậu tố).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "しょうゆの（　　）原料は大豆です。",
+      "options": ["主", "要", "正", "本"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nguyên liệu chính của nước tương là đậu nành.",
+        "why": "主 (しゅ, CHỦ) là tiền tố \"chính, chủ yếu\": 主原料 (nguyên liệu chính), 主成分, 主食.",
+        "options": [
+          "主 → 主原料: nguyên liệu chính. ĐÚNG.",
+          "要 → dùng như 要注意, 要確認 (cần ~), không ghép với 原料. Sai.",
+          "正 → 正社員, 正会員 (chính thức), không nói 正原料. Sai.",
+          "本 → 本社, 本番 (chính, thật), không nói 本原料. Sai."
+        ],
+        "vocab": [
+          { "w": "主原料", "r": "しゅげんりょう", "hv": "CHỦ NGUYÊN LIỆU", "vi": "nguyên liệu chính" },
+          { "w": "大豆", "r": "だいず", "hv": "ĐẠI ĐẬU", "vi": "đậu nành" },
+          { "w": "主成分", "r": "しゅせいぶん", "hv": "CHỦ THÀNH PHẦN", "vi": "thành phần chính" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "主〜 = chủ yếu: 主食 (しゅしょく), 主要 (しゅよう), 主原料."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "子どもたちの読書（　　）が進んでいるらしい。",
+      "options": ["抜け", "逃げ", "別れ", "離れ"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nghe nói tình trạng trẻ em rời xa sách (ít đọc sách) đang ngày càng tăng.",
+        "why": "N + 離れ (ばなれ) = xu hướng xa rời, mất hứng thú với N: 読書離れ, 活字離れ, 若者の車離れ.",
+        "options": [
+          "抜け → 〜抜け: 間抜け, 底抜け, không ghép với 読書. Sai.",
+          "逃げ → 夜逃げ (bỏ trốn ban đêm), không dùng ở đây. Sai.",
+          "別れ → 喧嘩別れ (chia tay vì cãi nhau), không dùng. Sai.",
+          "離れ → 読書離れ: xa rời việc đọc sách. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "読書離れ", "r": "どくしょばなれ", "hv": "ĐỘC THƯ LY", "vi": "xu hướng xa rời sách vở" },
+          { "w": "活字離れ", "r": "かつじばなれ", "hv": "HOẠT TỰ LY", "vi": "xa rời chữ in (ít đọc)" },
+          { "w": "進む", "r": "すすむ", "hv": "TIẾN", "vi": "tiến triển, gia tăng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜離れが進む là cụm cố định trong báo chí: 若者の○○離れ."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "経営の方針については社長が決定（　　）を持っている。",
+      "options": ["任", "手", "権", "裁"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về phương châm kinh doanh thì giám đốc có quyền quyết định.",
+        "why": "権 (けん, QUYỀN) là hậu tố \"quyền\": 決定権 (quyền quyết định), 選挙権, 著作権. 〜権を持つ = có quyền ~.",
+        "options": [
+          "任 → 責任, 担任, không có 決定任. Sai.",
+          "手 → 決め手 (yếu tố quyết định), không có 決定手. Sai.",
+          "権 → 決定権: quyền quyết định. ĐÚNG.",
+          "裁 → 決裁 (phê duyệt), không có 決定裁. Sai."
+        ],
+        "vocab": [
+          { "w": "決定権", "r": "けっていけん", "hv": "QUYẾT ĐỊNH QUYỀN", "vi": "quyền quyết định" },
+          { "w": "経営", "r": "けいえい", "hv": "KINH DOANH", "vi": "kinh doanh, quản lý doanh nghiệp" },
+          { "w": "方針", "r": "ほうしん", "hv": "PHƯƠNG CHÂM", "vi": "phương châm, đường lối" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜権: 人権 (nhân quyền), 選挙権 (quyền bầu cử), 主導権 (quyền chủ đạo)."
+      }
+    }
+  ]
+}

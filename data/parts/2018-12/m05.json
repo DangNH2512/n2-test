@@ -1,0 +1,135 @@
+{
+  "exam": "2018-12",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ/cụm từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "この機械を扱うには、特別な<u>テクニック</u>が必要だ。",
+      "options": ["技術", "知識", "工夫", "訓練"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Để vận hành chiếc máy này, cần có kỹ thuật đặc biệt.",
+        "why": "テクニック (technique) = kỹ thuật, kỹ xảo → gần nghĩa nhất với 技術 (ぎじゅつ).",
+        "options": [
+          "技術 → ぎじゅつ: kỹ thuật. ĐÚNG.",
+          "知識 → ちしき: kiến thức. Sai.",
+          "工夫 → くふう: tìm tòi, sáng tạo cách làm. Sai.",
+          "訓練 → くんれん: huấn luyện. Sai."
+        ],
+        "vocab": [
+          { "w": "テクニック", "r": "テクニック", "hv": "", "vi": "kỹ thuật, kỹ xảo" },
+          { "w": "技術", "r": "ぎじゅつ", "hv": "KỸ THUẬT", "vi": "kỹ thuật" },
+          { "w": "扱う", "r": "あつかう", "hv": "TRÁP", "vi": "sử dụng, xử lý, đối xử" },
+          { "w": "工夫", "r": "くふう", "hv": "CÔNG PHU", "vi": "tìm tòi, nghĩ cách" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "工夫 đọc くふう (không phải こうふ). Nghĩa \"công phu\" kiểu Việt khác với nghĩa Nhật = nghĩ ra cách hay."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "青木さんはしばらく黙って<u>うつむいて</u>いた。",
+      "options": ["遠くを見て", "目を閉じて", "下を向いて", "腕を組んで"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh/chị Aoki im lặng cúi gằm mặt xuống một lúc.",
+        "why": "うつむく (俯く) = cúi mặt, cúi đầu nhìn xuống → 下を向く.",
+        "options": [
+          "遠くを見て → nhìn ra xa. Sai.",
+          "目を閉じて → nhắm mắt. Sai.",
+          "下を向いて → hướng (mặt) xuống dưới = cúi đầu. ĐÚNG.",
+          "腕を組んで → khoanh tay. Sai."
+        ],
+        "vocab": [
+          { "w": "うつむく", "r": "うつむく", "hv": "PHỦ", "vi": "cúi mặt, cúi đầu" },
+          { "w": "黙る", "r": "だまる", "hv": "MẶC", "vi": "im lặng" },
+          { "w": "腕を組む", "r": "うでをくむ", "hv": "OẢN TỔ", "vi": "khoanh tay" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Trái nghĩa: 仰向く (あおむく) / 見上げる = ngửa mặt nhìn lên."
+      }
+    },
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "この犬は、本当に<u>利口</u>な犬ですね。",
+      "options": ["かわいい", "頭がいい", "元気な", "かっこいい"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Con chó này thật là thông minh nhỉ.",
+        "why": "利口 (りこう) = thông minh, khôn ngoan, lanh lợi → 頭がいい.",
+        "options": [
+          "かわいい → dễ thương. Sai.",
+          "頭がいい → thông minh. ĐÚNG.",
+          "元気な → khỏe mạnh, hăng hái. Sai.",
+          "かっこいい → ngầu, đẹp trai. Sai."
+        ],
+        "vocab": [
+          { "w": "利口", "r": "りこう", "hv": "LỢI KHẨU", "vi": "thông minh, khôn ngoan" },
+          { "w": "賢い", "r": "かしこい", "hv": "HIỀN", "vi": "thông minh, khôn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhóm đồng nghĩa \"thông minh\": 利口・賢い・頭がいい. Hay dùng cho trẻ em, động vật."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "もう少し<u>用心した</u>ほうがいいんじゃないですか。",
+      "options": ["落ち着いた", "がんばった", "よく考えた", "気をつけた"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Có lẽ bạn nên cẩn thận hơn một chút thì phải?",
+        "why": "用心する (ようじんする) = đề phòng, cẩn thận → 気をつける.",
+        "options": [
+          "落ち着いた → bình tĩnh. Sai.",
+          "がんばった → cố gắng. Sai.",
+          "よく考えた → suy nghĩ kỹ. Sai.",
+          "気をつけた → cẩn thận, chú ý. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "用心", "r": "ようじん", "hv": "DỤNG TÂM", "vi": "cẩn thận, đề phòng" },
+          { "w": "気をつける", "r": "きをつける", "hv": "KHÍ", "vi": "chú ý, cẩn thận" },
+          { "w": "落ち着く", "r": "おちつく", "hv": "LẠC TRƯỚC", "vi": "bình tĩnh, ổn định" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Hay gặp: 火の用心 (cẩn thận lửa), 用心深い (rất thận trọng)."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "説明が<u>くどくて</u>すみません。",
+      "options": ["つまらなくて", "下手で", "複雑で", "しつこくて"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Xin lỗi vì giải thích dài dòng lặp đi lặp lại.",
+        "why": "くどい = dài dòng, lặp đi lặp lại đến phát chán → gần nghĩa nhất với しつこい (dai dẳng, lằng nhằng).",
+        "options": [
+          "つまらなくて → nhàm chán. Sai.",
+          "下手で → kém, vụng. Sai.",
+          "複雑で → phức tạp. Sai.",
+          "しつこくて → dai dẳng, lằng nhằng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "くどい", "r": "くどい", "hv": "", "vi": "dài dòng, lặp lại nhiều lần" },
+          { "w": "しつこい", "r": "しつこい", "hv": "", "vi": "dai dẳng, lằng nhằng; (vị) đậm, ngấy" },
+          { "w": "複雑", "r": "ふくざつ", "hv": "PHỨC TẠP", "vi": "phức tạp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "くどい và しつこい đều dùng được cho vị đồ ăn quá đậm/ngấy và cho lời nói lặp đi lặp lại."
+      }
+    }
+  ]
+}

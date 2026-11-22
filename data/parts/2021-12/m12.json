@@ -1,0 +1,75 @@
+{
+  "exam": "2021-12",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc hai văn bản A và B rồi chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "森中市立図書館の掲示\n\nおねがい\n<u>図書館を使用される方へ</u>\n\n閲覧室に自分の教科書や参考書を持ってきて机の上に広げ、学校の宿題や試験勉強をする中学生や高校生の方がいます。そのような行為は図書館の本を利用される方にとって迷惑になりますので、ご遠慮くださるようお願いします。\n図書館の机は図書館の資料を利用される方々のためのものです。\n\n森中市立図書館"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "高校生の意見\n\n私は来年大学を受験する高校3年生です。受験に備えて勉強を始めていますが、夏休みに入り、しっかり勉強したいと思って家の近くの森中市図書館に通うことにしました。家にいると、ついテレビを見たり、友達と電話をしたりして遊んでしまうからです。\nところが、その図書館には、勉強禁止の貼り紙がされているのです。図書館はたくさんの人が本を利用するための場所であり、勉強する場所ではありません。だから、本を使う人を優先するために、図書館の本を利用しない勉強を禁止するというのも分かります。\nしかし、多くの人が、私のように勉強をする場所としても必要としているのです。図書館は、もともと地域の住民へのサービス機関だと思います。それなら勉強する場所として、受験生も利用できていいと思うのです。\n図書館の人は、利用者が何を望んでいるのか、どうすればより利用しやすい図書館になるのかを常に考え、改善していくべきだと思います。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 65,
+      "passage": "AB",
+      "stem": "Aの「森中市立図書館の掲示」は何を禁止しているのか。",
+      "options": ["図書館の机の上に教科書を広げて勉強すること。", "図書館の本を使わないで試験勉強などをすること。", "中学生や高校生が図書館の閲覧室を利用すること。", "高校生が図書館の本を使って学校の宿題をすること。"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Thông báo của thư viện thành phố Morinaka (A) cấm điều gì? → Việc học thi... mà không sử dụng sách của thư viện.",
+        "why": "A yêu cầu không mang sách giáo khoa, sách tham khảo của mình đến để làm bài tập/ôn thi, vì 'bàn của thư viện là dành cho người sử dụng tài liệu của thư viện'. Điều bị cấm cốt lõi là học bằng tài liệu riêng, không dùng sách thư viện. B cũng tóm tắt đúng như vậy: 図書館の本を利用しない勉強を禁止する.",
+        "options": [
+          "Mở sách giáo khoa trên bàn để học → chỉ là ví dụ bề mặt; bản chất là 'không dùng tài liệu thư viện' (nếu dùng sách thư viện thì không bị cấm). Sai.",
+          "Học thi... mà không dùng sách thư viện → đúng bản chất lệnh cấm. ĐÚNG.",
+          "Học sinh cấp 2, 3 dùng phòng đọc → không cấm việc vào phòng đọc. Sai.",
+          "Học sinh dùng sách thư viện làm bài tập → việc này được phép. Sai."
+        ],
+        "vocab": [
+          { "w": "掲示", "r": "けいじ", "hv": "YẾT THỊ", "vi": "thông báo dán, bảng tin" },
+          { "w": "閲覧室", "r": "えつらんしつ", "hv": "DUYỆT LÃM THẤT", "vi": "phòng đọc" },
+          { "w": "参考書", "r": "さんこうしょ", "hv": "THAM KHẢO THƯ", "vi": "sách tham khảo" },
+          { "w": "遠慮", "r": "えんりょ", "hv": "VIỄN LỰ", "vi": "ngại, kiêng (ご遠慮ください = xin đừng)" },
+          { "w": "資料", "r": "しりょう", "hv": "TƯ LIỆU", "vi": "tài liệu" }
+        ],
+        "grammar": null,
+        "evidence": "閲覧室に自分の教科書や参考書を持ってきて机の上に広げ、学校の宿題や試験勉強をする…ご遠慮くださるようお願いします。図書館の机は図書館の資料を利用される方々のためのものです。",
+        "tip": "Phương án 1 là bẫy: chỉ mô tả hình thức. Câu cuối A nêu tiêu chí thật: bàn dành cho người dùng 資料 của thư viện."
+      }
+    },
+    {
+      "num": 66,
+      "passage": "AB",
+      "stem": "Aの「森中市立図書館の掲示」とBの「高校生の意見」の内容について、正しいのはどれか。",
+      "options": ["AはBのような考えを持った利用者が今後増えることを望んでいる。", "BはAの「おねがい」を理解してはいるが、十分に納得はしていない。", "Aでは中学生や高校生が図書館で勉強中に話すことが問題になっている。", "Bは図書館に住民へのサービスとして受験用の本も置くよう希望している。"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều nào đúng về nội dung A và B? → B hiểu 'lời đề nghị' của A nhưng chưa hoàn toàn đồng tình.",
+        "why": "B viết 'cấm học không dùng sách thư viện thì cũng hiểu được' (分かります), nhưng ngay sau đó 'しかし' cho rằng thư viện là cơ quan phục vụ cư dân nên học sinh ôn thi cũng nên được dùng → hiểu nhưng chưa chấp nhận.",
+        "options": [
+          "A mong người có suy nghĩ như B tăng lên → ngược lại, A muốn hạn chế việc học như B. Sai.",
+          "B hiểu nhưng chưa thật sự đồng tình với A → 分かります。しかし… ĐÚNG.",
+          "A coi việc học sinh nói chuyện là vấn đề → A không nhắc đến chuyện nói chuyện. Sai.",
+          "B muốn thư viện đặt sách luyện thi → B muốn được dùng làm chỗ học, không đòi sách. Sai."
+        ],
+        "vocab": [
+          { "w": "納得", "r": "なっとく", "hv": "NẠP ĐẮC", "vi": "đồng tình, chấp nhận (sau khi hiểu)" },
+          { "w": "受験", "r": "じゅけん", "hv": "THỤ NGHIỆM", "vi": "dự thi" },
+          { "w": "優先", "r": "ゆうせん", "hv": "ƯU TIÊN", "vi": "ưu tiên" },
+          { "w": "機関", "r": "きかん", "hv": "CƠ QUAN", "vi": "cơ quan" },
+          { "w": "改善", "r": "かいぜん", "hv": "CẢI THIỆN", "vi": "cải thiện" }
+        ],
+        "grammar": null,
+        "evidence": "だから、本を使う人を優先するために、図書館の本を利用しない勉強を禁止するというのも分かります。しかし、多くの人が、私のように勉強をする場所としても必要としているのです。",
+        "tip": "Cấu trúc 「～も分かります。しかし…」 = nhượng bộ rồi phản bác → 理解はしているが納得していない."
+      }
+    }
+  ]
+}

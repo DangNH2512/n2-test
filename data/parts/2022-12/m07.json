@@ -1,0 +1,361 @@
+{
+  "exam": "2022-12",
+  "mondai": 7,
+  "section": "grammar",
+  "instruction": "次の文の（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn phương án thích hợp nhất để điền vào chỗ trống trong câu.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "先週末は、（　　）かけだった3冊の本をすべて最後まで読んだ。",
+      "options": ["読む", "読み", "読んで", "読んだ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Cuối tuần trước, tôi đã đọc hết đến cuối cả 3 cuốn sách đang đọc dở.",
+        "why": "～かけ gắn sau thể ます (bỏ ます): 読みかけ = đang đọc dở. 読みかけの本 / 読みかけだった本.",
+        "options": [
+          "読む → thể từ điển không đi với かけ. Sai.",
+          "読み → 読みかけ: đọc dở. ĐÚNG.",
+          "読んで → thể て không đi với かけ. Sai.",
+          "読んだ → thể た không đi với かけ. Sai."
+        ],
+        "vocab": [
+          { "w": "読みかけ", "r": "よみかけ", "hv": "ĐỘC", "vi": "đang đọc dở" },
+          { "w": "冊", "r": "さつ", "hv": "SÁCH", "vi": "cuốn (đếm sách)" }
+        ],
+        "grammar": {
+          "pattern": "Vます＋かけ（だ／の）",
+          "meaning": "làm dở dang, đang làm giữa chừng",
+          "form": "V(bỏ ます)＋かけ",
+          "example": "食べかけのパンが机の上にある。(Ổ bánh mì ăn dở đang ở trên bàn.)"
+        },
+        "evidence": null,
+        "tip": "Các dạng: 書きかけの手紙, 飲みかけのコーヒー, 言いかけてやめる."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "子供のころはピーマンが嫌いだったが、今は嫌いではない。（　　）好きな野菜の一つだ。",
+      "options": ["むしろ", "いったい", "そのうち", "ちっとも"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hồi nhỏ tôi ghét ớt chuông, nhưng giờ thì không ghét. Thậm chí ngược lại, nó là một trong những loại rau tôi thích.",
+        "why": "むしろ = đúng hơn là, thà nói là (đưa ra mức độ mạnh hơn, đối lập với điều vừa phủ định). 嫌いではない → むしろ好きだ.",
+        "options": [
+          "むしろ → đúng hơn là, ngược lại còn. ĐÚNG.",
+          "いったい → rốt cuộc (dùng trong câu hỏi). Sai.",
+          "そのうち → chẳng bao lâu nữa (tương lai). Sai.",
+          "ちっとも → chẳng chút nào (đi với phủ định). Sai."
+        ],
+        "vocab": [
+          { "w": "むしろ", "r": "むしろ", "hv": "", "vi": "đúng hơn là, thà" },
+          { "w": "野菜", "r": "やさい", "hv": "DÃ THÁI", "vi": "rau" }
+        ],
+        "grammar": {
+          "pattern": "AではないB。むしろC",
+          "meaning": "không phải A, mà đúng hơn là C (mức độ ngược lại/mạnh hơn)",
+          "form": "phủ định ＋ 。むしろ ＋ khẳng định",
+          "example": "暑さは苦にならない。むしろ夏が好きだ。"
+        },
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 33,
+      "passage": null,
+      "stem": "来年3月の完成（　　）、新しい体育館の建設工事が着々と進んでいる。",
+      "options": ["を込めて", "に際して", "を通じて", "に向けて"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hướng tới việc hoàn thành vào tháng 3 năm sau, công trình xây dựng nhà thi đấu mới đang tiến triển đều đặn.",
+        "why": "Nに向けて = hướng tới mục tiêu N. 完成に向けて工事が進んでいる = công trình tiến hành nhằm hoàn thành.",
+        "options": [
+          "を込めて → gửi gắm (心を込めて: bằng cả tấm lòng). Sai.",
+          "に際して → nhân dịp, khi (bắt đầu việc gì). Sai.",
+          "を通じて → thông qua; suốt. Sai.",
+          "に向けて → hướng tới (mục tiêu). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "完成", "r": "かんせい", "hv": "HOÀN THÀNH", "vi": "hoàn thành" },
+          { "w": "着々と", "r": "ちゃくちゃくと", "hv": "TRƯỚC", "vi": "đều đặn, vững chắc" },
+          { "w": "建設", "r": "けんせつ", "hv": "KIẾN THIẾT", "vi": "xây dựng" }
+        ],
+        "grammar": {
+          "pattern": "Nに向けて",
+          "meaning": "hướng tới, nhằm (mục tiêu)",
+          "form": "N＋に向けて",
+          "example": "試験に向けて毎日勉強している。"
+        },
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 34,
+      "passage": null,
+      "stem": "（携帯電話の店で）\n父「どれにしようかな。通話ができれば十分なんだけど」\n息子「通話ができるだけ（　　）、これにしたら？」",
+      "options": ["がいいと", "でいいなら", "でいいけど", "がいいのに"],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Ở cửa hàng điện thoại) Bố: Chọn cái nào nhỉ. Chỉ cần gọi được là đủ rồi. — Con trai: Nếu chỉ cần gọi điện được là được thì chọn cái này đi?",
+        "why": "～でいい = ~ là được (mức tối thiểu chấp nhận). ～なら = nếu (dựa vào lời người kia vừa nói). Con lấy lại ý bố: nếu chỉ cần gọi được thì chọn cái này.",
+        "options": [
+          "がいいと → 「～がいいと」 không nối được với 「これにしたら？」. Sai.",
+          "でいいなら → nếu ~ là được thì. ĐÚNG.",
+          "でいいけど → ~ là được nhưng... (ngược ý, không hợp với lời khuyên). Sai.",
+          "がいいのに → thích ~ vậy mà (tiếc nuối). Sai."
+        ],
+        "vocab": [
+          { "w": "通話", "r": "つうわ", "hv": "THÔNG THOẠI", "vi": "cuộc gọi, gọi điện" },
+          { "w": "十分", "r": "じゅうぶん", "hv": "THẬP PHÂN", "vi": "đủ" }
+        ],
+        "grammar": {
+          "pattern": "～でいいなら",
+          "meaning": "nếu chỉ ~ là được thì",
+          "form": "N／Vる だけ＋でいいなら",
+          "example": "安いのでいいなら、これがおすすめです。"
+        },
+        "evidence": null,
+        "tip": "～がいい = thích/muốn ~ (lựa chọn tốt nhất); ～でいい = ~ cũng được (chấp nhận tối thiểu)."
+      }
+    },
+    {
+      "num": 35,
+      "passage": null,
+      "stem": "課長に、次の会議までにこの資料を（　　）言われた。",
+      "options": ["読んでおくように", "読んでおきなさい", "読んでくるか", "読んでこい"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi được trưởng phòng bảo là hãy đọc trước tài liệu này trước cuộc họp tới.",
+        "why": "Vる＋ように言われる = được (ai đó) bảo/dặn làm gì (câu mệnh lệnh gián tiếp). Không có と nên chỉ ～ように nối trực tiếp với 言われた được.",
+        "options": [
+          "読んでおくように → được dặn hãy đọc trước. ĐÚNG.",
+          "読んでおきなさい → câu mệnh lệnh trực tiếp, cần 「」と mới nối với 言われた. Sai.",
+          "読んでくるか → か là câu hỏi, không hợp nghĩa. Sai.",
+          "読んでこい → mệnh lệnh trực tiếp, thiếu と. Sai."
+        ],
+        "vocab": [
+          { "w": "課長", "r": "かちょう", "hv": "KHÓA TRƯỞNG", "vi": "trưởng phòng" },
+          { "w": "資料", "r": "しりょう", "hv": "TƯ LIỆU", "vi": "tài liệu" }
+        ],
+        "grammar": {
+          "pattern": "Vる／Vない＋ように言う／言われる",
+          "meaning": "bảo / được bảo hãy (không) làm gì",
+          "form": "Vる＋ように＋言われる",
+          "example": "医者にたばこをやめるように言われた。"
+        },
+        "evidence": null,
+        "tip": "Câu trực tiếp phải có と: 「読んでおきなさい」と言われた."
+      }
+    },
+    {
+      "num": 36,
+      "passage": null,
+      "stem": "休みの日（　　）、昼過ぎまで寝ているのはよくないと思う。",
+      "options": ["どころか", "かというと", "にしては", "だからといって"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Dù là ngày nghỉ đi nữa, tôi nghĩ ngủ đến quá trưa là không tốt.",
+        "why": "～だからといって = dù là ~ nhưng không có nghĩa là (được phép)... Ngày nghỉ (lý do để ngủ nướng) nhưng ngủ quá trưa vẫn không tốt.",
+        "options": [
+          "どころか → nói gì đến, trái lại (không những không...). Sai.",
+          "かというと → nếu hỏi là ~ thì (giải thích). Sai.",
+          "にしては → so với ~ thì (trái với dự đoán). Sai.",
+          "だからといって → dù là ~ nhưng không có nghĩa. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "昼過ぎ", "r": "ひるすぎ", "hv": "TRÚ QUÁ", "vi": "quá trưa" },
+          { "w": "休みの日", "r": "やすみのひ", "hv": "HƯU NHẬT", "vi": "ngày nghỉ" }
+        ],
+        "grammar": {
+          "pattern": "～だからといって",
+          "meaning": "dù là ~ thì cũng không có nghĩa là",
+          "form": "N／Naだ／普通形＋からといって",
+          "example": "お金があるからといって、幸せだとは限らない。"
+        },
+        "evidence": null,
+        "tip": "Vế sau thường là phủ định/đánh giá tiêu cực: ～わけではない, ～のはよくない."
+      }
+    },
+    {
+      "num": 37,
+      "passage": null,
+      "stem": "先月から食堂でアルバイトを始めた。お客さんがおいしいと（　　）、うれしくなり、もっと頑張ろうと思える。",
+      "options": ["言ってあげるたびに", "言ってあげるように", "言ってくれるたびに", "言ってくれるように"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Từ tháng trước tôi bắt đầu làm thêm ở nhà ăn. Mỗi lần khách nói (cho tôi nghe) là ngon, tôi lại thấy vui và muốn cố gắng hơn nữa.",
+        "why": "Khách làm việc có lợi cho mình (người nói) → ～てくれる. Mỗi lần xảy ra đều vui → ～たびに (mỗi khi). Vậy: 言ってくれるたびに.",
+        "options": [
+          "言ってあげるたびに → あげる là mình làm cho người khác, sai hướng. Sai.",
+          "言ってあげるように → sai hướng cho nhận và ように không hợp. Sai.",
+          "言ってくれるたびに → mỗi khi khách nói cho mình. ĐÚNG.",
+          "言ってくれるように → ように (để/sao cho) không hợp nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "食堂", "r": "しょくどう", "hv": "THỰC ĐƯỜNG", "vi": "nhà ăn" },
+          { "w": "頑張る", "r": "がんばる", "hv": "NGOAN TRƯƠNG", "vi": "cố gắng" }
+        ],
+        "grammar": {
+          "pattern": "Vる／Nの＋たびに",
+          "meaning": "mỗi lần, mỗi khi",
+          "form": "Vる／Nの＋たびに",
+          "example": "この歌を聞くたびに、故郷を思い出す。"
+        },
+        "evidence": null,
+        "tip": "Người khác → mình: てくれる; mình → người khác: てあげる."
+      }
+    },
+    {
+      "num": 38,
+      "passage": null,
+      "stem": "（映画館で）\n夫「席の番号、忘れちゃった。何番（　　）？」\n妻「Ｊの14と15だよ。」",
+      "options": ["だったよね", "だっけ", "じゃなかったの", "なんじゃないか"],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Ở rạp chiếu phim) Chồng: Anh quên mất số ghế rồi. Số mấy ấy nhỉ? — Vợ: J14 và J15 đó.",
+        "why": "～っけ dùng để hỏi lại điều mình đã biết nhưng quên. Đi với từ để hỏi 何番 → 何番だっけ.",
+        "options": [
+          "だったよね → xác nhận điều mình nhớ (đi với nội dung cụ thể, không đi với 何). Sai.",
+          "だっけ → hỏi lại điều đã quên. ĐÚNG.",
+          "じゃなかったの → chẳng phải là ~ sao (ngạc nhiên). Sai.",
+          "なんじゃないか → chẳng phải là ~ sao (phỏng đoán). Sai."
+        ],
+        "vocab": [
+          { "w": "席", "r": "せき", "hv": "TỊCH", "vi": "chỗ ngồi" },
+          { "w": "番号", "r": "ばんごう", "hv": "PHIÊN HIỆU", "vi": "số" }
+        ],
+        "grammar": {
+          "pattern": "～っけ",
+          "meaning": "~ nhỉ? (hỏi lại điều đã quên, hội thoại thân mật)",
+          "form": "N／Na＋だっけ／だったっけ；Vた＋っけ",
+          "example": "会議は何時からだっけ？"
+        },
+        "evidence": null,
+        "tip": "Thấy người nói 忘れちゃった → dấu hiệu dùng っけ."
+      }
+    },
+    {
+      "num": 39,
+      "passage": null,
+      "stem": "「倉庫の中を片付けなければ」と前からずっと思っているのだが、忙しくてなかなか（　　）。",
+      "options": ["できずにいる", "できるだろうか", "できないこともない", "できるのではないか"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Từ lâu tôi đã luôn nghĩ 「phải dọn dẹp nhà kho」, nhưng vì bận nên mãi vẫn chưa làm được.",
+        "why": "Vずにいる = vẫn (đang trong tình trạng) không làm được. Đi với なかなか (mãi mà không) → なかなかできずにいる.",
+        "options": [
+          "できずにいる → mãi vẫn chưa làm được. ĐÚNG.",
+          "できるだろうか → liệu có làm được không (nghi vấn). Sai.",
+          "できないこともない → không phải là không làm được. Sai (mâu thuẫn với 忙しくて).",
+          "できるのではないか → chẳng phải là làm được sao. Sai."
+        ],
+        "vocab": [
+          { "w": "倉庫", "r": "そうこ", "hv": "THƯƠNG KHỐ", "vi": "nhà kho" },
+          { "w": "片付ける", "r": "かたづける", "hv": "PHIẾN PHÓ", "vi": "dọn dẹp" }
+        ],
+        "grammar": {
+          "pattern": "Vずにいる",
+          "meaning": "vẫn không (làm được), cứ ở trạng thái không làm",
+          "form": "Vない(bỏ ない)＋ずにいる（する→せずにいる）",
+          "example": "本当のことを言えずにいる。"
+        },
+        "evidence": null,
+        "tip": "なかなか＋phủ định = mãi mà không."
+      }
+    },
+    {
+      "num": 40,
+      "passage": null,
+      "stem": "（劇場内のアナウンスで）\nスタッフ「お客様にご案内（　　）。ただいま、一階ロビーにおいて、公演パンフレットを販売しております。ぜひご利用ください。」",
+      "options": ["なさいます", "承ります", "申し上げます", "おっしゃいます"],
+      "answer": 3,
+      "explanation": {
+        "translation": "(Thông báo trong nhà hát) Nhân viên: Xin thông báo đến quý khách. Hiện tại ở sảnh tầng 1 đang bán sách giới thiệu buổi diễn. Kính mời quý khách sử dụng.",
+        "why": "ご＋N＋申し上げます là khiêm nhường ngữ: nhân viên (phía mình) thông báo cho khách → ご案内申し上げます.",
+        "options": [
+          "なさいます → tôn kính ngữ của する (dùng cho hành động của khách). Sai.",
+          "承ります → khiêm nhường của 受ける／聞く (tiếp nhận). Sai.",
+          "申し上げます → ご案内申し上げます: xin thông báo. ĐÚNG.",
+          "おっしゃいます → tôn kính ngữ của 言う (khách nói). Sai."
+        ],
+        "vocab": [
+          { "w": "劇場", "r": "げきじょう", "hv": "KỊCH TRƯỜNG", "vi": "nhà hát" },
+          { "w": "公演", "r": "こうえん", "hv": "CÔNG DIỄN", "vi": "buổi biểu diễn" },
+          { "w": "承る", "r": "うけたまわる", "hv": "THỪA", "vi": "tiếp nhận (khiêm nhường)" }
+        ],
+        "grammar": {
+          "pattern": "お／ご＋N(Vます)＋申し上げる",
+          "meaning": "khiêm nhường ngữ (mình làm cho người trên)",
+          "form": "ご＋漢語名詞＋申し上げます",
+          "example": "心よりお礼申し上げます。"
+        },
+        "evidence": null,
+        "tip": "Người thông báo là nhân viên → hạ mình → khiêm nhường ngữ."
+      }
+    },
+    {
+      "num": 41,
+      "passage": null,
+      "stem": "昨日はかなり風が強くて、何度も帽子を（　　）。",
+      "options": ["飛ばされたところだ", "飛んでいったところだ", "飛ばされそうになった", "飛んでいきそうになった"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hôm qua gió khá mạnh, mấy lần tôi suýt bị thổi bay mũ.",
+        "why": "帽子を＋bị động 飛ばされる (bị gió thổi bay mũ – bị động gián tiếp). Vます＋そうになる = suýt nữa thì. 何度も (nhiều lần) hợp với 'suýt', còn ～たところだ (vừa mới) không hợp với 昨日・何度も.",
+        "options": [
+          "飛ばされたところだ → vừa mới bị thổi bay; mâu thuẫn với 昨日 và 何度も. Sai.",
+          "飛んでいったところだ → 飛ぶ là tự động từ, không đi với 帽子を. Sai.",
+          "飛ばされそうになった → suýt bị thổi bay. ĐÚNG.",
+          "飛んでいきそうになった → 飛ぶ không nhận を (phải là 帽子が). Sai."
+        ],
+        "vocab": [
+          { "w": "飛ばす", "r": "とばす", "hv": "PHI", "vi": "làm bay, thổi bay" },
+          { "w": "帽子", "r": "ぼうし", "hv": "MẠO TỬ", "vi": "mũ" }
+        ],
+        "grammar": {
+          "pattern": "Vます＋そうになる",
+          "meaning": "suýt nữa thì ~",
+          "form": "V(bỏ ます)＋そうになる",
+          "example": "階段で転びそうになった。"
+        },
+        "evidence": null,
+        "tip": "帽子を → cần tha động từ/bị động: 飛ばされる. 帽子が → 飛ぶ."
+      }
+    },
+    {
+      "num": 42,
+      "passage": null,
+      "stem": "昨日、最近評判のレストランに行った。サービスと雰囲気はとてもよかったが、味は（　　）。",
+      "options": ["期待していなかったせいでだ", "期待していたからではなかった", "期待していなかったはずだ", "期待していたほどではなかった"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hôm qua tôi đến nhà hàng gần đây đang nổi tiếng. Phục vụ và không khí rất tốt, nhưng hương vị thì không như tôi đã kỳ vọng.",
+        "why": "～ほどではない = không đến mức ~. 期待していたほどではなかった = không ngon như mong đợi. Phù hợp với が (đối lập với dịch vụ tốt).",
+        "options": [
+          "期待していなかったせいでだ → sai ngữ pháp, không có nghĩa. Sai.",
+          "期待していたからではなかった → không phải vì đã kỳ vọng (không hợp). Sai.",
+          "期待していなかったはずだ → lẽ ra đã không kỳ vọng (vô lý). Sai.",
+          "期待していたほどではなかった → không bằng mức kỳ vọng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "評判", "r": "ひょうばん", "hv": "BÌNH PHÁN", "vi": "danh tiếng, được đánh giá" },
+          { "w": "雰囲気", "r": "ふんいき", "hv": "PHÂN VI KHÍ", "vi": "bầu không khí" },
+          { "w": "期待", "r": "きたい", "hv": "KỲ ĐÃI", "vi": "kỳ vọng" }
+        ],
+        "grammar": {
+          "pattern": "～ほどではない",
+          "meaning": "không đến mức ~",
+          "form": "Vる／Vた／N＋ほどではない",
+          "example": "少し寒いが、コートが必要なほどではない。"
+        },
+        "evidence": null,
+        "tip": null
+      }
+    }
+  ]
+}

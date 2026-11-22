@@ -1,0 +1,166 @@
+{
+  "exam": "2012-12",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、50から54の中に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án đúng nhất cho các ô 50–54.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "サクラが春に咲く不思議",
+      "text": "サクラが春に咲く不思議\n\n冬の寒さも緩み、春の陽気が感じられるようになってきました。春は花の季節。サクラをはじめ、ウメやモモなど多くの木々が花を咲かせます。\nところで、これらの花は、なぜ春に一斉に咲くのでしょう。花なんて暖かくなれば咲くものだと（50）。確かに、気温の上昇も重要です。ただ、皆さんは、春に花を咲かせる木がいつその準備をしているかご存じですか。（51）、開花する前の年の夏には、すでに花となる芽（花芽）が作られ、花を咲かせる準備ができているのです。そう考えると、春まで待って一斉に咲くというのは不思議ではありませんか。一体どういう仕組みなのでしょう。\nサクラやウメなどの木は夏に、成長を抑える休眠物質を葉で作ります。それが花芽にたまると、葉が落ち、花芽は「休眠」という期間に入ります。（52）花芽は成長しません。休眠から目覚めるには、一定の低温期間を経験することが必要です。「一定の低温期間」とはどれくらいかというと、それは花によって違うことがわかっています。例えば、サクラのソメイヨシノでは、5度前後の気温が約900時間（53）。そして休眠から目覚めると、成長を抑えていた休眠物質が減り始めます。それがなくなると成長が再開し、春になって、1日の平均気温が12～13度になると開花するのです。\n春に一斉に咲く花の仕組み、（54）。冬の間、私たちは寒さが去るのを待つばかりですが、春に咲く花のためには、その寒さは必要なものなのです。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["思うせいです", "思うかもしれません", "思うほどです", "思うことにしました"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Có lẽ các bạn nghĩ rằng hoa thì cứ trời ấm lên là nở thôi.",
+        "why": "Người viết đoán trước suy nghĩ của người đọc ('có thể bạn nghĩ rằng…'), rồi câu sau 確かに〜。ただ、… thừa nhận một phần rồi lật lại. Cấu trúc 〜と思うかもしれません。確かに〜。ただ〜 là cách mở vấn đề điển hình.",
+        "options": [
+          "思うせいです → 'là tại vì nghĩ', vô nghĩa ở đây. Sai.",
+          "思うかもしれません → có lẽ (bạn) nghĩ rằng. ĐÚNG.",
+          "思うほどです → 'đến mức nghĩ rằng', không có gì để so mức độ. Sai.",
+          "思うことにしました → 'quyết định nghĩ rằng' (quyết định của người viết), sai mạch. Sai."
+        ],
+        "vocab": [
+          { "w": "一斉に", "r": "いっせいに", "hv": "NHẤT TỀ", "vi": "đồng loạt" },
+          { "w": "上昇", "r": "じょうしょう", "hv": "THƯỢNG THĂNG", "vi": "tăng lên" },
+          { "w": "〜なんて", "r": "なんて", "hv": "", "vi": "cái thứ ~ (coi nhẹ)" }
+        ],
+        "grammar": {
+          "pattern": "〜と思うかもしれない。確かに〜。ただ／しかし〜",
+          "meaning": "có thể bạn nghĩ ~. Quả thật ~. Nhưng ~ (thừa nhận rồi phản bác)",
+          "form": "thể thường + と思うかもしれません",
+          "example": "勉強なんて意味がないと思うかもしれません。確かに大変です。しかし…"
+        },
+        "evidence": "花なんて暖かくなれば咲くものだと（50）。確かに、気温の上昇も重要です。ただ、…",
+        "tip": "Thấy 確かに… ngay sau ô trống → ô trống thường là ý kiến giả định của người đọc (〜かもしれません)."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["また", "こうして", "実は", "一方"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Thật ra, ngay từ mùa hè năm trước khi nở hoa, mầm hoa đã được tạo ra và sự chuẩn bị để nở hoa đã sẵn sàng.",
+        "why": "Câu trước hỏi 'bạn có biết cây chuẩn bị khi nào không?', câu sau tiết lộ sự thật bất ngờ (đã chuẩn bị từ mùa hè năm trước) → 実は (thật ra) dùng để đưa ra sự thật người nghe chưa biết.",
+        "options": [
+          "また → 'ngoài ra, hơn nữa' (bổ sung), không phải trả lời câu hỏi. Sai.",
+          "こうして → 'cứ như thế' (kết quả của quá trình đã nêu), chưa có quá trình nào. Sai.",
+          "実は → thật ra. ĐÚNG.",
+          "一方 → 'mặt khác' (đối chiếu), sai mạch. Sai."
+        ],
+        "vocab": [
+          { "w": "実は", "r": "じつは", "hv": "THỰC", "vi": "thật ra" },
+          { "w": "芽", "r": "め", "hv": "NHA", "vi": "mầm, chồi" },
+          { "w": "開花", "r": "かいか", "hv": "KHAI HOA", "vi": "nở hoa" }
+        ],
+        "grammar": {
+          "pattern": "実は〜のです",
+          "meaning": "thật ra là ~ (tiết lộ sự thật)",
+          "form": "実は + câu + のです",
+          "example": "実は、来月結婚するんです。"
+        },
+        "evidence": "皆さんは、春に花を咲かせる木がいつその準備をしているかご存じですか。（51）、開花する前の年の夏には、すでに花となる芽（花芽）が作られ…",
+        "tip": "Câu hỏi 'ご存じですか' → câu sau trả lời bằng 実は."
+      }
+    },
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "（52）に入るもの",
+      "options": ["この期間は", "あの期間では", "これくらいの期間では", "あれくらいの期間は"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Trong thời kỳ này, mầm hoa không phát triển.",
+        "why": "Ô trống chỉ lại thời kỳ 「休眠」 vừa nhắc ở câu trước → dùng この (chỉ điều vừa nói trong văn bản). この期間は花芽は成長しません = trong thời kỳ này mầm không lớn.",
+        "options": [
+          "この期間は → thời kỳ này (休眠 vừa nhắc). ĐÚNG.",
+          "あの期間では → あの chỉ điều cả hai cùng biết/xa xôi, không dùng chỉ điều vừa viết. Sai.",
+          "これくらいの期間では → 'khoảng thời gian cỡ này' — chưa nói độ dài nào. Sai.",
+          "あれくらいの期間は → sai cả chỉ thị từ lẫn nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "休眠", "r": "きゅうみん", "hv": "HƯU MIÊN", "vi": "ngủ đông, ngủ nghỉ" },
+          { "w": "抑える", "r": "おさえる", "hv": "ỨC", "vi": "kìm hãm, ức chế" },
+          { "w": "物質", "r": "ぶっしつ", "hv": "VẬT CHẤT", "vi": "chất, vật chất" }
+        ],
+        "grammar": {
+          "pattern": "この〜（文脈指示）",
+          "meaning": "~ này (chỉ điều vừa được nói đến trong văn)",
+          "form": "この + N",
+          "example": "昨年新しい制度ができた。この制度は…"
+        },
+        "evidence": "花芽は「休眠」という期間に入ります。（52）花芽は成長しません。",
+        "tip": "Trong văn viết, chỉ lại điều vừa nói → この/その; あの chỉ dùng cho ký ức chung."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p1",
+      "stem": "（53）に入るもの",
+      "options": ["必要かどうか調査されます", "必要かどうか明らかになります", "必要だとされています", "必要だと気づかされます"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Ví dụ, với hoa anh đào Somei Yoshino, người ta cho rằng cần khoảng 900 giờ ở nhiệt độ khoảng 5 độ.",
+        "why": "Đây là ví dụ minh họa kiến thức đã được biết (それは花によって違うことがわかっています) → nêu như một nhận định chung: 〜とされています = được cho là, người ta cho rằng.",
+        "options": [
+          "必要かどうか調査されます → 'sẽ được điều tra xem có cần không', nhưng con số 900 giờ đã cụ thể. Sai.",
+          "必要かどうか明らかになります → 'sẽ làm rõ có cần không', mâu thuẫn với con số cụ thể. Sai.",
+          "必要だとされています → được cho là cần. ĐÚNG.",
+          "必要だと気づかされます → 'bị khiến nhận ra rằng cần', không hợp văn giải thích khoa học. Sai."
+        ],
+        "vocab": [
+          { "w": "〜とされている", "r": "とされている", "hv": "", "vi": "được cho là, được coi là" },
+          { "w": "前後", "r": "ぜんご", "hv": "TIỀN HẬU", "vi": "khoảng, xấp xỉ" },
+          { "w": "低温", "r": "ていおん", "hv": "ĐÊ ÔN", "vi": "nhiệt độ thấp" }
+        ],
+        "grammar": {
+          "pattern": "〜とされている",
+          "meaning": "được cho là, người ta coi là ~ (nhận định chung, khách quan)",
+          "form": "thể thường + とされている",
+          "example": "この地域は日本で最も雨が多いとされている。"
+        },
+        "evidence": "それは花によって違うことがわかっています。例えば、サクラのソメイヨシノでは、5度前後の気温が約900時間（53）。",
+        "tip": "Văn giải thích khoa học khi nêu số liệu đã biết → 〜とされている / 〜と言われている."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p1",
+      "stem": "（54）に入るもの",
+      "options": ["ご存じでしょうか", "ご存じだったのですね", "おわかりいただけるのですね", "おわかりいただけましたか"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Cơ chế những bông hoa nở đồng loạt vào mùa xuân, các bạn đã hiểu chưa?",
+        "why": "Đây là câu tổng kết sau khi đã giải thích xong toàn bộ cơ chế → hỏi người đọc 'đã hiểu chưa' bằng kính ngữ おわかりいただけましたか (thì quá khứ, sau khi giải thích).",
+        "options": [
+          "ご存じでしょうか → 'bạn có biết không?' — dùng khi mở đầu vấn đề, không phải sau khi đã giải thích. Sai.",
+          "ご存じだったのですね → 'hóa ra bạn đã biết rồi nhỉ', người viết không thể biết điều đó. Sai.",
+          "おわかりいただけるのですね → khẳng định thay người đọc, không tự nhiên. Sai.",
+          "おわかりいただけましたか → các bạn đã hiểu chưa? ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "仕組み", "r": "しくみ", "hv": "SĨ TỔ", "vi": "cơ chế, cấu tạo" },
+          { "w": "去る", "r": "さる", "hv": "KHỨ", "vi": "rời đi, qua đi" },
+          { "w": "ご存じ", "r": "ごぞんじ", "hv": "TỒN", "vi": "biết (tôn kính ngữ)" }
+        ],
+        "grammar": {
+          "pattern": "おわかりいただけましたか",
+          "meaning": "quý vị đã hiểu chưa ạ (kính ngữ của わかりましたか)",
+          "form": "お + Vます(bỏ ます) + いただける",
+          "example": "以上で説明を終わります。おわかりいただけましたか。"
+        },
+        "evidence": "春に一斉に咲く花の仕組み、（54）。冬の間、私たちは寒さが去るのを待つばかりですが、春に咲く花のためには、その寒さは必要なものなのです。",
+        "tip": "Đầu bài: ご存じですか (mở vấn đề); cuối bài: おわかりいただけましたか (kết luận)."
+      }
+    }
+  ]
+}

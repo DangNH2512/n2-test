@@ -1,0 +1,191 @@
+{
+  "exam": "2014-12",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "誰にも言えずにずっと悩んでいたが、昨日親友に（　　）相談してみた。",
+      "options": ["思いきって", "うっかり", "せっかく", "知らず知らず"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đã phiền não suốt mà không thể nói với ai, nhưng hôm qua tôi đã mạnh dạn thử tâm sự với bạn thân.",
+        "why": "思いきって = mạnh dạn, dứt khoát (làm việc mình đã do dự lâu). Vế trước 'không nói được với ai, phiền não suốt' → cuối cùng quyết tâm nói ra.",
+        "options": [
+          "思いきって → mạnh dạn, quyết tâm. ĐÚNG.",
+          "うっかり → lơ đễnh, lỡ (làm việc không cố ý). Trái với việc chủ động đi tâm sự. Sai.",
+          "せっかく → mất công, hiếm có dịp; thường đi với のに/だから. Sai.",
+          "知らず知らず → lúc nào không hay, vô thức. Sai."
+        ],
+        "vocab": [
+          { "w": "思いきって", "r": "おもいきって", "hv": "TƯ", "vi": "mạnh dạn, dứt khoát" },
+          { "w": "悩む", "r": "なやむ", "hv": "NÃO", "vi": "phiền não, băn khoăn" },
+          { "w": "親友", "r": "しんゆう", "hv": "THÂN HỮU", "vi": "bạn thân" },
+          { "w": "相談", "r": "そうだん", "hv": "TƯƠNG ĐÀM", "vi": "bàn bạc, xin lời khuyên" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Dấu hiệu: '(do dự lâu) …が、思いきって〜てみた' — mẫu câu rất hay gặp."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "原稿に漢字の誤りがあったので、赤のペンで（　　）した。",
+      "options": ["交換", "改訂", "変換", "訂正"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vì bản thảo có lỗi chữ Hán nên tôi đã sửa lại bằng bút đỏ.",
+        "why": "訂正 (ていせい) = đính chính, sửa chỗ sai cho đúng. Có 誤り (lỗi sai) → 訂正する.",
+        "options": [
+          "交換 (こうかん) → trao đổi, đổi cái này lấy cái kia. Sai.",
+          "改訂 (かいてい) → sửa đổi, hiệu đính nội dung sách (改訂版). Không phải sửa một lỗi bằng bút. Sai.",
+          "変換 (へんかん) → chuyển đổi (ví dụ chuyển kana sang kanji trên máy tính). Sai.",
+          "訂正 (ていせい) → sửa lỗi sai. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "訂正", "r": "ていせい", "hv": "ĐÍNH CHÍNH", "vi": "sửa lỗi, đính chính" },
+          { "w": "原稿", "r": "げんこう", "hv": "NGUYÊN CẢO", "vi": "bản thảo" },
+          { "w": "誤り", "r": "あやまり", "hv": "NGỘ", "vi": "lỗi sai" },
+          { "w": "改訂", "r": "かいてい", "hv": "CẢI ĐÍNH", "vi": "sửa đổi, hiệu đính (sách)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "誤り・間違い → 訂正. 改訂 dùng cho cả ấn phẩm (改訂版 = bản sửa đổi)."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "選手たちは、次の大会での優勝を（　　）、毎日遅くまで練習している。",
+      "options": ["とらえて", "めざして", "みはって", "にぎって"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Các tuyển thủ, nhắm tới chức vô địch ở giải đấu sắp tới, ngày nào cũng luyện tập đến khuya.",
+        "why": "〜をめざす (目指す) = nhắm tới mục tiêu. 優勝をめざして = hướng tới chức vô địch.",
+        "options": [
+          "とらえて → 捕らえる/捉える: bắt giữ; nắm bắt (đặc điểm). Sai.",
+          "めざして → 目指す: nhắm tới, hướng tới. ĐÚNG.",
+          "みはって → 見張る: canh gác, theo dõi. Sai.",
+          "にぎって → 握る: nắm chặt (tay, quyền lực). Sai."
+        ],
+        "vocab": [
+          { "w": "目指す", "r": "めざす", "hv": "MỤC CHỈ", "vi": "nhắm tới, hướng tới" },
+          { "w": "優勝", "r": "ゆうしょう", "hv": "ƯU THẮNG", "vi": "vô địch" },
+          { "w": "見張る", "r": "みはる", "hv": "KIẾN TRƯƠNG", "vi": "canh gác" },
+          { "w": "握る", "r": "にぎる", "hv": "ÁC", "vi": "nắm chặt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Collocation: 優勝・合格・ゴール をめざす."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "この小説はとてもおもしろかったので、最後まで（　　）読んでしまった。",
+      "options": ["一気に", "一時的に", "一斉に", "一方的に"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Cuốn tiểu thuyết này rất hay nên tôi đã đọc một mạch đến hết.",
+        "why": "一気に (いっきに) = một mạch, một hơi, không ngừng nghỉ. Hay quá nên đọc liền đến cuối.",
+        "options": [
+          "一気に → một mạch. ĐÚNG.",
+          "一時的に → tạm thời, nhất thời. Sai.",
+          "一斉に → đồng loạt, cùng lúc (nhiều người). Sai.",
+          "一方的に → đơn phương, một chiều. Sai."
+        ],
+        "vocab": [
+          { "w": "一気に", "r": "いっきに", "hv": "NHẤT KHÍ", "vi": "một mạch, một hơi" },
+          { "w": "一斉に", "r": "いっせいに", "hv": "NHẤT TỀ", "vi": "đồng loạt" },
+          { "w": "一時的", "r": "いちじてき", "hv": "NHẤT THỜI ĐÍCH", "vi": "tạm thời" },
+          { "w": "一方的", "r": "いっぽうてき", "hv": "NHẤT PHƯƠNG ĐÍCH", "vi": "đơn phương" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "一気に飲む (uống một hơi), 一気に読む (đọc một mạch)."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "希望の職に就きたいのなら、情報を集めて、必要な知識を（　　）おくことが大切だ。",
+      "options": ["蓄えて", "招いて", "抱えて", "結んで"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nếu muốn làm công việc mình mong muốn thì việc thu thập thông tin và tích lũy sẵn những kiến thức cần thiết là quan trọng.",
+        "why": "知識を蓄える (たくわえる) = tích lũy kiến thức. 蓄える dùng cho tiền, sức lực, kiến thức được tích góp dần.",
+        "options": [
+          "蓄えて → 蓄える: tích lũy, dự trữ. ĐÚNG.",
+          "招いて → 招く (まねく): mời; gây ra (kết quả xấu). Sai.",
+          "抱えて → 抱える (かかえる): ôm; gánh (vấn đề, nợ). Sai.",
+          "結んで → 結ぶ (むすぶ): buộc, kết nối; ký kết. Sai."
+        ],
+        "vocab": [
+          { "w": "蓄える", "r": "たくわえる", "hv": "SÚC", "vi": "tích lũy, dự trữ" },
+          { "w": "職に就く", "r": "しょくにつく", "hv": "CHỨC TỰU", "vi": "nhận việc, đi làm" },
+          { "w": "知識", "r": "ちしき", "hv": "TRI THỨC", "vi": "kiến thức" },
+          { "w": "抱える", "r": "かかえる", "hv": "BÃO", "vi": "ôm; gánh vác" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "貯蓄 (ちょちく) = tiết kiệm tiền; 蓄える: 知識・お金・体力を蓄える."
+      }
+    },
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "今週は仕事が忙しかったので、週末は家で好きな音楽でも聞いて（　　）したい。",
+      "options": ["ダウン", "キャンセル", "クリア", "リラックス"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tuần này công việc bận rộn nên cuối tuần tôi muốn ở nhà nghe nhạc mình thích để thư giãn.",
+        "why": "リラックスする = thư giãn. Bận cả tuần → cuối tuần nghe nhạc để thư giãn.",
+        "options": [
+          "ダウン → ngã quỵ, giảm xuống (風邪でダウンする). Sai.",
+          "キャンセル → hủy bỏ. Sai.",
+          "クリア → vượt qua (thử thách), làm sạch. Sai.",
+          "リラックス → thư giãn. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "リラックス", "r": "りらっくす", "hv": "", "vi": "thư giãn (relax)" },
+          { "w": "週末", "r": "しゅうまつ", "hv": "CHU MẠT", "vi": "cuối tuần" },
+          { "w": "〜でも", "r": "でも", "hv": "", "vi": "~ chẳng hạn (đưa ví dụ nhẹ nhàng)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "昨日徹夜したせいで、今日は眠くて、本を読みながらつい（　　）してしまった。",
+      "options": ["ぎっしり", "いきいき", "うとうと", "さっぱり"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vì hôm qua thức trắng đêm nên hôm nay buồn ngủ, vừa đọc sách vừa lỡ thiu thiu ngủ mất.",
+        "why": "うとうと(する) = thiu thiu ngủ, gà gật. Đi với 眠くて, つい〜してしまった.",
+        "options": [
+          "ぎっしり → chật ních, kín mít. Sai.",
+          "いきいき → sống động, tràn đầy sức sống. Sai.",
+          "うとうと → thiu thiu ngủ, gà gật. ĐÚNG.",
+          "さっぱり → sảng khoái; (+phủ định) hoàn toàn không. Sai."
+        ],
+        "vocab": [
+          { "w": "うとうと", "r": "うとうと", "hv": "", "vi": "thiu thiu ngủ, gà gật" },
+          { "w": "徹夜", "r": "てつや", "hv": "TRIỆT DẠ", "vi": "thức trắng đêm" },
+          { "w": "つい", "r": "つい", "hv": "", "vi": "lỡ, bất giác" },
+          { "w": "ぎっしり", "r": "ぎっしり", "hv": "", "vi": "chật ních" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Từ tượng thái về ngủ: うとうと (gà gật), ぐっすり (ngủ say), すやすや (ngủ ngon lành)."
+      }
+    }
+  ]
+}

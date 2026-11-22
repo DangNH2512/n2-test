@@ -1,0 +1,167 @@
+{
+  "exam": "2016-12",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、50から54の中に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án đúng nhất cho các ô 50–54.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "日本発のトイレマーク",
+      "text": "以下は、雑誌のコラムである。\n\n日本発のトイレマーク\n\n公衆トイレの入り口に描かれている男女の絵のマーク。そのマークがあれば、文字で「トイレ」と書かれていなくても、そこがトイレであることがわかる。世界のあちこちで使われているこのトイレマークが実は日本で生まれたものだということを（50）。\nトイレマークが生まれたのは、1964年の東京オリンピックがきっかけだ。この東京オリンピックは、アルファベットを使わない国での初めての開催であったため、特に問題になったのが、言葉の壁だった。当時、日本国内の案内板は「お手洗い」などと日本語で書かれているものがほとんどだった。（51）、それでは世界90数か国から来日する選手たちに理解してもらえない。かといって、参加国すべての国の言葉で書くわけにもいかない。そこで、案内板作成者たちは、あらゆる国の選手が理解できるよう、絵で表すことを考えた。（52）、トイレマークなのだ。\nそのほかにも、食堂、シャワー、公衆電話等の施設や設備を表すマークや、水泳、バレーボール等の競技を表すマークも作られた。競技を表すマークは、この東京オリンピックで初めて全面的に導入され、高い評価を受けた。そして、その後のオリンピックでもデザインを変えながら毎回（53）。トイレマークに代表されるように、東京オリンピックをきっかけに日本で生まれたマークが、言葉の壁を越え、今や新たなコミュニケーション手段として、世界に広がっている。それは、あらゆる人にわかりやすくという思いが世界に届いた（54）。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["ご存じなわけだ", "ご存じだろうか", "ご存じのようだ", "ご存じだからだろう"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Bạn đọc có biết rằng biểu tượng nhà vệ sinh được dùng khắp nơi trên thế giới này thực ra ra đời ở Nhật Bản không?",
+        "why": "Đây là câu mở đầu bài báo, người viết đặt câu hỏi gợi sự chú ý của độc giả: 〜をご存じだろうか (Quý vị có biết ~ không?). Sau đó mới giải thích nguồn gốc.",
+        "options": [
+          "ご存じなわけだ → \"thảo nào (độc giả) biết\", kết luận vô căn cứ. Sai.",
+          "ご存じだろうか → câu hỏi gợi mở cho độc giả. ĐÚNG.",
+          "ご存じのようだ → \"có vẻ (độc giả) biết\", người viết không có căn cứ phán đoán. Sai.",
+          "ご存じだからだろう → \"có lẽ vì biết\", chỉ lý do, không có gì để giải thích. Sai."
+        ],
+        "vocab": [
+          { "w": "ご存じ", "r": "ごぞんじ", "hv": "TỒN", "vi": "biết (tôn kính của 知っている)" },
+          { "w": "公衆", "r": "こうしゅう", "hv": "CÔNG CHÚNG", "vi": "công cộng" },
+          { "w": "描く", "r": "えがく", "hv": "MIÊU", "vi": "vẽ, miêu tả" }
+        ],
+        "grammar": {
+          "pattern": "〜をご存じだろうか",
+          "meaning": "Quý vị có biết ~ không? (câu hỏi tu từ gợi chú ý)",
+          "form": "N / 普通形+こと + をご存じだろうか",
+          "example": "この言葉の本当の意味をご存じだろうか。"
+        },
+        "evidence": "世界のあちこちで使われているこのトイレマークが実は日本で生まれたものだということを（50）。",
+        "tip": "Câu mở bài báo/cột chuyên mục hay dùng 〜をご存じだろうか / 〜をご存じですか để dẫn dắt."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["それに", "しかし", "または", "それどころか"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Thời đó, bảng chỉ dẫn trong nước Nhật hầu hết ghi bằng tiếng Nhật như \"お手洗い\". Tuy nhiên, như thế thì các vận động viên đến từ hơn 90 nước không hiểu được.",
+        "why": "Câu trước: bảng hướng dẫn chủ yếu bằng tiếng Nhật (thực trạng). Câu sau: như vậy thì VĐV nước ngoài không hiểu (vấn đề). Quan hệ đối lập/chuyển ý → しかし.",
+        "options": [
+          "それに → hơn nữa (thêm thông tin cùng chiều). Sai.",
+          "しかし → tuy nhiên (đối lập). ĐÚNG.",
+          "または → hoặc là (lựa chọn). Sai.",
+          "それどころか → trái lại còn ~ (phủ định mạnh vế trước). Sai."
+        ],
+        "vocab": [
+          { "w": "案内板", "r": "あんないばん", "hv": "ÁN NỘI BẢN", "vi": "bảng chỉ dẫn" },
+          { "w": "壁", "r": "かべ", "hv": "BÍCH", "vi": "bức tường, rào cản" },
+          { "w": "来日", "r": "らいにち", "hv": "LAI NHẬT", "vi": "đến Nhật" }
+        ],
+        "grammar": {
+          "pattern": "しかし",
+          "meaning": "tuy nhiên, nhưng (liên từ đối lập)",
+          "form": "Câu A。しかし、Câu B。",
+          "example": "努力した。しかし、結果は出なかった。"
+        },
+        "evidence": "当時、日本国内の案内板は「お手洗い」などと日本語で書かれているものがほとんどだった。（51）、それでは世界90数か国から来日する選手たちに理解してもらえない。",
+        "tip": "それでは〜ない (như thế thì không ~) → vế này phủ nhận hiệu quả của vế trước → liên từ đối lập."
+      }
+    },
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "（52）に入るもの",
+      "options": ["作成者が理解したのは", "日本で考えられたのが", "ここに生み出したのは", "こうして生まれたのが"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vì vậy, những người làm bảng chỉ dẫn đã nghĩ đến việc thể hiện bằng hình vẽ để VĐV mọi quốc gia đều hiểu. Thứ ra đời theo cách đó chính là biểu tượng nhà vệ sinh.",
+        "why": "こうして = bằng cách này (tóm lại quá trình vừa kể: nghĩ ra cách biểu thị bằng hình). こうして生まれたのが、トイレマークなのだ = thứ ra đời như vậy chính là biểu tượng nhà vệ sinh. Khớp với chủ đề 生まれた ở đầu bài.",
+        "options": [
+          "作成者が理解したのは → \"điều người làm hiểu ra là\", không hợp: biểu tượng là thứ được tạo ra, không phải được \"hiểu\". Sai.",
+          "日本で考えられたのが → thiếu liên kết với quá trình vừa kể, lặp ý 日本 vô nghĩa. Sai.",
+          "ここに生み出したのは → ngữ pháp không tự nhiên (thiếu chủ thể, lẽ ra là 生み出されたのが). Sai.",
+          "こうして生まれたのが → thứ ra đời theo cách này. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "こうして", "r": "こうして", "hv": "", "vi": "bằng cách này, như vậy" },
+          { "w": "作成者", "r": "さくせいしゃ", "hv": "TÁC THÀNH GIẢ", "vi": "người soạn/làm ra" },
+          { "w": "あらゆる", "r": "あらゆる", "hv": "", "vi": "mọi, tất cả" }
+        ],
+        "grammar": {
+          "pattern": "こうして〜のが、Nなのだ",
+          "meaning": "thứ (ra đời/được làm) theo cách này chính là N",
+          "form": "こうして + V-た + のが + N + なのだ",
+          "example": "こうして完成したのが、この橋なのだ。"
+        },
+        "evidence": "そこで、案内板作成者たちは、あらゆる国の選手が理解できるよう、絵で表すことを考えた。（52）、トイレマークなのだ。",
+        "tip": "Sau đoạn kể quá trình, câu kết thường dùng こうして / このようにして để tóm lại."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p1",
+      "stem": "（53）に入るもの",
+      "options": ["使用されている", "使用した点だ", "使用していける", "使用したいものだ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Và ở các kỳ Olympic sau đó, (các biểu tượng môn thi đấu) vẫn được sử dụng mỗi lần, dù thay đổi thiết kế.",
+        "why": "Chủ ngữ là 競技を表すマーク (biểu tượng môn thi) → phải dùng bị động: 使用されている = đang/vẫn được sử dụng (sự thật kéo dài đến nay, 毎回).",
+        "options": [
+          "使用されている → được sử dụng (bị động, trạng thái tiếp diễn). ĐÚNG.",
+          "使用した点だ → \"là điểm đã sử dụng\", chủ động, không hợp chủ ngữ là マーク. Sai.",
+          "使用していける → \"có thể tiếp tục sử dụng\", chủ động, sai chủ thể. Sai.",
+          "使用したいものだ → mong muốn của người viết, không hợp mạch kể sự thật. Sai."
+        ],
+        "vocab": [
+          { "w": "競技", "r": "きょうぎ", "hv": "CẠNH KỸ", "vi": "môn thi đấu" },
+          { "w": "全面的", "r": "ぜんめんてき", "hv": "TOÀN DIỆN ĐÍCH", "vi": "toàn diện" },
+          { "w": "導入", "r": "どうにゅう", "hv": "ĐẠO NHẬP", "vi": "đưa vào áp dụng" },
+          { "w": "評価", "r": "ひょうか", "hv": "BÌNH GIÁ", "vi": "đánh giá" }
+        ],
+        "grammar": {
+          "pattern": "受身 + ている",
+          "meaning": "đang/vẫn được ~ (bị động, trạng thái kéo dài)",
+          "form": "Vられる → Vられている",
+          "example": "この製品は世界中で使用されている。"
+        },
+        "evidence": "競技を表すマークは、この東京オリンピックで初めて全面的に導入され、高い評価を受けた。そして、その後のオリンピックでもデザインを変えながら毎回（53）。",
+        "tip": "Xác định chủ ngữ (マーク = vật) → chọn thể bị động."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p1",
+      "stem": "（54）に入るもの",
+      "options": ["結果として表れるかもしれない", "結果のはずだった", "結果に違いない", "結果でなければならなかった"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều đó chắc chắn là kết quả của việc mong muốn \"dễ hiểu với mọi người\" đã đến được với thế giới.",
+        "why": "Câu kết: người viết khẳng định chắc chắn nguyên nhân của việc biểu tượng lan rộng ra thế giới (điều đã xảy ra) → 〜に違いない (chắc chắn là). それは〜結果に違いない.",
+        "options": [
+          "結果として表れるかもしれない → \"có thể sẽ hiện ra như kết quả\" (tương lai, không chắc), nhưng việc lan rộng đã xảy ra rồi. Sai.",
+          "結果のはずだった → \"lẽ ra phải là kết quả\" (thực tế không như vậy), mâu thuẫn. Sai.",
+          "結果に違いない → chắc chắn là kết quả. ĐÚNG.",
+          "結果でなければならなかった → \"đã phải là kết quả\" (nghĩa vụ), không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "手段", "r": "しゅだん", "hv": "THỦ ĐOẠN", "vi": "phương tiện, cách thức" },
+          { "w": "届く", "r": "とどく", "hv": "GIỚI", "vi": "đến được, chạm tới" },
+          { "w": "今や", "r": "いまや", "hv": "KIM", "vi": "giờ đây, ngày nay" }
+        ],
+        "grammar": {
+          "pattern": "〜に違いない",
+          "meaning": "chắc chắn là ~ (phán đoán dựa trên căn cứ)",
+          "form": "普通形 (N・naAdj bỏ だ) + に違いない",
+          "example": "あの店は人気があるから、おいしいに違いない。"
+        },
+        "evidence": "今や新たなコミュニケーション手段として、世界に広がっている。それは、あらゆる人にわかりやすくという思いが世界に届いた（54）。",
+        "tip": "Câu kết bài luận thường là nhận định chắc chắn của người viết: 〜に違いない / 〜のだ."
+      }
+    }
+  ]
+}

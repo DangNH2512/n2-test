@@ -1,0 +1,170 @@
+{
+  "exam": "2014-12",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、50から54の中に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, xét nội dung toàn bài và chọn phương án thích hợp nhất cho các chỗ trống từ 50 đến 54.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "日本の「大人」",
+      "text": "以下は、留学生の作文である。\n\n日本の「大人」\nチャンエディー\n\n商品名や商品の説明などで「大人の旅」「大人のパスタ」「大人のピアノ教室」といった表現をよく目にする。「大人」とあるが、成人用ではなく年齢制限はない。とすると、こうした表現で使われている「大人」とは（50）を指しているのだろうか。気になって調べてみた。\nある旅行会社は、「大人の旅」を企画している。これは、高級な旅館に泊まったり、時間をかけて旅行したり（51）。私はずっと、旅行会社が企画するのは低価格で短時間に多くの観光地に行く忙しい旅行というイメージを持っていたが、「大人の旅」は違っていた。\nまた、先日読んだ記事によると、「大人のパスタ」というのは、素材にこだわった商品らしい。価値があれば価格はあまり気にしないという人を対象として開発された。だから、良い素材を使うことによって多少価格が高くなっても（52）。\n駅にはられていた「大人のピアノ教室」のポスターで募集していた生徒は、昔習っていたピアノをまた習いたいという人や、仕事や家事以外に何か趣味を見つけたいという人だった。\n（53）経済的、時間的、精神的に余裕がある人が「大人」なのだろう。私は、旅行はお金をかけないで行きたいし、食事は質より量だ。勉強とアルバイトで精いっぱいだから、何かを習う余裕もない。「大人」の価値観がわからない私は、まだ「大人」ではなさそうだ。「大人」の商品の価値がわかるようになったら、「大人」に（54）。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["ここまで", "そういう大人", "どのような人", "それ以下"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nếu vậy thì chữ \"người lớn\" dùng trong những cách diễn đạt này đang chỉ những người như thế nào nhỉ? Tò mò nên tôi đã thử tìm hiểu.",
+        "why": "Câu kết thúc bằng 〜のだろうか (tự hỏi) và câu sau là 気になって調べてみた → cần một từ để hỏi. 「大人」とはどのような人を指しているのだろうか = 'người lớn' là chỉ người như thế nào. Toàn bài sau đó trả lời câu hỏi này.",
+        "options": [
+          "ここまで → đến mức này; không có gì để chỉ, không tạo thành câu hỏi. Sai.",
+          "そういう大人 → 'người lớn như thế' — trước đó chưa mô tả loại người nào để dùng そういう. Sai.",
+          "どのような人 → người như thế nào (từ để hỏi, khớp với のだろうか). ĐÚNG.",
+          "それ以下 → dưới mức đó; vô nghĩa ở đây. Sai."
+        ],
+        "vocab": [
+          { "w": "指す", "r": "さす", "hv": "CHỈ", "vi": "chỉ, ám chỉ" },
+          { "w": "年齢制限", "r": "ねんれいせいげん", "hv": "NIÊN LINH CHẾ HẠN", "vi": "giới hạn độ tuổi" },
+          { "w": "成人", "r": "せいじん", "hv": "THÀNH NHÂN", "vi": "người trưởng thành (đủ tuổi)" },
+          { "w": "とすると", "r": "とすると", "hv": "", "vi": "nếu vậy thì" }
+        ],
+        "grammar": {
+          "pattern": "〜とは＋どのような N を指しているのだろうか",
+          "meaning": "~ là chỉ N như thế nào nhỉ (nêu vấn đề để triển khai)",
+          "form": "N + とは + 疑問詞 + …のだろうか",
+          "example": "「幸せ」とは何を指すのだろうか。（'Hạnh phúc' là chỉ điều gì nhỉ?）"
+        },
+        "evidence": "とすると、こうした表現で使われている「大人」とは（50）を指しているのだろうか。気になって調べてみた。",
+        "tip": "Câu có 〜だろうか thường cần từ để hỏi (何・どのような・なぜ)."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["するものだ", "するつもりだ", "するほうだ", "するべきだ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Đây là kiểu du lịch như ở lữ quán cao cấp hay dành nhiều thời gian để đi thong thả.",
+        "why": "Chủ ngữ これは (= 大人の旅) → câu giải thích bản chất/nội dung của tour: これは〜たりするものだ = đây là thứ (loại tour) mà ~. ものだ ở đây mang nghĩa 'là cái ~', mô tả đặc điểm.",
+        "options": [
+          "するものだ → là loại (tour) mà ~ (giải thích nội dung). ĐÚNG.",
+          "するつもりだ → định ~ (ý định của người); chủ ngữ là 'tour' nên không hợp. Sai.",
+          "するほうだ → thuộc loại hay ~ (khuynh hướng của người). Sai.",
+          "するべきだ → nên ~ (khuyên răn), không hợp câu giới thiệu. Sai."
+        ],
+        "vocab": [
+          { "w": "企画", "r": "きかく", "hv": "XÍ HOẠCH", "vi": "lên kế hoạch, dự án" },
+          { "w": "高級", "r": "こうきゅう", "hv": "CAO CẤP", "vi": "cao cấp" },
+          { "w": "旅館", "r": "りょかん", "hv": "LỮ QUÁN", "vi": "lữ quán (nhà trọ kiểu Nhật)" },
+          { "w": "観光地", "r": "かんこうち", "hv": "QUAN QUANG ĐỊA", "vi": "điểm du lịch" }
+        ],
+        "grammar": {
+          "pattern": "これは〜(する)ものだ",
+          "meaning": "đây là (loại/thứ) mà ~ — giải thích nội dung, bản chất",
+          "form": "Vる／Vたりする + ものだ",
+          "example": "この祭りは、豊作を祈るものだ。（Lễ hội này là để cầu mùa màng bội thu.）"
+        },
+        "evidence": "ある旅行会社は、「大人の旅」を企画している。これは、高級な旅館に泊まったり、時間をかけて旅行したり（51）。",
+        "tip": "Xác định chủ ngữ trước: これ (vật) → loại bỏ つもり/ほう (chỉ dùng cho người)."
+      }
+    },
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "（52）に入るもの",
+      "options": ["問題ないかどうかだ", "問題ないということだ", "問題ないとするだろうか", "問題ないのだと思っていた"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Vì vậy, có nghĩa là dù giá có cao hơn một chút do dùng nguyên liệu tốt thì cũng không vấn đề gì.",
+        "why": "だから + 〜ということだ = vì vậy, có nghĩa là ~ (rút ra kết luận từ thông tin vừa nêu). Đối tượng 'có giá trị thì không bận tâm giá' → giá cao hơn chút cũng không sao.",
+        "options": [
+          "問題ないかどうかだ → 'vấn đề là có ổn hay không' — không phải kết luận. Sai.",
+          "問題ないということだ → có nghĩa là không vấn đề gì. ĐÚNG.",
+          "問題ないとするだろうか → 'liệu có coi là không vấn đề?' — nghi vấn, mâu thuẫn với だから. Sai.",
+          "問題ないのだと思っていた → 'tôi đã (từng) nghĩ là không sao' — thì quá khứ, không khớp với thông tin mới đọc được. Sai."
+        ],
+        "vocab": [
+          { "w": "素材", "r": "そざい", "hv": "TỐ TÀI", "vi": "nguyên liệu, chất liệu" },
+          { "w": "こだわる", "r": "こだわる", "hv": "", "vi": "kỹ tính, chú trọng" },
+          { "w": "対象", "r": "たいしょう", "hv": "ĐỐI TƯỢNG", "vi": "đối tượng" },
+          { "w": "多少", "r": "たしょう", "hv": "ĐA THIỂU", "vi": "ít nhiều, một chút" }
+        ],
+        "grammar": {
+          "pattern": "〜ということだ",
+          "meaning": "có nghĩa là ~ (kết luận, giải thích lại)",
+          "form": "普通形 + ということだ",
+          "example": "電話に出ないということは、忙しいということだ。（Không nghe máy nghĩa là đang bận.）"
+        },
+        "evidence": "価値があれば価格はあまり気にしないという人を対象として開発された。だから、良い素材を使うことによって多少価格が高くなっても（52）。",
+        "tip": "だから ở đầu câu → vế sau là kết luận khẳng định."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p1",
+      "stem": "（53）に入るもの",
+      "options": ["しかも", "ただし", "要するに", "するべきだ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tóm lại, có lẽ 'người lớn' là những người có dư dả về kinh tế, thời gian và tinh thần.",
+        "why": "Sau 3 ví dụ (大人の旅, 大人のパスタ, 大人のピアノ教室), người viết tổng kết: 経済的 (tiền — パスタ), 時間的 (thời gian — 旅), 精神的 (tinh thần — ピアノ) に余裕がある人. Liên từ tóm tắt → 要するに.",
+        "options": [
+          "しかも → hơn nữa (thêm thông tin cùng chiều). Sai.",
+          "ただし → tuy nhiên (nêu điều kiện/ngoại lệ). Sai.",
+          "要するに → tóm lại. ĐÚNG.",
+          "するべきだ → không phải liên từ, không thể đứng đầu câu (có vẻ là lỗi in của tài liệu). Sai."
+        ],
+        "vocab": [
+          { "w": "要するに", "r": "ようするに", "hv": "YẾU", "vi": "tóm lại" },
+          { "w": "余裕", "r": "よゆう", "hv": "DƯ DỤ", "vi": "dư dả, thong thả" },
+          { "w": "精神的", "r": "せいしんてき", "hv": "TINH THẦN ĐÍCH", "vi": "về mặt tinh thần" },
+          { "w": "経済的", "r": "けいざいてき", "hv": "KINH TẾ ĐÍCH", "vi": "về mặt kinh tế" }
+        ],
+        "grammar": {
+          "pattern": "要するに",
+          "meaning": "tóm lại, nói tóm lại (tổng kết những điều đã nêu)",
+          "form": "要するに + 結論",
+          "example": "要するに、彼は来ないということだ。（Tóm lại là anh ta sẽ không đến.）"
+        },
+        "evidence": "（53）経済的、時間的、精神的に余裕がある人が「大人」なのだろう。",
+        "tip": "Sau nhiều ví dụ + 〜なのだろう (suy luận kết luận) → 要するに／つまり."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p1",
+      "stem": "（54）に入るもの",
+      "options": ["なれるはずだった", "なりたくなってきた", "なるわけではない", "なれるのかもしれない"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nếu tôi có thể hiểu được giá trị của những sản phẩm dành cho 'người lớn', có lẽ tôi sẽ trở thành 'người lớn'.",
+        "why": "〜たら + suy đoán tương lai: khi hiểu được giá trị của sản phẩm 'người lớn' thì có lẽ mình cũng trở thành 'người lớn'. のかもしれない = có lẽ (suy đoán), hợp với giọng khiêm tốn của người viết ('まだ「大人」ではなさそうだ').",
+        "options": [
+          "なれるはずだった → lẽ ra đã có thể (tiếc nuối quá khứ) — không hợp với 〜たら tương lai. Sai.",
+          "なりたくなってきた → đã bắt đầu muốn trở thành (thay đổi đang xảy ra) — mâu thuẫn với điều kiện tương lai たら. Sai.",
+          "なるわけではない → không có nghĩa là sẽ trở thành — phủ định, đi ngược logic bài. Sai.",
+          "なれるのかもしれない → có lẽ có thể trở thành. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "価値観", "r": "かちかん", "hv": "GIÁ TRỊ QUAN", "vi": "quan niệm giá trị" },
+          { "w": "精いっぱい", "r": "せいいっぱい", "hv": "TINH", "vi": "hết sức, kín mít (không còn dư)" },
+          { "w": "質より量", "r": "しつよりりょう", "hv": "CHẤT LƯỢNG", "vi": "lượng hơn chất" }
+        ],
+        "grammar": {
+          "pattern": "〜のかもしれない",
+          "meaning": "có lẽ ~ (suy đoán không chắc chắn)",
+          "form": "普通形 + のかもしれない",
+          "example": "彼はもう帰ったのかもしれない。（Có lẽ anh ấy đã về rồi.）"
+        },
+        "evidence": "「大人」の価値観がわからない私は、まだ「大人」ではなさそうだ。「大人」の商品の価値がわかるようになったら、「大人」に（54）。",
+        "tip": "Câu kết bài luận thường là suy đoán nhẹ nhàng về tương lai: 〜たら…かもしれない."
+      }
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "exam": "2011-07",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "ずっと好調だったのに、最後の試合で<u>敗れて</u>しまった。",
+      "options": ["たおれて", "やぶれて", "みだれて", "つぶれて"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Suốt thời gian qua phong độ rất tốt, vậy mà lại thua ở trận cuối cùng.",
+        "why": "敗れる đọc là やぶれる (BẠI) = thua, bại trận. Âm On của 敗 là はい (失敗、敗北), âm Kun là やぶ(れる).",
+        "options": [
+          "たおれて → 倒れて: ngã, đổ. Sai.",
+          "やぶれて → 敗れて: thua (trận đấu). ĐÚNG.",
+          "みだれて → 乱れて: rối loạn, lộn xộn. Sai.",
+          "つぶれて → 潰れて: bị đè bẹp, phá sản. Sai."
+        ],
+        "vocab": [
+          { "w": "敗れる", "r": "やぶれる", "hv": "BẠI", "vi": "thua, bại" },
+          { "w": "好調", "r": "こうちょう", "hv": "HẢO ĐIỀU", "vi": "phong độ tốt, thuận lợi" },
+          { "w": "試合", "r": "しあい", "hv": "THÍ HỢP", "vi": "trận đấu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "破れる (PHÁ) cũng đọc やぶれる nhưng nghĩa là rách (giấy, quần áo). 敗れる = thua trận."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "この仕事には高い語学力が<u>要求</u>される。",
+      "options": ["ようきゅ", "よっきゅう", "ようきゅう", "よっきゅ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Công việc này đòi hỏi năng lực ngoại ngữ cao.",
+        "why": "要求 đọc là ようきゅう (YÊU CẦU) = yêu cầu, đòi hỏi. 要 = よう (trường âm), 求 = きゅう (trường âm).",
+        "options": [
+          "ようきゅ → thiếu trường âm ở 求. Sai.",
+          "よっきゅう → 欲求: ham muốn, nhu cầu. Sai.",
+          "ようきゅう → 要求: yêu cầu, đòi hỏi. ĐÚNG.",
+          "よっきゅ → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "要求", "r": "ようきゅう", "hv": "YÊU CẦU", "vi": "yêu cầu, đòi hỏi" },
+          { "w": "欲求", "r": "よっきゅう", "hv": "DỤC CẦU", "vi": "ham muốn, nhu cầu" },
+          { "w": "語学力", "r": "ごがくりょく", "hv": "NGỮ HỌC LỰC", "vi": "năng lực ngoại ngữ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "求 luôn đọc きゅう có trường âm (請求 せいきゅう, 追求 ついきゅう)."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "友達の合格をみんなで<u>祝った</u>。",
+      "options": ["いわった", "いのった", "うらなった", "ねがった"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Mọi người cùng nhau chúc mừng bạn thi đỗ.",
+        "why": "祝う đọc là いわう (CHÚC) = chúc mừng. Thể た: 祝った (いわった).",
+        "options": [
+          "いわった → 祝った: đã chúc mừng. ĐÚNG.",
+          "いのった → 祈った: đã cầu nguyện. Sai.",
+          "うらなった → 占った: đã bói. Sai.",
+          "ねがった → 願った: đã mong ước. Sai."
+        ],
+        "vocab": [
+          { "w": "祝う", "r": "いわう", "hv": "CHÚC", "vi": "chúc mừng" },
+          { "w": "祈る", "r": "いのる", "hv": "KỲ", "vi": "cầu nguyện" },
+          { "w": "合格", "r": "ごうかく", "hv": "HỢP CÁCH", "vi": "thi đỗ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "祝 (chúc mừng) và 祈 (cầu nguyện) đều có bộ 示 (礻) nên dễ nhầm. お祝い = quà/lời chúc mừng."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "寒かったら、エアコンの温度を<u>調節</u>してください。",
+      "options": ["ちょうさい", "ちょうせい", "ちょうさつ", "ちょうせつ"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nếu lạnh thì hãy điều chỉnh nhiệt độ máy điều hòa.",
+        "why": "調節 đọc là ちょうせつ (ĐIỀU TIẾT) = điều chỉnh (mức độ, nhiệt độ, âm lượng). 節 đọc âm On là せつ.",
+        "options": [
+          "ちょうさい → không có từ này. Sai.",
+          "ちょうせい → 調整: điều chỉnh, sắp xếp (lịch, ý kiến). Sai.",
+          "ちょうさつ → không có từ này. Sai.",
+          "ちょうせつ → 調節: điều tiết, điều chỉnh. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "調節", "r": "ちょうせつ", "hv": "ĐIỀU TIẾT", "vi": "điều chỉnh (mức độ)" },
+          { "w": "調整", "r": "ちょうせい", "hv": "ĐIỀU CHỈNH", "vi": "điều chỉnh, sắp xếp" },
+          { "w": "温度", "r": "おんど", "hv": "ÔN ĐỘ", "vi": "nhiệt độ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "節 = せつ (季節 きせつ, 節約 せつやく). Đừng nhầm với 整 = せい."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "この書類を<u>至急</u>コピーしてきてください。",
+      "options": ["しっきゅう", "ちっきゅう", "しきゅう", "ちきゅう"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hãy photo tài liệu này gấp giúp tôi.",
+        "why": "至急 đọc là しきゅう (CHÍ CẤP) = khẩn cấp, gấp. 至 = し, 急 = きゅう, không có âm ngắt っ.",
+        "options": [
+          "しっきゅう → thêm っ thừa. Sai.",
+          "ちっきゅう → sai âm đầu và thừa っ. Sai.",
+          "しきゅう → 至急: gấp, khẩn. ĐÚNG.",
+          "ちきゅう → 地球: trái đất. Sai."
+        ],
+        "vocab": [
+          { "w": "至急", "r": "しきゅう", "hv": "CHÍ CẤP", "vi": "khẩn cấp, gấp" },
+          { "w": "書類", "r": "しょるい", "hv": "THƯ LOẠI", "vi": "giấy tờ, tài liệu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "至 đọc し (至る いたる = đạt tới). 地球 ちきゅう là bẫy âm gần giống."
+      }
+    }
+  ]
+}

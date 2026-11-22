@@ -1,0 +1,161 @@
+{
+  "exam": "2026-07",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp 4 phương án thành câu đúng và chọn phương án điền vào vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "水は蒸発するときに周囲の熱を奪うという性質を持っています。汗をかく ＿＿＿ ＿＿＿ ★ ＿＿＿ ものです。",
+      "options": ["と", "のも", "体温が下がる", "その性質による"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Nước có tính chất lấy đi nhiệt của môi trường xung quanh khi bay hơi. Việc đổ mồ hôi thì thân nhiệt giảm cũng là do tính chất đó.",
+        "why": "Thứ tự đúng: 汗をかく [1 と] [3 体温が下がる] [2 のも] [4 その性質による] ものです. Vị trí ★ (thứ 3) = のも.",
+        "options": [
+          "と → vị trí 1: 汗をかくと (hễ đổ mồ hôi thì…).",
+          "のも → vị trí 3 (★): 体温が下がるのも (việc thân nhiệt giảm cũng…). ĐÚNG.",
+          "体温が下がる → vị trí 2.",
+          "その性質による → vị trí 4, nối với ものです: 'là do tính chất đó'."
+        ],
+        "vocab": [
+          { "w": "蒸発", "r": "じょうはつ", "hv": "CHƯNG PHÁT", "vi": "bay hơi" },
+          { "w": "周囲", "r": "しゅうい", "hv": "CHU VI", "vi": "xung quanh" },
+          { "w": "奪う", "r": "うばう", "hv": "ĐOẠT", "vi": "cướp, lấy đi" },
+          { "w": "体温", "r": "たいおん", "hv": "THỂ ÔN", "vi": "thân nhiệt" }
+        ],
+        "grammar": {
+          "pattern": "～のも…による",
+          "meaning": "việc ~ cũng là do…",
+          "form": "普通形＋のも＋N＋による（ものだ）",
+          "example": "彼が成功したのも、毎日の努力によるものだ。"
+        },
+        "evidence": null,
+        "tip": "Vる＋と＋kết quả (điều kiện tự nhiên) → 汗をかくと体温が下がる; rồi danh từ hóa bằng の."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "朝ご飯はなるべく ＿＿＿ ＿＿＿ ★ ＿＿＿ 済ませてしまうこともある。",
+      "options": ["食べるようにしているが", "牛乳だけで", "時間がなくて", "きちんと"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Bữa sáng thì tôi cố gắng ăn đầy đủ hết mức có thể, nhưng cũng có khi không có thời gian nên chỉ uống sữa cho xong.",
+        "why": "Thứ tự đúng: なるべく [4 きちんと] [1 食べるようにしているが] [3 時間がなくて] [2 牛乳だけで] 済ませてしまう. Vị trí ★ = 時間がなくて.",
+        "options": [
+          "食べるようにしているが → vị trí 2.",
+          "牛乳だけで → vị trí 4, nối với 済ませる (giải quyết bằng sữa thôi).",
+          "時間がなくて → vị trí 3 (★): nguyên nhân. ĐÚNG.",
+          "きちんと → vị trí 1, đi sau なるべく, bổ nghĩa cho 食べる."
+        ],
+        "vocab": [
+          { "w": "なるべく", "r": "なるべく", "hv": "", "vi": "cố gắng hết mức có thể" },
+          { "w": "済ませる", "r": "すませる", "hv": "TẾ", "vi": "giải quyết cho xong, xong bữa" },
+          { "w": "きちんと", "r": "きちんと", "hv": "", "vi": "đàng hoàng, đầy đủ" }
+        ],
+        "grammar": {
+          "pattern": "～ようにしている／Nで済ませる",
+          "meaning": "cố gắng (thành thói quen) ~ / giải quyết cho xong bằng N",
+          "form": "Vる＋ようにしている；N＋で済ませる",
+          "example": "昼ご飯はパンで済ませた。"
+        },
+        "evidence": null,
+        "tip": "なるべく + trạng từ cách thức (きちんと) + Vるようにしている là chuỗi tự nhiên."
+      }
+    },
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "慌てた様子で部長と課長が ＿＿＿ ＿＿＿ ★ ＿＿＿ たとうとしている。何があったのだろうか。",
+      "options": ["会議室に", "一度も出てこないまま", "2時間が", "入っていったきり"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Trưởng phòng và phó phòng với vẻ vội vã đã vào phòng họp rồi từ đó không ra lần nào, sắp được 2 tiếng rồi. Không biết đã có chuyện gì.",
+        "why": "Thứ tự đúng: 部長と課長が [1 会議室に] [4 入っていったきり] [2 一度も出てこないまま] [3 2時間が] たとうとしている. Vị trí ★ = 一度も出てこないまま.",
+        "options": [
+          "会議室に → vị trí 1 (nơi đi vào).",
+          "一度も出てこないまま → vị trí 3 (★). ĐÚNG.",
+          "2時間が → vị trí 4, chủ ngữ của たとうとしている (thời gian trôi qua).",
+          "入っていったきり → vị trí 2: đi vào rồi (từ đó không…)."
+        ],
+        "vocab": [
+          { "w": "慌てる", "r": "あわてる", "hv": "HOẢNG", "vi": "vội vàng, hoảng hốt" },
+          { "w": "様子", "r": "ようす", "hv": "DẠNG TỬ", "vi": "dáng vẻ, tình trạng" },
+          { "w": "経つ", "r": "たつ", "hv": "KINH", "vi": "(thời gian) trôi qua" }
+        ],
+        "grammar": {
+          "pattern": "～たきり／～まま",
+          "meaning": "~ rồi từ đó (không…) / trong tình trạng vẫn ~",
+          "form": "Vた＋きり（…ない）；Vない＋まま",
+          "example": "彼は朝出かけたきり、まだ帰ってこない。"
+        },
+        "evidence": null,
+        "tip": "～たきり thường đi kèm phủ định phía sau (出てこない) → 入っていったきり＋一度も出てこないまま."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "私がお昼によく行く定食屋は、全部でいくつ ＿＿＿ ＿＿＿ ★ ＿＿＿ あって、いつも迷う。",
+      "options": ["たくさんの種類の", "定食があって", "あるか", "わからないぐらい"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Quán cơm suất mà tôi hay đi ăn trưa có rất nhiều loại cơm suất đến mức không biết tổng cộng có bao nhiêu, nên lúc nào tôi cũng phân vân.",
+        "why": "Thứ tự đúng: 全部でいくつ [3 あるか] [4 わからないぐらい] [1 たくさんの種類の] [2 定食があって]. Vị trí ★ = たくさんの種類の.",
+        "options": [
+          "たくさんの種類の → vị trí 3 (★), bổ nghĩa cho 定食. ĐÚNG.",
+          "定食があって → vị trí 4.",
+          "あるか → vị trí 1: いくつあるか (có bao nhiêu).",
+          "わからないぐらい → vị trí 2: đến mức không biết."
+        ],
+        "vocab": [
+          { "w": "定食屋", "r": "ていしょくや", "hv": "ĐỊNH THỰC ỐC", "vi": "quán cơm suất" },
+          { "w": "種類", "r": "しゅるい", "hv": "CHỦNG LOẠI", "vi": "chủng loại" },
+          { "w": "迷う", "r": "まよう", "hv": "MÊ", "vi": "phân vân; lạc đường" }
+        ],
+        "grammar": {
+          "pattern": "～か（わから）ないぐらい",
+          "meaning": "đến mức không biết ~",
+          "form": "疑問詞＋普通形＋か＋わからないぐらい",
+          "example": "何回言ったかわからないぐらい注意した。"
+        },
+        "evidence": null,
+        "tip": "Từ để hỏi (いくつ) phải đi với ～か → いくつあるか là cặp chắc chắn."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "私の部屋のたんすには、いつかまた ＿＿＿ ＿＿＿ ★ ＿＿＿ たくさんしまってある。",
+      "options": ["と思って", "着るかもしれない", "古い服が", "捨てられずにいる"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Trong tủ quần áo ở phòng tôi có cất rất nhiều quần áo cũ mà tôi không nỡ vứt đi vì nghĩ biết đâu một ngày nào đó sẽ mặc lại.",
+        "why": "Thứ tự đúng: いつかまた [2 着るかもしれない] [1 と思って] [4 捨てられずにいる] [3 古い服が] たくさんしまってある. Vị trí ★ = 捨てられずにいる.",
+        "options": [
+          "と思って → vị trí 2.",
+          "着るかもしれない → vị trí 1, đi sau いつかまた.",
+          "古い服が → vị trí 4, chủ ngữ của しまってある.",
+          "捨てられずにいる → vị trí 3 (★), bổ nghĩa cho 古い服. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "たんす", "r": "たんす", "hv": "", "vi": "tủ quần áo (có ngăn kéo)" },
+          { "w": "しまう", "r": "しまう", "hv": "", "vi": "cất đi" },
+          { "w": "捨てる", "r": "すてる", "hv": "XẢ", "vi": "vứt bỏ" }
+        ],
+        "grammar": {
+          "pattern": "～ずにいる／～てある",
+          "meaning": "vẫn không (thể) ~ / (trạng thái) đã được ~ sẵn",
+          "form": "Vない(bỏ ない)＋ずにいる；他動詞て形＋ある",
+          "example": "本当のことを言えずにいる。"
+        },
+        "evidence": null,
+        "tip": "N が＋他動詞てある: 'N được ~ (để đó)' → 古い服が…しまってある."
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "exam": "2019-07",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、48 から 52 の中に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án thích hợp nhất cho các chỗ trống từ 48 đến 52.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "打ち水",
+      "text": "以下は、留学生の作文である。\n\n打ち水\nロバーツ　アレン\n\n夏休みに、友達に誘われて打ち水のイベントに参加しました。私はそのとき初めて打ち水というものを知りました。打ち水は、暑さ対策として道路や庭、玄関先などに水をまくという、日本に昔から伝わる生活の知恵です。もともとは各家庭で行うものでしたが、節電や地球温暖化対策として打ち水のイベントを企画する自治体なども（48）。\n打ち水をすると、確かに涼しく感じました。（49）、気分の問題ではないかとも思いました。打ち水によって実際に気温は下がるのでしょうか。\n調べてみたら、打ち水の効果を調べた実験結果を紹介している記事がありました。その記事によると、水をまいたところの気温が2度下がったということでした。これは水の性質によるものです。水は気体になるときに、周囲の熱を吸収します。水をまいたところの地面の熱は気体と一緒に逃げていき、気温が（50）。しかも、地面の温度は、水が蒸発しきった後も１時間は下がったままだったとも書かれていました。\n打ち水の効果を十分に得るには、朝か夕方に日陰にまくこともポイントのようです。そうすることで水がすぐに蒸発せず、温度の下がった状態が持続します。私が参加したイベントも夕方からだったので、なぜだろうと思っていましたが、（51）あったのだと知って、なるほどと思いました。\n打ち水の効果は、科学的に説明できるものでした。だから昔から今まで打ち水の文化が続いているのだと（52）。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 48,
+      "passage": "p1",
+      "stem": "（48）に入るもの",
+      "options": ["増えたとします", "増えたためです", "増えてしまいます", "増えているそうです"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vốn dĩ đây là việc mỗi gia đình tự làm, nhưng nghe nói các chính quyền địa phương tổ chức sự kiện tưới nước như một biện pháp tiết kiệm điện và chống nóng lên toàn cầu cũng đang tăng lên.",
+        "why": "Người viết là du học sinh mới biết về 打ち水, đang giới thiệu thông tin nghe/đọc được về xu hướng hiện nay → ～ているそうです (nghe nói đang ...). Trạng thái tăng dần đến hiện tại dùng ～ている.",
+        "options": [
+          "増えたとします: giả sử là đã tăng — không phải câu giả định. Sai.",
+          "増えたためです: là vì đã tăng — câu trước không có gì cần giải thích lý do. Sai.",
+          "増えてしまいます: sẽ (lỡ) tăng mất — sắc thái tiếc nuối, không hợp. Sai.",
+          "増えているそうです: nghe nói đang tăng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "打ち水", "r": "うちみず", "hv": "ĐẢ THỦY", "vi": "tưới nước (ra đường, sân) để làm mát" },
+          { "w": "節電", "r": "せつでん", "hv": "TIẾT ĐIỆN", "vi": "tiết kiệm điện" },
+          { "w": "自治体", "r": "じちたい", "hv": "TỰ TRỊ THỂ", "vi": "chính quyền địa phương" },
+          { "w": "企画", "r": "きかく", "hv": "XÍ HỌA", "vi": "lên kế hoạch, tổ chức" }
+        ],
+        "grammar": {
+          "pattern": "～ているそうです",
+          "meaning": "nghe nói đang ... (truyền đạt thông tin)",
+          "form": "Vている＋そうだ",
+          "example": "最近、自転車で通勤する人が増えているそうです。"
+        },
+        "evidence": "もともとは各家庭で行うものでしたが、節電や地球温暖化対策として打ち水のイベントを企画する自治体なども（48）。",
+        "tip": "もともとは…でしたが (vốn dĩ ... nhưng) → vế sau nói về tình hình hiện tại."
+      }
+    },
+    {
+      "num": 49,
+      "passage": "p1",
+      "stem": "（49）に入るもの",
+      "options": ["ただ", "それに", "つまり", "それどころか"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Khi tưới nước, đúng là tôi cảm thấy mát. Tuy nhiên, tôi cũng nghĩ phải chăng đó chỉ là vấn đề cảm giác.",
+        "why": "Câu trước khẳng định “đúng là thấy mát” (確かに), câu sau nêu sự nghi ngờ/hạn chế → ただ (tuy nhiên, có điều). Cặp 確かに…。ただ… rất hay gặp.",
+        "options": [
+          "ただ: tuy nhiên, có điều (bổ sung hạn chế). ĐÚNG.",
+          "それに: hơn nữa (thêm ý cùng chiều). Sai.",
+          "つまり: tức là (tóm lại). Sai.",
+          "それどころか: trái lại còn ... (phủ định mạnh vế trước). Sai."
+        ],
+        "vocab": [
+          { "w": "確かに", "r": "たしかに", "hv": "XÁC", "vi": "quả thật, đúng là" },
+          { "w": "気分", "r": "きぶん", "hv": "KHÍ PHÂN", "vi": "tâm trạng, cảm giác" }
+        ],
+        "grammar": {
+          "pattern": "確かに～。ただ、～",
+          "meaning": "đúng là ... Tuy nhiên ...",
+          "form": "Câu khẳng định。ただ、câu hạn chế",
+          "example": "この店はおいしい。ただ、少し高い。"
+        },
+        "evidence": "打ち水をすると、確かに涼しく感じました。（49）、気分の問題ではないかとも思いました。",
+        "tip": null
+      }
+    },
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["下がるところです", "下がる一方でした", "下がるというわけです", "下がることがありました"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nhiệt của mặt đất nơi tưới nước sẽ thoát đi cùng với hơi nước, nghĩa là nhiệt độ giảm xuống.",
+        "why": "Các câu trước giải thích cơ chế (nước bay hơi hấp thụ nhiệt). Câu này kết luận từ lời giải thích đó → ～というわけです (tức là, vì thế nên).",
+        "options": [
+          "下がるところです: sắp sửa giảm — không phải kết luận. Sai.",
+          "下がる一方でした: chỉ toàn giảm (quá khứ) — không hợp mạch giải thích chung. Sai.",
+          "下がるというわけです: tức là giảm xuống (kết luận từ lý do). ĐÚNG.",
+          "下がることがありました: đã có lúc giảm — không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "気体", "r": "きたい", "hv": "KHÍ THỂ", "vi": "thể khí" },
+          { "w": "吸収", "r": "きゅうしゅう", "hv": "HẤP THU", "vi": "hấp thụ" },
+          { "w": "蒸発", "r": "じょうはつ", "hv": "CHƯNG PHÁT", "vi": "bay hơi" }
+        ],
+        "grammar": {
+          "pattern": "～というわけだ",
+          "meaning": "tức là, có nghĩa là (kết luận rút ra từ điều đã nêu)",
+          "form": "Thể thông thường＋というわけだ",
+          "example": "円高になったから、海外旅行が安くなったというわけだ。"
+        },
+        "evidence": "水は気体になるときに、周囲の熱を吸収します。水をまいたところの地面の熱は気体と一緒に逃げていき、気温が（50）。",
+        "tip": null
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["ある理由が", "そのような理由が", "どの理由も", "あんな理由も"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Sự kiện tôi tham gia cũng bắt đầu từ chiều tối nên tôi đã thắc mắc tại sao, nhưng biết được là có lý do như vậy, tôi thấy à ra thế.",
+        "why": "Lý do vừa được trình bày ở câu trước (tưới vào buổi sáng/chiều tối để nước không bay hơi ngay) → dùng từ chỉ nội dung vừa nêu trong văn viết: そのような理由.",
+        "options": [
+          "ある理由が: một lý do nào đó (không xác định) — nhưng lý do đã được nói rõ. Sai.",
+          "そのような理由が: lý do như thế (vừa nêu). ĐÚNG.",
+          "どの理由も: lý do nào cũng — không hợp. Sai.",
+          "あんな理由も: あ- chỉ thứ ở xa/kỷ niệm chung, không dùng để chỉ nội dung vừa viết; も cũng sai. Sai."
+        ],
+        "vocab": [
+          { "w": "日陰", "r": "ひかげ", "hv": "NHẬT ÂM", "vi": "bóng râm" },
+          { "w": "持続", "r": "じぞく", "hv": "TRÌ TỤC", "vi": "duy trì, kéo dài" },
+          { "w": "なるほど", "r": "なるほど", "hv": "", "vi": "à ra thế, thì ra vậy" }
+        ],
+        "grammar": {
+          "pattern": "そのような＋N",
+          "meaning": "N như thế (chỉ nội dung vừa nêu ở trước)",
+          "form": "そのような / そういう＋N",
+          "example": "そのような理由で、計画は中止になった。"
+        },
+        "evidence": "打ち水の効果を十分に得るには、朝か夕方に日陰にまくこともポイントのようです。そうすることで水がすぐに蒸発せず、温度の下がった状態が持続します。",
+        "tip": "Trong văn viết, chỉ nội dung vừa nêu → dùng nhóm そ."
+      }
+    },
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "（52）に入るもの",
+      "options": ["納得させられました", "納得したのでしょう", "納得させてほしかったです", "納得してもらえました"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hiệu quả của việc tưới nước có thể giải thích một cách khoa học. Vì thế tôi thấy thật thuyết phục rằng đó là lý do văn hóa tưới nước được duy trì từ xưa đến nay.",
+        "why": "Kết bài là cảm nhận của chính người viết. 納得させられる (thể sai khiến bị động) = bị/được làm cho tâm phục, tự nhiên thấy thuyết phục → diễn tả cảm xúc tự phát của người viết.",
+        "options": [
+          "納得させられました: tôi (được làm cho) thấy thuyết phục. ĐÚNG.",
+          "納得したのでしょう: chắc là đã hiểu (phỏng đoán về người khác). Sai.",
+          "納得させてほしかったです: đã muốn được thuyết phục — không hợp. Sai.",
+          "納得してもらえました: đã được người khác chấp nhận cho — chủ thể sai. Sai."
+        ],
+        "vocab": [
+          { "w": "納得", "r": "なっとく", "hv": "NẠP ĐẮC", "vi": "hiểu và đồng ý, tâm phục" },
+          { "w": "科学的", "r": "かがくてき", "hv": "KHOA HỌC ĐÍCH", "vi": "mang tính khoa học" }
+        ],
+        "grammar": {
+          "pattern": "～させられる (使役受身)",
+          "meaning": "bị/được làm cho (cảm xúc tự phát: 考えさせられる, 感動させられる)",
+          "form": "Vさせ＋られる",
+          "example": "この本を読んで、いろいろ考えさせられた。"
+        },
+        "evidence": "打ち水の効果は、科学的に説明できるものでした。だから昔から今まで打ち水の文化が続いているのだと（52）。",
+        "tip": null
+      }
+    }
+  ]
+}

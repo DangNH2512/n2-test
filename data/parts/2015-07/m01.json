@@ -1,0 +1,137 @@
+{
+  "exam": "2015-07",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "ここは<u>省略</u>してもかまわない。",
+      "options": ["しょうかく", "しょうらく", "しょうじゃく", "しょうりゃく"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Chỗ này lược bỏ đi cũng không sao.",
+        "why": "省略 đọc là しょうりゃく (TỈNH LƯỢC) = lược bỏ, giản lược. 省 ở đây đọc しょう, 略 luôn đọc りゃく (略す りゃくす, 戦略 せんりゃく).",
+        "options": [
+          "しょうかく → 昇格: thăng cấp, lên hạng. Sai.",
+          "しょうらく → không có từ này. Sai.",
+          "しょうじゃく → không có từ này. Sai.",
+          "しょうりゃく → 省略: lược bỏ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "省略", "r": "しょうりゃく", "hv": "TỈNH LƯỢC", "vi": "lược bỏ, giản lược" },
+          { "w": "略す", "r": "りゃくす", "hv": "LƯỢC", "vi": "viết tắt, rút gọn" },
+          { "w": "かまわない", "r": "かまわない", "hv": "", "vi": "không sao, không vấn đề gì" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "略 có âm りゃく (âm ghép ゃ), đừng nhầm với 落 (らく) hay 若 (じゃく)."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "研修内容は、日程も<u>含めて</u>、今日中にお知らせします。",
+      "options": ["ふくめて", "さだめて", "かためて", "まとめて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nội dung khóa tập huấn, bao gồm cả lịch trình, sẽ được thông báo trong hôm nay.",
+        "why": "含める đọc là ふくめる (HÀM) = bao gồm, tính cả vào. ～も含めて = kể cả ~.",
+        "options": [
+          "ふくめて → 含めて: bao gồm. ĐÚNG.",
+          "さだめて → 定めて: quy định, xác định. Sai.",
+          "かためて → 固めて: làm cứng lại, củng cố. Sai.",
+          "まとめて → 纏めて: gom lại, tổng hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "含める", "r": "ふくめる", "hv": "HÀM", "vi": "bao gồm, tính cả vào" },
+          { "w": "含む", "r": "ふくむ", "hv": "HÀM", "vi": "chứa, bao hàm" },
+          { "w": "研修", "r": "けんしゅう", "hv": "NGHIÊN TU", "vi": "tập huấn, đào tạo" },
+          { "w": "日程", "r": "にってい", "hv": "NHẬT TRÌNH", "vi": "lịch trình" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "含む (ふくむ: chứa, bao hàm) – 含める (ふくめる: tính gộp vào). Cả hai đều đọc ふく～."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "慣れるとつい<u>油断</u>して失敗してしまう。",
+      "options": ["よたん", "ゆたん", "よだん", "ゆだん"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hễ quen rồi là lại lơ là mất cảnh giác và thất bại.",
+        "why": "油断 đọc là ゆだん (DU ĐOẠN) = lơ là, chủ quan. 油 đọc âm On là ゆ (石油 せきゆ), 断 đọc だん (判断 はんだん).",
+        "options": [
+          "よたん → không có từ này. Sai.",
+          "ゆたん → sai âm, 断 phải đọc だん (đục). Sai.",
+          "よだん → 予断: đoán trước. Sai.",
+          "ゆだん → 油断: lơ là, mất cảnh giác. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "油断", "r": "ゆだん", "hv": "DU ĐOẠN", "vi": "lơ là, chủ quan, mất cảnh giác" },
+          { "w": "慣れる", "r": "なれる", "hv": "QUÁN", "vi": "quen" },
+          { "w": "失敗", "r": "しっぱい", "hv": "THẤT BẠI", "vi": "thất bại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Thành ngữ: 油断大敵 (ゆだんたいてき) = chủ quan là kẻ thù lớn nhất."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "明日は学校の<u>行事</u>に参加します。",
+      "options": ["ぎょうごと", "こうごと", "ぎょうじ", "こうじ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Ngày mai tôi sẽ tham gia sự kiện của trường.",
+        "why": "行事 đọc là ぎょうじ (HÀNH SỰ) = sự kiện, lễ hội tổ chức theo lệ (của trường, cộng đồng). 行 đọc ぎょう như 行列 (ぎょうれつ), 事 đọc じ.",
+        "options": [
+          "ぎょうごと → sai, 事 ở đây đọc âm On じ. Sai.",
+          "こうごと → không có từ này. Sai.",
+          "ぎょうじ → 行事: sự kiện, hoạt động. ĐÚNG.",
+          "こうじ → 工事: công trình xây dựng. Sai."
+        ],
+        "vocab": [
+          { "w": "行事", "r": "ぎょうじ", "hv": "HÀNH SỰ", "vi": "sự kiện, hoạt động định kỳ" },
+          { "w": "参加", "r": "さんか", "hv": "THAM GIA", "vi": "tham gia" },
+          { "w": "工事", "r": "こうじ", "hv": "CÔNG SỰ", "vi": "công trình, thi công" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "行 có 3 âm On: こう (旅行), ぎょう (行事, 行列), あん (行脚). Nhớ cụm 年中行事 (ねんじゅうぎょうじ)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "この世代の人たちはコンピュータの知識が<u>乏しい</u>ように思います。",
+      "options": ["くわしい", "とぼしい", "まずしい", "あやしい"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi nghĩ những người thuộc thế hệ này có vẻ thiếu kiến thức về máy tính.",
+        "why": "乏しい đọc là とぼしい (PHẠP) = nghèo nàn, thiếu thốn (kiến thức, kinh nghiệm, tài nguyên...).",
+        "options": [
+          "くわしい → 詳しい: am hiểu, chi tiết. Sai.",
+          "とぼしい → 乏しい: thiếu thốn, nghèo nàn. ĐÚNG.",
+          "まずしい → 貧しい: nghèo (về tiền bạc). Sai.",
+          "あやしい → 怪しい: đáng ngờ, khả nghi. Sai."
+        ],
+        "vocab": [
+          { "w": "乏しい", "r": "とぼしい", "hv": "PHẠP", "vi": "thiếu thốn, nghèo nàn" },
+          { "w": "世代", "r": "せだい", "hv": "THẾ ĐẠI", "vi": "thế hệ" },
+          { "w": "知識", "r": "ちしき", "hv": "TRI THỨC", "vi": "kiến thức" },
+          { "w": "貧しい", "r": "まずしい", "hv": "BẦN", "vi": "nghèo khổ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "乏 còn gặp trong 貧乏 (びんぼう: nghèo). 乏しい thường đi với 経験・知識・資源."
+      }
+    }
+  ]
+}

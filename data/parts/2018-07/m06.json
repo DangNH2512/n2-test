@@ -1,0 +1,164 @@
+{
+  "exam": "2018-07",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn câu dùng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "役目",
+      "options": [
+        "次の公演で、私は医者の<u>役目</u>を演じる。",
+        "健康のために、毎朝散歩することが<u>役目</u>になっている。",
+        "池田さんが今日の掃除の<u>役目</u>だ。",
+        "部下に仕事を教えるのは課長の<u>役目</u>の一つだ。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Dạy việc cho cấp dưới là một trong những vai trò (trách nhiệm) của trưởng phòng.",
+        "why": "役目 (やくめ) = nhiệm vụ, vai trò, trách nhiệm phải làm theo vị trí. 課長の役目 dùng đúng nghĩa.",
+        "options": [
+          "Vai diễn trong vở kịch phải dùng 役 (やく): 医者の役を演じる. Sai.",
+          "Thói quen hằng ngày phải dùng 日課 (にっか) hoặc 習慣. Sai.",
+          "Người phụ trách trực nhật phải dùng 当番 (とうばん) / 担当. Sai.",
+          "課長の役目 = nhiệm vụ của trưởng phòng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "役目", "r": "やくめ", "hv": "DỊCH MỤC", "vi": "nhiệm vụ, vai trò" },
+          { "w": "日課", "r": "にっか", "hv": "NHẬT KHÓA", "vi": "việc làm hằng ngày" },
+          { "w": "当番", "r": "とうばん", "hv": "ĐƯƠNG PHIÊN", "vi": "phiên trực" },
+          { "w": "部下", "r": "ぶか", "hv": "BỘ HẠ", "vi": "cấp dưới" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "役 = vai diễn/chức; 役目 = trách nhiệm phải làm; 当番 = phiên trực luân phiên."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "最寄り",
+      "options": [
+        "<u>最寄り</u>の店までは、歩いて30分だ。",
+        "彼女は私の<u>最寄り</u>の友達だ。",
+        "<u>最寄り</u>の試験は来月にある。",
+        "電車の中で<u>最寄り</u>の人に足を踏まれた。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Đến cửa hàng gần nhất phải đi bộ 30 phút.",
+        "why": "最寄り (もより) = gần nhất (về địa điểm: ga, cửa hàng, bến xe…). Chỉ dùng cho nơi chốn.",
+        "options": [
+          "最寄りの店 = cửa hàng gần nhất. ĐÚNG.",
+          "Bạn thân phải dùng 親しい友達 / 一番の友達. Sai.",
+          "Kỳ thi sắp tới phải dùng 次の試験 / 直近の試験. Sai.",
+          "Người đứng cạnh phải dùng 隣の人 / 近くの人. Sai."
+        ],
+        "vocab": [
+          { "w": "最寄り", "r": "もより", "hv": "TỐI KÝ", "vi": "gần nhất (địa điểm)" },
+          { "w": "最寄り駅", "r": "もよりえき", "hv": "TỐI KÝ DỊCH", "vi": "ga gần nhất" },
+          { "w": "踏む", "r": "ふむ", "hv": "ĐẠP", "vi": "giẫm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "最寄り gần như chỉ đi với 駅・店・バス停・交番."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "解約",
+      "options": [
+        "大臣は、内容に誤りがあったと述べ、昨日の発言を<u>解約</u>した。",
+        "１年の留学を終えて国へ帰るので、銀行の口座を<u>解約</u>した。",
+        "やむをえない理由により、A社との面会を<u>解約</u>した。",
+        "あの会社は今年は赤字を<u>解約</u>することができた。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Vì kết thúc 1 năm du học và về nước nên tôi đã đóng tài khoản ngân hàng.",
+        "why": "解約 (かいやく) = hủy hợp đồng (tài khoản, bảo hiểm, thuê nhà, điện thoại…). 口座を解約する là cách dùng chuẩn.",
+        "options": [
+          "Rút lại phát ngôn phải dùng 撤回 (てっかい). Sai.",
+          "口座を解約する = hủy/đóng tài khoản. ĐÚNG.",
+          "Hủy cuộc gặp phải dùng 中止 / キャンセル / 取り消し. Sai.",
+          "Xóa lỗ phải dùng 解消 (かいしょう) / 脱却. Sai."
+        ],
+        "vocab": [
+          { "w": "解約", "r": "かいやく", "hv": "GIẢI ƯỚC", "vi": "hủy hợp đồng" },
+          { "w": "撤回", "r": "てっかい", "hv": "TRIỆT HỒI", "vi": "rút lại (phát ngôn, quyết định)" },
+          { "w": "口座", "r": "こうざ", "hv": "KHẨU TỌA", "vi": "tài khoản" },
+          { "w": "赤字", "r": "あかじ", "hv": "XÍCH TỰ", "vi": "thâm hụt, lỗ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "解約 chỉ dùng khi có 契約 (hợp đồng) phía sau."
+      }
+    },
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "演説",
+      "options": [
+        "卒業生代表の森さんは卒業式での<u>演説</u>で、先生方への感謝の気持ちを述べた。",
+        "首相は昨日の国会での<u>演説</u>で、経済対策を最優先するとの決意を述べた。",
+        "決勝進出が決まった中島選手は試合後の<u>演説</u>で、必ず優勝すると述べた。",
+        "A社の社長は記者会見の<u>演説</u>で、今後の事業方針について述べた。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Thủ tướng trong bài diễn thuyết tại Quốc hội hôm qua đã nêu quyết tâm ưu tiên hàng đầu các biện pháp kinh tế.",
+        "why": "演説 (えんぜつ) = diễn thuyết trước công chúng, nêu chủ trương, quan điểm (thường là chính trị). Bài phát biểu của thủ tướng ở Quốc hội là đúng nghĩa nhất.",
+        "options": [
+          "Lời phát biểu ở lễ tốt nghiệp dùng 答辞 (とうじ) / スピーチ / あいさつ. Sai.",
+          "国会での演説 = diễn thuyết tại Quốc hội. ĐÚNG.",
+          "Sau trận đấu dùng インタビュー / コメント. Sai.",
+          "Họp báo dùng 発言 / 会見で述べた, không gọi là 演説. Sai."
+        ],
+        "vocab": [
+          { "w": "演説", "r": "えんぜつ", "hv": "DIỄN THUYẾT", "vi": "diễn thuyết" },
+          { "w": "首相", "r": "しゅしょう", "hv": "THỦ TƯỚNG", "vi": "thủ tướng" },
+          { "w": "対策", "r": "たいさく", "hv": "ĐỐI SÁCH", "vi": "biện pháp đối phó" },
+          { "w": "記者会見", "r": "きしゃかいけん", "hv": "KÝ GIẢ HỘI KIẾN", "vi": "họp báo" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "演説 gắn với chính trị gia, bầu cử (選挙演説, 街頭演説)."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "きっぱり",
+      "options": [
+        "めがねをかけると、遠くの物も<u>きっぱり</u>見えるようになる。",
+        "このラーメンはもう何度も食べたので、<u>きっぱり</u>飽きてしまった。",
+        "鈴木さんは石川さんからのデートの誘いを<u>きっぱり</u>断った。",
+        "昔のことはなかなか<u>きっぱり</u>思い出せない。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Suzuki đã dứt khoát từ chối lời mời hẹn hò của Ishikawa.",
+        "why": "きっぱり = dứt khoát, thẳng thừng (thái độ, lời nói: 断る・やめる・言い切る).",
+        "options": [
+          "Nhìn rõ phải dùng はっきり / くっきり. Sai.",
+          "Chán hẳn phải dùng すっかり飽きる. Sai.",
+          "きっぱり断る = từ chối dứt khoát. ĐÚNG.",
+          "Nhớ rõ phải dùng はっきり思い出す. Sai."
+        ],
+        "vocab": [
+          { "w": "きっぱり", "r": "きっぱり", "hv": "", "vi": "dứt khoát, thẳng thừng" },
+          { "w": "断る", "r": "ことわる", "hv": "ĐOẠN", "vi": "từ chối" },
+          { "w": "飽きる", "r": "あきる", "hv": "BÃO", "vi": "chán" },
+          { "w": "誘い", "r": "さそい", "hv": "DỤ", "vi": "lời mời" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "きっぱり (thái độ dứt khoát) ≠ はっきり (rõ ràng, nhìn/nghe/nhớ rõ)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "exam": "2013-12",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "そのホテルは古いですが部屋はとても<u>清潔</u>でしたよ。",
+      "options": ["せっきつ", "せいきつ", "せっけつ", "せいけつ"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Khách sạn đó tuy cũ nhưng phòng rất sạch sẽ đấy.",
+        "why": "清潔 đọc là せいけつ (THANH KHIẾT) = sạch sẽ. 清 đọc せい (trường âm), 潔 đọc けつ (không phải きつ).",
+        "options": [
+          "せっきつ → sai cả 2 chữ (清 không có âm せっ, 潔 không đọc きつ). Sai.",
+          "せいきつ → 潔 không đọc きつ. Sai.",
+          "せっけつ → 清 không bị xúc âm thành せっ. Sai.",
+          "せいけつ → 清潔: sạch sẽ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "清潔", "r": "せいけつ", "hv": "THANH KHIẾT", "vi": "sạch sẽ, vệ sinh" },
+          { "w": "潔い", "r": "いさぎよい", "hv": "KHIẾT", "vi": "dứt khoát, thẳng thắn, đàng hoàng" },
+          { "w": "清掃", "r": "せいそう", "hv": "THANH TẢO", "vi": "quét dọn, làm vệ sinh" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "潔 = けつ: 清潔 (せいけつ), 簡潔 (かんけつ – ngắn gọn), 不潔 (ふけつ – bẩn). Không bao giờ đọc きつ."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "それは<u>隠す</u>必要がないですよ。",
+      "options": ["かくす", "もどす", "わたす", "さがす"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Chuyện đó không cần phải giấu đâu.",
+        "why": "隠す đọc là かくす (ẨN) = giấu, che giấu.",
+        "options": [
+          "かくす → 隠す: giấu. ĐÚNG.",
+          "もどす → 戻す: trả lại, đưa về chỗ cũ. Sai.",
+          "わたす → 渡す: đưa, trao. Sai.",
+          "さがす → 探す/捜す: tìm kiếm. Sai."
+        ],
+        "vocab": [
+          { "w": "隠す", "r": "かくす", "hv": "ẨN", "vi": "giấu, che giấu" },
+          { "w": "隠れる", "r": "かくれる", "hv": "ẨN", "vi": "trốn, ẩn nấp" },
+          { "w": "必要", "r": "ひつよう", "hv": "TẤT YẾU", "vi": "cần thiết" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cặp tha/tự động từ: 隠す (giấu cái gì) ↔ 隠れる (tự trốn). Âm On: いん (隠居 いんきょ)."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "山田さんはいつも<u>姿勢</u>がいいですね。",
+      "options": ["しぜい", "しっぜい", "しせい", "しっせい"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh Yamada lúc nào tư thế cũng đẹp nhỉ.",
+        "why": "姿勢 đọc là しせい (TƯ THẾ) = tư thế, dáng điệu; thái độ. 姿 = し, 勢 = せい (không đục, không xúc âm).",
+        "options": [
+          "しぜい → 勢 không bị đục thành ぜい ở đây. Sai.",
+          "しっぜい → sai xúc âm và âm đục. Sai.",
+          "しせい → 姿勢: tư thế. ĐÚNG.",
+          "しっせい → 失政 (chính sách sai lầm)/叱声; không phải 姿勢. Sai."
+        ],
+        "vocab": [
+          { "w": "姿勢", "r": "しせい", "hv": "TƯ THẾ", "vi": "tư thế; thái độ (đối với việc gì)" },
+          { "w": "姿", "r": "すがた", "hv": "TƯ", "vi": "dáng vẻ, hình dáng" },
+          { "w": "勢い", "r": "いきおい", "hv": "THẾ", "vi": "khí thế, đà" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "姿勢 còn dùng nghĩa bóng: 前向きな姿勢 = thái độ tích cực."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "もっと丁寧に<u>積ん</u>でください。",
+      "options": ["たたんで", "あんで", "むすんで", "つんで"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hãy chất (xếp chồng) cẩn thận hơn.",
+        "why": "積む đọc là つむ (TÍCH) = chất đống, xếp chồng lên. Thể て: 積んで (つんで).",
+        "options": [
+          "たたんで → 畳む: gấp (quần áo, ô). Sai.",
+          "あんで → 編む: đan (len). Sai.",
+          "むすんで → 結ぶ: buộc, thắt. Sai.",
+          "つんで → 積む: chất, xếp chồng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "積む", "r": "つむ", "hv": "TÍCH", "vi": "chất, xếp chồng; tích lũy (kinh nghiệm)" },
+          { "w": "丁寧", "r": "ていねい", "hv": "ĐINH NINH", "vi": "cẩn thận, lịch sự" },
+          { "w": "積もる", "r": "つもる", "hv": "TÍCH", "vi": "(tuyết, bụi) chất đống, phủ dày" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "積 = つ(む): 経験を積む (tích lũy kinh nghiệm), 雪が積もる (tuyết phủ). Âm On せき: 面積 めんせき."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "犯人は１０年以上も<u>逃亡</u>生活を送っていた。",
+      "options": ["とうぼう", "とぼう", "とうそう", "とそう"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tên tội phạm đã sống cuộc đời lẩn trốn suốt hơn 10 năm.",
+        "why": "逃亡 đọc là とうぼう (ĐÀO VONG) = bỏ trốn, đào tẩu. 逃 = とう (trường âm), 亡 = ぼう (như 死亡 しぼう).",
+        "options": [
+          "とうぼう → 逃亡: bỏ trốn. ĐÚNG.",
+          "とぼう → thiếu trường âm của 逃 (とう). Sai.",
+          "とうそう → 逃走 (cũng là bỏ chạy) / 闘争 (đấu tranh), nhưng 亡 không đọc そう. Sai.",
+          "とそう → 塗装: sơn phủ. Sai."
+        ],
+        "vocab": [
+          { "w": "逃亡", "r": "とうぼう", "hv": "ĐÀO VONG", "vi": "bỏ trốn, đào tẩu" },
+          { "w": "犯人", "r": "はんにん", "hv": "PHẠM NHÂN", "vi": "thủ phạm, tội phạm" },
+          { "w": "逃走", "r": "とうそう", "hv": "ĐÀO TẨU", "vi": "bỏ chạy, tẩu thoát" },
+          { "w": "逃げる", "r": "にげる", "hv": "ĐÀO", "vi": "chạy trốn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "亡 = ぼう: 死亡 (しぼう), 亡命 (ぼうめい). Bẫy: とうそう là 逃走 – viết khác chữ thứ hai."
+      }
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "exam": "2010-12",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、50から54の中に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án đúng nhất cho các ô 50–54.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "花粉症とうまく付き合う",
+      "text": "以下は、雑誌のコラムである。\n\n花粉症とうまく付き合う\n\n春が訪れ、過ごしやすい季節になりました。しかし最近、（50）花粉症に悩まされる人が増えています。春は花粉症の季節でもあるのです。\n花粉症とは何でしょうか。花粉症は花粉に対するアレルギー反応で、アレルギー体質の人は花粉症になりやすいといわれています。花粉は体にとって有害なものではありません。\nしかし、花粉症になりやすい人の体に花粉が入ると、体は花粉を侵入者だと思って、花粉に対してガードマンのような働きをする「抗体」を作り出します。この「抗体」が蓄積されて一定の水準になると、花粉を追い出すためにくしゃみや鼻水などのアレルギー症状が現れます。そのくしゃみや鼻水によって花粉を追い出そうとするのです。（51）、花粉に対して体が過剰に反応して症状が出るのが花粉症というわけです。\n花粉が多く飛ぶ季節を快適に過ごすために、花粉症の人は規則正しい生活をして、体調管理に努め、とにかく花粉に接しないようにしなければなりません。外出時には、マスクやメガネで花粉が体に入るのを防ぎ、帰宅時には服に付いた花粉を落としてから、家に（52）。\n実は、今花粉症ではない人も、今後症状が現れる可能性があります。花粉症にならないようにするためには、花粉症の人と同じようになるべく花粉に接しないことが重要です。生活空間に花粉を持ち込まないようにしてください。いつ誰が花粉症になっても不思議ではありません。誰も自分には関係がないとは言えないもの、それが（53）です。\n花粉症の人もそうではない人も、春は過ごし方に少し（54）。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["そういう", "それの", "この季節に", "この夏に"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Mùa xuân đến, trời trở nên dễ chịu. Thế nhưng gần đây, số người khổ sở vì dị ứng phấn hoa vào mùa này đang tăng lên.",
+        "why": "Câu trước nói về mùa xuân (過ごしやすい季節), câu sau khẳng định 春は花粉症の季節でもある → ô 50 phải chỉ lại ‘mùa xuân’ vừa nhắc: この季節に花粉症に悩まされる.",
+        "options": [
+          "そういう: ‘loại như thế’ — trước đó chưa nói gì về 花粉症 để chỉ lại. Sai.",
+          "それの: ‘của cái đó’ — không có danh từ nào để quy chiếu, ngữ pháp gượng. Sai.",
+          "この季節に: vào mùa này (mùa xuân). ĐÚNG.",
+          "この夏に: bài nói về mùa xuân, không phải mùa hè. Sai."
+        ],
+        "vocab": [
+          { "w": "花粉症", "r": "かふんしょう", "hv": "HOA PHẤN CHỨNG", "vi": "dị ứng phấn hoa" },
+          { "w": "悩まされる", "r": "なやまされる", "hv": "NÃO", "vi": "bị làm cho khổ sở" },
+          { "w": "訪れる", "r": "おとずれる", "hv": "PHỎNG", "vi": "đến, ghé thăm" }
+        ],
+        "grammar": null,
+        "evidence": "春が訪れ、過ごしやすい季節になりました。…春は花粉症の季節でもあるのです。",
+        "tip": "Ô từ chỉ thị: tìm danh từ vừa xuất hiện ngay trước (ở đây là 季節)."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["このように", "いっぽうで", "ちなみに", "それどころか"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Như vậy, việc cơ thể phản ứng thái quá với phấn hoa và xuất hiện triệu chứng chính là dị ứng phấn hoa.",
+        "why": "Sau khi giải thích cơ chế (kháng thể tích tụ → hắt hơi, sổ mũi), câu chứa ô 51 TÓM TẮT lại: ～というわけです. Từ nối tổng kết → このように.",
+        "options": [
+          "このように: như vậy, tóm lại như trên. ĐÚNG.",
+          "いっぽうで: mặt khác (đối lập). Không có ý đối lập. Sai.",
+          "ちなみに: nhân tiện (thêm thông tin phụ). Sai.",
+          "それどころか: không những thế mà còn (ngược kỳ vọng). Sai."
+        ],
+        "vocab": [
+          { "w": "過剰", "r": "かじょう", "hv": "QUÁ THẶNG", "vi": "thái quá, dư thừa" },
+          { "w": "抗体", "r": "こうたい", "hv": "KHÁNG THỂ", "vi": "kháng thể" },
+          { "w": "蓄積", "r": "ちくせき", "hv": "SÚC TÍCH", "vi": "tích tụ" },
+          { "w": "症状", "r": "しょうじょう", "hv": "CHỨNG TRẠNG", "vi": "triệu chứng" }
+        ],
+        "grammar": {
+          "pattern": "このように～というわけだ",
+          "meaning": "như vậy, tóm lại là ~",
+          "form": "このように＋tóm tắt＋というわけだ",
+          "example": "このように、練習を続けたから優勝できたというわけです。"
+        },
+        "evidence": "（51）、花粉に対して体が過剰に反応して症状が出るのが花粉症というわけです。",
+        "tip": "～というわけだ ở cuối câu = dấu hiệu câu tổng kết → chọn このように／つまり."
+      }
+    },
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "（52）に入るもの",
+      "options": ["入ってあげるのでしょう", "入れてあげましょう", "入れるのでしょう", "入りましょう"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Khi về nhà, hãy phủi sạch phấn hoa bám trên quần áo rồi mới vào nhà.",
+        "why": "Đoạn này đưa lời khuyên cho người bị dị ứng (～しなければなりません、～防ぎ…). Người đọc tự ‘vào’ nhà → tự động từ 入る, dạng khuyên nhủ 入りましょう.",
+        "options": [
+          "入ってあげるのでしょう: ‘vào giúp ai đó’ — không có người nhận lợi ích. Sai.",
+          "入れてあげましょう: ‘cho (ai) vào’ — tha động từ, sai chủ thể. Sai.",
+          "入れるのでしょう: tha động từ + phỏng đoán, sai cả nghĩa lẫn chức năng khuyên. Sai.",
+          "入りましょう: hãy vào nhà. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "帰宅", "r": "きたく", "hv": "QUY TRẠCH", "vi": "về nhà" },
+          { "w": "防ぐ", "r": "ふせぐ", "hv": "PHÒNG", "vi": "ngăn ngừa" },
+          { "w": "体調管理", "r": "たいちょうかんり", "hv": "THỂ ĐIỀU QUẢN LÝ", "vi": "giữ gìn sức khỏe" }
+        ],
+        "grammar": {
+          "pattern": "Vましょう",
+          "meaning": "hãy ~ (lời khuyên, kêu gọi người đọc)",
+          "form": "Vます(bỏ ます)＋ましょう",
+          "example": "外出時はマスクをつけましょう。"
+        },
+        "evidence": "帰宅時には服に付いた花粉を落としてから、家に（52）。",
+        "tip": "家に入る (tự động từ) vs 家に入れる (cho ai/vật vào nhà)."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p1",
+      "stem": "（53）に入るもの",
+      "options": ["規則", "有害", "花粉症", "抗体"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Thứ mà không ai có thể nói là không liên quan đến mình, đó chính là dị ứng phấn hoa.",
+        "why": "Đoạn văn nói người hiện chưa bị cũng có thể bị, いつ誰が花粉症になっても不思議ではない → thứ ‘ai cũng có thể dính’ chính là 花粉症.",
+        "options": [
+          "規則: quy tắc. Không liên quan mạch văn. Sai.",
+          "有害: có hại — bài viết nói phấn hoa không có hại. Sai.",
+          "花粉症: dị ứng phấn hoa. ĐÚNG.",
+          "抗体: kháng thể — không phải chủ đề của đoạn này. Sai."
+        ],
+        "vocab": [
+          { "w": "不思議", "r": "ふしぎ", "hv": "BẤT TƯ NGHỊ", "vi": "lạ, kỳ lạ" },
+          { "w": "持ち込む", "r": "もちこむ", "hv": "TRÌ", "vi": "mang vào" },
+          { "w": "生活空間", "r": "せいかつくうかん", "hv": "SINH HOẠT KHÔNG GIAN", "vi": "không gian sống" }
+        ],
+        "grammar": null,
+        "evidence": "いつ誰が花粉症になっても不思議ではありません。誰も自分には関係がないとは言えないもの、それが（53）です。",
+        "tip": "Câu ‘…もの、それが～です’ là cách nhấn mạnh chủ đề → thường là chủ đề chính của bài."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p1",
+      "stem": "（54）に入るもの",
+      "options": ["気をつけてみたらどうでしょうか", "気をつけた方がいいのでしょうか", "きをつけているそうです", "気をつければよかったです"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Dù là người bị dị ứng phấn hoa hay không, vào mùa xuân hãy thử chú ý một chút đến cách sinh hoạt xem sao?",
+        "why": "Câu kết của một bài báo khuyên nhủ → cần dạng ĐỀ NGHỊ hướng tới người đọc: ～てみたらどうでしょうか = thử ~ xem sao?",
+        "options": [
+          "気をつけてみたらどうでしょうか: thử chú ý xem sao? (đề nghị). ĐÚNG.",
+          "気をつけた方がいいのでしょうか: ‘có nên chú ý không nhỉ?’ — câu hỏi do dự, không phải lời khuyên. Sai.",
+          "きをつけているそうです: nghe nói đang chú ý — truyền đạt tin, không hợp. Sai.",
+          "気をつければよかったです: giá mà đã chú ý — hối tiếc quá khứ. Sai."
+        ],
+        "vocab": [
+          { "w": "気をつける", "r": "きをつける", "hv": "KHÍ", "vi": "chú ý, cẩn thận" },
+          { "w": "過ごし方", "r": "すごしかた", "hv": "QUÁ", "vi": "cách sống, cách trải qua" }
+        ],
+        "grammar": {
+          "pattern": "～てみたらどうでしょうか",
+          "meaning": "thử ~ xem sao? (đề nghị nhẹ nhàng)",
+          "form": "Vて＋みたら＋どうでしょうか",
+          "example": "一度、専門家に相談してみたらどうでしょうか。"
+        },
+        "evidence": "花粉症の人もそうではない人も、春は過ごし方に少し（54）。",
+        "tip": "Câu cuối bài báo/cột khuyên thường là lời đề nghị: ～てはどうでしょうか／～てみませんか."
+      }
+    }
+  ]
+}

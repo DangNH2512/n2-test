@@ -1,0 +1,158 @@
+{
+  "exam": "2024-07",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các phương án thành câu đúng và chọn phương án nằm ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "「さわら」という魚は、漢字の「鰆」と書く＿＿＿ ＿★＿ ＿＿＿ ＿＿＿魚の一つです。",
+      "options": ["ように", "わかる", "ことから", "春を代表する"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Cá \"sawara\" (cá thu Nhật), như có thể thấy từ việc nó được viết bằng chữ Hán 「鰆」, là một trong những loài cá tiêu biểu của mùa xuân.",
+        "why": "Thứ tự đúng: 書く［3 ことから］［2 わかる★］［1 ように］［4 春を代表する］魚. Cấu trúc 〜ことからわかるように = như có thể thấy từ việc ~. ★ ở vị trí 2 → わかる.",
+        "options": [
+          "ように → vị trí 3 (わかるように). Không phải ★.",
+          "わかる → vị trí 2, ★. ĐÚNG.",
+          "ことから → vị trí 1, nối sau 書く (書くことから). Không phải ★.",
+          "春を代表する → vị trí 4, bổ nghĩa cho 魚. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "鰆", "r": "さわら", "hv": "XUÂN", "vi": "cá thu Nhật (bộ 魚 + 春)" },
+          { "w": "代表する", "r": "だいひょうする", "hv": "ĐẠI BIỂU", "vi": "tiêu biểu, đại diện" }
+        ],
+        "grammar": {
+          "pattern": "〜ことからわかるように",
+          "meaning": "như có thể thấy được từ việc ~",
+          "form": "普通形 + ことから + わかるように",
+          "example": "行列ができていることからわかるように、この店は人気がある。"
+        },
+        "evidence": null,
+        "tip": "Danh từ cuối (魚) cần một mệnh đề bổ nghĩa ngay trước → 春を代表する ở vị trí 4."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "会議での西山さんのプレゼンは、普段はなかなか＿＿＿ ＿＿＿ ＿★＿ ＿＿＿素晴らしかった。",
+      "options": ["ぐらい", "課長が", "褒める", "褒めることがない"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Bài thuyết trình của Nishiyama trong cuộc họp tuyệt vời đến mức trưởng phòng – người bình thường hiếm khi khen ai – cũng phải khen.",
+        "why": "Thứ tự: なかなか［4 褒めることがない］［2 課長が］［3 褒める★］［1 ぐらい］素晴らしかった. なかなか〜ない đi với 褒めることがない; 〜ぐらい素晴らしい = tuyệt đến mức. ★ = 褒める.",
+        "options": [
+          "ぐらい → vị trí 4 (褒めるぐらい素晴らしかった). Không phải ★.",
+          "課長が → vị trí 2, chủ ngữ của 褒める. Không phải ★.",
+          "褒める → vị trí 3, ★. ĐÚNG.",
+          "褒めることがない → vị trí 1, ghép với なかなか (hiếm khi). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "褒める", "r": "ほめる", "hv": "BAO", "vi": "khen ngợi" },
+          { "w": "普段", "r": "ふだん", "hv": "PHỔ ĐOẠN", "vi": "thường ngày" },
+          { "w": "課長", "r": "かちょう", "hv": "KHÓA TRƯỞNG", "vi": "trưởng phòng" }
+        ],
+        "grammar": {
+          "pattern": "〜ぐらい（くらい）＋Adj",
+          "meaning": "đến mức ~",
+          "form": "V辞書形 + ぐらい + Adj",
+          "example": "泣きたいぐらい嬉しかった。"
+        },
+        "evidence": null,
+        "tip": "なかなか + phủ định = mãi mà không, hiếm khi → ghép ngay với 褒めることがない."
+      }
+    },
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "同じ気温＿＿＿ ＿＿＿ ＿★＿ ＿＿＿は大きく変わる。",
+      "options": ["感じ方", "でも", "温度や風の強さなど", "によって"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Dù cùng một nhiệt độ không khí, cách cảm nhận vẫn thay đổi nhiều tùy theo độ ẩm (nhiệt độ), sức gió, v.v.",
+        "why": "Thứ tự: 同じ気温［2 でも］［3 温度や風の強さなど］［4 によって★］［1 感じ方］は大きく変わる. 〜でも = dù là; N によって = tùy theo N; 感じ方は変わる. ★ = によって.",
+        "options": [
+          "感じ方 → vị trí 4, chủ đề của 〜は大きく変わる. Không phải ★.",
+          "でも → vị trí 1 (同じ気温でも). Không phải ★.",
+          "温度や風の強さなど → vị trí 2. Không phải ★.",
+          "によって → vị trí 3, ★. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "気温", "r": "きおん", "hv": "KHÍ ÔN", "vi": "nhiệt độ không khí" },
+          { "w": "感じ方", "r": "かんじかた", "hv": "CẢM PHƯƠNG", "vi": "cách cảm nhận" },
+          { "w": "湿度", "r": "しつど", "hv": "THẤP ĐỘ", "vi": "độ ẩm" }
+        ],
+        "grammar": {
+          "pattern": "N によって（変わる・異なる）",
+          "meaning": "tùy theo N mà (thay đổi, khác nhau)",
+          "form": "N + によって + 変わる",
+          "example": "人によって考え方が違う。"
+        },
+        "evidence": null,
+        "tip": "Trong đề in 「温度や風の強さなど」 (có lẽ ý là 湿度 – độ ẩm). Thứ tự không đổi."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "「山川大学アニメ研究会」は＿＿＿ ＿＿＿ ＿★＿、＿＿＿できた団体だ。",
+      "options": ["学生が", "集まって", "アニメが", "好きでたまらないという"],
+      "answer": 1,
+      "explanation": {
+        "translation": "\"Hội nghiên cứu Anime Đại học Yamakawa\" là tổ chức được lập nên khi những sinh viên mê anime đến mức không chịu nổi tụ họp lại.",
+        "why": "Thứ tự: は［3 アニメが］［4 好きでたまらないという］［1 学生が★］、［2 集まって］できた団体. 〜てたまらない = vô cùng; 〜という学生 = sinh viên kiểu ~. ★ = 学生が.",
+        "options": [
+          "学生が → vị trí 3, ★. ĐÚNG.",
+          "集まって → vị trí 4 (sau dấu phẩy, 集まってできた). Không phải ★.",
+          "アニメが → vị trí 1 (アニメが好き). Không phải ★.",
+          "好きでたまらないという → vị trí 2, bổ nghĩa cho 学生. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "研究会", "r": "けんきゅうかい", "hv": "NGHIÊN CỨU HỘI", "vi": "hội nghiên cứu, câu lạc bộ" },
+          { "w": "団体", "r": "だんたい", "hv": "ĐOÀN THỂ", "vi": "đoàn thể, tổ chức" }
+        ],
+        "grammar": {
+          "pattern": "〜てたまらない",
+          "meaning": "~ không chịu nổi, cực kỳ ~ (cảm xúc mạnh)",
+          "form": "Adjな + で／Adjい（くて）+ たまらない",
+          "example": "会いたくてたまらない。"
+        },
+        "evidence": null,
+        "tip": "Vị trí ngay trước dấu 「、」 thường là cụm chủ ngữ hoàn chỉnh (学生が)."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "会社の今井先輩は、自分はミスが多いといつも言っているが、＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ように見える。",
+      "options": ["新人で", "何でも完璧にできている", "私からすると", "わからないことばかりの"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đàn anh Imai ở công ty lúc nào cũng nói mình hay mắc lỗi, nhưng từ góc nhìn của tôi – một người mới chưa biết gì – thì anh ấy dường như làm gì cũng hoàn hảo.",
+        "why": "Thứ tự: が、［1 新人で］［4 わからないことばかりの］［3 私からすると★］［2 何でも完璧にできている］ように見える. 〜からすると = theo góc nhìn của ~. ★ = 私からすると.",
+        "options": [
+          "新人で → vị trí 1. Không phải ★.",
+          "何でも完璧にできている → vị trí 4, nối trực tiếp với ように見える. Không phải ★.",
+          "私からすると → vị trí 3, ★. ĐÚNG.",
+          "わからないことばかりの → vị trí 2, bổ nghĩa cho 私. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "新人", "r": "しんじん", "hv": "TÂN NHÂN", "vi": "người mới" },
+          { "w": "完璧", "r": "かんぺき", "hv": "HOÀN BÍCH", "vi": "hoàn hảo" },
+          { "w": "先輩", "r": "せんぱい", "hv": "TIÊN BỐI", "vi": "đàn anh, tiền bối" }
+        ],
+        "grammar": {
+          "pattern": "N からすると",
+          "meaning": "từ góc độ/lập trường của N mà nói",
+          "form": "N + からすると／からすれば",
+          "example": "親からすると、子どもはいつまでも子どもだ。"
+        },
+        "evidence": null,
+        "tip": "〜の + N: わからないことばかりの phải đứng trước danh từ (私)."
+      }
+    }
+  ]
+}

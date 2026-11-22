@@ -1,0 +1,136 @@
+{
+  "exam": "2014-07",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "洗濯物がまだ<u>しめっぽい</u>。",
+      "options": ["汚っぽい", "泡っぽい", "汗っぽい", "湿っぽい"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Quần áo giặt vẫn còn hơi ẩm.",
+        "why": "しめっぽい viết là 湿っぽい (THẤP) = ẩm ẩm, hơi ướt. Chữ 湿 có trong 湿る(しめる: bị ẩm), 湿気(しっけ: hơi ẩm), 湿度(しつど: độ ẩm).",
+        "options": [
+          "汚っぽい → 汚 (Ô) đọc きたない/よごれる: bẩn. Sai.",
+          "泡っぽい → 泡 (BÀO) đọc あわ: bọt. Sai.",
+          "汗っぽい → 汗 (HÃN) đọc あせ: mồ hôi. Sai.",
+          "湿っぽい → しめっぽい: ẩm ẩm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "湿っぽい", "r": "しめっぽい", "hv": "THẤP", "vi": "ẩm ẩm, hơi ướt; (không khí) ủ dột" },
+          { "w": "洗濯物", "r": "せんたくもの", "hv": "TẨY TRẠC VẬT", "vi": "đồ giặt" },
+          { "w": "湿度", "r": "しつど", "hv": "THẤP ĐỘ", "vi": "độ ẩm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cả 4 chữ đều có bộ 氵(nước) → phải nhớ nghĩa riêng: 湿 = ẩm."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "このパソコンにはプリンターが<u>せつぞく</u>されています。",
+      "options": ["設属", "接属", "設族", "接続"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Máy tính này đang được kết nối với máy in.",
+        "why": "せつぞく viết là 接続 (TIẾP TỤC) = kết nối. 接 (tiếp xúc, nối) + 続 (nối tiếp, つづく).",
+        "options": [
+          "設属 → 設 (THIẾT: 設置) + 属 (THUỘC), không có từ này. Sai.",
+          "接属 → 属 là THUỘC (所属 しょぞく), không phải 'nối'. Sai.",
+          "設族 → 族 là TỘC (家族). Sai.",
+          "接続 → せつぞく: kết nối. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "接続", "r": "せつぞく", "hv": "TIẾP TỤC", "vi": "kết nối" },
+          { "w": "接する", "r": "せっする", "hv": "TIẾP", "vi": "tiếp xúc, tiếp giáp" },
+          { "w": "所属", "r": "しょぞく", "hv": "SỞ THUỘC", "vi": "trực thuộc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ぞく có 3 chữ hay nhầm: 続 (nối tiếp), 属 (thuộc về), 族 (gia tộc)."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "私は親に<u>さからって</u>大学に進学した。",
+      "options": ["逆らって", "敵らって", "拒って", "争って"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đã làm trái ý bố mẹ để học lên đại học.",
+        "why": "さからう viết là 逆らう (NGHỊCH) = làm trái, chống lại. ～に逆らう: chống lại ai/cái gì (親に逆らう, 流れに逆らう).",
+        "options": [
+          "逆らって → さからって: làm trái, chống lại. ĐÚNG.",
+          "敵らって → 敵 (ĐỊCH) đọc てき/かたき, không có động từ này. Sai.",
+          "拒って → 拒 (CỰ) đọc là 拒む(こばむ: từ chối). Sai.",
+          "争って → 争う(あらそう): tranh giành, cạnh tranh. Sai."
+        ],
+        "vocab": [
+          { "w": "逆らう", "r": "さからう", "hv": "NGHỊCH", "vi": "làm trái, chống lại" },
+          { "w": "進学", "r": "しんがく", "hv": "TIẾN HỌC", "vi": "học lên (cấp cao hơn)" },
+          { "w": "拒む", "r": "こばむ", "hv": "CỰ", "vi": "từ chối, cự tuyệt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "逆 còn đọc ぎゃく: 逆(ぎゃく)に = ngược lại."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "田中社長の強引なやり方を<u>ひはん</u>する人もいる。",
+      "options": ["非判", "批判", "批反", "非反"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Cũng có người phê phán cách làm cưỡng ép của giám đốc Tanaka.",
+        "why": "ひはん viết là 批判 (PHÊ PHÁN) = phê phán, chỉ trích. 批 (phê bình) + 判 (phán đoán).",
+        "options": [
+          "非判 → 非 (PHI: không phải) sai chữ. Sai.",
+          "批判 → ひはん: phê phán. ĐÚNG.",
+          "批反 → 反 (PHẢN) sai chữ. Sai.",
+          "非反 → sai cả hai chữ. Sai."
+        ],
+        "vocab": [
+          { "w": "批判", "r": "ひはん", "hv": "PHÊ PHÁN", "vi": "phê phán, chỉ trích" },
+          { "w": "強引", "r": "ごういん", "hv": "CƯỜNG DẪN", "vi": "cưỡng ép, ép buộc" },
+          { "w": "批評", "r": "ひひょう", "hv": "PHÊ BÌNH", "vi": "phê bình, bình luận" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "非難(ひなん: chỉ trích) dùng 非, còn 批判/批評 dùng 批 — đừng lẫn."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "A社の製品のほうが機能の面では<u>おとって</u>いると思う。",
+      "options": ["悪って", "負って", "劣って", "乏って"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi nghĩ sản phẩm của công ty A kém hơn về mặt tính năng.",
+        "why": "おとる viết là 劣る (LIỆT) = kém hơn, thua kém. ～より劣る / ～が劣っている. Trái nghĩa: 優れる(すぐれる: vượt trội).",
+        "options": [
+          "悪って → 悪 đọc わるい/あく, không có động từ おとる. Sai.",
+          "負って → 負う(おう): gánh vác / 負ける(まける): thua. Sai.",
+          "劣って → おとって: kém hơn. ĐÚNG.",
+          "乏って → 乏 đọc là 乏しい(とぼしい: thiếu thốn). Sai."
+        ],
+        "vocab": [
+          { "w": "劣る", "r": "おとる", "hv": "LIỆT", "vi": "kém hơn, thua kém" },
+          { "w": "製品", "r": "せいひん", "hv": "CHẾ PHẨM", "vi": "sản phẩm" },
+          { "w": "機能", "r": "きのう", "hv": "CƠ NĂNG", "vi": "chức năng, tính năng" },
+          { "w": "優れる", "r": "すぐれる", "hv": "ƯU", "vi": "vượt trội, ưu tú" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "劣 = 少 (ít) + 力 (sức) → sức ít → kém. 劣等感(れっとうかん: mặc cảm tự ti)."
+      }
+    }
+  ]
+}

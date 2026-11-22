@@ -1,0 +1,206 @@
+{
+  "exam": "2025-07",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の(1)から(5)の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "　人間は「私」として生きるのですが、よく言われるように「私」とは、「あなた」がいて初めてその像を結びます（注）。これは、「他人の評価によって自分が決まる」ということではなく、「他人と自分の違いを通して初めて、自分というものがどういうものかがわかる」ということです。他人との好みの違いや意見の対立。そういうものを通して初めて自分とは何が好きで何が嫌いで何を支えにしているのかがわかるということです。それは、他者との付き合いなしに生まれることはありません。\n（注）像を結ぶ：ここでは、姿がわかる"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "水石食品　商品開発部\n田中由夏様\n　昨日は「水石りんごジャム」のサンプルをお届けいただき、ありがとうございました。本日試食をし、予定どおり来月から朝食で提供することにいたしました。\n　また、お客様から名産のりんごを使ったお土産がないかたびたびご質問を受けますので、このジャムを売店でも販売したいと考えております。同じ時期に販売を開始したいと思っておりますが、ご対応いただけるでしょうか。\n　ご検討いただきたく、どうぞよろしくお願いいたします。\n水石温泉ホテル営業部\n島本陸太"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "　ラジオというのはながら聴きができるところが好きだった。何か他のことをしながら聴く。いい音楽や話があると、それが突然まるでボリュームが上がったように大きく聴こえ、そこから頭の中に空想の世界が浮かびだす。ラジオは余白のあるメディア（注1）だ。音しかそこには存在しないわけで、そこから先は聞き手である自分たちの手に委ねられる（注2）。まるで本で読む小説のように。与えられる情報が少ないほど、ある意味、自由度が高い。\n（注1）メディア：情報を伝えるもの\n（注2）委ねる：任せる"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "以下は、あるガス会社からのお知らせである。\n\n6月10日\n坂元ガスをご利用のお客様へ\n坂元ガス株式会社\n使用量および料金の通知について\n　いつも坂元ガスをご利用いただき、ありがとうございます。\n　これまで月々のガスの使用量と料金は、紙の通知書でお伝えしていましたが、資源節約のため8月末で廃止いたします。\n　9月以降、使用量と料金の確認は、ウェブ会員サービス「サカモト・ガスネット」をご利用ください。引き続き通知書でのご希望のお客様には郵送でお届けいたしますが、手数料180円/月をご負担いただきます。なお、「サカモト・ガスネット」のご利用方法、および通知書を希望される場合のお申込み方法は、7月中にお知らせいたします。\n　ご理解、ご協力をお願い申し上げます。\nこの件に関するお問い合わせ先\nウェブサイト：https://www.paperless.sakamoto_gas.co\n電話：063-554-3169（受付時間　月-土　9:00〜18:00）"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "　仕事というものは、自分の専門分野のことだけ考えればよいのではなく、専門を超えてどんな影響を与えあうか考え調整しながらやるべきものである。自部門に余裕があれば、忙しい他部門を手伝ってあげるべきだが、誰もそういう具合には考えない。そして、いつのまにか自分の城を築き、守りに入る。これでは「会社」ではない。会社は、そこで働く普通の人たちの力が、みんなで働くことによって何倍にも大きくなり、個人では成し（注）えないような偉大なことを行う場所である。\n（注）成す：ここでは、達成する"
+    }
+  ],
+  "questions": [
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "自分がどういう人間かは、他者とのかかわりがなければわからない。",
+        "相手がどういう人間かは、自分との好みの違いを知ればわかる。",
+        "他者からの評価がなければ、自分がどういう人間かわからない。",
+        "他者との付き合いを通して、自分への評価がわかる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Mình là người như thế nào thì nếu không có quan hệ với người khác sẽ không biết được.",
+        "why": "Tác giả nói chỉ thông qua sự khác biệt với người khác mới hiểu được bản thân, và điều đó không thể sinh ra nếu không giao tiếp với người khác → đáp án 1.",
+        "options": [
+          "Không có quan hệ với người khác thì không biết mình là ai. ĐÚNG (khớp câu cuối).",
+          "Bài nói về hiểu 'bản thân', không phải hiểu 'đối phương'. Sai.",
+          "Tác giả phủ định rõ: không phải 'người khác đánh giá quyết định mình'. Sai.",
+          "Biết 'sự đánh giá về mình' – tác giả không nói về đánh giá. Sai."
+        ],
+        "vocab": [
+          { "w": "評価", "r": "ひょうか", "hv": "BÌNH GIÁ", "vi": "đánh giá" },
+          { "w": "対立", "r": "たいりつ", "hv": "ĐỐI LẬP", "vi": "đối lập, bất đồng" },
+          { "w": "他者", "r": "たしゃ", "hv": "THA GIẢ", "vi": "người khác" },
+          { "w": "支え", "r": "ささえ", "hv": "CHI", "vi": "chỗ dựa" }
+        ],
+        "grammar": {
+          "pattern": "～て初めて",
+          "meaning": "phải ~ thì mới (lần đầu nhận ra)",
+          "form": "Vて ＋ 初めて",
+          "example": "病気になって初めて健康のありがたさがわかった。"
+        },
+        "evidence": "「他人と自分の違いを通して初めて、自分というものがどういうものかがわかる」ということです。…それは、他者との付き合いなしに生まれることはありません。",
+        "tip": "Bẫy: đáp án 3 dùng từ 評価 – tác giả đã phủ định ý này bằng 「～ということではなく」."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p2",
+      "stem": "このメールで問い合わせていることは何か。",
+      "options": [
+        "来月から「水石りんごジャム」をホテルの朝食で提供できるか。",
+        "来月から販売予定の「水石りんごジャム」は、名産のりんごを使っているか。",
+        "来月までに名産のりんごを使った新しい土産品が作れるか。",
+        "売店で販売するための「水石りんごジャム」を、来月から納品できるか。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Điều email này hỏi là gì? → Liệu có thể giao mứt táo Mizuishi để bán ở quầy lưu niệm từ tháng sau không.",
+        "why": "Khách sạn đã quyết định dùng mứt cho bữa sáng từ tháng sau, và muốn bán thêm ở 売店 'cùng thời điểm' (= từ tháng sau), hỏi 'ご対応いただけるでしょうか' (có đáp ứng được không) → hỏi về việc cung cấp hàng để bán.",
+        "options": [
+          "Việc dùng cho bữa sáng đã được quyết định (提供することにいたしました), không phải câu hỏi. Sai.",
+          "Không hỏi mứt có dùng táo đặc sản không. Sai.",
+          "Không yêu cầu làm sản phẩm lưu niệm mới; họ muốn bán chính loại mứt này. Sai.",
+          "Hỏi có thể giao mứt để bán ở quầy từ tháng sau không. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "試食", "r": "ししょく", "hv": "THÍ THỰC", "vi": "ăn thử" },
+          { "w": "名産", "r": "めいさん", "hv": "DANH SẢN", "vi": "đặc sản nổi tiếng" },
+          { "w": "売店", "r": "ばいてん", "hv": "MẠI ĐIẾM", "vi": "quầy bán hàng" },
+          { "w": "納品", "r": "のうひん", "hv": "NẠP PHẨM", "vi": "giao hàng" }
+        ],
+        "grammar": null,
+        "evidence": "このジャムを売店でも販売したいと考えております。同じ時期に販売を開始したいと思っておりますが、ご対応いただけるでしょうか。",
+        "tip": "Trong email thương mại, câu hỏi thực sự thường nằm ở 「～いただけるでしょうか」. Đề in 「完店」 ở đáp án 4 – lỗi đánh máy của 「売店」."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p3",
+      "stem": "ラジオについて、筆者はどのように考えているか。",
+      "options": [
+        "他のことをしながら聴け、時間が有効に使える。",
+        "いい音楽や話が聴け、自由が感じられる。",
+        "音以外の情報がなく、自由に空想が広がりやすい。",
+        "目からの情報がなく、小説より自由に空想ができる。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tác giả nghĩ gì về radio? → Vì không có thông tin nào ngoài âm thanh nên trí tưởng tượng dễ bay bổng tự do.",
+        "why": "Radio chỉ có âm thanh, phần còn lại giao cho người nghe; thông tin càng ít thì độ tự do càng cao → tưởng tượng tự do. Đáp án 3 khớp.",
+        "options": [
+          "Tác giả không nói về việc sử dụng thời gian hiệu quả. Sai.",
+          "Tự do đến từ 'thông tin ít', không phải từ 'nghe nhạc hay'. Sai.",
+          "Chỉ có âm thanh → dễ tưởng tượng tự do. ĐÚNG.",
+          "Tác giả so sánh radio 'giống như' tiểu thuyết, không nói 'tự do hơn' tiểu thuyết. Sai."
+        ],
+        "vocab": [
+          { "w": "ながら聴き", "r": "ながらぎき", "hv": "", "vi": "vừa nghe vừa làm việc khác" },
+          { "w": "空想", "r": "くうそう", "hv": "KHÔNG TƯỞNG", "vi": "tưởng tượng, mộng tưởng" },
+          { "w": "余白", "r": "よはく", "hv": "DƯ BẠCH", "vi": "khoảng trống" },
+          { "w": "委ねる", "r": "ゆだねる", "hv": "ỦY", "vi": "giao phó" }
+        ],
+        "grammar": {
+          "pattern": "～ほど",
+          "meaning": "càng ~ càng",
+          "form": "普通形 ＋ ほど",
+          "example": "練習するほど上手になる。"
+        },
+        "evidence": "音しかそこには存在しないわけで、そこから先は聞き手である自分たちの手に委ねられる。…与えられる情報が少ないほど、ある意味、自由度が高い。",
+        "tip": "Bẫy so sánh: 「まるで本で読む小説のように」 là so sánh ngang bằng, không phải hơn kém."
+      }
+    },
+    {
+      "num": 55,
+      "passage": "p4",
+      "stem": "ガスの使用量と料金の通知について、このお知らせで伝えたかったことは何か。",
+      "options": [
+        "7月中にウェブ会員サービスの申し込みを始めるので、登録してほしい。",
+        "8月末で使用量と料金の通知を終了するので、知りたい場合は連絡してほしい。",
+        "9月から新しい形式の通知書を郵送するので、手数料を負担してほしい。",
+        "9月から紙の通知書を有料にするので、無料で確認したい場合はウェブで確認してほしい。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Thông báo này muốn truyền đạt điều gì? → Từ tháng 9 thông báo giấy sẽ tính phí, nếu muốn xem miễn phí thì hãy xem trên web.",
+        "why": "Thông báo giấy (miễn phí) bị bãi bỏ cuối tháng 8; từ tháng 9 xem trên web 'サカモト・ガスネット'; ai vẫn muốn nhận giấy thì phải trả 180 yên/tháng → giấy có phí, web miễn phí.",
+        "options": [
+          "Tháng 7 chỉ là thời điểm 'thông báo cách sử dụng', không nói bắt đầu đăng ký. Sai.",
+          "Chỉ bỏ thông báo bằng giấy, việc thông báo vẫn có trên web. Sai.",
+          "Không phải 'mẫu thông báo mới'; vẫn là thông báo giấy nhưng mất phí. Sai.",
+          "Giấy có phí từ tháng 9, muốn miễn phí thì xem trên web. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "通知書", "r": "つうちしょ", "hv": "THÔNG TRI THƯ", "vi": "giấy thông báo" },
+          { "w": "廃止", "r": "はいし", "hv": "PHẾ CHỈ", "vi": "bãi bỏ" },
+          { "w": "手数料", "r": "てすうりょう", "hv": "THỦ SỐ LIỆU", "vi": "phí thủ tục" },
+          { "w": "資源節約", "r": "しげんせつやく", "hv": "TƯ NGUYÊN TIẾT ƯỚC", "vi": "tiết kiệm tài nguyên" }
+        ],
+        "grammar": null,
+        "evidence": "9月以降、使用量と料金の確認は、ウェブ会員サービス「サカモト・ガスネット」をご利用ください。引き続き通知書でのご希望のお客様には郵送でお届けいたしますが、手数料180円/月をご負担いただきます。",
+        "tip": null
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p5",
+      "stem": "会社について、筆者はどのように述べているか。",
+      "options": [
+        "各部門の仕事量に差があると、会社は発展していかない。",
+        "部門を分けないほうが、会社は大きな成果を上げられる。",
+        "部門内で助け合って仕事をしていれば、社内の雰囲気もよくなる。",
+        "部門同士が互いのことを考えて仕事をしなければ、会社とはいえない。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả nói gì về công ty? → Nếu các bộ phận không làm việc có tính đến nhau thì không thể gọi là công ty.",
+        "why": "Tác giả cho rằng công việc phải vượt khỏi chuyên môn, điều chỉnh ảnh hưởng lẫn nhau; mỗi bộ phận xây 'thành' của mình rồi phòng thủ thì 'これでは「会社」ではない' → đáp án 4.",
+        "options": [
+          "Tác giả không nói chênh lệch khối lượng việc khiến công ty không phát triển. Sai.",
+          "Tác giả không đề xuất bỏ phân chia bộ phận. Sai.",
+          "Bài nói về giúp đỡ giữa các bộ phận (他部門), không phải trong nội bộ bộ phận; cũng không nói về bầu không khí. Sai.",
+          "Các bộ phận không quan tâm đến nhau thì không phải là công ty. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "部門", "r": "ぶもん", "hv": "BỘ MÔN", "vi": "bộ phận, phòng ban" },
+          { "w": "調整", "r": "ちょうせい", "hv": "ĐIỀU CHỈNH", "vi": "điều chỉnh, phối hợp" },
+          { "w": "余裕", "r": "よゆう", "hv": "DƯ DỤ", "vi": "dư dả, thong thả" },
+          { "w": "偉大", "r": "いだい", "hv": "VĨ ĐẠI", "vi": "vĩ đại" }
+        ],
+        "grammar": {
+          "pattern": "Vます＋えない",
+          "meaning": "không thể V (văn viết)",
+          "form": "Vます(bỏ ます) ＋ えない／得ない",
+          "example": "そんなことはあり得ない。"
+        },
+        "evidence": "自部門に余裕があれば、忙しい他部門を手伝ってあげるべきだが、誰もそういう具合には考えない。そして、いつのまにか自分の城を築き、守りに入る。これでは「会社」ではない。",
+        "tip": "「自分の城を築く」 = khép kín trong phạm vi của mình."
+      }
+    }
+  ]
+}

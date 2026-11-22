@@ -1,0 +1,218 @@
+{
+  "exam": "2024-12",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（1）から（5）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi (đoạn văn ngắn).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "以下は、将棋のプロが書いた文章である。\n\n物事を推し進めて（注１）いくうえで、その土台となるのは創造力でも企画力でもない。いくら創造力や企画力を働かせようとしても、道具となる知識や材料となる情報がなければ何も始まらないのだ。知識は、頭の中に貯えられた記憶や体験が土台になるのである。つまり、創造力やアイデアの源（注２）は、頭の中の記憶の組み合わせから生まれるもので、その土台がしっかりしていなければ、良いアイデアが閃くわけがないのだ。\n\n（注１）推し進める：進める\n（注２）源：もと"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、ある不動産管理会社に届いたメールである。\n\nらくらくルーム社　青寺店\n森田様\n\n花西マンション302号室に入居予定の木村です。\n引っ越し当日の3月20日の金曜日、午前中に貴店で新居の鍵を受け取る約束でしたが、荷物が10時に到着することになりました。そのため、前日19日の午後に鍵を受け取りたいと思いホームページを確認したところ、貴店は木曜日が定休日でした。\n鍵の受け取り日が定休日の場合は、ほかの支店で受け取れると書いてありましたので、仕事の帰りに中央駅前店に寄りたいと思いますが、鍵を受け取ることは可能でしょうか。\nお返事をお待ちしております。\n\n木村ゆり"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "以下は、美術作品の見方について書かれた文章である。\n\nもし、何かの作品を見て、最初は「どうかな？」と感じたとしても、ふと「もしかしたら面白いかも」と思うことを私は「肯定のカケラ（注１）」と呼んでいます。「肯定のカケラ」を感じた時、その自分の変化を「見方がブレた（注２）のでは？」と思ってしまう場合がありますが、気の迷い（注３）としてすませてしまっては、とてももったいないことです。それまで自分が認められなかったことを認めるのは、自分の可能性が広がることです。決してブレではありません。自分の変化に柔軟であることが大事です。\n\n（注１）カケラ：ここでは、小さな部分\n（注２）ブレる：ここでは、不安定になる\n（注３）気の迷い：ここでは、間違った判断"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "以下は、ある会社の社内文書である。\n\n10月15日\n担当者各位\n商品管理部長\n\n納品時の確認について\n\n先週千川営業所で、注文とは違う商品を納品するというミスが発生しました。\n原因を調査したところ、当日、納品が重なったため、商品配送時の最終確認をしていなかったとのことです。\n最終確認では、倉庫から商品を取り出した人とは別の人が、注文書と商品の内容・個数に間違いがないか確認することになっています。\nどんな状況でもミスが起こらないように確認を徹底してください。\nよろしくお願いします。\n\n以上"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "親子はもっとも身近でありながら、ときにもっとも遠くなってしまう存在かもしれない。私も母とは「わかり合えない」と悟った（注１）ときに、ある一定の距離ができたことは否めない（注２）。だが、そのことで愛情がなくなるとか、関係が冷えるとかそういう感覚は一切（注３）なかった。むしろ「わかり合えない」とわかることは相手を理解しようとするための最初の一歩なのではないかと思う。もし「子どものことはなんでも自分が一番よくわかっている」と思っている親がいるとしたら、それはとても怖いことだと思う。\n\n（注１）悟る：気づく\n（注２）否めない：否定できない\n（注３）一切：全く"
+    }
+  ],
+  "questions": [
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "記憶力を高めることによって、物事がうまく進められる。",
+        "記憶されている知識や情報がもとになって、良いアイデアが生まれる。",
+        "知識や情報をたくさん集めれば、創造力や企画力が発揮できる。",
+        "どんなことでも記憶しておけば、創造力やアイデアの土台になる。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Ý tưởng hay được sinh ra dựa trên kiến thức và thông tin đã được ghi nhớ.",
+        "why": "Tác giả nói nguồn gốc của sáng tạo và ý tưởng là sự kết hợp các ký ức trong đầu; nếu nền tảng đó (kiến thức, thông tin được ghi nhớ) không vững thì không thể nảy ra ý tưởng hay → đáp án 2.",
+        "options": [
+          "Bài không nói \"nâng cao trí nhớ\" (記憶力) mà nói về nội dung ký ức, kiến thức tích lũy. Sai.",
+          "Khớp: ý tưởng sinh ra từ sự kết hợp ký ức (kiến thức, thông tin) trong đầu. ĐÚNG.",
+          "Bài không nói chỉ cần \"thu thập nhiều\" là phát huy được sáng tạo; điểm chính là ký ức trong đầu làm nền tảng. Sai.",
+          "\"Ghi nhớ bất cứ thứ gì\" — bài không khẳng định như vậy, quá tuyệt đối. Sai."
+        ],
+        "vocab": [
+          { "w": "創造力", "r": "そうぞうりょく", "hv": "SÁNG TẠO LỰC", "vi": "khả năng sáng tạo" },
+          { "w": "企画力", "r": "きかくりょく", "hv": "XÍ HOẠCH LỰC", "vi": "năng lực lên kế hoạch" },
+          { "w": "土台", "r": "どだい", "hv": "THỔ ĐÀI", "vi": "nền tảng" },
+          { "w": "閃く", "r": "ひらめく", "hv": "THIỂM", "vi": "lóe lên (ý tưởng)" },
+          { "w": "源", "r": "みなもと", "hv": "NGUYÊN", "vi": "nguồn gốc" }
+        ],
+        "grammar": {
+          "pattern": "〜わけがない",
+          "meaning": "không đời nào ~, không thể nào ~",
+          "form": "普通形 ＋ わけがない",
+          "example": "練習しないで上手になるわけがない。"
+        },
+        "evidence": "創造力やアイデアの源は、頭の中の記憶の組み合わせから生まれるもので、その土台がしっかりしていなければ、良いアイデアが閃くわけがないのだ。",
+        "tip": "Câu bắt đầu bằng つまり thường là kết luận của tác giả → đáp án nằm ở đó."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p2",
+      "stem": "新居の鍵について、木村さんが問い合わせていることは何か。",
+      "options": [
+        "3月19日の午後に青寺店で受け取れるか。",
+        "3月19日の午後に中央駅前店で受け取れるか。",
+        "3月20日の午前中に青寺店で受け取れるか。",
+        "3月20日の午前中に中央駅前店で受け取れるか。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Về chìa khóa nhà mới, chị Kimura đang hỏi điều gì? → Có thể nhận chìa khóa vào chiều ngày 19/3 tại chi nhánh trước ga Chuo không.",
+        "why": "Chị muốn nhận khóa chiều ngày 19 (hôm trước ngày chuyển), nhưng chi nhánh Aodera nghỉ thứ Năm (19/3). Vì có thể nhận ở chi nhánh khác nên chị hỏi có thể ghé chi nhánh trước ga Chuo trên đường đi làm về không → 19/3 chiều, 中央駅前店.",
+        "options": [
+          "青寺店 nghỉ vào thứ Năm 19/3 nên không thể nhận ở đó. Sai.",
+          "19/3 chiều, tại 中央駅前店. ĐÚNG.",
+          "Đó là kế hoạch ban đầu, nay không được vì hành lý đến lúc 10 giờ. Sai.",
+          "Chị không hỏi về sáng ngày 20. Sai."
+        ],
+        "vocab": [
+          { "w": "新居", "r": "しんきょ", "hv": "TÂN CƯ", "vi": "nhà mới" },
+          { "w": "入居", "r": "にゅうきょ", "hv": "NHẬP CƯ", "vi": "dọn vào ở" },
+          { "w": "定休日", "r": "ていきゅうび", "hv": "ĐỊNH HƯU NHẬT", "vi": "ngày nghỉ cố định" },
+          { "w": "支店", "r": "してん", "hv": "CHI ĐIẾM", "vi": "chi nhánh" },
+          { "w": "寄る", "r": "よる", "hv": "KÝ", "vi": "ghé qua" }
+        ],
+        "grammar": {
+          "pattern": "〜たところ",
+          "meaning": "sau khi làm ~ thì (phát hiện ra)",
+          "form": "Vた ＋ ところ",
+          "example": "問い合わせたところ、すぐに返事が来た。"
+        },
+        "evidence": "前日19日の午後に鍵を受け取りたいと思いホームページを確認したところ、貴店は木曜日が定休日でした。…仕事の帰りに中央駅前店に寄りたいと思いますが、鍵を受け取ることは可能でしょうか。",
+        "tip": "Email hỏi han: câu hỏi chính thường là câu cuối có 〜でしょうか. Ghép với thời gian ở đoạn trước."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p3",
+      "stem": "美術作品の見方について、筆者はどのように考えているか。",
+      "options": [
+        "自分の見方の変化を受け入れることが大事だ。",
+        "自分の可能性を広げるために、いろいろな見方をすべきだ。",
+        "よい作品を通して自分の見方を変えていくべきだ。",
+        "ほかの人が認めなくても、自分の見方を大事にすべきだ。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về cách thưởng thức tác phẩm mỹ thuật, tác giả nghĩ thế nào? → Điều quan trọng là chấp nhận sự thay đổi trong cách nhìn của bản thân.",
+        "why": "Khi bỗng thấy \"có khi cũng hay\" (肯定のカケラ), đừng coi đó là sai lầm nhất thời; tác giả kết luận: điều quan trọng là linh hoạt với sự thay đổi của chính mình → chấp nhận thay đổi cách nhìn.",
+        "options": [
+          "Khớp với câu kết 自分の変化に柔軟であることが大事です. ĐÚNG.",
+          "Mở rộng khả năng là kết quả của việc chấp nhận thay đổi, không phải lời khuyên \"cố tình nhìn nhiều kiểu\". Sai.",
+          "Bài không nói phải thông qua \"tác phẩm tốt\"; ngược lại, nói về tác phẩm ban đầu thấy \"không biết sao\". Sai.",
+          "Bài không bàn chuyện người khác công nhận hay không. Sai."
+        ],
+        "vocab": [
+          { "w": "肯定", "r": "こうてい", "hv": "KHẲNG ĐỊNH", "vi": "khẳng định, tán thành" },
+          { "w": "柔軟", "r": "じゅうなん", "hv": "NHU NHUYỄN", "vi": "linh hoạt, mềm dẻo" },
+          { "w": "可能性", "r": "かのうせい", "hv": "KHẢ NĂNG TÍNH", "vi": "khả năng" },
+          { "w": "もったいない", "r": "もったいない", "hv": "", "vi": "lãng phí, đáng tiếc" }
+        ],
+        "grammar": {
+          "pattern": "〜てしまっては",
+          "meaning": "nếu lỡ ~ thì (sẽ dẫn đến kết quả xấu)",
+          "form": "Vて ＋ しまっては",
+          "example": "ここであきらめてしまっては、今までの努力が無駄になる。"
+        },
+        "evidence": "それまで自分が認められなかったことを認めるのは、自分の可能性が広がることです。決してブレではありません。自分の変化に柔軟であることが大事です。",
+        "tip": "Câu có 〜が大事です／〜べきだ ở cuối đoạn thường là chủ ý của tác giả."
+      }
+    },
+    {
+      "num": 55,
+      "passage": "p4",
+      "stem": "社員が求められていることは何か。",
+      "options": [
+        "ミスが起きた原因を調べ直すこと。",
+        "最終確認をする人数を増やすこと。",
+        "今までの最終確認の方法を見直すこと。",
+        "決められている最終確認の方法を守ること。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nhân viên được yêu cầu làm gì? → Tuân thủ phương pháp kiểm tra lần cuối đã được quy định.",
+        "why": "Lỗi xảy ra vì hôm đó không thực hiện bước kiểm tra cuối. Văn bản nhắc lại quy trình đã quy định (người khác với người lấy hàng kiểm tra) và yêu cầu 確認を徹底してください → tuân thủ triệt để quy trình sẵn có.",
+        "options": [
+          "Nguyên nhân đã được điều tra xong rồi (原因を調査したところ…). Sai.",
+          "Không yêu cầu tăng số người kiểm tra. Sai.",
+          "Không yêu cầu xem xét lại phương pháp; phương pháp vẫn giữ nguyên, chỉ là đã không làm. Sai.",
+          "Thực hiện đúng quy trình kiểm tra cuối đã định. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "納品", "r": "のうひん", "hv": "NẠP PHẨM", "vi": "giao hàng" },
+          { "w": "徹底", "r": "てってい", "hv": "TRIỆT ĐỂ", "vi": "triệt để, làm đến nơi đến chốn" },
+          { "w": "倉庫", "r": "そうこ", "hv": "THƯƠNG KHỐ", "vi": "nhà kho" },
+          { "w": "個数", "r": "こすう", "hv": "CÁ SỐ", "vi": "số lượng (cái)" }
+        ],
+        "grammar": {
+          "pattern": "〜ことになっている",
+          "meaning": "theo quy định là ~",
+          "form": "V辞書形 ＋ ことになっている",
+          "example": "この会社では、毎朝ミーティングをすることになっている。"
+        },
+        "evidence": "最終確認では、倉庫から商品を取り出した人とは別の人が、注文書と商品の内容・個数に間違いがないか確認することになっています。どんな状況でもミスが起こらないように確認を徹底してください。",
+        "tip": "〜ことになっています = quy tắc đã có sẵn → đáp án \"tuân thủ\" chứ không phải \"thay đổi\"."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p5",
+      "stem": "親子について、筆者はどのように考えているか。",
+      "options": [
+        "わかり合えないと思うところから、お互いの理解が始まる。",
+        "わかり合えないということに、お互いが気づくのは難しい。",
+        "わかり合うためには、一定の距離を保つことが大切だ。",
+        "身近な存在だからこそ、いつかはわかり合えるものだ。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về quan hệ cha mẹ – con cái, tác giả nghĩ thế nào? → Sự thấu hiểu lẫn nhau bắt đầu từ chỗ nghĩ rằng \"không thể hiểu nhau\".",
+        "why": "Tác giả viết: biết rằng \"không thể hiểu nhau\" chính là bước đầu tiên để cố gắng hiểu đối phương → đáp án 1.",
+        "options": [
+          "Khớp với 「わかり合えない」とわかることは相手を理解しようとするための最初の一歩. ĐÚNG.",
+          "Bài không nói việc nhận ra điều đó là khó. Sai.",
+          "Khoảng cách chỉ là kết quả tự nhiên (一定の距離ができた), không phải điều cần giữ để hiểu nhau. Sai.",
+          "Tác giả không nói \"vì gần gũi nên rồi sẽ hiểu nhau\"; ngược lại, nghĩ mình hiểu hết con là đáng sợ. Sai."
+        ],
+        "vocab": [
+          { "w": "身近", "r": "みぢか", "hv": "THÂN CẬN", "vi": "gần gũi" },
+          { "w": "悟る", "r": "さとる", "hv": "NGỘ", "vi": "nhận ra, giác ngộ" },
+          { "w": "否めない", "r": "いなめない", "hv": "PHỦ", "vi": "không thể phủ nhận" },
+          { "w": "一切", "r": "いっさい", "hv": "NHẤT THIẾT", "vi": "hoàn toàn (không)" }
+        ],
+        "grammar": {
+          "pattern": "むしろ",
+          "meaning": "ngược lại, đúng hơn là",
+          "form": "むしろ ＋ 文",
+          "example": "失敗は悪いことではない。むしろ成長のチャンスだ。"
+        },
+        "evidence": "むしろ「わかり合えない」とわかることは相手を理解しようとするための最初の一歩なのではないかと思う。",
+        "tip": "むしろ báo hiệu ý kiến chính của tác giả (đảo ngược suy nghĩ thông thường)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "exam": "2024-07",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、48から51の中に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án đúng nhất cho các ô 48–51.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "紅葉の異変",
+      "text": "以下は、留学生がスピーチのために書いた文章である。\n\n紅葉の異変\nサリム・ソフィア\n\n私は日本の秋の景色が好きです。秋になって紅葉が始まり、緑だった葉が黄色やオレンジ、赤に変わると、とてもきれいです。秋の紅葉は、日本の四季の変化を感じさせてくれるものです。\n（48）ですが、先日テレビで、紅葉がピークを迎える時期が年々遅くなっているというニュースを見ました。中には、1月になってからピークを迎えたところもあるそうで、驚きました。温暖化によって平均気温が上昇していることが大きな原因だそうです。私は、夏が過ぎて気温が下がってくれば、必ず紅葉が始まると思っていました。（49）、そうではありませんでした。紅葉には、条件となる気温の変化があります。\n葉の変色が始まるのは、1日の最低気温が大体8度以下になってからです。秋になっても、最低気温が一定の気温まで下がらなければ、紅葉は（50）。その後、さらに寒くなり、5〜6度まで下がると、紅葉は一気に進みます。また、5度以下の日が続くと、最も美しい紅葉が見られると言われています。\n紅葉に起きている異変を知り、このまま温暖化が進むと、日本の秋の景色が変わってしまう可能性もあるのではないかと思いました。もしかしたら、紅葉自体が見られなくなる日も来るかもしれません。紅葉を通して、温暖化が身近な問題であることをより強く（51）。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 48,
+      "passage": "p1",
+      "stem": "（48）に入るもの",
+      "options": ["そこの紅葉", "そんな紅葉", "そちら", "紅葉"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Thế nhưng, những tán lá đỏ như vậy (đẹp và mang cảm giác bốn mùa), hôm trước tôi xem tin tức trên TV thấy nói thời điểm lá đỏ đạt đỉnh ngày càng muộn đi.",
+        "why": "Ô 48 phải chỉ lại \"lá đỏ mùa thu đẹp, cho cảm nhận bốn mùa\" vừa mô tả ở đoạn trước. そんな + N = N như thế (đã nói ở trên) → そんな紅葉ですが, chuyển sang vấn đề.",
+        "options": [
+          "そこの紅葉 → \"lá đỏ ở chỗ đó\", chỉ địa điểm, nhưng trước đó không nêu địa điểm nào. Sai.",
+          "そんな紅葉 → lá đỏ như thế (đã mô tả). ĐÚNG.",
+          "そちら → \"phía đó/ngài\", không chỉ được nội dung đã mô tả. Sai.",
+          "紅葉 → chỉ nêu lại từ, không có từ nối liên kết với đoạn trước, mạch văn rời rạc. Sai."
+        ],
+        "vocab": [
+          { "w": "紅葉", "r": "こうよう", "hv": "HỒNG DIỆP", "vi": "lá đỏ, lá chuyển màu mùa thu" },
+          { "w": "異変", "r": "いへん", "hv": "DỊ BIẾN", "vi": "biến đổi bất thường" },
+          { "w": "四季", "r": "しき", "hv": "TỨ QUÝ", "vi": "bốn mùa" }
+        ],
+        "grammar": {
+          "pattern": "そんな＋N",
+          "meaning": "N như thế (chỉ lại nội dung đã nói ở trên)",
+          "form": "そんな + N",
+          "example": "そんな話は聞いたことがない。"
+        },
+        "evidence": "秋の紅葉は、日本の四季の変化を感じさせてくれるものです。（48）ですが、…",
+        "tip": "Ô trống đầu đoạn thường cần từ chỉ thị (こ・そ) tóm tắt đoạn trước."
+      }
+    },
+    {
+      "num": 49,
+      "passage": "p1",
+      "stem": "（49）に入るもの",
+      "options": ["結局", "確かに", "しかし", "つまり"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi đã nghĩ rằng hễ hết hè, nhiệt độ hạ xuống thì lá chắc chắn sẽ đỏ. Thế nhưng, không phải vậy.",
+        "why": "Vế trước: \"tôi đã nghĩ chắc chắn…\"; vế sau: \"không phải như vậy\" → quan hệ trái ngược → しかし.",
+        "options": [
+          "結局 → rốt cuộc (kết quả sau quá trình), không phải đối lập. Sai.",
+          "確かに → quả thật (thừa nhận), ngược ý. Sai.",
+          "しかし → tuy nhiên (đối lập). ĐÚNG.",
+          "つまり → tức là (giải thích lại), không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "温暖化", "r": "おんだんか", "hv": "ÔN NOÃN HÓA", "vi": "sự nóng lên (toàn cầu)" },
+          { "w": "上昇", "r": "じょうしょう", "hv": "THƯỢNG THĂNG", "vi": "tăng lên" },
+          { "w": "平均", "r": "へいきん", "hv": "BÌNH QUÂN", "vi": "trung bình" }
+        ],
+        "grammar": {
+          "pattern": "〜と思っていました。しかし、〜",
+          "meaning": "đã nghĩ là ~. Nhưng (thực tế khác)",
+          "form": "Câu A。しかし、Câu B（trái ngược A）",
+          "example": "簡単だと思っていた。しかし、実際はとても難しかった。"
+        },
+        "evidence": "私は、夏が過ぎて気温が下がってくれば、必ず紅葉が始まると思っていました。（49）、そうではありませんでした。",
+        "tip": "〜と思っていました（quá khứ tiếp diễn）thường báo hiệu một sự thật ngược lại phía sau."
+      }
+    },
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["始まらないのです", "始まらないためです", "始まらないのでしょうか", "始まらないためでしょうか"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Dù đã vào thu, nếu nhiệt độ thấp nhất không hạ xuống một mức nhất định thì lá sẽ không đổi màu.",
+        "why": "Câu đang giải thích quy luật (điều kiện ~なければ → kết quả). 〜のです dùng để giải thích, khẳng định. Không phải câu nêu lý do (ためです) hay câu hỏi.",
+        "options": [
+          "始まらないのです → (thì) không bắt đầu đâu – giải thích. ĐÚNG.",
+          "始まらないためです → \"là vì không bắt đầu\" – nêu lý do, không khớp với cấu trúc điều kiện. Sai.",
+          "始まらないのでしょうか → câu hỏi, nhưng người viết đang giải thích kiến thức. Sai.",
+          "始まらないためでしょうか → câu hỏi về lý do, sai. Sai."
+        ],
+        "vocab": [
+          { "w": "最低気温", "r": "さいていきおん", "hv": "TỐI ĐÊ KHÍ ÔN", "vi": "nhiệt độ thấp nhất" },
+          { "w": "一定", "r": "いってい", "hv": "NHẤT ĐỊNH", "vi": "nhất định, cố định" },
+          { "w": "変色", "r": "へんしょく", "hv": "BIẾN SẮC", "vi": "đổi màu" },
+          { "w": "一気に", "r": "いっきに", "hv": "NHẤT KHÍ", "vi": "một mạch, ngay lập tức" }
+        ],
+        "grammar": {
+          "pattern": "〜なければ、〜のです",
+          "meaning": "nếu không ~ thì (sẽ) ~ đấy (giải thích)",
+          "form": "Vなければ + V普通形 + のです",
+          "example": "練習しなければ、上手にならないのです。"
+        },
+        "evidence": "秋になっても、最低気温が一定の気温まで下がらなければ、紅葉は（50）。",
+        "tip": "ため(です) = \"là do\" cần có kết quả đứng trước làm chủ đề; ở đây vế trước là điều kiện."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["感じているからだと思います", "感じられるところだと思います", "感じさせることができました", "感じるようになりました"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Thông qua chuyện lá đỏ, tôi đã cảm nhận rõ hơn rằng sự nóng lên toàn cầu là vấn đề gần gũi với chúng ta.",
+        "why": "Kết bài: sau khi biết về sự bất thường của lá đỏ, nhận thức của người viết thay đổi → 〜ようになりました (đã trở nên ~). より強く (mạnh hơn trước) hợp với sự thay đổi.",
+        "options": [
+          "感じているからだと思います → \"tôi nghĩ là vì đang cảm thấy\", câu lý do không có kết quả đi trước. Sai.",
+          "感じられるところだと思います → \"là chỗ có thể cảm thấy\", không tự nhiên. Sai.",
+          "感じさせることができました → \"đã có thể làm cho (ai) cảm thấy\" – sai chủ thể, người viết tự cảm nhận. Sai.",
+          "感じるようになりました → đã trở nên cảm nhận được. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "身近", "r": "みぢか", "hv": "THÂN CẬN", "vi": "gần gũi, quen thuộc" },
+          { "w": "〜を通して", "r": "をとおして", "hv": "THÔNG", "vi": "thông qua ~" },
+          { "w": "可能性", "r": "かのうせい", "hv": "KHẢ NĂNG TÍNH", "vi": "khả năng" }
+        ],
+        "grammar": {
+          "pattern": "Vるようになる",
+          "meaning": "trở nên (làm được/có thói quen) ~ (sự thay đổi)",
+          "form": "V辞書形 + ようになる",
+          "example": "日本に来て、納豆が食べられるようになった。"
+        },
+        "evidence": "紅葉を通して、温暖化が身近な問題であることをより強く（51）。",
+        "tip": "より強く／前より + ようになった: dấu hiệu thay đổi nhận thức."
+      }
+    }
+  ]
+}

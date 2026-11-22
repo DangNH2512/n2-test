@@ -1,0 +1,136 @@
+{
+  "exam": "2024-12",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "佐藤さんが<u>ガイド</u>してくれました。",
+      "options": ["案内", "解決", "応援", "準備"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Anh Sato đã hướng dẫn (dẫn đường) cho tôi.",
+        "why": "ガイドする (guide) = dẫn đường, hướng dẫn → đồng nghĩa với 案内する (あんない).",
+        "options": [
+          "案内 → あんない: hướng dẫn, dẫn đường. ĐÚNG.",
+          "解決 → かいけつ: giải quyết. Sai.",
+          "応援 → おうえん: cổ vũ, ủng hộ. Sai.",
+          "準備 → じゅんび: chuẩn bị. Sai."
+        ],
+        "vocab": [
+          { "w": "ガイド", "r": "がいど", "hv": "", "vi": "hướng dẫn (guide)" },
+          { "w": "案内", "r": "あんない", "hv": "ÁN NỘI", "vi": "hướng dẫn, dẫn đường" },
+          { "w": "応援", "r": "おうえん", "hv": "ỨNG VIỆN", "vi": "cổ vũ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "観光ガイド = 観光案内. 案内所 (あんないじょ) = quầy thông tin."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "この表現は<u>修正</u>したほうがいいですよ。",
+      "options": ["調べた", "覚えた", "直した", "使った"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Cách diễn đạt này nên sửa lại đấy.",
+        "why": "修正する (しゅうせい) = sửa chữa cho đúng → gần nghĩa với 直す (なおす: sửa).",
+        "options": [
+          "調べた → しらべる: tra cứu, điều tra. Sai.",
+          "覚えた → おぼえる: nhớ, học thuộc. Sai.",
+          "直した → なおす: sửa lại. ĐÚNG.",
+          "使った → つかう: sử dụng. Sai."
+        ],
+        "vocab": [
+          { "w": "修正", "r": "しゅうせい", "hv": "TU CHÍNH", "vi": "sửa đổi, chỉnh sửa" },
+          { "w": "直す", "r": "なおす", "hv": "TRỰC", "vi": "sửa" },
+          { "w": "表現", "r": "ひょうげん", "hv": "BIỂU HIỆN", "vi": "cách diễn đạt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "修正・訂正 (ていせい)・改める → đều ≈ 直す."
+      }
+    },
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "<u>徐々に</u>会社に慣れてきた。",
+      "options": ["ずいぶん", "いつのまにか", "やっと", "次第に"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi đã dần dần quen với công ty.",
+        "why": "徐々に (じょじょに) = từ từ, dần dần → đồng nghĩa với 次第に (しだいに).",
+        "options": [
+          "ずいぶん → khá là, rất (mức độ). Sai.",
+          "いつのまにか → lúc nào không hay. Sai (không nhấn mạnh quá trình từ từ).",
+          "やっと → cuối cùng thì (sau khó khăn). Sai.",
+          "次第に → dần dần. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "徐々に", "r": "じょじょに", "hv": "TỪ TỪ", "vi": "dần dần, từ từ" },
+          { "w": "次第に", "r": "しだいに", "hv": "THỨ ĐỆ", "vi": "dần dần" },
+          { "w": "慣れる", "r": "なれる", "hv": "QUÁN", "vi": "quen" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhóm \"dần dần\": 徐々に＝次第に＝だんだん＝少しずつ."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "青いペンキが<u>はげている</u>。",
+      "options": ["取れて", "ついて", "乾いて", "こぼれて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Lớp sơn xanh đang bị bong tróc.",
+        "why": "はげる (剥げる) = bong ra, tróc ra (sơn, lớp phủ) → gần nghĩa với 取れる (bong ra, rời ra).",
+        "options": [
+          "取れて → とれる: bong ra, rời ra. ĐÚNG.",
+          "ついて → つく: dính vào (ngược nghĩa). Sai.",
+          "乾いて → かわく: khô. Sai.",
+          "こぼれて → こぼれる: tràn, đổ ra (chất lỏng). Sai."
+        ],
+        "vocab": [
+          { "w": "剥げる", "r": "はげる", "hv": "BÁC", "vi": "bong tróc" },
+          { "w": "取れる", "r": "とれる", "hv": "THỦ", "vi": "bong ra, rời ra" },
+          { "w": "ペンキ", "r": "ぺんき", "hv": "", "vi": "sơn" },
+          { "w": "零れる", "r": "こぼれる", "hv": "LINH", "vi": "tràn, đổ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ボタンが取れる (cúc áo bị đứt), ペンキが取れる/はげる (sơn tróc)."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "彼女のあの<u>しぐさ</u>は印象的だった。",
+      "options": ["考え", "動作", "着装", "言葉"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Cử chỉ đó của cô ấy thật ấn tượng.",
+        "why": "しぐさ (仕草) = cử chỉ, điệu bộ → gần nghĩa với 動作 (どうさ: động tác, cử động).",
+        "options": [
+          "考え → かんがえ: suy nghĩ. Sai.",
+          "動作 → どうさ: động tác, cử chỉ. ĐÚNG.",
+          "着装 → ちゃくそう: việc mặc, trang bị (đồ). Sai.",
+          "言葉 → ことば: lời nói. Sai."
+        ],
+        "vocab": [
+          { "w": "仕草", "r": "しぐさ", "hv": "SĨ THẢO", "vi": "cử chỉ, điệu bộ" },
+          { "w": "動作", "r": "どうさ", "hv": "ĐỘNG TÁC", "vi": "động tác" },
+          { "w": "印象的", "r": "いんしょうてき", "hv": "ẤN TƯỢNG ĐÍCH", "vi": "ấn tượng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "しぐさ thường chỉ cử chỉ nhỏ, đặc trưng của một người (cách nghiêng đầu, vuốt tóc…)."
+      }
+    }
+  ]
+}

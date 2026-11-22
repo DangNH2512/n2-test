@@ -1,0 +1,95 @@
+{
+  "exam": "2013-12",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のＡとＢの文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B, chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "１９６９年に人類は初めて月に到達した。その後も人類の夢はとどまらず、各国は国の誇りをかけて膨大な費用を使い、先を争うように宇宙開発を進めてきた。\nしかし近年、多くの国でこのような状況が問題となっている。多額の国家予算を使うにも関わらず成果が見えにくい宇宙開発に対して、国民が疑問を感じ始めたのだ。\n現在、世界には環境問題や資源問題など早急に解決しなければならない課題が数多く存在する。同じように多額の費用を使うなら、宇宙開発よりも身近で現実的な問題を解決することの方が優先されなければならない。政府は、我々の生活に直結するような問題にこそ、予算を使うべきである。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "宇宙開発に伴い近年の科学技術が発展したと言ってもよい。宇宙開発は、特に気象観測や通信、交通システムの分野で、人間生活の向上に大きく貢献してきた。人工衛星技術の進歩により信頼性の高い気象予測が可能になるなど、身近な生活でも、私たちが多くの恩恵を受けていることは誰もが認める事実だろう。\nしかし近ごろ宇宙開発に対して否定的な意見が多く聞かれるようになってきた。確かに、ばくだいな費用の割に目的も成果も不明瞭だ。\nだが、宇宙開発は短期間で成果が得られるものではない。これまでの成果を活かすためにも、長期的な視野に立って研究開発を進めていくべきではないだろうか。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 69,
+      "passage": "AB",
+      "stem": "宇宙開発に対する最近の意見としてＡとＢで共通して触れられているのはどれか。",
+      "options": [
+        "宇宙開発は費用がかかるが成果が明確ではない。",
+        "宇宙開発は費用がかかるが、科学技術の発展に貢献している。",
+        "宇宙開発には、夢はあっても実用的利益は少ない。",
+        "宇宙開発には、費用をかけても解決できない問題が多い。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Ý kiến gần đây về phát triển vũ trụ mà cả A và B cùng đề cập là gì? → Phát triển vũ trụ tốn kém nhưng thành quả không rõ ràng.",
+        "why": "A: người dân bắt đầu nghi ngờ vì dùng ngân sách lớn mà 'thành quả khó thấy'. B: gần đây nhiều ý kiến tiêu cực; 'quả thật, so với chi phí khổng lồ thì mục đích và thành quả không rõ ràng'. → Điểm chung: tốn kém mà thành quả không rõ.",
+        "options": [
+          "Tốn kém nhưng thành quả không rõ ràng. ĐÚNG.",
+          "Tốn kém nhưng đóng góp cho khoa học kỹ thuật → chỉ B nói (và là ý của B, không phải 'ý kiến gần đây'). Sai.",
+          "Có ước mơ nhưng ít lợi ích thực tế → A có nhắc 'ước mơ', B lại khẳng định có lợi ích thực tế. Sai.",
+          "Nhiều vấn đề tốn tiền cũng không giải quyết được → không ai nói. Sai."
+        ],
+        "vocab": [
+          { "w": "宇宙開発", "r": "うちゅうかいはつ", "hv": "VŨ TRỤ KHAI PHÁT", "vi": "phát triển (khám phá) vũ trụ" },
+          { "w": "成果", "r": "せいか", "hv": "THÀNH QUẢ", "vi": "thành quả" },
+          { "w": "不明瞭", "r": "ふめいりょう", "hv": "BẤT MINH LIỄU", "vi": "không rõ ràng" },
+          { "w": "膨大", "r": "ぼうだい", "hv": "BÀNH ĐẠI", "vi": "khổng lồ" },
+          { "w": "〜の割に", "r": "〜のわりに", "hv": "CÁT", "vi": "so với … thì (không tương xứng)" }
+        ],
+        "grammar": {
+          "pattern": "～にも関わらず",
+          "meaning": "mặc dù … (vậy mà)",
+          "form": "N / thể thường＋にも関わらず",
+          "example": "雨にも関わらず、大勢の人が集まった。(Dù trời mưa, rất đông người đã tụ tập.)"
+        },
+        "evidence": "A：多額の国家予算を使うにも関わらず成果が見えにくい宇宙開発に対して、国民が疑問を感じ始めたのだ。／B：確かに、ばくだいな費用の割に目的も成果も不明瞭だ。",
+        "tip": "Câu hỏi hỏi 'ý kiến gần đây' (最近の意見) → tìm đoạn có しかし近年 / しかし近ごろ ở cả A và B."
+      }
+    },
+    {
+      "num": 70,
+      "passage": "AB",
+      "stem": "宇宙開発について、ＡとＢはどのように述べているか。",
+      "options": [
+        "ＡもＢも、宇宙開発の成果を上げるためなら、時間がかかるのはやむをえないと述べている。",
+        "ＡもＢも、世界には宇宙開発以外に、取り組まなければならない問題があると述べている。",
+        "Ａは宇宙開発の成果を急ぐ必要はないと述べ、Ｂは早急に宇宙開発の成果を出すようにすべきだと述べている。",
+        "Ａは宇宙開発よりも先に解決すべき課題があると述べ、Ｂはこれからも宇宙開発を続けるべきだと述べている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "A và B nói gì về phát triển vũ trụ? → A cho rằng có những vấn đề cần giải quyết trước phát triển vũ trụ; B cho rằng nên tiếp tục phát triển vũ trụ.",
+        "why": "A: các vấn đề môi trường, tài nguyên… gần gũi, thực tế phải được ưu tiên hơn vũ trụ. B: vũ trụ không có thành quả ngắn hạn, nên tiếp tục nghiên cứu với tầm nhìn dài hạn.",
+        "options": [
+          "Cả hai chấp nhận tốn thời gian → chỉ B nói; A muốn ưu tiên vấn đề khác. Sai.",
+          "Cả hai nói có vấn đề khác cần giải quyết → chỉ A nói. Sai.",
+          "A: không cần vội; B: phải ra thành quả gấp → ngược: B mới là người nói không thể có thành quả ngắn hạn. Sai.",
+          "A: có vấn đề cần giải quyết trước; B: nên tiếp tục phát triển vũ trụ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "優先", "r": "ゆうせん", "hv": "ƯU TIÊN", "vi": "ưu tiên" },
+          { "w": "早急", "r": "さっきゅう／そうきゅう", "hv": "TẢO CẤP", "vi": "khẩn cấp, gấp rút" },
+          { "w": "直結", "r": "ちょっけつ", "hv": "TRỰC KẾT", "vi": "liên quan trực tiếp" },
+          { "w": "視野", "r": "しや", "hv": "THỊ DÃ", "vi": "tầm nhìn" },
+          { "w": "恩恵", "r": "おんけい", "hv": "ÂN HUỆ", "vi": "lợi ích, ân huệ" }
+        ],
+        "grammar": {
+          "pattern": "～べきではないだろうか",
+          "meaning": "chẳng phải nên … sao (khẳng định ý kiến một cách mềm mỏng)",
+          "form": "Vる＋べきではないだろうか",
+          "example": "もっと若者の意見を聞くべきではないだろうか。(Chẳng phải nên lắng nghe ý kiến giới trẻ hơn sao?)"
+        },
+        "evidence": "A：宇宙開発よりも身近で現実的な問題を解決することの方が優先されなければならない。／B：これまでの成果を活かすためにも、長期的な視野に立って研究開発を進めていくべきではないだろうか。",
+        "tip": "Lập trường mỗi bài thường nằm ở câu cuối: A → 予算を使うべきである (cho vấn đề đời sống); B → 進めていくべきではないだろうか."
+      }
+    }
+  ]
+}

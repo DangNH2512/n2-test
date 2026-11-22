@@ -1,0 +1,163 @@
+{
+  "exam": "2015-07",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các phương án thành câu đúng và chọn phương án nằm ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "優しい子になってほしい。娘の＿＿＿ ＿＿＿ ★ ＿＿＿込めたからだ。",
+      "options": ["優子に", "そういった願いを", "名前を", "したのは"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi mong con sẽ trở thành một đứa trẻ hiền lành. Việc tôi đặt tên con gái là Yuko là vì đã gửi gắm mong ước đó vào.",
+        "why": "Thứ tự đúng: 娘の 名前を(3) 優子に(1) したのは(4) そういった願いを(2) 込めたからだ。 'N を N にする' = đặt (tên) là ~; '～のは～からだ' = sở dĩ ~ là vì ~. Vị trí ★ (thứ 3) là したのは.",
+        "options": [
+          "優子に → vị trí 2 (名前を優子にする). Sai.",
+          "そういった願いを → vị trí 4, làm tân ngữ của 込めた. Sai.",
+          "名前を → vị trí 1, sau 娘の. Sai.",
+          "したのは → vị trí 3 (★). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "願い", "r": "ねがい", "hv": "NGUYỆN", "vi": "mong ước" },
+          { "w": "込める", "r": "こめる", "hv": "", "vi": "gửi gắm, dồn (tâm tư) vào" },
+          { "w": "優しい", "r": "やさしい", "hv": "ƯU", "vi": "hiền lành, dịu dàng" }
+        ],
+        "grammar": {
+          "pattern": "～のは～からだ",
+          "meaning": "sở dĩ ~ là vì ~",
+          "form": "V普通形＋のは＋lý do＋からだ",
+          "example": "遅刻したのは、電車が止まったからだ。"
+        },
+        "evidence": null,
+        "tip": "願いを込める = gửi gắm ước nguyện; 名前を～にする = đặt tên là ~."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "日本で携帯電話が発売されて約20年。いまや携帯電話は＿＿＿ ＿＿＿ ★ ＿＿＿定着したといえるのではないか。",
+      "options": ["に欠かせない", "道具", "として", "生活"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Khoảng 20 năm kể từ khi điện thoại di động được bán ở Nhật. Có lẽ có thể nói rằng giờ đây điện thoại di động đã trở nên phổ biến như một công cụ không thể thiếu trong cuộc sống.",
+        "why": "Thứ tự đúng: 生活(4) に欠かせない(1) 道具(2) として(3) 定着した。 'N に欠かせない N' = N không thể thiếu cho ~; 'N として定着する' = trở nên phổ biến với tư cách ~. Vị trí ★ là 道具.",
+        "options": [
+          "に欠かせない → vị trí 2. Sai.",
+          "道具 → vị trí 3 (★). ĐÚNG.",
+          "として → vị trí 4, nối với 定着した. Sai.",
+          "生活 → vị trí 1. Sai."
+        ],
+        "vocab": [
+          { "w": "欠かせない", "r": "かかせない", "hv": "KHIẾM", "vi": "không thể thiếu" },
+          { "w": "定着", "r": "ていちゃく", "hv": "ĐỊNH TRƯỚC", "vi": "bám rễ, trở nên phổ biến/cố định" },
+          { "w": "道具", "r": "どうぐ", "hv": "ĐẠO CỤ", "vi": "dụng cụ, công cụ" },
+          { "w": "発売", "r": "はつばい", "hv": "PHÁT MẠI", "vi": "phát hành, bán ra" }
+        ],
+        "grammar": {
+          "pattern": "～として",
+          "meaning": "với tư cách là, như là",
+          "form": "N＋として",
+          "example": "彼は通訳として会議に参加した。"
+        },
+        "evidence": null,
+        "tip": "Mẹo: ghép cụm danh từ trước (生活に欠かせない道具), rồi gắn として vào trước động từ."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "私は、スケジュール＿＿＿ ＿＿＿ ★ ＿＿＿常に考えながら作業をしている。",
+      "options": ["どうすればいいか", "どおりに", "には", "仕事を進める"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi luôn vừa làm việc vừa suy nghĩ xem phải làm thế nào để công việc tiến triển đúng theo lịch trình.",
+        "why": "Thứ tự đúng: スケジュール どおりに(2) 仕事を進める(4) には(3) どうすればいいか(1) 常に考えながら。 'N どおりに' = đúng theo ~; 'Vる＋には' = để ~ thì. Vị trí ★ là には.",
+        "options": [
+          "どうすればいいか → vị trí 4, làm tân ngữ của 考える. Sai.",
+          "どおりに → vị trí 1, sau スケジュール. Sai.",
+          "には → vị trí 3 (★). ĐÚNG.",
+          "仕事を進める → vị trí 2. Sai."
+        ],
+        "vocab": [
+          { "w": "～どおりに", "r": "どおりに", "hv": "THÔNG", "vi": "đúng theo ~" },
+          { "w": "進める", "r": "すすめる", "hv": "TIẾN", "vi": "xúc tiến, đẩy tiến độ" },
+          { "w": "常に", "r": "つねに", "hv": "THƯỜNG", "vi": "luôn luôn" },
+          { "w": "作業", "r": "さぎょう", "hv": "TÁC NGHIỆP", "vi": "công việc, thao tác" }
+        ],
+        "grammar": {
+          "pattern": "Vる＋には",
+          "meaning": "để ~ thì (mục đích)",
+          "form": "Vる＋には",
+          "example": "駅へ行くには、どのバスに乗ればいいですか。"
+        },
+        "evidence": null,
+        "tip": "N どおり (đọc どおり khi đứng sau danh từ): 予定どおり, 計画どおり."
+      }
+    },
+    {
+      "num": 48,
+      "passage": null,
+      "stem": "筋肉トレーニングを＿＿＿ ＿＿＿ ★ ＿＿＿効果は全く違います。",
+      "options": ["今自分がどこを鍛えているのか", "しているとき", "しないのでは", "意識するのと"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Khi đang tập luyện cơ bắp, việc ý thức được mình đang rèn luyện chỗ nào và không ý thức thì hiệu quả hoàn toàn khác nhau.",
+        "why": "Thứ tự đúng: 筋肉トレーニングを しているとき(2) 今自分がどこを鍛えているのか(1) 意識するのと(4) しないのでは(3) 効果は全く違います。 Mẫu 'Aのと Bのでは ～が違う' = A và B khác nhau. Vị trí ★ là 意識するのと.",
+        "options": [
+          "今自分がどこを鍛えているのか → vị trí 2, tân ngữ của 意識する. Sai.",
+          "しているとき → vị trí 1, sau トレーニングを. Sai.",
+          "しないのでは → vị trí 4, ngay trước 効果は違います. Sai.",
+          "意識するのと → vị trí 3 (★). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "筋肉", "r": "きんにく", "hv": "CÂN NHỤC", "vi": "cơ bắp" },
+          { "w": "鍛える", "r": "きたえる", "hv": "ĐOÁN", "vi": "rèn luyện" },
+          { "w": "意識", "r": "いしき", "hv": "Ý THỨC", "vi": "ý thức, để tâm" },
+          { "w": "効果", "r": "こうか", "hv": "HIỆU QUẢ", "vi": "hiệu quả" }
+        ],
+        "grammar": {
+          "pattern": "～のと～のでは（違う）",
+          "meaning": "giữa việc ~ và việc ~ thì (khác nhau)",
+          "form": "Vる＋のと＋Vない＋のでは",
+          "example": "準備をするのとしないのでは、結果が大きく変わる。"
+        },
+        "evidence": null,
+        "tip": "Thấy 'のと' và 'のでは' → hai vế so sánh đi liền nhau, のでは đứng sau."
+      }
+    },
+    {
+      "num": 49,
+      "passage": null,
+      "stem": "「みるく屋」は、A市に＿＿＿ ＿＿＿ ★ ＿＿＿です。",
+      "options": ["有名な", "住んでいる人なら", "知らない人はいないくらい", "お菓子屋さん"],
+      "answer": 1,
+      "explanation": {
+        "translation": "'Milk-ya' là tiệm bánh kẹo nổi tiếng đến mức người sống ở thành phố A thì không ai là không biết.",
+        "why": "Thứ tự đúng: A市に 住んでいる人なら(2) 知らない人はいないくらい(3) 有名な(1) お菓子屋さん(4) です。 'くらい' chỉ mức độ bổ nghĩa cho 有名な; 有名な bổ nghĩa cho お菓子屋さん. Vị trí ★ là 有名な.",
+        "options": [
+          "有名な → vị trí 3 (★). ĐÚNG.",
+          "住んでいる人なら → vị trí 1 (A市に住んでいる). Sai.",
+          "知らない人はいないくらい → vị trí 2. Sai.",
+          "お菓子屋さん → vị trí 4, trước です. Sai."
+        ],
+        "vocab": [
+          { "w": "お菓子屋", "r": "おかしや", "hv": "QUẢ TỬ ỐC", "vi": "tiệm bánh kẹo" },
+          { "w": "～くらい", "r": "くらい", "hv": "", "vi": "đến mức ~" },
+          { "w": "有名", "r": "ゆうめい", "hv": "HỮU DANH", "vi": "nổi tiếng" }
+        ],
+        "grammar": {
+          "pattern": "～くらい（ぐらい）",
+          "meaning": "đến mức ~ (chỉ mức độ)",
+          "form": "V普通形＋くらい＋A／V",
+          "example": "立っていられないくらい疲れた。"
+        },
+        "evidence": null,
+        "tip": "～なら知らない人はいない = ai ~ thì cũng biết (nổi tiếng)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "exam": "2021-12",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ (tiền tố/hậu tố) thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "私も山口さんと（　　）意見です。",
+      "options": ["等", "同", "共", "似"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi cũng có cùng ý kiến với anh Yamaguchi.",
+        "why": "同 (どう) đứng trước danh từ = cùng, giống: 同意見 (cùng ý kiến), 同世代, 同年齢. Mẫu 「Aと同＋N」 = cùng N với A.",
+        "options": [
+          "等 (とう) → hậu tố 'v.v.', hoặc 等分. Không đứng trước 意見. Sai.",
+          "同 (どう) → 同意見: cùng ý kiến. ĐÚNG.",
+          "共 (きょう) → 共通, 共同: chung; không nói 共意見. Sai.",
+          "似 → không dùng làm tiền tố. Sai."
+        ],
+        "vocab": [
+          { "w": "同意見", "r": "どういけん", "hv": "ĐỒNG Ý KIẾN", "vi": "cùng ý kiến" },
+          { "w": "意見", "r": "いけん", "hv": "Ý KIẾN", "vi": "ý kiến" },
+          { "w": "同世代", "r": "どうせだい", "hv": "ĐỒNG THẾ ĐẠI", "vi": "cùng thế hệ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Tiền tố 同～: 同時期, 同学年, 同条件 (cùng ~)."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "このバナナは甘い香りがするので、そろそろ食べ（　　）ですよ。",
+      "options": ["頃", "期", "刻", "節"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Quả chuối này đã có mùi thơm ngọt, sắp đến lúc ăn ngon nhất rồi đấy.",
+        "why": "Vます＋頃 (ごろ) = thời điểm thích hợp nhất để làm V: 食べ頃 (lúc ăn ngon nhất), 見頃 (lúc ngắm đẹp nhất), 飲み頃.",
+        "options": [
+          "頃 (ごろ) → 食べ頃: thời điểm ăn ngon nhất. ĐÚNG.",
+          "期 (き) → 時期, 期間; không ghép với Vます. Sai.",
+          "刻 (こく) → 時刻; không dùng thế này. Sai.",
+          "節 (せつ) → 季節; không ghép với Vます. Sai."
+        ],
+        "vocab": [
+          { "w": "食べ頃", "r": "たべごろ", "hv": "", "vi": "lúc ăn ngon nhất" },
+          { "w": "見頃", "r": "みごろ", "hv": "", "vi": "lúc ngắm đẹp nhất" },
+          { "w": "香り", "r": "かおり", "hv": "HƯƠNG", "vi": "mùi thơm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "桜は今が見頃です = Hoa anh đào bây giờ đang đẹp nhất."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "本登録の前に、まずは（　　）登録を行ってください。",
+      "options": ["先", "予", "仮", "近"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Trước khi đăng ký chính thức, trước hết hãy thực hiện đăng ký tạm thời.",
+        "why": "仮 (かり) = tạm thời, đối lập với 本 (chính thức): 仮登録 ↔ 本登録, 仮免許, 仮予約.",
+        "options": [
+          "先 → 先登録 không tồn tại (có 先着, 先払い). Sai.",
+          "予 → 予約, 予定 là từ có sẵn; không có 予登録. Sai.",
+          "仮 (かり) → 仮登録: đăng ký tạm. ĐÚNG.",
+          "近 → không dùng làm tiền tố ở đây. Sai."
+        ],
+        "vocab": [
+          { "w": "仮登録", "r": "かりとうろく", "hv": "GIẢ ĐĂNG LỤC", "vi": "đăng ký tạm thời" },
+          { "w": "本登録", "r": "ほんとうろく", "hv": "BẢN ĐĂNG LỤC", "vi": "đăng ký chính thức" },
+          { "w": "仮", "r": "かり", "hv": "GIẢ", "vi": "tạm thời, giả định" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Gợi ý nằm ở 本登録: 本 (chính thức) ↔ 仮 (tạm)."
+      }
+    }
+  ]
+}

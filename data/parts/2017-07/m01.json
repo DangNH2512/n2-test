@@ -1,0 +1,136 @@
+{
+  "exam": "2017-07",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "青木さんってちょっと<u>幼い</u>ところがあるよね。",
+      "options": ["くどい", "ずるい", "おさない", "しつこい"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh Aoki có chỗ hơi trẻ con nhỉ.",
+        "why": "幼い đọc là おさない (ẤU) = non nớt, trẻ con, ấu trĩ. Đây là âm Kun của chữ 幼 (âm On là よう như 幼児 ようじ).",
+        "options": [
+          "くどい → 諄い: dài dòng, lải nhải. Sai.",
+          "ずるい → 狡い: ranh mãnh, gian xảo. Sai.",
+          "おさない → 幼い: trẻ con, non nớt. ĐÚNG.",
+          "しつこい → dai dẳng, lằng nhằng. Sai."
+        ],
+        "vocab": [
+          { "w": "幼い", "r": "おさない", "hv": "ẤU", "vi": "non nớt, trẻ con" },
+          { "w": "幼児", "r": "ようじ", "hv": "ẤU NHI", "vi": "trẻ nhỏ" },
+          { "w": "幼稚園", "r": "ようちえん", "hv": "ẤU TRĨ VIÊN", "vi": "trường mẫu giáo" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Ba đáp án sai (くどい・ずるい・しつこい) đều là tính từ chỉ tính cách thường viết bằng hiragana — không phải cách đọc của 幼."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "しっかり<u>握って</u>ください。",
+      "options": ["ふって", "にぎって", "こすって", "ほって"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hãy nắm chặt vào.",
+        "why": "握る đọc là にぎる (ÁC) = nắm, cầm chặt. 握って là thể て.",
+        "options": [
+          "ふって → 振って: vẫy, lắc. Sai.",
+          "にぎって → 握って: nắm chặt. ĐÚNG.",
+          "こすって → 擦って: chà, cọ xát. Sai.",
+          "ほって → 掘って: đào. Sai."
+        ],
+        "vocab": [
+          { "w": "握る", "r": "にぎる", "hv": "ÁC", "vi": "nắm, cầm chặt" },
+          { "w": "握手", "r": "あくしゅ", "hv": "ÁC THỦ", "vi": "bắt tay" },
+          { "w": "擦る", "r": "こする", "hv": "SÁT", "vi": "chà, cọ" },
+          { "w": "掘る", "r": "ほる", "hv": "QUẬT", "vi": "đào" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "おにぎり (cơm nắm) cũng từ 握る → nhớ にぎる."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "空気が入らないようにきちんと<u>密閉</u>してください。",
+      "options": ["ひっぺい", "みっぺい", "みっぱい", "ひっぱい"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hãy đóng kín cẩn thận để không khí không lọt vào.",
+        "why": "密閉 đọc là みっぺい (MẬT BẾ) = đóng kín, bịt kín. 密 = みつ → みっ (xúc âm) + 閉 = へい → ぺい (biến âm bán trọc).",
+        "options": [
+          "ひっぺい → sai âm đầu (密 là み, không phải ひ). Sai.",
+          "みっぺい → 密閉: đóng kín. ĐÚNG.",
+          "みっぱい → 閉 đọc へい, không phải はい. Sai.",
+          "ひっぱい → sai cả hai âm. Sai."
+        ],
+        "vocab": [
+          { "w": "密閉", "r": "みっぺい", "hv": "MẬT BẾ", "vi": "đóng kín, bịt kín" },
+          { "w": "秘密", "r": "ひみつ", "hv": "BÍ MẬT", "vi": "bí mật" },
+          { "w": "閉店", "r": "へいてん", "hv": "BẾ ĐIẾM", "vi": "đóng cửa hàng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "閉 luôn đọc へい (閉会・閉店), khi đứng sau xúc âm っ thành ぺい."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "かなりの時間をかけてテーマを<u>絞った</u>。",
+      "options": ["しぼった", "けずった", "さぐった", "うかがった"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đã mất khá nhiều thời gian để thu hẹp (khoanh vùng) chủ đề.",
+        "why": "絞る đọc là しぼる (GIẢO) = vắt; thu hẹp, khoanh lại. テーマを絞る = thu hẹp chủ đề.",
+        "options": [
+          "しぼった → 絞った: vắt, thu hẹp. ĐÚNG.",
+          "けずった → 削った: gọt, cắt giảm. Sai.",
+          "さぐった → 探った: dò tìm, thăm dò. Sai.",
+          "うかがった → 伺った: hỏi thăm, ghé thăm (khiêm nhường). Sai."
+        ],
+        "vocab": [
+          { "w": "絞る", "r": "しぼる", "hv": "GIẢO", "vi": "vắt; thu hẹp" },
+          { "w": "削る", "r": "けずる", "hv": "TƯỚC", "vi": "gọt, cắt giảm" },
+          { "w": "探る", "r": "さぐる", "hv": "THÁM", "vi": "dò xét, tìm hiểu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm hay gặp: 範囲を絞る (thu hẹp phạm vi), タオルを絞る (vắt khăn)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "この線に対して<u>垂直</u>な線を引いてください。",
+      "options": ["ついじき", "ついちょく", "すいじき", "すいちょく"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hãy kẻ một đường thẳng vuông góc với đường này.",
+        "why": "垂直 đọc là すいちょく (THÙY TRỰC) = vuông góc, thẳng đứng. 垂 đọc すい, 直 đọc ちょく.",
+        "options": [
+          "ついじき → sai cả hai âm. Sai.",
+          "ついちょく → 垂 không đọc つい. Sai.",
+          "すいじき → 直 ở đây đọc ちょく (じき là cách đọc trong 正直 しょうじき). Sai.",
+          "すいちょく → 垂直: vuông góc. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "垂直", "r": "すいちょく", "hv": "THÙY TRỰC", "vi": "vuông góc, thẳng đứng" },
+          { "w": "水平", "r": "すいへい", "hv": "THỦY BÌNH", "vi": "nằm ngang" },
+          { "w": "直線", "r": "ちょくせん", "hv": "TRỰC TUYẾN", "vi": "đường thẳng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cặp đối nghĩa: 垂直 (すいちょく) ⇔ 水平 (すいへい) — cả hai đều bắt đầu bằng すい."
+      }
+    }
+  ]
+}

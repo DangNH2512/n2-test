@@ -1,0 +1,165 @@
+{
+  "exam": "2015-12",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、「50」から「54」の中に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án đúng nhất cho các ô 50–54.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "回転ずし",
+      "text": "以下の文章は、雑誌のコラムである。\n\nすしを載せた皿が、客席沿いに設置された台の上を通って次々に流れていく。回転ずしの店で、目の前を通り過ぎるおいしそうなすしを見ていると、どれも食べたくなる。つい食べ過ぎてしまうという人も（50）。回転ずしで1回に食べる量の平均は一人約10皿だという。すし1つのご飯の量が約200グラムで、普通、回転ずしでは1皿にすしが2つ載っているから、約400グラムもご飯を食べていることになる。茶わん1杯分のご飯の量が約150グラムだとすると、（51）。回転ずしでたくさん食べてしまうのはなぜなのか。\nこんな（52）。すしが好きな人たちにすしを食べてもらう。まずは、すしの皿を台に載せて流さず、1皿ずつ注文してすしを食べる。別の日に今度は、流れているすしの皿を取ってすしを食べる。（53）、流れているときに食べた量は、そうでないときの約1.5倍になったという。\n心理学の専門家によると、これは「目の前に流れてくる」ことの効果らしい。すしが目の前に流れてくると、意識しなくても目に入り、あれもこれも食べたいと思ってしまう。また、人間は、目の前で動いている食べ物を見ると目で追って手に入れようとする性質を持っており、それも思わず皿を取ってしまう原因の一つだということだ。\n回転ずしでたくさん食べてしまうのには、納得の理由があったのだ。回転ずしの店に行ったとき、食べ過ぎてしまうのは（54）。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["多かったのか", "多いのではないか", "多ければいい", "多くてよかった"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Chắc hẳn cũng có nhiều người lỡ ăn quá nhiều (phải không).",
+        "why": "Người viết phỏng đoán nhẹ về độc giả ở hiện tại: 〜のではないか = chẳng phải là ~ sao / có lẽ ~. Câu nói chung, thì hiện tại, nên 多いのではないか.",
+        "options": [
+          "多かったのか → \"đã nhiều sao?\" – thì quá khứ + ngạc nhiên, không hợp lời nhận định chung. Sai.",
+          "多いのではないか → có lẽ là nhiều. ĐÚNG.",
+          "多ければいい → \"nhiều thì tốt\" – mong muốn, vô lý. Sai.",
+          "多くてよかった → \"may mà nhiều\" – không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "回転ずし", "r": "かいてんずし", "hv": "HỒI CHUYỂN", "vi": "sushi băng chuyền" },
+          { "w": "つい", "r": "つい", "hv": "", "vi": "lỡ, bất giác" },
+          { "w": "設置", "r": "せっち", "hv": "THIẾT TRÍ", "vi": "lắp đặt" }
+        ],
+        "grammar": {
+          "pattern": "～のではないか",
+          "meaning": "có lẽ là ~, chẳng phải ~ sao (phỏng đoán, nêu ý kiến nhẹ nhàng)",
+          "form": "普通形(Naな/Nな) + のではないか",
+          "example": "この計画は少し難しいのではないか。"
+        },
+        "evidence": "目の前を通り過ぎるおいしそうなすしを見ていると、どれも食べたくなる。つい食べ過ぎてしまうという人も（50）。",
+        "tip": "Đầu bài cột báo hay dùng 〜人も多いのではないか để kéo độc giả vào chủ đề."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["2杯分以上だ", "2杯分以上でもおかしくない", "2杯分以上だからだ", "2杯分以上でなければいけない"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nếu một bát cơm khoảng 150 gram thì (400 gram) là hơn 2 bát.",
+        "why": "Phép tính 400g ÷ 150g ≈ 2,7 bát → đây là kết luận khẳng định đơn giản: 2杯分以上だ. 〜とすると (nếu giả định ~) → nêu kết quả.",
+        "options": [
+          "2杯分以上だ → là hơn 2 bát. ĐÚNG.",
+          "2杯分以上でもおかしくない → \"hơn 2 bát cũng không lạ\" – lập lờ, trong khi phép tính cho kết quả chắc chắn. Sai.",
+          "2杯分以上だからだ → \"là vì hơn 2 bát\" – nêu lý do, không có gì để giải thích. Sai.",
+          "2杯分以上でなければいけない → \"phải hơn 2 bát\" – nghĩa vụ, vô lý. Sai."
+        ],
+        "vocab": [
+          { "w": "茶わん", "r": "ちゃわん", "hv": "TRÀ OẢN", "vi": "bát (ăn cơm)" },
+          { "w": "〜杯分", "r": "はいぶん", "hv": "BÔI PHÂN", "vi": "lượng tương đương ~ bát/cốc" },
+          { "w": "平均", "r": "へいきん", "hv": "BÌNH QUÂN", "vi": "trung bình" }
+        ],
+        "grammar": {
+          "pattern": "～とすると",
+          "meaning": "nếu giả định ~ thì",
+          "form": "普通形 + とすると",
+          "example": "1日に2時間勉強するとすると、1年で730時間になる。"
+        },
+        "evidence": "約400グラムもご飯を食べていることになる。茶わん1杯分のご飯の量が約150グラムだとすると、（51）。",
+        "tip": "Lưu ý: đề ghi \"すし1つのご飯の量が約200グラム\" – về logic phải là khoảng 20 gram (10 đĩa × 2 miếng × 20g = 400g). Không ảnh hưởng đáp án."
+      }
+    },
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "（52）に入るもの",
+      "options": ["実験だといえる", "実験だとしている", "実験がある", "実験になる"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Có một thí nghiệm như thế này.",
+        "why": "こんな〜がある = có một ~ như thế này (giới thiệu nội dung sẽ trình bày ngay sau). Sau đó tác giả mô tả thí nghiệm.",
+        "options": [
+          "実験だといえる → \"có thể nói là thí nghiệm\" – đánh giá, nhưng chưa có gì để đánh giá. Sai.",
+          "実験だとしている → \"cho rằng là thí nghiệm\" – không tự nhiên. Sai.",
+          "実験がある → có một thí nghiệm (như sau). ĐÚNG.",
+          "実験になる → \"trở thành thí nghiệm\" – sai nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "実験", "r": "じっけん", "hv": "THỰC NGHIỆM", "vi": "thí nghiệm" },
+          { "w": "注文", "r": "ちゅうもん", "hv": "CHÚ VĂN", "vi": "gọi món" }
+        ],
+        "grammar": {
+          "pattern": "こんな＋N＋がある",
+          "meaning": "có một N như thế này (giới thiệu điều sắp nói)",
+          "form": "こんな + N + がある。（+ nội dung chi tiết）",
+          "example": "こんな話がある。昔、ある村に…"
+        },
+        "evidence": "こんな（52）。すしが好きな人たちにすしを食べてもらう。まずは、すしの皿を台に載せて流さず、1皿ずつ注文してすしを食べる。",
+        "tip": "こんな/こういう ở đầu đoạn = báo trước nội dung phía sau (khác với そんな chỉ lại phía trước)."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p1",
+      "stem": "（53）に入るもの",
+      "options": ["つまり", "すると", "ところが", "一方で"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Kết quả là (khi làm như vậy thì), lượng ăn khi sushi chạy trên băng chuyền gấp khoảng 1,5 lần so với khi không chạy.",
+        "why": "すると = thế là, khi làm như vậy thì (nêu kết quả xảy ra sau hành động/thí nghiệm). Mô tả cách làm thí nghiệm → すると → kết quả.",
+        "options": [
+          "つまり → tức là (diễn đạt lại). Câu sau là kết quả mới, không phải diễn đạt lại. Sai.",
+          "すると → thế là, kết quả là. ĐÚNG.",
+          "ところが → thế nhưng (trái dự đoán). Kết quả không trái với ý đoạn trước (ăn nhiều khi chạy). Sai.",
+          "一方で → mặt khác (so sánh hai mặt). Sai."
+        ],
+        "vocab": [
+          { "w": "〜倍", "r": "ばい", "hv": "BỘI", "vi": "gấp ~ lần" },
+          { "w": "流れる", "r": "ながれる", "hv": "LƯU", "vi": "chảy, trôi (chạy trên băng chuyền)" }
+        ],
+        "grammar": {
+          "pattern": "すると",
+          "meaning": "thế là, khi đó thì (kết quả sau một hành động)",
+          "form": "Câu hành động。すると、câu kết quả。",
+          "example": "ボタンを押した。すると、ドアが開いた。"
+        },
+        "evidence": "別の日に今度は、流れているすしの皿を取ってすしを食べる。（53）、流れているときに食べた量は、そうでないときの約1.5倍になったという。",
+        "tip": "Mô tả thí nghiệm/hành động → kết quả: すると・その結果."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p1",
+      "stem": "（54）に入るもの",
+      "options": ["避けたいに決まっている", "避けるべきだった", "避けられたかもしれない", "避けられないのだろう"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Khi đến quán sushi băng chuyền, việc ăn quá nhiều có lẽ là không thể tránh được.",
+        "why": "Bài vừa giải thích: sushi chạy trước mắt khiến người ta vô thức muốn ăn và theo bản năng lấy đĩa → ăn nhiều là có lý do (納得の理由). Kết luận hợp lý: không thể tránh được (避けられない) + のだろう (suy đoán).",
+        "options": [
+          "避けたいに決まっている → \"chắc chắn ai cũng muốn tránh\" – không khớp với kết luận về cơ chế tâm lý. Sai.",
+          "避けるべきだった → \"lẽ ra nên tránh\" – hối tiếc quá khứ, không hợp. Sai.",
+          "避けられたかもしれない → \"có lẽ đã tránh được\" – ngược ý. Sai.",
+          "避けられないのだろう → có lẽ là không tránh được. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "避ける", "r": "さける", "hv": "TỴ", "vi": "tránh" },
+          { "w": "納得", "r": "なっとく", "hv": "NẠP ĐẮC", "vi": "thấu hiểu, thấy hợp lý" },
+          { "w": "心理学", "r": "しんりがく", "hv": "TÂM LÝ HỌC", "vi": "tâm lý học" },
+          { "w": "性質", "r": "せいしつ", "hv": "TÍNH CHẤT", "vi": "tính chất, bản tính" }
+        ],
+        "grammar": {
+          "pattern": "～のだろう",
+          "meaning": "có lẽ là ~ (suy đoán có căn cứ, kết luận)",
+          "form": "普通形 + のだろう",
+          "example": "電気が消えている。もう寝たのだろう。"
+        },
+        "evidence": "回転ずしでたくさん食べてしまうのには、納得の理由があったのだ。回転ずしの店に行ったとき、食べ過ぎてしまうのは（54）。",
+        "tip": "Ô cuối bài = kết luận, phải nhất quán với lập luận chính (cơ chế tự nhiên → khó tránh)."
+      }
+    }
+  ]
+}

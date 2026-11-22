@@ -1,0 +1,165 @@
+{
+  "exam": "2025-12",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn câu dùng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "休憩",
+      "options": [
+        "仕事の途中だったが、少し疲れたので<u>休憩</u>を取った。",
+        "今週は日曜日に仕事がありますが、月曜日は<u>休憩</u>です。",
+        "夏の<u>休憩</u>を使って、家族と海外旅行に行きました。",
+        "手術のため、病院で1週間、<u>休憩</u>をすることになった。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Đang giữa giờ làm việc nhưng hơi mệt nên tôi đã nghỉ giải lao một chút.",
+        "why": "休憩 (きゅうけい: HƯU KHẾ) = nghỉ ngơi ngắn giữa chừng một hoạt động (nghỉ giải lao). Câu 1 \"仕事の途中…休憩を取った\" đúng nghĩa.",
+        "options": [
+          "Nghỉ ngắn giữa giờ làm. ĐÚNG.",
+          "Ngày nghỉ làm cả ngày → 休み／休日. Sai.",
+          "Kỳ nghỉ hè → 夏休み／夏季休暇. Sai.",
+          "Nằm viện tĩnh dưỡng sau phẫu thuật → 入院／安静／療養. Sai."
+        ],
+        "vocab": [
+          { "w": "休憩", "r": "きゅうけい", "hv": "HƯU KHẾ", "vi": "nghỉ giải lao" },
+          { "w": "休暇", "r": "きゅうか", "hv": "HƯU HẠ", "vi": "kỳ nghỉ (phép)" },
+          { "w": "途中", "r": "とちゅう", "hv": "ĐỒ TRUNG", "vi": "giữa chừng" },
+          { "w": "手術", "r": "しゅじゅつ", "hv": "THỦ THUẬT", "vi": "phẫu thuật" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "休憩 = nghỉ vài phút–vài chục phút rồi làm tiếp (休憩時間, 休憩室). Nghỉ cả ngày/kỳ dài → 休み・休暇."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "進める",
+      "options": [
+        "一度試合に勝って自信を<u>進めれば</u>、チームの成績は必ずよくなるだろう。",
+        "朝にトレーニングを行うことで、運動の効果を<u>進める</u>ことができるそうです。",
+        "市では現在、防災対策として、道路整備の検討を<u>進めて</u>います。",
+        "ユーキさんが仕事で同じ失敗を繰り返すのは、その失敗の反省を<u>進めて</u>いないからだ。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hiện nay thành phố đang xúc tiến việc xem xét chỉnh trang đường sá như một biện pháp phòng chống thiên tai.",
+        "why": "進める (すすめる: TIẾN) = xúc tiến, đẩy mạnh tiến độ (công việc, kế hoạch, thảo luận). 検討を進める = tiến hành xem xét là cách nói tự nhiên.",
+        "options": [
+          "Tăng sự tự tin → 自信をつける／自信を深める. Sai.",
+          "Tăng hiệu quả → 効果を高める. Sai.",
+          "検討を進める: xúc tiến việc xem xét. ĐÚNG.",
+          "Phản tỉnh, rút kinh nghiệm → 反省をする／反省を生かす. Sai."
+        ],
+        "vocab": [
+          { "w": "進める", "r": "すすめる", "hv": "TIẾN", "vi": "xúc tiến, đẩy mạnh" },
+          { "w": "防災", "r": "ぼうさい", "hv": "PHÒNG TAI", "vi": "phòng chống thiên tai" },
+          { "w": "整備", "r": "せいび", "hv": "CHỈNH BỊ", "vi": "chỉnh trang, bảo dưỡng" },
+          { "w": "反省", "r": "はんせい", "hv": "PHẢN TỈNH", "vi": "tự kiểm điểm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Collocation: 計画／話／作業／検討 を進める. Còn 自信 → つける, 効果 → 高める."
+      }
+    },
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "貢献",
+      "options": [
+        "高校時代の先生の一言が、私の人生に大きく<u>貢献</u>した。",
+        "この薬は、痛みを抑えるのに大きく<u>貢献</u>するのでよく売れるらしい。",
+        "鈴木氏が長い間行ってきた活動は、地域の安全に大きく<u>貢献</u>した。",
+        "海外での経験が就職に大きく<u>貢献</u>し、希望の会社に入社できた。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hoạt động mà ông Suzuki thực hiện suốt thời gian dài đã đóng góp lớn cho sự an toàn của địa phương.",
+        "why": "貢献 (こうけん: CỐNG HIẾN) = đóng góp, cống hiến cho xã hội, tập thể, lợi ích chung (社会・地域・会社・発展に貢献する). Câu 3 đúng.",
+        "options": [
+          "Ảnh hưởng đến cuộc đời một cá nhân → 影響を与えた. Sai.",
+          "Thuốc có tác dụng giảm đau → 効く／効果がある. Sai.",
+          "Đóng góp cho an toàn của địa phương. ĐÚNG.",
+          "Kinh nghiệm có ích cho việc xin việc của bản thân → 役に立つ／有利に働く. Sai."
+        ],
+        "vocab": [
+          { "w": "貢献", "r": "こうけん", "hv": "CỐNG HIẾN", "vi": "đóng góp, cống hiến" },
+          { "w": "地域", "r": "ちいき", "hv": "ĐỊA VỰC", "vi": "khu vực, địa phương" },
+          { "w": "抑える", "r": "おさえる", "hv": "ỨC", "vi": "kìm nén, làm dịu" },
+          { "w": "就職", "r": "しゅうしょく", "hv": "TỰU CHỨC", "vi": "xin được việc làm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "貢献 dùng khi đối tượng là cộng đồng/tổ chức/sự phát triển, không dùng cho lợi ích riêng của mình."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "早急",
+      "options": [
+        "原さんは素質があるので、<u>早急</u>に強くなって、試合にも勝てるだろう。",
+        "薬がよく効いたようで、痛みは<u>早急</u>に治まった。",
+        "二つの液体を混ぜると、<u>早急</u>に反応して気体が発生する。",
+        "この問題については<u>早急</u>に対策を検討する必要がある。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Về vấn đề này cần khẩn trương xem xét biện pháp đối phó.",
+        "why": "早急 (さっきゅう／そうきゅう: TẢO CẤP) = khẩn cấp, gấp rút; dùng khi con người cần nhanh chóng xử lý một việc (早急に対応する／対策を立てる). Câu 4 đúng.",
+        "options": [
+          "Tiến bộ nhanh → すぐに／急速に強くなる. Sai.",
+          "Cơn đau dịu nhanh → すぐに治まった. Sai.",
+          "Phản ứng hóa học xảy ra nhanh → すぐに／急激に反応する. Sai.",
+          "Khẩn trương xem xét biện pháp. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "早急", "r": "さっきゅう", "hv": "TẢO CẤP", "vi": "khẩn cấp, gấp rút" },
+          { "w": "対策", "r": "たいさく", "hv": "ĐỐI SÁCH", "vi": "biện pháp đối phó" },
+          { "w": "素質", "r": "そしつ", "hv": "TỐ CHẤT", "vi": "tố chất, năng khiếu" },
+          { "w": "治まる", "r": "おさまる", "hv": "TRỊ", "vi": "dịu đi, hết (đau)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "早急 hàm ý \"cần phải làm gấp\" (ý chí con người), không dùng cho hiện tượng tự nhiên diễn ra nhanh."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "区切り",
+      "options": [
+        "雨が降っている間、<u>区切り</u>がついていた試合が、やっと再開された。",
+        "この仕事は今日中には終わりそうもないので、<u>区切り</u>をつけて帰ります。",
+        "今が成功か失敗かの<u>区切り</u>なので、諦めずに頑張りましょう。",
+        "次のバスまで<u>区切り</u>が2時間あるので、食事をしながら待つことにした。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Công việc này có vẻ không xong trong hôm nay nên tôi sẽ làm đến một điểm dừng rồi về.",
+        "why": "区切り (くぎり: KHU THIẾT) = điểm ngắt, chỗ tạm dừng hợp lý. 区切りをつける = làm đến một đoạn rồi dừng lại. Câu 2 đúng.",
+        "options": [
+          "Trận đấu bị tạm dừng vì mưa → 中断していた. Sai.",
+          "区切りをつけて帰る: làm tới điểm dừng rồi về. ĐÚNG.",
+          "Thời điểm quyết định thành bại → 分かれ目／瀬戸際. Sai.",
+          "Khoảng thời gian chờ 2 tiếng → 時間が2時間ある／間が空く. Sai."
+        ],
+        "vocab": [
+          { "w": "区切り", "r": "くぎり", "hv": "KHU THIẾT", "vi": "điểm ngắt, chỗ dừng" },
+          { "w": "中断", "r": "ちゅうだん", "hv": "TRUNG ĐOẠN", "vi": "gián đoạn" },
+          { "w": "再開", "r": "さいかい", "hv": "TÁI KHAI", "vi": "mở lại, tiếp tục lại" },
+          { "w": "分かれ目", "r": "わかれめ", "hv": "PHÂN MỤC", "vi": "bước ngoặt, ranh giới" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm hay gặp: 区切りがつく／区切りをつける／一区切り (ひとくぎり)."
+      }
+    }
+  ]
+}

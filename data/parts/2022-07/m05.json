@@ -1,0 +1,132 @@
+{
+  "exam": "2022-07",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "<u>衝突しそう</u>になってしまった。",
+      "options": ["ぶつかりそう", "落ちそう", "壊しそう", "破りそう"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Suýt nữa thì đã va chạm.",
+        "why": "衝突する (しょうとつ) = va chạm, đâm vào nhau = ぶつかる.",
+        "options": [
+          "ぶつかりそう → ぶつかる: va, đụng. ĐÚNG.",
+          "落ちそう → 落ちる: rơi. Sai.",
+          "壊しそう → 壊す: làm hỏng. Sai.",
+          "破りそう → 破る: xé rách; phá (luật, lời hứa). Sai."
+        ],
+        "vocab": [
+          { "w": "衝突", "r": "しょうとつ", "hv": "XUNG ĐỘT", "vi": "va chạm, xung đột" },
+          { "w": "ぶつかる", "r": "ぶつかる", "hv": "", "vi": "va, đụng phải" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "衝突 vừa là va chạm vật lý (車が衝突する), vừa là xung đột ý kiến (意見が衝突する) — cả hai đều = ぶつかる."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "彼には<u>再三</u>お願いしているのですが。",
+      "options": ["たまに", "何度か", "何度も", "いつも"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi đã nhờ anh ấy nhiều lần rồi, vậy mà…",
+        "why": "再三 (さいさん) = hết lần này đến lần khác, nhiều lần = 何度も.",
+        "options": [
+          "たまに → thỉnh thoảng. Sai.",
+          "何度か → vài lần (số lần ít). Sai.",
+          "何度も → nhiều lần. ĐÚNG.",
+          "いつも → lúc nào cũng. Sai."
+        ],
+        "vocab": [
+          { "w": "再三", "r": "さいさん", "hv": "TÁI TAM", "vi": "nhiều lần, hết lần này đến lần khác" },
+          { "w": "再三再四", "r": "さいさんさいし", "hv": "TÁI TAM TÁI TỨ", "vi": "nhiều lần lặp đi lặp lại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Phân biệt 何度か (vài lần) và 何度も (nhiều lần) — đây là bẫy chính."
+      }
+    },
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "彼が言っていることは<u>でたらめだ</u>。",
+      "options": ["悪口", "わがまま", "うそ", "自慢"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Những gì anh ta nói là bịa đặt (nói bừa).",
+        "why": "でたらめ = nói bừa, bịa đặt, không có căn cứ ≈ うそ (lời nói dối).",
+        "options": [
+          "悪口 (わるくち) → nói xấu. Sai.",
+          "わがまま → ích kỷ, bướng bỉnh. Sai.",
+          "うそ → lời nói dối, điều không đúng sự thật. ĐÚNG.",
+          "自慢 (じまん) → khoe khoang. Sai."
+        ],
+        "vocab": [
+          { "w": "でたらめ", "r": "でたらめ", "hv": "", "vi": "bịa đặt, nói bừa, vô căn cứ" },
+          { "w": "悪口", "r": "わるくち", "hv": "ÁC KHẨU", "vi": "lời nói xấu" },
+          { "w": "自慢", "r": "じまん", "hv": "TỰ MẠN", "vi": "khoe khoang, tự hào" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "でたらめな話 / でたらめを言う = nói chuyện vô căn cứ."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "すみません、お<u>勘定</u>をお願いします。",
+      "options": ["注文", "会計", "予約", "配達"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Xin lỗi, cho tôi tính tiền.",
+        "why": "勘定 (かんじょう) = tính tiền, thanh toán (ở nhà hàng) = 会計 (かいけい).",
+        "options": [
+          "注文 (ちゅうもん) → gọi món, đặt hàng. Sai.",
+          "会計 (かいけい) → thanh toán, tính tiền. ĐÚNG.",
+          "予約 (よやく) → đặt chỗ trước. Sai.",
+          "配達 (はいたつ) → giao hàng. Sai."
+        ],
+        "vocab": [
+          { "w": "勘定", "r": "かんじょう", "hv": "KHÁM ĐỊNH", "vi": "tính tiền, thanh toán" },
+          { "w": "会計", "r": "かいけい", "hv": "HỘI KẾ", "vi": "thanh toán; kế toán" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Ở nhà hàng: お勘定お願いします = お会計お願いします = Tính tiền giúp tôi."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "今日は、犬がいつもより<u>さわがしい</u>。",
+      "options": ["悲しい", "静かに", "楽しい", "うるさい"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hôm nay con chó ồn ào hơn mọi khi.",
+        "why": "さわがしい (騒がしい) = ồn ào, náo động = うるさい.",
+        "options": [
+          "悲しい → buồn. Sai.",
+          "静かに → yên lặng — trái nghĩa. Sai.",
+          "楽しい → vui. Sai.",
+          "うるさい → ồn ào. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "騒がしい", "r": "さわがしい", "hv": "TAO", "vi": "ồn ào, náo động" },
+          { "w": "騒ぐ", "r": "さわぐ", "hv": "TAO", "vi": "làm ồn, ầm ĩ" },
+          { "w": "騒音", "r": "そうおん", "hv": "TAO ÂM", "vi": "tiếng ồn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "騒 = ồn: 騒ぐ, 騒がしい, 騒音, 大騒ぎ (おおさわぎ)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "exam": "2014-07",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn sau và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "以下は、目標に向かう姿勢について、ある将棋のプロが書いた文章である。\n\n勝った将棋と負けた将棋。どちらがより忘れられないかと問われれば——どちらもあまり覚えていない。勝った喜び、負けた悔しさともに体内に残らない。必要でないと感じられることはどんどん忘れていってしまう性質なのだ。\nもちろん、何年の誰との将棋について語らなければならないということがあれば、記憶の糸口（注1）さえ見つかれば、いつか対戦したそのとき手順（注2）をスラスラと思い出すことができる。\nしかし、通常はそんなことはしない。それを思い返したところで、先へとつながるものだとは思えないからだ。\n必要なのは、前に進んでいくこと、そのための歩みを刻んで（注3）いくことだ。\nこれからの道のりも長い。それを進んでいくために必要とされるのは、マラソン選手のような意識とでもいうのだろうか。一気にダッシュするのではなく、瞬間的に最高スピードを出そうとするのでもなく、正確にラップを刻んでいくことだ。1キロを4分で走るとしたら、次の1キロも、そのまた次の1キロも……と、同じようにラップを刻む（注4）こと。それを意識的に続けていくことだ。\nそれには、<u>「長い距離をずっと走り続けねばならない」と考えるのではなく</u>、すぐそこの、あの角までを目標に、そこまではとりあえず走ってみようといった小さな目標を定めながら走るのがいいと思う。\nゴールまであと200キロあると言われたら、たいていの人はイヤになる。走るのをやめてしまうだろう。しかし、あと1キロだけ、あと1キロ走れば……と思えば続けられる。この1キロ、今度の1キロ……と繰り返すうちに気がついたら200キロになっていることもあるだろう。そうなっていることを目指したい。\n歩けない距離は走れない、という話を聞いたこともある。なるほど、たしかにそうだと思った。歩けるかどうかは、スピードとか記録とかの前にベース（注5）となる最低限の保証だ。まずはその距離を歩いてみる。そこで無理だと思うなら、走るなど到底できないことだ。他の誰かが隣を駆け抜けていったとしても、自分には無理なことなのだ。だから、まずは歩いてみる。そして、歩けそうならば走ってみる。急ぐ必要はない。同じペースでラップを刻みながら行けばいい。それは、無理をしないことだ。自然にできることを続けていくという健全さ（注6）なのだ。\n（羽生善治『直感力』による）\n（注1）糸口：きっかけ\n（注2）手順：ここでは、試合の進み方\n（注3）歩みを刻む：ここでは、一歩を確実に進める\n（注4）ラップを刻む：ここでは、一定の距離を同じスピードで走る\n（注5）ベース：土台\n（注6）健全さ：ここでは、当たり前で、いいこと"
+    }
+  ],
+  "questions": [
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "過去の対戦に対して、筆者はどのような態度をとっているか。",
+      "options": ["思い返して次につなげる。", "負けた対戦は思い返さない。", "役に立つ対戦だけを思い返す。", "必要がなければ思い返さない。"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả có thái độ thế nào đối với các trận đấu trong quá khứ? → Nếu không cần thiết thì không nhớ lại.",
+        "why": "Tác giả không nhớ nhiều cả trận thắng lẫn trận thua; nếu cần kể về một trận thì có thể nhớ lại trôi chảy, nhưng 'bình thường thì không làm vậy' vì nhớ lại cũng không giúp tiến lên. → Chỉ nhớ lại khi cần.",
+        "options": [
+          "Nhớ lại để kết nối với trận sau — ngược lại, tác giả nói nhớ lại cũng không dẫn tới tương lai. Sai.",
+          "Không nhớ lại trận thua — tác giả không phân biệt thắng/thua, cả hai đều không nhớ. Sai.",
+          "Chỉ nhớ lại trận có ích — tác giả nói nhớ lại không có ích cho tương lai; chỉ nhớ khi buộc phải kể. Sai.",
+          "Không nhớ lại nếu không cần. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "将棋", "r": "しょうぎ", "hv": "TƯƠNG KỲ", "vi": "cờ shogi" },
+          { "w": "対戦", "r": "たいせん", "hv": "ĐỐI CHIẾN", "vi": "trận đấu, thi đấu" },
+          { "w": "思い返す", "r": "おもいかえす", "hv": "TƯ PHẢN", "vi": "nhớ lại, nghĩ lại" },
+          { "w": "糸口", "r": "いとぐち", "hv": "MỊCH KHẨU", "vi": "đầu mối, manh mối" }
+        ],
+        "grammar": {
+          "pattern": "～たところで",
+          "meaning": "dù có ~ thì cũng (vô ích)",
+          "form": "Vた + ところで",
+          "example": "今から急いだところで、間に合わないだろう。"
+        },
+        "evidence": "もちろん、何年の誰との将棋について語らなければならないということがあれば…スラスラと思い出すことができる。しかし、通常はそんなことはしない。それを思い返したところで、先へとつながるものだとは思えないからだ。",
+        "tip": null
+      }
+    },
+    {
+      "num": 72,
+      "passage": "p1",
+      "stem": "<u>「長い距離をずっと走り続けねばならない」と考えるのではなく</u>とあるが、その理由は何か。",
+      "options": ["走ることが楽しく感じられるから。", "ゴールまで走り続けやすくなるから。", "走っているときの不安がなくなるから。", "同じペースで走り続けることができるから。"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tác giả nói 'đừng nghĩ rằng phải chạy suốt một quãng dài', lý do là gì? → Vì sẽ dễ chạy liên tục đến đích hơn.",
+        "why": "Đoạn sau giải thích: nghe còn 200km thì hầu hết sẽ chán và bỏ chạy; nhưng nghĩ 'chỉ 1km nữa thôi' thì tiếp tục được, lặp lại thì có khi đã thành 200km. → Đặt mục tiêu nhỏ giúp chạy liên tục tới đích.",
+        "options": [
+          "Vì thấy chạy vui — bài không nói. Sai.",
+          "Vì dễ chạy liên tục đến đích. ĐÚNG.",
+          "Vì hết lo lắng khi chạy — bài không nói đến 'lo lắng'. Sai.",
+          "Vì giữ được cùng một tốc độ — giữ tốc độ đều là mục tiêu chung (ラップを刻む), còn lý do của việc đặt mục tiêu nhỏ là để không bỏ cuộc giữa chừng. Sai."
+        ],
+        "vocab": [
+          { "w": "距離", "r": "きょり", "hv": "CỰ LY", "vi": "khoảng cách, quãng đường" },
+          { "w": "とりあえず", "r": "とりあえず", "hv": "", "vi": "trước mắt, tạm thời" },
+          { "w": "目標を定める", "r": "もくひょうをさだめる", "hv": "MỤC TIÊU ĐỊNH", "vi": "đặt mục tiêu" }
+        ],
+        "grammar": {
+          "pattern": "～ねばならない",
+          "meaning": "phải ~ (văn viết của ～なければならない)",
+          "form": "Vない(bỏ ない) + ねばならない（する → せねばならない）",
+          "example": "約束は守らねばならない。"
+        },
+        "evidence": "ゴールまであと200キロあると言われたら、たいていの人はイヤになる。走るのをやめてしまうだろう。しかし、あと1キロだけ、あと1キロ走れば……と思えば続けられる。",
+        "tip": "Đáp án 4 là bẫy: đúng với bài nhưng không phải lý do cho phần gạch chân."
+      }
+    },
+    {
+      "num": 73,
+      "passage": "p1",
+      "stem": "この文章で筆者が最も言いたいことは何か。",
+      "options": ["できる範囲のことを続け、前に進んでいくことが大切だ。", "できないことでも、必死に頑張ればいつか達成できる。", "目標は小さくても、それを見つけることで前進できる。", "目標を立てる前に、自身の能力を知ることが重要だ。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều tác giả muốn nói nhất là gì? → Điều quan trọng là tiếp tục làm những việc trong khả năng và tiến về phía trước.",
+        "why": "Xuyên suốt bài: điều cần thiết là 'tiến về phía trước', giữ nhịp đều, không vội, không quá sức; kết bài: 'không làm quá sức, tiếp tục những gì có thể làm một cách tự nhiên'.",
+        "options": [
+          "Tiếp tục làm việc trong khả năng và tiến lên. ĐÚNG.",
+          "Việc không làm được, cố hết sức thì cũng đạt được — trái với '無理をしない' và 'nếu đi bộ không nổi thì không thể chạy'. Sai.",
+          "Tìm mục tiêu nhỏ để tiến lên — mục tiêu nhỏ chỉ là phương pháp một đoạn, chưa bao quát ý chính. Sai.",
+          "Biết năng lực bản thân trước khi lập mục tiêu — chỉ là ý phụ đoạn 'đi bộ trước'. Sai."
+        ],
+        "vocab": [
+          { "w": "歩み", "r": "あゆみ", "hv": "BỘ", "vi": "bước đi" },
+          { "w": "到底", "r": "とうてい", "hv": "ĐÁO ĐỂ", "vi": "(+ phủ định) không thể nào" },
+          { "w": "健全", "r": "けんぜん", "hv": "KIỆN TOÀN", "vi": "lành mạnh" },
+          { "w": "無理をする", "r": "むりをする", "hv": "VÔ LÝ", "vi": "làm quá sức" }
+        ],
+        "grammar": null,
+        "evidence": "必要なのは、前に進んでいくこと、そのための歩みを刻んでいくことだ。…それは、無理をしないことだ。自然にできることを続けていくという健全さなのだ。",
+        "tip": "Ý chính phải bao quát cả bài; các lựa chọn chỉ đúng một đoạn (3, 4) là bẫy."
+      }
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "exam": "2016-12",
+  "mondai": 7,
+  "section": "grammar",
+  "instruction": "次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn phương án đúng nhất để điền vào chỗ trống trong câu.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 33,
+      "passage": null,
+      "stem": "卒業論文がなかなか書けなくて、一時は（　　）かけたが、何とか今日無事に提出することができた。",
+      "options": ["あきらめ", "あきらめて", "あきらめる", "あきらめた"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Luận văn tốt nghiệp mãi không viết được, có lúc tôi đã suýt bỏ cuộc, nhưng bằng cách nào đó hôm nay đã nộp được suôn sẻ.",
+        "why": "〜かける gắn vào thể ます bỏ ます: あきらめ＋かける = suýt/đang định bỏ cuộc (nhưng chưa bỏ hẳn). Chỉ dạng あきらめ (ます形 bỏ ます) nối được.",
+        "options": [
+          "あきらめ → V(bỏ ます)+かけた: suýt bỏ cuộc. ĐÚNG.",
+          "あきらめて → thể て không đi với かける. Sai.",
+          "あきらめる → thể từ điển không nối với かける. Sai.",
+          "あきらめた → thể た không nối với かける. Sai."
+        ],
+        "vocab": [
+          { "w": "卒業論文", "r": "そつぎょうろんぶん", "hv": "TỐT NGHIỆP LUẬN VĂN", "vi": "luận văn tốt nghiệp" },
+          { "w": "一時", "r": "いちじ", "hv": "NHẤT THỜI", "vi": "có lúc, một thời gian" },
+          { "w": "提出", "r": "ていしゅつ", "hv": "ĐỀ XUẤT", "vi": "nộp" }
+        ],
+        "grammar": {
+          "pattern": "〜かける",
+          "meaning": "đang dở ~, suýt ~ (bắt đầu nhưng chưa xong)",
+          "form": "V(ます形 bỏ ます) + かける / かけの + N",
+          "example": "読みかけの本 / 彼は何か言いかけて、やめた。"
+        },
+        "evidence": null,
+        "tip": "一時は〜かけたが、… = có lúc đã suýt ~ nhưng (rốt cuộc không)."
+      }
+    },
+    {
+      "num": 34,
+      "passage": null,
+      "stem": "子どものころ、母（　　）作ったハンバーグが大好きで、よく作ってもらった。",
+      "options": ["の", "との", "によって", "にとって"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hồi nhỏ tôi rất thích món hamburger mẹ làm, và hay được mẹ làm cho ăn.",
+        "why": "Trong mệnh đề bổ nghĩa cho danh từ, chủ ngữ が có thể đổi thành の: 母が作ったハンバーグ = 母の作ったハンバーグ.",
+        "options": [
+          "の → の thay が trong mệnh đề định ngữ: 母の作った〜. ĐÚNG.",
+          "との → \"cùng với mẹ\" + 作った: không tự nhiên (phải là 母と作った). Sai.",
+          "によって → dùng cho bị động/văn trang trọng (母によって作られた); với chủ động 作った thì không hợp, lại quá cứng. Sai.",
+          "にとって → \"đối với mẹ\", không đi với động từ hành động 作った. Sai."
+        ],
+        "vocab": [
+          { "w": "子どものころ", "r": "こどものころ", "hv": "", "vi": "hồi nhỏ" },
+          { "w": "大好き", "r": "だいすき", "hv": "ĐẠI HẢO", "vi": "rất thích" }
+        ],
+        "grammar": {
+          "pattern": "N の V(普通形) + N（が→の）",
+          "meaning": "の thay cho が làm chủ ngữ trong mệnh đề định ngữ",
+          "form": "N1 の + V + N2 (= N1 が + V + N2)",
+          "example": "友達の書いた手紙 / 背の高い人"
+        },
+        "evidence": null,
+        "tip": "Gặp cấu trúc \"N（　）V-た N\" → nghĩ ngay đến の = が."
+      }
+    },
+    {
+      "num": 35,
+      "passage": null,
+      "stem": "多様な情報があふれる現代社会（　　）、大切なのは、膨大な情報の中から、自分に必要な情報を選ぶ力である。",
+      "options": ["に加えて", "において", "を基にして", "を込めて"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Trong xã hội hiện đại tràn ngập đủ loại thông tin, điều quan trọng là khả năng chọn ra thông tin cần thiết cho bản thân từ lượng thông tin khổng lồ.",
+        "why": "〜において = tại, trong (bối cảnh/lĩnh vực/thời đại ~), dạng trang trọng của で. 現代社会において = trong xã hội hiện đại.",
+        "options": [
+          "に加えて → thêm vào ~, ngoài ~ ra. Sai nghĩa.",
+          "において → tại/trong ~. ĐÚNG.",
+          "を基にして → dựa trên ~ (làm cơ sở). Sai.",
+          "を込めて → gửi gắm (tình cảm) vào ~. Sai."
+        ],
+        "vocab": [
+          { "w": "多様", "r": "たよう", "hv": "ĐA DẠNG", "vi": "đa dạng" },
+          { "w": "膨大", "r": "ぼうだい", "hv": "BÀNH ĐẠI", "vi": "khổng lồ, đồ sộ" },
+          { "w": "あふれる", "r": "あふれる", "hv": "", "vi": "tràn ngập" }
+        ],
+        "grammar": {
+          "pattern": "〜において",
+          "meaning": "tại, trong (địa điểm, thời đại, lĩnh vực) — văn viết",
+          "form": "N + において / における + N",
+          "example": "会議は第一会議室において行われる。"
+        },
+        "evidence": null,
+        "tip": "において ≈ で (trang trọng); における + N."
+      }
+    },
+    {
+      "num": 36,
+      "passage": null,
+      "stem": "作文が得意な友達に「どうやったらうまくなれるの？」と聞いたら、「たくさん書けば（　　）うまくなるよ。」と言われた。",
+      "options": ["必ずしも", "たとえ", "そのうち", "さっき"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Khi tôi hỏi người bạn giỏi viết văn \"Làm sao để viết giỏi?\", bạn ấy nói \"Viết nhiều thì rồi sẽ giỏi lên thôi.\"",
+        "why": "そのうち = chẳng bao lâu nữa, rồi sẽ ~ (tương lai gần, không xác định). Đi với うまくなる (thay đổi trong tương lai) là tự nhiên.",
+        "options": [
+          "必ずしも → đi với phủ định (必ずしも〜ない: không hẳn). Sai.",
+          "たとえ → đi với 〜ても (たとえ〜ても: cho dù). Sai.",
+          "そのうち → rồi sẽ, chẳng bao lâu. ĐÚNG.",
+          "さっき → lúc nãy (quá khứ), mâu thuẫn với tương lai. Sai."
+        ],
+        "vocab": [
+          { "w": "そのうち", "r": "そのうち", "hv": "", "vi": "chẳng mấy chốc, rồi sẽ" },
+          { "w": "得意", "r": "とくい", "hv": "ĐẮC Ý", "vi": "giỏi, sở trường" },
+          { "w": "作文", "r": "さくぶん", "hv": "TÁC VĂN", "vi": "bài văn" }
+        ],
+        "grammar": {
+          "pattern": "そのうち",
+          "meaning": "chẳng bao lâu nữa, rồi sẽ (tương lai gần)",
+          "form": "そのうち + V(tương lai)",
+          "example": "そのうち慣れるよ。"
+        },
+        "evidence": null,
+        "tip": "Phó từ hô ứng: 必ずしも…ない / たとえ…ても / まるで…ようだ."
+      }
+    },
+    {
+      "num": 37,
+      "passage": null,
+      "stem": "看護師の仕事は夜勤もあって大変だが、自分でこの仕事を選んだ（　　）、がんばって続けたいと思う。",
+      "options": ["以上", "とたん", "あげくに", "かのように"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Công việc y tá có cả ca đêm nên vất vả, nhưng một khi đã tự mình chọn nghề này thì tôi muốn cố gắng tiếp tục.",
+        "why": "〜以上(は) = một khi đã ~ thì đương nhiên phải ~ (vế sau là quyết tâm/nghĩa vụ). 選んだ以上、続けたい: hợp nghĩa.",
+        "options": [
+          "以上 → một khi đã ~ thì. ĐÚNG.",
+          "とたん → vừa ~ thì ngay lập tức (sự việc bất ngờ). Sai.",
+          "あげくに → sau rất nhiều ~ cuối cùng (kết quả xấu). Sai.",
+          "かのように → như thể là ~. Sai."
+        ],
+        "vocab": [
+          { "w": "看護師", "r": "かんごし", "hv": "KHÁN HỘ SƯ", "vi": "y tá, điều dưỡng" },
+          { "w": "夜勤", "r": "やきん", "hv": "DẠ CẦN", "vi": "ca đêm" }
+        ],
+        "grammar": {
+          "pattern": "〜以上（は）",
+          "meaning": "một khi đã ~ thì (phải/nên/muốn) ~",
+          "form": "V普通形 + 以上（は）",
+          "example": "約束した以上、守らなければならない。"
+        },
+        "evidence": null,
+        "tip": "以上 ≈ からには ≈ 上は: vế sau là quyết tâm, nghĩa vụ."
+      }
+    },
+    {
+      "num": 38,
+      "passage": null,
+      "stem": "（内線電話で）\n山田「はい、山田です。」\n木村「受付の木村ですが、X社の中川様が（　　）。」\n山田「わかりました。すぐ行きます。」",
+      "options": ["伺いました", "お目にかかりました", "ございました", "お越しになりました"],
+      "answer": 4,
+      "explanation": {
+        "translation": "(Điện thoại nội bộ) Yamada: \"Vâng, Yamada đây.\" Kimura: \"Tôi là Kimura ở quầy lễ tân, ông Nakagawa của công ty X đã đến ạ.\" Yamada: \"Tôi biết rồi. Tôi đến ngay.\"",
+        "why": "Chủ ngữ là khách (中川様) → phải dùng tôn kính ngữ cho hành động \"đến\": お越しになる (= 来る tôn kính).",
+        "options": [
+          "伺いました → khiêm nhường ngữ của 行く/来る/聞く, dùng cho mình, không dùng cho khách. Sai.",
+          "お目にかかりました → khiêm nhường của 会う (tôi gặp). Sai.",
+          "ございました → lịch sự của ある, không chỉ hành động \"đến\". Sai.",
+          "お越しになりました → tôn kính của 来る. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "内線", "r": "ないせん", "hv": "NỘI TUYẾN", "vi": "điện thoại nội bộ" },
+          { "w": "受付", "r": "うけつけ", "hv": "THỤ PHÓ", "vi": "quầy lễ tân" },
+          { "w": "お越しになる", "r": "おこしになる", "hv": "VIỆT", "vi": "đến, đi (tôn kính)" }
+        ],
+        "grammar": {
+          "pattern": "お越しになる（尊敬語）",
+          "meaning": "tôn kính ngữ của 来る/行く",
+          "form": "来る → いらっしゃる / お見えになる / お越しになる",
+          "example": "明日は何時ごろお越しになりますか。"
+        },
+        "evidence": null,
+        "tip": "Hành động của khách → 尊敬語; của mình/người nhà mình → 謙譲語 (伺う, お目にかかる)."
+      }
+    },
+    {
+      "num": 39,
+      "passage": null,
+      "stem": "人は一生のうちどのくらい寝ているのでしょうか。仮に一日8時間寝て、80歳まで生きる（　　）。すると、睡眠時間は約233,600時間で、約27年寝ている計算になります。",
+      "options": ["となりました", "とします", "とされていました", "と見られます"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Con người ngủ bao nhiêu trong cả đời? Giả sử mỗi ngày ngủ 8 tiếng và sống đến 80 tuổi. Khi đó, thời gian ngủ khoảng 233.600 giờ, tính ra là ngủ khoảng 27 năm.",
+        "why": "仮に〜とする = giả sử là ~. 仮に (giả sử) là tín hiệu, và câu sau すると…計算になります là phép tính dựa trên giả định.",
+        "options": [
+          "となりました → \"đã trở thành\", không phải giả định. Sai.",
+          "とします → 仮に〜とします: giả sử. ĐÚNG.",
+          "とされていました → \"đã được cho là\" (quan niệm xã hội). Sai.",
+          "と見られます → \"được dự đoán là\", không hợp với 仮に. Sai."
+        ],
+        "vocab": [
+          { "w": "仮に", "r": "かりに", "hv": "GIẢ", "vi": "giả sử, tạm cho là" },
+          { "w": "一生", "r": "いっしょう", "hv": "NHẤT SINH", "vi": "cả đời" },
+          { "w": "睡眠", "r": "すいみん", "hv": "THỤY MIÊN", "vi": "giấc ngủ" },
+          { "w": "計算", "r": "けいさん", "hv": "KẾ TOÁN", "vi": "tính toán" }
+        ],
+        "grammar": {
+          "pattern": "（仮に）〜とする",
+          "meaning": "giả sử là ~, coi như ~",
+          "form": "普通形 + とする / としたら / とすれば",
+          "example": "仮に1億円当たったとします。何に使いますか。"
+        },
+        "evidence": null,
+        "tip": "Thấy 仮に / もし ở đầu câu → tìm とする・としたら・とすれば."
+      }
+    },
+    {
+      "num": 40,
+      "passage": null,
+      "stem": "夢を語る（　　）誰でもできるが、実現させるのは簡単なことではない。",
+      "options": ["だけでは", "だけなら", "ためしか", "ためには"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Nếu chỉ nói về ước mơ thôi thì ai cũng làm được, nhưng biến nó thành hiện thực thì không đơn giản.",
+        "why": "〜だけなら = nếu chỉ ~ thôi thì (dễ/được), tạo đối lập với vế sau (thực hiện thì khó). 語るだけなら誰でもできる.",
+        "options": [
+          "だけでは → \"chỉ ~ thì không đủ\", vế sau thường phủ định; mâu thuẫn với 誰でもできる. Sai.",
+          "だけなら → nếu chỉ ~ thì. ĐÚNG.",
+          "ためしか → không có cấu trúc này. Sai.",
+          "ためには → để ~ thì (mục đích), không hợp nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "語る", "r": "かたる", "hv": "NGỮ", "vi": "kể, nói" },
+          { "w": "実現", "r": "じつげん", "hv": "THỰC HIỆN", "vi": "thực hiện, hiện thực hóa" }
+        ],
+        "grammar": {
+          "pattern": "〜だけなら",
+          "meaning": "nếu chỉ ~ thôi thì (dễ, được)",
+          "form": "V辞書形 / N + だけなら",
+          "example": "見るだけならタダです。"
+        },
+        "evidence": null,
+        "tip": "だけなら + khẳng định (できる); だけでは + phủ định (足りない)."
+      }
+    },
+    {
+      "num": 41,
+      "passage": null,
+      "stem": "（説明書で）エアコンを掃除するときは、安全上、必ずコンセントを（　　）してください。",
+      "options": ["抜いたことを", "抜いたことが", "抜いてからに", "抜いてからは"],
+      "answer": 3,
+      "explanation": {
+        "translation": "(Trong sách hướng dẫn) Khi vệ sinh máy điều hòa, vì lý do an toàn, nhất định hãy rút phích cắm ra trước rồi mới làm.",
+        "why": "〜てからにする = hãy làm (việc đó) sau khi ~. 抜いてからにしてください = hãy rút phích cắm rồi mới vệ sinh. Cấu trúc N/〜てから + にする (quyết định/chọn).",
+        "options": [
+          "抜いたことを → 〜たことをしてください: vô nghĩa. Sai.",
+          "抜いたことが → 〜たことがある là kinh nghiệm, không đi với してください. Sai.",
+          "抜いてからに → 〜てからにする: hãy làm sau khi ~. ĐÚNG.",
+          "抜いてからは → 〜てからは = kể từ sau khi ~ (thay đổi lâu dài), không đi với してください. Sai."
+        ],
+        "vocab": [
+          { "w": "コンセント", "r": "コンセント", "hv": "", "vi": "ổ cắm điện" },
+          { "w": "抜く", "r": "ぬく", "hv": "BẠT", "vi": "rút ra" },
+          { "w": "安全上", "r": "あんぜんじょう", "hv": "AN TOÀN THƯỢNG", "vi": "về mặt an toàn" }
+        ],
+        "grammar": {
+          "pattern": "〜てからにする",
+          "meaning": "để sau khi ~ rồi mới làm",
+          "form": "Vて + から + にする",
+          "example": "食事は手を洗ってからにしなさい。"
+        },
+        "evidence": null,
+        "tip": "Nを＋にする = chọn/quyết định N; 〜てから cũng được coi như danh từ ở đây."
+      }
+    },
+    {
+      "num": 42,
+      "passage": null,
+      "stem": "私はスピーチが苦手なのに、今度友達の結婚パーティーでスピーチを（　　）、困っている。",
+      "options": ["しにくくて", "してほしくて", "させてみたくて", "することになってしまって"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi vốn kém phát biểu, vậy mà lần này lại phải phát biểu ở tiệc cưới của bạn, nên đang rất khó xử.",
+        "why": "〜ことになる = được quyết định là ~ (không do mình quyết); 〜てしまう = điều không mong muốn. Kém phát biểu mà lại phải phát biểu → 困っている.",
+        "options": [
+          "しにくくて → khó làm, nhưng chưa nói là phải phát biểu; diễn đạt không tự nhiên. Sai.",
+          "してほしくて → muốn (người khác) làm; mâu thuẫn với 困っている. Sai.",
+          "させてみたくて → muốn thử bắt (ai) làm. Sai.",
+          "することになってしまって → bị quyết định phải làm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "苦手", "r": "にがて", "hv": "KHỔ THỦ", "vi": "kém, không giỏi" },
+          { "w": "困る", "r": "こまる", "hv": "KHỐN", "vi": "khó xử, gặp rắc rối" }
+        ],
+        "grammar": {
+          "pattern": "〜ことになる",
+          "meaning": "được quyết định là ~, rốt cuộc sẽ ~",
+          "form": "V辞書形 / Vない + ことになる",
+          "example": "来月、大阪へ転勤することになりました。"
+        },
+        "evidence": null,
+        "tip": "〜のに (vậy mà) báo hiệu vế sau trái mong muốn → chọn đáp án mang nghĩa bị động/không mong muốn."
+      }
+    },
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "せっかく、夕日がきれいなことで有名なA海岸に来たのに、急に雨が降り出した。どうも夕日は（　　）。",
+      "options": ["見えてもしかたない", "見られないことだった", "見られそうにない", "見えないことがあった"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đã cất công đến bãi biển A nổi tiếng với hoàng hôn đẹp, vậy mà trời đột nhiên đổ mưa. Có vẻ như không thể ngắm được hoàng hôn rồi.",
+        "why": "どうも〜そうだ = có vẻ như ~ (phán đoán). Vそうにない = có vẻ không thể ~. Mưa đột ngột → phán đoán: chắc không ngắm được hoàng hôn.",
+        "options": [
+          "見えてもしかたない → \"thấy cũng vô ích\", vô nghĩa. Sai.",
+          "見られないことだった → diễn đạt sai ngữ pháp/nghĩa. Sai.",
+          "見られそうにない → có vẻ không thể ngắm được. ĐÚNG.",
+          "見えないことがあった → \"đã có lúc không thấy\" (kinh nghiệm quá khứ), không phải phán đoán. Sai."
+        ],
+        "vocab": [
+          { "w": "せっかく", "r": "せっかく", "hv": "", "vi": "cất công, đã mất công" },
+          { "w": "夕日", "r": "ゆうひ", "hv": "TỊCH NHẬT", "vi": "hoàng hôn, mặt trời lặn" },
+          { "w": "海岸", "r": "かいがん", "hv": "HẢI NGẠN", "vi": "bờ biển" }
+        ],
+        "grammar": {
+          "pattern": "Vます + そうにない",
+          "meaning": "có vẻ không thể ~ (phán đoán)",
+          "form": "V(ます形 bỏ ます) + そうにない / そうもない",
+          "example": "この仕事は今日中に終わりそうにない。"
+        },
+        "evidence": null,
+        "tip": "どうも + そうだ/ようだ/らしい: tín hiệu phỏng đoán."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "山川「中村くん、毎日ジョギング（　　）？」\n中村「うん、そうなんだよ。」\n山川「実は、ぼくもなんだよ。走るっていいよね。」",
+      "options": ["しない", "しててもいい", "しちゃえば", "してるんだって"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Yamakawa: \"Nakamura này, nghe nói cậu chạy bộ mỗi ngày à?\" Nakamura: \"Ừ, đúng vậy.\" Yamakawa: \"Thật ra tớ cũng thế. Chạy bộ hay nhỉ.\"",
+        "why": "〜んだって？= nghe nói là ~ phải không? (xác nhận thông tin nghe được). Nakamura đáp うん、そうなんだよ (xác nhận sự thật) → khớp.",
+        "options": [
+          "しない → \"(cậu) có chạy không?/chạy không?\" (rủ rê) — không khớp với そうなんだよ. Sai.",
+          "しててもいい → xin phép \"chạy cũng được chứ?\". Sai.",
+          "しちゃえば → khuyên \"chạy đi cho rồi\". Sai.",
+          "してるんだって → nghe nói cậu đang chạy bộ hả? ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "〜んだって", "r": "んだって", "hv": "", "vi": "nghe nói là ~ (văn nói)" },
+          { "w": "実は", "r": "じつは", "hv": "THỰC", "vi": "thật ra" }
+        ],
+        "grammar": {
+          "pattern": "〜んだって（？）",
+          "meaning": "nghe nói ~ (truyền đạt/xác nhận tin nghe được, văn nói)",
+          "form": "普通形 + んだって",
+          "example": "田中さん、来月結婚するんだって。"
+        },
+        "evidence": null,
+        "tip": "してる = している (rút gọn văn nói). Câu trả lời そうなんだ → câu hỏi xác nhận thông tin."
+      }
+    }
+  ]
+}

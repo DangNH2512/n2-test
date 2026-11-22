@@ -1,0 +1,83 @@
+{
+  "exam": "2026-07",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B, chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "　資格試験のための勉強を習慣にするのは難しいと考えている人が多い。確かに、ただ時間が空いているときに勉強しようと思っていてもうまくいかないことが多い。勉強を習慣にするには、いつ、どこで勉強するのかを決めておくことが効果的だ。さらに言うと、日常的な行為とセットにして行うことにするといい。例えば、夕食後すぐに居間で勉強する、出勤前にカフェで勉強する、などだ。毎回時間や場所を決めなくていいので勉強に取りかかりやすくなる。\n　仕事で疲れているときなど、一時的にやる気が出ないこともある。しかし、勉強が習慣になれば、そんなときも勉強を無理なく進めていくことができる。そして、勉強を続けていることが自信にもなり、よい結果を出せる可能性も高まるだろう。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "　資格試験のための勉強は習慣にするのがよい。勉強はつらくて大変だと感じがちだが、習慣として行えるようになれば、勉強が苦痛だと感じなくなる。また、やる気がわいてこない日が時々あっても、ふだん通り勉強を行うことができる。\n　勉強を習慣にする方法としてお勧めしたいのは、一日の目標を小さくすることだ。毎日5分だけ参考書を読む、毎日1ページだけ問題集をやる、など少しの努力でできることにするのだ。そうすれば、負担を感じずに勉強が始められるので勉強が続けやすくなる。勉強する量が少なくて不安になるかもしれないが、勉強の習慣がついてきたら、時間の長さや取り組む内容を少しずつ変えていけばいい。とにかく毎日勉強することが大切だ。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 65,
+      "passage": "AB",
+      "stem": "勉強を習慣にするための方法について、AとBはどのように述べているか。",
+      "options": [
+        "AもBも、毎日決まった時間に決まった行動をしたほうがいいと述べている。",
+        "AもBも、毎日勉強する量を一定にしたほうがいいと述べている。",
+        "Aはほかの行為とセットで行ったほうがいいと述べ、Bは時間の長さや取り組む内容を固定したほうがいいと述べている。",
+        "Aは勉強する時間と場所を決めたほうがいいと述べ、Bは簡単に達成できる目標を立てたほうがいいと述べている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Về phương pháp biến việc học thành thói quen, A và B nói thế nào? → A nói nên quyết định thời gian và địa điểm học, B nói nên đặt mục tiêu dễ đạt được.",
+        "why": "A: 「いつ、どこで勉強するのかを決めておくことが効果的だ」. B: 「一日の目標を小さくすること」 – như chỉ đọc 5 phút, chỉ làm 1 trang (mục tiêu nhỏ, dễ đạt).",
+        "options": [
+          "Sai: chỉ A nói về thời gian/hành động cố định; B không nói vậy.",
+          "Sai: B còn nói sẽ dần thay đổi lượng học khi đã quen; A không bàn về lượng học.",
+          "Sai: vế A đúng, nhưng B nói sẽ dần THAY ĐỔI thời lượng và nội dung, không phải cố định.",
+          "ĐÚNG: A – quyết định thời gian & địa điểm; B – mục tiêu nhỏ dễ đạt."
+        ],
+        "vocab": [
+          { "w": "習慣", "r": "しゅうかん", "hv": "TẬP QUÁN", "vi": "thói quen" },
+          { "w": "行為", "r": "こうい", "hv": "HÀNH VI", "vi": "hành vi, hành động" },
+          { "w": "取りかかる", "r": "とりかかる", "hv": "THỦ", "vi": "bắt tay vào làm" },
+          { "w": "負担", "r": "ふたん", "hv": "PHỤ ĐẢM", "vi": "gánh nặng" }
+        ],
+        "grammar": null,
+        "evidence": "A：勉強を習慣にするには、いつ、どこで勉強するのかを決めておくことが効果的だ。\nB：勉強を習慣にする方法としてお勧めしたいのは、一日の目標を小さくすることだ。",
+        "tip": "Đáp án có hai vế (A…、B…) → kiểm tra từng vế; một vế sai là loại."
+      }
+    },
+    {
+      "num": 66,
+      "passage": "AB",
+      "stem": "勉強を習慣にすることの利点について、AとBが共通して述べていることは何か。",
+      "options": [
+        "やる気が出なくても取り組めるようになる。",
+        "自分に自信が持てるようになる。",
+        "勉強する量が少なくても成果が出やすくなる。",
+        "勉強に対して不安を感じなくなる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về lợi ích của việc biến học tập thành thói quen, điểm chung mà A và B cùng nói là gì? → Có thể bắt tay vào học ngay cả khi không có hứng.",
+        "why": "A: dù lúc mệt không có hứng, nếu đã thành thói quen thì vẫn học được một cách không gượng ép. B: dù có ngày không có động lực vẫn học như thường lệ → điểm chung.",
+        "options": [
+          "ĐÚNG: cả A và B đều nói dù không có hứng vẫn học được.",
+          "Sai: chỉ A nói 'tạo sự tự tin'.",
+          "Sai: không bài nào nói học ít vẫn có thành quả.",
+          "Sai: B chỉ nói 'không thấy học là khổ' (苦痛), và nhắc rằng có thể 'lo lắng vì lượng học ít' — không phải lợi ích chung."
+        ],
+        "vocab": [
+          { "w": "利点", "r": "りてん", "hv": "LỢI ĐIỂM", "vi": "ưu điểm, lợi ích" },
+          { "w": "やる気", "r": "やるき", "hv": "KHÍ", "vi": "động lực, hứng thú làm" },
+          { "w": "一時的", "r": "いちじてき", "hv": "NHẤT THỜI ĐÍCH", "vi": "tạm thời" },
+          { "w": "苦痛", "r": "くつう", "hv": "KHỔ THỐNG", "vi": "đau khổ, khổ sở" }
+        ],
+        "grammar": null,
+        "evidence": "A：一時的にやる気が出ないこともある。しかし、勉強が習慣になれば、そんなときも勉強を無理なく進めていくことができる。\nB：やる気がわいてこない日が時々あっても、ふだん通り勉強を行うことができる。",
+        "tip": "Câu hỏi 共通 → tìm ý xuất hiện ở CẢ HAI bài, thường được diễn đạt bằng từ khác nhau (やる気が出ない／やる気がわいてこない)."
+      }
+    }
+  ]
+}

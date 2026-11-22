@@ -1,0 +1,273 @@
+{
+  "exam": "2010-12",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（1）から（3）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(3) rồi chọn câu trả lời đúng nhất cho mỗi câu hỏi (đoạn văn trung bình).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "現代は、①<u>時間がどんどん加速されている</u>ともいわれます。何事にも「早く、早く」とせかされ（注1）、時間と競争するかのように忙しさに追われていることを、大人たちはこういう言い方をしているのです。いつも同じ速さで時間が流れているはずなのに、時間の間隔が短くなったような気分で追い立てられて（注2）いるためでしょう。それをエンデ（注3）は『モモ』という作品の中で「時間泥棒」と呼びました。ゆっくり花を見たり音楽を楽しんだりする、そんなゆったりした時間が盗まれていく、という話でした。②<u>いつも何かしていないと気が落ち着かない</u>、現代人はそんなふうになっています。\nその一つの原因は、世の中が便利になり、能率的になって、より早く仕事を仕上げることがより優れていると評価されるようになっているためと思われます。競争が激しくなって、人より早くしなければ負けてしまうという恐れを心に抱くようになったためでしょう。「時間は金なり」となってしまったのです。\nしかし、それでは心が貧しくなってしまいそうです。何も考えずにひたすら決められたことをしていて人生が楽しいはずがありません。ゆっくり歩むからこそ、道端に咲く花に気づいたり、きれいな夕日を楽しむ気分になれるのです。私たちは、時間を取り返し、もっとゆったりした時間を生きる必要がありそうですね。\n\n（池内了『時間とは何か』による）\n\n（注1）せかされる：急がされる\n（注2）追い立てられる：ここでは、何かをしないではいられない気持ちにさせられる\n（注3）エンデ：ドイツの児童文学者"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "これはビジネス文書に限ったことではないのだが、何であれ文書を書いていると、少しばかり緊張感を覚えるものだ。書きながら、頭の中でこんなことを考えている。\nこの書き方でいいのかな。\nこれ、ひどく下手な書き方じゃないだろうか。\nこれでわかるかな。\nそういう気がしきりに（注1）して、ちょっとしたプレッシャーになっている。だからこそ、文章を書くのは苦手だ、と思っている人もいるのじゃないだろうか。\nしかし、その逆もまた真である。文章を書く面白さとは、そういうプレッシャーを感じながら、何とか諸問題をクリアして、一応のものを書き上げることにあるのだ。\nテレビゲームが楽しいのと同じ理屈（注2）である。あれは、攻略する（注3）のが簡単ではないさまざまな障害をかわしながら（注4）、次々に問題を解決していって、何とかクリアしていくところが面白いのである。難しいからこそ、うまくやった時に楽しいのだ。\n文章を書くのも、①<u>そういうことである</u>。これでいいのかな、と一抹の（注5）不安を抱えながら、何とか書いていくってことを楽しまなければならない。\n別の言い方にすると、文章というものは、書く人に対して、うまく書いてくれ、と要求してくるのである。なぜなら、文章とは人と人とのコミュニケーションの道具だからだ。\nこの例外は、自分だけにわかればいいメモと、絶対に他人に見せない日記だけである。\nそれ以外の文章は、必ず、書く人間のほかに、②<u>読む人間がいて完成される</u>のだ。そして、書いた人の伝えたかったことが、読んだ人にちゃんと分かってこそ、文章は役を果たしたことになる。\n\n（清水義範『スラスラ書ける「ビジネス文章」』による）\n\n（注1）しきりに：何度も\n（注2）理屈：ここでは、考え方\n（注3）攻略する：うまく解決する\n（注4）かわしながら：避けながら\n（注5）一抹の：ほんの少しの"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "皆さんは寄付をしたことがあるだろうか。異常気象で食べるものが不足して困っている人や、地震で家を失った人のためにわずかながらもお小遣いから寄付した経験を持つ人は多いだろう。その寄付に対する考え方に、今、新しい動きが起こっている。\nある会社では、<u>社員食堂で低カロリーの定食を食べる</u>と代金の一部が寄付金となって途上国（注）の子供たちの食生活を支援する、というシステムを取り入れている。社員としては体調管理につながるだけでなく、人を助けることができ、会社としては社員の健康を支えながら社会貢献ができるので、社員にとっても会社にとっても一石二鳥というわけだ。\nまた、「寄付つき」の商品を販売する企業も増えている。特定の商品を買うと売り上げの一部が寄付されるというもので、ほかの商品と比べるとやや値段は高いが、商品を買えば、同時に寄付できるという手軽さが消費者に歓迎され、売り上げを伸ばしているという。\nこれまでの寄付はわざわざ募金の場所へ足を運んだり、銀行からお金を振り込んだりしなければならないものが多く、社会貢献に関心はあっても寄付をするのは面倒だと実際の行動には移さない人も少なくなかった。そこに目をつけたのが新しい寄付の形で、これまでと比べ手軽に寄付ができるようになり、社会貢献がしやすくなった。さらに、企業にとっても自社のイメージの向上や売り上げの増加などメリットの多い取り組みとなっている。\nこのように寄付は慈善のためというばかりでなく、寄付をする側にもプラスになる活動としてとらえなおされ始めている。\n\n（注）途上国：経済成長の途中にある国"
+    }
+  ],
+  "questions": [
+    {
+      "num": 60,
+      "passage": "p1",
+      "stem": "①<u>時間がどんどん加速されている</u>とはどういうことか。",
+      "options": ["しなければならないことが多くて時間が短く感じられる。", "何かに夢中になっていると一日の時間が短く感じられる。", "作業能率が上がって一日の仕事の時間が短くなっている。", "技術の進歩によって仕事にかかる時間が短くなっている。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "‘Thời gian đang ngày càng bị tăng tốc’ nghĩa là gì? → Vì có quá nhiều việc phải làm nên cảm thấy thời gian ngắn lại.",
+        "why": "Ngay sau đó tác giả giải thích: bị hối thúc ‘nhanh lên’, bị cuốn theo sự bận rộn; thời gian vẫn trôi như cũ nhưng ‘cảm giác’ khoảng thời gian ngắn lại. → bận nhiều việc nên cảm thấy thời gian ngắn.",
+        "options": [
+          "Nhiều việc phải làm nên cảm thấy thời gian ngắn. ĐÚNG.",
+          "Do bận rộn/bị hối thúc, không phải do ‘say mê’ điều gì. Sai.",
+          "Thời gian thực không ngắn đi (同じ速さで流れている), chỉ là cảm giác. Sai.",
+          "Tương tự, không phải thời gian làm việc thực tế ngắn lại nhờ công nghệ. Sai."
+        ],
+        "vocab": [
+          { "w": "加速", "r": "かそく", "hv": "GIA TỐC", "vi": "tăng tốc" },
+          { "w": "せかす", "r": "せかす", "hv": "", "vi": "hối thúc" },
+          { "w": "間隔", "r": "かんかく", "hv": "GIAN CÁCH", "vi": "khoảng cách, quãng" },
+          { "w": "追い立てる", "r": "おいたてる", "hv": "TRUY LẬP", "vi": "thúc ép, xua đuổi" }
+        ],
+        "grammar": null,
+        "evidence": "何事にも「早く、早く」とせかされ、時間と競争するかのように忙しさに追われていることを、大人たちはこういう言い方をしているのです。いつも同じ速さで時間が流れているはずなのに、時間の間隔が短くなったような気分で追い立てられているためでしょう。",
+        "tip": "Bẫy: phương án 3, 4 hiểu ‘tăng tốc’ theo nghĩa thực tế; bài nói đó chỉ là CẢM GIÁC (気分)."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p1",
+      "stem": "②<u>いつも何かしていないと気が落ち着かない</u>原因を筆者はどう考えているか。",
+      "options": ["何もしないと心が貧しくなってしまうと感じること", "早く何かを仕上げないとほかの人に勝てないと思うこと", "失った時間を取り戻さないと競争に負けてしまうと思うこと", "奪われた時間を取り戻さないと人生を楽しめないと感じること"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tác giả nghĩ nguyên nhân của việc ‘lúc nào không làm gì là thấy bồn chồn’ là gì? → Nghĩ rằng nếu không nhanh chóng hoàn thành việc gì đó thì sẽ không thắng được người khác.",
+        "why": "Đoạn 2 nêu nguyên nhân: xã hội đánh giá ai làm xong nhanh hơn là giỏi hơn; cạnh tranh gay gắt nên sợ ‘không làm nhanh hơn người khác thì sẽ thua’.",
+        "options": [
+          "‘Tâm hồn nghèo nàn’ là hậu quả tác giả lo ngại, không phải nguyên nhân. Sai.",
+          "Sợ không làm nhanh thì thua người khác. ĐÚNG.",
+          "‘Lấy lại thời gian’ là đề xuất của tác giả, không phải nguyên nhân; cũng không nói lấy lại để thắng. Sai.",
+          "Đây là ý của đoạn kết (giải pháp), không phải nguyên nhân. Sai."
+        ],
+        "vocab": [
+          { "w": "能率的", "r": "のうりつてき", "hv": "NĂNG SUẤT ĐÍCH", "vi": "hiệu quả, năng suất" },
+          { "w": "仕上げる", "r": "しあげる", "hv": "SĨ THƯỢNG", "vi": "hoàn thành" },
+          { "w": "恐れ", "r": "おそれ", "hv": "KHỦNG", "vi": "nỗi sợ, mối lo" },
+          { "w": "抱く", "r": "いだく", "hv": "BÃO", "vi": "ôm, mang (cảm xúc)" }
+        ],
+        "grammar": null,
+        "evidence": "その一つの原因は、世の中が便利になり、能率的になって、より早く仕事を仕上げることがより優れていると評価されるようになっているためと思われます。競争が激しくなって、人より早くしなければ負けてしまうという恐れを心に抱くようになったためでしょう。",
+        "tip": "Câu hỏi ‘原因’ → tìm từ khóa 原因・ため trong bài (đoạn 2 mở đầu bằng その一つの原因は)."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p1",
+      "stem": "筆者は、時間の使い方についてどのように考えているか。",
+      "options": ["時間は貴重なので、休む時にも能率的に過ごした方が良い。", "忙しい中にも、のんびり過ごす時間をできるだけ持った方が良い。", "人生を楽しむためには、ひたすらゆっくり時間を過ごした方が良い。", "人との競争に勝つためには、時間をもっと有効に使うようにした方が良い。"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tác giả nghĩ thế nào về cách sử dụng thời gian? → Dù bận rộn cũng nên cố có càng nhiều thời gian thong thả càng tốt.",
+        "why": "Kết bài: cần ‘lấy lại thời gian’ và sống những khoảng thời gian thong thả hơn (もっとゆったりした時間を生きる). Tác giả không phủ nhận việc bận, chỉ muốn có thêm thời gian ung dung.",
+        "options": [
+          "Ngược ý: tác giả phê phán lối sống chạy theo hiệu suất. Sai.",
+          "Trong bận rộn, cố có thời gian thong thả. ĐÚNG.",
+          "‘ひたすら’ (chỉ toàn) chậm rãi là quá cực đoan; tác giả nói ‘もっと’ (hơn nữa). Sai.",
+          "Ngược ý: tác giả phê phán tâm lý cạnh tranh. Sai."
+        ],
+        "vocab": [
+          { "w": "ゆったり", "r": "ゆったり", "hv": "", "vi": "thong thả, thư thái" },
+          { "w": "取り返す", "r": "とりかえす", "hv": "THỦ PHẢN", "vi": "lấy lại" },
+          { "w": "ひたすら", "r": "ひたすら", "hv": "", "vi": "một mực, chỉ chăm chăm" },
+          { "w": "道端", "r": "みちばた", "hv": "ĐẠO ĐOAN", "vi": "lề đường" }
+        ],
+        "grammar": null,
+        "evidence": "私たちは、時間を取り返し、もっとゆったりした時間を生きる必要がありそうですね。",
+        "tip": "Bẫy từ tuyệt đối: ひたすら・必ず・いつも thường làm phương án sai khi bài chỉ nói ‘もっと’."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p2",
+      "stem": "筆者は、文章を書くときに何がプレッシャーになっていると述べているか。",
+      "options": ["このまま最後まで書きあげられるか不安だという気持ち。", "読む人が期待する書き方をしているかという気持ち。", "自分は字を書くのが下手だからいやだという気持ち。", "書きたいことがうまく書けているかという気持ち。"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, khi viết văn điều gì trở thành áp lực? → Cảm giác lo không biết mình có viết tốt được điều muốn viết hay không.",
+        "why": "Những suy nghĩ gây áp lực: ‘viết thế này có được không’, ‘có phải cách viết quá dở không’, ‘thế này có hiểu được không’ → tất cả đều là lo lắng mình đã diễn đạt tốt điều muốn viết chưa.",
+        "options": [
+          "Bài không nói lo không viết xong đến cuối. Sai.",
+          "Bài không nhắc đến ‘kỳ vọng của người đọc’ về cách viết; lo lắng là về chất lượng diễn đạt của chính mình. Sai.",
+          "字を書くのが下手 = viết chữ xấu (nét chữ), không phải chuyện viết văn. Sai.",
+          "Lo không biết đã viết tốt điều muốn viết chưa. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "緊張感", "r": "きんちょうかん", "hv": "KHẨN TRƯƠNG CẢM", "vi": "cảm giác căng thẳng" },
+          { "w": "しきりに", "r": "しきりに", "hv": "", "vi": "liên tục, nhiều lần" },
+          { "w": "苦手", "r": "にがて", "hv": "KHỔ THỦ", "vi": "kém, không giỏi" }
+        ],
+        "grammar": null,
+        "evidence": "この書き方でいいのかな。これ、ひどく下手な書き方じゃないだろうか。これでわかるかな。そういう気がしきりにして、ちょっとしたプレッシャーになっている。",
+        "tip": "Phương án 2 dễ gây nhầm vì cuối bài nói về người đọc, nhưng câu hỏi chỉ hỏi về ‘áp lực’ ở đoạn đầu."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p2",
+      "stem": "①<u>そういうことである</u>とはどういうことか。",
+      "options": ["さまざまな障害をクリアしていくことがむずかしい。", "プレッシャーを忘れ、いろいろ考えるのが楽しい。", "苦労して問題を片づけ、課題を仕上げるのが楽しい。", "不安を抱えたままでは問題を解決するのが難しい。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "‘Cũng là như thế’ nghĩa là gì? → Vất vả giải quyết vấn đề và hoàn thành nhiệm vụ thì vui.",
+        "why": "そういうこと chỉ lại ví dụ trò chơi điện tử ngay trước: vừa né các chướng ngại vừa giải quyết từng vấn đề, vượt qua được thì vui; ‘vì khó nên làm được mới vui’. Viết văn cũng vậy.",
+        "options": [
+          "Chỉ nói ‘khó’, bỏ mất ý ‘vui’ — trọng tâm là sự thú vị. Sai.",
+          "Không phải ‘quên áp lực’ mà là vừa chịu áp lực vừa viết. Sai.",
+          "Vất vả giải quyết vấn đề, hoàn thành → vui. ĐÚNG.",
+          "Chỉ nói khó khăn khi lo lắng, trái với ý ‘vui’. Sai."
+        ],
+        "vocab": [
+          { "w": "理屈", "r": "りくつ", "hv": "LÝ QUẬT", "vi": "lý lẽ, logic" },
+          { "w": "障害", "r": "しょうがい", "hv": "CHƯỚNG NGẠI", "vi": "chướng ngại" },
+          { "w": "攻略", "r": "こうりゃく", "hv": "CÔNG LƯỢC", "vi": "chinh phục, vượt qua" },
+          { "w": "一抹", "r": "いちまつ", "hv": "NHẤT MẠT", "vi": "một chút, thoáng" }
+        ],
+        "grammar": {
+          "pattern": "～からこそ",
+          "meaning": "chính vì ~ (nhấn mạnh lý do)",
+          "form": "普通形＋からこそ",
+          "example": "難しいからこそ、やりがいがある。"
+        },
+        "evidence": "次々に問題を解決していって、何とかクリアしていくところが面白いのである。難しいからこそ、うまくやった時に楽しいのだ。文章を書くのも、そういうことである。",
+        "tip": "Từ chỉ thị そういう → đọc ngay câu/đoạn ngay trước, tóm tắt cả hai ý ‘khó’ + ‘vui’."
+      }
+    },
+    {
+      "num": 65,
+      "passage": "p2",
+      "stem": "②<u>読む人間がいて完成される</u>とはどういうことか。",
+      "options": ["文章の価値を決めるのは読み手の存在だ。", "文章が成立するには読み手の存在が必要だ。", "文章は人に読まれることでより良いものになる。", "文章は読み手の要求にこたえることで出来上がる。"],
+      "answer": 2,
+      "explanation": {
+        "translation": "‘Có người đọc thì (văn bản) mới hoàn thành’ nghĩa là gì? → Để văn bản thành lập được thì cần sự tồn tại của người đọc.",
+        "why": "Văn bản là công cụ giao tiếp giữa người với người; chỉ khi người đọc hiểu được điều người viết muốn truyền đạt thì văn bản mới làm tròn vai trò → 完成 = 成立 cần có người đọc.",
+        "options": [
+          "Bài không nói người đọc quyết định ‘giá trị’. Sai.",
+          "Văn bản cần có người đọc mới thành lập. ĐÚNG.",
+          "‘Tốt hơn lên’ — bài nói ‘hoàn thành’, không nói cải thiện. Sai.",
+          "Bài không nói đáp ứng ‘yêu cầu của người đọc’; ‘yêu cầu’ là văn bản đòi người viết viết tốt. Sai."
+        ],
+        "vocab": [
+          { "w": "完成", "r": "かんせい", "hv": "HOÀN THÀNH", "vi": "hoàn thành" },
+          { "w": "成立", "r": "せいりつ", "hv": "THÀNH LẬP", "vi": "thành lập, hình thành" },
+          { "w": "役を果たす", "r": "やくをはたす", "hv": "DỊCH QUẢ", "vi": "hoàn thành vai trò" }
+        ],
+        "grammar": {
+          "pattern": "～てこそ",
+          "meaning": "chỉ khi ~ thì mới",
+          "form": "Vて＋こそ",
+          "example": "自分でやってみてこそ、難しさがわかる。"
+        },
+        "evidence": "それ以外の文章は、必ず、書く人間のほかに、読む人間がいて完成されるのだ。そして、書いた人の伝えたかったことが、読んだ人にちゃんと分かってこそ、文章は役を果たしたことになる。",
+        "tip": "Phương án 4 cài bẫy từ 要求 (có trong bài) nhưng đổi chủ thể: bài nói 文章が書く人に要求する."
+      }
+    },
+    {
+      "num": 66,
+      "passage": "p3",
+      "stem": "<u>社員食堂で低カロリーの定食を食べる</u>ことがどんな良い結果につながるのか。",
+      "options": ["社員の健康が守られ、社会の役に立つことにもなる。", "社員に定食代の一部が返金され、寄付をする余裕ができる。", "会社で寄付が日常のことになり、食生活に対する意識も高まる。", "会社は社会の役に立つことができ、食堂の経費の節約にもなる。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Việc ăn suất ăn ít calo ở căng tin công ty dẫn đến kết quả tốt gì? → Sức khỏe nhân viên được bảo vệ và còn giúp ích cho xã hội.",
+        "why": "Bài: với nhân viên vừa giữ sức khỏe vừa giúp người khác; với công ty vừa hỗ trợ sức khỏe nhân viên vừa đóng góp xã hội → 一石二鳥: sức khỏe + đóng góp xã hội.",
+        "options": [
+          "Sức khỏe + ích cho xã hội. ĐÚNG.",
+          "Tiền không trả lại cho nhân viên mà trở thành tiền quyên góp. Sai.",
+          "Bài không nói việc quyên góp thành chuyện thường ngày hay ý thức ăn uống tăng lên. Sai.",
+          "Bài không nói tiết kiệm chi phí căng tin. Sai."
+        ],
+        "vocab": [
+          { "w": "寄付", "r": "きふ", "hv": "KÝ PHÓ", "vi": "quyên góp" },
+          { "w": "社会貢献", "r": "しゃかいこうけん", "hv": "XÃ HỘI CỐNG HIẾN", "vi": "đóng góp cho xã hội" },
+          { "w": "一石二鳥", "r": "いっせきにちょう", "hv": "NHẤT THẠCH NHỊ ĐIỂU", "vi": "một mũi tên trúng hai đích" },
+          { "w": "途上国", "r": "とじょうこく", "hv": "ĐỒ THƯỢNG QUỐC", "vi": "nước đang phát triển" }
+        ],
+        "grammar": null,
+        "evidence": "社員としては体調管理につながるだけでなく、人を助けることができ、会社としては社員の健康を支えながら社会貢献ができるので、社員にとっても会社にとっても一石二鳥というわけだ。",
+        "tip": "一石二鳥 → câu trả lời phải chứa đúng ‘hai lợi ích’ bài nêu (健康 + 社会貢献)."
+      }
+    },
+    {
+      "num": 67,
+      "passage": "p3",
+      "stem": "この文章では、これまでの寄付にはどのような問題があったと述べているか。",
+      "options": ["寄付をする方法があまり知られていない。", "寄付をすることが社会的に評価されにくい。", "寄付をするのに手間がかかるシステムである。", "寄付をするためには経済的に余裕がなければならない。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Bài viết nói hình thức quyên góp trước đây có vấn đề gì? → Là hệ thống tốn công sức để quyên góp.",
+        "why": "Trước đây phải cất công đến điểm quyên góp hoặc chuyển khoản ngân hàng → nhiều người thấy phiền (面倒) nên không hành động → 手間がかかる.",
+        "options": [
+          "Bài không nói phương pháp ít người biết. Sai.",
+          "Bài không nói khó được xã hội đánh giá. Sai.",
+          "Tốn công sức (phải đi đến nơi, chuyển khoản). ĐÚNG.",
+          "Bài không nói cần dư dả kinh tế (thậm chí nói quyên từ tiền tiêu vặt). Sai."
+        ],
+        "vocab": [
+          { "w": "手間", "r": "てま", "hv": "THỦ GIAN", "vi": "công sức, thời gian" },
+          { "w": "募金", "r": "ぼきん", "hv": "MỘ KIM", "vi": "quyên góp tiền" },
+          { "w": "振り込む", "r": "ふりこむ", "hv": "CHẤN", "vi": "chuyển khoản" },
+          { "w": "面倒", "r": "めんどう", "hv": "DIỆN ĐẢO", "vi": "phiền phức" }
+        ],
+        "grammar": null,
+        "evidence": "これまでの寄付はわざわざ募金の場所へ足を運んだり、銀行からお金を振り込んだりしなければならないものが多く、社会貢献に関心はあっても寄付をするのは面倒だと実際の行動には移さない人も少なくなかった。",
+        "tip": "わざわざ～しなければならない／面倒 ≈ 手間がかかる (paraphrase)."
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p3",
+      "stem": "この文章における新しい寄付とはどういうものか。",
+      "options": ["企業が社員や消費者の意思にかかわりなく積極的に行うもの。", "企業が慈善事業のためではなく利益を上げるために行うもの。", "社員や消費者が手軽に寄付ができて企業側に利点があるもの。", "社員や消費者が気がつかないうちに社会貢献に参加できるもの。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "‘Hình thức quyên góp mới’ trong bài là gì? → Là hình thức nhân viên, người tiêu dùng có thể quyên góp dễ dàng và doanh nghiệp cũng có lợi.",
+        "why": "Bài: hình thức mới giúp quyên góp dễ dàng hơn trước, đồng thời doanh nghiệp được nâng cao hình ảnh, tăng doanh thu (メリットの多い取り組み).",
+        "options": [
+          "Bài không nói doanh nghiệp làm bất chấp ý muốn của nhân viên/người tiêu dùng; họ tự chọn ăn/mua. Sai.",
+          "Bài nói ‘không chỉ vì từ thiện’ (ばかりでなく), không phải ‘không vì từ thiện mà vì lợi nhuận’. Sai.",
+          "Dễ quyên góp + doanh nghiệp có lợi. ĐÚNG.",
+          "Người tham gia biết rõ mình đang quyên góp (chọn hàng 寄付つき), không phải ‘vô tình’. Sai."
+        ],
+        "vocab": [
+          { "w": "手軽", "r": "てがる", "hv": "THỦ KHINH", "vi": "dễ dàng, đơn giản" },
+          { "w": "利点", "r": "りてん", "hv": "LỢI ĐIỂM", "vi": "lợi ích, điểm lợi" },
+          { "w": "慈善", "r": "じぜん", "hv": "TỪ THIỆN", "vi": "từ thiện" },
+          { "w": "向上", "r": "こうじょう", "hv": "HƯỚNG THƯỢNG", "vi": "nâng cao" }
+        ],
+        "grammar": {
+          "pattern": "～ばかりでなく",
+          "meaning": "không chỉ ~ mà còn",
+          "form": "普通形 (Naな/N) ＋ばかりでなく",
+          "example": "彼は英語ばかりでなく、中国語も話せる。"
+        },
+        "evidence": "これまでと比べ手軽に寄付ができるようになり、社会貢献がしやすくなった。さらに、企業にとっても自社のイメージの向上や売り上げの増加などメリットの多い取り組みとなっている。",
+        "tip": "Phương án 2 bóp méo ‘ばかりでなく’ (không chỉ) thành ‘ではなく’ (không phải)."
+      }
+    }
+  ]
+}

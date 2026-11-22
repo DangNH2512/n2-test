@@ -1,0 +1,137 @@
+{
+  "exam": "2013-07",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "できるだけ早く仕事を<u>済ます</u>ようにします。",
+      "options": ["覚える", "終える", "始める", "教える"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi sẽ cố gắng làm xong công việc càng sớm càng tốt.",
+        "why": "済ます (すます) = làm xong, hoàn tất ≈ 終える (おえる) = kết thúc, làm xong.",
+        "options": [
+          "覚える → nhớ, học thuộc. Sai.",
+          "終える → kết thúc, làm xong. ĐÚNG.",
+          "始める → bắt đầu (trái nghĩa). Sai.",
+          "教える → dạy. Sai."
+        ],
+        "vocab": [
+          { "w": "済ます", "r": "すます", "hv": "TẾ", "vi": "làm xong, giải quyết xong" },
+          { "w": "終える", "r": "おえる", "hv": "CHUNG", "vi": "kết thúc, làm xong" },
+          { "w": "済む", "r": "すむ", "hv": "TẾ", "vi": "xong, kết thúc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "済ます còn nghĩa 'xoay xở tạm': 昼ご飯をパンで済ます."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "昨日のあの人の態度は<u>あいまいだった</u>。",
+      "options": ["ていねいだった", "はっきりしなかった", "りっぱだった", "なさけなかった"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Thái độ của người đó hôm qua thật mập mờ (không rõ ràng).",
+        "why": "あいまい (曖昧) = mơ hồ, mập mờ ≈ はっきりしない = không rõ ràng.",
+        "options": [
+          "ていねいだった → lịch sự, cẩn thận. Sai.",
+          "はっきりしなかった → không rõ ràng. ĐÚNG.",
+          "りっぱだった → đáng khâm phục, tuyệt vời. Sai.",
+          "なさけなかった → 情けない: đáng thất vọng, thảm hại. Sai."
+        ],
+        "vocab": [
+          { "w": "曖昧", "r": "あいまい", "hv": "ÁI MUỘI", "vi": "mơ hồ, mập mờ" },
+          { "w": "態度", "r": "たいど", "hv": "THÁI ĐỘ", "vi": "thái độ" },
+          { "w": "立派", "r": "りっぱ", "hv": "LẬP PHÁI", "vi": "tuyệt vời, đáng nể" },
+          { "w": "情けない", "r": "なさけない", "hv": "TÌNH", "vi": "thảm hại, đáng xấu hổ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "あいまいな返事 = câu trả lời nước đôi."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "昨日、学校で<u>思いがけない</u>出来事があった。",
+      "options": ["おもしろい", "悲しい", "意外な", "ふしぎな"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hôm qua ở trường đã xảy ra một chuyện bất ngờ.",
+        "why": "思いがけない = không ngờ tới, bất ngờ ≈ 意外な (いがいな) = ngoài dự đoán.",
+        "options": [
+          "おもしろい → thú vị. Sai.",
+          "悲しい → buồn. Sai.",
+          "意外な → bất ngờ, ngoài dự đoán. ĐÚNG.",
+          "ふしぎな → 不思議: kỳ lạ, khó giải thích (khác với 'không ngờ'). Sai."
+        ],
+        "vocab": [
+          { "w": "思いがけない", "r": "おもいがけない", "hv": "", "vi": "không ngờ, bất ngờ" },
+          { "w": "意外", "r": "いがい", "hv": "Ý NGOẠI", "vi": "ngoài dự đoán" },
+          { "w": "出来事", "r": "できごと", "hv": "XUẤT LAI SỰ", "vi": "sự việc, chuyện xảy ra" },
+          { "w": "不思議", "r": "ふしぎ", "hv": "BẤT TƯ NGHỊ", "vi": "kỳ lạ, bí ẩn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "思いがけない = 思ってもみなかった = 意外な."
+      }
+    },
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "彼は大学を卒業した後、<u>みずから</u>会社を立ち上げる。",
+      "options": ["自分で", "すぐに", "仲間と", "しばらくして"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Sau khi tốt nghiệp đại học, anh ấy sẽ tự mình thành lập công ty.",
+        "why": "みずから (自ら) = tự mình, chính mình ≈ 自分で.",
+        "options": [
+          "自分で → tự mình. ĐÚNG.",
+          "すぐに → ngay lập tức. Sai.",
+          "仲間と → cùng bạn bè. Sai.",
+          "しばらくして → một lúc sau. Sai."
+        ],
+        "vocab": [
+          { "w": "自ら", "r": "みずから", "hv": "TỰ", "vi": "tự mình" },
+          { "w": "立ち上げる", "r": "たちあげる", "hv": "LẬP THƯỢNG", "vi": "thành lập, khởi động" },
+          { "w": "卒業", "r": "そつぎょう", "hv": "TỐT NGHIỆP", "vi": "tốt nghiệp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "自ら (みずから) ≠ 自ずと (おのずと: tự nhiên mà)."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "もう全員<u>そろいました</u>か。",
+      "options": ["集まりました", "訪ねました", "出発しました", "案内しました"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Mọi người đã có mặt đầy đủ chưa?",
+        "why": "そろう (揃う) = tập hợp đầy đủ, đông đủ ≈ 集まる (tập trung lại).",
+        "options": [
+          "集まりました → đã tập trung đông đủ. ĐÚNG.",
+          "訪ねました → đã đến thăm. Sai.",
+          "出発しました → đã xuất phát. Sai.",
+          "案内しました → đã hướng dẫn. Sai."
+        ],
+        "vocab": [
+          { "w": "揃う", "r": "そろう", "hv": "TIỄN", "vi": "đầy đủ, đông đủ, đồng đều" },
+          { "w": "全員", "r": "ぜんいん", "hv": "TOÀN VIÊN", "vi": "tất cả mọi người" },
+          { "w": "訪ねる", "r": "たずねる", "hv": "PHỎNG", "vi": "đến thăm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "全員そろったら出発しましょう = khi đủ người thì xuất phát."
+      }
+    }
+  ]
+}

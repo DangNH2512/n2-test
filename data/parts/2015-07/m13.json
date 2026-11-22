@@ -1,0 +1,125 @@
+{
+  "exam": "2015-07",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn sau và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "以下は、自分の仕事として、さまざまな地域の課題に住民とともに取り組んでいる人が書いた文章である。\n\nよく考えてみれば、幼稚園のころから僕はずっとヨソモノ（注１）だったような気がする。親が転勤族だったため、おおむね４年に一度は転校生になる。クラスに馴染んできた（注２）なぁ、と思ったころに引越しすることになる。幼稚園も小学校も中学校もふたつずつ通った。そのたびに転校生としてクラスをヨソモノの視点から観察する。誰がクラスのボス（注３）なのか。誰と仲良くなると仲間に入れてもらいやすいのか。誰と誰は仲が良くて、誰とは仲が悪いのか、そういうことばかり読み取ろうとしていた。自分でも嫌な小学生だと思っていたが、そうやって自分の立ち位置を見つけなければクラスの中に入っていくのが難しかった。\nいまも①<u>同じこと</u>をしているような気がする。集落（注４）へ行っては、誰が権力者（注５）なのか、誰が正しいことをいっているのか、誰の意見が重視されているのか。誰と誰は仲がいいのか。そんなことを読み取ろうとしている。そして、４年くらい経ったらその集落からいなくなる。いまでも転校生のような生活である。\nそんな少年時代だったから、「出身地はどこですか？」と聞かれるのがつらい。どこも４年間しか住んでいないので、出身地は適当に決めるしかない。出生地（注６）は明確だが、僕の場合は生後２年間しかその場所に住んでいない。もちろん当時の記憶はない。\nだから「ふるさと」を持つ人に対する憧れがある。「いつかは地元に戻って働きたいと思っているんだ」「出身地を元気にしたいと思っています」という言葉を聞くたびに②<u>羨ましくなる</u>。逆に、ふるさとを悪くいう言葉を聞くのはつらい。「田舎だから」「何もないから」「足を引っ張り合う（注７）」「新しいことができない」。せっかくふるさとを持っているのに、それを悪くいうのはもったいない。ふるさとはいい場所であって欲しい。だから、その手伝いがしたいと思う。どこまで行ってもヨソモノだが、その立場から少しでもふるさとがいい状態になるように努力したい。どの場所も、たくさんの人にとってのふるさとであり続けるのだから。\n（山崎亮『コミュニティデザインの時代』による）\n（注１）ヨソモノ：よそから来た人\n（注２）馴染む：慣れて親しくなる\n（注３）ボス：ここでは、力を持った人\n（注４）集落：ここでは、村のようなところ\n（注５）権力者：ここでは、力を持った人\n（注６）出生地：生まれた場所\n（注７）足を引っ張り合う：成功するのをじゃまし合う"
+    }
+  ],
+  "questions": [
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "①<u>同じこと</u>とあるが、集団の中でどのようなことをしているのか。",
+      "options": [
+        "仲間になれるように努力すること",
+        "仲間に入らないようにすること",
+        "自分と合う人を見つけ出すこと",
+        "人間関係を観察すること"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "'Cùng một việc' – trong tập thể, tác giả đang làm gì? → Quan sát các mối quan hệ giữa người với người.",
+        "why": "'Cùng một việc' = việc hồi nhỏ làm khi chuyển trường: quan sát lớp học từ góc nhìn người ngoài – ai là trùm, ai thân ai, ai ghét ai. Hiện tại ở các làng cũng đọc xem ai có quyền lực, ai thân với ai → quan sát quan hệ con người.",
+        "options": [
+          "'Nỗ lực để được làm bạn' – mục đích hồi nhỏ có thể vậy, nhưng việc 'giống nhau' được mô tả là quan sát/đọc tình hình. Sai.",
+          "'Cố không gia nhập' – ngược lại. Sai.",
+          "'Tìm người hợp với mình' – không được nêu. Sai.",
+          "Quan sát quan hệ giữa người với người. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "転勤族", "r": "てんきんぞく", "hv": "CHUYỂN CẦN TỘC", "vi": "gia đình hay phải chuyển công tác" },
+          { "w": "転校生", "r": "てんこうせい", "hv": "CHUYỂN HIỆU SINH", "vi": "học sinh chuyển trường" },
+          { "w": "観察", "r": "かんさつ", "hv": "QUAN SÁT", "vi": "quan sát" },
+          { "w": "読み取る", "r": "よみとる", "hv": "ĐỘC THỦ", "vi": "đọc ra, nắm bắt" },
+          { "w": "立ち位置", "r": "たちいち", "hv": "LẬP VỊ TRÍ", "vi": "vị trí, chỗ đứng" }
+        ],
+        "grammar": {
+          "pattern": "～ては",
+          "meaning": "cứ mỗi lần ~ thì lại (lặp lại)",
+          "form": "Vて＋は",
+          "example": "書いては消し、書いては消しを繰り返した。"
+        },
+        "evidence": "そのたびに転校生としてクラスをヨソモノの視点から観察する。誰がクラスのボスなのか。…誰と誰は仲が良くて、誰とは仲が悪いのか、そういうことばかり読み取ろうとしていた。／集落へ行っては、誰が権力者なのか、…誰と誰は仲がいいのか。そんなことを読み取ろうとしている。",
+        "tip": "Chỉ thị từ 同じこと → so sánh đoạn trước và đoạn sau để tìm điểm chung."
+      }
+    },
+    {
+      "num": 72,
+      "passage": "p1",
+      "stem": "②<u>羨ましくなる</u>とあるが、なぜか。",
+      "options": [
+        "自分のふるさとの記憶はあいまいだから",
+        "自分のふるさとには嫌な思い出しかないから",
+        "自分にはふるさとと呼べる場所がないから",
+        "自分にはふるさとの良さがわからないから"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "'Trở nên ghen tị' – vì sao? → Vì bản thân không có nơi nào có thể gọi là quê hương.",
+        "why": "Tác giả chỉ sống mỗi nơi khoảng 4 năm, nơi sinh thì chỉ ở 2 năm và không nhớ gì, nên quê quán đành phải chọn đại → không có 'quê hương' thực sự. Vì vậy ngưỡng mộ (憧れ) và ghen tị với người có quê hương.",
+        "options": [
+          "'Ký ức mơ hồ' – không phải mơ hồ mà là không có quê hương; về nơi sinh thì hoàn toàn không nhớ. Sai.",
+          "'Chỉ toàn kỷ niệm xấu' – không được nêu. Sai.",
+          "Không có nơi nào gọi được là quê hương. ĐÚNG.",
+          "'Không hiểu cái hay của quê hương' – ngược lại, tác giả muốn quê hương tốt đẹp. Sai."
+        ],
+        "vocab": [
+          { "w": "羨ましい", "r": "うらやましい", "hv": "TIỆN", "vi": "ghen tị, thèm muốn" },
+          { "w": "憧れ", "r": "あこがれ", "hv": "SUNG", "vi": "sự ngưỡng mộ, khao khát" },
+          { "w": "出身地", "r": "しゅっしんち", "hv": "XUẤT THÂN ĐỊA", "vi": "quê quán" },
+          { "w": "適当", "r": "てきとう", "hv": "THÍCH ĐƯƠNG", "vi": "(ở đây) tùy tiện, đại khái" }
+        ],
+        "grammar": {
+          "pattern": "～しかない",
+          "meaning": "chỉ còn cách ~",
+          "form": "Vる＋しかない",
+          "example": "バスがないから、歩くしかない。"
+        },
+        "evidence": "どこも４年間しか住んでいないので、出身地は適当に決めるしかない。…だから「ふるさと」を持つ人に対する憧れがある。",
+        "tip": "だから ở đầu đoạn 4 nối lý do (đoạn 3) với cảm xúc ghen tị."
+      }
+    },
+    {
+      "num": 73,
+      "passage": "p1",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "誰にとってもふるさとだと思えるような理想の場所をつくりたい。",
+        "みんなが自分自身のふるさとをいい場所だと思えるようにしたい。",
+        "ヨソモノであっても、受け入れてくれるようなふるさとをつくりたい。",
+        "ふるさとのない人にも、ふるさとというものの良さを伝えられるようにしたい。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ tác giả? → Muốn mọi người có thể nghĩ quê hương của chính mình là một nơi tốt đẹp.",
+        "why": "Tác giả buồn khi nghe người ta nói xấu quê mình, mong 'quê hương là nơi tốt đẹp' và muốn giúp đỡ để quê hương của mỗi người trở nên tốt hơn → đáp án 2.",
+        "options": [
+          "'Nơi lý tưởng là quê hương của bất kỳ ai' – tác giả muốn làm quê hương sẵn có của mỗi người tốt hơn, không phải tạo nơi lý tưởng chung. Sai.",
+          "Mọi người nghĩ quê hương mình là nơi tốt đẹp. ĐÚNG.",
+          "'Quê hương chấp nhận người ngoài' – tác giả là người ngoài, nhưng mục tiêu không phải điều đó. Sai.",
+          "'Truyền đạt cái hay của quê hương cho người không có quê' – không được nêu. Sai."
+        ],
+        "vocab": [
+          { "w": "足を引っ張る", "r": "あしをひっぱる", "hv": "TÚC DẪN TRƯƠNG", "vi": "kìm chân, cản trở" },
+          { "w": "もったいない", "r": "もったいない", "hv": "", "vi": "lãng phí, đáng tiếc" },
+          { "w": "手伝い", "r": "てつだい", "hv": "THỦ TRUYỀN", "vi": "sự giúp đỡ" },
+          { "w": "立場", "r": "たちば", "hv": "LẬP TRƯỜNG", "vi": "lập trường, vị trí" }
+        ],
+        "grammar": {
+          "pattern": "～であって欲しい",
+          "meaning": "mong rằng ~ là / sẽ là ~",
+          "form": "N／Na＋であってほしい",
+          "example": "世界が平和であってほしい。"
+        },
+        "evidence": "せっかくふるさとを持っているのに、それを悪くいうのはもったいない。ふるさとはいい場所であって欲しい。だから、その手伝いがしたいと思う。",
+        "tip": null
+      }
+    }
+  ]
+}

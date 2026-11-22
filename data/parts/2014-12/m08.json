@@ -1,0 +1,162 @@
+{
+  "exam": "2014-12",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp 4 vế cho đúng thứ tự và chọn vế đứng ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "Ｘ社から新しく発売される腕時計は、これまでのどの時計にも＿＿＿ ＿＿＿ ★ ＿＿＿ ＿＿＿そうで、非常に楽しみだ。",
+      "options": ["なっている", "デザインに", "なかった", "全く新しい"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Nghe nói chiếc đồng hồ đeo tay mà công ty X sắp tung ra có thiết kế hoàn toàn mới chưa từng có ở bất kỳ chiếc đồng hồ nào trước đây, tôi rất mong chờ.",
+        "why": "Thứ tự đúng: どの時計にも 3 なかった → 4 全く新しい → 2 デザインに → 1 なっている そうで. 'どの時計にもなかった' bổ nghĩa cho '全く新しいデザイン'; 'デザインになっている' + そうだ (nghe nói). ★ ở vị trí 3 = デザインに.",
+        "options": [
+          "なっている → vị trí 4, nối với そうで (なっているそうで). Không phải ★.",
+          "デザインに → vị trí 3 (★). ĐÚNG.",
+          "なかった → vị trí 1, nối trực tiếp với どの時計にも (どの時計にもなかった). Không phải ★.",
+          "全く新しい → vị trí 2, bổ nghĩa cho デザイン. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "腕時計", "r": "うでどけい", "hv": "OẢN THỜI KẾ", "vi": "đồng hồ đeo tay" },
+          { "w": "発売", "r": "はつばい", "hv": "PHÁT MẠI", "vi": "phát hành, bán ra" },
+          { "w": "全く", "r": "まったく", "hv": "TOÀN", "vi": "hoàn toàn" }
+        ],
+        "grammar": {
+          "pattern": "どの〜にも〜ない ／ 〜になっている ／ 普通形＋そうだ",
+          "meaning": "không có ở bất kỳ ~ nào; được làm thành ~; nghe nói",
+          "form": "どの時計にもなかった + N ／ N + になっているそうだ",
+          "example": "どの店にもなかった商品が、ここにはある。（Mặt hàng không có ở bất kỳ cửa hàng nào lại có ở đây.）"
+        },
+        "evidence": null,
+        "tip": "Bắt đầu từ cụm cố định: 'どの〜にも' luôn cần phủ định ngay sau → なかった."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "姉の＿＿＿ ＿＿＿ ★ ＿＿＿ ＿＿＿私にはとてもできない。",
+      "options": ["欠かさず", "ように", "10年以上一日も", "日記を書くなんて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Viết nhật ký hơn 10 năm không bỏ sót ngày nào như chị gái thì tôi không thể nào làm được.",
+        "why": "Thứ tự đúng: 姉の 2 ように → 3 10年以上一日も → 1 欠かさず → 4 日記を書くなんて 私には…. 'Nのように' = giống như N; '一日も欠かさず' = không bỏ ngày nào; 'なんて' + とてもできない. ★ ở vị trí 3 = 欠かさず.",
+        "options": [
+          "欠かさず → vị trí 3 (★), đi sau 一日も. ĐÚNG.",
+          "ように → vị trí 1, ngay sau 姉の. Không phải ★.",
+          "10年以上一日も → vị trí 2. Không phải ★.",
+          "日記を書くなんて → vị trí 4, nối với 私にはとてもできない. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "欠かす", "r": "かかす", "hv": "KHIẾM", "vi": "bỏ sót, thiếu" },
+          { "w": "日記", "r": "にっき", "hv": "NHẬT KÝ", "vi": "nhật ký" },
+          { "w": "とても〜ない", "r": "とても〜ない", "hv": "", "vi": "không thể nào ~" }
+        ],
+        "grammar": {
+          "pattern": "一日も欠かさず ／ 〜なんて",
+          "meaning": "không bỏ sót một ngày nào; (nhấn mạnh với cảm xúc) việc ~ như thế thì",
+          "form": "一日も + 欠かさず + V ／ V普通形 + なんて",
+          "example": "毎朝一日も欠かさずジョギングしている。（Sáng nào cũng chạy bộ, không bỏ ngày nào.）"
+        },
+        "evidence": null,
+        "tip": "一日も + phủ định (欠かさず = 欠かさないで) là cặp cố định."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "朝、開花したときには＿＿＿ ＿＿＿ ★ ＿＿＿ ＿＿＿珍しい花があります。",
+      "options": ["花が", "真っ白だった", "次第にピンクへと変化していく", "夕方が近づくにつれて"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Có một loài hoa hiếm, khi nở vào buổi sáng thì trắng tinh, nhưng càng về chiều thì dần chuyển sang màu hồng.",
+        "why": "Thứ tự đúng: 開花したときには 2 真っ白だった → 1 花が → 4 夕方が近づくにつれて → 3 次第にピンクへと変化していく 珍しい花. Mệnh đề '朝…真っ白だった花が…変化していく' bổ nghĩa cho 珍しい花. ★ ở vị trí 3 = 夕方が近づくにつれて.",
+        "options": [
+          "花が → vị trí 2, chủ ngữ của 変化していく. Không phải ★.",
+          "真っ白だった → vị trí 1, nối với 開花したときには. Không phải ★.",
+          "次第にピンクへと変化していく → vị trí 4, bổ nghĩa cho 珍しい花. Không phải ★.",
+          "夕方が近づくにつれて → vị trí 3 (★). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "開花", "r": "かいか", "hv": "KHAI HOA", "vi": "nở hoa" },
+          { "w": "次第に", "r": "しだいに", "hv": "THỨ ĐỆ", "vi": "dần dần" },
+          { "w": "変化", "r": "へんか", "hv": "BIẾN HÓA", "vi": "thay đổi, biến đổi" },
+          { "w": "珍しい", "r": "めずらしい", "hv": "TRÂN", "vi": "hiếm, lạ" }
+        ],
+        "grammar": {
+          "pattern": "〜につれて",
+          "meaning": "càng ~ thì càng ~ (thay đổi song song)",
+          "form": "Vる／N + につれて",
+          "example": "年をとるにつれて、体力が落ちる。（Càng có tuổi thể lực càng giảm.）"
+        },
+        "evidence": null,
+        "tip": "につれて luôn đi với vế sau mang tính biến đổi dần (次第に〜変化していく)."
+      }
+    },
+    {
+      "num": 48,
+      "passage": null,
+      "stem": "部下の作った書類にミスがあるとき、部下にもう一度＿＿＿ ＿＿＿ ★ ＿＿＿ ＿＿＿多い。",
+      "options": ["書き直させるより", "つい自分で直してしまうことも", "早いと思って", "自分でやってしまったほうが"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Khi hồ sơ cấp dưới làm có lỗi, nhiều khi tôi nghĩ tự mình làm còn nhanh hơn là bắt cấp dưới viết lại lần nữa, nên lỡ tự sửa luôn.",
+        "why": "Thứ tự đúng: もう一度 1 書き直させるより → 4 自分でやってしまったほうが → 3 早いと思って → 2 つい自分で直してしまうことも 多い. Mẫu 'AよりBほうが早い'; '〜と思って' nêu lý do; '〜ことも多い'. ★ ở vị trí 3 = 早いと思って.",
+        "options": [
+          "書き直させるより → vị trí 1, nối với もう一度. Không phải ★.",
+          "つい自分で直してしまうことも → vị trí 4, nối với 多い. Không phải ★.",
+          "早いと思って → vị trí 3 (★). ĐÚNG.",
+          "自分でやってしまったほうが → vị trí 2 (Aより Bほうが). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "部下", "r": "ぶか", "hv": "BỘ HẠ", "vi": "cấp dưới" },
+          { "w": "書類", "r": "しょるい", "hv": "THƯ LOẠI", "vi": "hồ sơ, giấy tờ" },
+          { "w": "書き直す", "r": "かきなおす", "hv": "THƯ TRỰC", "vi": "viết lại" }
+        ],
+        "grammar": {
+          "pattern": "AよりBほうが〜 ／ 〜ことも多い",
+          "meaning": "B thì ~ hơn A; cũng thường có khi ~",
+          "form": "Vるより + Vたほうが + A ／ Vる + ことも多い",
+          "example": "電話するより会いに行ったほうが早い。（Đến gặp còn nhanh hơn gọi điện.）"
+        },
+        "evidence": null,
+        "tip": "Thấy より → tìm ngay vế có ほうが để ghép."
+      }
+    },
+    {
+      "num": 49,
+      "passage": null,
+      "stem": "友人に＿＿＿ ＿＿＿ ★ ＿＿＿が、やってみたら意外に面白くて、自分に向いていると感じた。",
+      "options": ["塾講師の仕事だった", "どうしても", "引き受けた", "と頼まれて"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đó là công việc giáo viên lò luyện thi mà tôi đã nhận vì bạn nhờ 'nhất định phải giúp', nhưng làm thử thì thú vị bất ngờ, tôi cảm thấy hợp với mình.",
+        "why": "Thứ tự đúng: 友人に 2 どうしても → 4 と頼まれて → 3 引き受けた → 1 塾講師の仕事だった が. '友人に「どうしても」と頼まれて' (bị/được bạn nhờ); '引き受けた' bổ nghĩa cho '塾講師の仕事'. ★ ở vị trí 3 = 引き受けた.",
+        "options": [
+          "塾講師の仕事だった → vị trí 4, nối với が. Không phải ★.",
+          "どうしても → vị trí 1 (lời nhờ: どうしても). Không phải ★.",
+          "引き受けた → vị trí 3 (★), bổ nghĩa cho 仕事. ĐÚNG.",
+          "と頼まれて → vị trí 2, đi sau どうしても. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "引き受ける", "r": "ひきうける", "hv": "DẪN THỤ", "vi": "nhận (việc), đảm nhận" },
+          { "w": "塾講師", "r": "じゅくこうし", "hv": "THỤC GIẢNG SƯ", "vi": "giáo viên lò luyện thi" },
+          { "w": "頼む", "r": "たのむ", "hv": "LẠI", "vi": "nhờ" },
+          { "w": "向いている", "r": "むいている", "hv": "HƯỚNG", "vi": "phù hợp" }
+        ],
+        "grammar": {
+          "pattern": "（人）に〜と頼まれる",
+          "meaning": "được/bị (ai) nhờ rằng ~ (bị động)",
+          "form": "人 + に + 「…」と + 頼まれる",
+          "example": "先輩に手伝ってと頼まれた。（Tôi được tiền bối nhờ giúp.）"
+        },
+        "evidence": null,
+        "tip": "友人に + 頼まれて (bị động) là cặp tự nhiên; 'Vた + N' để bổ nghĩa danh từ."
+      }
+    }
+  ]
+}

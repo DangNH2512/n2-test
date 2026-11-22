@@ -1,0 +1,192 @@
+{
+  "exam": "2013-12",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống (theo ngữ cảnh).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "オリンピックの開会式の様子が、会場から世界中に（　　）された。",
+      "options": ["普及", "接続", "分配", "中継"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Quang cảnh lễ khai mạc Olympic đã được truyền hình trực tiếp từ hội trường ra toàn thế giới.",
+        "why": "中継 (ちゅうけい – TRUNG KẾ) = truyền hình/phát sóng tiếp sóng (thường là trực tiếp). 'Từ hội trường ra toàn thế giới' → 中継される.",
+        "options": [
+          "普及 → phổ cập, lan rộng (sản phẩm, công nghệ). Sai.",
+          "接続 → kết nối (mạng, thiết bị). Sai.",
+          "分配 → phân chia (lợi nhuận). Sai.",
+          "中継 → tiếp sóng, phát trực tiếp. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "中継", "r": "ちゅうけい", "hv": "TRUNG KẾ", "vi": "tiếp sóng, phát (trực tiếp)" },
+          { "w": "生中継", "r": "なまちゅうけい", "hv": "SINH TRUNG KẾ", "vi": "truyền hình trực tiếp" },
+          { "w": "開会式", "r": "かいかいしき", "hv": "KHAI HỘI THỨC", "vi": "lễ khai mạc" },
+          { "w": "普及", "r": "ふきゅう", "hv": "PHỔ CẬP", "vi": "phổ cập, phổ biến rộng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Ngữ cảnh 'từ 会場/現場 truyền đi' → 中継. Tín hiệu là cụm 〜から…に."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "彼は最近かなりの収入があったらしく、（　　）生活をするようになった。",
+      "options": ["ぜいたくな", "豊富な", "わずかな", "質素な"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Có vẻ gần đây anh ấy có thu nhập khá nhiều, nên đã bắt đầu sống xa hoa.",
+        "why": "Thu nhập nhiều → lối sống xa hoa: ぜいたくな生活 (贅沢 – xa xỉ, hoang phí).",
+        "options": [
+          "ぜいたくな → xa xỉ, sang trọng. ĐÚNG.",
+          "豊富な → phong phú (dùng cho lượng: 経験が豊富, 資源が豊富), không đi với 生活. Sai.",
+          "わずかな → ít ỏi; ngược nghĩa. Sai.",
+          "質素な → giản dị, đạm bạc; ngược nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "贅沢", "r": "ぜいたく", "hv": "CHUẾ TRẠCH", "vi": "xa xỉ, xa hoa" },
+          { "w": "収入", "r": "しゅうにゅう", "hv": "THU NHẬP", "vi": "thu nhập" },
+          { "w": "質素", "r": "しっそ", "hv": "CHẤT TỐ", "vi": "giản dị, đạm bạc" },
+          { "w": "豊富", "r": "ほうふ", "hv": "PHONG PHÚ", "vi": "phong phú, dồi dào" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cặp đối: ぜいたくな生活 ↔ 質素な生活. 豊富 chỉ 'nhiều về số lượng/chủng loại'."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "絵のことはよく知らないので、この作品にどのくらいの価値があるのか（　　）がつかない。",
+      "options": ["発想", "仮定", "見当", "目印"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vì không rành về tranh nên tôi không đoán được tác phẩm này có giá trị đến mức nào.",
+        "why": "Cụm cố định 見当がつく / 見当がつかない (けんとう – KIẾN ĐƯƠNG) = đoán được / không đoán ra.",
+        "options": [
+          "発想 → ý tưởng, cách nghĩ; không đi với がつかない. Sai.",
+          "仮定 → giả định. Sai.",
+          "見当 → 見当がつかない: không đoán được. ĐÚNG.",
+          "目印 → dấu hiệu, mốc nhận biết. Sai."
+        ],
+        "vocab": [
+          { "w": "見当", "r": "けんとう", "hv": "KIẾN ĐƯƠNG", "vi": "sự phỏng đoán, ước chừng" },
+          { "w": "価値", "r": "かち", "hv": "GIÁ TRỊ", "vi": "giá trị" },
+          { "w": "目印", "r": "めじるし", "hv": "MỤC ẤN", "vi": "dấu hiệu, mốc" },
+          { "w": "発想", "r": "はっそう", "hv": "PHÁT TƯỞNG", "vi": "ý tưởng, cách nghĩ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Collocation: 見当がつく/つかない, 見当をつける (ước đoán), 見当違い (đoán sai)."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "不要な物を捨てて、散らかった部屋を整理したら、気分が（　　）した。",
+      "options": ["ぎっしり", "すっきり", "ぶらぶら", "きらきら"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Vứt đồ không cần thiết và dọn căn phòng bừa bộn xong thì tâm trạng thấy nhẹ nhõm, sảng khoái.",
+        "why": "すっきりする = gọn gàng; (tâm trạng) nhẹ nhõm, thoải mái. Dọn phòng xong → 気分がすっきりした.",
+        "options": [
+          "ぎっしり → chật ních, kín đặc. Sai.",
+          "すっきり → nhẹ nhõm, sảng khoái. ĐÚNG.",
+          "ぶらぶら → đi lang thang; lủng lẳng. Sai.",
+          "きらきら → lấp lánh. Sai."
+        ],
+        "vocab": [
+          { "w": "すっきり", "r": "すっきり", "hv": "", "vi": "nhẹ nhõm, gọn gàng, sảng khoái" },
+          { "w": "散らかる", "r": "ちらかる", "hv": "TÁN", "vi": "bừa bộn, vương vãi" },
+          { "w": "整理", "r": "せいり", "hv": "CHỈNH LÝ", "vi": "sắp xếp, dọn dẹp" },
+          { "w": "ぎっしり", "r": "ぎっしり", "hv": "", "vi": "chật kín, dày đặc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "気分 + すっきり/さっぱり = thấy nhẹ người. Bẫy: ぎっしり (nhồi chặt) là nghĩa gần ngược lại."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "気温の上昇に（　　）して、エアコンの売上も伸びているらしい。",
+      "options": ["比例", "対応", "比較", "応答"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Có vẻ doanh số máy điều hòa cũng tăng tỉ lệ thuận với nhiệt độ tăng.",
+        "why": "〜に比例して (ひれい – TỈ LỆ) = tỉ lệ thuận với, tăng theo. Nhiệt độ tăng ↔ doanh số tăng cùng chiều.",
+        "options": [
+          "比例 → 〜に比例して: tỉ lệ thuận với. ĐÚNG.",
+          "対応 → 〜に対応して: ứng phó/tương ứng với; không diễn tả 'cùng tăng'. Sai.",
+          "比較 → so sánh; dùng 〜と比較して. Sai.",
+          "応答 → hồi đáp, trả lời. Sai."
+        ],
+        "vocab": [
+          { "w": "比例", "r": "ひれい", "hv": "TỈ LỆ", "vi": "tỉ lệ thuận" },
+          { "w": "上昇", "r": "じょうしょう", "hv": "THƯỢNG THĂNG", "vi": "sự tăng lên" },
+          { "w": "売上", "r": "うりあげ", "hv": "MẠI THƯỢNG", "vi": "doanh thu" },
+          { "w": "伸びる", "r": "のびる", "hv": "THÂN", "vi": "tăng, phát triển; dài ra" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "A に比例して B = A tăng thì B tăng theo. Ngược: 反比例 (tỉ lệ nghịch)."
+      }
+    },
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "地図を見ながら歩いていたら、小さな石に（　　）、転んでしまった。",
+      "options": ["つっこんで", "つまずいて", "くっついて", "かたむいて"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Vừa đi vừa nhìn bản đồ nên tôi vấp phải hòn đá nhỏ và ngã mất.",
+        "why": "石につまずく (躓く) = vấp phải đá. Vấp → ngã (転ぶ) là chuỗi tự nhiên.",
+        "options": [
+          "つっこんで → 突っ込む: lao vào, đâm vào. Sai.",
+          "つまずいて → 躓く: vấp. ĐÚNG.",
+          "くっついて → くっつく: dính vào. Sai.",
+          "かたむいて → 傾く: nghiêng. Sai."
+        ],
+        "vocab": [
+          { "w": "躓く", "r": "つまずく", "hv": "CHÍ", "vi": "vấp; vấp váp, thất bại" },
+          { "w": "転ぶ", "r": "ころぶ", "hv": "CHUYỂN", "vi": "ngã" },
+          { "w": "傾く", "r": "かたむく", "hv": "KHUYNH", "vi": "nghiêng" },
+          { "w": "突っ込む", "r": "つっこむ", "hv": "ĐỘT", "vi": "đâm vào, lao vào" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜につまずく: vấp vào cái gì. Nghĩa bóng: 仕事でつまずく = gặp trắc trở trong công việc."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "その会にはぜひ出席したいのですが、（　　）ほかに予定が入っているんです。",
+      "options": ["せっかく", "うっかり", "あいにく", "わざわざ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi rất muốn tham dự buổi họp đó, nhưng không may là tôi đã có kế hoạch khác mất rồi.",
+        "why": "あいにく = không may, rất tiếc (tình huống không như mong muốn). Dùng khi từ chối lịch sự.",
+        "options": [
+          "せっかく → đã cất công / hiếm có dịp (せっかくの機会). Không hợp. Sai.",
+          "うっかり → lơ đễnh, vô ý (quên). Sai.",
+          "あいにく → không may, tiếc là. ĐÚNG.",
+          "わざわざ → cất công, mất công. Sai."
+        ],
+        "vocab": [
+          { "w": "あいにく", "r": "あいにく", "hv": "", "vi": "không may, rất tiếc" },
+          { "w": "出席", "r": "しゅっせき", "hv": "XUẤT TỊCH", "vi": "tham dự, có mặt" },
+          { "w": "せっかく", "r": "せっかく", "hv": "", "vi": "cất công; hiếm có dịp" },
+          { "w": "うっかり", "r": "うっかり", "hv": "", "vi": "lơ đễnh, vô ý" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Mẫu từ chối: 「あいにく、その日は都合が悪くて…」. あいにくの雨 = trời mưa thật không may."
+      }
+    }
+  ]
+}

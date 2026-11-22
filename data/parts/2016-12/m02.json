@@ -1,0 +1,136 @@
+{
+  "exam": "2016-12",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết Kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "友人を家に<u>まねいた</u>。",
+      "options": ["伯いた", "招いた", "泊いた", "召いた"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi đã mời bạn đến nhà.",
+        "why": "まねく viết là 招く (CHIÊU) = mời, mời gọi. Bộ 扌(tay) + 召 → vẫy tay gọi người đến.",
+        "options": [
+          "伯いた → 伯 (BÁ): bác (伯父 おじ), không có động từ này. Sai.",
+          "招いた → 招く: mời. ĐÚNG.",
+          "泊いた → 泊 (BẠC) dùng trong 泊まる: trọ lại. Sai.",
+          "召いた → 召 (TRIỆU) dùng trong 召し上がる; thiếu bộ tay. Sai."
+        ],
+        "vocab": [
+          { "w": "招く", "r": "まねく", "hv": "CHIÊU", "vi": "mời; dẫn đến (kết quả)" },
+          { "w": "招待", "r": "しょうたい", "hv": "CHIÊU ĐÃI", "vi": "mời (dự tiệc...)" },
+          { "w": "友人", "r": "ゆうじん", "hv": "HỮU NHÂN", "vi": "bạn bè" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "招 = 扌 + 召: giơ tay gọi. 招待状 = thiệp mời."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "この商品は安全性が<u>ほしょう</u>されている。",
+      "options": ["補証", "保正", "保証", "補正"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Sản phẩm này được bảo đảm về tính an toàn.",
+        "why": "ほしょう (bảo đảm chất lượng) viết là 保証 (BẢO CHỨNG): 保 = giữ, 証 = chứng nhận.",
+        "options": [
+          "補証 → không có từ này. Sai.",
+          "保正 → không có từ này. Sai.",
+          "保証 → bảo đảm, bảo hành. ĐÚNG.",
+          "補正 → ほせい: hiệu chỉnh, bổ sung (補正予算). Đọc khác. Sai."
+        ],
+        "vocab": [
+          { "w": "保証", "r": "ほしょう", "hv": "BẢO CHỨNG", "vi": "bảo đảm, bảo hành" },
+          { "w": "安全性", "r": "あんぜんせい", "hv": "AN TOÀN TÍNH", "vi": "tính an toàn" },
+          { "w": "保障", "r": "ほしょう", "hv": "BẢO CHƯỚNG", "vi": "bảo vệ, bảo đảm (an ninh, xã hội)" },
+          { "w": "補償", "r": "ほしょう", "hv": "BỔ THƯỜNG", "vi": "bồi thường" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "3 từ ほしょう: 保証 (bảo hành sản phẩm), 保障 (社会保障), 補償 (bồi thường thiệt hại)."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "この企業では、さまざまな<u>もよおし</u>を行っている。",
+      "options": ["携し", "催し", "推し", "権し"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Doanh nghiệp này tổ chức nhiều sự kiện khác nhau.",
+        "why": "もよおし viết là 催し (THÔI) = sự kiện, buổi tổ chức. Động từ 催す (もよおす) = tổ chức.",
+        "options": [
+          "携し → 携 (HUỀ): 携帯, 携わる. Sai.",
+          "催し → sự kiện. ĐÚNG.",
+          "推し → 推 (THÔI/SUY): 推す おす = đề cử. Sai.",
+          "権し → 権 (QUYỀN): 権利. Sai."
+        ],
+        "vocab": [
+          { "w": "催し", "r": "もよおし", "hv": "THÔI", "vi": "sự kiện, lễ hội" },
+          { "w": "開催", "r": "かいさい", "hv": "KHAI THÔI", "vi": "tổ chức (sự kiện)" },
+          { "w": "企業", "r": "きぎょう", "hv": "XÍ NGHIỆP", "vi": "doanh nghiệp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "催 = 亻 + 山 + 隹. Nhớ qua 開催 (かいさい) và 主催 (しゅさい: đứng ra tổ chức)."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "銀行に行って、お札を<u>こうか</u>に替えた。",
+      "options": ["硬貨", "固貨", "硬価", "固価"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đến ngân hàng và đổi tiền giấy sang tiền xu.",
+        "why": "こうか (tiền xu) viết là 硬貨 (NGẠNH HÓA): 硬 = cứng, 貨 = tiền. Đối lập với お札/紙幣 (tiền giấy).",
+        "options": [
+          "硬貨 → tiền xu. ĐÚNG.",
+          "固貨 → 固 đọc こ, không có từ này. Sai.",
+          "硬価 → 価 = giá cả, không phải tiền. Sai.",
+          "固価 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "硬貨", "r": "こうか", "hv": "NGẠNH HÓA", "vi": "tiền xu" },
+          { "w": "お札", "r": "おさつ", "hv": "TRÁT", "vi": "tiền giấy" },
+          { "w": "替える", "r": "かえる", "hv": "THẾ", "vi": "đổi, thay" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đồng âm こうか: 効果 (hiệu quả), 高価 (đắt tiền), 硬貨 (tiền xu)."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "わが社の商品はここで<u>せいぞう</u>されている。",
+      "options": ["製増", "制増", "制造", "製造"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Sản phẩm của công ty chúng tôi được sản xuất ở đây.",
+        "why": "せいぞう viết là 製造 (CHẾ TẠO) = sản xuất, chế tạo. 製 (có bộ 衣) = làm ra đồ vật; 造 = tạo ra.",
+        "options": [
+          "製増 → 増 (TĂNG) = tăng, sai chữ. Sai.",
+          "制増 → sai cả hai chữ. Sai.",
+          "制造 → 制 (CHẾ) = chế độ, kiểm soát, không dùng cho sản xuất. Sai.",
+          "製造 → sản xuất. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "製造", "r": "せいぞう", "hv": "CHẾ TẠO", "vi": "sản xuất, chế tạo" },
+          { "w": "製品", "r": "せいひん", "hv": "CHẾ PHẨM", "vi": "sản phẩm" },
+          { "w": "制度", "r": "せいど", "hv": "CHẾ ĐỘ", "vi": "chế độ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "製 (có 衣) = làm ra đồ: 製品・製造・手製. 制 = chế độ, khống chế: 制度・制限."
+      }
+    }
+  ]
+}

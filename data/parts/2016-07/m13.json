@@ -1,0 +1,99 @@
+{
+  "exam": "2016-07",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn dài và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "幸福は人生の目標である。それだけに一体どういうものが「幸福」なのか知るのは、それを追求する前提として深刻な課題であると思う。あるとき、若い人が、私に向かって「幸福というのはあるのか」と深刻そうな顔をして聞いたことがある。\n彼は人間の欲望（注1）というのは無限に続くものであるから、幸福感まではなかなか到達しないのではないかというのだ。なるほどそういえるかもしれない。人間が進歩する動物であるならばなおさらのことだ（注2）。\nでも、私は幸福は存在すると思っている。趣味に例をとっても、ある人は野球することをあげ、他の人達は読書や映画、音楽とそれぞれに主張する。登山や魚釣りという人もいるだろう。このように趣味は人によってさまざまだが、同様に幸福についても人によっては考え方がまちまちだ（注3）と思う。\n「幸福とはどのようなもの？」と聞かれたら「裕福（注4）になること」と答える人もいるのだろう。また、「社会的な地位に到達する」のを幸福だと考えているかもしれない。逆にそのような裕福とか社会的地位を否定して、「心の豊かな人」になることが幸福だと思っている人もいると思う。思考や感情、さらには生活様式さえ異なる人間のことだ。幸福についての考え方に、差があってもいいのではないか。ただ同じく裕福を主張しても、多くの人の幸福を願って慈善事業に協力する人もいれば、一方には「がめつい奴」（注5）の看板を背負って生きてるような人もいる。他人になんといわれようと、その人はそれで結構幸福なのだ。人間は自分のために生きるのだから、他人に迷惑さえかけなければこれでもいいのである。\nしかし、私は<u>スタートの段階</u>ではそれでもいいが、いつまでもそのままの考えから進歩しないのでは困ると思う。私自身としては、別な生き方をとる。幸福というものについて、これだといい切れる考えはまだ私も持っていないが、私は「会社での仕事も楽しく、家庭での生活も楽しい、つまり一日二十四時間を楽しく過ごすこと」が幸福だと思っている。言葉はすこぶる（注6）平凡だが、この内容は非凡だと自負している（注7）。それと、自分の幸福な状態が「他人の目にも楽しく、心も楽しませる」ものでありたいとも私は思う。\n（本田宗一郎『得手に帆あげて』による）\n（注1）欲望：欲しいと強く望む気持ち\n（注2）なおさらのことだ：ここでは、ますますそうだといえる\n（注3）まちまちだ：それぞれ違っている\n（注4）裕福：金持ち\n（注5）「がめつい奴」の看板を背負って生きてるような人：けちで欲張りな人\n（注6）すこぶる：非常に\n（注7）自負する：自分自身に自信や誇りを持つ"
+    }
+  ],
+  "questions": [
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "若い人が「幸福というのはあるのか」と聞いたのはなぜか。",
+      "options": [
+        "今まで何をしても幸福感に到達することができなかったから",
+        "幸福についての考えにはいろいろあり、何が幸福かわからなくなったから",
+        "人間の欲はなくならないので、いつまでも幸福感が得られないと考えたから",
+        "人間の欲はそれぞれ異なるので、幸福についての考え方も異なると考えたから"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tại sao người trẻ hỏi 'Hạnh phúc có tồn tại không'? → Vì nghĩ rằng lòng ham muốn của con người không bao giờ hết nên mãi không đạt được cảm giác hạnh phúc.",
+        "why": "「彼は人間の欲望というのは無限に続くものであるから、幸福感まではなかなか到達しないのではないかというのだ」 → ham muốn vô hạn nên khó đạt tới hạnh phúc.",
+        "options": [
+          "Không nói anh ta đã thử mọi cách mà không hạnh phúc. Sai.",
+          "Sự đa dạng quan niệm về hạnh phúc là ý của tác giả, không phải lý do của người trẻ. Sai.",
+          "Ham muốn vô hạn → mãi không có hạnh phúc. ĐÚNG.",
+          "'Mỗi người khác nhau' là ý của tác giả. Sai."
+        ],
+        "vocab": [
+          { "w": "欲望", "r": "よくぼう", "hv": "DỤC VỌNG", "vi": "dục vọng, ham muốn" },
+          { "w": "無限", "r": "むげん", "hv": "VÔ HẠN", "vi": "vô hạn" },
+          { "w": "到達", "r": "とうたつ", "hv": "ĐÁO ĐẠT", "vi": "đạt tới" },
+          { "w": "追求", "r": "ついきゅう", "hv": "TRUY CẦU", "vi": "theo đuổi" }
+        ],
+        "grammar": null,
+        "evidence": "彼は人間の欲望というのは無限に続くものであるから、幸福感まではなかなか到達しないのではないかというのだ。",
+        "tip": "～というのだ = (người đó) nói rằng ~ → giải thích lời của người trẻ."
+      }
+    },
+    {
+      "num": 72,
+      "passage": "p1",
+      "stem": "筆者は<u>スタートの段階</u>ではどうすればいいと述べているか。",
+      "options": ["自分が幸福だと思えることをすればいい。", "他人と同じ程度の幸福を目指せばいい。", "社会的に評価されることをすればいい。", "「心の豊かな人」になることを目指せばいい。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tác giả nói ở giai đoạn khởi đầu thì nên làm gì? → Làm những gì bản thân thấy là hạnh phúc là được.",
+        "why": "「それでもいい」 chỉ lại đoạn trước: mỗi người có quan niệm hạnh phúc khác nhau, dù người khác nói gì, chỉ cần bản thân thấy hạnh phúc và không làm phiền ai là được.",
+        "options": [
+          "Làm điều bản thân cho là hạnh phúc. ĐÚNG.",
+          "Không nói nhắm tới mức hạnh phúc giống người khác. Sai.",
+          "Địa vị xã hội chỉ là một ví dụ trong nhiều quan niệm. Sai.",
+          "'Người có tâm hồn phong phú' cũng chỉ là một ví dụ. Sai."
+        ],
+        "vocab": [
+          { "w": "段階", "r": "だんかい", "hv": "ĐOẠN GIAI", "vi": "giai đoạn" },
+          { "w": "裕福", "r": "ゆうふく", "hv": "DỤ PHÚC", "vi": "giàu có" },
+          { "w": "地位", "r": "ちい", "hv": "ĐỊA VỊ", "vi": "địa vị" },
+          { "w": "迷惑", "r": "めいわく", "hv": "MÊ HOẶC", "vi": "phiền hà" }
+        ],
+        "grammar": null,
+        "evidence": "他人になんといわれようと、その人はそれで結構幸福なのだ。人間は自分のために生きるのだから、他人に迷惑さえかけなければこれでもいいのである。しかし、私はスタートの段階ではそれでもいいが、…",
+        "tip": "それでもいい: それ = điều vừa nói ngay trước (tự cho là hạnh phúc là được)."
+      }
+    },
+    {
+      "num": 73,
+      "passage": "p1",
+      "stem": "筆者の目指している幸福とはどのようなものか。",
+      "options": ["会社や家庭よりも、社会全体を優先する。", "一日二十四時間を、自分や家族のために大切に使う。", "常に楽しい生活を送り、その生き方を周りの人に認めてもらう。", "会社でも家庭でも楽しく過ごし、その姿が周りの人も楽しませる。"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hạnh phúc mà tác giả hướng tới là gì? → Sống vui ở cả công ty lẫn gia đình, và hình ảnh đó cũng làm người xung quanh vui.",
+        "why": "Tác giả: 'công việc ở công ty vui, cuộc sống gia đình vui – 24 giờ đều vui' và 'muốn trạng thái hạnh phúc của mình cũng làm người khác vui mắt, vui lòng'.",
+        "options": [
+          "Không nói ưu tiên xã hội hơn công ty/gia đình. Sai.",
+          "Không phải 'dùng cẩn thận cho mình và gia đình', mà là 'sống vui'. Sai.",
+          "Không cần người khác 'công nhận', mà là làm người khác 'vui'. Sai.",
+          "Vui ở công ty lẫn gia đình, khiến người khác cũng vui. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "平凡", "r": "へいぼん", "hv": "BÌNH PHÀM", "vi": "bình thường, tầm thường" },
+          { "w": "非凡", "r": "ひぼん", "hv": "PHI PHÀM", "vi": "phi thường" },
+          { "w": "自負", "r": "じふ", "hv": "TỰ PHỤ", "vi": "tự hào, tự tin" },
+          { "w": "目指す", "r": "めざす", "hv": "MỤC CHỈ", "vi": "nhắm tới" }
+        ],
+        "grammar": null,
+        "evidence": "私は「会社での仕事も楽しく、家庭での生活も楽しい、つまり一日二十四時間を楽しく過ごすこと」が幸福だと思っている。…それと、自分の幸福な状態が「他人の目にも楽しく、心も楽しませる」ものでありたいとも私は思う。",
+        "tip": "Bẫy 3: '認めてもらう' (được công nhận) ≠ '楽しませる' (làm cho vui)."
+      }
+    }
+  ]
+}

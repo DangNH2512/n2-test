@@ -1,0 +1,367 @@
+{
+  "exam": "2012-07",
+  "mondai": 7,
+  "section": "grammar",
+  "instruction": "次の文の（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn phương án thích hợp nhất để điền vào chỗ trống trong câu.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 33,
+      "passage": null,
+      "stem": "小川「ねえ、山田さん。昨日の夜、オリンピック中継見た？」\n山田「ううん。昨日は残業で疲れちゃって。だから、夕飯（　　）食べないで寝ちゃったんだ。」",
+      "options": ["も", "が", "とは", "にまで"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Ogawa: \"Này Yamada, tối qua cậu có xem truyền hình trực tiếp Olympic không?\" – Yamada: \"Không. Hôm qua tăng ca mệt quá. Nên tớ ngủ luôn mà thậm chí không ăn tối.\"",
+        "why": "N + も + Vないで = đến cả ~ cũng không (nhấn mạnh mức độ). 夕飯も食べないで = đến bữa tối cũng không ăn, huống gì xem TV.",
+        "options": [
+          "も → nhấn mạnh 'đến cả ~ cũng'. ĐÚNG.",
+          "が → 夕飯が食べないで sai trợ từ (食べる cần を). Sai.",
+          "とは → dùng để định nghĩa/ngạc nhiên, không hợp. Sai.",
+          "にまで → 'đến tận ~', không đi với 食べる như vậy. Sai."
+        ],
+        "vocab": [
+          { "w": "中継", "r": "ちゅうけい", "hv": "TRUNG KẾ", "vi": "truyền hình trực tiếp" },
+          { "w": "残業", "r": "ざんぎょう", "hv": "TÀN NGHIỆP", "vi": "làm thêm giờ" },
+          { "w": "夕飯", "r": "ゆうはん", "hv": "TỊCH PHẠN", "vi": "bữa tối" }
+        ],
+        "grammar": {
+          "pattern": "N + も + Vないで",
+          "meaning": "đến cả ~ cũng không làm mà (nhấn mạnh)",
+          "form": "N + も + Vない形 + で",
+          "example": "あいさつもしないで帰ってしまった。(Về mất mà đến chào cũng không.)"
+        },
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 34,
+      "passage": null,
+      "stem": "（広告で）\n川西ピアノ教室では、初心者、経験者（　　）、どなたにでも丁寧に指導します。",
+      "options": ["を通して", "を問わず", "にかけて", "にもかかわらず"],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Quảng cáo) Lớp piano Kawanishi hướng dẫn tận tình cho bất kỳ ai, bất kể là người mới bắt đầu hay người có kinh nghiệm.",
+        "why": "AB を問わず = không phân biệt A hay B. Đi sau cặp đối lập (初心者・経験者) và kết hợp với どなたにでも.",
+        "options": [
+          "を通して → thông qua; suốt (thời gian). Sai.",
+          "を問わず → không phân biệt, bất kể. ĐÚNG.",
+          "にかけて → từ ~ đến ~ (thời gian/không gian). Sai.",
+          "にもかかわらず → mặc dù. Sai nghĩa."
+        ],
+        "vocab": [
+          { "w": "初心者", "r": "しょしんしゃ", "hv": "SƠ TÂM GIẢ", "vi": "người mới bắt đầu" },
+          { "w": "経験者", "r": "けいけんしゃ", "hv": "KINH NGHIỆM GIẢ", "vi": "người có kinh nghiệm" },
+          { "w": "指導", "r": "しどう", "hv": "CHỈ ĐẠO", "vi": "hướng dẫn, chỉ dạy" }
+        ],
+        "grammar": {
+          "pattern": "～を問わず",
+          "meaning": "không phân biệt, bất kể",
+          "form": "N(cặp đối lập / 年齢・性別・経験…) + を問わず",
+          "example": "年齢、性別を問わず、だれでも参加できます。"
+        },
+        "evidence": null,
+        "tip": "Hay đi với: 男女を問わず, 昼夜を問わず, 経験の有無を問わず."
+      }
+    },
+    {
+      "num": 35,
+      "passage": null,
+      "stem": "今日、子どもをきつくしかりすぎたので、気をつけようと思う。（　　）、本人はそれほど気にしていないかもしれないが。",
+      "options": ["そのかわり", "それなら", "もっとも", "しかも"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hôm nay tôi đã mắng con quá nặng lời nên định sẽ chú ý hơn. Mà thật ra thì có lẽ bản thân đứa bé cũng không để tâm lắm.",
+        "why": "もっとも = 'tuy nhiên, mà thật ra thì' – bổ sung một điều kiện/ngoại lệ cho câu trước, câu sau thường kết thúc bằng ～が／～けど.",
+        "options": [
+          "そのかわり → bù lại, đổi lại. Sai.",
+          "それなら → nếu vậy thì. Sai.",
+          "もっとも → mà thật ra (bổ sung, hạn định). ĐÚNG.",
+          "しかも → hơn nữa (thêm cùng chiều). Sai."
+        ],
+        "vocab": [
+          { "w": "叱る", "r": "しかる", "hv": "SẤT", "vi": "mắng" },
+          { "w": "本人", "r": "ほんにん", "hv": "BẢN NHÂN", "vi": "chính người đó" },
+          { "w": "気にする", "r": "きにする", "hv": "", "vi": "bận tâm, để ý" }
+        ],
+        "grammar": {
+          "pattern": "もっとも、～が",
+          "meaning": "tuy nhiên / mà thật ra thì (bổ sung hạn chế cho câu trước)",
+          "form": "Câu A。もっとも、câu B（～が／～けど）。",
+          "example": "明日は休みだ。もっとも、急な仕事が入れば出勤するが。"
+        },
+        "evidence": null,
+        "tip": "Phân biệt: もっとも (liên từ, bổ sung) với 最も (もっとも – nhất)."
+      }
+    },
+    {
+      "num": 36,
+      "passage": null,
+      "stem": "娘「なぞなぞです。お父さんが嫌いな果物は何でしょう。」\n父「ううん、なんだろう。あ、そうか、（　　）。パパイヤだ。パパが嫌な果物ってことだよね。」",
+      "options": ["わかった", "わかったのに", "わかってた", "わかってね"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Con gái: \"Câu đố đây. Trái cây mà bố ghét là gì?\" – Bố: \"Ừm, là gì nhỉ. À, phải rồi, bố biết rồi! Là papaya (đu đủ). Nghĩa là 'Papa iya' (bố ghét) đúng không.\"",
+        "why": "Khi chợt nghĩ ra đáp án ngay lúc đó, nói 「わかった！」 (thể た diễn tả nhận ra tức thời).",
+        "options": [
+          "わかった → (À) biết rồi! ĐÚNG.",
+          "わかったのに → biết rồi vậy mà… (tiếc nuối). Sai.",
+          "わかってた → đã biết từ trước rồi. Mâu thuẫn với 'なんだろう'. Sai.",
+          "わかってね → hãy hiểu cho nhé. Sai."
+        ],
+        "vocab": [
+          { "w": "なぞなぞ", "r": "なぞなぞ", "hv": "", "vi": "câu đố" },
+          { "w": "果物", "r": "くだもの", "hv": "QUẢ VẬT", "vi": "trái cây" },
+          { "w": "嫌", "r": "いや", "hv": "HIỀM", "vi": "ghét, không thích" }
+        ],
+        "grammar": {
+          "pattern": "Vた (phát hiện tức thời)",
+          "meaning": "thể た dùng khi chợt nhận ra/phát hiện điều gì ngay lúc nói",
+          "form": "Vた！（わかった！あった！）",
+          "example": "あ、あった！ここに鍵があったよ。"
+        },
+        "evidence": null,
+        "tip": "あ、そうか → dấu hiệu 'vừa mới nhận ra' → わかった."
+      }
+    },
+    {
+      "num": 37,
+      "passage": null,
+      "stem": "この小説を読んで、友のためなら、自分はどうなったって（　　）という主人公の熱い思いに感動した。",
+      "options": ["たまらない", "かまわない", "わけがない", "ならない"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Đọc cuốn tiểu thuyết này, tôi đã cảm động trước tấm lòng nhiệt thành của nhân vật chính: vì bạn bè thì bản thân có ra sao cũng không sao.",
+        "why": "どうなったって（=どうなっても）かまわない = dù có ra sao cũng không sao/không quan tâm. Cặp ～ても＋かまわない.",
+        "options": [
+          "たまらない → không chịu nổi, vô cùng. Sai.",
+          "かまわない → không sao, không màng. ĐÚNG.",
+          "わけがない → không thể nào. Sai.",
+          "ならない → không được (～てはならない). Sai."
+        ],
+        "vocab": [
+          { "w": "主人公", "r": "しゅじんこう", "hv": "CHỦ NHÂN CÔNG", "vi": "nhân vật chính" },
+          { "w": "感動", "r": "かんどう", "hv": "CẢM ĐỘNG", "vi": "cảm động" },
+          { "w": "熱い思い", "r": "あついおもい", "hv": "", "vi": "tấm lòng nhiệt thành" }
+        ],
+        "grammar": {
+          "pattern": "疑問詞 + ～ても（～たって）かまわない",
+          "meaning": "dù ~ thế nào cũng không sao",
+          "form": "どう/何/いつ + Vても（Vたって）+ かまわない",
+          "example": "何を言われたってかまわない。"
+        },
+        "evidence": null,
+        "tip": "～たって là dạng văn nói của ～ても."
+      }
+    },
+    {
+      "num": 38,
+      "passage": null,
+      "stem": "わたしたちが旅館に着くと、従業員たちが笑顔で「ようこそ（　　）。」とあいさつしてくれた。",
+      "options": ["お越しくださいました", "お伺いしました", "お呼びいただきました", "お迎えしました"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Khi chúng tôi đến lữ quán, các nhân viên đã tươi cười chào: \"Chào mừng quý khách đã đến.\"",
+        "why": "「ようこそお越しくださいました」 là câu chào đón cố định. お越しくださる = tôn kính ngữ của 来てくれる (khách đến).",
+        "options": [
+          "お越しくださいました → (quý khách) đã đến – tôn kính ngữ. ĐÚNG.",
+          "お伺いしました → khiêm nhường ngữ (tôi đã đến thăm) – chủ ngữ là mình. Sai.",
+          "お呼びいただきました → được (quý khách) gọi/mời. Sai.",
+          "お迎えしました → (chúng tôi) đã đón – không đi với ようこそ. Sai."
+        ],
+        "vocab": [
+          { "w": "お越しになる", "r": "おこしになる", "hv": "VIỆT", "vi": "đến (tôn kính ngữ)" },
+          { "w": "旅館", "r": "りょかん", "hv": "LỮ QUÁN", "vi": "nhà trọ kiểu Nhật" },
+          { "w": "従業員", "r": "じゅうぎょういん", "hv": "TÙNG NGHIỆP VIÊN", "vi": "nhân viên" }
+        ],
+        "grammar": {
+          "pattern": "お＋Vます＋くださる",
+          "meaning": "tôn kính ngữ: (người trên) làm ~ cho mình",
+          "form": "お越し + くださいました",
+          "example": "本日はお忙しい中お越しくださいまして、ありがとうございます。"
+        },
+        "evidence": null,
+        "tip": "Hành động của khách → tôn kính ngữ; hành động của mình → khiêm nhường ngữ (伺う)."
+      }
+    },
+    {
+      "num": 39,
+      "passage": null,
+      "stem": "A「次の登山、大山に登るのはどう？」\nB「大山は3年前に一度（　　）から、ほかの山がいいなあ。」",
+      "options": ["登ってみる", "登ってくる", "登っていく", "登っている"],
+      "answer": 4,
+      "explanation": {
+        "translation": "A: \"Chuyến leo núi tới, leo núi Oyama thì sao?\" – B: \"Núi Oyama tớ đã leo một lần 3 năm trước rồi, nên núi khác thì hơn.\"",
+        "why": "Vている còn diễn tả kinh nghiệm/lý lịch (đã từng làm). 3年前に一度登っている = đã leo một lần (kinh nghiệm còn lưu lại).",
+        "options": [
+          "登ってみる → thử leo (tương lai). Sai.",
+          "登ってくる → leo lên (rồi quay lại) – hướng/tương lai. Sai.",
+          "登っていく → leo đi tiếp – hướng/tương lai. Sai.",
+          "登っている → đã từng leo (kinh nghiệm). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "登山", "r": "とざん", "hv": "ĐĂNG SƠN", "vi": "leo núi" },
+          { "w": "登る", "r": "のぼる", "hv": "ĐĂNG", "vi": "leo, trèo" }
+        ],
+        "grammar": {
+          "pattern": "Vている（経験・記録）",
+          "meaning": "đã từng ~ (kinh nghiệm, lý lịch vẫn còn giá trị ở hiện tại)",
+          "form": "Thời điểm quá khứ + Vている",
+          "example": "この作家は10年前に一度大きな賞を受けている。"
+        },
+        "evidence": null,
+        "tip": "Có '3年前に一度' + lý do không muốn đi → chọn dạng kinh nghiệm ～ている."
+      }
+    },
+    {
+      "num": 40,
+      "passage": null,
+      "stem": "日本の人気バンド「Z」は、ヨーロッパでコンサートを行うなど、活動を世界（　　）広げている。",
+      "options": ["でと", "へと", "からも", "ほども"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Ban nhạc nổi tiếng của Nhật \"Z\" đang mở rộng hoạt động ra toàn thế giới, như tổ chức hòa nhạc ở châu Âu.",
+        "why": "Nへと = hướng tới N (nhấn mạnh hướng/sự chuyển biến). 世界へと広げる = mở rộng ra thế giới.",
+        "options": [
+          "でと → không tồn tại tổ hợp này. Sai.",
+          "へと → hướng về, ra tới (nhấn mạnh hướng). ĐÚNG.",
+          "からも → cũng từ ~. Sai nghĩa.",
+          "ほども → cũng chừng ~. Sai."
+        ],
+        "vocab": [
+          { "w": "活動", "r": "かつどう", "hv": "HOẠT ĐỘNG", "vi": "hoạt động" },
+          { "w": "広げる", "r": "ひろげる", "hv": "QUẢNG", "vi": "mở rộng" },
+          { "w": "人気", "r": "にんき", "hv": "NHÂN KHÍ", "vi": "được ưa chuộng" }
+        ],
+        "grammar": {
+          "pattern": "Nへと",
+          "meaning": "hướng tới / chuyển sang N (nhấn mạnh của へ)",
+          "form": "N + へと + V（広がる・変わる・向かう…）",
+          "example": "小さな町から大都市へと発展した。"
+        },
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 41,
+      "passage": null,
+      "stem": "パソコン教室の講師に（　　）、人に教えるのは難しいけど楽しいということがわかりました。",
+      "options": ["なったかぎり", "したかぎり", "したおかげで", "なったおかげで"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nhờ trở thành giảng viên lớp máy tính mà tôi đã hiểu ra rằng dạy người khác tuy khó nhưng vui.",
+        "why": "「Nになる」 (trở thành giảng viên) + おかげで (nhờ ~ mà có kết quả tốt). 講師にする là 'biến ai đó thành giảng viên' – sai chủ thể.",
+        "options": [
+          "なったかぎり → かぎり (chừng nào còn ~) không hợp với vế sau. Sai.",
+          "したかぎり → sai cả động từ lẫn mẫu. Sai.",
+          "したおかげで → 講師にする = cho ai làm giảng viên, sai nghĩa. Sai.",
+          "なったおかげで → nhờ trở thành ~. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "講師", "r": "こうし", "hv": "GIẢNG SƯ", "vi": "giảng viên" },
+          { "w": "教室", "r": "きょうしつ", "hv": "GIÁO THẤT", "vi": "lớp học" }
+        ],
+        "grammar": {
+          "pattern": "～おかげで",
+          "meaning": "nhờ ~ mà (kết quả tốt)",
+          "form": "Vた／Aい／Naな／Nの + おかげで",
+          "example": "先生が教えてくれたおかげで、合格できました。"
+        },
+        "evidence": null,
+        "tip": "Kết quả tích cực (わかった, 楽しい) → おかげで; kết quả xấu → せいで."
+      }
+    },
+    {
+      "num": 42,
+      "passage": null,
+      "stem": "だれだって、失敗もするし、（　　）やれないときもある。",
+      "options": ["やるなと言われたことが", "やるなと言われたのは", "やらなくてはいけないことが", "やらなくてはならないのは"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Ai cũng vậy thôi, cũng có lúc thất bại, cũng có lúc không làm được những việc phải làm.",
+        "why": "Liệt kê 「～もするし、～ときもある」: 'có lúc không làm được việc phải làm'. Trong mệnh đề phụ bổ nghĩa cho とき dùng が (～ことがやれない). 「のは」 sẽ biến thành câu chủ đề, không gắn được vào ～ときもある.",
+        "options": [
+          "やるなと言われたことが → việc bị cấm mà 'không làm được' thì vô nghĩa. Sai.",
+          "やるなと言われたのは → sai nghĩa và sai cấu trúc (のは). Sai.",
+          "やらなくてはいけないことが → việc phải làm mà không làm được. ĐÚNG.",
+          "やらなくてはならないのは → nghĩa đúng nhưng のは không đứng được trong mệnh đề bổ nghĩa cho とき. Sai."
+        ],
+        "vocab": [
+          { "w": "失敗", "r": "しっぱい", "hv": "THẤT BẠI", "vi": "thất bại" },
+          { "w": "だれだって", "r": "だれだって", "hv": "", "vi": "ai cũng vậy (= だれでも)" }
+        ],
+        "grammar": {
+          "pattern": "～し、～ときもある",
+          "meaning": "vừa ~ vừa có lúc ~ (liệt kê); trong mệnh đề bổ nghĩa, chủ ngữ/đối tượng dùng が chứ không dùng は",
+          "form": "[N が V] + とき",
+          "example": "だれだって、疲れるし、何もしたくないときもある。"
+        },
+        "evidence": null,
+        "tip": "Mệnh đề nhỏ trước danh từ (とき) → dùng が, không dùng は/のは."
+      }
+    },
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "内容がわからない話を長時間（　　）、大人だって耐えられないことでしょう。",
+      "options": ["聞かなくていいとしたら", "聞かなければならないことで", "聞かなければならないとしたら", "聞かなくていいことで"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nếu phải nghe một câu chuyện không hiểu nội dung trong thời gian dài thì đến người lớn cũng không chịu nổi.",
+        "why": "～としたら = giả sử, nếu ~ thì. Vế sau là phỏng đoán (耐えられないことでしょう). Nội dung: 'phải nghe' (聞かなければならない) mới dẫn tới 'không chịu nổi'.",
+        "options": [
+          "聞かなくていいとしたら → nếu không cần nghe thì… không hợp với 'không chịu nổi'. Sai.",
+          "聞かなければならないことで → ことで (do việc ~) không ăn khớp với vế phỏng đoán. Sai.",
+          "聞かなければならないとしたら → nếu phải nghe thì. ĐÚNG.",
+          "聞かなくていいことで → sai cả nghĩa lẫn cấu trúc. Sai."
+        ],
+        "vocab": [
+          { "w": "耐える", "r": "たえる", "hv": "NẠI", "vi": "chịu đựng" },
+          { "w": "長時間", "r": "ちょうじかん", "hv": "TRƯỜNG THỜI GIAN", "vi": "thời gian dài" },
+          { "w": "内容", "r": "ないよう", "hv": "NỘI DUNG", "vi": "nội dung" }
+        ],
+        "grammar": {
+          "pattern": "～としたら",
+          "meaning": "giả sử ~, nếu ~ thì",
+          "form": "Thể thường + としたら",
+          "example": "もし宝くじに当たったとしたら、何をしますか。"
+        },
+        "evidence": null,
+        "tip": "大人だって = ngay cả người lớn → điều kiện phải là thứ khó chịu."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "（本屋で）\nA「あ、この本、面白いよ。」\nB「どんな話？」\nA「主人公と恋人が、親に無理やり（　　）話なんだけど、すごくどきどきするんだ。」",
+      "options": ["別れそうになる", "別れられそうになる", "別れさせそうになる", "別れさせられそうになる"],
+      "answer": 4,
+      "explanation": {
+        "translation": "(Ở hiệu sách) A: \"À, cuốn này hay lắm.\" B: \"Truyện thế nào?\" A: \"Là chuyện nhân vật chính và người yêu suýt bị bố mẹ ép phải chia tay, hồi hộp lắm.\"",
+        "why": "Chủ ngữ là 主人公と恋人, tác nhân là 親に, có 無理やり (ép buộc) → thể sai khiến bị động 別れさせられる (bị bắt phải chia tay) + そうになる (suýt).",
+        "options": [
+          "別れそうになる → suýt chia tay (tự nguyện), không có 'bị ép'. Sai.",
+          "別れられそうになる → bị động/khả năng, không có nghĩa ép buộc. Sai.",
+          "別れさせそうになる → suýt bắt (ai đó) chia tay – chủ thể là người ép. Sai.",
+          "別れさせられそうになる → suýt bị bắt phải chia tay. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "無理やり", "r": "むりやり", "hv": "VÔ LÝ", "vi": "ép buộc, cưỡng ép" },
+          { "w": "恋人", "r": "こいびと", "hv": "LUYẾN NHÂN", "vi": "người yêu" },
+          { "w": "どきどきする", "r": "どきどきする", "hv": "", "vi": "hồi hộp" }
+        ],
+        "grammar": {
+          "pattern": "使役受身（～させられる）",
+          "meaning": "bị bắt phải làm ~",
+          "form": "Nに + Vさせられる（別れる→別れさせられる）",
+          "example": "子どものころ、母に毎日ピアノを練習させられた。"
+        },
+        "evidence": null,
+        "tip": "Thấy 'Nに + 無理やり' → nghĩ ngay tới thể sai khiến bị động."
+      }
+    }
+  ]
+}

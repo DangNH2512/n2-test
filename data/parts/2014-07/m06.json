@@ -1,0 +1,164 @@
+{
+  "exam": "2014-07",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn câu dùng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "頑丈",
+      "options": [
+        "石川さんは<u>頑丈</u>で、なかなか意見を変えない。",
+        "重要な書類は必ず金庫に入れて、<u>頑丈</u>に管理してください。",
+        "このいすはとても<u>頑丈</u>で、少しくらい乱暴に扱っても壊れません。",
+        "A社との間には<u>頑丈</u>な信頼関係があるので安心です。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Cái ghế này rất chắc chắn, dù dùng hơi mạnh tay một chút cũng không hỏng.",
+        "why": "頑丈(がんじょう) = chắc chắn, bền, khó hỏng — dùng cho đồ vật (bàn ghế, nhà, máy) hoặc cơ thể khỏe mạnh. Câu 3 tả cái ghế khó hỏng → đúng.",
+        "options": [
+          "Tính cách cứng đầu, không đổi ý → phải dùng 頑固(がんこ). Sai.",
+          "Quản lý nghiêm ngặt → phải dùng 厳重(げんじゅう)に管理. Sai.",
+          "Ghế chắc chắn, khó hỏng. ĐÚNG.",
+          "Quan hệ tin cậy bền chặt → dùng 強い／固い／強固な信頼関係. Sai."
+        ],
+        "vocab": [
+          { "w": "頑丈", "r": "がんじょう", "hv": "NGOAN TRƯỢNG", "vi": "chắc chắn, bền chắc" },
+          { "w": "頑固", "r": "がんこ", "hv": "NGOAN CỐ", "vi": "cứng đầu, bướng" },
+          { "w": "厳重", "r": "げんじゅう", "hv": "NGHIÊM TRỌNG", "vi": "nghiêm ngặt" },
+          { "w": "乱暴", "r": "らんぼう", "hv": "LOẠN BẠO", "vi": "thô bạo, mạnh tay" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "頑丈 = vật chất bền; 頑固 = tính cách cứng đầu. Đừng lẫn vì cùng chữ 頑."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "畳む",
+      "options": [
+        "青木さんは、小さな紙を器用に<u>畳んで</u>鶴を作った。",
+        "この上着は小さく<u>畳む</u>ことができるので、旅行に持っていくのに便利だ。",
+        "髪が長いと首の周りが暑いので、夏はいつも髪を<u>畳んで</u>います。",
+        "中川さんは腕を<u>畳んで</u>、何か考えているようだった。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Cái áo khoác này gấp nhỏ lại được nên rất tiện mang đi du lịch.",
+        "why": "畳む(たたむ) = gấp gọn (quần áo, chăn, ô, bàn ghế xếp). 上着を小さく畳む là cách dùng chuẩn.",
+        "options": [
+          "Gấp giấy thành hạc → dùng 折る(おる): 鶴を折る. Sai.",
+          "Gấp gọn áo khoác. ĐÚNG.",
+          "Buộc/búi tóc → dùng 結ぶ(むすぶ)／まとめる. Sai.",
+          "Khoanh tay → dùng 腕を組む(くむ). Sai."
+        ],
+        "vocab": [
+          { "w": "畳む", "r": "たたむ", "hv": "ĐIỆP", "vi": "gấp gọn (quần áo, ô…)" },
+          { "w": "折る", "r": "おる", "hv": "CHIẾT", "vi": "gấp (giấy); bẻ gãy" },
+          { "w": "腕を組む", "r": "うでをくむ", "hv": "OẢN TỔ", "vi": "khoanh tay" },
+          { "w": "器用", "r": "きよう", "hv": "KHÍ DỤNG", "vi": "khéo tay" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Giấy origami → 折る; quần áo/ô/chăn → 畳む."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "合図",
+      "options": [
+        "スタートの<u>合図</u>で、選手たちは一斉に走り出した。",
+        "ガス会社から、器具の点検を来月行うという<u>合図</u>があった。",
+        "山道に何か小さな動物が歩いたような<u>合図</u>があった。",
+        "種をまいたところを忘れないように、<u>合図</u>をつけておいた。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo hiệu lệnh xuất phát, các vận động viên đồng loạt chạy.",
+        "why": "合図(あいず) = tín hiệu, hiệu lệnh (ra hiệu bằng tay, còi, âm thanh… để báo hành động). スタートの合図 là cách dùng chuẩn.",
+        "options": [
+          "Hiệu lệnh xuất phát. ĐÚNG.",
+          "Thông báo của công ty gas → dùng 連絡／知らせ／通知. Sai.",
+          "Dấu vết con vật đi qua → dùng 跡(あと)／足跡. Sai.",
+          "Đánh dấu chỗ gieo hạt → dùng 目印(めじるし). Sai."
+        ],
+        "vocab": [
+          { "w": "合図", "r": "あいず", "hv": "HỢP ĐỒ", "vi": "tín hiệu, hiệu lệnh" },
+          { "w": "一斉に", "r": "いっせいに", "hv": "NHẤT TỀ", "vi": "đồng loạt" },
+          { "w": "目印", "r": "めじるし", "hv": "MỤC ẤN", "vi": "dấu hiệu nhận biết, mốc" },
+          { "w": "点検", "r": "てんけん", "hv": "ĐIỂM KIỂM", "vi": "kiểm tra" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "合図 = ra hiệu cho người khác hành động (手で合図する)."
+      }
+    },
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "こつこつ",
+      "options": [
+        "何度も説明を聞いていたら、<u>こつこつ</u>とわかってきた。",
+        "料理が熱くて、舌をやけどしそうなので、<u>こつこつ</u>と食べた。",
+        "朝は涼しかったが、昼になって<u>こつこつ</u>と気温が上がり始めた。",
+        "資格をとるために、この一年間、毎日<u>こつこつ</u>と勉強をしてきた。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Để lấy chứng chỉ, suốt một năm nay ngày nào tôi cũng cần mẫn học từng chút.",
+        "why": "こつこつ = cần mẫn, bền bỉ làm từng chút một (nỗ lực của con người, kéo dài). Hợp với 毎日こつこつと勉強する.",
+        "options": [
+          "Dần dần hiểu ra → dùng だんだん／少しずつ. Sai.",
+          "Ăn chậm vì nóng → dùng ゆっくり／ふうふう吹きながら. Sai.",
+          "Nhiệt độ tăng dần → dùng ぐんぐん／どんどん／徐々に. Sai.",
+          "Chăm chỉ học đều đặn mỗi ngày. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "こつこつ", "r": "こつこつ", "hv": "", "vi": "cần mẫn, bền bỉ từng chút" },
+          { "w": "資格", "r": "しかく", "hv": "TƯ CÁCH", "vi": "chứng chỉ, tư cách" },
+          { "w": "やけど", "r": "やけど", "hv": "", "vi": "bỏng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "こつこつ chỉ dùng cho nỗ lực có chủ ý của con người (こつこつ貯金する)."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "縮む",
+      "options": [
+        "箱を積み重ねておいたら、重さで一番下の箱が<u>縮んで</u>いた。",
+        "この鉛筆はもう<u>縮んで</u>いて、ちょっと書きづらい。",
+        "洗濯機でセーターを洗ったら、<u>縮んで</u>着られなくなった。",
+        "建て替えて、家は広くなったが、庭が<u>縮んで</u>しまった。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Giặt áo len bằng máy giặt nên bị co lại, không mặc được nữa.",
+        "why": "縮む(ちぢむ) = co lại, rút lại (bản thân vật liệu tự co nhỏ: vải, len, da…). Áo len giặt máy bị co là ví dụ điển hình.",
+        "options": [
+          "Hộp bị bẹp do sức nặng → dùng つぶれる. Sai.",
+          "Bút chì mòn ngắn đi → dùng 短くなる／ちびる. Sai.",
+          "Áo len bị co. ĐÚNG.",
+          "Vườn bị thu hẹp (do xây lại) → dùng 狭くなる. Sai."
+        ],
+        "vocab": [
+          { "w": "縮む", "r": "ちぢむ", "hv": "SÚC", "vi": "co lại, rút lại" },
+          { "w": "縮小", "r": "しゅくしょう", "hv": "SÚC TIỂU", "vi": "thu nhỏ" },
+          { "w": "積み重ねる", "r": "つみかさねる", "hv": "TÍCH TRÙNG", "vi": "chất chồng lên" },
+          { "w": "建て替える", "r": "たてかえる", "hv": "KIẾN THẾ", "vi": "xây lại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "縮む (tự co) ↔ 伸びる (giãn ra). Tha động từ: 縮める."
+      }
+    }
+  ]
+}

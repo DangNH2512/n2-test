@@ -1,0 +1,185 @@
+{
+  "exam": "2011-07",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống (theo ngữ cảnh).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "さまざまなデータを（　　）した結果、事故の原因が明らかになった。",
+      "options": ["視察", "検査", "発明", "分析"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Kết quả phân tích nhiều dữ liệu khác nhau đã làm rõ nguyên nhân tai nạn.",
+        "why": "データを分析する (phân tích dữ liệu) là kết hợp tự nhiên; phân tích → tìm ra nguyên nhân.",
+        "options": [
+          "視察 (しさつ): thị sát, đi khảo sát thực địa. Không dùng với データ. Sai.",
+          "検査 (けんさ): kiểm tra (sức khỏe, sản phẩm). Không hợp với データ. Sai.",
+          "発明 (はつめい): phát minh. Sai.",
+          "分析 (ぶんせき): phân tích. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "分析", "r": "ぶんせき", "hv": "PHÂN TÍCH", "vi": "phân tích" },
+          { "w": "視察", "r": "しさつ", "hv": "THỊ SÁT", "vi": "thị sát" },
+          { "w": "原因", "r": "げんいん", "hv": "NGUYÊN NHÂN", "vi": "nguyên nhân" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "データ／成分／原因を分析する — các cụm hay gặp."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "街を（　　）していたら、山本さんに会った。",
+      "options": ["ぐらぐら", "がらがら", "ばらばら", "ぶらぶら"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đang đi dạo lang thang ngoài phố thì gặp anh Yamamoto.",
+        "why": "ぶらぶらする = đi lang thang, đi dạo không mục đích. 街をぶらぶらする là cụm cố định.",
+        "options": [
+          "ぐらぐら: lung lay, rung lắc (răng, bàn, động đất). Sai.",
+          "がらがら: vắng tanh (tàu, quán); tiếng lạch cạch. Sai.",
+          "ばらばら: rời rạc, tản mát. Sai.",
+          "ぶらぶら: đi dạo lang thang. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "ぶらぶら", "r": "ぶらぶら", "hv": "", "vi": "lang thang, thong thả dạo bước" },
+          { "w": "がらがら", "r": "がらがら", "hv": "", "vi": "vắng tanh, trống trơn" },
+          { "w": "街", "r": "まち", "hv": "NHAI", "vi": "phố, khu phố" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ぶらぶら còn có nghĩa ăn không ngồi rồi: 仕事をしないでぶらぶらしている."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "祭りの日は町が（　　）にあふれている。",
+      "options": ["活気", "活発", "活躍", "活動"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Ngày lễ hội, cả thị trấn tràn ngập không khí sôi động.",
+        "why": "活気にあふれる = tràn đầy sinh khí, nhộn nhịp. 活気 là danh từ chỉ bầu không khí sôi nổi của nơi chốn.",
+        "options": [
+          "活気 (かっき): sinh khí, sự nhộn nhịp. ĐÚNG.",
+          "活発 (かっぱつ): hoạt bát (tính từ な – 活発な子ども). Không đi với にあふれる. Sai.",
+          "活躍 (かつやく): hoạt động nổi bật, tỏa sáng (người). Sai.",
+          "活動 (かつどう): hoạt động. Sai."
+        ],
+        "vocab": [
+          { "w": "活気", "r": "かっき", "hv": "HOẠT KHÍ", "vi": "sinh khí, sôi động" },
+          { "w": "あふれる", "r": "あふれる", "hv": "", "vi": "tràn đầy" },
+          { "w": "活躍", "r": "かつやく", "hv": "HOẠT DƯỢC", "vi": "hoạt động tích cực, tỏa sáng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm cố định: 活気がある／活気にあふれる／活気に満ちる."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "コピー機に紙が（　　）、出てこない。",
+      "options": ["もぐって", "つまって", "しずんで", "うまって"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Giấy bị kẹt trong máy photo nên không ra được.",
+        "why": "紙が詰まる (つまる) = kẹt giấy. 詰まる = bị nghẽn, tắc.",
+        "options": [
+          "もぐって → 潜る: lặn, chui vào. Sai.",
+          "つまって → 詰まる: bị kẹt, tắc. ĐÚNG.",
+          "しずんで → 沈む: chìm. Sai.",
+          "うまって → 埋まる: bị chôn, bị lấp kín. Sai."
+        ],
+        "vocab": [
+          { "w": "詰まる", "r": "つまる", "hv": "CẬT", "vi": "bị kẹt, tắc nghẽn" },
+          { "w": "潜る", "r": "もぐる", "hv": "TIỀM", "vi": "lặn, chui vào" },
+          { "w": "埋まる", "r": "うまる", "hv": "MAI", "vi": "bị lấp, bị chôn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Hay gặp: 紙が詰まる, 鼻が詰まる (nghẹt mũi), 予定が詰まっている (lịch kín)."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "この小説は今の時代を（　　）した作品だ。",
+      "options": ["反映", "放映", "引用", "採用"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Cuốn tiểu thuyết này là tác phẩm phản ánh thời đại hiện nay.",
+        "why": "時代を反映する = phản ánh thời đại. 反映 = phản chiếu, thể hiện ra.",
+        "options": [
+          "反映 (はんえい): phản ánh. ĐÚNG.",
+          "放映 (ほうえい): phát sóng trên TV. Sai.",
+          "引用 (いんよう): trích dẫn. Sai.",
+          "採用 (さいよう): tuyển dụng, áp dụng. Sai."
+        ],
+        "vocab": [
+          { "w": "反映", "r": "はんえい", "hv": "PHẢN ÁNH", "vi": "phản ánh" },
+          { "w": "放映", "r": "ほうえい", "hv": "PHÓNG ÁNH", "vi": "phát sóng (truyền hình)" },
+          { "w": "作品", "r": "さくひん", "hv": "TÁC PHẨM", "vi": "tác phẩm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "意見を反映する = đưa ý kiến vào (phản ánh ý kiến)."
+      }
+    },
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "田中さんは長い間（　　）窓の外を見ていた。",
+      "options": ["ぼんやり", "ふんわり", "うっすら", "しっとり"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Anh Tanaka đã thẫn thờ nhìn ra ngoài cửa sổ rất lâu.",
+        "why": "ぼんやり（と）見る = nhìn một cách thẫn thờ, đờ đẫn, không tập trung.",
+        "options": [
+          "ぼんやり: lơ đãng, thẫn thờ; mờ ảo. ĐÚNG.",
+          "ふんわり: mềm mại, bồng bềnh (bánh, chăn). Sai.",
+          "うっすら: mỏng, nhạt, lờ mờ (うっすらと雪が積もる). Sai.",
+          "しっとり: ẩm mịn; điềm tĩnh, dịu dàng. Sai."
+        ],
+        "vocab": [
+          { "w": "ぼんやり", "r": "ぼんやり", "hv": "", "vi": "thẫn thờ, lơ đãng; mờ mờ" },
+          { "w": "ふんわり", "r": "ふんわり", "hv": "", "vi": "mềm mại, xốp nhẹ" },
+          { "w": "しっとり", "r": "しっとり", "hv": "", "vi": "ẩm mịn; trầm lắng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ぼんやりする = ngẩn người; ぼんやり見える = nhìn thấy mờ mờ."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "経済だけでなく、法律にも詳しいのが彼の（　　）だ。",
+      "options": ["深み", "強み", "高み", "重み"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Không chỉ kinh tế mà còn am hiểu cả luật pháp, đó là thế mạnh của anh ấy.",
+        "why": "強み (つよみ) = điểm mạnh, ưu thế. Am hiểu nhiều lĩnh vực → là thế mạnh.",
+        "options": [
+          "深み (ふかみ): độ sâu sắc. Sai.",
+          "強み (つよみ): thế mạnh, ưu điểm. ĐÚNG.",
+          "高み (たかみ): chỗ cao. Sai.",
+          "重み (おもみ): sức nặng, tầm quan trọng. Sai."
+        ],
+        "vocab": [
+          { "w": "強み", "r": "つよみ", "hv": "CƯỜNG", "vi": "thế mạnh, điểm mạnh" },
+          { "w": "弱み", "r": "よわみ", "hv": "NHƯỢC", "vi": "điểm yếu" },
+          { "w": "詳しい", "r": "くわしい", "hv": "TƯỜNG", "vi": "am hiểu, chi tiết" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "強み ⇔ 弱み. 弱みを握る = nắm thóp điểm yếu."
+      }
+    }
+  ]
+}

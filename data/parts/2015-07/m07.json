@@ -1,0 +1,367 @@
+{
+  "exam": "2015-07",
+  "mondai": 7,
+  "section": "grammar",
+  "instruction": "次の文の（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn phương án đúng nhất để điền vào chỗ trống trong câu.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 33,
+      "passage": null,
+      "stem": "南極の氷を調べること（　　）数十万年前の地球の気候を知ることができるそうだ。",
+      "options": ["によって", "にとって", "に関して", "に対して"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nghe nói bằng cách nghiên cứu băng ở Nam Cực, người ta có thể biết khí hậu Trái Đất từ vài trăm nghìn năm trước.",
+        "why": "～によって ở đây chỉ phương tiện/cách thức: 'bằng cách ~'. 'Nghiên cứu băng' là phương tiện để 'biết được khí hậu'.",
+        "options": [
+          "によって → bằng (phương tiện, cách thức). ĐÚNG.",
+          "にとって → đối với (ai đó, lập trường đánh giá). Sai.",
+          "に関して → liên quan đến (chủ đề). Sai.",
+          "に対して → đối với (đối tượng của hành động/thái độ). Sai."
+        ],
+        "vocab": [
+          { "w": "南極", "r": "なんきょく", "hv": "NAM CỰC", "vi": "Nam Cực" },
+          { "w": "氷", "r": "こおり", "hv": "BĂNG", "vi": "băng, đá" },
+          { "w": "気候", "r": "きこう", "hv": "KHÍ HẬU", "vi": "khí hậu" }
+        ],
+        "grammar": {
+          "pattern": "～によって",
+          "meaning": "bằng, nhờ vào (phương tiện / cách thức)",
+          "form": "N／Vること＋によって",
+          "example": "インターネットによって、世界中の情報が手に入るようになった。"
+        },
+        "evidence": null,
+        "tip": "によって còn có nghĩa: tùy theo (人によって), do (ai làm – bị động), vì (nguyên nhân)."
+      }
+    },
+    {
+      "num": 34,
+      "passage": null,
+      "stem": "この曲は、私には難しすぎて（　　）弾けそうにない。",
+      "options": ["だんだん", "今にも", "必ず", "とても"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Bản nhạc này quá khó đối với tôi, chắc chắn tôi không thể nào chơi được.",
+        "why": "とても + thể phủ định khả năng (～ない / ～そうにない) = 'không thể nào ~'. Đây là cách dùng とても đi với phủ định.",
+        "options": [
+          "だんだん → dần dần (đi với biến đổi). Sai.",
+          "今にも → sắp sửa (đi với ～そうだ khẳng định: 今にも雨が降りそうだ). Sai.",
+          "必ず → nhất định (thường đi với khẳng định). Sai.",
+          "とても → (với phủ định) không thể nào. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "曲", "r": "きょく", "hv": "KHÚC", "vi": "bản nhạc, ca khúc" },
+          { "w": "弾く", "r": "ひく", "hv": "ĐÀN", "vi": "chơi (đàn)" },
+          { "w": "今にも", "r": "いまにも", "hv": "KIM", "vi": "sắp sửa, chực" }
+        ],
+        "grammar": {
+          "pattern": "とても～ない",
+          "meaning": "dù thế nào cũng không thể ~",
+          "form": "とても＋V可能形ない／Vそうにない",
+          "example": "こんなにたくさんの仕事は、一日ではとても終わらない。"
+        },
+        "evidence": null,
+        "tip": "Vます+そうにない = 'có vẻ không thể ~'; hay đi với とても / 到底 (とうてい)."
+      }
+    },
+    {
+      "num": 35,
+      "passage": null,
+      "stem": "入社試験の面接で、緊張の（　　）、声が震えてしまった。",
+      "options": ["わけで", "あまり", "ことに", "中を"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Trong buổi phỏng vấn thi tuyển vào công ty, vì quá căng thẳng mà giọng tôi run lên.",
+        "why": "Nの＋あまり = 'vì quá ~ (cảm xúc) mà dẫn đến kết quả không bình thường'. 緊張のあまり、声が震えた.",
+        "options": [
+          "わけで → vì lý do là (giải thích), không đi sau 'Nの'. Sai.",
+          "あまり → vì quá ~. ĐÚNG.",
+          "ことに → thật là ~ (驚いたことに), đi sau tính từ/động từ cảm xúc chứ không sau Nの. Sai.",
+          "中を → trong lúc ~ (雨の中を: giữa trời mưa). Không hợp nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "緊張", "r": "きんちょう", "hv": "KHẨN TRƯƠNG", "vi": "căng thẳng, hồi hộp" },
+          { "w": "面接", "r": "めんせつ", "hv": "DIỆN TIẾP", "vi": "phỏng vấn" },
+          { "w": "震える", "r": "ふるえる", "hv": "CHẤN", "vi": "run" }
+        ],
+        "grammar": {
+          "pattern": "～あまり",
+          "meaning": "vì quá ~ nên (kết quả tiêu cực/bất thường)",
+          "form": "Nの／Vる・Vた＋あまり",
+          "example": "嬉しさのあまり、泣き出してしまった。"
+        },
+        "evidence": null,
+        "tip": "Danh từ thường gặp: 緊張・心配・驚き・喜び・悲しさ + のあまり."
+      }
+    },
+    {
+      "num": 36,
+      "passage": null,
+      "stem": "森川動物園は、森川駅からバスで30分（　　）行ったところにある。",
+      "options": ["など", "などに", "ほど", "ほどに"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vườn thú Morikawa nằm ở nơi đi xe buýt khoảng 30 phút từ ga Morikawa.",
+        "why": "Số lượng + ほど = khoảng chừng. 30分ほど行ったところ = chỗ đi khoảng 30 phút. Sau số lượng bổ nghĩa trực tiếp cho động từ nên không cần に.",
+        "options": [
+          "など → vân vân, chẳng hạn (liệt kê), không dùng chỉ ước lượng thời gian. Sai.",
+          "などに → không hợp ngữ pháp. Sai.",
+          "ほど → khoảng. ĐÚNG.",
+          "ほどに → 'đến mức ~ thì càng' (ほどに là văn viết chỉ mức độ), không dùng sau số lượng ở đây. Sai."
+        ],
+        "vocab": [
+          { "w": "動物園", "r": "どうぶつえん", "hv": "ĐỘNG VẬT VIÊN", "vi": "vườn thú" },
+          { "w": "～ところ", "r": "ところ", "hv": "", "vi": "nơi, chỗ" }
+        ],
+        "grammar": {
+          "pattern": "数量＋ほど",
+          "meaning": "khoảng, chừng (ước lượng)",
+          "form": "Số lượng＋ほど",
+          "example": "駅から歩いて10分ほどです。"
+        },
+        "evidence": null,
+        "tip": "ほど ≈ くらい ≈ ぐらい khi đi sau số lượng."
+      }
+    },
+    {
+      "num": 37,
+      "passage": null,
+      "stem": "（メールで）4月20日に新入生歓迎会を開きますので、ぜひご参加ください。なお、場所は（　　）、お知らせします。",
+      "options": ["決まったおかげで", "決まり次第", "決まって以来", "決まる一方で"],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Email) Ngày 20/4 chúng tôi sẽ tổ chức tiệc chào đón tân sinh viên, rất mong các bạn tham gia. Ngoài ra, địa điểm sẽ được thông báo ngay khi quyết định xong.",
+        "why": "Vます＋次第 = 'ngay sau khi ~ thì (làm việc tiếp theo)', hay dùng trong thông báo. 決まり次第お知らせします = sẽ thông báo ngay khi có quyết định.",
+        "options": [
+          "決まったおかげで → nhờ đã quyết định (kết quả tốt đã xảy ra), không hợp với tương lai. Sai.",
+          "決まり次第 → ngay khi quyết định. ĐÚNG.",
+          "決まって以来 → kể từ khi quyết định (đến nay). Sai.",
+          "決まる一方で → mặt khác / ngày càng, không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "歓迎会", "r": "かんげいかい", "hv": "HOAN NGHÊNH HỘI", "vi": "tiệc chào mừng" },
+          { "w": "新入生", "r": "しんにゅうせい", "hv": "TÂN NHẬP SINH", "vi": "tân sinh viên/học sinh" },
+          { "w": "なお", "r": "なお", "hv": "", "vi": "ngoài ra, thêm nữa (thông báo)" }
+        ],
+        "grammar": {
+          "pattern": "～次第",
+          "meaning": "ngay sau khi ~ (thì làm ngay việc sau)",
+          "form": "Vます(bỏ ます)／Nする＋次第",
+          "example": "資料が届き次第、ご連絡いたします。"
+        },
+        "evidence": null,
+        "tip": "Vế sau của 次第 là hành động có ý chí (連絡する, 出発する), không dùng cho quá khứ."
+      }
+    },
+    {
+      "num": 38,
+      "passage": null,
+      "stem": "この地域のみかんの生産量は、2000年から2003年にかけて一時減少した（　　）、再び増加し、2010年には過去最高となった。",
+      "options": ["として", "のかどうか", "からには", "ものの"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Sản lượng quýt của vùng này tuy đã tạm thời giảm từ năm 2000 đến 2003, nhưng sau đó lại tăng trở lại và năm 2010 đạt mức cao nhất từ trước đến nay.",
+        "why": "～ものの = 'tuy ~ nhưng', nối hai vế trái ngược: giảm tạm thời ⇔ tăng trở lại.",
+        "options": [
+          "として → với tư cách là / cho rằng. Sai.",
+          "のかどうか → có ~ hay không. Sai.",
+          "からには → một khi đã ~ thì phải. Sai.",
+          "ものの → tuy ~ nhưng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "生産量", "r": "せいさんりょう", "hv": "SINH SẢN LƯỢNG", "vi": "sản lượng" },
+          { "w": "一時", "r": "いちじ", "hv": "NHẤT THỜI", "vi": "tạm thời, nhất thời" },
+          { "w": "減少", "r": "げんしょう", "hv": "GIẢM THIỂU", "vi": "giảm" },
+          { "w": "過去最高", "r": "かこさいこう", "hv": "QUÁ KHỨ TỐI CAO", "vi": "cao nhất từ trước đến nay" }
+        ],
+        "grammar": {
+          "pattern": "～ものの",
+          "meaning": "tuy ~ nhưng",
+          "form": "V・Aい（普通形）／Naな／Nである＋ものの",
+          "example": "免許は取ったものの、まだ一度も運転していない。"
+        },
+        "evidence": null,
+        "tip": "ものの ≈ けれども nhưng trang trọng hơn; vế sau thường là điều trái kỳ vọng."
+      }
+    },
+    {
+      "num": 39,
+      "passage": null,
+      "stem": "（育児書で）赤ちゃんの熱が少しあると心配になるかもしれませんが、熱が多少あっても、元気に遊んでいるなら、（　　）。",
+      "options": ["慌てることはありません", "慌てざるを得ません", "慌てずにはいられません", "慌てるに違いありません"],
+      "answer": 1,
+      "explanation": {
+        "translation": "(Sách nuôi dạy trẻ) Khi bé hơi sốt có thể bạn sẽ lo, nhưng dù có sốt chút ít, nếu bé vẫn chơi khỏe thì không cần phải hoảng.",
+        "why": "Vる＋ことはない = 'không cần phải ~' (lời khuyên, trấn an). Ngữ cảnh 'nếu bé vẫn chơi khỏe' → không cần hoảng hốt.",
+        "options": [
+          "慌てることはありません → không cần phải hoảng. ĐÚNG.",
+          "慌てざるを得ません → buộc phải hoảng. Ngược nghĩa. Sai.",
+          "慌てずにはいられません → không thể không hoảng. Sai.",
+          "慌てるに違いありません → chắc chắn sẽ hoảng (phỏng đoán), không phải lời khuyên. Sai."
+        ],
+        "vocab": [
+          { "w": "慌てる", "r": "あわてる", "hv": "HOANG", "vi": "hoảng hốt, cuống" },
+          { "w": "育児", "r": "いくじ", "hv": "DỤC NHI", "vi": "nuôi dạy trẻ" },
+          { "w": "多少", "r": "たしょう", "hv": "ĐA THIỂU", "vi": "ít nhiều, chút ít" }
+        ],
+        "grammar": {
+          "pattern": "～ことはない",
+          "meaning": "không cần phải ~",
+          "form": "Vる＋ことはない",
+          "example": "簡単な試験だから、そんなに心配することはないよ。"
+        },
+        "evidence": null,
+        "tip": "Phân biệt: ～ざるを得ない (buộc phải), ～ずにはいられない (không thể kìm được)."
+      }
+    },
+    {
+      "num": 40,
+      "passage": null,
+      "stem": "（就職説明会で）「就職活動とは、企業に応募することです。この企業で働きたいと思っていても、応募（　　）、何も進みません。まずは応募しましょう。」",
+      "options": ["してみるより", "できるといいし", "しないことには", "するのではなく"],
+      "answer": 3,
+      "explanation": {
+        "translation": "(Tại buổi giới thiệu việc làm) 'Hoạt động tìm việc là nộp đơn vào doanh nghiệp. Dù muốn làm ở công ty này, nếu không nộp đơn thì chẳng có gì tiến triển. Trước hết hãy nộp đơn.'",
+        "why": "～ないことには＋phủ định = 'nếu không ~ thì không thể ~'. 応募しないことには、何も進みません: nếu không nộp đơn thì không tiến triển gì.",
+        "options": [
+          "してみるより → hơn là thử làm. Sai.",
+          "できるといいし → mong là được, và…. Sai.",
+          "しないことには → nếu không làm thì (không thể). ĐÚNG.",
+          "するのではなく → không phải là làm mà…. Sai."
+        ],
+        "vocab": [
+          { "w": "応募", "r": "おうぼ", "hv": "ỨNG MỘ", "vi": "ứng tuyển, nộp đơn" },
+          { "w": "就職活動", "r": "しゅうしょくかつどう", "hv": "TỰU CHỨC HOẠT ĐỘNG", "vi": "hoạt động tìm việc" },
+          { "w": "企業", "r": "きぎょう", "hv": "XÍ NGHIỆP", "vi": "doanh nghiệp" }
+        ],
+        "grammar": {
+          "pattern": "～ないことには",
+          "meaning": "nếu không ~ thì (không thể ~)",
+          "form": "Vない／Aくない／Naでない＋ことには＋(phủ định)",
+          "example": "実際に会ってみないことには、どんな人か分からない。"
+        },
+        "evidence": null,
+        "tip": "Vế sau luôn mang nghĩa phủ định/không thực hiện được."
+      }
+    },
+    {
+      "num": 41,
+      "passage": null,
+      "stem": "先月、エアコンを（　　）使っていたら、電気代が2万円を超えてしまった。",
+      "options": ["使いすぎて", "使ったまま", "使いたいだけ", "使いつづけたり"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tháng trước tôi dùng điều hòa thả cửa bao nhiêu tùy thích, kết quả là tiền điện vượt quá 20.000 yên.",
+        "why": "Vたいだけ＋V = 'làm ~ bao nhiêu tùy thích'. 使いたいだけ使う = dùng thoải mái theo ý muốn. Cấu trúc lặp động từ này hợp ngữ pháp và nghĩa.",
+        "options": [
+          "使いすぎて → dùng quá nhiều; '使いすぎて使う' lặp động từ, không tự nhiên. Sai.",
+          "使ったまま → để nguyên trạng thái đã dùng; '使ったまま使う' vô nghĩa. Sai.",
+          "使いたいだけ → bao nhiêu tùy thích. ĐÚNG.",
+          "使いつづけたり → ～たり phải đi theo cặp (～たり～たりする), không nối được với 使っていたら. Sai."
+        ],
+        "vocab": [
+          { "w": "電気代", "r": "でんきだい", "hv": "ĐIỆN KHÍ ĐẠI", "vi": "tiền điện" },
+          { "w": "超える", "r": "こえる", "hv": "SIÊU", "vi": "vượt quá" }
+        ],
+        "grammar": {
+          "pattern": "Vたいだけ V",
+          "meaning": "làm ~ bao nhiêu tùy thích, thỏa thích",
+          "form": "Vます(bỏ ます)＋たいだけ＋V",
+          "example": "今日は好きなだけ食べてください。／寝たいだけ寝た。"
+        },
+        "evidence": null,
+        "tip": "Tương tự: Vるだけ V (làm hết mức có thể): できるだけ, 食べられるだけ食べる."
+      }
+    },
+    {
+      "num": 42,
+      "passage": null,
+      "stem": "山川「ごめんね。田村さんに借りたCD、今日返そうと思っていたのに、持ってくるの忘れちゃった。」\n田村「ああ、別に急がないから、次に会うときに（　　）よ。」",
+      "options": ["持ってきてくれるはずだ", "持ってきてあげるつもりだ", "持ってきてくれればいい", "持ってきてあげたほうがいい"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Yamakawa: 'Xin lỗi nhé. Cái CD mượn của Tamura, hôm nay định trả mà quên mang theo mất.' Tamura: 'À, không gấp đâu, lần sau gặp mang đến cho tôi là được.'",
+        "why": "～てくれればいい = 'chỉ cần (bạn) làm ~ cho tôi là được'. Tamura (người cho mượn) nói với Yamakawa: lần sau mang đến là được. くれる vì hành động hướng về người nói.",
+        "options": [
+          "持ってきてくれるはずだ → chắc chắn sẽ mang đến (phỏng đoán về người khác), không hợp khi nói trực tiếp. Sai.",
+          "持ってきてあげるつもりだ → tôi định mang đến cho (bạn): sai chủ thể. Sai.",
+          "持ってきてくれればいい → bạn mang đến cho tôi là được. ĐÚNG.",
+          "持ってきてあげたほうがいい → nên mang đến cho (ai đó): sai hướng cho/nhận. Sai."
+        ],
+        "vocab": [
+          { "w": "返す", "r": "かえす", "hv": "PHẢN", "vi": "trả lại" },
+          { "w": "別に", "r": "べつに", "hv": "BIỆT", "vi": "(không) đặc biệt, (không) có gì" },
+          { "w": "急ぐ", "r": "いそぐ", "hv": "CẤP", "vi": "vội, gấp" }
+        ],
+        "grammar": {
+          "pattern": "～てくれればいい",
+          "meaning": "chỉ cần (ai đó) làm ~ cho tôi là được",
+          "form": "Vて＋くれればいい",
+          "example": "わからないところだけ教えてくれればいいよ。"
+        },
+        "evidence": null,
+        "tip": "Hành động hướng về phía người nói → てくれる; người nói làm cho người khác → てあげる."
+      }
+    },
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "まだ読んでいない本が10冊もあるから、しばらく本は（　　）と決めていたのに、面白そうな本を見つけて、つい買ってしまった。",
+      "options": ["買うべきじゃなかった", "買わないでいたんだ", "買っていないだろう", "買わずにおこう"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vì còn những 10 cuốn chưa đọc nên tôi đã quyết định 'tạm thời sẽ không mua sách', vậy mà thấy cuốn có vẻ hay lại lỡ mua mất.",
+        "why": "～と決めていた trích dẫn nội dung quyết định (ý chí hướng tới tương lai). Vずにおこう = 'sẽ không ~ (giữ nguyên)', thể ý chí của ～ずにおく → hợp với 'quyết định'.",
+        "options": [
+          "買うべきじゃなかった → lẽ ra không nên mua (hối tiếc quá khứ), không phải nội dung quyết định trước. Sai.",
+          "買わないでいたんだ → đã không mua (giải thích trạng thái), không phải ý chí. Sai.",
+          "買っていないだろう → chắc là chưa mua (phỏng đoán). Sai.",
+          "買わずにおこう → (quyết định) sẽ không mua. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "しばらく", "r": "しばらく", "hv": "", "vi": "tạm thời, một thời gian" },
+          { "w": "つい", "r": "つい", "hv": "", "vi": "lỡ, vô tình" }
+        ],
+        "grammar": {
+          "pattern": "～ずにおく／～ないでおく",
+          "meaning": "cố ý không làm ~, để nguyên",
+          "form": "Vない(bỏ ない)＋ずにおく → ý chí: ずにおこう",
+          "example": "彼には本当のことを言わずにおこう。"
+        },
+        "evidence": null,
+        "tip": "Nội dung quyết định (と決める) thường dùng thể ý chí (～よう/～おう) hoặc thể từ điển."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "昨日、天気がよかったので公園に出かけた。春の日ざしが暖かく、風が気持ちよくて、ベンチに座っていると、つい（　　）。",
+      "options": ["眠そうだった", "眠ってしまいそうになった", "眠そうにしていた", "眠っていそうだった"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hôm qua trời đẹp nên tôi ra công viên. Nắng xuân ấm áp, gió dễ chịu, ngồi trên ghế đá là suýt nữa thì ngủ quên mất.",
+        "why": "Chủ ngữ là 'tôi' (người kể). Vます＋そうになる = 'suýt nữa thì ~'. Đi với つい (lỡ) → 眠ってしまいそうになった = suýt ngủ thiếp đi.",
+        "options": [
+          "眠そうだった → trông có vẻ buồn ngủ (nhận xét người khác từ bên ngoài). Sai.",
+          "眠ってしまいそうになった → suýt nữa ngủ mất. ĐÚNG.",
+          "眠そうにしていた → tỏ ra buồn ngủ (miêu tả người khác). Sai.",
+          "眠っていそうだった → có vẻ như đang ngủ (phỏng đoán về người khác). Sai."
+        ],
+        "vocab": [
+          { "w": "日ざし", "r": "ひざし", "hv": "NHẬT", "vi": "ánh nắng" },
+          { "w": "眠る", "r": "ねむる", "hv": "MIÊN", "vi": "ngủ" }
+        ],
+        "grammar": {
+          "pattern": "～そうになる",
+          "meaning": "suýt nữa thì ~ (nhưng chưa xảy ra)",
+          "form": "Vます(bỏ ます)＋そうになる",
+          "example": "階段で転びそうになった。"
+        },
+        "evidence": null,
+        "tip": "～そうだ (trông có vẻ) dùng để miêu tả người khác; với bản thân dùng ～そうになる."
+      }
+    }
+  ]
+}

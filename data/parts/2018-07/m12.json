@@ -1,0 +1,82 @@
+{
+  "exam": "2018-07",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B, chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "自分は歌がうまくないとか、自信がないから人前で歌を歌いたくないと思っている人は多いと思う。実は、そういう人たちはテレビやCDで聞いて何となく覚えた歌を、自分の勝手なイメージで歌ってしまっていることが多い。自信を持って歌を歌うには、まず歌詞を理解して曲を覚えることが必要だ。歌詞は何度もよく読むことで、伝えたいメッセージが理解できる。曲も繰り返し聞けば、細かい部分まで聞き取れるようになり、正確に覚えることができる。このようにして歌詞と曲をしっかり覚えたら、あとは歌手のまねをするような気持ちで、自信を持って歌うことだ。いきなり自分らしく歌おうとするのは、失敗のもとなのでやめたほうがいい。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "どうしたら人の心に響くような歌が歌えるようになるのだろうか。よく歌手のようにうまく歌いたいと思って歌手のまねをして歌っている人がいるが、私はそのような歌を聞いても感動することは少ない。私にとって上手な歌というのは、何よりも歌う人の気持ちが伝わってくる歌だからだ。\nではどうすれば人を感動させる歌が歌えるのか。それには歌詞を深く理解することが大切だ。単語の意味はもちろん、描かれている状況や感情を丁寧に読み込んでいけば、どこが大切か、どこを強調して歌えばいいかが分かってくるはずだ。歌詞の理解さえ十分にできていれば、多少音を間違えたとしても、メッセージは必ず聞き手に伝えられると思う。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 69,
+      "passage": "AB",
+      "stem": "歌を歌う前に歌詞を理解することについて、AとBはどのように考えているか。",
+      "options": [
+        "AもBも、必要だと述べている。",
+        "AもBも、あまり必要ではないと述べている。",
+        "Aは必要だと述べ、Bはあまり必要ではないと述べている。",
+        "Aはあまり必要ではないと述べ、Bは必要だと述べている。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về việc hiểu lời bài hát trước khi hát, A và B nghĩ thế nào? → Cả A và B đều nói là cần thiết.",
+        "why": "A: 'muốn hát tự tin, trước hết cần hiểu lời và thuộc nhạc'. B: 'để hát cảm động người nghe, điều quan trọng là hiểu sâu lời bài hát'. Cả hai đều coi trọng việc hiểu lời.",
+        "options": [
+          "Cả A và B đều nói cần thiết. ĐÚNG.",
+          "Cả hai đều nói cần. Sai.",
+          "B cũng nói cần (大切だ). Sai.",
+          "A cũng nói cần (必要だ). Sai."
+        ],
+        "vocab": [
+          { "w": "歌詞", "r": "かし", "hv": "CA TỪ", "vi": "lời bài hát" },
+          { "w": "理解", "r": "りかい", "hv": "LÝ GIẢI", "vi": "hiểu" },
+          { "w": "響く", "r": "ひびく", "hv": "HƯỞNG", "vi": "vang, chạm đến (lòng người)" }
+        ],
+        "grammar": null,
+        "evidence": "A：自信を持って歌を歌うには、まず歌詞を理解して曲を覚えることが必要だ。\nB：それには歌詞を深く理解することが大切だ。",
+        "tip": null
+      }
+    },
+    {
+      "num": 70,
+      "passage": "AB",
+      "stem": "AとBは、歌を上手に歌うために、どのようなことが重要だと述べているか。",
+      "options": [
+        "AもBも、歌手のまねをするような気持ちで歌うことだと述べている。",
+        "AもBも、歌の強調したいところを意識して歌うことだと述べている。",
+        "Aは歌を正確に覚えてから歌うことだと述べ、Bは気持ちを伝えるように歌うことだと述べている。",
+        "Aは自分らしく歌おうとしないことだと述べ、Bは自信を持って歌うことだと述べている。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "A và B nói điều gì là quan trọng để hát hay? → A: thuộc bài chính xác rồi mới hát; B: hát sao cho truyền tải được cảm xúc.",
+        "why": "A nhấn mạnh hiểu lời, nghe nhiều lần để thuộc chính xác rồi hát tự tin như bắt chước ca sĩ. B cho rằng bài hát hay là bài 'truyền tải được cảm xúc của người hát'.",
+        "options": [
+          "B KHÔNG cảm động với kiểu hát bắt chước ca sĩ. Sai.",
+          "Chỉ B nhắc đến chỗ cần nhấn mạnh; A không nói. Sai.",
+          "A: thuộc chính xác; B: truyền tải cảm xúc. ĐÚNG.",
+          "Nửa đầu đúng với A, nhưng 'hát tự tin' là ý của A chứ không phải B. Sai."
+        ],
+        "vocab": [
+          { "w": "正確", "r": "せいかく", "hv": "CHÍNH XÁC", "vi": "chính xác" },
+          { "w": "強調", "r": "きょうちょう", "hv": "CƯỜNG ĐIỆU", "vi": "nhấn mạnh" },
+          { "w": "感動", "r": "かんどう", "hv": "CẢM ĐỘNG", "vi": "cảm động" },
+          { "w": "繰り返す", "r": "くりかえす", "hv": "SÀO PHẢN", "vi": "lặp lại" }
+        ],
+        "grammar": null,
+        "evidence": "A：曲も繰り返し聞けば、細かい部分まで聞き取れるようになり、正確に覚えることができる。\nB：私にとって上手な歌というのは、何よりも歌う人の気持ちが伝わってくる歌だからだ。",
+        "tip": "A ủng hộ 'bắt chước ca sĩ', B phản đối – điểm khác biệt chính."
+      }
+    }
+  ]
+}

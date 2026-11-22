@@ -1,0 +1,143 @@
+{
+  "exam": "2023-07",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "バスの<u>運賃</u>を払う。",
+      "options": ["うんしん", "うんちん", "うんにん", "うんりん"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Trả tiền vé xe buýt.",
+        "why": "運賃 đọc là うんちん (VẬN NHẪM) = tiền cước, tiền vé đi tàu xe. 賃 có âm On là ちん (như 家賃 やちん, 賃金 ちんぎん).",
+        "options": [
+          "うんしん → không có từ này (dễ nhầm với 運針). Sai.",
+          "うんちん → 運賃: tiền vé, cước phí vận chuyển. ĐÚNG.",
+          "うんにん → không có từ này (nhầm với âm にん của 任/人). Sai.",
+          "うんりん → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "運賃", "r": "うんちん", "hv": "VẬN NHẪM", "vi": "tiền vé, cước vận chuyển" },
+          { "w": "家賃", "r": "やちん", "hv": "GIA NHẪM", "vi": "tiền thuê nhà" },
+          { "w": "賃金", "r": "ちんぎん", "hv": "NHẪM KIM", "vi": "tiền lương, tiền công" },
+          { "w": "払う", "r": "はらう", "hv": "PHẤT", "vi": "trả (tiền)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "賃 = 任 (にん) + 貝 (tiền) nhưng KHÔNG đọc にん mà đọc ちん. Nhóm 賃: 運賃・家賃・賃金・賃貸 (ちんたい)."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "風が強くて、髪が<u>乱れて</u>しまった。",
+      "options": ["くずれて", "あれて", "あばれて", "みだれて"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Gió mạnh nên tóc bị rối mất rồi.",
+        "why": "乱れる đọc là みだれる (LOẠN) = rối, lộn xộn, xáo trộn. 髪が乱れる = tóc bị rối là cụm cố định.",
+        "options": [
+          "くずれて → 崩れる: sụp đổ, vỡ, (dáng) xộc xệch. Sai.",
+          "あれて → 荒れる: (thời tiết, biển) động; (da) thô ráp. Sai.",
+          "あばれて → 暴れる: quậy phá, làm loạn. Sai.",
+          "みだれて → 乱れる: rối, lộn xộn. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "乱れる", "r": "みだれる", "hv": "LOẠN", "vi": "rối, lộn xộn, xáo trộn" },
+          { "w": "乱す", "r": "みだす", "hv": "LOẠN", "vi": "làm rối, làm xáo trộn" },
+          { "w": "崩れる", "r": "くずれる", "hv": "BĂNG", "vi": "sụp đổ, vỡ" },
+          { "w": "荒れる", "r": "あれる", "hv": "HOANG", "vi": "động (biển), thô ráp (da)" },
+          { "w": "暴れる", "r": "あばれる", "hv": "BẠO", "vi": "quậy phá, làm loạn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "乱 âm On là らん (混乱 こんらん: hỗn loạn). Các đáp án sai đều là động từ gần nghĩa \"hỗn loạn\" để gây nhiễu."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "前田さんは子どもたちに正しい泳ぎ方の<u>模範</u>を示した。",
+      "options": ["もうばん", "もうはん", "もばん", "もはん"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh Maeda đã làm mẫu cách bơi đúng cho bọn trẻ.",
+        "why": "模範 đọc là もはん (MÔ PHẠM) = mẫu mực, hình mẫu. 模 ở đây đọc も (âm ngắn), 範 đọc はん (không biến âm).",
+        "options": [
+          "もうばん → sai cả trường âm và âm đục. Sai.",
+          "もうはん → kéo dài も thành もう là sai (模 không có âm もう). Sai.",
+          "もばん → 範 không biến thành ばん. Sai.",
+          "もはん → 模範: hình mẫu, mẫu mực. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "模範", "r": "もはん", "hv": "MÔ PHẠM", "vi": "hình mẫu, mẫu mực" },
+          { "w": "模型", "r": "もけい", "hv": "MÔ HÌNH", "vi": "mô hình" },
+          { "w": "規模", "r": "きぼ", "hv": "QUY MÔ", "vi": "quy mô" },
+          { "w": "範囲", "r": "はんい", "hv": "PHẠM VI", "vi": "phạm vi" },
+          { "w": "示す", "r": "しめす", "hv": "THỊ", "vi": "chỉ ra, thể hiện" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "模 có 2 âm: も (模範・模型) và ぼ (規模). Không có もう. 模範を示す = làm gương, làm mẫu."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "思った以上に<u>険しかった</u>。",
+      "options": ["けわしかった", "まぶしかった", "おそろしかった", "はげしかった"],
+      "answer": 1,
+      "explanation": {
+        "translation": "(Con đường / ngọn núi) dốc hiểm trở hơn tôi nghĩ.",
+        "why": "険しい đọc là けわしい (HIỂM) = dốc đứng, hiểm trở; (nét mặt) nghiêm khắc, căng thẳng.",
+        "options": [
+          "けわしかった → 険しい: dốc, hiểm trở. ĐÚNG.",
+          "まぶしかった → 眩しい: chói mắt. Sai.",
+          "おそろしかった → 恐ろしい: đáng sợ. Sai.",
+          "はげしかった → 激しい: dữ dội, mãnh liệt. Sai."
+        ],
+        "vocab": [
+          { "w": "険しい", "r": "けわしい", "hv": "HIỂM", "vi": "dốc, hiểm trở; nghiêm khắc" },
+          { "w": "危険", "r": "きけん", "hv": "NGUY HIỂM", "vi": "nguy hiểm" },
+          { "w": "恐ろしい", "r": "おそろしい", "hv": "KHỦNG", "vi": "đáng sợ" },
+          { "w": "激しい", "r": "はげしい", "hv": "KÍCH", "vi": "dữ dội, mãnh liệt" },
+          { "w": "眩しい", "r": "まぶしい", "hv": "HUYỄN", "vi": "chói mắt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "険 có bộ 阝 (đồi núi) → núi dốc = 険しい山道. Âm On: けん (危険・保険・冒険)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "さっき<u>握手</u>していた人は誰ですか。",
+      "options": ["おくしゅ", "はくしゅ", "あくしゅ", "ほくしゅ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Người lúc nãy bắt tay (với bạn) là ai vậy?",
+        "why": "握手 đọc là あくしゅ (ÁC THỦ) = bắt tay. 握 âm On là あく, âm Kun là にぎる (nắm).",
+        "options": [
+          "おくしゅ → không có từ này. Sai.",
+          "はくしゅ → 拍手: vỗ tay. Bẫy gần âm. Sai.",
+          "あくしゅ → 握手: bắt tay. ĐÚNG.",
+          "ほくしゅ → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "握手", "r": "あくしゅ", "hv": "ÁC THỦ", "vi": "bắt tay" },
+          { "w": "握る", "r": "にぎる", "hv": "ÁC", "vi": "nắm, cầm chặt" },
+          { "w": "拍手", "r": "はくしゅ", "hv": "PHÁCH THỦ", "vi": "vỗ tay" },
+          { "w": "把握", "r": "はあく", "hv": "BẢ ÁC", "vi": "nắm bắt, nắm rõ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "握手 (あくしゅ, bắt tay) vs 拍手 (はくしゅ, vỗ tay) – hay bị đặt cạnh nhau. 握 cũng có trong 把握 (はあく)."
+      }
+    }
+  ]
+}

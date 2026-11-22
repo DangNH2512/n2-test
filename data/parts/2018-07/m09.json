@@ -1,0 +1,156 @@
+{
+  "exam": "2018-07",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、（50）から（54）の中に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, suy nghĩ nội dung toàn bài và chọn từ/cụm từ thích hợp nhất cho các chỗ trống (50)–(54).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "道路のひみつ",
+      "text": "道路のひみつ\n仕事、買い物、遊びに行くとき、誰でも必ずお世話になるものがある。（50）だ。当たり前のように存在し、多くの人に利用されているが、様々な工夫がされていることはあまり知られていない。\n例えば、高速道路や大きな道路の多くで雨水が道路上にたまりにくい設計になっていることは（51）。道路表面に小さな無数の穴があり、水が舗装の下に抜けるという仕組みだ。高速道路で雨の日に事故が多かった地点も、この舗装にした後、雨の日の事故が約80％減少したという。\n（52）、寒い地域では雪や氷が原因でスリップ事故が多発する。そのため、雪や氷を砕く機能をもった道路が開発されている。粒状のゴムなど、柔軟性のある小さな素材を道路に埋め込み、車の重みで道路をわずかに変形させて雪や氷を砕く。カーブや坂道などをそういう舗装にすれば、道路に雪や氷が密着するのを防ぐことができ、スリップの危険性が減る。\n道路表面の温度を下げる（53）。道路は太陽に熱せられ、夏は特に熱くなりやすい。そこで、太陽光線の吸収を防ぐ物質を表面に塗ることで温度上昇を抑えている。この舗装により、道路の温度は最大10度以上も下がる。人やペットが歩く公園や歩道にぴったりだ。\nこれら以外にも、様々な機能の道路が日々開発され、利用されている。道路の違いは見た目にはよくわからないかもしれない。しかし、人々がより安全で快適に暮らせるよう、足元で（54）。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["道路", "ある道路", "その道路", "こんな道路"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Khi đi làm, đi mua sắm hay đi chơi, có một thứ mà ai cũng nhất định phải nhờ cậy. Đó là đường sá.",
+        "why": "Câu đầu giới thiệu chung một thứ ai cũng dùng → câu sau trả lời bằng danh từ chung 道路 (đường sá nói chung). Chưa có đường cụ thể nào được nhắc tới nên không dùng その/こんな/ある.",
+        "options": [
+          "道路 → đường sá nói chung. ĐÚNG.",
+          "ある道路 → một con đường nào đó (cụ thể) – trái với 'ai cũng dùng'. Sai.",
+          "その道路 → con đường đó – chưa có đối tượng được nhắc trước. Sai.",
+          "こんな道路 → con đường như thế này – không có gì để chỉ. Sai."
+        ],
+        "vocab": [
+          { "w": "道路", "r": "どうろ", "hv": "ĐẠO LỘ", "vi": "đường sá" },
+          { "w": "お世話になる", "r": "おせわになる", "hv": "THẾ THOẠI", "vi": "được giúp đỡ, nhờ cậy" },
+          { "w": "工夫", "r": "くふう", "hv": "CÔNG PHU", "vi": "sáng tạo, cải tiến" }
+        ],
+        "grammar": null,
+        "evidence": "仕事、買い物、遊びに行くとき、誰でも必ずお世話になるものがある。（50）だ。",
+        "tip": "Câu 'có một thứ… . Đó là ○○' → điền danh từ trần."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["ご存じだ", "ご存じのようだ", "ご存じだろうか", "ご存じなのだろう"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Chẳng hạn, bạn có biết rằng nhiều đường cao tốc và đường lớn được thiết kế sao cho nước mưa khó đọng trên mặt đường không?",
+        "why": "Đoạn đầu nói 'những cải tiến này ít được biết đến' → người viết đặt câu hỏi tu từ với người đọc: ご存じだろうか (bạn có biết không?), sau đó giải thích.",
+        "options": [
+          "ご存じだ → (bạn) biết – khẳng định, mâu thuẫn với あまり知られていない. Sai.",
+          "ご存じのようだ → có vẻ (bạn) biết – suy đoán không căn cứ. Sai.",
+          "ご存じだろうか → bạn có biết không? (hỏi người đọc). ĐÚNG.",
+          "ご存じなのだろう → chắc là (bạn) biết – mâu thuẫn. Sai."
+        ],
+        "vocab": [
+          { "w": "ご存じ", "r": "ごぞんじ", "hv": "TỒN", "vi": "biết (tôn kính)" },
+          { "w": "雨水", "r": "あまみず", "hv": "VŨ THỦY", "vi": "nước mưa" },
+          { "w": "舗装", "r": "ほそう", "hv": "PHỐ TRANG", "vi": "lát mặt đường" }
+        ],
+        "grammar": {
+          "pattern": "〜だろうか",
+          "meaning": "liệu có… không? (câu hỏi tu từ, hướng tới người đọc)",
+          "form": "普通形 ＋ だろうか",
+          "example": "皆さんはこの事実をご存じだろうか。"
+        },
+        "evidence": "様々な工夫がされていることはあまり知られていない。",
+        "tip": null
+      }
+    },
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "（52）に入るもの",
+      "options": ["また", "すると", "こうして", "したがって"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Ngoài ra, ở các vùng lạnh, tai nạn trượt bánh do tuyết và băng thường xảy ra.",
+        "why": "Đoạn trước là ví dụ 1 (đường thoát nước mưa), đoạn này giới thiệu ví dụ 2 (đường phá băng tuyết) → liên từ bổ sung, liệt kê また.",
+        "options": [
+          "また → ngoài ra, thêm nữa (liệt kê). ĐÚNG.",
+          "すると → thế là, ngay sau đó (kết quả tiếp nối). Sai.",
+          "こうして → như vậy, bằng cách đó (tổng kết). Sai.",
+          "したがって → do đó (kết luận nhân quả). Sai."
+        ],
+        "vocab": [
+          { "w": "多発", "r": "たはつ", "hv": "ĐA PHÁT", "vi": "xảy ra nhiều" },
+          { "w": "砕く", "r": "くだく", "hv": "TOÁI", "vi": "đập vỡ, nghiền" },
+          { "w": "密着", "r": "みっちゃく", "hv": "MẬT TRƯỚC", "vi": "bám chặt" }
+        ],
+        "grammar": null,
+        "evidence": "例えば、高速道路や大きな道路の多くで雨水が道路上にたまりにくい設計になっている… （52）、寒い地域では雪や氷が原因でスリップ事故が多発する。",
+        "tip": "Thấy 例えば ở ví dụ 1 → ví dụ 2 thường mở đầu bằng また."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p1",
+      "stem": "（53）に入るもの",
+      "options": ["工夫だと言える", "工夫も考えられる", "工夫だと思われる", "工夫も見られる"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Cũng có thể thấy cả cải tiến làm giảm nhiệt độ mặt đường.",
+        "why": "Đây là ví dụ thứ 3 được liệt kê → cần trợ từ も (cũng). 見られる = có thể thấy (tồn tại thực tế), vì cải tiến này đã được áp dụng thực tế (温度上昇を抑えている).",
+        "options": [
+          "工夫だと言える → có thể nói là cải tiến – thiếu も, chủ ngữ không rõ. Sai.",
+          "工夫も考えられる → cũng có thể nghĩ ra cải tiến (mới chỉ là ý tưởng) – nhưng thực tế đã áp dụng. Sai.",
+          "工夫だと思われる → được cho là cải tiến – thiếu ý liệt kê. Sai.",
+          "工夫も見られる → cũng thấy có cải tiến. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "吸収", "r": "きゅうしゅう", "hv": "HẤP THU", "vi": "hấp thụ" },
+          { "w": "抑える", "r": "おさえる", "hv": "ỨC", "vi": "kìm, hạn chế" },
+          { "w": "塗る", "r": "ぬる", "hv": "ĐỒ", "vi": "sơn, bôi" }
+        ],
+        "grammar": {
+          "pattern": "〜も見られる",
+          "meaning": "cũng có thể thấy (có tồn tại) …",
+          "form": "N ＋ も見られる",
+          "example": "最近は若者の間にこのような傾向も見られる。"
+        },
+        "evidence": "そこで、太陽光線の吸収を防ぐ物質を表面に塗ることで温度上昇を抑えている。",
+        "tip": "Đang liệt kê ví dụ → ưu tiên lựa chọn có も."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p1",
+      "stem": "（54）に入るもの",
+      "options": ["支えてくれているはずだった", "支えてくれているわけだ", "支えてくれているからだった", "支えてくれているおかげだ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tuy nhiên, có thể nói là (đường sá) đang nâng đỡ chúng ta ngay dưới chân để con người sống an toàn, thoải mái hơn.",
+        "why": "Câu kết tổng hợp các ví dụ đã nêu → 〜わけだ (thế nên mới là…, nghĩa là…) dùng để rút ra kết luận hợp lý từ những điều trên.",
+        "options": [
+          "支えてくれているはずだった → lẽ ra phải đang nâng đỡ (nhưng thực tế không) – sai ý. Sai.",
+          "支えてくれているわけだ → nghĩa là đang nâng đỡ chúng ta. ĐÚNG.",
+          "支えてくれているからだった → là vì đã nâng đỡ – không có vế kết quả để giải thích. Sai.",
+          "支えてくれているおかげだ → là nhờ vào việc nâng đỡ – cần chủ ngữ là kết quả tốt. Sai."
+        ],
+        "vocab": [
+          { "w": "支える", "r": "ささえる", "hv": "CHI", "vi": "chống đỡ, nâng đỡ" },
+          { "w": "足元", "r": "あしもと", "hv": "TÚC NGUYÊN", "vi": "dưới chân" },
+          { "w": "快適", "r": "かいてき", "hv": "KHOÁI THÍCH", "vi": "thoải mái, dễ chịu" }
+        ],
+        "grammar": {
+          "pattern": "〜わけだ",
+          "meaning": "nghĩa là, thế nên (kết luận tất yếu từ thông tin trước)",
+          "form": "普通形 ＋ わけだ",
+          "example": "毎日練習しているのだから、上手になるわけだ。"
+        },
+        "evidence": "これら以外にも、様々な機能の道路が日々開発され、利用されている。",
+        "tip": "Câu kết bài cloze thường dùng わけだ / のだ để tổng kết."
+      }
+    }
+  ]
+}

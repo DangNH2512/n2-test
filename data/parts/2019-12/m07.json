@@ -1,0 +1,365 @@
+{
+  "exam": "2019-12",
+  "mondai": 7,
+  "section": "grammar",
+  "instruction": "次の文の（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn phương án thích hợp nhất để điền vào chỗ trống trong câu.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "X市とY市を結ぶ橋が、約10年の工事（　　）、昨年ようやく完成した。",
+      "options": ["の際", "の末", "のたび", "のもと"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Cây cầu nối thành phố X và Y, sau khoảng 10 năm thi công, cuối cùng năm ngoái đã hoàn thành.",
+        "why": "N＋の末(に) = sau một quá trình dài (vất vả) thì cuối cùng ~. Đi với ようやく/やっと: 10年の工事の末、ようやく完成した.",
+        "options": [
+          "の際 → khi, lúc (= 時, trang trọng). Sai.",
+          "の末 → sau một thời gian dài ~ thì cuối cùng. ĐÚNG.",
+          "のたび → mỗi khi. Sai.",
+          "のもと → dưới (sự chỉ đạo/điều kiện): 先生の指導のもと. Sai."
+        ],
+        "vocab": [
+          { "w": "結ぶ", "r": "むすぶ", "hv": "KẾT", "vi": "nối, kết nối" },
+          { "w": "工事", "r": "こうじ", "hv": "CÔNG SỰ", "vi": "thi công" },
+          { "w": "完成", "r": "かんせい", "hv": "HOÀN THÀNH", "vi": "hoàn thành" }
+        ],
+        "grammar": {
+          "pattern": "～の末（に）／～た末（に）",
+          "meaning": "sau khi ~ (một quá trình dài, nhiều khó khăn) thì cuối cùng",
+          "form": "Nの＋末（に） / Vた＋末（に）",
+          "example": "よく考えた末に、留学することに決めた。"
+        },
+        "evidence": null,
+        "tip": "Dấu hiệu: khoảng thời gian dài + ようやく/やっと/結局 → の末."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "「田中さんがこの会社をやめるって話、まだ秘密みたいだから、悪いけど、聞かなかった（　　）にしてくれない?」",
+      "options": ["こと", "だけ", "もの", "の"],
+      "answer": 1,
+      "explanation": {
+        "translation": "\"Chuyện anh Tanaka nghỉ việc ở công ty này hình như vẫn còn bí mật, nên phiền cậu coi như chưa nghe thấy gì được không?\"",
+        "why": "Vた／Vなかった＋ことにする = coi như (là) ~ (dù sự thật không phải vậy). 聞かなかったことにする = coi như chưa nghe.",
+        "options": [
+          "こと → ～ことにする: coi như ~. ĐÚNG.",
+          "だけ → không có mẫu ～だけにする với nghĩa này. Sai.",
+          "もの → không có mẫu ～ものにする nghĩa 'coi như'. Sai.",
+          "の → không dùng ～のにする. Sai."
+        ],
+        "vocab": [
+          { "w": "秘密", "r": "ひみつ", "hv": "BÍ MẬT", "vi": "bí mật" },
+          { "w": "やめる（辞める）", "r": "やめる", "hv": "TỪ", "vi": "nghỉ việc" }
+        ],
+        "grammar": {
+          "pattern": "～たことにする／～なかったことにする",
+          "meaning": "coi như là ~ (giả định trái sự thật)",
+          "form": "Vた／Vなかった＋ことにする",
+          "example": "今の話は聞かなかったことにします。"
+        },
+        "evidence": null,
+        "tip": "Phân biệt: Vる＋ことにする = quyết định làm ~; Vた＋ことにする = coi như đã ~."
+      }
+    },
+    {
+      "num": 33,
+      "passage": null,
+      "stem": "最近、よくお腹が痛くなるので、病院で診てもらったら、（　　）ストレスが原因だろうと言われた。",
+      "options": ["どうか", "まさか", "おそらく", "いったい"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Dạo này tôi hay bị đau bụng nên đi khám, và được bảo rằng có lẽ nguyên nhân là do căng thẳng.",
+        "why": "おそらく〜だろう = có lẽ, chắc là ~ (phỏng đoán). おそらく đi với だろう/でしょう.",
+        "options": [
+          "どうか → xin hãy (どうか〜ください). Sai.",
+          "まさか → không lẽ nào (đi với phủ định/ngạc nhiên). Sai.",
+          "おそらく → có lẽ (đi với だろう). ĐÚNG.",
+          "いったい → rốt cuộc là (đi với câu hỏi). Sai."
+        ],
+        "vocab": [
+          { "w": "恐らく", "r": "おそらく", "hv": "KHỦNG", "vi": "có lẽ, e là" },
+          { "w": "診る", "r": "みる", "hv": "CHẨN", "vi": "khám bệnh" },
+          { "w": "原因", "r": "げんいん", "hv": "NGUYÊN NHÂN", "vi": "nguyên nhân" }
+        ],
+        "grammar": {
+          "pattern": "おそらく～だろう",
+          "meaning": "có lẽ ~, chắc là ~",
+          "form": "おそらく＋[thể thường]＋だろう／でしょう",
+          "example": "おそらく明日は雨だろう。"
+        },
+        "evidence": null,
+        "tip": "Phó từ hô ứng: おそらく→だろう, まさか→ないだろう, いったい→か, どうか→ください."
+      }
+    },
+    {
+      "num": 34,
+      "passage": null,
+      "stem": "私は、急な雨（　　）、いつも折り畳み傘を持ち歩いている。",
+      "options": ["に反して", "に加えて", "に備えて", "に応じて"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi lúc nào cũng mang theo ô gấp để phòng khi mưa bất chợt.",
+        "why": "Nに備えて = để phòng bị, chuẩn bị sẵn cho ~. Mang ô gấp là chuẩn bị cho cơn mưa bất chợt.",
+        "options": [
+          "に反して → trái với (予想に反して). Sai.",
+          "に加えて → thêm vào ~. Sai.",
+          "に備えて → để phòng ~. ĐÚNG.",
+          "に応じて → tùy theo, đáp ứng ~. Sai."
+        ],
+        "vocab": [
+          { "w": "備える", "r": "そなえる", "hv": "BỊ", "vi": "phòng bị, chuẩn bị" },
+          { "w": "折り畳み傘", "r": "おりたたみがさ", "hv": "CHIẾT ĐIỆP TẢN", "vi": "ô gấp" },
+          { "w": "持ち歩く", "r": "もちあるく", "hv": "TRÌ BỘ", "vi": "mang theo người" }
+        ],
+        "grammar": {
+          "pattern": "～に備えて",
+          "meaning": "để phòng ~, chuẩn bị cho ~",
+          "form": "N＋に備えて",
+          "example": "地震に備えて、水や食料を用意しておく。"
+        },
+        "evidence": null,
+        "tip": "に備えて hay đi với 地震・災害・試験・老後 và hành động chuẩn bị (用意する, 持つ)."
+      }
+    },
+    {
+      "num": 35,
+      "passage": null,
+      "stem": "（自転車屋で）\n客：「すみません、自転車のブレーキ、壊れちゃったんですけど、すぐ直りますか。」\n店員：「そうですね、これだったら30分（　　）直りますよ。」",
+      "options": ["もあるのに", "もあれば", "はないのに", "はなければ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Ở tiệm xe đạp) Khách: \"Xin lỗi, phanh xe đạp bị hỏng rồi, có sửa ngay được không?\" Nhân viên: \"À, cái này thì chỉ cần 30 phút là sửa xong.\"",
+        "why": "Số lượng＋もあれば = chỉ cần chừng ấy là đủ (nhấn mạnh ít). 30分もあれば直る = chỉ cần 30 phút là sửa được.",
+        "options": [
+          "もあるのに → có tới ~ vậy mà (trách móc). Sai.",
+          "もあれば → chỉ cần ~ là đủ. ĐÚNG.",
+          "はないのに → không có ~ vậy mà. Sai.",
+          "はなければ → nếu không có ~. Sai."
+        ],
+        "vocab": [
+          { "w": "壊れる", "r": "こわれる", "hv": "HOẠI", "vi": "hỏng" },
+          { "w": "直る", "r": "なおる", "hv": "TRỰC", "vi": "được sửa xong" }
+        ],
+        "grammar": {
+          "pattern": "［số lượng］＋もあれば",
+          "meaning": "chỉ cần ~ là đủ",
+          "form": "Từ chỉ số lượng/thời gian＋もあれば",
+          "example": "駅までは10分もあれば着きます。"
+        },
+        "evidence": null,
+        "tip": "Tương tự: 1万円もあれば足りる (chỉ cần 1 vạn yên là đủ)."
+      }
+    },
+    {
+      "num": 36,
+      "passage": null,
+      "stem": "（講演会で）\n司会「ご来場の皆様、本日は第3回さくら市教育講演会に（　　）、ありがとうございます。」",
+      "options": ["まいり", "ご覧になり", "お目にかかり", "おいでくださり"],
+      "answer": 4,
+      "explanation": {
+        "translation": "(Tại buổi diễn thuyết) MC: \"Kính thưa quý vị, hôm nay xin cảm ơn quý vị đã đến dự buổi diễn thuyết giáo dục thành phố Sakura lần thứ 3.\"",
+        "why": "おいでくださる = tôn kính ngữ của 来てくれる (quý vị đã đến cho). Chủ thể là khán giả → cần tôn kính ngữ + くださる để cảm ơn.",
+        "options": [
+          "まいり → まいる: khiêm nhường ngữ của 行く/来る (dùng cho bản thân). Sai.",
+          "ご覧になり → tôn kính ngữ của 見る; 'xem buổi diễn thuyết' không đi với trợ từ に. Sai.",
+          "お目にかかり → khiêm nhường ngữ của 会う. Sai.",
+          "おいでくださり → tôn kính ngữ của 来てくれて. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "来場", "r": "らいじょう", "hv": "LAI TRƯỜNG", "vi": "đến hội trường, đến dự" },
+          { "w": "講演会", "r": "こうえんかい", "hv": "GIẢNG DIỄN HỘI", "vi": "buổi diễn thuyết" },
+          { "w": "司会", "r": "しかい", "hv": "TƯ HỘI", "vi": "người dẫn chương trình" }
+        ],
+        "grammar": {
+          "pattern": "おいでくださる",
+          "meaning": "(quý vị) đến/có mặt cho (tôn kính ngữ của 来てくれる)",
+          "form": "おいで＋くださる → おいでくださり、ありがとうございます",
+          "example": "お忙しい中おいでくださり、ありがとうございます。"
+        },
+        "evidence": null,
+        "tip": "Cảm ơn người khác đã làm gì → tôn kính ngữ + くださり／いただき、ありがとうございます."
+      }
+    },
+    {
+      "num": 37,
+      "passage": null,
+      "stem": "夫は動物が好きじゃないから、もし私がペットを飼いたいと言っても、（　　）。",
+      "options": ["反対しかねる", "反対しようがない", "反対するならいい", "反対するに決まっている"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Chồng tôi không thích động vật, nên dù tôi có nói muốn nuôi thú cưng thì chắc chắn anh ấy sẽ phản đối.",
+        "why": "～に決まっている = chắc chắn là ~ (người nói tin chắc). Chồng không thích động vật → chắc chắn phản đối.",
+        "options": [
+          "反対しかねる → khó mà phản đối được (từ chối khéo). Ngược ý. Sai.",
+          "反対しようがない → không có cách nào phản đối. Sai.",
+          "反対するならいい → nếu phản đối thì tốt: vô nghĩa. Sai.",
+          "反対するに決まっている → chắc chắn sẽ phản đối. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "飼う", "r": "かう", "hv": "TỰ", "vi": "nuôi (động vật)" },
+          { "w": "反対", "r": "はんたい", "hv": "PHẢN ĐỐI", "vi": "phản đối" }
+        ],
+        "grammar": {
+          "pattern": "～に決まっている",
+          "meaning": "chắc chắn là ~, nhất định là ~",
+          "form": "V/Aい (thể thường)／Aな・N＋に決まっている",
+          "example": "そんなに練習しないなら、負けるに決まっている。"
+        },
+        "evidence": null,
+        "tip": "Vます＋かねる = khó có thể làm ~ (≠ かねない = có thể sẽ ~). Đừng nhầm."
+      }
+    },
+    {
+      "num": 38,
+      "passage": null,
+      "stem": "今はスポーツも演劇もテレビで見られる時代だが、直接見ることに（　　）得られない感動というものがある。",
+      "options": ["とってしか", "よってしか", "ついてのみ", "対してのみ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Ngày nay là thời đại có thể xem cả thể thao lẫn kịch trên TV, nhưng có những cảm xúc chỉ có được nhờ xem trực tiếp.",
+        "why": "～によって = bằng (phương tiện, cách thức). ～によってしか〜ない = chỉ có thể ~ bằng cách ~. 直接見ることによってしか得られない = chỉ có được bằng cách xem trực tiếp.",
+        "options": [
+          "とってしか → にとって = đối với (ai đó); không chỉ phương tiện. Sai.",
+          "よってしか → によってしか〜ない: chỉ bằng ~ mới. ĐÚNG.",
+          "ついてのみ → について = về (chủ đề). Sai.",
+          "対してのみ → に対して = đối với (đối tượng hướng tới). Sai."
+        ],
+        "vocab": [
+          { "w": "演劇", "r": "えんげき", "hv": "DIỄN KỊCH", "vi": "kịch, sân khấu" },
+          { "w": "感動", "r": "かんどう", "hv": "CẢM ĐỘNG", "vi": "sự xúc động" },
+          { "w": "得る", "r": "える", "hv": "ĐẮC", "vi": "có được, đạt được" }
+        ],
+        "grammar": {
+          "pattern": "～によってしか～ない",
+          "meaning": "chỉ có thể ~ bằng cách ~",
+          "form": "N／Vること＋によってしか＋Vない",
+          "example": "この問題は話し合いによってしか解決できない。"
+        },
+        "evidence": null,
+        "tip": "しか luôn đi với phủ định (得られない) → loại ついてのみ/対してのみ vì vế sau là phủ định."
+      }
+    },
+    {
+      "num": 39,
+      "passage": null,
+      "stem": "子供のおもちゃは、種類ごとに透明なケースにしまって中身がわかる（　　）、子供がおもちゃを探しやすくなるので、おすすめです。",
+      "options": ["ようになるには", "ようにしておくと", "ようになっても", "ようにしておいて"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Đồ chơi trẻ em nếu cất vào hộp trong suốt theo từng loại để sẵn cho nhìn thấy bên trong, thì trẻ sẽ dễ tìm đồ chơi hơn, nên tôi khuyên làm vậy.",
+        "why": "～ようにする = cố gắng/làm sao cho ~; ～ておく = làm sẵn; ～と = hễ… thì (dẫn tới kết quả 探しやすくなる). ようにしておくと = nếu sắp xếp sẵn sao cho ~ thì ~.",
+        "options": [
+          "ようになるには → để trở nên ~ thì: không hợp vế sau. Sai.",
+          "ようにしておくと → nếu làm sẵn sao cho ~ thì. ĐÚNG.",
+          "ようになっても → dù trở nên ~: ngược logic. Sai.",
+          "ようにしておいて → làm sẵn ~ rồi: không tạo quan hệ điều kiện–kết quả với vế sau. Sai."
+        ],
+        "vocab": [
+          { "w": "透明", "r": "とうめい", "hv": "THẤU MINH", "vi": "trong suốt" },
+          { "w": "中身", "r": "なかみ", "hv": "TRUNG THÂN", "vi": "đồ bên trong" },
+          { "w": "しまう", "r": "しまう", "hv": "", "vi": "cất đi" }
+        ],
+        "grammar": {
+          "pattern": "～ようにしておくと",
+          "meaning": "nếu chuẩn bị sẵn sao cho ~ thì (kết quả tốt)",
+          "form": "Vる／Vない＋ようにしておく＋と",
+          "example": "前の晩に準備するようにしておくと、朝慌てなくてすむ。"
+        },
+        "evidence": null,
+        "tip": "Vế sau là kết quả tự nhiên (探しやすくなる) → cần điều kiện と."
+      }
+    },
+    {
+      "num": 40,
+      "passage": null,
+      "stem": "昨日購入した中古の大型バイクは、かなり古いものなのだが、とてもきれいな状態だった。前の持ち主によほど大切に（　　）。",
+      "options": ["されてもおかしくない", "し続けてもおかしくない", "されていたに違いない", "し続けていたに違いない"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Chiếc mô tô phân khối lớn đã qua sử dụng mà tôi mua hôm qua khá cũ, nhưng tình trạng rất đẹp. Chắc hẳn nó đã được chủ cũ giữ gìn hết sức cẩn thận.",
+        "why": "Chủ ngữ là chiếc xe, 前の持ち主に → cần bị động (大切にされる). Suy đoán chắc chắn từ căn cứ (xe cũ nhưng đẹp) → ～に違いない. よほど＋に違いない hô ứng.",
+        "options": [
+          "されてもおかしくない → dù được ~ cũng không lạ: không hợp suy luận. Sai.",
+          "し続けてもおかしくない → thể chủ động, sai chủ ngữ. Sai.",
+          "されていたに違いない → chắc chắn đã được ~. ĐÚNG.",
+          "し続けていたに違いない → chủ động, nhưng chủ ngữ là xe + 持ち主に → cần bị động. Sai."
+        ],
+        "vocab": [
+          { "w": "中古", "r": "ちゅうこ", "hv": "TRUNG CỔ", "vi": "đồ cũ, đã qua sử dụng" },
+          { "w": "持ち主", "r": "もちぬし", "hv": "TRÌ CHỦ", "vi": "chủ sở hữu" },
+          { "w": "余程", "r": "よほど", "hv": "DƯ TRÌNH", "vi": "hết sức, rất (suy đoán mức độ cao)" }
+        ],
+        "grammar": {
+          "pattern": "～に違いない",
+          "meaning": "chắc chắn là ~ (suy đoán có căn cứ)",
+          "form": "V/Aい (thể thường)／Aな・N＋に違いない",
+          "example": "あの店はいつも並んでいる。よほどおいしいに違いない。"
+        },
+        "evidence": null,
+        "tip": "Xác định chủ ngữ trước: バイク が 持ち主 に 大切にされる (bị động)."
+      }
+    },
+    {
+      "num": 41,
+      "passage": null,
+      "stem": "（電話で）\n上田：「課長、すみません、今日はお休みをいただけないでしょうか。娘と夫が風邪で熱を出してしまったんです。」\n課長：「それは大変だね。わかりました。看病で疲れて、上田さんが（　　）。」",
+      "options": ["倒れなくなるよ", "倒れてしまいたくないのに", "倒れないことになるの", "倒れてしまわないようにね"],
+      "answer": 4,
+      "explanation": {
+        "translation": "(Qua điện thoại) Ueda: \"Trưởng phòng ơi, xin lỗi, hôm nay tôi xin nghỉ được không ạ? Con gái và chồng tôi bị cảm sốt rồi.\" Trưởng phòng: \"Vất vả nhỉ. Tôi hiểu rồi. Cô cũng đừng để vì chăm người ốm mà mệt quá rồi ngã bệnh nhé.\"",
+        "why": "～ないようにね = nhắc nhở/dặn dò 'nhớ đừng để ~'. ～てしまう nhấn mạnh hậu quả không mong muốn → 倒れてしまわないようにね.",
+        "options": [
+          "倒れなくなるよ → sẽ không còn ngã nữa: vô nghĩa. Sai.",
+          "倒れてしまいたくないのに → dù không muốn ngã: chủ ngữ là người nói, không hợp. Sai.",
+          "倒れないことになるの → được quyết định là không ngã: vô nghĩa. Sai.",
+          "倒れてしまわないようにね → nhớ đừng để bị ngã bệnh nhé. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "看病", "r": "かんびょう", "hv": "KHÁN BỆNH", "vi": "chăm sóc người ốm" },
+          { "w": "倒れる", "r": "たおれる", "hv": "ĐẢO", "vi": "ngã; ngã bệnh, gục" },
+          { "w": "課長", "r": "かちょう", "hv": "KHÓA TRƯỞNG", "vi": "trưởng phòng" }
+        ],
+        "grammar": {
+          "pattern": "～ないように（ね）",
+          "meaning": "nhớ đừng ~ nhé (lời dặn dò, nhắc nhở)",
+          "form": "Vない＋ように（ね）",
+          "example": "風邪をひかないようにね。"
+        },
+        "evidence": null,
+        "tip": "Câu cuối của cấp trên thường là lời dặn → ～ないようにね / ～てね."
+      }
+    },
+    {
+      "num": 42,
+      "passage": null,
+      "stem": "山田：「林さんの手作りクッキー、本当においしかったです。どうもありがとうございました。」\n林：「どういたしまして、山田さんにおいしいって（　　）です。」",
+      "options": ["言ってもらえてよかった", "言ってもらってもよかった", "言ってあげられてよかった", "言ってあげてもよかった"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Yamada: \"Bánh quy tự làm của chị Hayashi ngon thật đấy. Cảm ơn chị nhiều.\" Hayashi: \"Không có gì, được anh Yamada khen ngon là tôi vui rồi.\"",
+        "why": "Người nhận lời khen là Hayashi → dùng ～てもらう (được ai đó làm cho). 山田さんに言ってもらえてよかった = thật vui vì được anh Yamada nói là ngon.",
+        "options": [
+          "言ってもらえてよかった → thật tốt vì được (anh) nói cho. ĐÚNG.",
+          "言ってもらってもよかった → dù được nói cũng được: sai nghĩa. Sai.",
+          "言ってあげられてよかった → vui vì đã nói cho (anh): sai hướng cho–nhận. Sai.",
+          "言ってあげてもよかった → nói cho cũng được: sai hướng và nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "手作り", "r": "てづくり", "hv": "THỦ TÁC", "vi": "tự làm bằng tay" }
+        ],
+        "grammar": {
+          "pattern": "～てもらえてよかった",
+          "meaning": "thật vui/may vì được (ai đó) làm ~ cho",
+          "form": "（人に）Vて＋もらえて＋よかった",
+          "example": "先生に褒めてもらえてよかった。"
+        },
+        "evidence": null,
+        "tip": "人に〜てもらう: người nói là người nhận hành động. 山田さんに → người làm là Yamada."
+      }
+    }
+  ]
+}

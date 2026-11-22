@@ -1,0 +1,139 @@
+{
+  "exam": "2021-07",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết chữ Hán đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "私の故郷は自然が<u>ゆたか</u>なところです。",
+      "options": ["豊か", "富か", "恵か", "福か"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Quê hương tôi là nơi có thiên nhiên phong phú.",
+        "why": "ゆたか viết là 豊か (PHONG) = phong phú, dồi dào, giàu có. Các chữ còn lại không có cách đọc ゆたか.",
+        "options": [
+          "豊か → ゆたか: phong phú, dồi dào. ĐÚNG.",
+          "富か → không có; 富 đọc とむ (富む: giàu có), とみ, ふ. Sai.",
+          "恵か → không có; 恵 đọc めぐむ (恵まれる: được ưu đãi). Sai.",
+          "福か → không có; 福 đọc ふく (幸福). Sai."
+        ],
+        "vocab": [
+          { "w": "豊か", "r": "ゆたか", "hv": "PHONG", "vi": "phong phú, giàu có" },
+          { "w": "故郷", "r": "こきょう／ふるさと", "hv": "CỐ HƯƠNG", "vi": "quê hương" },
+          { "w": "豊富", "r": "ほうふ", "hv": "PHONG PHÚ", "vi": "phong phú, dồi dào" },
+          { "w": "恵まれる", "r": "めぐまれる", "hv": "HUỆ", "vi": "được ban cho, may mắn có" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Các chữ 富・恵・福 đều mang nghĩa \"giàu, phúc\" nên dễ gây nhầm, nhưng chỉ 豊 đọc ゆたか."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "この店の商品は、買ってから一週間以内なら<u>へんぴん</u>できます。",
+      "options": ["返品", "変品", "逆品", "戻品"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hàng của cửa hàng này có thể trả lại trong vòng một tuần kể từ khi mua.",
+        "why": "へんぴん = 返品 (PHẢN PHẨM) = trả lại hàng. 返 (かえす: trả lại) đọc へん; 品 đọc ひん → biến âm ぴん.",
+        "options": [
+          "返品 → へんぴん: trả hàng. ĐÚNG.",
+          "変品 → 変 (biến đổi) cũng đọc へん nhưng không có từ 変品. Sai.",
+          "逆品 → 逆 đọc ぎゃく, không có từ này. Sai.",
+          "戻品 → 戻 đọc もどす/れい, không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "返品", "r": "へんぴん", "hv": "PHẢN PHẨM", "vi": "trả lại hàng" },
+          { "w": "以内", "r": "いない", "hv": "DĨ NỘI", "vi": "trong vòng" },
+          { "w": "返却", "r": "へんきゃく", "hv": "PHẢN KHƯỚC", "vi": "trả lại (đồ mượn)" },
+          { "w": "返金", "r": "へんきん", "hv": "PHẢN KIM", "vi": "hoàn tiền" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "返 (trả lại) ≠ 変 (thay đổi): cùng đọc へん, phân biệt bằng nghĩa."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "道具を<u>らんぼう</u>に使ってはいけません。",
+      "options": ["荒暴", "乱暴", "乱亡", "荒亡"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Không được dùng dụng cụ một cách thô bạo.",
+        "why": "らんぼう = 乱暴 (LOẠN BẠO) = thô bạo, cẩu thả. 乱 đọc らん, 暴 đọc ぼう.",
+        "options": [
+          "荒暴 → 荒 đọc こう/あらい, không có từ này. Sai.",
+          "乱暴 → らんぼう: thô bạo. ĐÚNG.",
+          "乱亡 → 亡 (ぼう: chết, mất) sai chữ. Sai.",
+          "荒亡 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "乱暴", "r": "らんぼう", "hv": "LOẠN BẠO", "vi": "thô bạo, cẩu thả" },
+          { "w": "道具", "r": "どうぐ", "hv": "ĐẠO CỤ", "vi": "dụng cụ" },
+          { "w": "暴力", "r": "ぼうりょく", "hv": "BẠO LỰC", "vi": "bạo lực" },
+          { "w": "乱れる", "r": "みだれる", "hv": "LOẠN", "vi": "rối loạn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "荒い (あらい: thô) có nghĩa gần nhưng らんぼう phải viết 乱暴."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "この二人はライバルとして常に<u>きそって</u>きた。",
+      "options": ["争って", "戦って", "競って", "討って"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hai người này luôn ganh đua với nhau với tư cách là đối thủ.",
+        "why": "きそう viết là 競う (CẠNH) = ganh đua, thi đua (競争 きょうそう). Các chữ khác có cách đọc khác.",
+        "options": [
+          "争って → あらそって (争う: tranh giành, tranh chấp). Sai.",
+          "戦って → たたかって (戦う: chiến đấu). Sai.",
+          "競って → きそって (競う: ganh đua). ĐÚNG.",
+          "討って → うって (討つ: đánh, thảo phạt). Sai."
+        ],
+        "vocab": [
+          { "w": "競う", "r": "きそう", "hv": "CẠNH", "vi": "ganh đua, thi đua" },
+          { "w": "競争", "r": "きょうそう", "hv": "CẠNH TRANH", "vi": "cạnh tranh" },
+          { "w": "常に", "r": "つねに", "hv": "THƯỜNG", "vi": "luôn luôn" },
+          { "w": "争う", "r": "あらそう", "hv": "TRANH", "vi": "tranh giành" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "競 = 2 chữ 立 + 兄 đứng cạnh nhau → hai người đua nhau. 競馬 けいば, 競技 きょうぎ."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "特に目立った<u>じゃくてん</u>はない。",
+      "options": ["悪点", "欠点", "低点", "弱点"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Không có điểm yếu nào đặc biệt nổi bật.",
+        "why": "じゃくてん = 弱点 (NHƯỢC ĐIỂM) = điểm yếu. 弱 (よわい) âm On là じゃく.",
+        "options": [
+          "悪点 → không có từ này (悪 đọc あく). Sai.",
+          "欠点 → けってん: khuyết điểm; nghĩa gần nhưng cách đọc khác. Sai.",
+          "低点 → không có từ này (低 đọc てい). Sai.",
+          "弱点 → じゃくてん: điểm yếu. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "弱点", "r": "じゃくてん", "hv": "NHƯỢC ĐIỂM", "vi": "điểm yếu" },
+          { "w": "欠点", "r": "けってん", "hv": "KHIẾM ĐIỂM", "vi": "khuyết điểm" },
+          { "w": "目立つ", "r": "めだつ", "hv": "MỤC LẬP", "vi": "nổi bật, dễ thấy" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "欠点 là bẫy về nghĩa — đề hỏi chữ Hán theo cách đọc じゃくてん nên chỉ có 弱点."
+      }
+    }
+  ]
+}

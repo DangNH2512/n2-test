@@ -1,0 +1,167 @@
+{
+  "exam": "2011-12",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（1）から（5）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi (đoạn văn ngắn).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "冷水で顔を洗う方法は、頭をさえさせる（注1）のにいいばかりではない。寒さに強い体に鍛えるうまい方法でもある。「寒さに強い」と言う場合、寒さに耐える強さと寒さの変化に早く適応（注2）できるという強さとがあるが、この方法は後者を鍛えることになる。毎日決まった時刻に温度変化を刺激としてあたえ、それにうまく適応する条件反射（注3）をつくりあげるのである。\n（正木健雄『新・いきいき体調トレーニング』による）\n\n（注1）頭をさえさせる：頭をすっきりさせる\n（注2）適応：（ある状況に）合うこと\n（注3）条件反射：ある条件を与えられるといつも同じ反応をすること"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、ある会社が製品を注文してきた相手に出した文書である。\n\n平成23年9月20日\n町屋株式会社\n仕入部　石川勇次様\n六谷工業株式会社\n営業部　田山洋\n\n拝啓\n初秋の候、貴社（注）ますますご発展のこととお慶び申し上げます。\n平素は、格別のお引き立てを賜りまして、厚く御礼申し上げます。\nさて、9月15日付でご注文いただいた「ゲームズワールド3」の件でございますが、100台のうち90台は今月末に発送を予定しております。残り10台につきましては誠に申し訳ございませんが、製造が注文に追い付かず来月以降になる予定です。ただいまできるだけ早い発送を目指しておりますが、もうしばらくお待ちいただけますでしょうか。\nご迷惑をおかけすることになり大変申し訳ございませんが、どうかご理解くださいますようお願い申し上げます。\n敬具\n\n（注）貴社：相手の会社"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "以下はある日本語学校が出版社に出したメールである。\n\n株式会社すみれ出版\nご担当者様\n\nいつもお世話になっております。\n本日貴社（注1）から教科書40冊が届きました。さっそく開封しましたところ、こちらが注文した「日本語の友・中級」ではなく、「日本語の友・初級」が入っておりました。\n納品書（注2）にはたしかに「日本語の友・中級」とありました。どこかで手違いが生じたのではないかと思いますが、再度ご確認のうえ、至急注文した品をお送り下さるようにお願いいたします。\nなお、本日届きました「日本語の友・初級」は、ご連絡があるまでお預かりします。\nよろしくお願いいたします。\n\nFY日本語学校\n川中よう子\n\n（注1）貴社：相手の会社\n（注2）納品書：届けた商品の内容や金額が記入してある書類"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "ゾウの世話を複数で行う場合、ゾウは人に序列をつけます（注1）。ゾウとのかかわりの深い経験者の順位は高く、新しく係に入ってきた人の順位は、ゾウから見れば最低です。高順位の人の言いつけはよく聞きます。しかし、下位だと思っている人が一人でゾウに命令したりすると、反発して（注2）鼻や体で押されたりして事故となってしまうのです。ですから、ゾウの経験の乏しい新しい人に、特に一人で任せてはいけません。ゾウが新しい人を十分認めるまでは、経験者との共同作業が必要なのです。\n（増井光子『動物の赤ちゃんは、なぜ可愛い』による）\n\n（注1）序列をつける：順番をつける\n（注2）反発して：ここでは、反抗して"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "写真家の北井一夫さんから教えてもらったことでもあるのだが、僕は写真は50:50の表現物だと思っている。カメラを間に置いた向こう側とぼくとの表現性が、フィフティ：フィフティ（注1）の割合で成り立っている。つまり100パーセント僕の表現だと恐れ多くていえないのだ。向こう側が表現しているものをカメラでサッと横取りして（注2）いるにすぎない。でも一方で、その表現だと認めてカメラを向ける僕がいるからこそ、向こう側の表現が生かされて像に結実する（注3）わけだ。\n\n（注1）フィフティ：フィフティ：50対50、半分ずつ\n（注2）横取りして：奪う\n（注3）〜に結実する：〜として完成する"
+    }
+  ],
+  "questions": [
+    {
+      "num": 55,
+      "passage": "p1",
+      "stem": "冷水で顔を洗う方法は、頭をすっきりさせるほかにどのような効果があるか。",
+      "options": ["気温の低下に対応できるようになる。", "気温の変化を感じなくなる。", "寒さが敏感にわかるようになる。", "寒さに耐える強さが身につく。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Phương pháp rửa mặt bằng nước lạnh, ngoài việc làm đầu óc tỉnh táo, còn có hiệu quả gì? → Trở nên có thể thích ứng với việc nhiệt độ giảm.",
+        "why": "Có 2 kiểu \"chịu lạnh tốt\": (a) sức chịu đựng cái lạnh, (b) khả năng thích ứng nhanh với sự thay đổi lạnh. Phương pháp này rèn luyện cái sau (後者) = (b) → thích ứng được khi nhiệt độ hạ xuống.",
+        "options": [
+          "Thích ứng được với sự giảm nhiệt độ = 寒さの変化に早く適応できる. ĐÚNG.",
+          "Không còn cảm nhận thay đổi nhiệt độ – bài không nói. Sai.",
+          "Nhạy cảm với cái lạnh hơn – bài không nói. Sai.",
+          "Sức chịu đựng cái lạnh = 前者, không phải cái được rèn. Sai (bẫy)."
+        ],
+        "vocab": [
+          { "w": "冷水", "r": "れいすい", "hv": "LÃNH THỦY", "vi": "nước lạnh" },
+          { "w": "鍛える", "r": "きたえる", "hv": "ĐOÀN", "vi": "rèn luyện" },
+          { "w": "適応", "r": "てきおう", "hv": "THÍCH ỨNG", "vi": "thích ứng" },
+          { "w": "後者", "r": "こうしゃ", "hv": "HẬU GIẢ", "vi": "cái sau (trong hai cái)" },
+          { "w": "刺激", "r": "しげき", "hv": "THÍCH KÍCH", "vi": "kích thích" }
+        ],
+        "grammar": { "pattern": "〜ばかりではない", "meaning": "không chỉ ~ (mà còn)", "form": "普通形＋ばかりではない", "example": "彼は歌がうまいばかりではなく、ダンスも上手だ。" },
+        "evidence": "寒さに耐える強さと寒さの変化に早く適応できるという強さとがあるが、この方法は後者を鍛えることになる。",
+        "tip": "前者 (cái trước) / 後者 (cái sau) – câu hỏi hay bẫy bằng cách đưa đáp án là 前者."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p2",
+      "stem": "この文書で最も伝えたいことは何か。",
+      "options": ["一部の商品の発送が遅れるので待ってほしい。", "一部の商品の製造が追いつかないので注文の数量を変更してほしい。", "すべての商品を同時に発送できるように努力している。", "すべての商品の製造が間に合わないので来月以降の発送になる。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều văn bản này muốn truyền đạt nhất là gì? → Việc gửi một phần hàng sẽ bị chậm nên mong khách chờ.",
+        "why": "90/100 máy gửi cuối tháng, 10 máy còn lại sản xuất không kịp nên sang tháng sau; công ty xin khách chờ thêm (もうしばらくお待ちいただけますでしょうか).",
+        "options": [
+          "Một phần hàng gửi chậm, xin chờ. ĐÚNG.",
+          "Không yêu cầu đổi số lượng đặt hàng. Sai.",
+          "Không nói cố gắng gửi tất cả cùng lúc; 90 máy gửi trước. Sai.",
+          "Không phải tất cả, chỉ 10 máy bị trễ. Sai."
+        ],
+        "vocab": [
+          { "w": "発送", "r": "はっそう", "hv": "PHÁT TỐNG", "vi": "gửi hàng" },
+          { "w": "製造", "r": "せいぞう", "hv": "CHẾ TẠO", "vi": "sản xuất" },
+          { "w": "追い付く", "r": "おいつく", "hv": "TRUY PHÓ", "vi": "đuổi kịp" },
+          { "w": "残り", "r": "のこり", "hv": "TÀN", "vi": "phần còn lại" }
+        ],
+        "grammar": { "pattern": "〜につきましては", "meaning": "về việc ~ (kính ngữ của については)", "form": "N＋につきましては", "example": "詳細につきましては、後日ご連絡いたします。" },
+        "evidence": "100台のうち90台は今月末に発送を予定しております。残り10台につきましては…来月以降になる予定です。…もうしばらくお待ちいただけますでしょうか。",
+        "tip": "Thư thương mại: bỏ qua phần chào hỏi (拝啓・初秋の候…), ý chính nằm sau さて."
+      }
+    },
+    {
+      "num": 57,
+      "passage": "p3",
+      "stem": "この文章で最も伝えたいことは何か。",
+      "options": ["商品到着の連絡。", "「日本語の友・初級」を預かる。", "「日本語の友・初級」を急いで送ってほしい。", "「日本語の友・中級」を急いで送ってほしい。"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Điều văn bản (email) này muốn truyền đạt nhất là gì? → Muốn bên kia gấp rút gửi cuốn \"日本語の友・中級\".",
+        "why": "Trường đã đặt bản 中級 nhưng nhận được 初級. Yêu cầu chính: 至急注文した品をお送り下さる → gửi gấp hàng đã đặt (中級).",
+        "options": [
+          "Chỉ là thông tin mở đầu, không phải ý chính. Sai.",
+          "Giữ hộ 初級 chỉ là thông tin phụ (なお…). Sai.",
+          "初級 là sách gửi nhầm, không phải sách muốn nhận. Sai.",
+          "Gửi gấp 中級 (hàng đã đặt). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "開封", "r": "かいふう", "hv": "KHAI PHONG", "vi": "mở (bao bì, phong bì)" },
+          { "w": "手違い", "r": "てちがい", "hv": "THỦ VI", "vi": "sơ suất, nhầm lẫn" },
+          { "w": "至急", "r": "しきゅう", "hv": "CHÍ CẤP", "vi": "khẩn cấp, gấp" },
+          { "w": "預かる", "r": "あずかる", "hv": "DỰ", "vi": "giữ hộ" }
+        ],
+        "grammar": { "pattern": "〜のうえ", "meaning": "sau khi ~ thì (tiến hành việc tiếp theo)", "form": "Nの／Vた＋うえ（で）", "example": "内容をご確認のうえ、ご署名ください。" },
+        "evidence": "再度ご確認のうえ、至急注文した品をお送り下さるようにお願いいたします。",
+        "tip": "なお… thường là thông tin bổ sung, không phải ý chính."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p4",
+      "stem": "ゾウの世話を経験の乏しい新人一人に任せられない理由は何か。",
+      "options": ["ゾウが新人の順位が低いと思っている間は反抗することがあるから", "ゾウが新人をベテランだと思いこみ経験者の命令を聞かなくなるから", "世話に慣れていない新人がゾウに対して命令ばかりしてしまうから", "新人に順位がわからずゾウが反発して暴れ出すから"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tại sao không thể giao việc chăm voi cho một người mới ít kinh nghiệm? → Vì trong thời gian voi còn coi người mới là thứ bậc thấp, nó có thể chống đối.",
+        "why": "Voi xếp thứ bậc người; người mới bị coi là thấp nhất. Khi người bị coi là cấp dưới ra lệnh một mình, voi phản kháng → tai nạn. Cần làm chung với người có kinh nghiệm cho đến khi voi công nhận người mới.",
+        "options": [
+          "Voi coi người mới thứ bậc thấp nên chống đối. ĐÚNG.",
+          "Voi không coi người mới là kỳ cựu. Sai.",
+          "Không nói người mới ra lệnh quá nhiều. Sai.",
+          "Không phải người mới không hiểu thứ bậc; chính voi coi thường người mới. Sai."
+        ],
+        "vocab": [
+          { "w": "序列", "r": "じょれつ", "hv": "TỰ LIỆT", "vi": "thứ bậc" },
+          { "w": "乏しい", "r": "とぼしい", "hv": "PHẠP", "vi": "thiếu, nghèo nàn" },
+          { "w": "反発", "r": "はんぱつ", "hv": "PHẢN PHÁT", "vi": "phản kháng" },
+          { "w": "言いつけ", "r": "いいつけ", "hv": "NGÔN", "vi": "mệnh lệnh, dặn bảo" }
+        ],
+        "grammar": null,
+        "evidence": "しかし、下位だと思っている人が一人でゾウに命令したりすると、反発して鼻や体で押されたりして事故となってしまうのです。",
+        "tip": "Câu ですから… chỉ kết luận; lý do nằm ngay câu trước."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p5",
+      "stem": "筆者は写真をどのようにとらえているか。",
+      "options": ["写真家が写される側に刺激されて表現したもの", "写真家が主体的に対象を選んで表現したもの", "写真家が対象を偶然にとらえて表現したもの", "写真家が写される側と共に表現したもの"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả nhìn nhận ảnh như thế nào? → Là thứ nhiếp ảnh gia cùng thể hiện với phía được chụp.",
+        "why": "Tác giả cho rằng ảnh là sản phẩm 50:50 – một nửa là sự thể hiện của phía bên kia ống kính, một nửa là của người chụp. Tức là cùng nhau tạo nên.",
+        "options": [
+          "\"Bị kích thích bởi đối tượng\" – không phải ý 50:50. Sai.",
+          "\"Chủ động chọn đối tượng\" – tác giả nói không dám nhận 100% là của mình. Sai.",
+          "\"Bắt được ngẫu nhiên\" – không nói về sự ngẫu nhiên. Sai.",
+          "Cùng thể hiện với phía được chụp (50:50). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "表現物", "r": "ひょうげんぶつ", "hv": "BIỂU HIỆN VẬT", "vi": "tác phẩm thể hiện" },
+          { "w": "恐れ多い", "r": "おそれおおい", "hv": "KHỦNG ĐA", "vi": "không dám, quá phận" },
+          { "w": "横取り", "r": "よこどり", "hv": "HOÀNH THỦ", "vi": "chiếm đoạt" },
+          { "w": "結実", "r": "けつじつ", "hv": "KẾT THỰC", "vi": "kết trái, thành quả" }
+        ],
+        "grammar": { "pattern": "〜からこそ", "meaning": "chính vì ~ nên", "form": "普通形＋からこそ", "example": "君を信じているからこそ、厳しく言うんだ。" },
+        "evidence": "僕は写真は50:50の表現物だと思っている。カメラを間に置いた向こう側とぼくとの表現性が、フィフティ：フィフティの割合で成り立っている。",
+        "tip": "Ý chính thường ở câu đầu + câu つまり."
+      }
+    }
+  ]
+}

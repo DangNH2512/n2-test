@@ -1,0 +1,95 @@
+{
+  "exam": "2015-07",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B rồi chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "自分の中にある固定観念（注１）、思い込み、価値の枠組みを組み替えたり、転換することはなかなか難しい。特にスポーツ選手は、「始めた以上はやり通せ」ということを常に言われて育っていく。その考え方が染みついて、なかなか疑うことができない。途中変更することは目標をあきらめることで、いけないことだと思い込んでいる選手も多い。\nでも、本当に一つの目標を固く決めつけて死守する（注２）必要が、あるのだろうか。\n（中略）\nもちろん、真面目に一本の道をつきつめる（注３）ことも大切だろう。でも、どうしてもうまくいかない時には、少し視点をずらしてみたり、大胆に（注４）組み替えたりしてみることも、また大切な方法ではないかと思う。\n（為末大『「遊ぶ」が勝ち―「ホモ・ルーデンス」で、君も跳べ！』による）"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "最近のスポーツ選手に目標をたずねると「世界で活躍したい」という答えが多く返ってくる。世界的な大会やチームで活躍する選手が増えた結果だろう。だが私が指摘したいのは、目標が大きすぎたり遠すぎたりするために、しなければならないことが具体的にイメージできず、途中でやる気を失ってしまう選手が多いことだ。\n大きな夢を実現するには、長期間にわたる日々の努力が欠かせない。意欲を持続させるためには、少しずつでも前に進んでいると感じられる達成感が必要だ。目標が大きすぎてするべきことが見えなくなってしまった時には、今の自分に一番必要なことを考えて目標を見直してほしい。\n\n（注１）固定観念：簡単には変わらない考え\n（注２）死守する：ここでは、最後まで守る\n（注３）つきつめる：最後までやる\n（注４）大胆に：思い切って"
+    }
+  ],
+  "questions": [
+    {
+      "num": 69,
+      "passage": "AB",
+      "stem": "スポーツ選手の目標の持ち方について、AとBは、どのような場合が多いと述べているか。",
+      "options": [
+        "AもBも、あいまいな目標を立てる場合が多いと述べている。",
+        "AもBも、一つの目標を目指し続けなければならないと思い込んでいる場合が多いと述べている。",
+        "Aは目標を変えてはいけないと信じている場合が多いと述べ、Bは大きすぎる目標を立てる場合が多いと述べている。",
+        "Aは目標達成にこだわりすぎている場合が多いと述べ、Bは世界で活躍する選手と同じような目標を立てる場合が多いと述べている。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về cách đặt mục tiêu của vận động viên, A và B nói trường hợp nào thường gặp? → A: nhiều người tin rằng không được thay đổi mục tiêu; B: nhiều người đặt mục tiêu quá lớn.",
+        "why": "A: nhiều VĐV đinh ninh rằng thay đổi giữa chừng là bỏ cuộc, là điều không được làm. B: nhiều VĐV đặt mục tiêu quá lớn/quá xa (世界で活躍したい) nên mất động lực giữa chừng → đáp án 3.",
+        "options": [
+          "Cả hai không nói về 'mục tiêu mơ hồ'. Sai.",
+          "Chỉ A nói về niềm tin phải theo đuổi một mục tiêu; B không nói vậy. Sai.",
+          "A: tin không được đổi mục tiêu; B: đặt mục tiêu quá lớn. ĐÚNG.",
+          "A nói về việc không dám đổi mục tiêu chứ không phải 'quá câu nệ vào việc đạt mục tiêu'; B phê phán mục tiêu quá lớn chứ không nói 'giống VĐV nổi tiếng thế giới'. Sai."
+        ],
+        "vocab": [
+          { "w": "固定観念", "r": "こていかんねん", "hv": "CỐ ĐỊNH QUAN NIỆM", "vi": "định kiến, quan niệm cứng nhắc" },
+          { "w": "やり通す", "r": "やりとおす", "hv": "THÔNG", "vi": "làm đến cùng" },
+          { "w": "染みつく", "r": "しみつく", "hv": "NHIỄM", "vi": "thấm sâu, ăn sâu" },
+          { "w": "指摘", "r": "してき", "hv": "CHỈ TRÍCH", "vi": "chỉ ra" },
+          { "w": "活躍", "r": "かつやく", "hv": "HOẠT DƯỢC", "vi": "hoạt động tích cực, tỏa sáng" }
+        ],
+        "grammar": {
+          "pattern": "～以上は",
+          "meaning": "một khi đã ~ thì",
+          "form": "V普通形＋以上（は）",
+          "example": "約束した以上は、守らなければならない。"
+        },
+        "evidence": "A：途中変更することは目標をあきらめることで、いけないことだと思い込んでいる選手も多い。／B：目標が大きすぎたり遠すぎたりするために、しなければならないことが具体的にイメージできず、途中でやる気を失ってしまう選手が多いことだ。",
+        "tip": "Với dạng so sánh A–B, tìm câu có từ 多い trong mỗi bài."
+      }
+    },
+    {
+      "num": 70,
+      "passage": "AB",
+      "stem": "AとBが共通して重要だと考えていることは何か。",
+      "options": [
+        "確実に達成できる目標を立てること",
+        "小さな目標から着実に達成していくこと",
+        "先に進めなくなった時には目標を修正すること",
+        "うまくいかなくても最初の目標をあきらめないこと"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều cả A và B cùng cho là quan trọng là gì? → Khi không thể tiến lên được nữa thì điều chỉnh lại mục tiêu.",
+        "why": "A: khi mãi không suôn sẻ thì thử dịch quan điểm, mạnh dạn sắp xếp lại (mục tiêu). B: khi mục tiêu quá lớn khiến không thấy việc cần làm thì hãy xem lại mục tiêu. Cả hai: bế tắc → sửa mục tiêu.",
+        "options": [
+          "'Mục tiêu chắc chắn đạt được' – không ai nói. Sai.",
+          "'Đạt từng mục tiêu nhỏ' – B nói về cảm giác tiến bộ, nhưng A không đề cập. Sai.",
+          "Khi bế tắc thì điều chỉnh mục tiêu. ĐÚNG.",
+          "Ngược lại với cả A và B. Sai."
+        ],
+        "vocab": [
+          { "w": "視点", "r": "してん", "hv": "THỊ ĐIỂM", "vi": "góc nhìn, quan điểm" },
+          { "w": "ずらす", "r": "ずらす", "hv": "", "vi": "dịch chuyển, xê dịch" },
+          { "w": "組み替える", "r": "くみかえる", "hv": "TỔ THẾ", "vi": "sắp xếp lại, tổ chức lại" },
+          { "w": "見直す", "r": "みなおす", "hv": "KIẾN TRỰC", "vi": "xem xét lại" },
+          { "w": "修正", "r": "しゅうせい", "hv": "TU CHÍNH", "vi": "sửa đổi, điều chỉnh" }
+        ],
+        "grammar": {
+          "pattern": "～てほしい",
+          "meaning": "muốn (ai đó) làm ~",
+          "form": "Vて＋ほしい",
+          "example": "もっと自分を大切にしてほしい。"
+        },
+        "evidence": "A：どうしてもうまくいかない時には、少し視点をずらしてみたり、大胆に組み替えたりしてみることも、また大切な方法ではないかと思う。／B：目標が大きすぎてするべきことが見えなくなってしまった時には、今の自分に一番必要なことを考えて目標を見直してほしい。",
+        "tip": "組み替える / 見直す → 修正する (diễn đạt lại)."
+      }
+    }
+  ]
+}

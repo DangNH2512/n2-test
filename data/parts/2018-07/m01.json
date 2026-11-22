@@ -1,0 +1,135 @@
+{
+  "exam": "2018-07",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "私は少し<u>怖い</u>と思いました。",
+      "options": ["つらい", "きつい", "ゆるい", "こわい"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi đã nghĩ là hơi đáng sợ.",
+        "why": "怖い đọc là こわい (BỐ) = sợ, đáng sợ. Đây là cách đọc kun duy nhất cần nhớ của 怖.",
+        "options": [
+          "つらい → 辛い: cực khổ, đau khổ. Sai.",
+          "きつい → chật, vất vả, gay gắt. Sai.",
+          "ゆるい → 緩い: lỏng, thoải. Sai.",
+          "こわい → 怖い: sợ, đáng sợ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "怖い", "r": "こわい", "hv": "BỐ", "vi": "sợ, đáng sợ" },
+          { "w": "恐怖", "r": "きょうふ", "hv": "KHỦNG BỐ", "vi": "nỗi sợ hãi" },
+          { "w": "辛い", "r": "つらい", "hv": "TÂN", "vi": "cực khổ, khó chịu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Các đáp án nhiễu đều là tính từ đuôi い chỉ cảm giác; chỉ cần nhớ chữ 怖 = こわ(い)."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "この食品は<u>冷蔵庫</u>で保存してください。",
+      "options": ["れいとうこ", "れいぞうこう", "れいぞうこ", "れいとうこう"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hãy bảo quản thực phẩm này trong tủ lạnh.",
+        "why": "冷蔵庫 đọc là れいぞうこ (LÃNH TÀNG KHỐ) = tủ lạnh. 蔵 đọc ぞう, 庫 đọc こ (âm ngắn, không phải こう).",
+        "options": [
+          "れいとうこ → 冷凍庫: ngăn đá, tủ đông. Sai (凍 = とう).",
+          "れいぞうこう → kéo dài sai âm 庫. Sai.",
+          "れいぞうこ → 冷蔵庫: tủ lạnh. ĐÚNG.",
+          "れいとうこう → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "冷蔵庫", "r": "れいぞうこ", "hv": "LÃNH TÀNG KHỐ", "vi": "tủ lạnh" },
+          { "w": "冷凍庫", "r": "れいとうこ", "hv": "LÃNH ĐÔNG KHỐ", "vi": "tủ đông, ngăn đá" },
+          { "w": "保存", "r": "ほぞん", "hv": "BẢO TỒN", "vi": "bảo quản, lưu giữ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "庫 luôn đọc ngắn こ: 倉庫(そうこ), 車庫(しゃこ), 金庫(きんこ)."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "今年の支出は<u>総額</u>で約5300万円だった。",
+      "options": ["こうがく", "そうがく", "そうかく", "こうかく"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Chi tiêu năm nay tổng cộng khoảng 53 triệu yên.",
+        "why": "総額 đọc là そうがく (TỔNG NGẠCH) = tổng số tiền. 総 = そう, 額 = がく (đục).",
+        "options": [
+          "こうがく → 高額: số tiền lớn. Sai.",
+          "そうがく → 総額: tổng số tiền. ĐÚNG.",
+          "そうかく → 額 không đọc かく. Sai.",
+          "こうかく → 降格: giáng chức. Sai."
+        ],
+        "vocab": [
+          { "w": "総額", "r": "そうがく", "hv": "TỔNG NGẠCH", "vi": "tổng số tiền" },
+          { "w": "支出", "r": "ししゅつ", "hv": "CHI XUẤT", "vi": "chi tiêu" },
+          { "w": "金額", "r": "きんがく", "hv": "KIM NGẠCH", "vi": "số tiền" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "額 = がく: 金額, 半額(はんがく), 額縁(がくぶち)."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "まだ<u>湿って</u>いるから、もう少し待ちましょう。",
+      "options": ["こおって", "にごって", "しめって", "たまって"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vẫn còn ẩm nên hãy đợi thêm chút nữa.",
+        "why": "湿る đọc là しめる (THẤP) = ẩm, ướt. 湿っている = đang ẩm.",
+        "options": [
+          "こおって → 凍って: đóng băng. Sai.",
+          "にごって → 濁って: đục. Sai.",
+          "しめって → 湿って: ẩm. ĐÚNG.",
+          "たまって → 溜まって: dồn lại, đọng lại. Sai."
+        ],
+        "vocab": [
+          { "w": "湿る", "r": "しめる", "hv": "THẤP", "vi": "ẩm, ướt" },
+          { "w": "湿気", "r": "しっけ", "hv": "THẤP KHÍ", "vi": "hơi ẩm" },
+          { "w": "湿度", "r": "しつど", "hv": "THẤP ĐỘ", "vi": "độ ẩm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đừng nhầm 湿る(しめる - ẩm) với 閉める(しめる - đóng): cùng âm, khác chữ."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "応募者には<u>抽選</u>でプレゼントが当たります。",
+      "options": ["ちゅうせん", "ちゅうぜん", "つうせん", "つうぜん"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Người đăng ký sẽ có cơ hội trúng quà qua bốc thăm.",
+        "why": "抽選 đọc là ちゅうせん (TRỪU TUYỂN) = bốc thăm, rút thăm. 抽 = ちゅう, 選 = せん (không đục).",
+        "options": [
+          "ちゅうせん → 抽選: bốc thăm. ĐÚNG.",
+          "ちゅうぜん → 選 không biến âm thành ぜん ở đây. Sai.",
+          "つうせん → 抽 không đọc つう. Sai.",
+          "つうぜん → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "抽選", "r": "ちゅうせん", "hv": "TRỪU TUYỂN", "vi": "bốc thăm, quay số" },
+          { "w": "応募者", "r": "おうぼしゃ", "hv": "ỨNG MỘ GIẢ", "vi": "người đăng ký, người ứng tuyển" },
+          { "w": "当たる", "r": "あたる", "hv": "ĐƯƠNG", "vi": "trúng (thưởng)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "抽 (ちゅう) có trong 抽象(ちゅうしょう - trừu tượng)."
+      }
+    }
+  ]
+}

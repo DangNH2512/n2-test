@@ -1,0 +1,165 @@
+{
+  "exam": "2023-12",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn câu dùng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "廃止",
+      "options": [
+        "両親は20年以上続けてきた店を<u>廃止</u>することにした。",
+        "点検のため、午前中はエレベーターの使用を<u>廃止</u>します。",
+        "雨が降ってきたので、今日のイベントは<u>廃止</u>します。",
+        "時代に合わない古い制度は<u>廃止</u>したほうがいい。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Những chế độ cũ không còn phù hợp với thời đại thì nên bãi bỏ.",
+        "why": "廃止 (はいし – PHẾ CHỈ) = bãi bỏ vĩnh viễn một chế độ, quy định, tuyến đường… đang tồn tại. 制度を廃止する là kết hợp chuẩn.",
+        "options": [
+          "Đóng cửa tiệm → 店を閉める／閉店する／廃業する. Sai.",
+          "Tạm ngừng sử dụng thang máy để kiểm tra → 使用を停止／中止します (tạm thời). Sai.",
+          "Hủy sự kiện vì mưa → イベントは中止します. Sai.",
+          "制度を廃止する: bãi bỏ chế độ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "廃止", "r": "はいし", "hv": "PHẾ CHỈ", "vi": "bãi bỏ, hủy bỏ (vĩnh viễn)" },
+          { "w": "中止", "r": "ちゅうし", "hv": "TRUNG CHỈ", "vi": "hủy, ngừng (sự kiện)" },
+          { "w": "停止", "r": "ていし", "hv": "ĐÌNH CHỈ", "vi": "dừng, tạm ngừng" },
+          { "w": "制度", "r": "せいど", "hv": "CHẾ ĐỘ", "vi": "chế độ, hệ thống" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "廃止 đi với 制度・法律・路線・規則. Sự kiện bị hủy → 中止; máy móc tạm dừng → 停止; cửa hàng đóng → 閉店／廃業."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "腫れる",
+      "options": [
+        "森さんのポケットは、物が多くて<u>腫れて</u>いる。",
+        "今日はたくさん食べたので、おなかが<u>腫れて</u>いる。",
+        "サッカーの試合でけがをして、足が<u>腫れて</u>しまった。",
+        "オーブンでクッキーを焼いたら、だんだん<u>腫れて</u>きた。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi bị thương trong trận bóng đá và chân đã bị sưng lên.",
+        "why": "腫れる (はれる – THŨNG) = sưng (do chấn thương, viêm). Chỉ dùng cho bộ phận cơ thể bị thương/bệnh → けがをして足が腫れた.",
+        "options": [
+          "Túi phồng vì nhiều đồ → ポケットが膨らんでいる. Sai.",
+          "Bụng no căng → おなかがいっぱい／膨れている. Sai.",
+          "Bị thương → chân sưng. ĐÚNG.",
+          "Bánh quy nở ra trong lò → 膨らんできた. Sai."
+        ],
+        "vocab": [
+          { "w": "腫れる", "r": "はれる", "hv": "THŨNG", "vi": "sưng lên" },
+          { "w": "膨らむ", "r": "ふくらむ", "hv": "BÀNH", "vi": "phồng lên, nở ra" },
+          { "w": "膨れる", "r": "ふくれる", "hv": "BÀNH", "vi": "phình ra, căng" },
+          { "w": "怪我", "r": "けが", "hv": "QUÁI NGÃ", "vi": "vết thương, bị thương" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "腫れる chỉ dùng cho cơ thể (目が腫れる – mắt sưng). Đồ vật phồng lên → 膨らむ."
+      }
+    },
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "上達",
+      "options": [
+        "毎日練習しているので、ピアノがかなり<u>上達</u>した。",
+        "いい病院で治療してもらえたようで、祖父の体調は<u>上達</u>した。",
+        "同じ作家が好きなことが分かって、大野さんとの仲が<u>上達</u>した。",
+        "小川さんが詳しく説明してくれたので、理解が<u>上達</u>した。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Vì luyện tập hằng ngày nên tôi đã tiến bộ piano khá nhiều.",
+        "why": "上達 (じょうたつ – THƯỢNG ĐẠT) = tiến bộ về kỹ năng, tay nghề nhờ luyện tập (ピアノ・語学・料理…).",
+        "options": [
+          "Luyện tập → piano tiến bộ. ĐÚNG.",
+          "Sức khỏe tốt lên → 体調がよくなった／回復した. Sai.",
+          "Quan hệ thân hơn → 仲が深まった／よくなった. Sai.",
+          "Hiểu sâu hơn → 理解が深まった. Sai."
+        ],
+        "vocab": [
+          { "w": "上達", "r": "じょうたつ", "hv": "THƯỢNG ĐẠT", "vi": "tiến bộ (kỹ năng)" },
+          { "w": "回復", "r": "かいふく", "hv": "HỒI PHỤC", "vi": "hồi phục" },
+          { "w": "深まる", "r": "ふかまる", "hv": "THÂM", "vi": "sâu sắc thêm" },
+          { "w": "治療", "r": "ちりょう", "hv": "TRỊ LIỆU", "vi": "điều trị" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "上達 = kỹ năng (腕・技術・語学). Sức khỏe → 回復; quan hệ/hiểu biết → 深まる."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "暮れ",
+      "options": [
+        "この物語の<u>暮れ</u>は、意外な内容だった。",
+        "旅行の<u>暮れ</u>に、みんなで記念に写真を撮った。",
+        "授業の<u>暮れ</u>に、先生が今日の宿題を出した。",
+        "今年の<u>暮れ</u>は、実家で両親と過ごしたい。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Cuối năm nay tôi muốn về nhà bố mẹ để đón năm cùng họ.",
+        "why": "暮れ (くれ – MỘ) = lúc chiều tối (日の暮れ) hoặc cuối năm (年の暮れ・今年の暮れ). Chỉ dùng cho thời gian của ngày/năm/mùa, không dùng cho \"phần cuối\" của câu chuyện, chuyến đi, giờ học.",
+        "options": [
+          "Kết thúc câu chuyện → 物語の結末／終わり. Sai.",
+          "Cuối chuyến du lịch → 旅行の最後に. Sai.",
+          "Cuối giờ học → 授業の終わりに. Sai.",
+          "今年の暮れ = cuối năm nay. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "暮れ", "r": "くれ", "hv": "MỘ", "vi": "chiều tối; cuối năm" },
+          { "w": "結末", "r": "けつまつ", "hv": "KẾT MẠT", "vi": "kết cục, đoạn kết" },
+          { "w": "実家", "r": "じっか", "hv": "THỰC GIA", "vi": "nhà bố mẹ đẻ, quê nhà" },
+          { "w": "暮れる", "r": "くれる", "hv": "MỘ", "vi": "(trời) tối; (năm) hết" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "お歳暮 (おせいぼ) = quà cuối năm. 日が暮れる = trời tối. 年の暮れ = cuối năm."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "残高",
+      "options": [
+        "私たちが会議室を利用できる<u>残高</u>は、あと10分です。",
+        "私の銀行口座の<u>残高</u>は、1,000円しかありません。",
+        "この町の<u>残高</u>は、ついに1万人を下回りました。",
+        "山の頂上までの<u>残高</u>は、100メートルくらいです。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Số dư trong tài khoản ngân hàng của tôi chỉ còn 1.000 yên.",
+        "why": "残高 (ざんだか – TÀN CAO) = số dư (tiền trong tài khoản, thẻ). Chỉ dùng cho tiền.",
+        "options": [
+          "Thời gian còn lại → 残り時間はあと10分. Sai.",
+          "口座の残高 = số dư tài khoản. ĐÚNG.",
+          "Dân số thị trấn → この町の人口. Sai.",
+          "Khoảng cách còn lại → 残りの距離. Sai."
+        ],
+        "vocab": [
+          { "w": "残高", "r": "ざんだか", "hv": "TÀN CAO", "vi": "số dư (tiền)" },
+          { "w": "口座", "r": "こうざ", "hv": "KHẨU TỌA", "vi": "tài khoản ngân hàng" },
+          { "w": "残り", "r": "のこり", "hv": "TÀN", "vi": "phần còn lại" },
+          { "w": "下回る", "r": "したまわる", "hv": "HẠ HỒI", "vi": "thấp hơn, dưới mức" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "残高照会 (ざんだかしょうかい) = tra cứu số dư ở ATM. Thời gian/khoảng cách còn lại dùng 残り."
+      }
+    }
+  ]
+}

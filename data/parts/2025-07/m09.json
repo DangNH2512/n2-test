@@ -1,0 +1,132 @@
+{
+  "exam": "2025-07",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、48から51の中に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án thích hợp nhất cho các ô trống từ 48 đến 51.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "以下は、留学生の作文である。",
+      "text": "高齢者の外出支援\nオ　ヒョンミ\n　現在、日本では65歳以上の高齢者が人口の約3割に達するほど高齢化が進んでいる。そんな日本で今、高齢者の体と心の健康のために外出を支援するサービスの重要性が増しているそうだ。このサービスには、どのような効果があるのだろうか。\n　外出を支援するサービスは、大きく分けて二つある。まず一つ目は、移動をサポートするサービスで、主に車での送迎サービスだ。車の運転が困難な人や、最寄りのバス停や駅まで歩くことが負担になる人に（48）。二つ目は、外出の機会を提供するサービスだ。用事がないから外出しないという高齢者は（49）。そのため、商店街での割引を実施したり、集まっておしゃべりができる会を開いたりするなど、外出の目的や場所を提供している。これらのサービスにより、外出の回数が増えたという人も多いそうだ。\n　外出回数は、高齢者の体と心の健康に大きく影響する。（50）調査では、歩行に障害が出た人の数は、外出回数が1日1回以上の人より3日に1回未満の人のほうが約4倍も多かった。また、外出は心の健康のために欠かせないという研究報告もある。外出によって脳に刺激を与えることは、脳の機能が低下するのを防ぎ、心の健康につながるのだそうだ。\n　外出と健康の関係を考えると、高齢者が外出することには大きな意味がある。高齢化が進む日本（51）、外出支援サービスは重要な役割を果たしているのだ。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 48,
+      "passage": "p1",
+      "stem": "（48）に入るもの",
+      "options": ["利用させてほしい", "利用されている", "利用してくれている", "利用してもいい"],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Dịch vụ đưa đón) đang được những người khó lái xe, hoặc những người thấy việc đi bộ đến bến xe buýt/ga gần nhất là gánh nặng, sử dụng.",
+        "why": "Chủ ngữ ngầm là サービス (dịch vụ đưa đón). Dịch vụ được người dùng → bị động: ～人に利用されている (được ~ sử dụng). Người viết chỉ mô tả khách quan nên không dùng てくれる.",
+        "options": [
+          "利用させてほしい → 'muốn được cho phép dùng' – lời đề nghị, không hợp văn mô tả. Sai.",
+          "利用されている → đang được (người ~) sử dụng. ĐÚNG.",
+          "利用してくれている → mang sắc thái biết ơn của người viết (người viết không phải bên cung cấp dịch vụ). Sai.",
+          "利用してもいい → 'dùng cũng được' – cho phép, không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "送迎", "r": "そうげい", "hv": "TỐNG NGHÊNH", "vi": "đưa đón" },
+          { "w": "困難", "r": "こんなん", "hv": "KHỐN NAN", "vi": "khó khăn" },
+          { "w": "最寄り", "r": "もより", "hv": "TỐI KÝ", "vi": "gần nhất" },
+          { "w": "負担", "r": "ふたん", "hv": "PHỤ ĐẢM", "vi": "gánh nặng" }
+        ],
+        "grammar": {
+          "pattern": "N(người)に＋V(ら)れている",
+          "meaning": "được N làm V (bị động, mô tả khách quan)",
+          "form": "Nに ＋ 受身形 ＋ ている",
+          "example": "この本は多くの人に読まれている。"
+        },
+        "evidence": "車の運転が困難な人や、最寄りのバス停や駅まで歩くことが負担になる人に（48）。",
+        "tip": "Trợ từ に + người ở trước chỗ trống là dấu hiệu bị động."
+      }
+    },
+    {
+      "num": 49,
+      "passage": "p1",
+      "stem": "（49）に入るもの",
+      "options": ["少なかったはずだ", "少なくなったのだ", "少なくないという", "少なくなりかねない"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nghe nói người cao tuổi không ra ngoài vì 'không có việc gì' là không ít.",
+        "why": "Câu sau 'そのため、…外出の目的や場所を提供している' cho thấy loại người này nhiều (không ít) nên mới cần dịch vụ. ～という = nghe nói (truyền đạt thông tin), hợp với giọng văn dẫn thông tin (～そうだ).",
+        "options": [
+          "少なかったはずだ → 'lẽ ra đã ít' – không hợp lý với そのため phía sau. Sai.",
+          "少なくなったのだ → 'đã trở nên ít' – ngược ý: nếu ít thì không cần dịch vụ. Sai.",
+          "少なくないという → nghe nói không ít. ĐÚNG.",
+          "少なくなりかねない → 'có nguy cơ trở nên ít' – không hợp logic. Sai."
+        ],
+        "vocab": [
+          { "w": "用事", "r": "ようじ", "hv": "DỤNG SỰ", "vi": "việc bận, việc cần làm" },
+          { "w": "提供する", "r": "ていきょうする", "hv": "ĐỀ CUNG", "vi": "cung cấp" },
+          { "w": "割引", "r": "わりびき", "hv": "CÁT DẪN", "vi": "giảm giá" }
+        ],
+        "grammar": {
+          "pattern": "～という（文末）",
+          "meaning": "nghe nói là ~ (truyền đạt thông tin)",
+          "form": "普通形 ＋ という",
+          "example": "この寺は千年前に建てられたという。"
+        },
+        "evidence": "用事がないから外出しないという高齢者は（49）。そのため、商店街での割引を実施したり、…外出の目的や場所を提供している。",
+        "tip": "Đọc câu ngay sau chỗ trống (そのため) để biết logic nguyên nhân – kết quả."
+      }
+    },
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["このような", "その", "次の", "ある"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo một cuộc điều tra nọ, số người gặp trở ngại khi đi lại ở nhóm ra ngoài dưới 1 lần/3 ngày nhiều gấp khoảng 4 lần so với nhóm ra ngoài từ 1 lần/ngày trở lên.",
+        "why": "Cuộc điều tra này lần đầu được nhắc tới, chưa xuất hiện trước đó → dùng ある (một ~ nọ). その/このような cần có đối tượng đã nói trước.",
+        "options": [
+          "このような → 'như thế này' – trước đó chưa nói về cuộc điều tra nào. Sai.",
+          "その → 'cuộc điều tra đó' – chưa có đối tượng để chỉ. Sai.",
+          "次の → 'cuộc điều tra sau đây' – nội dung không được liệt kê theo dạng giới thiệu. Sai.",
+          "ある → một (cuộc điều tra) nọ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "調査", "r": "ちょうさ", "hv": "ĐIỀU TRA", "vi": "điều tra, khảo sát" },
+          { "w": "歩行", "r": "ほこう", "hv": "BỘ HÀNH", "vi": "đi bộ" },
+          { "w": "障害", "r": "しょうがい", "hv": "CHƯỚNG HẠI", "vi": "trở ngại, khuyết tật" },
+          { "w": "未満", "r": "みまん", "hv": "VỊ MÃN", "vi": "chưa đến, dưới" }
+        ],
+        "grammar": null,
+        "evidence": "外出回数は、高齢者の体と心の健康に大きく影響する。（50）調査では、歩行に障害が出た人の数は…約4倍も多かった。",
+        "tip": "ある＋N = một N nào đó (giới thiệu lần đầu, không nêu cụ thể)."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["において", "に限らず", "を中心に", "をはじめ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tại nước Nhật nơi tình trạng già hóa đang tiến triển, dịch vụ hỗ trợ ra ngoài đang đóng vai trò quan trọng.",
+        "why": "Nにおいて = tại, ở, trong (bối cảnh/địa điểm, văn viết) ≈ で. 'Tại Nhật Bản đang già hóa' → において.",
+        "options": [
+          "において → tại, trong (bối cảnh). ĐÚNG.",
+          "に限らず → không chỉ ~ (mà cả nơi khác) – bài chỉ nói về Nhật. Sai.",
+          "を中心に → lấy ~ làm trung tâm. Sai.",
+          "をはじめ → tiêu biểu là ~ (còn nhiều cái khác). Sai."
+        ],
+        "vocab": [
+          { "w": "高齢化", "r": "こうれいか", "hv": "CAO LINH HÓA", "vi": "già hóa (dân số)" },
+          { "w": "役割を果たす", "r": "やくわりをはたす", "hv": "DỊCH CÁT QUẢ", "vi": "hoàn thành vai trò" }
+        ],
+        "grammar": {
+          "pattern": "Nにおいて",
+          "meaning": "tại, ở, trong (địa điểm, thời đại, lĩnh vực)",
+          "form": "N ＋ において／における＋N",
+          "example": "現代社会において、情報は重要だ。"
+        },
+        "evidence": "高齢化が進む日本（51）、外出支援サービスは重要な役割を果たしているのだ。",
+        "tip": null
+      }
+    }
+  ]
+}

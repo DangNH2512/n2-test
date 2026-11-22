@@ -1,0 +1,136 @@
+{
+  "exam": "2021-07",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、48から51の中に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án đúng nhất cho các ô 48–51.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "以下は、新聞のコラムである。\n\n毎日の生活の中で、天気予報は欠かせない情報の一つだ。着る服を選ぶときも、休日の予定を立てる時も、天気は（48）。毎朝天気情報をチェックしている人も多いだろう。\nそんな天気予報を活用した新たな取り組みが始まっている。気象情報から食品の高度な需要予測を行い、「食品ロス」、つまり、まだ食べられるのに捨てられてしまう食品を減らすというものだ。\n食品の中には、天候や気温に需要が大きく左右されるものも多い。需要予測を誤り、過剰に生産してしまうと、それだけ多くの食品ロスが生じてしまう。\n（49）政府は、気象データとPOSデータ（何が、いつ、いくつ、いくらで売れたのかを示す販売情報）から高度な需要予測を行い、製造や販売の各社に提供する取り組みを始めた。その結果は、食品ロスを減らせるばかりではない。食品が無駄に捨てられることが少なくなるため、その処理の過程で発生する二酸化炭素を減らすこともできる。\n（50）、まず、長期保存が出来ず気象状況が売り上げに大きく影響する「豆腐」と、特定の季節に需要が集中する「麺つゆ」に絞って実験が行われた。その結果、食品ロスを20～30％減らせることがわかった。現在は、対象商品を拡大しながら、人工知能も取り入れ、さらに高度な需要予測が可能になってきているという。このように、私たちの生活に欠かせない気象情報は、食品ロス問題の解決にも役立っているのである。今後、より大きな成果が（51）。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 48,
+      "passage": "p1",
+      "stem": "（48）に入るもの",
+      "options": ["気になるもの", "気になるだけ", "気になるかどうか", "気になるかのよう"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Cả khi chọn quần áo để mặc lẫn khi lên kế hoạch cho ngày nghỉ, thời tiết là thứ người ta luôn bận tâm.",
+        "why": "〜ものだ diễn tả bản chất, điều tự nhiên/đương nhiên ai cũng vậy: 天気は気になるもの(だ) = thời tiết vốn là thứ khiến ta bận tâm. Câu sau 毎朝チェックしている人も多い củng cố ý \"ai cũng quan tâm\".",
+        "options": [
+          "気になるもの → (vốn) là thứ ta bận tâm (bản chất chung). ĐÚNG.",
+          "気になるだけ → \"chỉ bận tâm thôi\", làm nhẹ ý, mâu thuẫn với 欠かせない情報. Sai.",
+          "気になるかどうか → \"có bận tâm hay không\", câu không trọn nghĩa. Sai.",
+          "気になるかのよう → \"như thể bận tâm\" (thực ra không phải), sai logic. Sai."
+        ],
+        "vocab": [
+          { "w": "欠かせない", "r": "かかせない", "hv": "KHIẾM", "vi": "không thể thiếu" },
+          { "w": "気になる", "r": "きになる", "hv": "KHÍ", "vi": "bận tâm, để ý" },
+          { "w": "天気予報", "r": "てんきよほう", "hv": "THIÊN KHÍ DỰ BÁO", "vi": "dự báo thời tiết" }
+        ],
+        "grammar": {
+          "pattern": "〜ものだ",
+          "meaning": "vốn dĩ là ~ (bản chất, lẽ thường)",
+          "form": "普通形（Vる／Aい／なAな）＋ものだ",
+          "example": "人は誰でも失敗するものだ。"
+        },
+        "evidence": "着る服を選ぶときも、休日の予定を立てる時も、天気は（48）。毎朝天気情報をチェックしている人も多いだろう。",
+        "tip": "Nói về điều \"ai cũng vậy, lẽ thường\" → 〜ものだ."
+      }
+    },
+    {
+      "num": 49,
+      "passage": "p1",
+      "stem": "（49）に入るもの",
+      "options": ["なお", "たとえば", "そこで", "ところが"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vì vậy, chính phủ đã bắt đầu sáng kiến dự báo nhu cầu chính xác từ dữ liệu khí tượng và dữ liệu POS rồi cung cấp cho các công ty sản xuất, bán hàng.",
+        "why": "Đoạn trước nêu vấn đề (dự báo sai → sản xuất thừa → lãng phí thực phẩm). Đoạn này nêu biện pháp đối phó của chính phủ → từ nối そこで (vì thế, do đó [hành động]).",
+        "options": [
+          "なお → ngoài ra, thêm nữa (bổ sung thông tin phụ). Sai.",
+          "たとえば → ví dụ. Không phải là ví dụ cho vấn đề trước. Sai.",
+          "そこで → vì vậy (đưa ra hành động giải quyết vấn đề). ĐÚNG.",
+          "ところが → thế nhưng (kết quả trái dự đoán). Sai."
+        ],
+        "vocab": [
+          { "w": "需要予測", "r": "じゅようよそく", "hv": "NHU YẾU DỰ TRẮC", "vi": "dự báo nhu cầu" },
+          { "w": "過剰", "r": "かじょう", "hv": "QUÁ THẶNG", "vi": "dư thừa, quá mức" },
+          { "w": "取り組み", "r": "とりくみ", "hv": "THỦ TỔ", "vi": "nỗ lực, sáng kiến" }
+        ],
+        "grammar": {
+          "pattern": "そこで",
+          "meaning": "vì thế, do vậy (để giải quyết tình huống trên, người ta làm…)",
+          "form": "[Vấn đề]。そこで、[Hành động đối phó]。",
+          "example": "駅前は渋滞がひどい。そこで、市は新しい道路を作ることにした。"
+        },
+        "evidence": "需要予測を誤り、過剰に生産してしまうと、それだけ多くの食品ロスが生じてしまう。（49）政府は、…取り組みを始めた。",
+        "tip": "Đề gốc in nhầm ô này thành \"48\"; đúng ra là ô 49."
+      }
+    },
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["この取り組みは", "そういった取り組みも", "あのような取り組み", "どちらの取り組みも"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Sáng kiến này, trước hết đã được thử nghiệm giới hạn ở \"đậu phụ\" và \"nước chấm mì\".",
+        "why": "Ô 50 chỉ lại chính sáng kiến của chính phủ vừa nói ở đoạn trước → dùng こ (この取り組みは). Trợ từ は nêu chủ đề cho câu \"…thì trước hết được thử nghiệm…\".",
+        "options": [
+          "この取り組みは → sáng kiến này (vừa nêu). ĐÚNG.",
+          "そういった取り組みも → も (cũng) ngụ ý có sáng kiến khác, nhưng không có. Sai.",
+          "あのような取り組み → あ chỉ điều cả hai cùng biết, không chỉ nội dung trong văn bản; thiếu trợ từ. Sai.",
+          "どちらの取り組みも → \"cả hai sáng kiến\", trong bài chỉ có một. Sai."
+        ],
+        "vocab": [
+          { "w": "長期保存", "r": "ちょうきほぞん", "hv": "TRƯỜNG KỲ BẢO TỒN", "vi": "bảo quản lâu dài" },
+          { "w": "絞る", "r": "しぼる", "hv": "GIẢO", "vi": "thu hẹp, giới hạn" },
+          { "w": "実験", "r": "じっけん", "hv": "THỰC NGHIỆM", "vi": "thí nghiệm, thử nghiệm" }
+        ],
+        "grammar": {
+          "pattern": "この＋N（文脈指示）",
+          "meaning": "N này (chỉ nội dung vừa nói ngay trước trong bài)",
+          "form": "この／その＋N",
+          "example": "新しい制度が始まった。この制度は、子育て家庭を支援するものだ。"
+        },
+        "evidence": "政府は、…製造や販売の各社に提供する取り組みを始めた。…（50）、まず、…「豆腐」と、…「麺つゆ」に絞って実験が行われた。",
+        "tip": "Trong văn viết, chỉ lại nội dung vừa nêu dùng こ／そ, không dùng あ."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["期待できるからだ", "期待できそうだ", "期待できるはずだった", "期待できればよかった"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Từ nay về sau, có vẻ có thể kỳ vọng vào những thành quả lớn hơn nữa.",
+        "why": "今後 (từ nay về sau) → câu dự đoán tương lai. 〜そうだ (dạng thái) = có vẻ, xem chừng → 期待できそうだ.",
+        "options": [
+          "期待できるからだ → \"là vì có thể kỳ vọng\" — câu nêu lý do, không có gì để giải thích. Sai.",
+          "期待できそうだ → có vẻ có thể kỳ vọng (dự đoán tương lai). ĐÚNG.",
+          "期待できるはずだった → \"lẽ ra đã có thể kỳ vọng\" (quá khứ, không thành), mâu thuẫn với 今後. Sai.",
+          "期待できればよかった → \"giá mà đã có thể kỳ vọng\" (tiếc nuối), sai. Sai."
+        ],
+        "vocab": [
+          { "w": "成果", "r": "せいか", "hv": "THÀNH QUẢ", "vi": "thành quả" },
+          { "w": "今後", "r": "こんご", "hv": "KIM HẬU", "vi": "từ nay về sau" },
+          { "w": "期待", "r": "きたい", "hv": "KỲ ĐÃI", "vi": "kỳ vọng" }
+        ],
+        "grammar": {
+          "pattern": "Vます＋そうだ（様態）",
+          "meaning": "có vẻ sắp/có vẻ ~ (dự đoán)",
+          "form": "Vます（bỏ ます）＋そうだ",
+          "example": "この調子なら、予定より早く終わりそうだ。"
+        },
+        "evidence": "今後、より大きな成果が（51）。",
+        "tip": "今後／これから → loại các đáp án dạng quá khứ (〜はずだった, 〜ばよかった)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "exam": "2016-07",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（１）から（５）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "以下は、ある大学のホームページに掲載されたお知らせである。\n\n橋山大学 > 在学生へのお知らせ\n2016.6.20\n学生生活に関するアンケートについて\n\nすでにお知らせしているとおり、現在、以下の専用ウェブページで学生生活に関するアンケートを実施しています。\n学生生活アンケート　http://www.hashiyama-u.ac.jp/20160601.html\n6月24日を締め切り日として回答をお願いしていますが、現在のところあまり多くの回答が得られていません。そこで、一人でも多くの皆さんの回答を得るため、回答期間を6月30日まで延長します。未回答の皆さんはぜひ積極的に回答してください。\n結果は、7月中旬に専用ウェブページ上で公開します。\nご協力よろしくお願いします。\n学生課"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "<u>真のプロ</u>（注1）と呼ばれる人たちは、他者評価ではなく、自己評価の中に生きています。彼らは、周りの人がいくら認めても自分で認められなければ自信を持ちません。逆に他人が認めなくても、自分が正しいと思えることに自信を持っています。\n他者評価に一喜一憂（注2）している状態では、本当の意味で自信を獲得したとは言えないでしょう。\n（青木仁志『一生折れない自信のつくり方』による）\n（注1）真の：本物の\n（注2）一喜一憂する：喜んだり心配したりする"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "以下は、あるインターネットショップに届いたメールである。\n\nあて先：toiawase@pwq.co.jp\n件名：商品についての問い合わせ\n日時：2016年4月11日 9：30\n\nPWQ文具 インターネットショップご担当者様\n貴店で蛍光ペン3色セット（TR-3）を、100個購入したいと思っております。\n商品のページには、東京への配送は店に商品があれば3日、取り寄せなら10日程度かかると書かれています。4月20日までに東京の本社に届けていただきたいのですが、今から注文しても間に合うでしょうか。追加送料がかかっても構いません。間に合わないようでしたら、他の商品に変更するか検討いたします。\nご返信いただきたくよろしくお願いいたします。\n\nSKZ株式会社総務部\n市川友恵\ntome_ichikawa@skz.co.jp"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "犬を家族犬として受け入れた場合、飼い主の一家の最も上位の人がスーパー上位になって他の家族が順位に従い、犬の順位が下になるように順位を明確にして安住（注）させます。この関係が安定しないと、犬は順位争いをしたり、家族に攻撃をしたりするようになって、家族と犬との関係がうまくいかなくなります。したがって、飼い主は常に犬より上位であることを犬に意識させて飼うことが必要で、犬も納得して互いに楽しく暮らせます。\n（田名部雄一『人と犬のきずな―遺伝子からそのルーツを探る』による）\n（注）安住する：ここでは、穏やかに過ごす"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "手紙というものは、不思議な伝達手段である。\n書いている人間の気持ちは必ずといっていいほど文面に出る。心配もしていないのに、心配を押し売りする（注1）ような手紙を書いてはいけない。\nそのような気持ちは封（注2）を開いた瞬間に、真っ先に相手に届いてしまう。それが手紙の一番に恐ろしいところと言えよう。\n愛している気持ちは届くかもしれないが、同時にその幼稚さや、愛の浅さや、性格の悪さまでもが相手に届いてしまう。\n手紙というものは、人間の心を映す鏡のような存在でもある。\n（辻仁成『代筆屋』による）\n（注1）心配を押し売りする：ここでは、心配していると思わせる\n（注2）封：ここでは、封筒"
+    }
+  ],
+  "questions": [
+    {
+      "num": 55,
+      "passage": "p1",
+      "stem": "アンケートについて、このお知らせで最も伝えたいことは何か。",
+      "options": [
+        "7月中旬に専用ウェブページで結果を公開するので、見てほしい。",
+        "締め切り日を延長したので、多くの人に回答してほしい。",
+        "未回答の人は、6月24日までに回答してほしい。",
+        "すでに回答した人も、もう一度回答してほしい。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều thông báo này muốn truyền đạt nhất về bản khảo sát là gì? → Vì đã gia hạn ngày hết hạn nên muốn nhiều người trả lời.",
+        "why": "Ý chính: số câu trả lời còn ít → gia hạn đến 30/6 → kêu gọi người chưa trả lời hãy trả lời. Mục đích chính là 'gia hạn + mong nhiều người trả lời'.",
+        "options": [
+          "Việc công bố kết quả chỉ là thông tin phụ ở cuối. Sai.",
+          "Gia hạn hạn chót và mong nhiều người trả lời. ĐÚNG.",
+          "Hạn đã được dời sang 30/6, không còn là 24/6. Sai.",
+          "Không hề yêu cầu người đã trả lời làm lại. Sai."
+        ],
+        "vocab": [
+          { "w": "締め切り", "r": "しめきり", "hv": "ĐẾ THIẾT", "vi": "hạn chót" },
+          { "w": "延長", "r": "えんちょう", "hv": "DIÊN TRƯỜNG", "vi": "gia hạn, kéo dài" },
+          { "w": "回答", "r": "かいとう", "hv": "HỒI ĐÁP", "vi": "câu trả lời" },
+          { "w": "中旬", "r": "ちゅうじゅん", "hv": "TRUNG TUẦN", "vi": "trung tuần (giữa tháng)" }
+        ],
+        "grammar": null,
+        "evidence": "そこで、一人でも多くの皆さんの回答を得るため、回答期間を6月30日まで延長します。未回答の皆さんはぜひ積極的に回答してください。",
+        "tip": "Dạng 'お知らせ': ý chính thường nằm sau そこで / つきましては."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p2",
+      "stem": "<u>真のプロ</u>について、筆者はどのように述べているか。",
+      "options": [
+        "自己評価と他者評価が一致したときに自信を持つ。",
+        "自己評価も他者評価と同じように重視している。",
+        "自分で自分を認めることができれば自信が持てる。",
+        "他人に自分が認められればさらに自信がつく。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tác giả nói gì về 'người chuyên nghiệp thực thụ'? → Nếu tự mình công nhận được bản thân thì sẽ có tự tin.",
+        "why": "Người chuyên nghiệp thực thụ sống trong 'tự đánh giá': dù người khác không công nhận, chỉ cần bản thân thấy đúng là tự tin.",
+        "options": [
+          "Không cần trùng khớp với đánh giá của người khác. Sai.",
+          "Họ không coi trọng đánh giá người khác ngang bằng (他者評価ではなく). Sai.",
+          "Tự công nhận bản thân → có tự tin. ĐÚNG.",
+          "Sự công nhận của người khác không phải là nguồn tự tin của họ. Sai."
+        ],
+        "vocab": [
+          { "w": "他者評価", "r": "たしゃひょうか", "hv": "THA GIẢ BÌNH GIÁ", "vi": "đánh giá của người khác" },
+          { "w": "自己評価", "r": "じこひょうか", "hv": "TỰ KỶ BÌNH GIÁ", "vi": "tự đánh giá" },
+          { "w": "認める", "r": "みとめる", "hv": "NHẬN", "vi": "công nhận, thừa nhận" },
+          { "w": "獲得", "r": "かくとく", "hv": "HOẠCH ĐẮC", "vi": "giành được" }
+        ],
+        "grammar": null,
+        "evidence": "逆に他人が認めなくても、自分が正しいと思えることに自信を持っています。",
+        "tip": null
+      }
+    },
+    {
+      "num": 57,
+      "passage": "p3",
+      "stem": "このメールで問い合わせていることは何か。",
+      "options": [
+        "蛍光ペン3色セットを100個購入することができるか。",
+        "蛍光ペン3色セット100個を4月20日までに東京に届けられるか。",
+        "蛍光ペン3色セット100個を4月20日までに東京に届ける場合、送料はいくらか。",
+        "蛍光ペン3色セット以外に、4月20日までに東京に届けられる商品はあるか。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Email này đang hỏi điều gì? → Có thể giao 100 bộ bút dạ quang 3 màu đến Tokyo trước ngày 20/4 không.",
+        "why": "Câu hỏi chính: 「4月20日までに東京の本社に届けていただきたいのですが、今から注文しても間に合うでしょうか」 = đặt bây giờ có kịp giao trước 20/4 không.",
+        "options": [
+          "Không hỏi có mua được hay không, mà hỏi có kịp không. Sai.",
+          "Có giao kịp 100 bộ đến Tokyo trước 20/4 không. ĐÚNG.",
+          "Người viết nói phí phụ thu cũng không sao, không hỏi giá ship. Sai.",
+          "Việc đổi sản phẩm khác chỉ là phương án nếu không kịp, chưa hỏi. Sai."
+        ],
+        "vocab": [
+          { "w": "蛍光ペン", "r": "けいこうペン", "hv": "HUỲNH QUANG", "vi": "bút dạ quang" },
+          { "w": "取り寄せ", "r": "とりよせ", "hv": "THỦ KÝ", "vi": "đặt hàng về (từ nơi khác)" },
+          { "w": "間に合う", "r": "まにあう", "hv": "GIAN HỢP", "vi": "kịp" },
+          { "w": "送料", "r": "そうりょう", "hv": "TỐNG LIỆU", "vi": "phí vận chuyển" }
+        ],
+        "grammar": null,
+        "evidence": "4月20日までに東京の本社に届けていただきたいのですが、今から注文しても間に合うでしょうか。",
+        "tip": "Email hỏi: tìm câu kết thúc bằng 「～でしょうか」."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p4",
+      "stem": "筆者によると、家族と犬がよい関係を保つにはどうすればよいか。",
+      "options": [
+        "家族の中で最も上位の人に犬が従うようにしつける。",
+        "犬が楽しく暮らせるように家族と同じように扱う。",
+        "犬が家族よりも下であることを家族に意識させる。",
+        "犬が家族よりも下であることを犬にわからせる。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, để gia đình và chó giữ mối quan hệ tốt thì nên làm gì? → Làm cho chó hiểu rằng nó ở vị trí thấp hơn gia đình.",
+        "why": "Kết luận: 「飼い主は常に犬より上位であることを犬に意識させて飼うことが必要」 = phải luôn làm cho chó ý thức rằng chủ ở vị trí trên nó.",
+        "options": [
+          "Chó phải thấp hơn TẤT CẢ thành viên, không chỉ người cao nhất. Sai.",
+          "Đối xử như thành viên ngang hàng trái với ý tác giả. Sai.",
+          "Người cần ý thức là CHÓ, không phải gia đình. Sai.",
+          "Làm cho chó hiểu nó thấp hơn gia đình. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "飼い主", "r": "かいぬし", "hv": "TỰ CHỦ", "vi": "chủ nuôi" },
+          { "w": "順位", "r": "じゅんい", "hv": "THUẬN VỊ", "vi": "thứ bậc" },
+          { "w": "上位", "r": "じょうい", "hv": "THƯỢNG VỊ", "vi": "vị trí trên" },
+          { "w": "意識させる", "r": "いしきさせる", "hv": "Ý THỨC", "vi": "làm cho ý thức được" }
+        ],
+        "grammar": null,
+        "evidence": "したがって、飼い主は常に犬より上位であることを犬に意識させて飼うことが必要で、犬も納得して互いに楽しく暮らせます。",
+        "tip": "Bẫy 3 vs 4: chú ý ai là đối tượng của 意識させる (犬に)."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p5",
+      "stem": "筆者は手紙をどのようなものだと考えているか。",
+      "options": [
+        "書き手の意図しないことまで伝わってしまうもの",
+        "書き手の愛の深さだけが目立ってしまうもの",
+        "書き手の伝えたいことが伝えられないもの",
+        "書き手の心を思いどおりに伝えられるもの"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tác giả nghĩ thư là thứ như thế nào? → Là thứ truyền đạt cả những điều người viết không có ý định truyền đạt.",
+        "why": "Tác giả nói tình yêu có thể được truyền đạt, nhưng đồng thời cả sự ấu trĩ, tình cảm hời hợt, tính cách xấu cũng đến tay người nhận → cả những điều không muốn cũng bị lộ ra.",
+        "options": [
+          "Cả điều người viết không định nói cũng truyền tới. ĐÚNG.",
+          "Ngược lại: cả 'sự nông cạn của tình yêu' cũng lộ ra. Sai.",
+          "Tác giả nói tình cảm 'có thể được truyền đạt' (届くかもしれない), không nói là không truyền được. Sai.",
+          "Không truyền được 'như ý muốn' vì cả điều xấu cũng lộ. Sai."
+        ],
+        "vocab": [
+          { "w": "伝達手段", "r": "でんたつしゅだん", "hv": "TRUYỀN ĐẠT THỦ ĐOẠN", "vi": "phương tiện truyền đạt" },
+          { "w": "文面", "r": "ぶんめん", "hv": "VĂN DIỆN", "vi": "nội dung trên giấy, câu chữ" },
+          { "w": "幼稚", "r": "ようち", "hv": "ẤU TRĨ", "vi": "ấu trĩ, trẻ con" },
+          { "w": "意図", "r": "いと", "hv": "Ý ĐỒ", "vi": "ý định" }
+        ],
+        "grammar": null,
+        "evidence": "愛している気持ちは届くかもしれないが、同時にその幼稚さや、愛の浅さや、性格の悪さまでもが相手に届いてしまう。",
+        "tip": "～までもが ～てしまう: ngay cả điều không mong muốn cũng ~."
+      }
+    }
+  ]
+}

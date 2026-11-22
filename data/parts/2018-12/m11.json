@@ -1,0 +1,343 @@
+{
+  "exam": "2018-12",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（1）から（3）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(3) và chọn câu trả lời đúng nhất cho mỗi câu hỏi (đoạn văn vừa).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "以下は、スポーツの指導者が子どもを叱ることについて書かれた文章である。\n\n叱ることの本来の目的は「叱られた原因を理解する」「自分の間違いに気づく」「うまくいかせるために次にとるべき行動がわかる」の三点です。\nとくに重要なのが、次にとるべき行動がわかることです。叱られたことで、自信をなくして次の行動がとれなくなることは、「叱る」という本来の目的からはずれることになります。\n（中略）\n「叱る」とは、叱ることで子どもがどのような反応を起こすか、すべて計算されていること、つまり「叱ることで子どもがどんな行動を起こすか」が、予想できていなければならない、ということです。そもそも（注1）叱ることは、子どもの成長が目的なのです。これに対し、「怒る」は感情的な行為です。ときには怒りや憎しみを伴います。また、子ども自身を否定することにもなりかねません。指導者は「叱る」「怒る」の違いを常に自問自答（注2）することが大切です。さらには「君自身を否定しているわけではないのだよ、君のしたことを叱っているのだ」と伝えましょう。つまり、人格（注3）を含めてすべてを頭ごなしに（注4）叱るのではなく、ポイントで叱るのです。\nここで、「叱る」うえでの注意点を一つ。叱ることが何度も続くと、叱られることに対する慣れが生じ、「いつものことか」と子どもが感じとり、指導者の本当にいいたいことが伝わらないということがあります。叱ることによって、得られる効果が半減しないためにも、指導者は日頃から注意深く、また意思を持って、みずからと向き合う必要があるのです。\n\n（注1）そもそも：本来\n（注2）自問自答する：自分に問いかけ、自分で考える\n（注3）人格：性格\n（注4）頭ごなしに：最初から一方的に"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "先日、とある大学の学部生を相手に講演をする機会があった。そのときは、私が一緒に仕事をしてきた仲間についてのエピソード（注1）を紹介したのだったが、後ほどアンケートを読ませてもらって<u>驚いた</u>。その仲間についての話を大まかに言えば、性格に欠点を持つ人間だったが、そのために面白いキャラクター（注2）であったし、仕事でもすばらしい結果を残し、尊敬に値する（注3）人物であったというものだった。これをどう受け取ったのかわからないが、アンケートの一つに、「人の欠点について話すことに憤慨（注4）を覚える」といった趣旨（注5）のことが書いてあったのだ。（中略）\n人が個性について語る場合、どうもいい個性のことばかりを取り上げているように思う。いい個性は伸ばし、悪い個性は直しましょう、というわけだ。しかし、私にとってはどちらも大切にすべき個性であるし、そもそも（注6）こうしたものにいいも悪いもないのである。講演で話したことに関しても、私の言う彼の欠点は、一般的な考えに照らし合わせれば（注7）欠点かもしれない。けれども、それこそが彼の個性であって、成功の一因になったということだ。\nしかし、そういった考えは許されないようだ。なぜか個性とは、常識的な考えからいって褒められるものでなければいけないのである。そうなると、今言われている個性とは、一般的にいいとされる個性というものがすでにいくつかあって、それをどう獲得するかを考えなければならないということになる。しかし、そんなものは個性ではないし、結局は人と同じになってしまうのである。\n\n（注1）エピソード：ここでは、話\n（注2）キャラクター：性格\n（注3）尊敬に値する：尊敬できる\n（注4）憤慨を覚える：腹が立つ\n（注5）趣旨：ここでは、内容\n（注6）そもそも：もともと\n（注7）～に照らし合わせれば：ここでは、～からすれば"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "以下は、文字を持たない民族について研究している人が書いた文章である。\n\n本に書いてあることは、ことさらに（注1）中身を全部覚えておかなくても、それについてどの本に書いてあったかが思い出せればよろしい。インターネットが発達した現代においては、ちょっとしたことならすぐに検索できる。バッハとヘンデル（注2）はどっちが先に生まれたかなどと不意に（注3）聞かれたとしても、クラシックファンでなくても、手元にネットにつながったパソコンがあれば、わけもなく（注4）返答できる。しかし、それは自分自身の知識が増えたわけではない。そこに文字として書かれているものは、すべて自分の外側にあるものであり、それにアクセスできなくなったとたん――早い話が本が全部焼けてしまうとか、停電になるとかしたとたん――<u>そのほとんど</u>が自分とは無縁のものになってしまうのである。\n文字を使わないということは、常にその状態にあるということである。自分が記憶していないものは、存在していないのと同じ。（中略）本を読んだり、ビデオやDVDで同じ映像を何度も再生して見ることに慣れた我々は、その瞬間に頭に入らなくとも、もう一度見ればよいと考えてしまいがちである。しかし、そういう文化の中で育っていない人たちにとっては、その瞬間を逃したらそれまでであって、同じ人から同じ話を聞く機会はもう二度とないと考える。そのような気持ちで人のことばを聞くことによって培われた（注5）力が、記憶する力となっているのであろう。\n文字を学び、書かれたものを読む能力は、人間の取得可能な知識の範囲を格段に（注6）広げたことは事実である。しかし、それは取得した知識が増えたことを、なんら（注7）意味してはいない。\n\n（注1）ことさらに：ここでは、特に\n（注2）バッハとヘンデル：どちらも18世紀に活躍した作曲家\n（注3）不意に：突然\n（注4）わけもなく：簡単に\n（注5）培われた：育てられた\n（注6）格段に：ここでは、大きく\n（注7）なんら：少しも"
+    }
+  ],
+  "questions": [
+    {
+      "num": 58,
+      "passage": "p1",
+      "stem": "子どもを叱るとき、指導者にとって必要なことは何か。",
+      "options": [
+        "なぜ叱るのかを子どもに伝えること。",
+        "次にとるべき行動を子どもに説明できること。",
+        "叱った後の子どもの行動が予測できていること。",
+        "子どもが自信をなくさないように強く叱らないこと。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Khi mắng trẻ, điều cần thiết đối với người hướng dẫn là gì? → Dự đoán trước được hành động của trẻ sau khi bị mắng.",
+        "why": "Tác giả định nghĩa: \"叱る\" nghĩa là phải tính trước được trẻ sẽ phản ứng thế nào, tức là phải dự đoán được (予想できていなければならない) trẻ sẽ hành động ra sao khi bị mắng.",
+        "options": [
+          "Bài không nói phải giải thích lý do mắng cho trẻ. Sai.",
+          "\"Biết hành động tiếp theo\" là việc của trẻ (mục đích), không nói người hướng dẫn phải giải thích. Sai.",
+          "Khớp với 「叱ることで子どもがどんな行動を起こすか」が、予想できていなければならない. ĐÚNG.",
+          "Bài không bảo \"đừng mắng mạnh\". Sai."
+        ],
+        "vocab": [
+          { "w": "叱る", "r": "しかる", "hv": "SẤT", "vi": "mắng, la rầy (để dạy dỗ)" },
+          { "w": "指導者", "r": "しどうしゃ", "hv": "CHỈ ĐẠO GIẢ", "vi": "người hướng dẫn, huấn luyện viên" },
+          { "w": "予想", "r": "よそう", "hv": "DỰ TƯỞNG", "vi": "dự đoán" },
+          { "w": "反応", "r": "はんのう", "hv": "PHẢN ỨNG", "vi": "phản ứng" }
+        ],
+        "grammar": {
+          "pattern": "～なければならない",
+          "meaning": "phải ~ (điều kiện bắt buộc)",
+          "form": "Vない(bỏ い) ＋ ければならない",
+          "example": "結果が予想できていなければならない。"
+        },
+        "evidence": "「叱る」とは、叱ることで子どもがどのような反応を起こすか、すべて計算されていること、つまり「叱ることで子どもがどんな行動を起こすか」が、予想できていなければならない、ということです。",
+        "tip": "予想 ⇔ 予測 (đồng nghĩa) — đáp án thường đổi từ như vậy."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p1",
+      "stem": "筆者によると、叱るときはどのようにすればいいか。",
+      "options": [
+        "肯定的な言葉だけを使って叱る。",
+        "間違った行動を取り上げて叱る。",
+        "子どもの成長に合った叱り方をする。",
+        "怒りや憎しみを隠して叱る。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo tác giả, khi mắng nên làm thế nào? → Nêu ra hành động sai để mắng.",
+        "why": "Tác giả khuyên: nói với trẻ \"thầy không phủ nhận bản thân em, thầy mắng việc em đã làm\" — không mắng toàn bộ nhân cách mà mắng đúng điểm (ポイントで叱る) → mắng vào hành động sai.",
+        "options": [
+          "Không nói chỉ dùng lời tích cực. Sai.",
+          "Khớp với 「君のしたことを叱っているのだ」「ポイントで叱る」. ĐÚNG.",
+          "Mục đích mắng là sự trưởng thành của trẻ, nhưng không nói \"cách mắng phù hợp với mức độ trưởng thành\". Sai.",
+          "Giận dữ, căm ghét là đặc trưng của 怒る — cần tránh, không phải \"giấu đi\" rồi mắng. Sai."
+        ],
+        "vocab": [
+          { "w": "人格", "r": "じんかく", "hv": "NHÂN CÁCH", "vi": "nhân cách, tính cách" },
+          { "w": "否定", "r": "ひてい", "hv": "PHỦ ĐỊNH", "vi": "phủ định" },
+          { "w": "頭ごなしに", "r": "あたまごなしに", "hv": "ĐẦU", "vi": "một chiều từ đầu, không cần nghe" },
+          { "w": "取り上げる", "r": "とりあげる", "hv": "THỦ THƯỢNG", "vi": "nêu ra, đưa ra (để bàn)" }
+        ],
+        "grammar": {
+          "pattern": "～わけではない",
+          "meaning": "không hẳn là ~, không có nghĩa là ~",
+          "form": "普通形 ＋ わけではない",
+          "example": "君自身を否定しているわけではない。"
+        },
+        "evidence": "「君自身を否定しているわけではないのだよ、君のしたことを叱っているのだ」と伝えましょう。つまり、人格を含めてすべてを頭ごなしに叱るのではなく、ポイントで叱るのです。",
+        "tip": "つまり～ thường tóm tắt ý chính ngay trước nó → tìm đáp án quanh つまり."
+      }
+    },
+    {
+      "num": 60,
+      "passage": "p1",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "叱る効果を高めるには、日頃から子どもと向き合う必要がある。",
+        "本当にいいたいことを伝えるには、あきらめずに何度も叱ることが大切だ。",
+        "効果的に叱るには、叱ることに慣れることが大切だ。",
+        "効果的に叱るには、伝えたいことをしっかり考えておく必要がある。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Để mắng có hiệu quả, cần suy nghĩ kỹ trước điều mình muốn truyền đạt.",
+        "why": "Tác giả: mắng phải được \"tính toán\" trước; mắng nhiều lần thì trẻ quen và điều người dạy thật sự muốn nói không truyền đạt được; để hiệu quả không giảm một nửa, người dạy phải thường xuyên, có chủ ý, tự đối diện với bản thân (= tự suy nghĩ kỹ điều mình muốn truyền đạt).",
+        "options": [
+          "Bài nói 「みずからと向き合う」 (đối diện với chính mình), không phải với trẻ. Sai.",
+          "Ngược lại: mắng nhiều lần làm trẻ quen, không truyền đạt được. Sai.",
+          "Người \"quen\" là trẻ (quen bị mắng) và đó là điều xấu. Sai.",
+          "Khớp với ý phải tính trước, có chủ ý (意思を持って) để điều muốn nói truyền đến trẻ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "半減", "r": "はんげん", "hv": "BÁN GIẢM", "vi": "giảm một nửa" },
+          { "w": "向き合う", "r": "むきあう", "hv": "HƯỚNG HỢP", "vi": "đối diện, nghiêm túc đối mặt" },
+          { "w": "慣れ", "r": "なれ", "hv": "QUÁN", "vi": "sự quen, nhờn" },
+          { "w": "意思", "r": "いし", "hv": "Ý TƯ", "vi": "ý chí, chủ ý" }
+        ],
+        "grammar": {
+          "pattern": "～ないためにも",
+          "meaning": "cũng là để không ~",
+          "form": "Vない ＋ ためにも",
+          "example": "失敗しないためにも、準備をしっかりしよう。"
+        },
+        "evidence": "叱ることが何度も続くと、叱られることに対する慣れが生じ、「いつものことか」と子どもが感じとり、指導者の本当にいいたいことが伝わらないということがあります。叱ることによって、得られる効果が半減しないためにも、指導者は日頃から注意深く、また意思を持って、みずからと向き合う必要があるのです。",
+        "tip": "Bẫy: みずから = chính mình (自ら), không phải \"trẻ em\"."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p2",
+      "stem": "<u>驚いた</u>とあるが、なぜか。",
+      "options": [
+        "仕事について話したのに、性格について話したと勘違いされたから。",
+        "仕事仲間について話すのはよくないことだと言われたから。",
+        "友人のいいところを話したのに、それを欠点だと思われたから。",
+        "他人の欠点を話すのはよくないことだと指摘されたから。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả viết \"ngạc nhiên\", tại sao? → Vì bị chỉ trích rằng nói về khuyết điểm của người khác là không tốt.",
+        "why": "Trong phiếu khảo sát có ý kiến: \"thấy bực mình khi (diễn giả) nói về khuyết điểm của người khác\" → tác giả ngạc nhiên vì bị cho rằng nói khuyết điểm người khác là điều không nên.",
+        "options": [
+          "Tác giả có nói về tính cách; không có chuyện bị hiểu nhầm. Sai.",
+          "Không ai phản đối việc nói về đồng nghiệp nói chung. Sai.",
+          "Tác giả nói rõ người đó có khuyết điểm; không phải nói điểm tốt bị hiểu thành khuyết điểm. Sai.",
+          "Khớp với 「人の欠点について話すことに憤慨を覚える」. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "欠点", "r": "けってん", "hv": "KHUYẾT ĐIỂM", "vi": "khuyết điểm" },
+          { "w": "憤慨", "r": "ふんがい", "hv": "PHẪN KHÁI", "vi": "phẫn nộ, bực tức" },
+          { "w": "趣旨", "r": "しゅし", "hv": "THÚ CHỈ", "vi": "nội dung chính, ý chính" },
+          { "w": "指摘", "r": "してき", "hv": "CHỈ TRÍCH", "vi": "chỉ ra, nêu ra" }
+        ],
+        "grammar": {
+          "pattern": "～に値する",
+          "meaning": "đáng để ~",
+          "form": "N／V辞書形 ＋ に値する",
+          "example": "彼の努力は称賛に値する。"
+        },
+        "evidence": "アンケートの一つに、「人の欠点について話すことに憤慨を覚える」といった趣旨のことが書いてあったのだ。",
+        "tip": "Câu hỏi lý do của từ gạch chân → câu giải thích thường kết thúc bằng ～のだ ngay sau đó."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p2",
+      "stem": "人の欠点について、筆者はどのように考えているか。",
+      "options": [
+        "欠点も個性だと言える。",
+        "欠点を個性とするのはよくない。",
+        "直せる欠点は直したほうがいい。",
+        "いい点よりも欠点のほうが成功に役立つ。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tác giả nghĩ gì về khuyết điểm của con người? → Có thể nói khuyết điểm cũng là cá tính.",
+        "why": "Tác giả: cả cá tính tốt lẫn xấu đều đáng trân trọng, vốn không có tốt xấu; khuyết điểm của người đồng nghiệp \"chính là cá tính của anh ấy\" (それこそが彼の個性).",
+        "options": [
+          "Khớp với 「それこそが彼の個性であって」. ĐÚNG.",
+          "Ngược với quan điểm tác giả. Sai.",
+          "\"Cá tính xấu thì sửa\" là quan điểm phổ biến mà tác giả phản đối. Sai.",
+          "Tác giả không so sánh khuyết điểm hữu ích hơn ưu điểm. Sai."
+        ],
+        "vocab": [
+          { "w": "個性", "r": "こせい", "hv": "CÁ TÍNH", "vi": "cá tính" },
+          { "w": "一因", "r": "いちいん", "hv": "NHẤT NHÂN", "vi": "một nguyên nhân" },
+          { "w": "照らし合わせる", "r": "てらしあわせる", "hv": "CHIẾU HỢP", "vi": "đối chiếu" }
+        ],
+        "grammar": {
+          "pattern": "～こそ",
+          "meaning": "chính ~ (nhấn mạnh)",
+          "form": "N ＋ こそ",
+          "example": "それこそが彼の個性だ。"
+        },
+        "evidence": "しかし、私にとってはどちらも大切にすべき個性であるし、そもそもこうしたものにいいも悪いもないのである。…私の言う彼の欠点は、一般的な考えに照らし合わせれば欠点かもしれない。けれども、それこそが彼の個性であって、成功の一因になったということだ。",
+        "tip": "Đáp án 4 bẫy: bài chỉ nói khuyết điểm là \"một nguyên nhân\" thành công, không nói hữu ích \"hơn\" ưu điểm."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p2",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "褒められる個性でなければ、直したほうがいい。",
+        "いいとされる個性をどう獲得するかを考えることが重要。",
+        "いいとされる個性を獲得しても、それは個性とは言えない。",
+        "どのような個性であっても、成功と結び付けて考えないほうがいい。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Dù có đạt được cá tính được cho là tốt thì đó cũng không thể gọi là cá tính.",
+        "why": "Đoạn cuối: nếu cá tính là thứ \"được cho là tốt\" có sẵn và người ta tìm cách đạt được nó, thì \"cái đó không phải là cá tính, rốt cuộc sẽ giống người khác\" (そんなものは個性ではない).",
+        "options": [
+          "Đây là quan điểm xã hội mà tác giả phê phán. Sai.",
+          "Tác giả phủ nhận cách nghĩ này. Sai.",
+          "Khớp với 「そんなものは個性ではないし、結局は人と同じになってしまう」. ĐÚNG.",
+          "Tác giả chính là liên kết khuyết điểm với thành công. Sai."
+        ],
+        "vocab": [
+          { "w": "獲得", "r": "かくとく", "hv": "HOẠCH ĐẮC", "vi": "giành được, đạt được" },
+          { "w": "常識的", "r": "じょうしきてき", "hv": "THƯỜNG THỨC ĐÍCH", "vi": "theo lẽ thường" },
+          { "w": "褒める", "r": "ほめる", "hv": "BAO", "vi": "khen" }
+        ],
+        "grammar": null,
+        "evidence": "今言われている個性とは、一般的にいいとされる個性というものがすでにいくつかあって、それをどう獲得するかを考えなければならないということになる。しかし、そんなものは個性ではないし、結局は人と同じになってしまうのである。",
+        "tip": "Câu sau しかし ở cuối bài thường là ý kiến thật của tác giả."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p3",
+      "stem": "<u>そのほとんど</u>とは何か。",
+      "options": [
+        "自分自身の知識のほとんど。",
+        "調べればわかることのほとんど。",
+        "検索するための手段のほとんど。",
+        "文字によって覚えたことのほとんど。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "\"Phần lớn chúng\" là gì? → Phần lớn những điều chỉ cần tra là biết.",
+        "why": "その chỉ 「そこに文字として書かれているもの」 — những thứ viết trong sách/mạng, nằm ngoài bản thân, chỉ cần tra là biết (検索できる). Khi mất quyền truy cập (sách cháy, mất điện), phần lớn những thứ đó trở nên không liên quan đến mình.",
+        "options": [
+          "Kiến thức của chính mình thì không mất; bài nói những thứ đó \"không phải\" kiến thức của mình. Sai.",
+          "Khớp: thứ viết bên ngoài, tra cứu là biết. ĐÚNG.",
+          "Không phải \"phương tiện tra cứu\" (máy tính, sách) mà là nội dung. Sai.",
+          "Bài không nói về điều \"đã nhớ\" qua chữ viết; thứ đã nhớ thì vẫn còn. Sai."
+        ],
+        "vocab": [
+          { "w": "無縁", "r": "むえん", "hv": "VÔ DUYÊN", "vi": "không liên quan, không có duyên" },
+          { "w": "検索", "r": "けんさく", "hv": "KIỂM SÁCH", "vi": "tra cứu, tìm kiếm" },
+          { "w": "停電", "r": "ていでん", "hv": "ĐÌNH ĐIỆN", "vi": "mất điện" },
+          { "w": "外側", "r": "そとがわ", "hv": "NGOẠI TRẮC", "vi": "bên ngoài" }
+        ],
+        "grammar": {
+          "pattern": "Vた＋とたん",
+          "meaning": "ngay khi vừa ~ thì",
+          "form": "Vた ＋ とたん(に)",
+          "example": "家を出たとたん、雨が降り出した。"
+        },
+        "evidence": "そこに文字として書かれているものは、すべて自分の外側にあるものであり、それにアクセスできなくなったとたん――早い話が本が全部焼けてしまうとか、停電になるとかしたとたん――そのほとんどが自分とは無縁のものになってしまうのである。",
+        "tip": "Đại từ chỉ định (その) → tìm danh từ gần nhất phía trước phù hợp nghĩa: 文字として書かれているもの."
+      }
+    },
+    {
+      "num": 65,
+      "passage": "p3",
+      "stem": "文字を使わない人たちについて、筆者はどのように考えているか。",
+      "options": [
+        "自分の覚えたい話しか興味を持って聞かない。",
+        "同じ話を二度と聞けないと考えて、集中して聞く。",
+        "話を記憶できなければ、もう一度聞き直す。",
+        "話は何度も聞けないので、忘れてしまいがちである。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tác giả nghĩ gì về những người không dùng chữ viết? → Họ nghĩ sẽ không bao giờ được nghe lại câu chuyện đó, nên tập trung lắng nghe.",
+        "why": "Với người không lớn lên trong văn hóa chữ viết, bỏ lỡ khoảnh khắc là hết, không có cơ hội nghe lại; nghe với tâm thế đó đã nuôi dưỡng năng lực ghi nhớ → tập trung nghe.",
+        "options": [
+          "Bài không nói họ chỉ nghe chuyện mình muốn nhớ. Sai.",
+          "Khớp với 「同じ人から同じ話を聞く機会はもう二度とないと考える」. ĐÚNG.",
+          "Ngược lại: họ nghĩ không thể nghe lại. Sai.",
+          "Ngược lại: họ có năng lực ghi nhớ tốt. Sai."
+        ],
+        "vocab": [
+          { "w": "瞬間", "r": "しゅんかん", "hv": "THUẤN GIAN", "vi": "khoảnh khắc" },
+          { "w": "逃す", "r": "のがす", "hv": "ĐÀO", "vi": "bỏ lỡ" },
+          { "w": "培う", "r": "つちかう", "hv": "BỒI", "vi": "vun đắp, nuôi dưỡng" },
+          { "w": "記憶", "r": "きおく", "hv": "KÝ ỨC", "vi": "ghi nhớ, trí nhớ" }
+        ],
+        "grammar": {
+          "pattern": "～たらそれまでだ",
+          "meaning": "nếu ~ thì coi như hết, chấm dứt",
+          "form": "Vたら ＋ それまでだ",
+          "example": "試験に遅れたらそれまでだ。"
+        },
+        "evidence": "そういう文化の中で育っていない人たちにとっては、その瞬間を逃したらそれまでであって、同じ人から同じ話を聞く機会はもう二度とないと考える。そのような気持ちで人のことばを聞くことによって培われた力が、記憶する力となっているのであろう。",
+        "tip": "Bản PDF in nhầm 「集中して開く」; đúng là 「聞く」."
+      }
+    },
+    {
+      "num": 66,
+      "passage": "p3",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "記憶していなければ、知識を得たとはいえない。",
+        "知識が増えるにしたがって、記憶する力も伸びる。",
+        "文字を学ばなければ、知識は増えない。",
+        "文字の使用の有無にかかわらず、記憶する力は変わらない。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Nếu không ghi nhớ thì không thể nói là đã có kiến thức.",
+        "why": "Tác giả: tra được trên mạng không có nghĩa là kiến thức của mình tăng; \"thứ mình không nhớ thì cũng như không tồn tại\"; chữ viết mở rộng phạm vi kiến thức có thể tiếp cận nhưng không hề có nghĩa kiến thức đã thu nhận tăng lên.",
+        "options": [
+          "Khớp với 「自分が記憶していないものは、存在していないのと同じ」. ĐÚNG.",
+          "Bài không nói kiến thức tăng thì trí nhớ tăng. Sai.",
+          "Bài nói chữ viết không làm tăng kiến thức thực sự; không nói không học chữ thì không tăng. Sai.",
+          "Bài cho rằng người không dùng chữ có năng lực ghi nhớ được nuôi dưỡng → có khác biệt. Sai."
+        ],
+        "vocab": [
+          { "w": "取得", "r": "しゅとく", "hv": "THỦ ĐẮC", "vi": "thu nhận, đạt được" },
+          { "w": "範囲", "r": "はんい", "hv": "PHẠM VI", "vi": "phạm vi" },
+          { "w": "格段に", "r": "かくだんに", "hv": "CÁCH ĐOẠN", "vi": "vượt bậc, rất nhiều" },
+          { "w": "有無", "r": "うむ", "hv": "HỮU VÔ", "vi": "có hay không" }
+        ],
+        "grammar": {
+          "pattern": "なんら～ない",
+          "meaning": "hoàn toàn không ~, không hề ~",
+          "form": "なんら ＋ Vない／Nもない",
+          "example": "彼の意見にはなんら問題はない。"
+        },
+        "evidence": "しかし、それは自分自身の知識が増えたわけではない。…自分が記憶していないものは、存在していないのと同じ。…しかし、それは取得した知識が増えたことを、なんら意味してはいない。",
+        "tip": "Ý chính lặp lại ở đầu và cuối bài: tra cứu được ≠ có kiến thức."
+      }
+    }
+  ]
+}

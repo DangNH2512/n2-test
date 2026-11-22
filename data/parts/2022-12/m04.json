@@ -1,0 +1,192 @@
+{
+  "exam": "2022-12",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "規則に（　　）した場合は、罰金を払わなければならない。",
+      "options": ["相違", "対決", "違反", "対抗"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Trường hợp vi phạm quy định thì phải nộp tiền phạt.",
+        "why": "規則に違反する = vi phạm quy tắc. Cụm cố định ～に違反する (法律に違反する, 交通違反). Đi với 罰金 (tiền phạt) càng rõ.",
+        "options": [
+          "相違 → そうい: sự khác nhau (AとBに相違がある). Sai.",
+          "対決 → たいけつ: đối đầu, quyết đấu. Sai.",
+          "違反 → いはん: vi phạm. ĐÚNG.",
+          "対抗 → たいこう: đối kháng, cạnh tranh (～に対抗する). Sai."
+        ],
+        "vocab": [
+          { "w": "違反", "r": "いはん", "hv": "VI PHẢN", "vi": "vi phạm" },
+          { "w": "規則", "r": "きそく", "hv": "QUY TẮC", "vi": "quy tắc, quy định" },
+          { "w": "罰金", "r": "ばっきん", "hv": "PHẠT KIM", "vi": "tiền phạt" },
+          { "w": "相違", "r": "そうい", "hv": "TƯƠNG VI", "vi": "sự khác biệt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Collocation: 規則／法律／ルールに違反する; 交通違反 = vi phạm giao thông."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "この体育館は、ロッカーやシャワーなどの（　　）がそろっている。",
+      "options": ["用具", "物体", "設備", "容器"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nhà thi đấu này có đầy đủ trang thiết bị như tủ đồ, vòi sen.",
+        "why": "Tủ đồ, vòi sen là thiết bị lắp đặt cố định trong tòa nhà → 設備 (せつび: thiết bị, cơ sở vật chất). 設備がそろっている = đầy đủ thiết bị.",
+        "options": [
+          "用具 → ようぐ: dụng cụ cầm tay (bút, vợt...). Sai.",
+          "物体 → ぶったい: vật thể (nói chung, mang tính vật lý). Sai.",
+          "設備 → せつび: trang thiết bị. ĐÚNG.",
+          "容器 → ようき: đồ chứa (hộp, bình). Sai."
+        ],
+        "vocab": [
+          { "w": "設備", "r": "せつび", "hv": "THIẾT BỊ", "vi": "trang thiết bị" },
+          { "w": "体育館", "r": "たいいくかん", "hv": "THỂ DỤC QUÁN", "vi": "nhà thi đấu" },
+          { "w": "揃う", "r": "そろう", "hv": "TIỄN", "vi": "đầy đủ, tề tựu" },
+          { "w": "容器", "r": "ようき", "hv": "DUNG KHÍ", "vi": "đồ đựng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "設備 = thứ được lắp đặt (máy lạnh, vòi sen); 用具 = đồ dùng mang đi được."
+      }
+    },
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "化粧品メーカーが健康食品の分野に（　　）して成功した例もある。",
+      "options": ["到達", "転勤", "直行", "進出"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Cũng có ví dụ hãng mỹ phẩm lấn sang (mở rộng sang) lĩnh vực thực phẩm chức năng và thành công.",
+        "why": "～の分野／市場に進出する = mở rộng hoạt động sang lĩnh vực/thị trường mới. 進出 (しんしゅつ) là từ chuẩn cho doanh nghiệp.",
+        "options": [
+          "到達 → とうたつ: đạt tới (目標に到達する). Sai.",
+          "転勤 → てんきん: chuyển công tác (cá nhân). Sai.",
+          "直行 → ちょっこう: đi thẳng đến. Sai.",
+          "進出 → しんしゅつ: tiến vào, mở rộng sang. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "進出", "r": "しんしゅつ", "hv": "TIẾN XUẤT", "vi": "tiến vào, mở rộng sang" },
+          { "w": "化粧品", "r": "けしょうひん", "hv": "HÓA TRANG PHẨM", "vi": "mỹ phẩm" },
+          { "w": "分野", "r": "ぶんや", "hv": "PHÂN DÃ", "vi": "lĩnh vực" },
+          { "w": "到達", "r": "とうたつ", "hv": "ĐÁO ĐẠT", "vi": "đạt đến" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "海外進出 = mở rộng ra nước ngoài; 市場に進出する = thâm nhập thị trường."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "この時期に雪が降ることはあるが、積もることは（　　）だ。",
+      "options": ["まれ", "なだらか", "ささやか", "かすか"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Vào thời điểm này đôi khi có tuyết rơi, nhưng tuyết đọng lại thì hiếm.",
+        "why": "まれ (稀) = hiếm, ít khi xảy ra. Cấu trúc ～ことはあるが、～ことはまれだ đối lập: có xảy ra nhưng hiếm.",
+        "options": [
+          "まれ → 稀: hiếm. ĐÚNG.",
+          "なだらか → thoai thoải (dốc), êm ả. Sai.",
+          "ささやか → nhỏ bé, khiêm tốn (ささやかなプレゼント). Sai.",
+          "かすか → mờ nhạt, yếu ớt (かすかな音). Sai."
+        ],
+        "vocab": [
+          { "w": "稀", "r": "まれ", "hv": "HY", "vi": "hiếm" },
+          { "w": "積もる", "r": "つもる", "hv": "TÍCH", "vi": "chất đống, đọng (tuyết)" },
+          { "w": "ささやか", "r": "ささやか", "hv": "", "vi": "nhỏ bé, khiêm tốn" },
+          { "w": "かすか", "r": "かすか", "hv": "", "vi": "mờ nhạt, lờ mờ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "まれ = めったにない. Hay gặp: まれに見る～ (hiếm thấy)."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "家の隣で夜遅くまでマンション建設工事が行われてうるさいので、建設会社に（　　）の電話をした。",
+      "options": ["悪口", "苦情", "反論", "皮肉"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Bên cạnh nhà thi công chung cư đến tận khuya rất ồn nên tôi đã gọi điện phàn nàn với công ty xây dựng.",
+        "why": "苦情 (くじょう) = lời phàn nàn, khiếu nại về sự bất tiện. 苦情の電話 = cuộc gọi phàn nàn.",
+        "options": [
+          "悪口 → わるぐち: nói xấu sau lưng. Sai.",
+          "苦情 → くじょう: phàn nàn, khiếu nại. ĐÚNG.",
+          "反論 → はんろん: phản bác ý kiến. Sai.",
+          "皮肉 → ひにく: lời mỉa mai. Sai."
+        ],
+        "vocab": [
+          { "w": "苦情", "r": "くじょう", "hv": "KHỔ TÌNH", "vi": "lời phàn nàn" },
+          { "w": "建設", "r": "けんせつ", "hv": "KIẾN THIẾT", "vi": "xây dựng" },
+          { "w": "工事", "r": "こうじ", "hv": "CÔNG SỰ", "vi": "công trình, thi công" },
+          { "w": "皮肉", "r": "ひにく", "hv": "BÌ NHỤC", "vi": "mỉa mai" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "苦情を言う／苦情が来る ≈ クレーム."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "箱の中には、隙間なく（　　）お菓子が詰まっていた。",
+      "options": ["どしどし", "どっしり", "うじゃうじゃ", "ぎっしり"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Trong hộp, bánh kẹo được xếp chật kín không còn khe hở.",
+        "why": "ぎっしり = chật ních, kín đặc. Rất hay đi với 詰まる／詰める và 隙間なく.",
+        "options": [
+          "どしどし → dồn dập, liên tục (どしどし応募してください). Sai.",
+          "どっしり → nặng nề, vững chãi (どっしりした体). Sai.",
+          "うじゃうじゃ → lúc nhúc (sâu bọ). Sai.",
+          "ぎっしり → chật kín. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "ぎっしり", "r": "ぎっしり", "hv": "", "vi": "chật kín, đầy ắp" },
+          { "w": "隙間", "r": "すきま", "hv": "KHÍCH GIAN", "vi": "khe hở" },
+          { "w": "詰まる", "r": "つまる", "hv": "CẬT", "vi": "bị nhồi đầy, tắc" },
+          { "w": "どっしり", "r": "どっしり", "hv": "", "vi": "vững chãi, nặng nề" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ぎっしり詰まる／予定がぎっしり (lịch kín mít)."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "私は前回の実験の結果にずっと疑問を（　　）いる。",
+      "options": ["いだいて", "にぎって", "たもって", "そなえて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi vẫn luôn ôm nghi vấn về kết quả thí nghiệm lần trước.",
+        "why": "疑問を抱く (いだく) = mang/ôm nghi vấn. 抱く (いだく) dùng với cảm xúc, suy nghĩ: 疑問・不安・夢・希望を抱く.",
+        "options": [
+          "いだいて → 抱いて: ôm (cảm xúc, nghi vấn). ĐÚNG.",
+          "にぎって → 握って: nắm (bằng tay). Sai.",
+          "たもって → 保って: giữ, duy trì (温度を保つ). Sai.",
+          "そなえて → 備えて: chuẩn bị, trang bị. Sai."
+        ],
+        "vocab": [
+          { "w": "抱く", "r": "いだく / だく", "hv": "BÃO", "vi": "ôm (tình cảm, suy nghĩ) / ôm (vật)" },
+          { "w": "疑問", "r": "ぎもん", "hv": "NGHI VẤN", "vi": "nghi vấn" },
+          { "w": "実験", "r": "じっけん", "hv": "THỰC NGHIỆM", "vi": "thí nghiệm" },
+          { "w": "保つ", "r": "たもつ", "hv": "BẢO", "vi": "giữ, duy trì" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "抱く: いだく (trừu tượng: 疑問・夢) / だく (cụ thể: 赤ちゃんを抱く)."
+      }
+    }
+  ]
+}

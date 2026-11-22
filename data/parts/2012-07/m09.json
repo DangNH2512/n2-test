@@ -1,0 +1,249 @@
+{
+  "exam": "2012-07",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、「50」から「54」の中に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, suy nghĩ nội dung toàn bài và chọn phương án thích hợp nhất cho các chỗ trống 50–54.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "ランチメニューはなぜ安い？",
+      "text": "ランチメニューはなぜ安い？\n飲食店には、夜だけでなく昼も営業して、ランチメニューを出しているところも多い。このランチメニュー、たいていは夜に比べると手ごろな価格に設定されている。（ 50 ）、夜はパスタだけで1,200円ぐらいする店でも昼はパスタにスープとサラダがついて980円といったものや、夜はコース料理が5,000円以上する店でも昼は1,000円前後になるといったものだ。\nこの昼と夜の価格差は一体、何によるものなのだろうか。安いからといって、料理人が手を抜いているとか、安い材料を使っているとか、そういったことは（ 51 ）ない。味が落ちれば悪い評判が立ち、夜の営業にも悪影響を与えてしまう。\nランチメニューを安くできる理由は単純明快だ。\n飲食店に限らず、店を経営していくためには、材料費、光熱費、店員の給料などさまざまなコストがかかるが、そのコストをおさえられれば、商品の価格を下げても利益は上げることができる。（ 52 ）、メニューをいくつかに絞るという方法で、コストをおさえているケースが多い。メニューが少なければ、準備や調理に手間がかからず、多くの料理人を働かせる必要もない。そのため、安くすることができると（ 53 ）。\nコストをおさえて、安いランチメニューでも飲食店は利益を上げている。また安くておいしいランチを食べた客が店を気に入り、夜も店を訪れる可能性もある。飲食店にとって、利益が上げられ、さらに客も獲得できるランチは、「おいしい」（ 54 ）。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": [
+        "ただし",
+        "それに",
+        "あるいは",
+        "たとえば"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Ví dụ như, có những quán buổi tối riêng món mì Ý đã khoảng 1.200 yên nhưng buổi trưa thì mì Ý kèm súp và salad chỉ 980 yên...",
+        "why": "Câu trước nêu nhận định chung (bữa trưa giá phải chăng hơn tối), câu sau đưa các trường hợp cụ thể kết thúc bằng 「～といったものだ」 → dùng たとえば (ví dụ).",
+        "options": [
+          "ただし → tuy nhiên (bổ sung điều kiện/ngoại lệ). Sai.",
+          "それに → thêm vào đó. Sai.",
+          "あるいは → hoặc là. Sai.",
+          "たとえば → ví dụ như. ĐÚNG."
+        ],
+        "vocab": [
+          {
+            "w": "手ごろ",
+            "r": "てごろ",
+            "hv": "THỦ",
+            "vi": "vừa phải, phải chăng (giá)"
+          },
+          {
+            "w": "設定",
+            "r": "せってい",
+            "hv": "THIẾT ĐỊNH",
+            "vi": "thiết lập, đặt ra"
+          },
+          {
+            "w": "前後",
+            "r": "ぜんご",
+            "hv": "TIỀN HẬU",
+            "vi": "khoảng, chừng"
+          }
+        ],
+        "grammar": {
+          "pattern": "たとえば～といったものだ",
+          "meaning": "ví dụ như ~ chẳng hạn",
+          "form": "たとえば + ví dụ + といったものだ／などだ",
+          "example": "趣味はいろいろある。たとえば、読書や料理といったものだ。"
+        },
+        "evidence": "（ 50 ）、夜はパスタだけで1,200円ぐらいする店でも昼はパスタにスープとサラダがついて980円といったものや、…といったものだ。",
+        "tip": "Cuối câu có 「～といったものだ」 là tín hiệu của ví dụ → たとえば."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": [
+        "意外では",
+        "間違いでは",
+        "だから",
+        "もちろん"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Không phải vì rẻ mà đầu bếp làm qua loa hay dùng nguyên liệu rẻ tiền – những chuyện như vậy tất nhiên là không có.",
+        "why": "「もちろん～ない」 = tất nhiên là không ~. Câu sau giải thích lý do: nếu vị kém đi thì sẽ mang tiếng xấu và ảnh hưởng cả việc kinh doanh buổi tối → chắc chắn quán không làm ẩu. Vì vậy cần một trạng từ phủ định mạnh: もちろん（ない）.",
+        "options": [
+          "意外では → 意外ではない: 'không bất ngờ' – hàm ý chuyện làm ẩu là bình thường, trái với câu sau. Sai.",
+          "間違いでは → 間違いではない: 'không sai' = đúng là có làm ẩu – mâu thuẫn với câu sau. Sai.",
+          "だから → 'vì vậy' + ない: không thành câu, không có quan hệ nhân quả. Sai.",
+          "もちろん → tất nhiên là không có chuyện đó. ĐÚNG."
+        ],
+        "vocab": [
+          {
+            "w": "手を抜く",
+            "r": "てをぬく",
+            "hv": "",
+            "vi": "làm qua loa, làm ẩu"
+          },
+          {
+            "w": "評判",
+            "r": "ひょうばん",
+            "hv": "BÌNH PHÁN",
+            "vi": "tiếng tăm, đánh giá"
+          },
+          {
+            "w": "悪影響",
+            "r": "あくえいきょう",
+            "hv": "ÁC ẢNH HƯỞNG",
+            "vi": "ảnh hưởng xấu"
+          }
+        ],
+        "grammar": {
+          "pattern": "～からといって、…もちろん～ない",
+          "meaning": "không phải chỉ vì ~ mà …; tất nhiên là không ~",
+          "form": "Thể thường + からといって + … + もちろん + phủ định",
+          "example": "安いからといって、品質が悪いということはもちろんない。"
+        },
+        "evidence": "安いからといって、料理人が手を抜いているとか、安い材料を使っているとか、そういったことは（ 51 ）ない。味が落ちれば悪い評判が立ち、夜の営業にも悪影響を与えてしまう。",
+        "tip": "「～からといって」 thường đi với phủ định ở cuối câu; もちろん nhấn mạnh phủ định đó."
+      }
+    },
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "（52）に入るもの",
+      "options": [
+        "次の場合",
+        "その点の場合",
+        "ランチの場合",
+        "夜の営業の場合"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Trường hợp bữa trưa thì nhiều quán giảm chi phí bằng cách thu hẹp thực đơn xuống còn vài món.",
+        "why": "Đoạn trước nói nguyên tắc chung cho mọi cửa hàng (飲食店に限らず…); câu này áp dụng vào chủ đề bài viết là bữa trưa → 「ランチの場合」.",
+        "options": [
+          "次の場合 → trường hợp sau đây: không có gì được liệt kê sau. Sai.",
+          "その点の場合 → không rõ 'điểm' nào, không tự nhiên. Sai.",
+          "ランチの場合 → trường hợp bữa trưa. ĐÚNG.",
+          "夜の営業の場合 → bài nói bữa trưa rẻ, không phải buổi tối. Sai."
+        ],
+        "vocab": [
+          {
+            "w": "絞る",
+            "r": "しぼる",
+            "hv": "GIẢO",
+            "vi": "thu hẹp, vắt"
+          },
+          {
+            "w": "光熱費",
+            "r": "こうねつひ",
+            "hv": "QUANG NHIỆT PHÍ",
+            "vi": "tiền điện, ga"
+          },
+          {
+            "w": "利益",
+            "r": "りえき",
+            "hv": "LỢI ÍCH",
+            "vi": "lợi nhuận"
+          }
+        ],
+        "grammar": null,
+        "evidence": "（ 52 ）、メニューをいくつかに絞るという方法で、コストをおさえているケースが多い。",
+        "tip": "Đề in phương án 2 là 「その点の場」 (thiếu chữ), ở đây ghi là 「その点の場合」."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p1",
+      "stem": "（53）に入るもの",
+      "options": [
+        "いうわけだ",
+        "いう点か",
+        "いうくらいだ",
+        "いうからか"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Vì vậy, đó là lý do có thể làm giá rẻ được.",
+        "why": "「そのため、～というわけだ」 = vì thế nên mới ~ (kết luận rút ra từ lý do vừa nêu). Đây là câu tổng kết cho đoạn giải thích về chi phí.",
+        "options": [
+          "いうわけだ → nghĩa là, thế nên ~ (kết luận). ĐÚNG.",
+          "いう点か → câu hỏi 'điểm ~ ư?', không hợp. Sai.",
+          "いうくらいだ → đến mức nói rằng ~ (mức độ). Sai.",
+          "いうからか → có lẽ vì nói rằng ~. Sai."
+        ],
+        "vocab": [
+          {
+            "w": "手間",
+            "r": "てま",
+            "hv": "THỦ GIAN",
+            "vi": "công sức, thời gian"
+          },
+          {
+            "w": "調理",
+            "r": "ちょうり",
+            "hv": "ĐIỀU LÝ",
+            "vi": "nấu nướng"
+          }
+        ],
+        "grammar": {
+          "pattern": "～というわけだ",
+          "meaning": "nghĩa là / thế nên ~ (kết luận hợp lý)",
+          "form": "Thể thường + というわけだ",
+          "example": "毎日練習した。だから上手になったというわけだ。"
+        },
+        "evidence": "メニューが少なければ、準備や調理に手間がかからず、多くの料理人を働かせる必要もない。そのため、安くすることができると（ 53 ）。",
+        "tip": "そのため／だから … わけだ là cặp hay đi cùng."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p1",
+      "stem": "（54）に入るもの",
+      "options": [
+        "ランチではあったか",
+        "ランチなのである",
+        "ランチなのではないだろう",
+        "ランチではないのではないか"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Đối với quán ăn, bữa trưa vừa mang lại lợi nhuận vừa thu hút được khách, quả thật là một bữa trưa 'ngon' (béo bở).",
+        "why": "Câu kết luận khẳng định mạnh ý chính của bài → 「～なのである」. 「おいしい」 trong ngoặc là chơi chữ: vừa 'ngon' vừa 'có lợi'.",
+        "options": [
+          "ランチではあったか → dạng nghi vấn quá khứ, không hợp câu kết. Sai.",
+          "ランチなのである → chính là bữa trưa ~ (khẳng định). ĐÚNG.",
+          "ランチなのではないだろう → có lẽ không phải ~: phủ định, trái ý bài. Sai.",
+          "ランチではないのではないか → chẳng phải là không phải ~ sao: phủ định, trái ý. Sai."
+        ],
+        "vocab": [
+          {
+            "w": "獲得",
+            "r": "かくとく",
+            "hv": "HOẠCH ĐẮC",
+            "vi": "giành được, thu được"
+          },
+          {
+            "w": "おいしい",
+            "r": "おいしい",
+            "hv": "",
+            "vi": "ngon; (nghĩa bóng) béo bở, có lợi"
+          }
+        ],
+        "grammar": {
+          "pattern": "～のである",
+          "meaning": "chính là ~ (khẳng định, kết luận trong văn viết)",
+          "form": "N／Naな + のである; V／Aい + のである",
+          "example": "努力こそが成功への道なのである。"
+        },
+        "evidence": "飲食店にとって、利益が上げられ、さらに客も獲得できるランチは、「おいしい」（ 54 ）。",
+        "tip": "Câu cuối bài văn thường là kết luận khẳng định → chọn のである."
+      }
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "exam": "2014-12",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（1）から（3）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn từ (1) đến (3) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "以下は、これから就職する人に対して書かれた文章である。\n\n好きなことをしてもお金にはならない、というのがふつうの考え方です。一日中ただ好きなゲームをしていてよい、などという職業はありません。でもじつは自分の「好き」をきわめる（注1）とかならずそこにだれかほかの人のニーズがあって、仕事があるということを覚えておいてください。\n（中略）\nいまは人びとの「好き」が多様化しつつある時代です。食べ物の好みや服の好みだけではありません。細かいライフスタイルのちがいに人びとが価値を見いだす（注2）ような時代です。カタログにないもっとちがう商品はないだろうか？これとあれの中間のサービスはないだろうか？といったぐあいです。\nこれまで大きな企業が機械的にマーケティング（注3）をして提供してきたような「売れる商品」「売れるサービス」では対応しきれないようなモノ、サービス。これを「ニッチ（すき間）」とよぶことがあります。いまはまさに（注4）このニッチが広がりつつある時代です。\nこうしたニッチに気づくことができるのは、何かが「好き」な人です。自分の好みを突き進めていくと、そこに何かの不足を感じる。その不足がじつはほかの人も欲しがっていた何かかもしれない、というわけです。\n何かを好きな人ほど、何かに不足を感じている人ほど、それを仕事に変えていくことのできる可能性があります。\n（梅澤正・脇坂敦史『「働く」を考える』による）\n（注1）きわめる：ここでは、徹底的に追い求める\n（注2）見いだす：ここでは、認める\n（注3）マーケティング：市場調査\n（注4）まさに：ちょうど"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "「きみに10億円やるから、好きなように使ってみなさい」\nそう言われたら、実は困ってしまう人がけっこう多いんじゃないだろうか。\n家を買って、車を買って、海外旅行して…。そんなみみっちい（注1）ことを考えていたら、10億円は使い切れない。個人が10億円使うというのは、実は大変なことである。\n「10億円あったら…」といつも考えながら、夢を描いてみたらどうだろう。\nといっても、10億円を手にする（注2）など想像したこともないから、最初はリアリティーを感じない（注3）だろう。しかし、じっと考えていると、心の奥底にしまっていた①<u>“本当にやりたいこと”が見えてくるはずだ</u>。それがあなたの夢である。\n「いくら夢を描いたところで、実際には10億円も稼げないんだから仕方ない」\nあなたは、そう考えるだろうか。それは違う。たしかに10億円稼ぐのは不可能かもしれない。しかし、②<u>10億円の夢を描けば、10億円を手にすることは可能なのだ</u>。\nそれは、あなたの夢に賛同する（注4）人があらわれるからだ。夢に向かっていくあなたの真摯な（注5）姿勢に賛同して「お金を出そう」と言い出す人もいるかもしれない。「一緒にやろう」と協力を申し出る人もいるかもしれない。\n大切なのは、10億円を稼ぐ人間になることではなく、10億円分の夢を描くこと。そしてその大きい夢に見合う（注6）だけの大きい人間になっておくことである。\n（山本寛斎『熱き心―寛斎の熱血語10ヵ条』による）\n（注1）みみっちい：ここでは、小さい\n（注2）手にする：ここでは、自分のものにする\n（注3）リアリティーを感じない：現実感がない\n（注4）〜に賛同する：ここでは、〜を理解して賛成する\n（注5）真摯な：まじめで一生懸命な\n（注6）見合う：釣り合う"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "いい文章はそれを読む者に充実した時間をつくり出す。知識が人を喜ばせる必要はない。技巧（注1）が人を楽しませる必要はない。人を利口にし、快く酔わせるよりも、それを読んで本当によかったと思わせる文章を書こう。\n文章にとって何よりも大事なのは、すぐれた内容としてそのまま相手に伝わることである。したがって、いい文章には「いい内容」と「いい表現」という二つの側面がある。\nどれほど凝った多彩な表現が繰り広げられ（注2）ても、その奥にある内容がつまらなければ、文章全体として価値が低い。それでは、いい内容はどのようにして生まれるのだろうか。すぐれた内容を生み出す特定の手段のようなものは考えられない。小手先（注3）の技術といったものは役に立たない。自分を取り巻いて（注4）果てしなく広がる（注5）世界のどこをどう切り取るか、それをどこまでよく見、よく考え、よく味わうか、そういうほとんどその人間の生き方とも言えるものがそこにかかわっているからである。豊かな内容は深く生きることをとおして自然に湧き出る（注6）のだろう。\n一方、どれほどすぐれた思考内容が頭のなかにあったとしても、それが直接人の心を打つことはできない。というよりも、言語の形をとることによって、それがすぐれた思考であることがはじめて確認できるのである。その意味で、文章表現は半ば発見であり、半ば創造である。いい内容がいい表現の形で実現し、いい文章になる。逆に言えば、すぐれたことばの姿をとおしてしか、すぐれた内容というものの存在を知ることはできないのである。\n（中村明『日本語の美―書くヒント』による）\n（注1）技巧：すぐれた表現技術\n（注2）繰り広げる：ここでは、次々に使う\n（注3）小手先：ここでは、その時だけのちょっとした\n（注4）自分を取り巻く：ここでは、自分の周りにある\n（注5）果てしなく広がる：ここでは、どこまでも広がる\n（注6）湧き出る：生まれ出る"
+    }
+  ],
+  "questions": [
+    {
+      "num": 60,
+      "passage": "p1",
+      "stem": "筆者によると、いまはどのような時代か。",
+      "options": ["人びとがこれまで好きではなかったものにも価値を感じるようになっている。", "人びとが自身の価値観に合ったものを探し求めるようになっている。", "人びとのライフスタイルのちがいがわかりやすくなっている。", "人びとがお金で買えないものを欲しがるようになっている。"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo tác giả, bây giờ là thời đại như thế nào? → Con người đang tìm kiếm những thứ phù hợp với giá trị quan của bản thân.",
+        "why": "Bài nói 'sở thích của mọi người đang đa dạng hóa', 'người ta tìm thấy giá trị ở những khác biệt nhỏ trong lối sống', và luôn hỏi 'có sản phẩm nào khác không có trong catalogue không?' → tìm thứ hợp với mình.",
+        "options": [
+          "Thấy giá trị ở cả những thứ trước đây không thích → bài không nói. Sai.",
+          "Tìm kiếm thứ hợp với giá trị quan của bản thân. ĐÚNG.",
+          "Sự khác biệt lối sống trở nên dễ nhận ra → bài nói người ta coi trọng khác biệt, không phải 'dễ hiểu'. Sai.",
+          "Muốn những thứ không mua được bằng tiền → không có trong bài. Sai."
+        ],
+        "vocab": [
+          { "w": "多様化", "r": "たようか", "hv": "ĐA DẠNG HÓA", "vi": "đa dạng hóa" },
+          { "w": "見いだす", "r": "みいだす", "hv": "KIẾN", "vi": "tìm ra, nhận thấy" },
+          { "w": "価値観", "r": "かちかん", "hv": "GIÁ TRỊ QUAN", "vi": "quan niệm giá trị" },
+          { "w": "探し求める", "r": "さがしもとめる", "hv": "THÁM CẦU", "vi": "tìm kiếm" }
+        ],
+        "grammar": {
+          "pattern": "〜つつある",
+          "meaning": "đang dần ~",
+          "form": "Vます(bỏ ます) + つつある",
+          "example": "人びとの「好き」が多様化しつつある。（Sở thích của mọi người đang dần đa dạng hóa.）"
+        },
+        "evidence": "いまは人びとの「好き」が多様化しつつある時代です。…細かいライフスタイルのちがいに人びとが価値を見いだすような時代です。カタログにないもっとちがう商品はないだろうか？",
+        "tip": null
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p1",
+      "stem": "好みを突き進めた人がニッチに気づくことができるのはなぜか。",
+      "options": ["ほかの人より先に時代の変化を感じ取れる可能性があるから。", "ほかの人から自身が知らないことを教えてもらえる可能性があるから。", "自身の持つ情報が、ほかの人に不足である情報かもしれないから。", "自身の感じる不足がほかのひとが感じる不足であるかもしれないから。"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tại sao người theo đuổi đến cùng sở thích của mình lại nhận ra được 'ngách' (niche)? → Vì cái thiếu mà mình cảm thấy có thể cũng là cái thiếu mà người khác cảm thấy.",
+        "why": "Theo đuổi sở thích → cảm thấy 'thiếu' một thứ gì đó → cái thiếu đó có thể chính là thứ người khác cũng muốn. Đó là 'ngách' thị trường.",
+        "options": [
+          "Cảm nhận thay đổi của thời đại sớm hơn người khác → bài không nói. Sai.",
+          "Được người khác dạy điều mình chưa biết → không có. Sai.",
+          "Thông tin mình có là thông tin người khác thiếu → bài nói về 'cảm giác thiếu', không phải 'thông tin mình có'. Sai.",
+          "Cái thiếu mình cảm thấy có thể là cái thiếu của người khác. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "突き進める", "r": "つきすすめる", "hv": "ĐỘT TIẾN", "vi": "theo đuổi đến cùng" },
+          { "w": "不足", "r": "ふそく", "hv": "BẤT TÚC", "vi": "thiếu, sự thiếu hụt" },
+          { "w": "ニッチ", "r": "にっち", "hv": "", "vi": "ngách (thị trường), khe hở" },
+          { "w": "欲しがる", "r": "ほしがる", "hv": "DỤC", "vi": "(người khác) muốn có" }
+        ],
+        "grammar": {
+          "pattern": "〜というわけです",
+          "meaning": "nghĩa là, đó là lý do (giải thích, kết luận)",
+          "form": "普通形 + というわけだ",
+          "example": "だから遅れたというわけです。（Vì vậy nên đến muộn đấy.）"
+        },
+        "evidence": "自分の好みを突き進めていくと、そこに何かの不足を感じる。その不足がじつはほかの人も欲しがっていた何かかもしれない、というわけです。",
+        "tip": "Bẫy phương án 3: thay 'cảm giác thiếu' bằng 'thông tin' — chú ý từ khóa 不足を感じる."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p1",
+      "stem": "この文章で筆者が言いたいことは何か。",
+      "options": ["好みが多様化しているのでいろいろな仕事ができる。", "ほかの人が思いつかない仕事を探すほうがいい。", "好きではない仕事でもいつか好きになる。", "好きなことでも仕事に結びつく。"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Điều tác giả muốn nói nhất là gì? → Ngay cả việc mình thích cũng có thể gắn với công việc.",
+        "why": "Mở bài phản bác quan niệm 'làm việc mình thích thì không ra tiền': theo đuổi điều mình thích đến cùng thì chắc chắn có nhu cầu của người khác, có công việc. Kết bài: càng thích điều gì càng có khả năng biến nó thành công việc.",
+        "options": [
+          "Vì sở thích đa dạng nên làm được nhiều việc → không phải ý chính. Sai.",
+          "Nên tìm việc người khác không nghĩ ra → bài không khuyên như vậy. Sai.",
+          "Việc không thích rồi cũng sẽ thích → không có. Sai.",
+          "Việc mình thích cũng có thể gắn với công việc. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "結びつく", "r": "むすびつく", "hv": "KẾT", "vi": "gắn kết, liên kết với" },
+          { "w": "きわめる", "r": "きわめる", "hv": "CỰC", "vi": "theo đuổi triệt để" },
+          { "w": "ニーズ", "r": "にーず", "hv": "", "vi": "nhu cầu (needs)" },
+          { "w": "職業", "r": "しょくぎょう", "hv": "CHỨC NGHIỆP", "vi": "nghề nghiệp" }
+        ],
+        "grammar": {
+          "pattern": "〜ほど",
+          "meaning": "càng ~ càng ~",
+          "form": "N／Vる + ほど",
+          "example": "何かを好きな人ほど、それを仕事に変えられる。（Người càng thích điều gì càng có thể biến nó thành công việc.）"
+        },
+        "evidence": "でもじつは自分の「好き」をきわめるとかならずそこにだれかほかの人のニーズがあって、仕事があるということを覚えておいてください。／何かを好きな人ほど、何かに不足を感じている人ほど、それを仕事に変えていくことのできる可能性があります。",
+        "tip": "Ý chính thường nằm ở đầu (sau でも) và được nhắc lại ở câu cuối."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p2",
+      "stem": "①<u>“本当にやりたいこと”が見えてくるはずだ</u>とあるが、どうすれば見えてくるか。",
+      "options": ["10億円よりも想像しやすい金額から夢を考え始める。", "10億円を使い切るには、どうすればいいかを考える。", "10億円あれば実現できることを常に考える。", "10億円を稼いだ自分の姿を想像し続ける。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Bài viết 'điều mình thực sự muốn làm chắc chắn sẽ hiện ra', vậy làm thế nào để nó hiện ra? → Luôn suy nghĩ về những điều có thể thực hiện nếu có 1 tỷ yên.",
+        "why": "Tác giả khuyên: 'luôn nghĩ \"nếu có 1 tỷ yên thì…\" và vẽ ra ước mơ'; 'nếu suy nghĩ kỹ' thì điều thực sự muốn làm sẽ hiện ra. → Thường xuyên nghĩ về những gì 1 tỷ yên có thể thực hiện.",
+        "options": [
+          "Bắt đầu từ số tiền dễ tưởng tượng hơn → bài không khuyên. Sai.",
+          "Nghĩ cách tiêu hết 1 tỷ yên → bài chỉ nói nghĩ chuyện nhỏ thì không tiêu hết; trọng tâm là 'ước mơ', không phải cách tiêu tiền. Sai.",
+          "Luôn nghĩ về điều có thể thực hiện nếu có 1 tỷ yên. ĐÚNG.",
+          "Tưởng tượng hình ảnh mình đã kiếm được 1 tỷ yên → tác giả nói việc kiếm 1 tỷ yên không quan trọng. Sai."
+        ],
+        "vocab": [
+          { "w": "夢を描く", "r": "ゆめをえがく", "hv": "MỘNG MIÊU", "vi": "vẽ ra ước mơ" },
+          { "w": "奥底", "r": "おくそこ", "hv": "ÁO ĐỂ", "vi": "tận sâu thẳm" },
+          { "w": "使い切る", "r": "つかいきる", "hv": "SỬ THIẾT", "vi": "dùng hết" },
+          { "w": "常に", "r": "つねに", "hv": "THƯỜNG", "vi": "luôn luôn" }
+        ],
+        "grammar": {
+          "pattern": "〜てみたらどうだろう",
+          "meaning": "thử ~ xem sao (gợi ý, đề xuất)",
+          "form": "Vて + みたらどうだろう",
+          "example": "一度先生に相談してみたらどうだろう。（Thử bàn với thầy một lần xem sao.）"
+        },
+        "evidence": "「10億円あったら…」といつも考えながら、夢を描いてみたらどうだろう。…しかし、じっと考えていると、心の奥底にしまっていた“本当にやりたいこと”が見えてくるはずだ。",
+        "tip": "いつも考えながら ↔ 常に考える: tìm cách diễn đạt lại (paraphrase)."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p2",
+      "stem": "②<u>10億円の夢を描けば、10億円を手にすることは可能なのだ</u>とあるが、なぜか。",
+      "options": ["10億円の稼ぎ方を教えてくれる人があらわれるかもしれないから", "10億円を稼ぐための具体的な行動を起こせるかもしれないから", "夢を実現するうえで、誰が必要かわかるようになるかもしれないから", "夢の実現を助けてくれる人があらわれるかもしれないから"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tại sao 'nếu vẽ ra ước mơ 1 tỷ yên thì có thể có được 1 tỷ yên'? → Vì có thể sẽ xuất hiện người giúp mình thực hiện ước mơ.",
+        "why": "Câu ngay sau giải thích lý do (それは〜からだ): sẽ xuất hiện người tán thành ước mơ, có người bỏ tiền, có người xin hợp tác → người giúp thực hiện ước mơ.",
+        "options": [
+          "Người dạy cách kiếm 1 tỷ yên → bài nói người 'bỏ tiền/hợp tác', không phải dạy cách kiếm. Sai.",
+          "Có thể hành động cụ thể để kiếm 1 tỷ → không có. Sai.",
+          "Biết được cần ai để thực hiện ước mơ → không có. Sai.",
+          "Xuất hiện người giúp thực hiện ước mơ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "賛同", "r": "さんどう", "hv": "TÁN ĐỒNG", "vi": "tán thành, đồng tình" },
+          { "w": "真摯", "r": "しんし", "hv": "CHÂN CHÍ", "vi": "nghiêm túc, chân thành" },
+          { "w": "協力", "r": "きょうりょく", "hv": "HIỆP LỰC", "vi": "hợp tác" },
+          { "w": "申し出る", "r": "もうしでる", "hv": "THÂN XUẤT", "vi": "đề nghị, xin (làm gì)" }
+        ],
+        "grammar": {
+          "pattern": "それは〜からだ",
+          "meaning": "đó là vì ~ (giải thích lý do cho câu trước)",
+          "form": "それは + 普通形 + からだ",
+          "example": "会議に遅れた。それは、電車が止まったからだ。（Tôi đến họp muộn. Đó là vì tàu bị dừng.）"
+        },
+        "evidence": "それは、あなたの夢に賛同する人があらわれるからだ。夢に向かっていくあなたの真摯な姿勢に賛同して「お金を出そう」と言い出す人もいるかもしれない。「一緒にやろう」と協力を申し出る人もいるかもしれない。",
+        "tip": "Câu hỏi なぜ cho đoạn gạch chân → đọc ngay câu sau, thường có それは〜からだ."
+      }
+    },
+    {
+      "num": 65,
+      "passage": "p2",
+      "stem": "この文章で筆者が言いたいことは何か。",
+      "options": ["大きい夢を描いて、その夢にふさわしい人間になることが大切だ。", "大きい夢を描いて、努力によってその夢を実現することが大切だ。", "大きい人間になることで、大きい夢を描くことができるようになる。", "大きい人間になれるかどうかは、大きい夢が描けるかどうかで決まる。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều tác giả muốn nói là gì? → Điều quan trọng là vẽ ra ước mơ lớn và trở thành con người xứng đáng với ước mơ đó.",
+        "why": "Câu kết: điều quan trọng là vẽ ước mơ cỡ 1 tỷ yên, và trở thành con người lớn 'tương xứng' (見合う = ふさわしい) với ước mơ lớn đó.",
+        "options": [
+          "Vẽ ước mơ lớn và trở thành người xứng đáng với nó. ĐÚNG.",
+          "Tự nỗ lực thực hiện ước mơ → bài nhấn mạnh có người khác giúp, không phải tự thực hiện. Sai.",
+          "Trở thành người lớn trước rồi mới vẽ được ước mơ lớn → đảo ngược thứ tự. Sai.",
+          "Có thành người lớn hay không phụ thuộc vào việc vẽ được ước mơ lớn → không phải ý bài. Sai."
+        ],
+        "vocab": [
+          { "w": "見合う", "r": "みあう", "hv": "KIẾN HỢP", "vi": "tương xứng, cân xứng" },
+          { "w": "ふさわしい", "r": "ふさわしい", "hv": "", "vi": "xứng đáng, phù hợp" },
+          { "w": "稼ぐ", "r": "かせぐ", "hv": "GIÁ", "vi": "kiếm (tiền)" }
+        ],
+        "grammar": {
+          "pattern": "AではなくB ／ 〜に見合うだけの",
+          "meaning": "không phải A mà là B; đủ để tương xứng với ~",
+          "form": "Nに + 見合うだけの + N",
+          "example": "給料に見合うだけの仕事をする。（Làm việc tương xứng với tiền lương.）"
+        },
+        "evidence": "大切なのは、10億円を稼ぐ人間になることではなく、10億円分の夢を描くこと。そしてその大きい夢に見合うだけの大きい人間になっておくことである。",
+        "tip": "大切なのは〜 ở cuối bài = ý chính của tác giả."
+      }
+    },
+    {
+      "num": 66,
+      "passage": "p3",
+      "stem": "筆者は、読者のためにどのような文章を書けばよいと考えているか。",
+      "options": ["読んだ後に満足感が得られるもの。", "読んだ後に利口になった気分になるもの。", "時間をつくってでも読みたくなるもの。", "表現が凝っていて読みごたえがあるもの。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tác giả nghĩ nên viết văn như thế nào cho người đọc? → Văn mà đọc xong cảm thấy thỏa mãn.",
+        "why": "'Văn hay tạo ra khoảng thời gian trọn vẹn cho người đọc' và 'hãy viết văn khiến người ta đọc xong nghĩ thật là tốt khi đã đọc' → mang lại cảm giác thỏa mãn.",
+        "options": [
+          "Đọc xong có cảm giác thỏa mãn. ĐÚNG.",
+          "Đọc xong thấy mình thông minh hơn → tác giả nói không cần 'làm người ta thông minh' (人を利口にし…よりも). Sai.",
+          "Muốn đọc dù phải dành thời gian → bẫy từ 時間をつくり出す; không phải ý này. Sai.",
+          "Biểu đạt cầu kỳ, đọc đáng giá → tác giả nói kỹ xảo không cần làm người ta thích thú. Sai."
+        ],
+        "vocab": [
+          { "w": "充実", "r": "じゅうじつ", "hv": "SUNG THỰC", "vi": "đầy đủ, trọn vẹn" },
+          { "w": "満足感", "r": "まんぞくかん", "hv": "MÃN TÚC CẢM", "vi": "cảm giác thỏa mãn" },
+          { "w": "利口", "r": "りこう", "hv": "LỢI KHẨU", "vi": "thông minh, lanh lợi" },
+          { "w": "技巧", "r": "ぎこう", "hv": "KỸ XẢO", "vi": "kỹ xảo" }
+        ],
+        "grammar": {
+          "pattern": "AよりもB",
+          "meaning": "B hơn là A (ưu tiên B)",
+          "form": "Vる + よりも",
+          "example": "話すよりも聞くことが大切だ。（Lắng nghe quan trọng hơn là nói.）"
+        },
+        "evidence": "いい文章はそれを読む者に充実した時間をつくり出す。…人を利口にし、快く酔わせるよりも、それを読んで本当によかったと思わせる文章を書こう。",
+        "tip": "Bẫy phương án 3 lặp lại từ '時間をつくる' trong bài nhưng nghĩa khác hoàn toàn."
+      }
+    },
+    {
+      "num": 67,
+      "passage": "p3",
+      "stem": "筆者によると、いい内容はどうすることで生まれるか。",
+      "options": ["さまざまな人間の生き方を知ることで", "世界中のことを広く知ることで", "人生を深く生きることで", "深い知識を得ることで"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Theo tác giả, nội dung hay được sinh ra bằng cách nào? → Bằng cách sống sâu sắc.",
+        "why": "Không có phương pháp cụ thể; điều liên quan là 'cách sống của chính người đó'. 'Nội dung phong phú tự nhiên trào ra thông qua việc sống sâu sắc'.",
+        "options": [
+          "Biết về cách sống của nhiều người → bài nói cách sống của chính mình. Sai.",
+          "Biết rộng về mọi điều trên thế giới → bài nói cắt lấy phần nào và nhìn sâu, không phải biết rộng. Sai.",
+          "Sống cuộc đời một cách sâu sắc. ĐÚNG.",
+          "Có kiến thức sâu → không có; tác giả còn nói kiến thức không cần làm người ta vui. Sai."
+        ],
+        "vocab": [
+          { "w": "湧き出る", "r": "わきでる", "hv": "DŨNG XUẤT", "vi": "trào ra, tuôn ra" },
+          { "w": "豊か", "r": "ゆたか", "hv": "PHONG", "vi": "phong phú, giàu có" },
+          { "w": "小手先", "r": "こてさき", "hv": "TIỂU THỦ TIÊN", "vi": "mánh khóe, kỹ thuật vặt" },
+          { "w": "生き方", "r": "いきかた", "hv": "SINH PHƯƠNG", "vi": "cách sống" }
+        ],
+        "grammar": {
+          "pattern": "〜をとおして",
+          "meaning": "thông qua ~",
+          "form": "N／Vること + をとおして（を通して）",
+          "example": "経験をとおして学ぶ。（Học thông qua trải nghiệm.）"
+        },
+        "evidence": "豊かな内容は深く生きることをとおして自然に湧き出るのだろう。",
+        "tip": null
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p3",
+      "stem": "内容と表現の関係について、筆者はどのように述べているか。",
+      "options": ["いい表現であれば、どのような内容でも人の心を打つ。", "いい表現の形をとることで、いい内容が人に伝わる。", "いい表現を創造することで、さらにいい内容になる。", "いい表現は、すぐれた内容であれば自然に生まれる。"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Về mối quan hệ giữa nội dung và cách biểu đạt, tác giả nói thế nào? → Nhờ mang hình thức biểu đạt hay mà nội dung hay được truyền đến người khác.",
+        "why": "Dù suy nghĩ hay đến đâu cũng không trực tiếp chạm đến lòng người; chỉ khi mang hình thức ngôn ngữ mới xác nhận được. 'Nội dung hay được hiện thực hóa dưới hình thức biểu đạt hay' và 'chỉ thông qua ngôn từ xuất sắc mới biết được nội dung xuất sắc'.",
+        "options": [
+          "Biểu đạt hay thì nội dung nào cũng chạm lòng người → ngược bài (nội dung chán thì giá trị thấp). Sai.",
+          "Mang hình thức biểu đạt hay thì nội dung hay mới truyền đến người khác. ĐÚNG.",
+          "Sáng tạo biểu đạt hay thì nội dung càng hay hơn → bài không nói biểu đạt làm nội dung hay thêm. Sai.",
+          "Nội dung hay thì biểu đạt hay tự nhiên sinh ra → bài nói suy nghĩ hay vẫn cần mang hình thức ngôn ngữ. Sai."
+        ],
+        "vocab": [
+          { "w": "表現", "r": "ひょうげん", "hv": "BIỂU HIỆN", "vi": "biểu đạt, cách diễn đạt" },
+          { "w": "心を打つ", "r": "こころをうつ", "hv": "TÂM ĐẢ", "vi": "chạm đến lòng người" },
+          { "w": "創造", "r": "そうぞう", "hv": "SÁNG TẠO", "vi": "sáng tạo" },
+          { "w": "半ば", "r": "なかば", "hv": "BÁN", "vi": "một nửa" }
+        ],
+        "grammar": {
+          "pattern": "〜てしか〜ない／〜をとおしてしか〜ない",
+          "meaning": "chỉ có thể ~ bằng cách ~",
+          "form": "N + をとおしてしか + V(ない)",
+          "example": "経験をとおしてしかわからないこともある。（Có những điều chỉ hiểu được qua trải nghiệm.）"
+        },
+        "evidence": "いい内容がいい表現の形で実現し、いい文章になる。逆に言えば、すぐれたことばの姿をとおしてしか、すぐれた内容というものの存在を知ることはできないのである。",
+        "tip": "逆に言えば… thường là câu tóm ý then chốt."
+      }
+    }
+  ]
+}

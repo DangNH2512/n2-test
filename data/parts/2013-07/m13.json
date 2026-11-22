@@ -1,0 +1,113 @@
+{
+  "exam": "2013-07",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn sau và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "この数十年の変化の中で、もっとも大きく変わったものは何かと問われると、私は人生の選択肢が飛躍的に（注１）増え、さらにその選択をする自由度が高まったことではないかと答えます。\n（中略）\n親が決めたレールや、こうあるべきだという社会通念（注２）は、極端に少なくなり、どんな生き方も肯定される、そんな時代になったと思います。各人が自分の責任において、自分の生き方を選ぶことができるようになったのです。\nところが、①<u>この状況</u>が人を幸せにしているとは必ずしも言えないというのが現状です。選択肢の数の増加と同じだけ、“これでいいのだろうか…”という迷いも増えました。迷って選択ができない、あるいは選択したけれど間違ったと思う…。そんな人たちが増えてしまったのです。\n何かを得ようとして選択したことで、何かを失ってしまったかもしれない。本当は別の幸せがあったのかもしれないのに、自分はそのチャンスを逃してしまったのかもしれない。本当の自分は、こんな自分じゃなかったのではないだろうか。\n他の人とくらべて、自分の人生が劣っているのではないか、失敗だったのではないかと考えてしまう。こうやって自分を追い込み、自分の人生に自信がもてなくなる。そんな人をたくさん生んでしまったのではないでしょうか。\n②<u>生き方なんてこれしかないと言われたほうが、実はラクなのかもしれません。</u>その中で、精一杯生きれば良いからです。でも、生き方はいくらでもあると言われたら、迷うのは当然のことだと思います。\nでも大事なことはやはり、何をするかではなく、どう生きるかなのではないでしょうか。どんな選択をしようと、これが正解だなんてものは誰にも決められません。決められるとしたら、それは本人がそう思い込めるかだけです。\nだとすると、本人が自分の選択が良かったと素直に思える、あるいはその選択がどうであれ、自分は良く頑張った、精一杯やったと心から思えることが大切なのではないでしょうか。\n人生の選択肢の多さに惑わされないで（注３）ください。いま自分が何をしているかで、自分の人生を判断しないでください。大切なのは、何をしているのかではなく、どう生きているかなのですから。どう生きるかは、いまからでもすぐに変えられるのですから。\n（高橋克徳『潰れない生き方』による）\n（注１）飛躍的に：大幅に\n（注２）社会通念：広く社会に受け入れられている常識\n（注３）惑わされないで：ここでは、迷わされないで"
+    }
+  ],
+  "questions": [
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "①<u>この状況</u>とはどんな状況か。",
+      "options": [
+        "自分の生き方を自分で決められる。",
+        "自分らしい生き方が高く評価される。",
+        "親に決められた生き方を信じられる。",
+        "限られた選択肢の中で生き方を選べる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "'Tình trạng này' là tình trạng gì? → Có thể tự mình quyết định cách sống của mình.",
+        "why": "この状況 chỉ câu ngay trước: 各人が自分の責任において、自分の生き方を選ぶことができるようになった (mỗi người có thể tự chọn cách sống của mình).",
+        "options": [
+          "Tự quyết định cách sống của mình. ĐÚNG.",
+          "Cách sống riêng được đánh giá cao → bài nói 'được chấp nhận' (肯定), không phải 'đánh giá cao'. Sai.",
+          "Tin vào cách sống bố mẹ định → ngược lại, đường ray bố mẹ đặt đã giảm. Sai.",
+          "Chọn trong số lựa chọn hạn chế → ngược lại, lựa chọn tăng vọt. Sai."
+        ],
+        "vocab": [
+          { "w": "選択肢", "r": "せんたくし", "hv": "TUYỂN TRẠCH CHI", "vi": "các lựa chọn" },
+          { "w": "社会通念", "r": "しゃかいつうねん", "hv": "XÃ HỘI THÔNG NIỆM", "vi": "quan niệm chung của xã hội" },
+          { "w": "肯定", "r": "こうてい", "hv": "KHẲNG ĐỊNH", "vi": "chấp nhận, khẳng định" },
+          { "w": "極端", "r": "きょくたん", "hv": "CỰC ĐOAN", "vi": "cực độ" }
+        ],
+        "grammar": null,
+        "evidence": "各人が自分の責任において、自分の生き方を選ぶことができるようになったのです。ところが、この状況が人を幸せにしているとは必ずしも言えないというのが現状です。",
+        "tip": "この～ thường chỉ nội dung câu ngay phía trước."
+      }
+    },
+    {
+      "num": 72,
+      "passage": "p1",
+      "stem": "②<u>生き方なんてこれしかないと言われたほうが、実はラクなのかもしれません</u>とあるが、なぜか。",
+      "options": [
+        "自分の生き方で迷わなくて済むから",
+        "自分の生き方が正しいと常に感じられるから",
+        "人生の意味について考えなくて済むから",
+        "人生に失敗してもあきらめがつくから"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tại sao 'nếu bị bảo cách sống chỉ có một thì có lẽ thực ra lại nhẹ nhõm hơn'? → Vì không phải băn khoăn về cách sống của mình.",
+        "why": "Ngay sau đó: chỉ cần sống hết mình trong khuôn khổ đó; còn nếu bảo có vô số cách sống thì 'băn khoăn là đương nhiên'. Vậy 'nhẹ nhõm' vì không phải phân vân.",
+        "options": [
+          "Không phải phân vân về cách sống. ĐÚNG.",
+          "Luôn cảm thấy cách sống của mình đúng → không nói. Sai.",
+          "Không phải nghĩ về ý nghĩa cuộc đời → không nói. Sai.",
+          "Thất bại cũng cam chịu được → không nói. Sai."
+        ],
+        "vocab": [
+          { "w": "ラク（楽）", "r": "らく", "hv": "LẠC", "vi": "nhẹ nhõm, thoải mái" },
+          { "w": "精一杯", "r": "せいいっぱい", "hv": "TINH NHẤT BÔI", "vi": "hết sức mình" },
+          { "w": "迷う", "r": "まよう", "hv": "MÊ", "vi": "phân vân, lạc lối" }
+        ],
+        "grammar": {
+          "pattern": "～ずに済む／～なくて済む",
+          "meaning": "không cần phải ..., khỏi phải ...",
+          "form": "Vない＋なくて済む",
+          "example": "友達が手伝ってくれたので、徹夜しなくて済んだ。(Nhờ bạn giúp nên tôi khỏi phải thức trắng đêm.)"
+        },
+        "evidence": "その中で、精一杯生きれば良いからです。でも、生き方はいくらでもあると言われたら、迷うのは当然のことだと思います。",
+        "tip": null
+      }
+    },
+    {
+      "num": 73,
+      "passage": "p1",
+      "stem": "この文章で筆者が最も言いたいことは何か。",
+      "options": [
+        "人生において、社会に通用する生き方を探すことが大切だ。",
+        "他の人と比べずに、自分らしい人生を選んだほうがいい。",
+        "どんな人生を選ぶかより、選んだ人生をどう生きるかが大切だ。",
+        "人生の選択を間違えたと思ったら、柔軟に生き方を変えたほうがいい。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều tác giả muốn nói nhất là gì? → Quan trọng không phải chọn cuộc đời nào mà là sống cuộc đời đã chọn như thế nào.",
+        "why": "Tác giả lặp lại nhiều lần: 何をするかではなく、どう生きるか (không phải làm gì mà là sống thế nào). Câu kết cũng nhấn mạnh 'điều quan trọng là bạn đang sống như thế nào'.",
+        "options": [
+          "Tìm cách sống được xã hội chấp nhận → không nói. Sai.",
+          "Chọn cuộc đời 'của riêng mình' → tác giả nhấn mạnh 'sống thế nào', không phải 'chọn gì'. Sai.",
+          "Sống cuộc đời đã chọn thế nào quan trọng hơn chọn gì. ĐÚNG.",
+          "Thấy chọn sai thì đổi cách sống → bài nói 'cách sống' có thể đổi ngay, nhưng không phải ý chính là đổi lựa chọn. Sai."
+        ],
+        "vocab": [
+          { "w": "惑わす", "r": "まどわす", "hv": "HOẶC", "vi": "làm cho mê muội, làm phân vân" },
+          { "w": "判断", "r": "はんだん", "hv": "PHÁN ĐOÁN", "vi": "phán đoán, đánh giá" },
+          { "w": "正解", "r": "せいかい", "hv": "CHÍNH GIẢI", "vi": "đáp án đúng" },
+          { "w": "素直", "r": "すなお", "hv": "TỐ TRỰC", "vi": "thật lòng, ngay thẳng" }
+        ],
+        "grammar": null,
+        "evidence": "でも大事なことはやはり、何をするかではなく、どう生きるかなのではないでしょうか。…大切なのは、何をしているのかではなく、どう生きているかなのですから。",
+        "tip": "Câu được lặp lại 2 lần trong bài thường là ý chính."
+      }
+    }
+  ]
+}

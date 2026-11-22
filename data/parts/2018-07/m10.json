@@ -1,0 +1,201 @@
+{
+  "exam": "2018-07",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（１）から（５）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "以下は、ある旅行会社に届いたメールである。\n\nあて先：t_kigawa@btbtravel.co.jp\n件　名：ゼミ旅行の見積書について（北山大学）\n日　時：2018年6月25日 11：30\n\nBTB旅行社 団体ツアー担当\n木川友子様\n\nお世話になっております。北山大学の大村光一です。\nせっかく見積書を作成していただいたのですが、変更をお願いしたい点がございます。諸事情により、8月6日（月）に出発することができなくなってしまったので、出発日を8月20日（月）に変更して、再度見積書を作成していただけないでしょうか。料金は今回の見積書の金額を超えないようにお願いいたします。ホテルは変更になってもかまいませんが、同じ1泊2日の日程でお願いいたします。\nどうぞよろしくお願いいたします。\n\n北山大学\n大村光一"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "他者に意志を伝えるとき、「高さ」は相当に大事な要素となる。学生や聴衆（注1）より一段高いところに立って話す。するとビックリするほど場の隅々まで見通せるのだが、聞き手からの反応は鈍くなる。意見を「申し上げる」体（注2）になるためか。一方で、平坦な（注3）ところから、則ち同一の目線で話しかけると、活発な意見交換が期待できる。ところが今度は全体に目が配れない（注4）。\n\n（注1）聴衆：話を聞く人たち\n（注2）～体：～ような形\n（注3）平坦な：ここでは、同じ高さの\n（注4）目を配る：注意を向ける"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "言うまでもなく（注1）、深く思考した者は競争相手より有利な立場に立てる。しかし行動を止めてまでして考えるのは避けよう。行動があなたの思考を止めることはない。むしろ思考を加速させ、改善させる効果があることを知ってほしい。\n行動し、変化する状況の中で考えつづけることを実践するのはかなり勇気が要るだろう。予期しないことが起こるかもしれない。リスク（注2）もある。しかし、そうすることで最速の思考が生み出されるのだ。\n\n（注1）言うまでもなく：わざわざ言う必要もないが\n（注2）リスク：危険"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "以下は、ある会社の社内文書である。\n\n2018年4月2日\n社員各位\n総務課長\n\n定期健康診断について\n\nこれまで定期健康診断は毎年9月にアラキ医療センターで実施してきましたが、今年度より各自で指定の医療機関の中から選んで受診していただくことになりました。4月から翌年3月までの間で受診日を決め、直接医療機関に予約を入れて受診するようにしてください。なお、検査項目につきましては、これまで通りです。\n指定機関と予約方法の詳細は、後日お配りする資料でご確認ください。\nどうぞよろしくお願いいたします。\n\n以上"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "成功例にできるだけ忠実に（注1）従って努力すれば、やみくもに（注2）努力するよりも、成功する確率はかなり高い。もちろん、人の成功を見て、それを全面的に「真似る」のは、アイデアを盗んだとか、猿真似をしたとかいわれて、非難されても仕方がない。\nしかしながら、人のいいところを参考にして、自分なりの方法を工夫して努力していくのは、まともな（注3）人のすることである。そこには、単に真似るのではなく、先達（注4）から「学ぶ」という姿勢がある。\n\n（注1）忠実に：ここでは、正確に\n（注2）やみくもに：ここでは、何も考えずに、ただ\n（注3）まともな：ここでは、常識のある\n（注4）先達：先輩"
+    }
+  ],
+  "questions": [
+    {
+      "num": 55,
+      "passage": "p1",
+      "stem": "見積書について、このメールで依頼していることは何か。",
+      "options": [
+        "料金が上がってもいいので、出発日を変更してほしい。",
+        "料金を上げずに、出発日を変更してほしい。",
+        "宿泊先は変わってもいいので、出発日と人数を変更してほしい。",
+        "宿泊先は変えずに、出発日と人数を変更してほしい。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Về bản báo giá, email này yêu cầu điều gì? → Muốn đổi ngày khởi hành mà không tăng giá.",
+        "why": "Email xin đổi ngày đi từ 6/8 sang 20/8 và yêu cầu 'giá không vượt quá số tiền trong báo giá lần này'. Không hề nhắc đến thay đổi số người.",
+        "options": [
+          "Email yêu cầu giá KHÔNG vượt quá báo giá cũ. Sai.",
+          "Không tăng giá + đổi ngày khởi hành. ĐÚNG.",
+          "Khách sạn đổi cũng được (đúng), nhưng không yêu cầu đổi số người. Sai.",
+          "Không yêu cầu giữ khách sạn, cũng không đổi số người. Sai."
+        ],
+        "vocab": [
+          { "w": "見積書", "r": "みつもりしょ", "hv": "KIẾN TÍCH THƯ", "vi": "bản báo giá" },
+          { "w": "諸事情", "r": "しょじじょう", "hv": "CHƯ SỰ TÌNH", "vi": "nhiều lý do" },
+          { "w": "超える", "r": "こえる", "hv": "SIÊU", "vi": "vượt quá" },
+          { "w": "1泊2日", "r": "いっぱくふつか", "hv": "BẠC NHẬT", "vi": "2 ngày 1 đêm" }
+        ],
+        "grammar": null,
+        "evidence": "出発日を8月20日（月）に変更して、再度見積書を作成していただけないでしょうか。料金は今回の見積書の金額を超えないようにお願いいたします。",
+        "tip": "Bẫy: lựa chọn 3, 4 thêm '人数' – không có trong email."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p2",
+      "stem": "話すときの高さについて、筆者の考えに合うのはどれか。",
+      "options": [
+        "高い場所から話すと、聞き手の反応が見にくい。",
+        "高い場所から話すと、聞き手が反対意見を言いやすくなる。",
+        "同じ高さで話すと、聞き手が反応しにくい。",
+        "同じ高さで話すと、聞き手が発言しやすくなる。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Về độ cao khi nói, điều nào hợp với suy nghĩ của tác giả? → Nói ở cùng độ cao thì người nghe dễ phát biểu.",
+        "why": "Tác giả viết: nói ở cùng tầm mắt thì có thể kỳ vọng trao đổi ý kiến sôi nổi → người nghe dễ phát biểu hơn.",
+        "options": [
+          "Đứng cao thì 'nhìn thấy được mọi ngóc ngách' – phản ứng của người nghe kém đi chứ không phải khó nhìn. Sai.",
+          "Đứng cao thì phản ứng người nghe trở nên chậm chạp, không phải dễ phản đối. Sai.",
+          "Cùng độ cao thì ngược lại – trao đổi sôi nổi. Sai.",
+          "Cùng độ cao → người nghe dễ phát biểu. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "聴衆", "r": "ちょうしゅう", "hv": "THÍNH CHÚNG", "vi": "thính giả" },
+          { "w": "反応", "r": "はんのう", "hv": "PHẢN ỨNG", "vi": "phản ứng" },
+          { "w": "鈍い", "r": "にぶい", "hv": "ĐỘN", "vi": "chậm chạp, kém nhạy" },
+          { "w": "目線", "r": "めせん", "hv": "MỤC TUYẾN", "vi": "tầm mắt, góc nhìn" }
+        ],
+        "grammar": null,
+        "evidence": "平坦な（注3）ところから、則ち同一の目線で話しかけると、活発な意見交換が期待できる。",
+        "tip": "Lựa chọn 1 đánh tráo: người nói nhìn rõ hết (見通せる) nhưng người nghe phản ứng kém (反応は鈍くなる)."
+      }
+    },
+    {
+      "num": 57,
+      "passage": "p3",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "行動を止めずに考えつづけることで、思考はより加速する。",
+        "行動を止めて、深く思考することも必要だ。",
+        "変化する状況の中で、行動を加速することが大切だ。",
+        "考えつづけていれば、さらに勇気が持てるようになる"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều nào hợp với suy nghĩ của tác giả? → Nhờ vừa hành động vừa tiếp tục suy nghĩ mà tư duy càng được tăng tốc.",
+        "why": "Tác giả nói hành động không làm dừng tư duy mà còn làm nó tăng tốc; vừa hành động vừa suy nghĩ trong tình huống thay đổi sẽ sinh ra tư duy nhanh nhất.",
+        "options": [
+          "Không dừng hành động + tiếp tục suy nghĩ → tư duy tăng tốc. ĐÚNG.",
+          "Tác giả bảo hãy tránh dừng hành động để suy nghĩ. Sai.",
+          "Tác giả nói tư duy tăng tốc, không phải hành động tăng tốc. Sai.",
+          "Tác giả nói việc thực hành này CẦN dũng khí, chứ không nói suy nghĩ sinh ra dũng khí. Sai."
+        ],
+        "vocab": [
+          { "w": "思考", "r": "しこう", "hv": "TƯ KHẢO", "vi": "tư duy, suy nghĩ" },
+          { "w": "加速", "r": "かそく", "hv": "GIA TỐC", "vi": "tăng tốc" },
+          { "w": "実践", "r": "じっせん", "hv": "THỰC TIỄN", "vi": "thực hành" },
+          { "w": "勇気", "r": "ゆうき", "hv": "DŨNG KHÍ", "vi": "dũng khí" }
+        ],
+        "grammar": {
+          "pattern": "〜てまで",
+          "meaning": "đến mức phải (làm điều quá đáng)",
+          "form": "Vて ＋ まで（して）",
+          "example": "借金してまで旅行に行きたくない。"
+        },
+        "evidence": "行動があなたの思考を止めることはない。むしろ思考を加速させ、改善させる効果があることを知ってほしい。",
+        "tip": null
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p4",
+      "stem": "このお知らせによると、定期健康診断の受け方はどのように変わったか。",
+      "options": [
+        "アラキ医療センターに各自で予約を入れ、受診するようになった。",
+        "アラキ医療センターで４月から翌年３月までの指定日に受診するようになった。",
+        "各自で医療機関と日を決めて予約し、受診するようになった。",
+        "各自で医療機関と日と検査項目を決めて予約し、受診するようになった。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Theo thông báo, cách khám sức khỏe định kỳ đã thay đổi thế nào? → Mỗi người tự chọn cơ sở y tế và ngày, đặt lịch rồi đi khám.",
+        "why": "Từ năm nay, mỗi người tự chọn cơ sở trong danh sách chỉ định, tự quyết ngày khám từ tháng 4 đến tháng 3 năm sau và đặt lịch trực tiếp. Hạng mục khám giữ nguyên.",
+        "options": [
+          "Không còn khám tại Araki nữa, mà chọn trong các cơ sở chỉ định. Sai.",
+          "Không khám ở Araki, ngày khám do mỗi người tự quyết chứ không phải ngày chỉ định. Sai.",
+          "Tự chọn cơ sở y tế + ngày, đặt lịch và khám. ĐÚNG.",
+          "Hạng mục khám これまで通り (giữ như cũ), không được tự chọn. Sai."
+        ],
+        "vocab": [
+          { "w": "健康診断", "r": "けんこうしんだん", "hv": "KIỆN KHANG CHẨN ĐOÁN", "vi": "khám sức khỏe" },
+          { "w": "受診", "r": "じゅしん", "hv": "THỤ CHẨN", "vi": "đi khám bệnh" },
+          { "w": "各自", "r": "かくじ", "hv": "CÁC TỰ", "vi": "mỗi người" },
+          { "w": "検査項目", "r": "けんさこうもく", "hv": "KIỂM TRA HẠNG MỤC", "vi": "hạng mục kiểm tra" }
+        ],
+        "grammar": null,
+        "evidence": "今年度より各自で指定の医療機関の中から選んで受診していただくことになりました。4月から翌年3月までの間で受診日を決め、直接医療機関に予約を入れて受診するようにしてください。なお、検査項目につきましては、これまで通りです。",
+        "tip": "なお〜これまで通り → điều KHÔNG thay đổi, loại lựa chọn 4."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p5",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "成功を目指して何も考えずに努力することが大切だ。",
+        "人の成功例は参考にしないほうがいい。",
+        "人の真似を続けていけば、必ず成功できる。",
+        "人のいいところを見て工夫すれば、成功につながる。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Điều nào hợp với suy nghĩ của tác giả? → Nhìn điểm tốt của người khác và tự sáng tạo thì sẽ dẫn đến thành công.",
+        "why": "Tác giả cho rằng làm theo ví dụ thành công có xác suất thành công cao hơn cố gắng mù quáng, và việc tham khảo điểm tốt của người khác rồi tìm ra cách riêng là điều người tử tế làm.",
+        "options": [
+          "Tác giả nói cố gắng mù quáng (やみくもに) kém hiệu quả hơn. Sai.",
+          "Ngược lại, nên tham khảo ví dụ thành công. Sai.",
+          "Bắt chước hoàn toàn bị chê trách; tác giả không nói 'chắc chắn thành công'. Sai.",
+          "Tham khảo điểm tốt + tự sáng tạo → thành công. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "忠実", "r": "ちゅうじつ", "hv": "TRUNG THỰC", "vi": "trung thành, chính xác" },
+          { "w": "真似る", "r": "まねる", "hv": "CHÂN TỰ", "vi": "bắt chước" },
+          { "w": "非難", "r": "ひなん", "hv": "PHI NAN", "vi": "chỉ trích" },
+          { "w": "確率", "r": "かくりつ", "hv": "XÁC SUẤT", "vi": "xác suất" }
+        ],
+        "grammar": {
+          "pattern": "〜なり（の）",
+          "meaning": "theo cách riêng của…",
+          "form": "N ＋ なりの／なりに",
+          "example": "自分なりに努力した。"
+        },
+        "evidence": "人のいいところを参考にして、自分なりの方法を工夫して努力していくのは、まともな人のすることである。",
+        "tip": null
+      }
+    }
+  ]
+}

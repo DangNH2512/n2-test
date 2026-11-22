@@ -1,0 +1,87 @@
+{
+  "exam": "2019-12",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B, chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "会話が上手な人とはどんな人だろうか。話題や知識が豊富な人だろうか。確かにそういう人と話していると、知らなかった話や興味深い話が聞けて、話がうまいと思うことも多い。しかしそれは話すのが上手だということで、会話が上手だということではない。ただ一方的に自分の得意な分野やしたい話をしているだけという場合も多いのだ。\n私が会話が上手だと思う人は、誰と話していても話を広げていくのが上手な人だ。相手の関心のありそうな話題について、まず自分が話を始めてきっかけを作る。そして相手が話し出したら、それを広げていくような質問をする。このように相手が話しやすいように、うまく会話の流れを作り出していける人が、会話が上手な人だと思う。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "会話で大切なのは、まず相手の話をよく聞くことだ。まだ相手が話しているのに自分の話を始める人がいるが、これではうまく会話が続かない。\nしかし、それ以上に私が気になるのは、聞いているだけで何も話さない人だ。質問をしても「そうですね」と言うだけで次が続かない。こういう相手では、楽しく会話しようとしても難しい。\n会話はお互いに話すことで成立するものだから、自分から話をしようとする態度が必要ではないか。たとえ、この話題については自分の話はしたくないと思っても、世の中や他の人のことなど、関連のある話で話をふくらませていくことはできる。自ら参加し、ともに会話を進めていこうとする姿勢が大切だ。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 66,
+      "passage": "AB",
+      "stem": "会話をする際の問題点として、AとBが指摘している点は何か。",
+      "options": [
+        "Aは相手が興味を持っているかどうかを気にしないことだと述べ、Bは自分の聞きたい話しか聞かないことだと述べている。",
+        "Aは相手の話を聞こうとしないことだと述べ、Bは相手に質問されても返事をしないことだと述べている。",
+        "Aは自分の知識を自慢することだと述べ、Bは相手が話している途中で話を始めることだと述べている。",
+        "Aは自分の話ばかりすることだと述べ、Bは相手の話を聞いてばかりいることだと述べている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "A và B chỉ ra vấn đề gì khi nói chuyện? → A nói đó là chỉ toàn nói chuyện của mình, B nói đó là chỉ toàn nghe người khác nói.",
+        "why": "A: người nhiều kiến thức thường chỉ nói một chiều về lĩnh vực mình giỏi/chuyện mình muốn nói. B: điều B bận tâm hơn cả là người chỉ nghe mà không nói gì.",
+        "options": [
+          "B không nói 'chỉ nghe chuyện mình muốn nghe'. Sai.",
+          "A không nói về 'không chịu nghe'; B: người ấy có trả lời 'そうですね' nhưng không nói tiếp. Sai.",
+          "A không nói 'khoe kiến thức'; việc chen ngang chỉ là ý phụ của B, B quan tâm hơn tới người chỉ nghe. Sai.",
+          "A: chỉ nói chuyện của mình; B: chỉ nghe mà không nói. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "一方的", "r": "いっぽうてき", "hv": "NHẤT PHƯƠNG ĐÍCH", "vi": "một chiều" },
+          { "w": "豊富", "r": "ほうふ", "hv": "PHONG PHÚ", "vi": "phong phú" },
+          { "w": "指摘", "r": "してき", "hv": "CHỈ TRÍCH", "vi": "chỉ ra" }
+        ],
+        "grammar": {
+          "pattern": "～てばかりいる／～ばかり",
+          "meaning": "chỉ toàn ~",
+          "form": "Vて＋ばかりいる；N＋ばかり",
+          "example": "弟は遊んでばかりいる。"
+        },
+        "evidence": "A：ただ一方的に自分の得意な分野やしたい話をしているだけという場合も多いのだ。\nB：しかし、それ以上に私が気になるのは、聞いているだけで何も話さない人だ。",
+        "tip": "Với B, chú ý 'それ以上に' — ý được nhấn mạnh là vấn đề chính."
+      }
+    },
+    {
+      "num": 67,
+      "passage": "AB",
+      "stem": "会話をうまく進めていくために、AとBが共通して必要だと述べていることは何か。",
+      "options": [
+        "相手に的確な質問をすること",
+        "相手の話を正確に理解しようとすること",
+        "相手と一緒に話を展開していこうとすること",
+        "相手と自分が共通して話せる話題を提供すること"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Để cuộc hội thoại diễn ra suôn sẻ, điều mà A và B cùng cho là cần thiết là gì? → Cố gắng cùng với đối phương phát triển câu chuyện.",
+        "why": "A: người giỏi hội thoại là người biết 'mở rộng câu chuyện', tạo dòng chảy để đối phương dễ nói. B: cần thái độ tự tham gia, 'cùng nhau tiến triển cuộc hội thoại', làm câu chuyện phong phú thêm.",
+        "options": [
+          "Chỉ A nói về đặt câu hỏi; B không nói. Sai.",
+          "Không ai nhấn mạnh 'hiểu chính xác'. Sai.",
+          "Cùng đối phương phát triển câu chuyện. ĐÚNG.",
+          "A nói chọn đề tài đối phương quan tâm, không phải đề tài chung; B không nói. Sai."
+        ],
+        "vocab": [
+          { "w": "展開", "r": "てんかい", "hv": "TRIỂN KHAI", "vi": "triển khai, phát triển" },
+          { "w": "膨らませる", "r": "ふくらませる", "hv": "BÀNH", "vi": "làm phồng lên; làm phong phú thêm" },
+          { "w": "姿勢", "r": "しせい", "hv": "TƯ THẾ", "vi": "thái độ, tư thế" },
+          { "w": "的確", "r": "てきかく", "hv": "ĐÍCH XÁC", "vi": "chính xác, đúng chỗ" }
+        ],
+        "grammar": null,
+        "evidence": "A：誰と話していても話を広げていくのが上手な人だ。…うまく会話の流れを作り出していける人が、会話が上手な人だと思う。\nB：関連のある話で話をふくらませていくことはできる。自ら参加し、ともに会話を進めていこうとする姿勢が大切だ。",
+        "tip": "Câu hỏi 'chung' → loại các đáp án chỉ một bên đề cập (1, 4 chỉ có ở A)."
+      }
+    }
+  ]
+}

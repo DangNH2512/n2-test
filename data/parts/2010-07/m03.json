@@ -1,0 +1,135 @@
+{
+  "exam": "2010-07",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ (tiền tố/hậu tố) thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "今日の講演のテーマは、教育の（　　）問題についてです。",
+      "options": ["諸", "複", "雑", "類"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Chủ đề bài giảng hôm nay là về các vấn đề của giáo dục.",
+        "why": "諸 (しょ, CHƯ) là tiền tố nghĩa là “các, nhiều”: 諸問題(しょもんだい) = các vấn đề. Các chữ còn lại không làm tiền tố đi với 問題.",
+        "options": [
+          "諸 → 諸問題: các vấn đề. ĐÚNG.",
+          "複 → dùng trong 複数(ふくすう), 複雑(ふくざつ); không có “複問題”. Sai.",
+          "雑 → dùng trong 雑誌, 雑音; không có “雑問題”. Sai.",
+          "類 → dùng trong 類似(るいじ), 種類; không có “類問題”. Sai."
+        ],
+        "vocab": [
+          { "w": "諸問題", "r": "しょもんだい", "hv": "CHƯ VẤN ĐỀ", "vi": "các vấn đề" },
+          { "w": "講演", "r": "こうえん", "hv": "GIẢNG DIỄN", "vi": "bài giảng, diễn thuyết" },
+          { "w": "諸外国", "r": "しょがいこく", "hv": "CHƯ NGOẠI QUỐC", "vi": "các nước ngoài" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "諸 + danh từ: 諸国, 諸問題, 諸事情, 諸外国 (các ~)."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "駅前の商店（　　）で、買い物して帰ろう。",
+      "options": ["帯", "域", "街", "町"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hãy mua sắm ở khu phố mua sắm trước nhà ga rồi về.",
+        "why": "商店街(しょうてんがい) = khu phố buôn bán, dãy cửa hàng. 街 làm hậu tố đọc がい.",
+        "options": [
+          "帯 → ～帯(たい): vùng, dải (時間帯, 地帯). Không có “商店帯”. Sai.",
+          "域 → ～域(いき): khu vực (地域, 区域). Sai.",
+          "街 → 商店街: khu phố mua sắm. ĐÚNG.",
+          "町 → 町(まち/ちょう) không ghép với 商店. Sai."
+        ],
+        "vocab": [
+          { "w": "商店街", "r": "しょうてんがい", "hv": "THƯƠNG ĐIẾM NHAI", "vi": "khu phố buôn bán" },
+          { "w": "住宅街", "r": "じゅうたくがい", "hv": "TRÚ TRẠCH NHAI", "vi": "khu dân cư" },
+          { "w": "時間帯", "r": "じかんたい", "hv": "THỜI GIAN ĐỚI", "vi": "khung giờ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "～街(がい): 商店街, 住宅街, 地下街, オフィス街."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "夏休みに旅行に行きたいので、（　　）収入のアルバイトを探している。",
+      "options": ["上", "良", "優", "高"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vì muốn đi du lịch vào kỳ nghỉ hè nên tôi đang tìm việc làm thêm thu nhập cao.",
+        "why": "高収入(こうしゅうにゅう) = thu nhập cao. 高 làm tiền tố “cao ~”: 高収入, 高学歴, 高性能.",
+        "options": [
+          "上 → 上～ (じょう): 上機嫌, 上半期; không có “上収入”. Sai.",
+          "良 → 良～ (りょう): 良質; không có “良収入”. Sai.",
+          "優 → 優～ (ゆう): 優勝, 優先; không ghép với 収入. Sai.",
+          "高 → 高収入: thu nhập cao. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "高収入", "r": "こうしゅうにゅう", "hv": "CAO THU NHẬP", "vi": "thu nhập cao" },
+          { "w": "収入", "r": "しゅうにゅう", "hv": "THU NHẬP", "vi": "thu nhập" },
+          { "w": "高性能", "r": "こうせいのう", "hv": "CAO TÍNH NĂNG", "vi": "hiệu năng cao" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "高～ / 低～ đi với danh từ chỉ mức độ: 高収入・低収入, 高価格・低価格."
+      }
+    },
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "来週の会議には、社長と（　　）社長も出席する予定だ。",
+      "options": ["準", "副", "補", "助"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Cuộc họp tuần sau dự kiến có cả giám đốc và phó giám đốc tham dự.",
+        "why": "副社長(ふくしゃちょう) = phó giám đốc. 副 (PHÓ) = phó, phụ, thứ hai sau người đứng đầu.",
+        "options": [
+          "準 → 準～: chuẩn ~, gần bằng (準決勝 bán kết, 準備). Sai.",
+          "副 → 副社長: phó giám đốc. ĐÚNG.",
+          "補 → 補～: bổ sung (補助, 補欠). Không có “補社長”. Sai.",
+          "助 → 助～: trợ (助教授, 助手). Không có “助社長”. Sai."
+        ],
+        "vocab": [
+          { "w": "副社長", "r": "ふくしゃちょう", "hv": "PHÓ XÃ TRƯỞNG", "vi": "phó giám đốc" },
+          { "w": "出席", "r": "しゅっせき", "hv": "XUẤT TỊCH", "vi": "có mặt, tham dự" },
+          { "w": "準決勝", "r": "じゅんけっしょう", "hv": "CHUẨN QUYẾT THẮNG", "vi": "trận bán kết" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "副～: 副社長, 副大統領, 副作用(tác dụng phụ), 副業(nghề phụ)."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "疲れると、集中（　　）が落ちて仕事が進まなくなる。",
+      "options": ["能", "考", "気", "力"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Khi mệt, khả năng tập trung giảm sút và công việc không tiến triển được.",
+        "why": "集中力(しゅうちゅうりょく) = khả năng tập trung. ～力(りょく) là hậu tố chỉ năng lực: 集中力, 記憶力, 想像力.",
+        "options": [
+          "能 → ～能 (性能, 才能) không ghép sau 集中. Sai.",
+          "考 → không có “集中考”. Sai.",
+          "気 → không có “集中気”. Sai.",
+          "力 → 集中力: sức tập trung. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "集中力", "r": "しゅうちゅうりょく", "hv": "TẬP TRUNG LỰC", "vi": "khả năng tập trung" },
+          { "w": "記憶力", "r": "きおくりょく", "hv": "KÝ ỨC LỰC", "vi": "trí nhớ" },
+          { "w": "落ちる", "r": "おちる", "hv": "LẠC", "vi": "rơi, giảm sút" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Danh từ + 力(りょく) = năng lực ~: 集中力, 判断力, 表現力, 体力(たいりょく)."
+      }
+    }
+  ]
+}

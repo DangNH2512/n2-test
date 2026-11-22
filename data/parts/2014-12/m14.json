@@ -1,0 +1,78 @@
+{
+  "exam": "2014-12",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "下は、ある団体のホームページに載っている海岸清掃活動の参加者募集の案内である。下の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Dưới đây là thông báo tuyển người tham gia hoạt động dọn dẹp bờ biển đăng trên trang web của một tổ chức. Chọn câu trả lời đúng nhất cho các câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "美木海の会",
+      "text": "美木海の会\nご家族で、仲間で、美木の海をきれいにしよう！\n今年も美木市内の海岸の清掃活動を実施します。皆様のご協力をお願いします。\n\n日時：5月15日（日）9時〜12時\n　*雨天中止（中止の場合、ホームページにて当日6時までにお知らせします。）\n　お電話でのお問い合わせはご遠慮お願いします。\n実施会場：緑浜海水浴場、白波海水浴場、みなと海浜公園\n参加資格：原則、中学生以上 *小学生以下のお子さんは保護者が一緒の場合に限りご参加いただけます。\n\n「参加方法」\na. 団体（20名以上）で参加する場合\n　下記①②③をイーメールに書き、4月23日（金）までに事務局へお申し込みください。\n　①代表者氏名および連絡先　②参加希望会場　③参加者の人数\nb. 個人で参加する場合\n　事前申し込みは不要です。当日直接会場でお申し込みください。\n\n【同時募集】\n前日と当日の準備・片付けもお手伝いいただく臨時スタッフも同時に募集しています。（5月14日13〜15時、および15日8〜15時の両日参加できる方に限ります。）ご協力いただける方は4月23日（金）17時までに事務局へお電話でお申し込みください。\n\n「当日の流れ」\n1．受付：ゴミ袋を受け取る\n2．清掃：ゴミをひろい、ゴミ袋に入れる\n3．分別：分別スペースにて、ゴミを分別する\n\n「注意事項」\n・けがや急病の場合に備え、健康保険証を忘れずにお持ちください。\n・長袖シャツと長ズボンでの参加をお勧めします。作業用手袋をお持ちの場合はご持参ください。\n・強い日ざしに備え、帽子、タオル、飲み物などをご用意ください。体調管理はご自身でお願いいたします。\n・駐車スペースには限りがありますので、できるだけ公共交通機関をご利用ください。\n\n「美木海の会」事務局　電話：01-4321-5577\nEメール：eco-sea@miki-city.com"
+    }
+  ],
+  "questions": [
+    {
+      "num": 74,
+      "passage": "p1",
+      "stem": "オーリャさんと山下さんの二人は臨時スタッフになって、海岸清掃活動に参加したいと思っている。二人はどうしなければならないか。",
+      "options": ["4月23日までEメールで申し込む。", "4月23日の17時までに電話で申し込む。", "5月14日の13時までに会場に行って、申し込む。", "5月15日の8時までに会場に行って、申し込む。"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hai người Olya và Yamashita muốn tham gia hoạt động dọn bờ biển với tư cách nhân viên tạm thời. Hai người phải làm gì? → Đăng ký qua điện thoại trước 17 giờ ngày 23/4.",
+        "why": "Mục 同時募集 (tuyển cùng lúc): người muốn làm nhân viên tạm thời hãy đăng ký với văn phòng bằng điện thoại trước 17 giờ thứ Sáu ngày 23/4.",
+        "options": [
+          "Đăng ký bằng email trước 23/4 → đó là cách cho nhóm (団体) từ 20 người. Sai.",
+          "Đăng ký bằng điện thoại trước 17 giờ ngày 23/4. ĐÚNG.",
+          "13 giờ ngày 14/5 là giờ bắt đầu làm việc chuẩn bị, không phải hạn đăng ký. Sai.",
+          "Đến hội trường đăng ký → đó là cách cho cá nhân tham gia dọn dẹp thường. Sai."
+        ],
+        "vocab": [
+          { "w": "臨時スタッフ", "r": "りんじスタッフ", "hv": "LÂM THỜI", "vi": "nhân viên tạm thời" },
+          { "w": "事務局", "r": "じむきょく", "hv": "SỰ VỤ CỤC", "vi": "văn phòng (ban thư ký)" },
+          { "w": "片付け", "r": "かたづけ", "hv": "PHIẾN PHÓ", "vi": "dọn dẹp" },
+          { "w": "申し込む", "r": "もうしこむ", "hv": "THÂN NHẬP", "vi": "đăng ký" }
+        ],
+        "grammar": {
+          "pattern": "〜に限る／〜に限ります",
+          "meaning": "chỉ giới hạn ở ~",
+          "form": "N + に限ります",
+          "example": "両日参加できる方に限ります。（Chỉ dành cho người tham gia được cả hai ngày.）"
+        },
+        "evidence": "ご協力いただける方は4月23日（金）17時までに事務局へお電話でお申し込みください。",
+        "tip": "Bài thông tin: xác định đúng đối tượng (臨時スタッフ) rồi chỉ đọc phần dành cho đối tượng đó."
+      }
+    },
+    {
+      "num": 75,
+      "passage": "p1",
+      "stem": "海岸清掃活動への参加者が当日必ずするように言われていることはどれか。",
+      "options": ["ゴミ袋を持参し、清掃活動後のゴミを持ち帰る。", "けがをしたときのために健康保険証を持参する。", "長袖シャツと長ズボンを着て、作業用手袋を持参する。", "会場に来るときに公共交通機関を利用する。"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều nào người tham gia được yêu cầu nhất định phải làm vào ngày hôm đó? → Mang theo thẻ bảo hiểm y tế phòng khi bị thương.",
+        "why": "'健康保険証を忘れずにお持ちください' (nhớ mang theo, đừng quên) là yêu cầu bắt buộc. Các mục khác chỉ là khuyến nghị (お勧めします, できるだけ, お持ちの場合は).",
+        "options": [
+          "Túi rác được phát ở quầy tiếp đón (ゴミ袋を受け取る), không cần mang theo; không có chuyện mang rác về. Sai.",
+          "Mang thẻ bảo hiểm y tế phòng khi bị thương. ĐÚNG.",
+          "Áo dài tay, quần dài chỉ là 'khuyến khích' (お勧めします); găng tay chỉ mang 'nếu có'. Sai.",
+          "Phương tiện công cộng chỉ là 'cố gắng nếu có thể' (できるだけ). Sai."
+        ],
+        "vocab": [
+          { "w": "健康保険証", "r": "けんこうほけんしょう", "hv": "KIỆN KHANG BẢO HIỂM CHỨNG", "vi": "thẻ bảo hiểm y tế" },
+          { "w": "急病", "r": "きゅうびょう", "hv": "CẤP BỆNH", "vi": "bệnh đột ngột" },
+          { "w": "持参", "r": "じさん", "hv": "TRÌ THAM", "vi": "mang theo" },
+          { "w": "公共交通機関", "r": "こうきょうこうつうきかん", "hv": "CÔNG CỘNG GIAO THÔNG CƠ QUAN", "vi": "phương tiện giao thông công cộng" }
+        ],
+        "grammar": {
+          "pattern": "〜に備え(て)",
+          "meaning": "để phòng ~, chuẩn bị cho ~",
+          "form": "N + に備えて",
+          "example": "地震に備えて水を買っておく。（Mua sẵn nước để phòng động đất.）"
+        },
+        "evidence": "けがや急病の場合に備え、健康保険証を忘れずにお持ちください。",
+        "tip": "Phân biệt mức độ: 忘れずに〜ください (bắt buộc) > お勧めします (khuyến nghị) > できるだけ (nếu được)."
+      }
+    }
+  ]
+}

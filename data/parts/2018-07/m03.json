@@ -1,0 +1,134 @@
+{
+  "exam": "2018-07",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống (từ ghép, tiền tố, hậu tố).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "正月もスキー（　　）は、人でいっぱいだ。",
+      "options": ["所", "場", "区", "地"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Ngay cả dịp Tết, khu trượt tuyết cũng đông nghịt người.",
+        "why": "スキー場 (スキーじょう) = khu trượt tuyết. Hậu tố 〜場(じょう) chỉ nơi diễn ra hoạt động: 駐車場, 会場, ゴルフ場.",
+        "options": [
+          "所 → 〜所(しょ/じょ): 研究所, 停留所 – không đi với スキー. Sai.",
+          "場 → スキー場: khu trượt tuyết. ĐÚNG.",
+          "区 → 〜区: quận, khu hành chính. Sai.",
+          "地 → 〜地: 観光地, 住宅地 – không nói スキー地. Sai."
+        ],
+        "vocab": [
+          { "w": "スキー場", "r": "スキーじょう", "hv": "TRƯỜNG", "vi": "khu trượt tuyết" },
+          { "w": "正月", "r": "しょうがつ", "hv": "CHÍNH NGUYỆT", "vi": "Tết, năm mới" },
+          { "w": "駐車場", "r": "ちゅうしゃじょう", "hv": "TRÚ XA TRƯỜNG", "vi": "bãi đỗ xe" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nơi chơi thể thao thường dùng 〜場: スキー場, 野球場, ゴルフ場."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "（　　）学期から新しいプログラムが始まる。",
+      "options": ["明", "近", "隣", "来"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Từ học kỳ tới, chương trình mới sẽ bắt đầu.",
+        "why": "来学期 (らいがっき) = học kỳ tới. Tiền tố 来〜 = 'tới, sau': 来週, 来月, 来年, 来学期.",
+        "options": [
+          "明 → 明〜: 明後日(あさって), 明年 – không dùng với 学期. Sai.",
+          "近 → 近〜: 近未来 (tương lai gần) – không nói 近学期. Sai.",
+          "隣 → 隣〜: hàng xóm, bên cạnh. Sai.",
+          "来 → 来学期: học kỳ tới. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "来学期", "r": "らいがっき", "hv": "LAI HỌC KỲ", "vi": "học kỳ tới" },
+          { "w": "学期", "r": "がっき", "hv": "HỌC KỲ", "vi": "học kỳ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cặp đối: 前学期 (học kỳ trước) ↔ 今学期 ↔ 来学期."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "この高校は進学（　　）が非常に高く、ほとんどの生徒が大学に進む。",
+      "options": ["量", "値", "率", "割"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Trường cấp 3 này có tỷ lệ học lên rất cao, hầu hết học sinh đều vào đại học.",
+        "why": "進学率 (しんがくりつ) = tỷ lệ học lên. Hậu tố 〜率(りつ) = tỷ lệ: 合格率, 失業率, 出生率.",
+        "options": [
+          "量 → 〜量: lượng (降水量). Sai.",
+          "値 → 〜値: giá trị, chỉ số (数値). Sai.",
+          "率 → 進学率: tỷ lệ học lên. ĐÚNG.",
+          "割 → 割 cũng là 'phần mười' nhưng không làm hậu tố ghép với 進学. Sai."
+        ],
+        "vocab": [
+          { "w": "進学率", "r": "しんがくりつ", "hv": "TIẾN HỌC SUẤT", "vi": "tỷ lệ học lên" },
+          { "w": "進学", "r": "しんがく", "hv": "TIẾN HỌC", "vi": "học lên (cấp cao hơn)" },
+          { "w": "非常に", "r": "ひじょうに", "hv": "PHI THƯỜNG", "vi": "rất, cực kỳ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "率 thường đọc りつ (確率, 効率), nhưng đọc そつ trong 引率(いんそつ), 軽率(けいそつ)."
+      }
+    },
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "大臣の下に二人の（　　）大臣がいるのが一般的です。",
+      "options": ["補", "助", "次", "副"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Thông thường dưới bộ trưởng có hai thứ trưởng (phó bộ trưởng).",
+        "why": "副大臣 (ふくだいじん) = phó bộ trưởng. Tiền tố 副〜 = 'phó, phụ': 副社長, 副会長, 副作用.",
+        "options": [
+          "補 → 補〜: bổ sung (補助) – không đi với 大臣. Sai.",
+          "助 → 助〜: trợ (助手, 助教) – không nói 助大臣. Sai.",
+          "次 → 次〜: tiếp theo (次回) – không nói 次大臣. Sai.",
+          "副 → 副大臣: phó bộ trưởng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "副大臣", "r": "ふくだいじん", "hv": "PHÓ ĐẠI THẦN", "vi": "phó bộ trưởng, thứ trưởng" },
+          { "w": "大臣", "r": "だいじん", "hv": "ĐẠI THẦN", "vi": "bộ trưởng" },
+          { "w": "一般的", "r": "いっぱんてき", "hv": "NHẤT BAN ĐÍCH", "vi": "phổ biến, thông thường" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "副 = 'phó' cho chức vụ: 副社長, 副校長, 副首相."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "スポーツテストの結果を学年（　　）に見ると、一年生だけが昨年を上回っていた。",
+      "options": ["別", "境", "段", "節"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Xem kết quả kiểm tra thể thao theo từng khối lớp thì chỉ có năm nhất là vượt năm ngoái.",
+        "why": "〜別 (べつ) = phân theo, theo từng loại: 学年別 (theo khối), 男女別, 地域別. 〜別に見る = xem phân theo.",
+        "options": [
+          "別 → 学年別: theo từng khối lớp. ĐÚNG.",
+          "境 → 〜境: ranh giới (国境). Sai.",
+          "段 → 〜段: bậc, tầng. Sai.",
+          "節 → 〜節: mùa, đoạn (季節). Sai."
+        ],
+        "vocab": [
+          { "w": "学年別", "r": "がくねんべつ", "hv": "HỌC NIÊN BIỆT", "vi": "theo từng khối lớp" },
+          { "w": "上回る", "r": "うわまわる", "hv": "THƯỢNG HỒI", "vi": "vượt quá, cao hơn" },
+          { "w": "結果", "r": "けっか", "hv": "KẾT QUẢ", "vi": "kết quả" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đối nghĩa: 上回る (vượt) ↔ 下回る (thấp hơn)."
+      }
+    }
+  ]
+}

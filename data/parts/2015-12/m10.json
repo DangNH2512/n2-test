@@ -1,0 +1,181 @@
+{
+  "exam": "2015-12",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（1）から（5）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi (đọc hiểu đoạn ngắn).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "今の子どもたちは、先生に問題を出され、先生から答えを教えてもらうことに慣れてしまい、答えばかりか疑問さえも見つけることをしなくなってしまったのではないか。知っていることが重要だと勘違いし、問題と答えを覚え、知識を得たことで満足してしまっている。それでは疑問を解く過程で味わう楽しみや、何日もかかって答えにたどり着いた時の喜びを味わうことができない。なんだか、かわいそうな気がする。\n\n（小菅正夫『文藝春秋』2006年11月臨時増刊号による）"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、上司が部下の中島さんに工場見学の受け入れ準備について指示したものである。\n\n＜工場見学受け入れ準備＞\n見学日時：12月18日（金）10時～12時\n見学者：池内日本語学校（20名）\n・12月10日（木）までに見学当日使用の会議室Aの予約\n・12月11日（金）池内日本語学校（関口先生）との事前打ち合わせ\n　時間：11時～12時　場所：会議室B（予約不要）\n　確認すること：\n　　・見学者の日本語レベル\n　　・会社案内パンフレットの言語（日本語か英語か）\n・12月17日（木）までに会社案内パンフレットの準備（20部）\n・12月18日（金）9時半までに会議室Aの準備\n　（テーブル、いす、会社案内パンフレット）"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "動物は、ふつう常温のものを食べています。ところが、ヒトは冷めた料理はおいしくないというように、常温の料理を好みません。むしろ、熱くした料理や、冷たくした料理を好みます。ヒトは、辛い味、強烈な（注）におい、熱い、冷たいなど、あらゆる手段を使って、食欲を刺激する工夫をしてきたのです。こうした言い方は、ヒトと動物のちがいを強調したものですが、べつの言い方をすれば、<u>これ</u>が人の食文化をつくってきたのです。\n\n（栗原堅三『うま味って何だろう』による）\n（注）強烈な：強い"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "以下は、ある企業の経営者の考えである。\n\n会社を大きくしていくためには、私自身、やはり自分ができないことがたくさんあるのは分かっていますから、いろいろとスタッフに要求していかなければ達成できないんです。自分じゃ到底できないことも、「できるはずです」と要求していかないと、私の能力が組織の能力の天井（注1）になってしまいます。ですから、私がすべてのマネージャーに伝えているのは、「自分のことを棚に上げて（注2）、スタッフに要求すべきことは要求してください」ということです。\n\n（日本放送協会・日本放送出版協会（NHK出版）編『NHK仕事学のすすめ 2010年10－11月号』による）\n（注1）能力の天井：能力の限界\n（注2）自分のことを棚に上げて：ここでは、自分ができるかどうかに関係なく"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "人を不愉快な気持ちにさせないように、反論もせず、自分の不快な気持ちも伝えないで黙っていると、相手はあなたを理解するチャンスを失い、互いに自分らしくつきあうことができなくなるでしょう。\nもちろん、相手も自分の気持ちや考えを表現してよいので、そこで葛藤（注）が起こることもあります。\nただ、葛藤や違いが明らかになることを避けて、親、上司、先生に意見を言わなかったり、支援を頼めなかったりすると、その場は何事もなく進むかもしれませんが、誤解のうえに人間関係がつくられていくことになります。\n\n（平木典子『アサーション入門―自分も相手も大切にする自己表現法』による）\n（注）葛藤：ここでは、対立"
+    }
+  ],
+  "questions": [
+    {
+      "num": 55,
+      "passage": "p1",
+      "stem": "今の子どもたちについて、筆者はどのように考えているか。",
+      "options": ["知識を得るための努力をしない。", "知識が豊富なので疑問を感じにくい。", "疑問を解く楽しみや喜びを知らない。", "疑問があっても答えが見つけられない。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tác giả nghĩ thế nào về trẻ em ngày nay? → Chúng không biết niềm vui và sự sung sướng khi giải đáp thắc mắc.",
+        "why": "Tác giả nói trẻ em chỉ học thuộc câu hỏi và đáp án, thỏa mãn với kiến thức, nên \"không thể nếm trải niềm vui trong quá trình giải đáp thắc mắc và niềm vui khi tìm ra đáp án\" → đáp án 3.",
+        "options": [
+          "Sai: trẻ vẫn có \"học thuộc câu hỏi và đáp án\", tức vẫn cố gắng thu kiến thức; vấn đề là không tự tìm câu hỏi.",
+          "Sai: bài không nói trẻ có kiến thức phong phú; lý do không thấy thắc mắc là quen được thầy cho đáp án.",
+          "Đúng với câu 疑問を解く過程で味わう楽しみや…喜びを味わうことができない. ĐÚNG.",
+          "Sai: bài nói trẻ \"không còn tìm ra cả thắc mắc\", chứ không nói có thắc mắc mà không tìm được đáp án."
+        ],
+        "vocab": [
+          { "w": "疑問", "r": "ぎもん", "hv": "NGHI VẤN", "vi": "thắc mắc, nghi vấn" },
+          { "w": "勘違い", "r": "かんちがい", "hv": "KHÁM VI", "vi": "hiểu lầm, nhầm tưởng" },
+          { "w": "過程", "r": "かてい", "hv": "QUÁ TRÌNH", "vi": "quá trình" },
+          { "w": "たどり着く", "r": "たどりつく", "hv": "TRỨ", "vi": "lần mò đến được" }
+        ],
+        "grammar": {
+          "pattern": "～ばかりか～さえ",
+          "meaning": "không chỉ ~ mà ngay cả ~ cũng",
+          "form": "N + ばかりか + N + さえ（も）",
+          "example": "彼は漢字ばかりか、ひらがなさえ書けない。"
+        },
+        "evidence": "それでは疑問を解く過程で味わう楽しみや、何日もかかって答えにたどり着いた時の喜びを味わうことができない。",
+        "tip": "Câu cảm xúc cuối (かわいそうな気がする) thường ngay sau ý chính → đọc kỹ câu trước nó."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p2",
+      "stem": "中島さんが準備すべきこととして、合っているのはどれか。",
+      "options": ["12月10日に見学者の日本語レベルを確認する。", "12月11日までに会議室Aを予約する。", "12月17日までに会社案内パンフレットを準備する。", "12月18日に会議室Bのテーブルやいすなどを準備する。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều nào đúng với việc anh Nakajima cần chuẩn bị? → Chuẩn bị tờ giới thiệu công ty trước ngày 17/12.",
+        "why": "Bản chỉ thị ghi rõ: \"12月17日（木）までに会社案内パンフレットの準備（20部）\" → khớp đáp án 3.",
+        "options": [
+          "Sai: xác nhận trình độ tiếng Nhật là trong buổi họp ngày 11/12, không phải 10/12.",
+          "Sai: hạn đặt phòng họp A là trước ngày 10/12.",
+          "Đúng: chuẩn bị pamphlet trước 17/12. ĐÚNG.",
+          "Sai: ngày 18/12 chuẩn bị phòng họp A (không phải B); phòng B dùng cho buổi họp 11/12."
+        ],
+        "vocab": [
+          { "w": "受け入れ", "r": "うけいれ", "hv": "THỤ NHẬP", "vi": "tiếp nhận, đón tiếp" },
+          { "w": "事前打ち合わせ", "r": "じぜんうちあわせ", "hv": "SỰ TIỀN", "vi": "họp bàn trước" },
+          { "w": "予約不要", "r": "よやくふよう", "hv": "DỰ ƯỚC BẤT YẾU", "vi": "không cần đặt trước" },
+          { "w": "〜部", "r": "ぶ", "hv": "BỘ", "vi": "~ bản (đếm tài liệu)" }
+        ],
+        "grammar": null,
+        "evidence": "12月17日（木）までに会社案内パンフレットの準備（20部）",
+        "tip": "Dạng memo: so khớp từng chi tiết ngày + địa điểm (A/B) + までに/に. Đề hay tráo ngày hoặc phòng."
+      }
+    },
+    {
+      "num": 57,
+      "passage": "p3",
+      "stem": "<u>これ</u>とは何か。",
+      "options": ["常温の料理を好んで食べたこと", "食べたいと思えるように工夫をしてきたこと", "一人一人の好みに合わせて料理してきたこと", "ヒトと動物とのちがいを意識して料理してきたこと"],
+      "answer": 2,
+      "explanation": {
+        "translation": "\"Điều này\" là gì? → Việc con người đã khéo léo tìm cách để món ăn trở nên hấp dẫn, khiến muốn ăn.",
+        "why": "これ chỉ nội dung câu trước: ヒトは…あらゆる手段を使って、食欲を刺激する工夫をしてきた (dùng mọi cách để kích thích cảm giác thèm ăn). 食欲を刺激する = làm cho muốn ăn → đáp án 2.",
+        "options": [
+          "Sai: con người KHÔNG thích món ở nhiệt độ thường.",
+          "Đúng: 食欲を刺激する工夫 = tìm cách để muốn ăn. ĐÚNG.",
+          "Sai: bài không nói nấu theo khẩu vị từng người.",
+          "Sai: sự khác biệt người – động vật chỉ là cách nói của tác giả, con người không nấu ăn vì ý thức điều đó."
+        ],
+        "vocab": [
+          { "w": "常温", "r": "じょうおん", "hv": "THƯỜNG ÔN", "vi": "nhiệt độ thường" },
+          { "w": "食欲", "r": "しょくよく", "hv": "THỰC DỤC", "vi": "cảm giác thèm ăn" },
+          { "w": "刺激", "r": "しげき", "hv": "THÍCH KÍCH", "vi": "kích thích" },
+          { "w": "工夫", "r": "くふう", "hv": "CÔNG PHU", "vi": "tìm tòi, sáng tạo cách làm" }
+        ],
+        "grammar": null,
+        "evidence": "ヒトは、辛い味、強烈なにおい、熱い、冷たいなど、あらゆる手段を使って、食欲を刺激する工夫をしてきたのです。",
+        "tip": "Từ chỉ thị これ thường chỉ ý chính của câu ngay trước (bỏ qua câu chèn こうした言い方は…)."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p4",
+      "stem": "筆者がマネージャーに言いたいことは何か。",
+      "options": ["マネージャーの能力を超えている仕事もスタッフにさせるべきだ。", "マネージャーより能力の高いスタッフを集めるべきだ。", "スタッフの能力に合わせて達成できることを要求すべきだ。", "スタッフの能力の限界まで仕事をさせるべきだ。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tác giả muốn nói gì với các quản lý? → Nên giao cho nhân viên cả những việc vượt quá năng lực của chính quản lý.",
+        "why": "自分のことを棚に上げて = bất kể bản thân có làm được hay không → vẫn yêu cầu nhân viên làm. Tức là cả việc mà quản lý tự mình không làm được cũng phải giao → đáp án 1.",
+        "options": [
+          "Đúng: kể cả việc vượt năng lực quản lý cũng yêu cầu nhân viên làm. ĐÚNG.",
+          "Sai: bài nói về việc yêu cầu, không nói tuyển nhân viên giỏi hơn.",
+          "Sai: không phải \"vừa sức nhân viên\" mà là yêu cầu cả việc khó.",
+          "Sai: 天井 là giới hạn năng lực của người lãnh đạo, không nói ép nhân viên đến giới hạn."
+        ],
+        "vocab": [
+          { "w": "要求", "r": "ようきゅう", "hv": "YÊU CẦU", "vi": "yêu cầu, đòi hỏi" },
+          { "w": "到底", "r": "とうてい", "hv": "ĐÁO ĐỂ", "vi": "(phủ định) không thể nào" },
+          { "w": "棚に上げる", "r": "たなにあげる", "hv": "BẰNG", "vi": "gác sang một bên (lỗi/điểm yếu của mình)" },
+          { "w": "組織", "r": "そしき", "hv": "TỔ CHỨC", "vi": "tổ chức" }
+        ],
+        "grammar": {
+          "pattern": "～ないと",
+          "meaning": "nếu không ~ thì (hệ quả xấu)",
+          "form": "Vない + と",
+          "example": "急がないと、電車に遅れてしまう。"
+        },
+        "evidence": "「自分のことを棚に上げて、スタッフに要求すべきことは要求してください」ということです。",
+        "tip": "Chú thích (注) thường là chìa khóa: 自分ができるかどうかに関係なく → vượt khả năng bản thân."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p5",
+      "stem": "人間関係について、筆者が言いたいことは何か。",
+      "options": ["人を不愉快にさせないような表現をするべきだ。", "相手の気持ちを理解しなくてはならない。", "自分の気持ちをきちんと伝えるべきだ。", "不満があっても我慢したほうがいい。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về quan hệ con người, tác giả muốn nói gì? → Nên truyền đạt cảm xúc của mình một cách đúng đắn.",
+        "why": "Tác giả cảnh báo: im lặng, không phản bác, không nói ra cảm giác khó chịu → đối phương mất cơ hội hiểu mình, quan hệ xây trên hiểu lầm. → Ý muốn nói: hãy nói ra cảm xúc, ý kiến của mình.",
+        "options": [
+          "Sai: tác giả phê phán việc vì sợ làm người khác khó chịu mà im lặng.",
+          "Sai: bài nhấn mạnh việc để đối phương hiểu mình, không phải mình hiểu đối phương.",
+          "Đúng: phải truyền đạt cảm xúc của mình. ĐÚNG.",
+          "Sai: ngược với ý tác giả (chịu đựng → quan hệ dựa trên hiểu lầm)."
+        ],
+        "vocab": [
+          { "w": "不愉快", "r": "ふゆかい", "hv": "BẤT DU KHOÁI", "vi": "khó chịu, không vui" },
+          { "w": "反論", "r": "はんろん", "hv": "PHẢN LUẬN", "vi": "phản bác" },
+          { "w": "葛藤", "r": "かっとう", "hv": "CÁT ĐẰNG", "vi": "xung đột, mâu thuẫn" },
+          { "w": "誤解", "r": "ごかい", "hv": "NGỘ GIẢI", "vi": "hiểu lầm" }
+        ],
+        "grammar": {
+          "pattern": "～のうえに",
+          "meaning": "trên nền tảng ~ (dựa trên)",
+          "form": "N + のうえに",
+          "example": "信頼のうえに成り立つ関係。"
+        },
+        "evidence": "反論もせず、自分の不快な気持ちも伝えないで黙っていると、相手はあなたを理解するチャンスを失い、互いに自分らしくつきあうことができなくなるでしょう。",
+        "tip": "Bài nêu hậu quả xấu của việc A (im lặng) → ý muốn nói là làm ngược lại A (nói ra)."
+      }
+    }
+  ]
+}

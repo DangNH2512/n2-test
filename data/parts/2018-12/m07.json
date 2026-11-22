@@ -1,0 +1,362 @@
+{
+  "exam": "2018-12",
+  "mondai": 7,
+  "section": "grammar",
+  "instruction": "次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn phương án đúng nhất điền vào chỗ trống trong câu (ngữ pháp).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "あの人は、人の意見を聞き（　　）しないで、自分の主張ばかりする。",
+      "options": ["まで", "も", "と", "を"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Người đó thậm chí không thèm nghe ý kiến người khác, chỉ toàn khăng khăng chủ trương của mình.",
+        "why": "Vます + もしない = \"đến cả V cũng không làm\" (nhấn mạnh phủ định, thái độ chê trách). 聞きもしないで = chẳng thèm nghe.",
+        "options": [
+          "まで → không có mẫu Vます＋までしない. Sai.",
+          "も → 聞きもしないで: chẳng thèm nghe. ĐÚNG.",
+          "と → không ghép được với Vます＋しない. Sai.",
+          "を → không dùng Vます＋をしない trong mẫu này. Sai."
+        ],
+        "vocab": [
+          { "w": "主張", "r": "しゅちょう", "hv": "CHỦ TRƯƠNG", "vi": "chủ trương, khẳng định ý kiến" },
+          { "w": "意見", "r": "いけん", "hv": "Ý KIẾN", "vi": "ý kiến" }
+        ],
+        "grammar": {
+          "pattern": "Vます ＋ もしない",
+          "meaning": "đến cả V cũng không (nhấn mạnh, thường mang ý trách móc)",
+          "form": "Vます(bỏ ます) ＋ もしない／もせずに",
+          "example": "彼は私の話を聞きもしないで、出て行った。"
+        },
+        "evidence": null,
+        "tip": "Thường đi kèm ～ばかりする/～てしまう để chê thái độ: 見もしないで捨てた (chẳng thèm xem đã vứt)."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "さっき、買い物（　　）、コンビニに寄ってATMでお金を下ろしてきた。",
+      "options": ["の場合", "にしては", "のついでに", "というのは"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Lúc nãy, nhân tiện đi mua sắm, tôi đã ghé cửa hàng tiện lợi rút tiền ở ATM.",
+        "why": "N の ついでに = nhân tiện làm N thì làm luôn việc khác. Việc chính: mua sắm; việc phụ: ghé rút tiền.",
+        "options": [
+          "の場合 → trong trường hợp ~ (giả định). Không hợp hành động đã xong. Sai.",
+          "にしては → so với ~ thì (trái kỳ vọng). Sai.",
+          "のついでに → nhân tiện ~. ĐÚNG.",
+          "というのは → nghĩa là, sở dĩ (giải thích). Sai."
+        ],
+        "vocab": [
+          { "w": "寄る", "r": "よる", "hv": "KÝ", "vi": "ghé qua" },
+          { "w": "下ろす", "r": "おろす", "hv": "HẠ", "vi": "rút (tiền); hạ xuống" }
+        ],
+        "grammar": {
+          "pattern": "～ついでに",
+          "meaning": "nhân tiện, tiện thể",
+          "form": "Nの／V辞書形・Vた ＋ ついでに",
+          "example": "駅へ行くついでに、この手紙を出してきてくれない？"
+        },
+        "evidence": null,
+        "tip": "寄る + お金を下ろす là cụm hay gặp với ついでに (việc phụ làm kèm)."
+      }
+    },
+    {
+      "num": 33,
+      "passage": null,
+      "stem": "（テレビ番組で）\n私たちが住んでいる地球は、（　　）どうやってできたのでしょうか。地球誕生の秘密を見てみましょう。",
+      "options": ["とうとう", "おそらく", "まもなく", "いったい"],
+      "answer": 4,
+      "explanation": {
+        "translation": "(Trên chương trình TV) Trái Đất nơi chúng ta đang sống rốt cuộc đã được hình thành như thế nào? Hãy cùng xem bí mật về sự ra đời của Trái Đất.",
+        "why": "いったい + từ để hỏi (どうやって, なぜ, 何) + のだろうか = \"rốt cuộc, không biết là… vậy\" → nhấn mạnh câu hỏi.",
+        "options": [
+          "とうとう → cuối cùng thì (kết quả sau thời gian dài). Sai.",
+          "おそらく → có lẽ (đi với でしょう/だろう suy đoán, không đi với từ để hỏi). Sai.",
+          "まもなく → sắp sửa. Sai.",
+          "いったい → rốt cuộc (nhấn mạnh câu hỏi). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "誕生", "r": "たんじょう", "hv": "ĐẢN SINH", "vi": "ra đời" },
+          { "w": "秘密", "r": "ひみつ", "hv": "BÍ MẬT", "vi": "bí mật" },
+          { "w": "一体", "r": "いったい", "hv": "NHẤT THỂ", "vi": "rốt cuộc, không biết là… (nhấn mạnh câu hỏi)" }
+        ],
+        "grammar": {
+          "pattern": "いったい＋疑問詞～か",
+          "meaning": "rốt cuộc… vậy (nhấn mạnh nghi vấn)",
+          "form": "いったい ＋ 何／どう／なぜ… ＋ のだろうか／のか",
+          "example": "いったい誰がこんなことをしたんだろう。"
+        },
+        "evidence": null,
+        "tip": "Thấy từ để hỏi (どうやって) + でしょうか → nghĩ ngay đến いったい."
+      }
+    },
+    {
+      "num": 34,
+      "passage": null,
+      "stem": "X社の調査によると、共働き夫婦における夫の家事負担の割合は、夫の年齢が（　　）にしたがって増加しているという。",
+      "options": ["下がる", "下がっている", "下がった", "下がっていた"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo khảo sát của công ty X, tỷ lệ gánh vác việc nhà của người chồng trong các cặp vợ chồng cùng đi làm tăng lên khi tuổi của người chồng càng giảm (càng trẻ).",
+        "why": "～にしたがって (càng… càng…) đi với động từ thể từ điển chỉ sự biến đổi: 年齢が下がるにしたがって.",
+        "options": [
+          "下がる → thể từ điển + にしたがって. ĐÚNG.",
+          "下がっている → không dùng thể ている trước にしたがって. Sai.",
+          "下がった → không dùng thể た. Sai.",
+          "下がっていた → không dùng thể ていた. Sai."
+        ],
+        "vocab": [
+          { "w": "共働き", "r": "ともばたらき", "hv": "CỘNG ĐỘNG", "vi": "vợ chồng cùng đi làm" },
+          { "w": "家事", "r": "かじ", "hv": "GIA SỰ", "vi": "việc nhà" },
+          { "w": "負担", "r": "ふたん", "hv": "PHỤ ĐẢM", "vi": "gánh vác, gánh nặng" },
+          { "w": "割合", "r": "わりあい", "hv": "CÁT HỢP", "vi": "tỷ lệ" }
+        ],
+        "grammar": {
+          "pattern": "～にしたがって",
+          "meaning": "cùng với ~, ~ càng… thì… càng (biến đổi song song)",
+          "form": "V辞書形／N ＋ にしたがって",
+          "example": "高く登るにしたがって、気温が下がっていく。"
+        },
+        "evidence": null,
+        "tip": "Tương tự: ～につれて, ～とともに, ～に伴って — đều đi với V thể từ điển."
+      }
+    },
+    {
+      "num": 35,
+      "passage": null,
+      "stem": "12月に入り、インフルエンザの患者数は増える（　　）。",
+      "options": ["ほどだ", "までだ", "一方だ", "次第だ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Bước sang tháng 12, số bệnh nhân cúm cứ ngày càng tăng.",
+        "why": "V辞書形 + 一方だ = cứ ngày càng ~ (một xu hướng tiếp diễn theo một chiều, thường là xấu). 増える一方だ = cứ tăng mãi.",
+        "options": [
+          "ほどだ → đến mức ~ (cần nêu mức độ cụ thể). Sai.",
+          "までだ → chỉ việc ~ thôi / đành ~. Sai.",
+          "一方だ → ngày càng ~. ĐÚNG.",
+          "次第だ → tùy thuộc vào ~ (N次第だ). Sai."
+        ],
+        "vocab": [
+          { "w": "患者", "r": "かんじゃ", "hv": "HOẠN GIẢ", "vi": "bệnh nhân" },
+          { "w": "インフルエンザ", "r": "インフルエンザ", "hv": "", "vi": "bệnh cúm" }
+        ],
+        "grammar": {
+          "pattern": "～一方だ",
+          "meaning": "cứ ngày càng ~ (xu hướng một chiều)",
+          "form": "V辞書形 ＋ 一方だ (thường với động từ biến đổi: 増える, 減る, 悪化する…)",
+          "example": "最近、物価は上がる一方だ。"
+        },
+        "evidence": null,
+        "tip": "一方だ đi với động từ chỉ biến đổi (増える, 減る, 悪くなる)."
+      }
+    },
+    {
+      "num": 36,
+      "passage": null,
+      "stem": "わが国は、石油や石炭などのエネルギー資源がほとんどないため、多くを海外からの輸入に（　　）。",
+      "options": ["頼らざるを得ない", "頼るわけにはいかない", "頼らないに違いない", "頼ることにほかならない"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nước ta hầu như không có tài nguyên năng lượng như dầu mỏ, than đá, nên buộc phải phụ thuộc phần lớn vào nhập khẩu từ nước ngoài.",
+        "why": "Vない(bỏ ない) + ざるを得ない = buộc phải, đành phải (vì không có lựa chọn khác). Lý do: không có tài nguyên → buộc phải nhập khẩu.",
+        "options": [
+          "頼らざるを得ない → buộc phải dựa vào. ĐÚNG.",
+          "頼るわけにはいかない → không thể dựa vào (ngược ý). Sai.",
+          "頼らないに違いない → chắc chắn không dựa vào (ngược ý). Sai.",
+          "頼ることにほかならない → chẳng qua chính là việc dựa vào (định nghĩa, không hợp với ため). Sai."
+        ],
+        "vocab": [
+          { "w": "資源", "r": "しげん", "hv": "TƯ NGUYÊN", "vi": "tài nguyên" },
+          { "w": "輸入", "r": "ゆにゅう", "hv": "THÂU NHẬP", "vi": "nhập khẩu" },
+          { "w": "頼る", "r": "たよる", "hv": "LẠI", "vi": "dựa vào, nhờ cậy" },
+          { "w": "石炭", "r": "せきたん", "hv": "THẠCH THÁN", "vi": "than đá" }
+        ],
+        "grammar": {
+          "pattern": "～ざるを得ない",
+          "meaning": "buộc phải, đành phải",
+          "form": "Vない(bỏ ない) ＋ ざるを得ない (する → せざるを得ない)",
+          "example": "台風が来ているので、旅行を中止せざるを得ない。"
+        },
+        "evidence": null,
+        "tip": "Vế trước nêu lý do không có lựa chọn (～ため) → vế sau thường là ざるを得ない."
+      }
+    },
+    {
+      "num": 37,
+      "passage": null,
+      "stem": "（会社で）\n受付「A社の山下様が受付で（　　）。」\n田中「あ、わかりました。すぐ行きます。」",
+      "options": ["お待ちです", "待っております", "お待ちください", "待っていただけますか"],
+      "answer": 1,
+      "explanation": {
+        "translation": "(Ở công ty) Lễ tân: \"Ông Yamashita của công ty A đang đợi ở quầy lễ tân ạ.\" Tanaka: \"À, tôi hiểu rồi. Tôi đi ngay.\"",
+        "why": "Chủ ngữ là khách (山下様) → dùng tôn kính ngữ お＋Vます＋です = đang làm V (tôn kính). お待ちです = 待っていらっしゃいます.",
+        "options": [
+          "お待ちです → tôn kính ngữ: (khách) đang đợi. ĐÚNG.",
+          "待っております → khiêm nhường ngữ, chỉ dùng cho phía mình. Sai.",
+          "お待ちください → xin hãy đợi (yêu cầu). Sai.",
+          "待っていただけますか → có thể đợi giúp không (nhờ vả). Sai."
+        ],
+        "vocab": [
+          { "w": "受付", "r": "うけつけ", "hv": "THỤ PHÓ", "vi": "quầy lễ tân, tiếp nhận" }
+        ],
+        "grammar": {
+          "pattern": "お＋Vます＋です",
+          "meaning": "tôn kính ngữ: (người trên/khách) đang V",
+          "form": "お＋Vます(bỏ ます)＋です",
+          "example": "社長がお呼びです。／お客様がお待ちです。"
+        },
+        "evidence": null,
+        "tip": "Hành động của khách → tôn kính (お待ちです); hành động của mình → khiêm nhường (待っております)."
+      }
+    },
+    {
+      "num": 38,
+      "passage": null,
+      "stem": "レストランハヤマのランチは、AランチかBランチの2種類（　　）選べないけどとてもおいしい。",
+      "options": ["にしか", "にだけ", "からしか", "からだけ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Bữa trưa ở nhà hàng Hayama chỉ có thể chọn từ 2 loại là suất A hoặc suất B, nhưng rất ngon.",
+        "why": "～から選ぶ = chọn từ trong số ~. Đi với phủ định 選べない → dùng しか: からしか選べない = chỉ có thể chọn từ ~.",
+        "options": [
+          "にしか → ～に選ぶ không đúng (chọn \"từ\" phải là から). Sai.",
+          "にだけ → sai trợ từ, và だけ không đi với phủ định theo nghĩa này. Sai.",
+          "からしか → chỉ chọn được từ (2 loại). ĐÚNG.",
+          "からだけ → だけ + 選べない thành \"chỉ riêng 2 loại là không chọn được\" (ngược nghĩa). Sai."
+        ],
+        "vocab": [
+          { "w": "種類", "r": "しゅるい", "hv": "CHỦNG LOẠI", "vi": "loại, chủng loại" },
+          { "w": "選ぶ", "r": "えらぶ", "hv": "TUYỂN", "vi": "chọn" }
+        ],
+        "grammar": {
+          "pattern": "～しか～ない",
+          "meaning": "chỉ ~ (nhấn mạnh sự ít ỏi, luôn đi với phủ định)",
+          "form": "N(＋trợ từ) ＋ しか ＋ Vない",
+          "example": "この店では現金でしか払えない。"
+        },
+        "evidence": null,
+        "tip": "Giữ nguyên trợ từ của động từ (から選ぶ) rồi gắn しか → からしか選べない."
+      }
+    },
+    {
+      "num": 39,
+      "passage": null,
+      "stem": "昨日私が乗った飛行機は、今まで乗ったどの（　　）小さかった。",
+      "options": ["飛行機のわりに", "飛行機よりも", "飛行機がいちばん", "飛行機のほうが"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Chiếc máy bay hôm qua tôi đi nhỏ hơn bất kỳ chiếc máy bay nào tôi từng đi đến giờ.",
+        "why": "どの N よりも～ = hơn bất cứ N nào → so sánh nhất. 今まで乗ったどの飛行機よりも小さかった.",
+        "options": [
+          "飛行機のわりに → so với ~ thì (trái kỳ vọng), không đi với どの. Sai.",
+          "飛行機よりも → どの飛行機よりも: hơn bất kỳ chiếc nào. ĐÚNG.",
+          "飛行機がいちばん → câu thành mâu thuẫn chủ ngữ. Sai.",
+          "飛行機のほうが → \"chiếc nào cũng nhỏ hơn\", ngược ý. Sai."
+        ],
+        "vocab": [
+          { "w": "飛行機", "r": "ひこうき", "hv": "PHI HÀNH CƠ", "vi": "máy bay" }
+        ],
+        "grammar": {
+          "pattern": "どの／どんな N よりも",
+          "meaning": "hơn bất cứ N nào (= nhất)",
+          "form": "どの＋N＋よりも＋Adj",
+          "example": "彼はクラスのどの学生よりも背が高い。"
+        },
+        "evidence": null,
+        "tip": "Cũng nói 誰よりも, 何よりも, どこよりも = hơn ai/cái gì/nơi nào hết."
+      }
+    },
+    {
+      "num": 40,
+      "passage": null,
+      "stem": "髪が傷んでしまうので髪を洗った後は、濡れた（　　）、しっかり乾かしましょう。",
+      "options": ["ままにせず", "ようになっても", "だけにすれば", "ことにならなくて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Vì tóc sẽ bị hư tổn, nên sau khi gội đầu, đừng để tóc ướt nguyên như vậy mà hãy sấy khô kỹ.",
+        "why": "Vた + ままにする = để nguyên trạng thái. ままにせず (= ままにしないで) = không để nguyên trạng thái ướt, mà hãy sấy khô.",
+        "options": [
+          "ままにせず → không để nguyên (ướt). ĐÚNG.",
+          "ようになっても → dù trở nên ~ (không hợp nghĩa). Sai.",
+          "だけにすれば → nếu chỉ làm ~ (vô nghĩa). Sai.",
+          "ことにならなくて → không hợp ngữ pháp/nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "傷む", "r": "いたむ", "hv": "THƯƠNG", "vi": "bị hư, tổn hại" },
+          { "w": "濡れる", "r": "ぬれる", "hv": "NHU", "vi": "bị ướt" },
+          { "w": "乾かす", "r": "かわかす", "hv": "CAN", "vi": "làm khô, sấy khô" }
+        ],
+        "grammar": {
+          "pattern": "～たままにする／～ままにせず",
+          "meaning": "để nguyên trạng thái ~ / không để nguyên trạng thái ~",
+          "form": "Vた／Nの／Aい ＋ まま(にする)；～せず = ～しないで (văn viết)",
+          "example": "窓を開けたままにせず、出かけるときは閉めてください。"
+        },
+        "evidence": null,
+        "tip": "せず = しないで (cách nói trang trọng). ままにせず + V = đừng để nguyên mà hãy V."
+      }
+    },
+    {
+      "num": 41,
+      "passage": null,
+      "stem": "A「最近元気ないみたいだけど、どうしたの？」\nB「別れた彼のことがなかなか忘れられなくて…」\nA「忘れられないなら、そんなに無理に（　　）と思うよ。」",
+      "options": ["忘れてしまいたくない", "忘れようとしているんだ", "忘れてしまうんだろう", "忘れようとしなくてもいい"],
+      "answer": 4,
+      "explanation": {
+        "translation": "A: \"Dạo này trông bạn không được vui, có chuyện gì vậy?\" B: \"Tớ mãi không quên được người yêu cũ…\" A: \"Nếu không quên được thì tớ nghĩ không cần phải cố quên đến thế đâu.\"",
+        "why": "A đang an ủi: nếu không quên được thì đừng ép mình. Vようとする (cố gắng V) + なくてもいい (không cần) → 忘れようとしなくてもいい.",
+        "options": [
+          "忘れてしまいたくない → không muốn quên (không hợp lời khuyên). Sai.",
+          "忘れようとしているんだ → đang cố quên (mô tả, không phải khuyên). Sai.",
+          "忘れてしまうんだろう → chắc sẽ quên mất thôi (mâu thuẫn với 無理に). Sai.",
+          "忘れようとしなくてもいい → không cần cố quên. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "無理に", "r": "むりに", "hv": "VÔ LÝ", "vi": "gượng ép, cố quá sức" },
+          { "w": "別れる", "r": "わかれる", "hv": "BIỆT", "vi": "chia tay" }
+        ],
+        "grammar": {
+          "pattern": "Vようとする ＋ なくてもいい",
+          "meaning": "không cần phải cố gắng V",
+          "form": "V意向形 ＋ としなくてもいい",
+          "example": "全部一度に覚えようとしなくてもいいですよ。"
+        },
+        "evidence": null,
+        "tip": "無理に + ～なくてもいい là cụm khuyên nhủ rất tự nhiên: 無理に食べなくてもいい."
+      }
+    },
+    {
+      "num": 42,
+      "passage": null,
+      "stem": "私は両親に子供のころから自分がやりたいことを自由に（　　）。",
+      "options": ["やらせてもらってくる", "やらせてくれている", "やらせてもらってきた", "やらせてくれていた"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Từ nhỏ đến giờ, tôi luôn được bố mẹ cho tự do làm những gì mình muốn.",
+        "why": "Chủ ngữ 私 + 両親に → dùng させてもらう (được ai đó cho phép làm). 子供のころから (từ quá khứ đến hiện tại) → Vてきた. ⇒ やらせてもらってきた.",
+        "options": [
+          "やらせてもらってくる → thể てくる hiện tại/tương lai, không hợp với ～から đến nay. Sai.",
+          "やらせてくれている → くれる cần chủ ngữ là 両親は, không đi với 私は両親に. Sai.",
+          "やらせてもらってきた → đã luôn được cho làm (từ trước đến nay). ĐÚNG.",
+          "やらせてくれていた → sai chủ ngữ (くれる) và sai thì. Sai."
+        ],
+        "vocab": [
+          { "w": "両親", "r": "りょうしん", "hv": "LƯỠNG THÂN", "vi": "bố mẹ" },
+          { "w": "自由", "r": "じゆう", "hv": "TỰ DO", "vi": "tự do" }
+        ],
+        "grammar": {
+          "pattern": "～させてもらう ＋ ～てきた",
+          "meaning": "được (ai) cho phép làm ~ (suốt từ trước đến nay)",
+          "form": "私は 人に Vさせてもらう ／ Vてきた: hành động kéo dài từ quá khứ đến hiện tại",
+          "example": "私は先輩にいろいろなことを教えてもらってきた。"
+        },
+        "evidence": null,
+        "tip": "Xem trợ từ: 私は＋人に → もらう; 人が/は＋私に → くれる."
+      }
+    }
+  ]
+}

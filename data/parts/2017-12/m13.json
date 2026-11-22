@@ -1,0 +1,119 @@
+{
+  "exam": "2017-12",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn dài (chủ đề luận) và chọn câu trả lời đúng nhất.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "持続的幸せ",
+      "text": "美味しい食べ物や美しい景色。お金や健康や愛。そういったものでは得られない持続的幸せ。それを得るための必要条件は、「困難」です。困難のないところに、持続的幸せはないのです。困難というものがまったくなかったらどうなるか、ちょっと想像してみて下さい。欲しいものは何でも手に入る。したいことは何でもできる。すべての欲求が何の苦もなく満たされる。嫌なことは一切（注1）しなくていい。すべてが思い通り。そして、あらゆることが順調にいく。だから、「困ったな、どうしたらいいだろう？」と思うことなど、皆無。つまり、問題はまったく起こらない……「わ、いいな。そうなりたい」と思う人もいるかもしれません。確かに、短期間ならこういう境遇（注2）もわるくないかもしれません。しかし、来る日も来る日も（注3）そうだったとしたら？まちがいなく、退屈するようになるでしょう。そして、やがて耐えられなくなるはずです。なぜなら、そこには自分の能力を発揮する機会がまったくないからです。自分の能力を発揮すべきことが、何も起こらないのです。これほどつまらないことはない。それが毎日続いたら、まちがいなく退屈し、耐えられなくなるでしょう。そう、私たちが能力を発揮できるのは、困難（問題）に出会ったときです。そのときはじめて、能力を発揮する機会が与えられる。そして、自分の能力で困難を乗り越えることができたとき、面白さやよろこびを感じるのです。それは、何かからただ受動的に得られる面白さ・よろこびとは異なり、自分の力で獲得する面白さ・よろこびです。また、それは、「やった－」という達成感と、さらに、「自分にはやればできる力があるんだ」という感覚――「自己効力感」――をともなった面白さ・よろこびです。これが積み重なって、生の充実感と持続的幸せがもたらされる（注5）。持続的幸せは、困難にぶつかりながら、自分の能力で何とかそれを乗り越えようと努力しながら生きていくことによって得られるものなのです。つまり、持続的幸せが得られるかどうかは、生き方の問題なのです。\n\n（注1）一切：まったく\n（注2）境遇：状況\n（注3）来る日も来る日も：ここでは、この先ずっと\n（注4）受動的に：ここでは、自分から何もしないで\n（注5）もたらされる：得られる"
+    }
+  ],
+  "questions": [
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "困難がまったくない状態について、筆者はどう述べているか。",
+      "options": [
+        "短期間であっても、生活に飽きてしまうだろう。",
+        "短期間であれば、嫌なことも嫌でなくなるだろう。",
+        "長く続くと、退屈な生活に耐えられなくなるだろう。",
+        "長く続くと、欲しいものが何なのかわからなくなるだろう。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về trạng thái hoàn toàn không có khó khăn, tác giả nói thế nào? → Nếu kéo dài, ta sẽ không chịu nổi cuộc sống nhàm chán.",
+        "why": "Tác giả nói: thời gian ngắn thì có thể không tệ, nhưng nếu ngày nào cũng vậy thì chắc chắn sẽ chán, rồi chẳng mấy chốc không chịu nổi.",
+        "options": [
+          "Ngược lại – thời gian ngắn thì 〜もわるくないかもしれません (có thể không tệ). Sai.",
+          "Bài không nói việc ghét sẽ hết ghét; trong trạng thái đó vốn chẳng phải làm việc ghét. Sai.",
+          "Kéo dài → chán, không chịu nổi. ĐÚNG.",
+          "Không nói không biết mình muốn gì. Sai."
+        ],
+        "vocab": [
+          { "w": "退屈", "r": "たいくつ", "hv": "THOÁI KHUẤT", "vi": "chán, buồn tẻ" },
+          { "w": "耐える", "r": "たえる", "hv": "NẠI", "vi": "chịu đựng" },
+          { "w": "境遇", "r": "きょうぐう", "hv": "CẢNH NGỘ", "vi": "hoàn cảnh" },
+          { "w": "皆無", "r": "かいむ", "hv": "GIAI VÔ", "vi": "hoàn toàn không có" }
+        ],
+        "grammar": {
+          "pattern": "〜はずだ",
+          "meaning": "chắc chắn ~ (suy luận có căn cứ)",
+          "form": "普通形 + はずだ",
+          "example": "そんな生活が続けば、やがて耐えられなくなるはずだ。"
+        },
+        "evidence": "確かに、短期間ならこういう境遇もわるくないかもしれません。しかし、来る日も来る日もそうだったとしたら？まちがいなく、退屈するようになるでしょう。そして、やがて耐えられなくなるはずです。",
+        "tip": "Cấu trúc 確かに〜かもしれない。しかし〜 → ý chính của tác giả nằm sau しかし."
+      }
+    },
+    {
+      "num": 72,
+      "passage": "p1",
+      "stem": "筆者は困難をどのようにとらえているか。",
+      "options": [
+        "自分の能力を生かす機会になる。",
+        "自分の能力を試すために必要だ。",
+        "自分の能力で乗り越えられないことはない。",
+        "自分の能力だけで乗り越えようとしなくてもいい。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tác giả nhìn nhận khó khăn như thế nào? → Là cơ hội để phát huy năng lực bản thân.",
+        "why": "\"Chúng ta có thể phát huy năng lực là khi gặp khó khăn. Chỉ khi đó mới được trao cơ hội phát huy năng lực.\" → khó khăn = cơ hội phát huy (生かす) năng lực.",
+        "options": [
+          "Cơ hội phát huy năng lực. ĐÚNG.",
+          "Bài nói \"発揮する\" (phát huy), không phải \"試す\" (thử sức). Sai.",
+          "Bài không khẳng định khó khăn nào cũng vượt qua được. Sai.",
+          "Ngược lại – bài nhấn mạnh vượt qua bằng chính năng lực của mình. Sai."
+        ],
+        "vocab": [
+          { "w": "発揮", "r": "はっき", "hv": "PHÁT HUY", "vi": "phát huy" },
+          { "w": "生かす", "r": "いかす", "hv": "SINH", "vi": "tận dụng, phát huy" },
+          { "w": "乗り越える", "r": "のりこえる", "hv": "THỪA VIỆT", "vi": "vượt qua" },
+          { "w": "とらえる", "r": "とらえる", "hv": "", "vi": "nắm bắt, nhìn nhận" }
+        ],
+        "grammar": null,
+        "evidence": "そう、私たちが能力を発揮できるのは、困難（問題）に出会ったときです。そのときはじめて、能力を発揮する機会が与えられる。",
+        "tip": "能力を発揮する機会 ≈ 能力を生かす機会 (paraphrase)."
+      }
+    },
+    {
+      "num": 73,
+      "passage": "p1",
+      "stem": "筆者によると、持続的幸せを得るにはどうすればいいか。",
+      "options": [
+        "自分の能力に自信がなくても、主体的に生きていく。",
+        "困難を経験し、克服しようとしながら生きていく。",
+        "困難にぶつかっても、困難だと思わずに生きていく。",
+        "あらゆることに面白さやよろこびを見付けながら生きていく。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo tác giả, để có được hạnh phúc bền vững thì nên làm gì? → Sống trải qua khó khăn và cố gắng khắc phục chúng.",
+        "why": "Câu kết: \"Hạnh phúc bền vững có được nhờ sống vừa va chạm với khó khăn vừa nỗ lực vượt qua bằng năng lực của mình.\" 乗り越えようと努力する ≈ 克服しようとする.",
+        "options": [
+          "Bài không bàn về việc thiếu tự tin; 自己効力感 là kết quả, không phải điều kiện. Sai.",
+          "Trải qua khó khăn và cố gắng khắc phục. ĐÚNG.",
+          "Ngược lại – cần đối mặt và vượt qua khó khăn, không phải lờ đi. Sai.",
+          "Niềm vui có được khi tự mình vượt qua khó khăn, không phải tìm niềm vui trong mọi thứ. Sai."
+        ],
+        "vocab": [
+          { "w": "持続的", "r": "じぞくてき", "hv": "TRÌ TỤC ĐÍCH", "vi": "bền vững, lâu dài" },
+          { "w": "克服", "r": "こくふく", "hv": "KHẮC PHỤC", "vi": "khắc phục, vượt qua" },
+          { "w": "達成感", "r": "たっせいかん", "hv": "ĐẠT THÀNH CẢM", "vi": "cảm giác thành tựu" },
+          { "w": "ぶつかる", "r": "ぶつかる", "hv": "", "vi": "va phải, đối mặt" }
+        ],
+        "grammar": {
+          "pattern": "〜によって得られるものだ",
+          "meaning": "là thứ có được nhờ ~",
+          "form": "Vること + によって",
+          "example": "信頼は、約束を守ることによって得られるものだ。"
+        },
+        "evidence": "持続的幸せは、困難にぶつかりながら、自分の能力で何とかそれを乗り越えようと努力しながら生きていくことによって得られるものなのです。",
+        "tip": "Bài luận dài: kết luận thường ở đoạn cuối với つまり／〜なのです."
+      }
+    }
+  ]
+}

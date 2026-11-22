@@ -1,0 +1,191 @@
+{
+  "exam": "2017-07",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（１）から（５）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "昔話というのは、最初はほんの少数の人が聞き、そのなかの一人か二人がおぼえて、次の世代の人に話し、そして次へと語られてきました。同じ話でも変わってくるのが当たり前です。聞き手の反応によって、面白いところがくわしく語られ、退屈な部分は省かれ、物語としての形がととのってきます。だから面白いはずです。でも、教訓(注)やお説教をつけ加え、つまらなくしてしまう場合もあるようです。\n（中川李枝子『絵本と私』による）\n（注）教訓：道徳的な教え"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、ある図書館に届いたメールである。\n\n村中市立南図書館　ご担当者様\n自習室をいつも利用している者ですが、お願いがあってメールしました。\n最近、大声で話しながら作業をしているグループが増えており、自分の調べものに集中できず困っています。図書館の資料を利用して調べものをしているようなので、注意することもできません。グループ用の自習室を別に作るなどの対処をしていただくことはできないでしょうか。\nご検討どうぞよろしくお願いいたします。\n鈴木正子"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "以下は、ある会社で回覧された文書である。\n\n2017年6月12日\n社員各位\n会計課長\n三村株式会社製「はさみSB-A」の回収・交換について\n三村株式会社より、「はさみSB-A」に欠陥が発見されたため全製品を回収し、交換を行うとの発表がありました。\n会計課で調べたところ購入記録がありましたので、三村株式会社に交換を依頼します。つきましては、各課で「はさみSB-A」をまとめて会計課までお持ちください。\n6月22日（木）に発送を予定しているため、必ず6月21日（水）までにお持ちください。\nご協力よろしくお願いいたします。\n以上"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "笑顔がこころと体の健康に大事な役割を果たしていることが、多くの研究からわかってきている。笑顔はこころの健康指標（注）になる。笑顔が出るのは、それだけ幸せだと感じているからだ。\n一方、笑顔になると幸せだという気持ちがわいてくるということもわかっている。同じ漫画を、意図的に笑顔を作って読んだときと、厳しい顔をして読んだときとでは、笑顔で読んだときの方が面白いという評価が高くなる。つまり笑顔になると、入ってくる情報がプラスの方面に偏るのだ。\n（大野裕　日本経済新聞2015年4月3日付夕刊による）\n（注）健康指標：健康の程度を示すもの"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "そもそも働くとは「得る」ことなのでしょうか。\n私たちは働くとき、何らかの社会的役割を担って（注1）いて、その役割に応じた結果が求められます。そして、期待に応えたときに得られるものが報酬（注2）や自身の成長です。要するに、私たちは働くとき「得る」前に求められているものを「与える」ことになります。仕事の本質（注3）は得ることではなく、自分に求められているものを人に与える、すなわち「人の役に立つ」ことなのです。\n（山藤賢『社会人になるということ』による）\n（注1）担う：持つ　（注2）報酬：ここでは、給料　（注3）本質：本来の性質"
+    }
+  ],
+  "questions": [
+    {
+      "num": 55,
+      "passage": "p1",
+      "stem": "筆者によると、昔話が面白いのはなぜか。",
+      "options": [
+        "話し手が面白いと思う部分だけが伝えられてきたから",
+        "話し手がつまらないと思う部分も面白く語られてきたから",
+        "聞き手にとって面白い部分が残され伝えられてきたから",
+        "聞き手にとってためになる内容がうまく加えてあるから"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Theo tác giả, vì sao truyện cổ tích lại thú vị? → Vì những phần thú vị đối với người nghe được giữ lại và truyền lại.",
+        "why": "Tác giả viết: tùy phản ứng của người nghe, chỗ thú vị được kể kỹ, phần nhàm chán bị lược bỏ → nên truyện cổ tích thú vị. Tức là phần hấp dẫn với người nghe được giữ lại.",
+        "options": [
+          "Tiêu chí là phản ứng của người nghe, không phải 'người kể thấy thú vị'. Sai.",
+          "Phần nhàm chán bị lược bỏ (省かれ), chứ không được kể cho hay. Sai.",
+          "Phần thú vị với người nghe được giữ lại và truyền đi. ĐÚNG.",
+          "Thêm bài học/giáo huấn lại làm truyện nhàm chán (つまらなくしてしまう). Sai."
+        ],
+        "vocab": [
+          { "w": "昔話", "r": "むかしばなし", "hv": "TÍCH THOẠI", "vi": "truyện cổ tích" },
+          { "w": "聞き手", "r": "ききて", "hv": "VĂN THỦ", "vi": "người nghe" },
+          { "w": "省く", "r": "はぶく", "hv": "TỈNH", "vi": "lược bỏ" },
+          { "w": "退屈", "r": "たいくつ", "hv": "THOÁI KHUẤT", "vi": "nhàm chán" }
+        ],
+        "grammar": null,
+        "evidence": "聞き手の反応によって、面白いところがくわしく語られ、退屈な部分は省かれ、物語としての形がととのってきます。だから面白いはずです。",
+        "tip": "だから ngay trước kết luận → câu đứng trước だから chính là lý do."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p2",
+      "stem": "このメールを書いた人は、自習室のどのような問題を指摘しているか。",
+      "options": [
+        "利用者がグループで調べものをしていること",
+        "話しながら作業しているグループが多いこと",
+        "グループ用の自習室を適切に使用していないこと",
+        "図書館の資料を使わずに作業しているグループがあること"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Người viết email chỉ ra vấn đề gì của phòng tự học? → Có nhiều nhóm vừa nói chuyện vừa làm việc.",
+        "why": "Email viết: dạo này các nhóm vừa nói to vừa làm việc tăng lên, khiến tôi không tập trung được. Vấn đề là tiếng ồn do nói chuyện, không phải việc học theo nhóm.",
+        "options": [
+          "Bản thân việc học nhóm không bị phê phán; vấn đề là nói to. Sai.",
+          "Nhiều nhóm vừa nói chuyện vừa làm việc. ĐÚNG.",
+          "Chưa có phòng tự học cho nhóm — người viết đang đề nghị làm. Sai.",
+          "Ngược lại: họ có dùng tài liệu thư viện (資料を利用して). Sai."
+        ],
+        "vocab": [
+          { "w": "自習室", "r": "じしゅうしつ", "hv": "TỰ TẬP THẤT", "vi": "phòng tự học" },
+          { "w": "指摘", "r": "してき", "hv": "CHỈ TRÍCH", "vi": "chỉ ra" },
+          { "w": "対処", "r": "たいしょ", "hv": "ĐỐI XỬ", "vi": "xử lý, đối phó" },
+          { "w": "集中", "r": "しゅうちゅう", "hv": "TẬP TRUNG", "vi": "tập trung" }
+        ],
+        "grammar": null,
+        "evidence": "最近、大声で話しながら作業をしているグループが増えており、自分の調べものに集中できず困っています。",
+        "tip": "Phân biệt 'vấn đề' (問題) với 'đề xuất' (お願い) trong email."
+      }
+    },
+    {
+      "num": 57,
+      "passage": "p3",
+      "stem": "「はさみSB-A」について、各課はどうするように言われているか。",
+      "options": [
+        "欠陥があるものを、6月21日までに会計課に渡す。",
+        "欠陥があるものを、6月22日までに三村株式会社に発送する。",
+        "すべてを、6月21日までに会計課に渡す。",
+        "すべてを、6月22日までに三村株式会社に発送する。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về \"Kéo SB-A\", các phòng được yêu cầu làm gì? → Mang tất cả đến phòng kế toán trước ngày 21/6.",
+        "why": "Hãng thu hồi toàn bộ sản phẩm (全製品を回収). Các phòng gom kéo SB-A mang đến phòng kế toán, hạn chót 21/6 (thứ Tư). Ngày 22/6 là ngày phòng kế toán gửi đi.",
+        "options": [
+          "Thu hồi toàn bộ chứ không chỉ cái bị lỗi. Sai.",
+          "Không chỉ đồ lỗi, và các phòng không tự gửi cho công ty Mimura. Sai.",
+          "Tất cả, nộp phòng kế toán trước 21/6. ĐÚNG.",
+          "Gửi hàng ngày 22/6 là việc của phòng kế toán. Sai."
+        ],
+        "vocab": [
+          { "w": "回収", "r": "かいしゅう", "hv": "HỒI THU", "vi": "thu hồi" },
+          { "w": "欠陥", "r": "けっかん", "hv": "KHIẾM HÃM", "vi": "khiếm khuyết, lỗi" },
+          { "w": "発送", "r": "はっそう", "hv": "PHÁT TỐNG", "vi": "gửi đi" },
+          { "w": "回覧", "r": "かいらん", "hv": "HỒI LÃM", "vi": "chuyền tay đọc" }
+        ],
+        "grammar": { "pattern": "つきましては", "meaning": "vì vậy, do đó (trang trọng, dẫn tới yêu cầu)", "form": "つきましては、～てください", "example": "つきましては、ご出席をお願いいたします。" },
+        "evidence": "「はさみSB-A」に欠陥が発見されたため全製品を回収し、交換を行う…各課で「はさみSB-A」をまとめて会計課までお持ちください。6月22日（木）に発送を予定しているため、必ず6月21日（水）までにお持ちください。",
+        "tip": "Văn bản thông báo: phân biệt ngày hạn nộp (21) và ngày gửi (22)."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p4",
+      "stem": "笑顔について、筆者はどのように述べているか。",
+      "options": [
+        "作った笑顔であっても、幸せな気持ちになれる。",
+        "幸せだと感じていなければ、笑顔にはなれない。",
+        "笑顔でいれば、周りの人にプラスの印象を与える。",
+        "自然な笑顔は、作った笑顔よりも幸せな感情を伝える。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tác giả nói gì về nụ cười? → Dù là nụ cười gượng (cố tạo ra) thì cũng có thể cảm thấy hạnh phúc.",
+        "why": "Đoạn 2: khi cười thì cảm giác hạnh phúc trào lên; thí nghiệm cố ý tạo nụ cười (意図的に笑顔を作って) khi đọc truyện tranh thì thấy thú vị hơn → nụ cười tạo ra cũng mang lại cảm xúc tích cực.",
+        "options": [
+          "Nụ cười cố ý tạo ra vẫn làm ta thấy hạnh phúc. ĐÚNG.",
+          "Ngược với đoạn 2 (cười trước, hạnh phúc đến sau). Sai.",
+          "Bài không nói về ấn tượng với người xung quanh. Sai.",
+          "Bài không so sánh nụ cười tự nhiên và nụ cười gượng. Sai."
+        ],
+        "vocab": [
+          { "w": "笑顔", "r": "えがお", "hv": "TIẾU NHAN", "vi": "nụ cười" },
+          { "w": "意図的", "r": "いとてき", "hv": "Ý ĐỒ ĐÍCH", "vi": "có chủ ý" },
+          { "w": "偏る", "r": "かたよる", "hv": "THIÊN", "vi": "nghiêng về, thiên lệch" },
+          { "w": "指標", "r": "しひょう", "hv": "CHỈ TIÊU", "vi": "chỉ số" }
+        ],
+        "grammar": null,
+        "evidence": "一方、笑顔になると幸せだという気持ちがわいてくるということもわかっている。同じ漫画を、意図的に笑顔を作って読んだときと…笑顔で読んだときの方が面白いという評価が高くなる。",
+        "tip": "一方 báo hiệu ý thứ hai — thường là trọng tâm câu hỏi."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p5",
+      "stem": "筆者によると、働くとはどういうことか。",
+      "options": [
+        "社会から期待された役割を果たすこと",
+        "仕事で得たものを人に与えること",
+        "自身の社会的役割を探すこと",
+        "自身の成長を求めること"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, làm việc là gì? → Là hoàn thành vai trò mà xã hội kỳ vọng.",
+        "why": "Khi làm việc ta gánh một vai trò xã hội và được yêu cầu kết quả tương ứng; bản chất công việc là 'trao cho người khác điều được yêu cầu ở mình' = 人の役に立つ → tức là làm tròn vai trò được kỳ vọng.",
+        "options": [
+          "Hoàn thành vai trò xã hội kỳ vọng. ĐÚNG.",
+          "Không phải 'trao lại thứ đã nhận được', mà là trao điều được yêu cầu trước khi nhận. Sai.",
+          "Vai trò đã được gánh sẵn (担っていて), không phải đi tìm. Sai.",
+          "Sự trưởng thành chỉ là thứ nhận được sau khi đáp ứng kỳ vọng. Sai."
+        ],
+        "vocab": [
+          { "w": "担う", "r": "になう", "hv": "ĐẢM", "vi": "gánh vác" },
+          { "w": "報酬", "r": "ほうしゅう", "hv": "BÁO THÙ", "vi": "thù lao" },
+          { "w": "本質", "r": "ほんしつ", "hv": "BẢN CHẤT", "vi": "bản chất" },
+          { "w": "要するに", "r": "ようするに", "hv": "YẾU", "vi": "tóm lại" }
+        ],
+        "grammar": { "pattern": "～に応じた", "meaning": "tương ứng với ~", "form": "N + に応じた + N", "example": "能力に応じた給料" },
+        "evidence": "私たちは働くとき、何らかの社会的役割を担っていて、その役割に応じた結果が求められます。…仕事の本質は得ることではなく、自分に求められているものを人に与える、すなわち「人の役に立つ」ことなのです。",
+        "tip": "Bẫy đáp án 2: dùng từ 与える của bài nhưng đảo thứ tự (得た→与える)."
+      }
+    }
+  ]
+}

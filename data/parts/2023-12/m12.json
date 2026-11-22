@@ -1,0 +1,84 @@
+{
+  "exam": "2023-12",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B rồi chọn câu trả lời đúng nhất (đọc so sánh).",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "かつて私は仕事が忙しく、運動が続けられずに悩んでいた。自分に合った運動方法を探しているうちに、無理やり時間を確保するよりも、日常生活の中に取り入れたほうがいいと思うようになった。現在は通勤や買い物に行くとき、車を使わずに歩いたり、エレベーターではなく階段を利用したりするようにしている。また、歩くときは、ふだんより早足で歩くようにしている。そうすれば時間が取れなくても、毎日運動ができる。体を動かすことを習慣にすることが大事だと思う。\n運動には体の健康だけでなく、ストレスを解消するなど心の健康を保つ効果もある。これからもずっと無理せずに続けていきたい。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "私は、運動を始めてもなかなか続けられなかった。そんなとき、仕事のあとで仲間と一緒にランニングを始めた。仲間と互いに成果を報告し合ったり、情報交換したりすることで、運動への関心を高めることができた。また、仕事で疲れて運動するのが面倒なときや運動するのがつらいと感じるときでも、話を聞いてもらうことで、気分転換ができた。\n確かに、一人で運動するほうが自分のペースでできるので気楽だという人もいる。しかし、一人では、やる気がしないときに続けることは難しい。仲間と一緒に楽しく運動すれば、頑張ろうという意欲がわいてくる。運動は続けていくことに意味があると思う。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 65,
+      "passage": "AB",
+      "stem": "AとBは、それぞれどのように運動していると述べているか。",
+      "options": [
+        "AもBも、さまざまな運動に取り組んでいると述べている。",
+        "AもBも、簡単にできる運動をしていると述べている。",
+        "Aは生活の中でできるだけ長く運動していると述べ、Bは仲間と成果を競いながら運動していると述べている。",
+        "Aは生活の中で体を動かしていると述べ、Bは仲間と一緒に運動していると述べている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "A và B mỗi người nói mình vận động như thế nào? → A vận động cơ thể trong sinh hoạt hằng ngày, B vận động cùng bạn bè.",
+        "why": "A: đưa vận động vào đời sống thường ngày (đi bộ thay xe, đi cầu thang, đi bộ nhanh). B: chạy bộ cùng bạn bè sau giờ làm.",
+        "options": [
+          "Cả hai tham gia nhiều môn → B chỉ nói chạy bộ; A cũng không nói \"nhiều môn\". Sai.",
+          "Cả hai tập môn dễ → không ai nhấn mạnh \"dễ\". Sai.",
+          "A vận động \"càng lâu càng tốt\", B \"thi đua thành tích\" → A không nói lâu; B chỉ báo cáo thành quả cho nhau, không phải thi đua. Sai.",
+          "A vận động trong sinh hoạt, B vận động cùng bạn bè. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "取り入れる", "r": "とりいれる", "hv": "THỦ NHẬP", "vi": "đưa vào, áp dụng" },
+          { "w": "確保", "r": "かくほ", "hv": "XÁC BẢO", "vi": "đảm bảo, giữ" },
+          { "w": "早足", "r": "はやあし", "hv": "TẢO TÚC", "vi": "bước nhanh" },
+          { "w": "仲間", "r": "なかま", "hv": "TRỌNG GIAN", "vi": "bạn bè, đồng đội" },
+          { "w": "競う", "r": "きそう", "hv": "CẠNH", "vi": "thi đua, cạnh tranh" }
+        ],
+        "grammar": null,
+        "evidence": "A：現在は通勤や買い物に行くとき、車を使わずに歩いたり、エレベーターではなく階段を利用したりするようにしている。／B：そんなとき、仕事のあとで仲間と一緒にランニングを始めた。",
+        "tip": "Bẫy lựa chọn 3: 報告し合う (báo cho nhau) ≠ 競う (thi đua)."
+      }
+    },
+    {
+      "num": 66,
+      "passage": "AB",
+      "stem": "AとBが共通して大切だと述べていることは何か。",
+      "options": [
+        "効果を理解したうえで運動すること。",
+        "自分に合った運動を見つけること。",
+        "楽しみながら運動すること。",
+        "継続して運動すること。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Điều mà cả A và B cùng cho là quan trọng là gì? → Duy trì vận động liên tục.",
+        "why": "A: điều quan trọng là biến vận động thành thói quen, muốn tiếp tục mãi. B: vận động có ý nghĩa ở việc duy trì. → Cả hai: 継続.",
+        "options": [
+          "Hiểu hiệu quả rồi mới tập → A có nhắc hiệu quả nhưng không coi đó là điều kiện; B không nói. Sai.",
+          "Tìm môn phù hợp với mình → chỉ A nhắc (自分に合った運動方法を探して). Sai.",
+          "Vừa tập vừa vui → chỉ B nói (楽しく運動すれば). Sai.",
+          "Duy trì vận động liên tục. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "継続", "r": "けいぞく", "hv": "KẾ TỤC", "vi": "duy trì, tiếp tục" },
+          { "w": "習慣", "r": "しゅうかん", "hv": "TẬP QUÁN", "vi": "thói quen" },
+          { "w": "解消", "r": "かいしょう", "hv": "GIẢI TIÊU", "vi": "giải tỏa" },
+          { "w": "意欲", "r": "いよく", "hv": "Ý DỤC", "vi": "ý chí, động lực" }
+        ],
+        "grammar": null,
+        "evidence": "A：体を動かすことを習慣にすることが大事だと思う。…これからもずっと無理せずに続けていきたい。／B：運動は続けていくことに意味があると思う。",
+        "tip": "Câu hỏi 共通 → loại đáp án chỉ đúng với một bên. Câu kết của mỗi bài thường là ý chính."
+      }
+    }
+  ]
+}

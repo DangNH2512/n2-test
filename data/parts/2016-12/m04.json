@@ -1,0 +1,187 @@
+{
+  "exam": "2016-12",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống (theo ngữ cảnh).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "この大学では一般向けの講座を開き、社会に学習の場を（　　）している。",
+      "options": ["選出", "提供", "指示", "寄付"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Trường đại học này mở các khóa học dành cho công chúng, cung cấp nơi học tập cho xã hội.",
+        "why": "場を提供する = cung cấp nơi chốn/cơ hội. 提供 (ていきょう) = cung cấp, đem đến cho người khác dùng.",
+        "options": [
+          "選出 → せんしゅつ: bầu chọn, tuyển ra. Sai.",
+          "提供 → ていきょう: cung cấp. ĐÚNG.",
+          "指示 → しじ: chỉ thị, hướng dẫn. Sai.",
+          "寄付 → きふ: quyên góp (tiền, đồ). Không dùng với 場. Sai."
+        ],
+        "vocab": [
+          { "w": "提供", "r": "ていきょう", "hv": "ĐỀ CUNG", "vi": "cung cấp" },
+          { "w": "講座", "r": "こうざ", "hv": "GIẢNG TỌA", "vi": "khóa học, lớp học" },
+          { "w": "一般向け", "r": "いっぱんむけ", "hv": "NHẤT BAN HƯỚNG", "vi": "dành cho công chúng" },
+          { "w": "寄付", "r": "きふ", "hv": "KÝ PHÓ", "vi": "quyên góp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Kết hợp cố định: 場を提供する / 情報を提供する / 機会を提供する."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "今年の夏は暑さが厳しく、仕事から家に帰ると疲れて（　　）してしまう。",
+      "options": ["ぐったり", "しっかり", "すっきり", "ぎっしり"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Mùa hè năm nay nóng gay gắt, đi làm về đến nhà là tôi mệt rã rời.",
+        "why": "ぐったり = mệt lả, rũ rượi, không còn sức. 疲れてぐったりする là kết hợp rất tự nhiên.",
+        "options": [
+          "ぐったり → mệt lả, rã rời. ĐÚNG.",
+          "しっかり → chắc chắn, đáng tin; trái nghĩa với mệt. Sai.",
+          "すっきり → sảng khoái, gọn gàng. Sai.",
+          "ぎっしり → chật ních, kín mít (đồ nhét đầy). Sai."
+        ],
+        "vocab": [
+          { "w": "ぐったり", "r": "ぐったり", "hv": "", "vi": "mệt lả, rã rời" },
+          { "w": "すっきり", "r": "すっきり", "hv": "", "vi": "sảng khoái, gọn gàng" },
+          { "w": "ぎっしり", "r": "ぎっしり", "hv": "", "vi": "chật kín, đầy ắp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ぐったり: thể xác kiệt sức; がっかり: thất vọng (tinh thần) — đừng nhầm."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "学生時代の友人が私の名前を忘れていたので、とても（　　）だった。",
+      "options": ["アウト", "ダウン", "ショック", "エラー"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Người bạn thời sinh viên đã quên tên tôi nên tôi rất sốc.",
+        "why": "ショック (shock) = cú sốc, bị tổn thương về tinh thần. ショックだ là cách nói tự nhiên khi bị bạn quên tên.",
+        "options": [
+          "アウト → out: hỏng, loại, bị phạt. Sai.",
+          "ダウン → down: sụp, ngã bệnh (風邪でダウン). Sai.",
+          "ショック → sốc, buồn hụt hẫng. ĐÚNG.",
+          "エラー → error: lỗi. Sai."
+        ],
+        "vocab": [
+          { "w": "ショック", "r": "ショック", "hv": "", "vi": "cú sốc, choáng váng" },
+          { "w": "学生時代", "r": "がくせいじだい", "hv": "HỌC SINH THỜI ĐẠI", "vi": "thời sinh viên" },
+          { "w": "友人", "r": "ゆうじん", "hv": "HỮU NHÂN", "vi": "bạn bè" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ショックを受ける = bị sốc; ダウンする thường dùng cho bệnh/kiệt sức."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "通路に荷物を置いたら、通る人の（　　）になりますよ。",
+      "options": ["面倒", "邪魔", "被害", "無理"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Nếu để hành lý ở lối đi thì sẽ cản trở người đi qua đấy.",
+        "why": "〜の邪魔になる = gây cản trở cho ~. Đồ đặt giữa lối đi → cản đường người qua lại.",
+        "options": [
+          "面倒 → めんどう: phiền phức (面倒をかける, 面倒を見る); không nói 人の面倒になる theo nghĩa cản trở. Sai.",
+          "邪魔 → じゃま: cản trở, vướng. ĐÚNG.",
+          "被害 → ひがい: thiệt hại (被害を受ける). Sai.",
+          "無理 → むり: quá sức, vô lý. Sai."
+        ],
+        "vocab": [
+          { "w": "邪魔", "r": "じゃま", "hv": "TÀ MA", "vi": "cản trở, làm phiền" },
+          { "w": "通路", "r": "つうろ", "hv": "THÔNG LỘ", "vi": "lối đi" },
+          { "w": "荷物", "r": "にもつ", "hv": "HÀ VẬT", "vi": "hành lý" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm cố định: 〜の邪魔になる / 邪魔をする / お邪魔します."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "少し長めの上り坂だったが（　　）ので、それほど疲れなかった。",
+      "options": ["おとなしかった", "ささやかだった", "なだらかだった", "よわよわしかった"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đó là con dốc lên hơi dài nhưng thoai thoải nên tôi không mệt lắm.",
+        "why": "なだらか = (dốc) thoai thoải, không gắt. Dốc dài nhưng thoai thoải → không mệt lắm, logic hợp lý.",
+        "options": [
+          "おとなしかった → おとなしい: hiền lành, ít nói (người). Sai.",
+          "ささやかだった → ささやか: nhỏ bé, khiêm tốn (quà, ước mơ). Sai.",
+          "なだらかだった → なだらか: thoai thoải. ĐÚNG.",
+          "よわよわしかった → 弱々しい: yếu ớt (người, giọng). Sai."
+        ],
+        "vocab": [
+          { "w": "なだらか", "r": "なだらか", "hv": "", "vi": "thoai thoải, êm" },
+          { "w": "上り坂", "r": "のぼりざか", "hv": "THƯỢNG PHẢN", "vi": "dốc lên" },
+          { "w": "ささやか", "r": "ささやか", "hv": "", "vi": "nhỏ bé, khiêm tốn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "なだらかな坂 ↔ 急な坂 (dốc đứng)."
+      }
+    },
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "出席者は皆会議に積極的に参加し、意見を（　　）交換し合った。",
+      "options": ["活発に", "円満に", "機敏に", "濃厚に"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Những người tham dự đều tích cực tham gia cuộc họp và trao đổi ý kiến sôi nổi với nhau.",
+        "why": "活発に (かっぱつに) = sôi nổi, năng động. 活発な議論・意見を活発に交換する là kết hợp quen thuộc.",
+        "options": [
+          "活発に → sôi nổi. ĐÚNG.",
+          "円満に → えんまん: êm đẹp, hòa thuận (円満に解決する). Sai.",
+          "機敏に → きびん: nhanh nhẹn, lanh lợi (động tác). Sai.",
+          "濃厚に → のうこう: đậm đặc; khả năng cao (疑いが濃厚). Sai."
+        ],
+        "vocab": [
+          { "w": "活発", "r": "かっぱつ", "hv": "HOẠT PHÁT", "vi": "sôi nổi, năng động" },
+          { "w": "積極的", "r": "せっきょくてき", "hv": "TÍCH CỰC ĐÍCH", "vi": "tích cực" },
+          { "w": "円満", "r": "えんまん", "hv": "VIÊN MÃN", "vi": "êm đẹp, hòa thuận" },
+          { "w": "機敏", "r": "きびん", "hv": "CƠ MẪN", "vi": "nhanh nhạy" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "活発な議論 / 活発な子ども / 活発に意見を交わす."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "列に並んでいたら、私の前に強引に（　　）きた人がいて、嫌な気分になった。",
+      "options": ["当てはまって", "付け加えて", "行き着いて", "割り込んで"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Khi tôi đang xếp hàng thì có người ngang nhiên chen ngang lên trước tôi, khiến tôi khó chịu.",
+        "why": "割り込む (わりこむ) = chen ngang, chen vào hàng. 列に割り込む là cụm từ cố định.",
+        "options": [
+          "当てはまって → 当てはまる: phù hợp với, áp dụng được. Sai.",
+          "付け加えて → 付け加える: thêm vào, bổ sung. Sai.",
+          "行き着いて → 行き着く: đi đến nơi, đến cuối cùng. Sai.",
+          "割り込んで → 割り込む: chen ngang. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "割り込む", "r": "わりこむ", "hv": "CÁT", "vi": "chen ngang, xen vào" },
+          { "w": "強引", "r": "ごういん", "hv": "CƯỜNG DẪN", "vi": "ép buộc, cưỡng ép, ngang nhiên" },
+          { "w": "列", "r": "れつ", "hv": "LIỆT", "vi": "hàng, dãy" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "割り込み = sự chen hàng; 話に割り込む = chen ngang câu chuyện."
+      }
+    }
+  ]
+}

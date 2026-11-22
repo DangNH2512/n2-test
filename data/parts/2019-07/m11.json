@@ -1,0 +1,340 @@
+{
+  "exam": "2019-07",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（１）から（３）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(3) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "本を読むことは、かつて生きた優れた人の言葉を聞くということ、読むとは、基本的に人の話を聞くことです。\n学ぶことの基本行為も「聞くこと」です。\nしかも、本を読むことが生きている人間から話を聞くことと同じだととらえられれば、その読みは一層リアル（注１）になるはずです。例えば、本居宣長を読むのでもゲーテを読むのでも、彼らが生きているかのようにして読める人の方が、生の声として聞こえてくるからより一層リアルです。\nですから、「聞く構え（注２）」ができている人は、より良く学べることにもなります。\n逆に、聞く構えがないと、相手から成長がない人と見られてしまいます。言い換えれば、「聞く気がない」と受け取られてしまうと、会社でも学校でも「この人は見込み（注３）がない」と思われてしまうのです。\nこんなふうに、学ぶ姿勢は現実の生活において、私たちの根本的な評価に関わってきます。\n学ぶことは、優れた人の話を聞いて自分を修正していくこと。あるいは、その人に憧れを持ち、その人によって自分の新たな目標が見え、歩むべき方向性が決まることです。そして、本や人の話の中から具体的なアドバイスを得て、自分の生活の中にある種の学びの習慣をつくっていく。だからこそ、読書を学びの基本にするとよいのです。\n本を読まないということは、いわば膨大な数の賢者（注４）たちから、あらかじめ見放されて（注５）しまっているということです。\n\n（注１）リアル：現実的\n（注２）構え：姿勢\n（注３）見込み：可能性\n（注４）賢者：優れた人\n（注５）見放される：ここでは、無視される"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "紙は私たちの身の回りにあふれているが、日本には一般的に使われている「洋紙」のほかに、古くから使われている「和紙」がある。\n洋紙は、安い価格で多量に手に入る針葉樹や広葉樹の、皮を取り除いた幹（注１）の部分を原料とする。一方和紙は、主に楮、三椏、雁皮という木の、皮の部分を使用する。また、洋紙は表面に凹凸が少なく印刷に適しているが、和紙は表面が滑らかでなく印刷には向かないという違いがある。しかし、和紙には丈夫で強く、さらに劣化し（注２）にくいので長期間保存ができるという利点もある。\n日本では六世紀ごろから和紙が使用されていたが、明治時代になり洋紙が輸入され始めると洋紙が一気に広まった。手作業で製造されていた和紙に対し、洋紙は早くから製造過程が機械化され、大量生産による安価で安定した供給が可能であったためである。その結果、<u>和紙は洋紙に対抗できなくなり</u>、和紙産業は衰えた。しかし、これをきっかけに和紙の製造過程も機械化が進められた。\n現在日本国内で広く用いられているのは洋紙だが、和紙は和紙でなければならない分野で活用されている。書道や絵画だけでなく、その美しさが評価されて壁紙や便箋、封筒などにも利用されており、海外でもその価値が認められている。また、丈夫で傷みにくいという利点を生かして美術作品などの修理・保存にも使われている。今後も残していきたい伝統文化である。\n\n（注１）幹：木の、根から上のほうに伸びて、枝・葉を出す部分\n（注２）劣化する：品質が低下する"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "現代の若者は、「温かさ」まで人から与えてもらえるものだと期待している。なにもかも、自分に向かって訪れるものだと信じている。だから、そういうものが自分にやってこないと、相手が悪い、周囲が悪い、社会が悪い、国が悪い、経済が悪い、運が悪い、時代が悪いということになってしまう。①<u>そのような分析</u>もけっこうだが、たとえそれらしい原因を見つけても、解決の方法を見出す（注１）ことはできないだろう。自分のことならなんとかなるが、相手や周囲や社会や国や経済や運や時代は、自分の努力では変えられないからだ。\nそれなのに、解決策がどこかにないだろうか、と②<u>「検索」する</u>。検索で解決するようなものだったら、「問題」とはいえないことにも気づいていない。\n情報化社会において人は、自分の思うとおりにならないのは、なんらかの情報を自分が「知らない」せいだ、と解釈してしまう。必死になってネット（注２）を検索するのも、また、友達の話や、たまたま耳にしたことを簡単に信じてしまうのも、「知る」ことで問題が解決できると信じているせいだ。\n検索できるものは、過去に存在した情報だけだ。知ることができるのも、既に存在している知見（注３）だけである。しかし、自分の問題を解決する方法は、自分で考え、模索し（注４）、新たに編み出さなければならない（注５）ものなのである。\n自分の生き方に関する問題は、どこかに解決策が書かれているはずがない。検索しても見つかるはずがない。どんなに同じような道に見えても、先輩の言葉が全面的に通用するわけでもない。自分で生きながら、見つけるしかないのである。\n\n（注１）見出す：見つける\n（注２）ネット：インターネット\n（注３）知見：ここでは、見方や考え方\n（注４）模索する：探し求める\n（注５）編み出す：生み出す"
+    }
+  ],
+  "questions": [
+    {
+      "num": 58,
+      "passage": "p1",
+      "stem": "筆者によると、本はどのように読むといいか。",
+      "options": [
+        "書かれていることを、現実の話として読む。",
+        "書かれていることを、作者と同じ気持ちになって読む。",
+        "書かれていることを、前に聞いた話と比べながら読む。",
+        "書かれていることを、話を聞いているような気持ちで読む。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, nên đọc sách như thế nào? → Đọc những gì được viết với cảm giác như đang nghe (tác giả) nói chuyện.",
+        "why": "Tác giả định nghĩa: đọc sách = nghe lời người giỏi từng sống; nếu đọc như đang nghe người còn sống nói chuyện thì việc đọc càng chân thực. → Đọc như đang nghe chuyện.",
+        "options": [
+          "Sai (bẫy từ リアル): “chân thực” là cảm giác khi đọc như đang nghe, không phải coi nội dung là chuyện có thật.",
+          "Sai: không nói đến việc đồng cảm với tác giả.",
+          "Sai: không nói đến việc so sánh với chuyện đã nghe.",
+          "Đọc với cảm giác như đang nghe người khác nói. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "優れた", "r": "すぐれた", "hv": "ƯU", "vi": "xuất sắc, ưu tú" },
+          { "w": "一層", "r": "いっそう", "hv": "NHẤT TẦNG", "vi": "hơn nữa, càng" },
+          { "w": "構え", "r": "かまえ", "hv": "CẤU", "vi": "tư thế, thái độ" },
+          { "w": "生の声", "r": "なまのこえ", "hv": "SINH THANH", "vi": "tiếng nói trực tiếp" }
+        ],
+        "grammar": {
+          "pattern": "～かのように",
+          "meaning": "như thể là ...",
+          "form": "Thể thông thường＋かのように",
+          "example": "彼は何も知らないかのように振る舞った。"
+        },
+        "evidence": "本を読むことは、かつて生きた優れた人の言葉を聞くということ、読むとは、基本的に人の話を聞くことです。…本を読むことが生きている人間から話を聞くことと同じだととらえられれば、その読みは一層リアルになるはずです。",
+        "tip": null
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p1",
+      "stem": "「聞く構え」ができない人について、筆者はどのように述べているか。",
+      "options": [
+        "人の話を聞いてもすぐに忘れてしまう人だと思われる。",
+        "人の話を聞いて学ぼうという気がない人だと思われる。",
+        "会社や学校での評価を気にしない人だと思われる。",
+        "聞いたことを間違って理解する人だと思われる。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Về người không có “tư thế lắng nghe”, tác giả nói gì? → Bị cho là người không có ý muốn lắng nghe để học hỏi.",
+        "why": "Người không có 聞く構え bị đối phương xem là “không có ý muốn nghe” (聞く気がない), không thể trưởng thành → tức là người không có ý học hỏi từ lời người khác.",
+        "options": [
+          "Sai: không nói về việc nghe rồi quên ngay.",
+          "Bị cho là không có ý định nghe để học. ĐÚNG.",
+          "Sai: bài nói họ bị đánh giá thấp ở công ty/trường, không phải họ không quan tâm đánh giá.",
+          "Sai: không nói về hiểu sai."
+        ],
+        "vocab": [
+          { "w": "見込み", "r": "みこみ", "hv": "KIẾN NHẬP", "vi": "triển vọng, khả năng" },
+          { "w": "受け取る", "r": "うけとる", "hv": "THỤ THỦ", "vi": "tiếp nhận, hiểu (theo cách nào đó)" },
+          { "w": "成長", "r": "せいちょう", "hv": "THÀNH TRƯỞNG", "vi": "trưởng thành" }
+        ],
+        "grammar": {
+          "pattern": "言い換えれば",
+          "meaning": "nói cách khác",
+          "form": "言い換えれば、～",
+          "example": "言い換えれば、彼は責任を取りたくないのだ。"
+        },
+        "evidence": "逆に、聞く構えがないと、相手から成長がない人と見られてしまいます。言い換えれば、「聞く気がない」と受け取られてしまうと、会社でも学校でも「この人は見込みがない」と思われてしまうのです。",
+        "tip": null
+      }
+    },
+    {
+      "num": 60,
+      "passage": "p1",
+      "stem": "読書について、筆者の考えに合うのはどれか。",
+      "options": [
+        "読書によって、学びの習慣を身につけていくことが大切だ。",
+        "優れた人の本を読むことで、その人に近づくことができる。",
+        "新たな目標が見つかったら、その目標にあった本を読むのがいい。",
+        "歩むべき方向性を決めるには、具体的なアドバイスの本を読むのがいい。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về việc đọc sách, điều nào hợp với suy nghĩ của tác giả? → Điều quan trọng là thông qua đọc sách hình thành thói quen học tập.",
+        "why": "Tác giả: nhận lời khuyên cụ thể từ sách, tạo thói quen học trong cuộc sống; “chính vì vậy” nên lấy đọc sách làm nền tảng của việc học.",
+        "options": [
+          "Hình thành thói quen học tập qua đọc sách. ĐÚNG.",
+          "Sai: bài nói về việc ngưỡng mộ và tìm ra mục tiêu, không nói “tiến gần đến người đó”.",
+          "Sai: thứ tự ngược — mục tiêu mới được tìm thấy nhờ học, không nói chọn sách theo mục tiêu.",
+          "Sai: phương hướng được quyết định nhờ người mình ngưỡng mộ, không phải nhờ sách lời khuyên."
+        ],
+        "vocab": [
+          { "w": "憧れ", "r": "あこがれ", "hv": "TRÙNG", "vi": "sự ngưỡng mộ, khao khát" },
+          { "w": "方向性", "r": "ほうこうせい", "hv": "PHƯƠNG HƯỚNG TÍNH", "vi": "phương hướng" },
+          { "w": "習慣", "r": "しゅうかん", "hv": "TẬP QUÁN", "vi": "thói quen" },
+          { "w": "膨大", "r": "ぼうだい", "hv": "BÀNH ĐẠI", "vi": "khổng lồ, đồ sộ" }
+        ],
+        "grammar": {
+          "pattern": "だからこそ",
+          "meaning": "chính vì thế (nhấn mạnh lý do)",
+          "form": "Câu lý do。だからこそ、～",
+          "example": "難しい。だからこそ、挑戦する価値がある。"
+        },
+        "evidence": "そして、本や人の話の中から具体的なアドバイスを得て、自分の生活の中にある種の学びの習慣をつくっていく。だからこそ、読書を学びの基本にするとよいのです。",
+        "tip": "Kết luận thường đi sau だからこそ."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p2",
+      "stem": "和紙の特徴として、筆者が述べているのはどれか。",
+      "options": [
+        "木の皮を取り除いた幹の部分を原料とし、丈夫で破れにくい。",
+        "木の皮を取り除いた幹の部分を原料とし、価格が高い。",
+        "木の皮の部分を原料とし、印刷に適している。",
+        "木の皮の部分を原料とし、長く存在できる。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đặc điểm của giấy Washi mà tác giả nêu là gì? → Làm từ phần vỏ cây, có thể tồn tại lâu dài.",
+        "why": "Washi dùng phần vỏ cây (皮の部分), bền và khó xuống cấp nên bảo quản được lâu (長期間保存ができる).",
+        "options": [
+          "Sai: “thân cây đã bỏ vỏ” là nguyên liệu của giấy phương Tây (洋紙).",
+          "Sai: nguyên liệu là của 洋紙; bài không nói washi đắt.",
+          "Sai: washi bề mặt không mịn nên không hợp để in.",
+          "Làm từ vỏ cây, tồn tại lâu dài. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "和紙", "r": "わし", "hv": "HÒA CHỈ", "vi": "giấy Nhật truyền thống" },
+          { "w": "洋紙", "r": "ようし", "hv": "DƯƠNG CHỈ", "vi": "giấy phương Tây" },
+          { "w": "幹", "r": "みき", "hv": "CÁN", "vi": "thân cây" },
+          { "w": "劣化", "r": "れっか", "hv": "LIỆT HÓA", "vi": "xuống cấp, giảm chất lượng" },
+          { "w": "丈夫", "r": "じょうぶ", "hv": "TRƯỢNG PHU", "vi": "bền, chắc" }
+        ],
+        "grammar": null,
+        "evidence": "一方和紙は、主に楮、三椏、雁皮という木の、皮の部分を使用する。…しかし、和紙には丈夫で強く、さらに劣化しにくいので長期間保存ができるという利点もある。",
+        "tip": "Bài so sánh hai loại giấy — cẩn thận đừng gán đặc điểm của 洋紙 cho 和紙."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p2",
+      "stem": "<u>和紙は洋紙に対抗できなくなり</u>とあるが、なぜか。",
+      "options": [
+        "和紙は大量に生産することができなかったから",
+        "和紙は日本国内であまり利用されていなかったから",
+        "和紙より洋紙のほうが品質が良かったから",
+        "和紙より洋紙のほうが珍しく人気があったから"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "“Washi không thể cạnh tranh nổi với giấy phương Tây” — tại sao? → Vì washi không thể sản xuất với số lượng lớn.",
+        "why": "Washi làm thủ công, còn giấy phương Tây sớm được cơ giới hóa, sản xuất hàng loạt nên rẻ và cung cấp ổn định → washi không sản xuất số lượng lớn được nên thua.",
+        "options": [
+          "Washi không thể sản xuất hàng loạt. ĐÚNG.",
+          "Sai: washi đã được dùng ở Nhật từ thế kỷ 6.",
+          "Sai: bài nói washi bền hơn; lý do là giá rẻ và cung cấp ổn định, không phải chất lượng.",
+          "Sai: không nói giấy phương Tây hiếm và được ưa chuộng."
+        ],
+        "vocab": [
+          { "w": "対抗", "r": "たいこう", "hv": "ĐỐI KHÁNG", "vi": "đối đầu, cạnh tranh" },
+          { "w": "手作業", "r": "てさぎょう", "hv": "THỦ TÁC NGHIỆP", "vi": "làm thủ công" },
+          { "w": "機械化", "r": "きかいか", "hv": "CƠ GIỚI HÓA", "vi": "cơ giới hóa" },
+          { "w": "供給", "r": "きょうきゅう", "hv": "CUNG CẤP", "vi": "cung cấp" },
+          { "w": "安価", "r": "あんか", "hv": "AN GIÁ", "vi": "giá rẻ" }
+        ],
+        "grammar": {
+          "pattern": "～に対し",
+          "meaning": "trái với, so với ...",
+          "form": "N＋に対し(て)",
+          "example": "兄が活発なのに対し、弟はおとなしい。"
+        },
+        "evidence": "手作業で製造されていた和紙に対し、洋紙は早くから製造過程が機械化され、大量生産による安価で安定した供給が可能であったためである。",
+        "tip": "～ためである ở cuối câu = nêu lý do."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p2",
+      "stem": "和紙について、筆者はどのように考えているか。",
+      "options": [
+        "和紙の特徴を生かせるような、新しい利用方法を考えていきたい。",
+        "海外でも、和紙の価値が認められるようにしていきたい。",
+        "洋紙のよさを取り入れて、和紙をよりよいものにしたい。",
+        "洋紙にはない和紙のよさがあるから、守っていきたい。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả nghĩ gì về washi? → Washi có những ưu điểm giấy phương Tây không có, nên muốn gìn giữ.",
+        "why": "Đoạn cuối nêu những lĩnh vực “phải là washi mới được” (vẻ đẹp, độ bền...) và kết: 「今後も残していきたい伝統文化である」 = muốn giữ gìn.",
+        "options": [
+          "Sai: không nói về nghĩ ra cách dùng mới.",
+          "Sai: giá trị của washi ở nước ngoài “đã được công nhận” rồi.",
+          "Sai: không nói về tiếp thu ưu điểm của giấy phương Tây.",
+          "Washi có ưu điểm riêng nên muốn gìn giữ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "伝統文化", "r": "でんとうぶんか", "hv": "TRUYỀN THỐNG VĂN HÓA", "vi": "văn hóa truyền thống" },
+          { "w": "活用", "r": "かつよう", "hv": "HOẠT DỤNG", "vi": "tận dụng" },
+          { "w": "修理", "r": "しゅうり", "hv": "TU LÝ", "vi": "sửa chữa" },
+          { "w": "保存", "r": "ほぞん", "hv": "BẢO TỒN", "vi": "bảo quản, bảo tồn" }
+        ],
+        "grammar": null,
+        "evidence": "現在日本国内で広く用いられているのは洋紙だが、和紙は和紙でなければならない分野で活用されている。…今後も残していきたい伝統文化である。",
+        "tip": "Ý kiến tác giả thường ở câu cuối bài."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p3",
+      "stem": "①<u>そのような分析</u>とはどのような分析か。",
+      "options": [
+        "自分の期待どおりにならないのは自分以外が原因だと考える。",
+        "自分の努力では周囲を変えることはできないと考える。",
+        "自分が持っていないものは人から与えてもらえると考える。",
+        "周囲や社会で悪いことが起こっても自分とは関係ないと考える。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "“Sự phân tích như thế” là sự phân tích như thế nào? → Cho rằng việc mọi thứ không như kỳ vọng là do nguyên nhân bên ngoài bản thân.",
+        "why": "そのような chỉ câu ngay trước: khi điều mong đợi không đến thì cho rằng đối phương, xung quanh, xã hội, đất nước, kinh tế, vận may, thời đại có lỗi → đổ nguyên nhân cho thứ ngoài mình.",
+        "options": [
+          "Cho rằng nguyên nhân nằm ngoài bản thân. ĐÚNG.",
+          "Sai: đây là lời giải thích của tác giả về lý do không tìm ra cách giải quyết.",
+          "Sai: đây là kỳ vọng của giới trẻ (tiền đề), không phải “phân tích”.",
+          "Sai: họ cho rằng xung quanh có lỗi, không phải “không liên quan đến mình”."
+        ],
+        "vocab": [
+          { "w": "分析", "r": "ぶんせき", "hv": "PHÂN TÍCH", "vi": "phân tích" },
+          { "w": "周囲", "r": "しゅうい", "hv": "CHU VI", "vi": "xung quanh" },
+          { "w": "見出す", "r": "みいだす", "hv": "KIẾN XUẤT", "vi": "tìm ra" }
+        ],
+        "grammar": {
+          "pattern": "たとえ～ても",
+          "meaning": "cho dù ... đi nữa",
+          "form": "たとえ＋Vても / Aくても / Nでも",
+          "example": "たとえ反対されても、私は行く。"
+        },
+        "evidence": "だから、そういうものが自分にやってこないと、相手が悪い、周囲が悪い、社会が悪い、国が悪い、経済が悪い、運が悪い、時代が悪いということになってしまう。",
+        "tip": "Từ chỉ thị (そのような) → tìm nội dung ở câu ngay trước."
+      }
+    },
+    {
+      "num": 65,
+      "passage": "p3",
+      "stem": "②<u>「検索」する</u>のはなぜか。",
+      "options": [
+        "自分で考えた解決策が正しいか確認できると思っているから。",
+        "さまざまな情報を使って解決策を生みだすことができるから。",
+        "情報を知れば、問題が解決できると思っているから。",
+        "友達の話より信頼できる情報が得られるから。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tại sao lại “tìm kiếm”? → Vì nghĩ rằng chỉ cần biết thông tin là giải quyết được vấn đề.",
+        "why": "Tác giả giải thích: người ta cho rằng không như ý là do “không biết” thông tin nào đó; việc ra sức tìm kiếm trên mạng là do tin rằng “biết” sẽ giải quyết được vấn đề.",
+        "options": [
+          "Sai: họ không tự nghĩ ra giải pháp rồi kiểm tra.",
+          "Sai: tác giả nói tìm kiếm chỉ ra thông tin quá khứ, không tạo ra giải pháp.",
+          "Tin rằng biết thông tin là giải quyết được. ĐÚNG.",
+          "Sai: bài nói họ cũng tin dễ dàng lời bạn bè; không so sánh độ tin cậy."
+        ],
+        "vocab": [
+          { "w": "検索", "r": "けんさく", "hv": "KIỂM TÁC", "vi": "tìm kiếm (tra cứu)" },
+          { "w": "解釈", "r": "かいしゃく", "hv": "GIẢI THÍCH", "vi": "diễn giải, hiểu" },
+          { "w": "必死", "r": "ひっし", "hv": "TẤT TỬ", "vi": "liều mạng, ra sức" },
+          { "w": "解決策", "r": "かいけつさく", "hv": "GIẢI QUYẾT SÁCH", "vi": "giải pháp" }
+        ],
+        "grammar": {
+          "pattern": "～せいだ",
+          "meaning": "là do, tại (nguyên nhân dẫn đến kết quả xấu)",
+          "form": "V/A普通形・Nの＋せいだ",
+          "example": "寝坊したのは目覚ましが鳴らなかったせいだ。"
+        },
+        "evidence": "必死になってネットを検索するのも、また、友達の話や、たまたま耳にしたことを簡単に信じてしまうのも、「知る」ことで問題が解決できると信じているせいだ。",
+        "tip": null
+      }
+    },
+    {
+      "num": 66,
+      "passage": "p3",
+      "stem": "筆者が言いたいことは何か。",
+      "options": [
+        "検索した情報に頼らずに人とは違う生き方を見つけるべきだ。",
+        "周りの人の言葉や情報を生かして自分の問題を解決すべきだ。",
+        "自分の問題を解決する方法は自分で考え出すべきだ。",
+        "自分に必要な情報を探して問題を解決すべきだ。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều tác giả muốn nói là gì? → Phương pháp giải quyết vấn đề của bản thân phải do chính mình nghĩ ra.",
+        "why": "Tác giả khẳng định cách giải quyết vấn đề của mình phải tự suy nghĩ, tìm tòi và tạo ra mới; vấn đề về cách sống không có lời giải ở đâu cả, chỉ có thể tự tìm ra.",
+        "options": [
+          "Sai: tác giả không nói phải sống khác người.",
+          "Sai: tác giả nói lời người đi trước không hẳn áp dụng được.",
+          "Tự mình nghĩ ra cách giải quyết. ĐÚNG.",
+          "Sai: đây chính là điều tác giả phê phán."
+        ],
+        "vocab": [
+          { "w": "模索", "r": "もさく", "hv": "MÔ TÁC", "vi": "tìm tòi, mò mẫm" },
+          { "w": "編み出す", "r": "あみだす", "hv": "BIÊN XUẤT", "vi": "nghĩ ra, sáng tạo ra" },
+          { "w": "知見", "r": "ちけん", "hv": "TRI KIẾN", "vi": "hiểu biết, quan điểm" },
+          { "w": "通用", "r": "つうよう", "hv": "THÔNG DỤNG", "vi": "áp dụng được, có hiệu lực" }
+        ],
+        "grammar": {
+          "pattern": "～しかない",
+          "meaning": "chỉ còn cách ...",
+          "form": "Vる＋しかない",
+          "example": "終電がないから、歩いて帰るしかない。"
+        },
+        "evidence": "しかし、自分の問題を解決する方法は、自分で考え、模索し、新たに編み出さなければならないものなのである。",
+        "tip": null
+      }
+    }
+  ]
+}

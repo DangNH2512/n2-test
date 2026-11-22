@@ -1,0 +1,163 @@
+{
+  "exam": "2019-07",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の＿★＿に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp 4 phương án thành câu đúng và chọn phương án đặt vào vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "料理の面白いところは、安い材料でも＿＿＿ ＿＿＿ ＿＿＿ ★ ができるところです。",
+      "options": ["ごちそう", "工夫", "豪華な", "次第で"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều thú vị của nấu ăn là dù nguyên liệu rẻ, tùy vào sự khéo léo vẫn có thể làm ra món ăn sang trọng.",
+        "why": "Câu đúng: 安い材料でも 工夫(2) 次第で(4) 豪華な(3) ごちそう(1) ができる. N次第で = tùy vào N; 豪華な bổ nghĩa cho ごちそう; ごちそう＋ができる. Đáp án chính thức là 1 (ごちそう) ứng với vị trí thứ 4.",
+        "options": [
+          "ごちそう: món ăn thịnh soạn — đứng cuối, ngay trước が. ĐÚNG (vị trí ★).",
+          "工夫: sự khéo léo, sáng tạo — đứng đầu (vị trí 1).",
+          "豪華な: sang trọng — bổ nghĩa cho ごちそう (vị trí 3).",
+          "次第で: tùy vào — đi sau 工夫 (vị trí 2)."
+        ],
+        "vocab": [
+          { "w": "工夫", "r": "くふう", "hv": "CÔNG PHU", "vi": "sáng tạo, tìm cách khéo léo" },
+          { "w": "豪華", "r": "ごうか", "hv": "HÀO HOA", "vi": "sang trọng, xa hoa" },
+          { "w": "ご馳走", "r": "ごちそう", "hv": "TRÌ TẨU", "vi": "món ăn ngon, bữa thịnh soạn" },
+          { "w": "材料", "r": "ざいりょう", "hv": "TÀI LIỆU", "vi": "nguyên liệu" }
+        ],
+        "grammar": {
+          "pattern": "N次第で",
+          "meaning": "tùy vào N (mà kết quả thay đổi)",
+          "form": "N＋次第で / 次第だ",
+          "example": "努力次第で、夢はかなう。"
+        },
+        "evidence": null,
+        "tip": "Lưu ý: bản PDF in ★ ở ô thứ 3 (khi đó đáp án sẽ là 豪華な). Đáp án chính thức là 1 nên ★ ở đây được đặt ở ô thứ 4."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "田中「昨日は、息子の高校の入学式だったんですよ。」\n山田「田中さんの＿＿＿ ＿＿＿ ★ ＿＿＿ですか。早いですね。」",
+      "options": ["もう", "息子さん", "高校生", "も"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tanaka: Hôm qua là lễ nhập học cấp 3 của con trai tôi đấy. Yamada: Con trai anh Tanaka cũng đã là học sinh cấp 3 rồi sao? Nhanh thật.",
+        "why": "Câu đúng: 田中さんの 息子さん(2) も(4) もう(1) 高校生(3) ですか. N＋も = N cũng; もう＋高校生 = đã là học sinh cấp 3 rồi. ★ ở vị trí 3 = もう.",
+        "options": [
+          "もう: đã ... rồi — đứng trước 高校生. ĐÚNG (vị trí ★).",
+          "息子さん: con trai (anh) — đi sau 田中さんの (vị trí 1).",
+          "高校生: học sinh cấp 3 — đứng trước ですか (vị trí 4).",
+          "も: cũng — gắn sau 息子さん (vị trí 2)."
+        ],
+        "vocab": [
+          { "w": "入学式", "r": "にゅうがくしき", "hv": "NHẬP HỌC THỨC", "vi": "lễ nhập học" },
+          { "w": "息子さん", "r": "むすこさん", "hv": "TỨC TỬ", "vi": "con trai (của người khác)" }
+        ],
+        "grammar": {
+          "pattern": "N も もう N ですか",
+          "meaning": "N cũng đã là ... rồi sao (ngạc nhiên vì thời gian trôi nhanh)",
+          "form": "N1も もう N2だ",
+          "example": "娘さんももう大学生ですか。"
+        },
+        "evidence": null,
+        "tip": "Trợ từ も luôn đi ngay sau danh từ → ghép 息子さんも trước."
+      }
+    },
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "世界各国の国会議員選挙における投票率を世代ごとに見ると、若い世代の＿＿＿ ＿＿＿ ★ ＿＿＿ことがわかる。",
+      "options": ["我が国に限らず", "傾向がある", "投票率は", "相対的に低い"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nhìn tỷ lệ đi bầu trong các cuộc bầu cử nghị sĩ quốc hội ở các nước theo từng thế hệ, có thể thấy tỷ lệ đi bầu của thế hệ trẻ, không chỉ ở nước ta, có xu hướng tương đối thấp.",
+        "why": "Câu đúng: 若い世代の 投票率は(3) 我が国に限らず(1) 相対的に低い(4) 傾向がある(2) ことがわかる. 若い世代の＋投票率; ～傾向がある＋ことがわかる; 相対的に低い bổ nghĩa cho 傾向. ★ (vị trí 3) = 相対的に低い.",
+        "options": [
+          "我が国に限らず: không chỉ ở nước ta (vị trí 2).",
+          "傾向がある: có xu hướng — đứng trước ことがわかる (vị trí 4).",
+          "投票率は: tỷ lệ đi bầu — đi sau 若い世代の (vị trí 1).",
+          "相対的に低い: tương đối thấp — bổ nghĩa cho 傾向. ĐÚNG (vị trí ★)."
+        ],
+        "vocab": [
+          { "w": "投票率", "r": "とうひょうりつ", "hv": "ĐẦU PHIẾU SUẤT", "vi": "tỷ lệ đi bầu" },
+          { "w": "世代", "r": "せだい", "hv": "THẾ ĐẠI", "vi": "thế hệ" },
+          { "w": "傾向", "r": "けいこう", "hv": "KHUYNH HƯỚNG", "vi": "xu hướng" },
+          { "w": "相対的", "r": "そうたいてき", "hv": "TƯƠNG ĐỐI ĐÍCH", "vi": "tương đối" },
+          { "w": "我が国", "r": "わがくに", "hv": "NGÃ QUỐC", "vi": "nước ta" }
+        ],
+        "grammar": {
+          "pattern": "～に限らず",
+          "meaning": "không chỉ ..., không giới hạn ở ...",
+          "form": "N＋に限らず",
+          "example": "この店は若者に限らず、高齢者にも人気がある。"
+        },
+        "evidence": null,
+        "tip": "Bản PDF in phương án 4 là 「相当的に低い」 (lỗi in), nghĩa đúng là 相対的に低い. Mẹo: ～傾向がある luôn đứng ngay trước ことがわかる."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "５歳の娘は、私と同じ警察官になりたいと言っている。本当に将来＿＿＿ ＿＿＿ ★ ＿＿＿感激した。",
+      "options": ["別として", "そんなことを", "言ってくれたことに", "なるかどうかは"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Con gái 5 tuổi của tôi nói muốn trở thành cảnh sát giống tôi. Chưa bàn đến chuyện tương lai có thật sự trở thành hay không, tôi xúc động vì con đã nói điều như thế.",
+        "why": "Câu đúng: 本当に将来 なるかどうかは(4) 別として(1) そんなことを(2) 言ってくれたことに(3) 感激した. ～かどうかは別として = chưa bàn đến chuyện có ... hay không; そんなことを言ってくれたことに感激した. ★ (vị trí 3) = そんなことを.",
+        "options": [
+          "別として: gác lại, chưa bàn đến (vị trí 2).",
+          "そんなことを: điều như thế — tân ngữ của 言ってくれた. ĐÚNG (vị trí ★).",
+          "言ってくれたことに: vì đã nói cho — đứng trước 感激した (vị trí 4).",
+          "なるかどうかは: có trở thành hay không — đi sau 将来 (vị trí 1)."
+        ],
+        "vocab": [
+          { "w": "警察官", "r": "けいさつかん", "hv": "CẢNH SÁT QUAN", "vi": "cảnh sát" },
+          { "w": "感激", "r": "かんげき", "hv": "CẢM KÍCH", "vi": "xúc động, cảm động" },
+          { "w": "将来", "r": "しょうらい", "hv": "TƯƠNG LAI", "vi": "tương lai" }
+        ],
+        "grammar": {
+          "pattern": "～かどうかは別として",
+          "meaning": "chưa bàn đến chuyện có ... hay không",
+          "form": "V/A/N＋かどうかは別として",
+          "example": "合格するかどうかは別として、一生懸命頑張った。"
+        },
+        "evidence": null,
+        "tip": "Bản PDF in phương án 3 là 「言ってくれたんことに」 (lỗi in), đúng là 言ってくれたことに."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "試合に負けて本当は ★ ＿＿＿ ＿＿＿ ＿＿＿表情だったのは、「つらいときこそ明るく」というのが監督の方針だからだそうだ。",
+      "options": ["悔しいはずの", "明るい", "なぜか", "選手たちが"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Việc các cầu thủ — lẽ ra phải rất cay cú vì thua trận — không hiểu sao lại có vẻ mặt tươi tỉnh, nghe nói là vì phương châm của huấn luyện viên là “càng lúc khó khăn càng phải vui vẻ”.",
+        "why": "Câu đúng: 本当は 悔しいはずの(1) 選手たちが(4) なぜか(3) 明るい(2) 表情だった. 本当は悔しいはずの bổ nghĩa cho 選手たち; 明るい bổ nghĩa cho 表情. ★ ở vị trí 1 = 悔しいはずの.",
+        "options": [
+          "悔しいはずの: lẽ ra phải cay cú — đi ngay sau 本当は. ĐÚNG (vị trí ★).",
+          "明るい: tươi tỉnh — đứng ngay trước 表情 (vị trí 4).",
+          "なぜか: không hiểu sao (vị trí 3).",
+          "選手たちが: các cầu thủ — chủ ngữ (vị trí 2)."
+        ],
+        "vocab": [
+          { "w": "悔しい", "r": "くやしい", "hv": "HỐI", "vi": "cay cú, tiếc nuối" },
+          { "w": "表情", "r": "ひょうじょう", "hv": "BIỂU TÌNH", "vi": "nét mặt, biểu cảm" },
+          { "w": "監督", "r": "かんとく", "hv": "GIÁM ĐỐC", "vi": "huấn luyện viên, đạo diễn" },
+          { "w": "方針", "r": "ほうしん", "hv": "PHƯƠNG CHÂM", "vi": "phương châm, đường lối" }
+        ],
+        "grammar": {
+          "pattern": "～はずの＋N",
+          "meaning": "N lẽ ra phải ... (thực tế lại khác)",
+          "form": "V/Aい普通形 / Aな / Nの＋はずの＋N",
+          "example": "来るはずの友達が来なかった。"
+        },
+        "evidence": null,
+        "tip": "本当は ... はず là cặp hay đi cùng nhau (thực ra lẽ ra là ...)."
+      }
+    }
+  ]
+}

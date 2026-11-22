@@ -1,0 +1,134 @@
+{
+  "exam": "2011-12",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ (tiền tố/hậu tố) phù hợp nhất điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "あの小説家は数々の文学（　　）を獲得している。",
+      "options": ["賞", "位", "号", "段"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nhà văn đó đã giành được nhiều giải thưởng văn học.",
+        "why": "文学賞 (ぶんがくしょう) = giải thưởng văn học. 〜賞 = giải thưởng ~, đi với 獲得する (giành được).",
+        "options": [
+          "賞 → 文学賞: giải thưởng văn học. ĐÚNG.",
+          "位 → 〜位: hạng (1位); không có 文学位. Sai.",
+          "号 → 〜号: số (第1号), tên tàu/bão. Sai.",
+          "段 → 〜段: bậc, đẳng (柔道三段). Sai."
+        ],
+        "vocab": [
+          { "w": "文学賞", "r": "ぶんがくしょう", "hv": "VĂN HỌC THƯỞNG", "vi": "giải thưởng văn học" },
+          { "w": "獲得", "r": "かくとく", "hv": "HOẠCH ĐẮC", "vi": "giành được, đạt được" },
+          { "w": "数々", "r": "かずかず", "hv": "SỐ", "vi": "nhiều, vô số" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ノーベル賞, 新人賞, 優秀賞 – 賞 = giải thưởng."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "今回は（　　）条件がいくつも重なってしまって、大変だった。",
+      "options": ["苦", "悪", "損", "劣"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Lần này nhiều điều kiện bất lợi chồng chất lên nhau nên rất vất vả.",
+        "why": "悪条件 (あくじょうけん) = điều kiện xấu, bất lợi. 悪〜 là tiền tố \"xấu, tồi\": 悪影響, 悪循環.",
+        "options": [
+          "苦 → không có 苦条件 (chỉ có 苦労, 苦手). Sai.",
+          "悪 → 悪条件: điều kiện bất lợi. ĐÚNG.",
+          "損 → 損 = thiệt (損害), không làm tiền tố với 条件. Sai.",
+          "劣 → 劣 = kém (劣等感), không có 劣条件. Sai."
+        ],
+        "vocab": [
+          { "w": "悪条件", "r": "あくじょうけん", "hv": "ÁC ĐIỀU KIỆN", "vi": "điều kiện bất lợi" },
+          { "w": "重なる", "r": "かさなる", "hv": "TRÙNG", "vi": "chồng chất, trùng lặp" },
+          { "w": "悪影響", "r": "あくえいきょう", "hv": "ÁC ẢNH HƯỞNG", "vi": "ảnh hưởng xấu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Tiền tố 悪〜 (あく): 悪条件, 悪天候, 悪循環, 悪影響."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "クリーム（　　）になるまで、バターと砂糖をよく混ぜてください。",
+      "options": ["流", "似", "風", "状"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hãy trộn đều bơ và đường cho đến khi thành dạng kem.",
+        "why": "〜状 (じょう) = trạng thái, hình dạng ~. クリーム状 = dạng kem sệt. Mô tả hình thái vật chất sau khi trộn.",
+        "options": [
+          "流 → 〜流: phong cách, trường phái (日本流). Sai.",
+          "似 → không dùng làm hậu tố. Sai.",
+          "風 → 〜風 (ふう): kiểu, phong cách (洋風, 和風), không chỉ trạng thái vật chất. Sai.",
+          "状 → クリーム状: dạng kem. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "〜状", "r": "じょう", "hv": "TRẠNG", "vi": "dạng, hình dạng ~" },
+          { "w": "混ぜる", "r": "まぜる", "hv": "HỖN", "vi": "trộn" },
+          { "w": "砂糖", "r": "さとう", "hv": "SA ĐƯỜNG", "vi": "đường" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "液状 (dạng lỏng), 粉状 (dạng bột), 棒状 (dạng que). Lưu ý: bản PDF in nhầm phương án 3 là 「熊」, đã sửa thành 「風」."
+      }
+    },
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "父は一日（　　）にジョギングをしている。",
+      "options": ["かけ", "あき", "ぬけ", "おき"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Bố tôi chạy bộ cách một ngày một lần.",
+        "why": "〜おきに = cách ~ (một khoảng). 一日おきに = cách một ngày (chạy hôm nay, nghỉ mai, chạy ngày kia).",
+        "options": [
+          "かけ → 〜かけ: đang dở (読みかけ). Sai.",
+          "あき → không có cách nói 一日あき. Sai.",
+          "ぬけ → 〜ぬけ: thiếu sót, lọt qua. Sai.",
+          "おき → 一日おきに: cách một ngày. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "〜おきに", "r": "おきに", "hv": "", "vi": "cách ~ một lần" },
+          { "w": "ジョギング", "r": "じょぎんぐ", "hv": "", "vi": "chạy bộ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "1メートルおきに木を植える = cứ cách 1m trồng một cây. 〜ごとに = mỗi ~."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "（　　）シーズンは、あの選手の活躍が楽しみだ。",
+      "options": ["明", "迎", "来", "越"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Mùa giải tới, tôi rất mong chờ sự tỏa sáng của tuyển thủ đó.",
+        "why": "来〜 (らい) = ~ tới, sắp tới. 来シーズン = mùa giải tới (như 来年, 来月, 来週).",
+        "options": [
+          "明 → 明〜 (みょう) chỉ dùng với 明日, 明年, 明後日; không có 明シーズン. Sai.",
+          "迎 → 迎 = đón, không làm tiền tố. Sai.",
+          "来 → 来シーズン: mùa giải tới. ĐÚNG.",
+          "越 → 越 = vượt qua, không làm tiền tố thời gian. Sai."
+        ],
+        "vocab": [
+          { "w": "来シーズン", "r": "らいしーずん", "hv": "LAI", "vi": "mùa giải tới" },
+          { "w": "活躍", "r": "かつやく", "hv": "HOẠT DƯỢC", "vi": "hoạt động tích cực, tỏa sáng" },
+          { "w": "選手", "r": "せんしゅ", "hv": "TUYỂN THỦ", "vi": "tuyển thủ, vận động viên" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Tiền tố 来〜: 来年度, 来学期, 来シーズン. Ngược lại: 前〜/昨〜."
+      }
+    }
+  ]
+}

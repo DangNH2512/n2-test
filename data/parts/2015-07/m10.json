@@ -1,0 +1,210 @@
+{
+  "exam": "2015-07",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（１）から（５）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1) đến (5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "学習者は真剣に外国語に取り組んでいるのに、どうしても間違ってしまう。間違えるのは仕方のないことだけれど、せっかく規則を覚えてそれを応用したつもりなのに、「それは例外」とかいわれると、何だかやる気がなくなってしまう。\nこのような誤用（注）をきちんと分析すれば、その成果としてすばらしい教科書ができるはずだ。本来教科書とはその対象である学習者のことをよく考え、難しそうなところ、間違えそうなところをきちんと分かりやすく説明する必要があるのだ。\n（黒田龍之助『外国語の水曜日―学習法としての言語学入門』による）\n（注）誤用：間違った使い方"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、あるイベント会場で来場者に配られたものである。\n\nプレゼントをもらおう！\n本日は「第7回河上町・花と木の祭り」にご来場くださり、ありがとうございます。\n会場内の8か所のスタンプ台に種類の異なるスタンプが置かれていますので、スタンプカードに押してください。スタンプカードは各スタンプ台のところに置いてあります。5種類以上のスタンプを押したら、会場入口の総合受付にお持ちください。花の種と交換いたします。また、全種類のスタンプを押してから総合受付でアンケートにご協力いただいた方には、鉢植えの花もご用意しております。\n何かご不明な点がございましたら、お気軽に会場スタッフにお声をおかけください。"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "ある楽器メーカーによって、新しい木材を古い木材のように変化させる技術が開発された。長い年月をかけて木材に起こる変化を、短期間に人工的に起こさせるのだそうだ。バイオリンなどの木製楽器では製造後数百年たったものが素晴らしい音を出すとされている。名器といわれるようなものは数も少なく非常に高価で、手に入れることが難しい。この技術を利用することで、名器並み（注）の優れた楽器が入手しやすくなるだろう。そんな楽器がそろったオーケストラの演奏が聴ける日もそう遠くはないかもしれない。\n（注）～並みの：～と同じような"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "子育てでは「褒める」ことが大事とよくいわれますが、私はそれは少し違うと考えています。褒めるということは一つの価値判断であり、親が褒めるのは、より強化したい子どもの行為であり、子どもは親のその価値観を刷り込まれ（注）ながら育っていきます。つまり、「褒める」ということは、親から子どもへの「命令」を含んでいるのです。その意味においては、その行為をするなという「叱る」行為と同じと捉えることができます。\n（小池龍之介『平常心のレッスン』による）\n（注）刷り込まれる：ここでは、身につけさせられる"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "市場競争は、誰にとっても厳しいものである。市場で生き残るためには、市場競争という規律付けに従っていく必要がある。競争が大好きという人もいるかもしれないが、競争させられるのは嫌だ、という人も多いだろう。競争から逃れて、安心できる生活をしたいという人も多いはずだ。それでも市場競争という仕組みを私たちが使っていくのは、市場競争のメリットがデメリットよりも大きいからである。より豊かになれること、誰にでも豊かになるチャンスがあることが大きなメリットである。\n（大竹文雄『競争と公平感』による）"
+    }
+  ],
+  "questions": [
+    {
+      "num": 55,
+      "passage": "p1",
+      "stem": "外国語の教科書について、筆者はどのように述べているか。",
+      "options": [
+        "学習者が成果を実感できるものを作成するべきだ。",
+        "学習者が真剣に取り組めるように工夫をするべきだ。",
+        "学習者が間違えやすいところを丁寧に説明するべきだ。",
+        "学習者のやる気が出るようにすべての規則を説明するべきだ。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về sách giáo khoa ngoại ngữ, tác giả nói gì? → Nên giải thích cẩn thận những chỗ người học dễ mắc lỗi.",
+        "why": "Câu cuối khẳng định: sách giáo khoa vốn cần giải thích rõ ràng, dễ hiểu những chỗ có vẻ khó và DỄ SAI → khớp với đáp án 3.",
+        "options": [
+          "'Thấy được thành quả' – 成果 trong bài là thành quả của việc phân tích lỗi, không phải của người học. Sai.",
+          "Người học vốn đã 真剣に取り組んでいる; bài không bàn về việc làm cho họ chăm chỉ. Sai.",
+          "Giải thích cẩn thận chỗ dễ sai. ĐÚNG.",
+          "Không nói 'giải thích tất cả quy tắc'. Sai."
+        ],
+        "vocab": [
+          { "w": "取り組む", "r": "とりくむ", "hv": "THỦ TỔ", "vi": "nỗ lực, dốc sức vào" },
+          { "w": "例外", "r": "れいがい", "hv": "LỆ NGOẠI", "vi": "ngoại lệ" },
+          { "w": "誤用", "r": "ごよう", "hv": "NGỘ DỤNG", "vi": "dùng sai" },
+          { "w": "分析", "r": "ぶんせき", "hv": "PHÂN TÍCH", "vi": "phân tích" },
+          { "w": "本来", "r": "ほんらい", "hv": "BẢN LAI", "vi": "vốn dĩ" }
+        ],
+        "grammar": {
+          "pattern": "～必要があるのだ",
+          "meaning": "cần phải ~ (khẳng định chủ ý)",
+          "form": "Vる＋必要がある",
+          "example": "事前に予約する必要がある。"
+        },
+        "evidence": "本来教科書とはその対象である学習者のことをよく考え、難しそうなところ、間違えそうなところをきちんと分かりやすく説明する必要があるのだ。",
+        "tip": "Ý chính của đoạn văn ngắn thường nằm ở câu cuối có ～のだ / ～必要がある."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p2",
+      "stem": "鉢植えの花をもらいたい場合は、どうすればいいか。",
+      "options": [
+        "総合受付でアンケートに協力し、８種類の異なるスタンプを押してから再び総合受付へ行く。",
+        "最初のスタンプ台のところでアンケートに協力し、５種類の異なるスタンプを押してから総合受付へ行く。",
+        "５種類の異なるスタンプを押してから、最後のスタンプ台のところでアンケートに協力する。",
+        "８種類の異なるスタンプを押してから、総合受付へ行ってアンケートに協力する。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nếu muốn nhận chậu hoa thì phải làm thế nào? → Đóng đủ 8 loại dấu khác nhau rồi đến quầy lễ tân tổng hợp và tham gia khảo sát.",
+        "why": "Chậu hoa dành cho người 'đóng đủ TẤT CẢ các loại dấu (8 chỗ = 8 loại) RỒI mới tham gia khảo sát tại quầy lễ tân tổng hợp'. Thứ tự: 8 dấu → quầy lễ tân → khảo sát.",
+        "options": [
+          "Sai thứ tự: làm khảo sát trước rồi mới đóng dấu. Sai.",
+          "Khảo sát ở trạm dấu đầu tiên và chỉ 5 dấu (5 dấu chỉ đổi được hạt giống). Sai.",
+          "5 dấu và khảo sát ở trạm cuối – sai cả số lượng lẫn địa điểm. Sai.",
+          "8 dấu → quầy lễ tân tổng hợp → khảo sát. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "鉢植え", "r": "はちうえ", "hv": "BÁT THỰC", "vi": "cây trồng trong chậu" },
+          { "w": "総合受付", "r": "そうごううけつけ", "hv": "TỔNG HỢP THỤ PHÓ", "vi": "quầy lễ tân tổng hợp" },
+          { "w": "異なる", "r": "ことなる", "hv": "DỊ", "vi": "khác nhau" },
+          { "w": "種", "r": "たね", "hv": "CHỦNG", "vi": "hạt giống" },
+          { "w": "交換", "r": "こうかん", "hv": "GIAO HOÁN", "vi": "đổi, trao đổi" }
+        ],
+        "grammar": null,
+        "evidence": "また、全種類のスタンプを押してから総合受付でアンケートにご協力いただいた方には、鉢植えの花もご用意しております。",
+        "tip": "Bẫy: 5種類以上 → chỉ được hạt giống (花の種); chậu hoa cần 全種類 (= 8)."
+      }
+    },
+    {
+      "num": 57,
+      "passage": "p3",
+      "stem": "そんな楽器とは、どのようなものか。",
+      "options": [
+        "新しい技術で作られていて、名器よりも素晴らしい音が出せるもの",
+        "古い木材で作られていて、名器よりも素晴らしい音が出せるもの",
+        "長い年月をかけて作られていて、名器のような音が出せるもの",
+        "新しい木材で作られていて、名器のような音が出せるもの"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "'Loại nhạc cụ như thế' là loại thế nào? → Được làm từ gỗ mới và có thể tạo ra âm thanh như danh cầm.",
+        "why": "そんな楽器 chỉ '名器並みの優れた楽器' ở câu trước, được làm bằng công nghệ biến GỖ MỚI thành như gỗ cũ. 名器並み = giống như danh cầm (theo chú thích), không phải hơn.",
+        "options": [
+          "'Hơn cả danh cầm' – bài chỉ nói 名器並み (ngang danh cầm). Sai.",
+          "Làm từ gỗ cũ và hơn danh cầm – sai cả hai ý. Sai.",
+          "Mất nhiều năm tháng để làm – ngược lại, công nghệ tạo biến đổi trong thời gian ngắn. Sai.",
+          "Gỗ mới, âm thanh như danh cầm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "名器", "r": "めいき", "hv": "DANH KHÍ", "vi": "danh cầm, nhạc cụ nổi tiếng" },
+          { "w": "木材", "r": "もくざい", "hv": "MỘC TÀI", "vi": "gỗ" },
+          { "w": "人工的", "r": "じんこうてき", "hv": "NHÂN CÔNG ĐÍCH", "vi": "nhân tạo" },
+          { "w": "入手", "r": "にゅうしゅ", "hv": "NHẬP THỦ", "vi": "có được, mua được" }
+        ],
+        "grammar": {
+          "pattern": "N並み",
+          "meaning": "ngang với N, giống như N",
+          "form": "N＋並み（の）",
+          "example": "プロ並みの腕前。"
+        },
+        "evidence": "ある楽器メーカーによって、新しい木材を古い木材のように変化させる技術が開発された。／この技術を利用することで、名器並みの優れた楽器が入手しやすくなるだろう。",
+        "tip": "Đọc kỹ chú thích (注): 並み = と同じような, không phải 'hơn'."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p4",
+      "stem": "筆者によると、「褒める」とは親が何をすることなのか。",
+      "options": [
+        "子どもに親自身の価値観を押しつけること",
+        "子どもにさまざまな価値観を示すこと",
+        "子どもを常識的な価値観に従わせること",
+        "子ども自身が持つ価値観を認めること"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, 'khen' là việc cha mẹ làm gì? → Áp đặt giá trị quan của chính cha mẹ lên con.",
+        "why": "Tác giả cho rằng khen là một sự phán xét giá trị; con cái bị 'khắc sâu' giá trị quan của cha mẹ, và khen chứa đựng 'mệnh lệnh' từ cha mẹ → tức là áp đặt giá trị quan của cha mẹ.",
+        "options": [
+          "Áp đặt giá trị quan của chính cha mẹ. ĐÚNG.",
+          "'Đưa ra nhiều giá trị quan' – bài nói về giá trị quan của cha mẹ (một), không phải nhiều. Sai.",
+          "'Giá trị quan thông thường của xã hội' – bài nói 親のその価値観. Sai.",
+          "'Công nhận giá trị quan của con' – ngược hướng. Sai."
+        ],
+        "vocab": [
+          { "w": "褒める", "r": "ほめる", "hv": "BAO", "vi": "khen" },
+          { "w": "価値観", "r": "かちかん", "hv": "GIÁ TRỊ QUAN", "vi": "giá trị quan" },
+          { "w": "刷り込む", "r": "すりこむ", "hv": "XOÁT", "vi": "in sâu, khắc sâu (vào đầu)" },
+          { "w": "叱る", "r": "しかる", "hv": "SẤT", "vi": "mắng" },
+          { "w": "押しつける", "r": "おしつける", "hv": "ÁP", "vi": "áp đặt" }
+        ],
+        "grammar": {
+          "pattern": "つまり～のです",
+          "meaning": "tóm lại là ~ (diễn đạt lại ý chính)",
+          "form": "つまり＋câu＋のだ",
+          "example": "つまり、彼は来ないということです。"
+        },
+        "evidence": "子どもは親のその価値観を刷り込まれながら育っていきます。つまり、「褒める」ということは、親から子どもへの「命令」を含んでいるのです。",
+        "tip": "つまり thường mở đầu câu tóm ý chính – hãy chú ý câu đó."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p5",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "市場競争によって安心できる生活が保証される。",
+        "市場競争によって豊かになる機会が与えられる。",
+        "市場競争がなければ豊かな生活は送れない。",
+        "市場競争に参加しないで生きることはできない。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Nhờ cạnh tranh thị trường mà ai cũng được trao cơ hội để trở nên giàu có.",
+        "why": "Câu cuối: lợi ích lớn của cạnh tranh thị trường là có thể giàu hơn và AI CŨNG CÓ CƠ HỘI làm giàu → đáp án 2 (機会 = チャンス).",
+        "options": [
+          "'Đảm bảo cuộc sống yên ổn' – ngược lại, muốn yên ổn thì người ta muốn trốn khỏi cạnh tranh. Sai.",
+          "Được trao cơ hội trở nên giàu có. ĐÚNG.",
+          "'Không có cạnh tranh thì không thể sống sung túc' – quá tuyệt đối, bài không nói. Sai.",
+          "'Không thể sống mà không tham gia cạnh tranh' – bài không khẳng định. Sai."
+        ],
+        "vocab": [
+          { "w": "市場競争", "r": "しじょうきょうそう", "hv": "THỊ TRƯỜNG CẠNH TRANH", "vi": "cạnh tranh thị trường" },
+          { "w": "規律", "r": "きりつ", "hv": "QUY LUẬT", "vi": "kỷ luật, quy tắc" },
+          { "w": "逃れる", "r": "のがれる", "hv": "ĐÀO", "vi": "trốn thoát, thoát khỏi" },
+          { "w": "豊か", "r": "ゆたか", "hv": "PHONG", "vi": "giàu có, sung túc" },
+          { "w": "機会", "r": "きかい", "hv": "CƠ HỘI", "vi": "cơ hội" }
+        ],
+        "grammar": null,
+        "evidence": "より豊かになれること、誰にでも豊かになるチャンスがあることが大きなメリットである。",
+        "tip": "Đáp án đúng thường diễn đạt lại (チャンス → 機会), đáp án sai thường quá tuyệt đối (～なければ～ない)."
+      }
+    }
+  ]
+}

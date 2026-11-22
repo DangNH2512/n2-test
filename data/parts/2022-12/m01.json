@@ -1,0 +1,140 @@
+{
+  "exam": "2022-12",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "建物の入口に<u>警備</u>の人がいます。",
+      "options": ["けいひ", "けいび", "けひ", "けび"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Ở lối vào tòa nhà có người bảo vệ.",
+        "why": "警備 đọc là けいび (CẢNH BỊ) = canh gác, bảo vệ. 警 đọc けい (trường âm い), 備 đọc び (như 準備 じゅんび, 設備 せつび).",
+        "options": [
+          "けいひ → 経費: kinh phí, chi phí. Sai.",
+          "けいび → 警備: canh gác, bảo vệ. ĐÚNG.",
+          "けひ → không có từ này (thiếu trường âm, sai âm び). Sai.",
+          "けび → không có từ này (警 phải đọc けい). Sai."
+        ],
+        "vocab": [
+          { "w": "警備", "r": "けいび", "hv": "CẢNH BỊ", "vi": "canh gác, bảo vệ" },
+          { "w": "入口", "r": "いりぐち", "hv": "NHẬP KHẨU", "vi": "lối vào" },
+          { "w": "経費", "r": "けいひ", "hv": "KINH PHÍ", "vi": "chi phí" },
+          { "w": "準備", "r": "じゅんび", "hv": "CHUẨN BỊ", "vi": "chuẩn bị" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "備 luôn đọc び trong từ ghép: 準備・設備・警備・予備."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "絵を見て、想像力が<u>刺激</u>されました。",
+      "options": ["じえき", "じげき", "しえき", "しげき"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Xem bức tranh, trí tưởng tượng của tôi đã được kích thích.",
+        "why": "刺激 đọc là しげき (THÍCH KÍCH) = kích thích. 刺 đọc し (không đục), 激 đọc げき (như 激しい はげしい, 感激 かんげき).",
+        "options": [
+          "じえき → không có từ này. Sai.",
+          "じげき → không có từ này (刺 không đọc じ). Sai.",
+          "しえき → 使役: sai khiến (thể sai khiến trong ngữ pháp). Sai.",
+          "しげき → 刺激: kích thích. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "刺激", "r": "しげき", "hv": "THÍCH KÍCH", "vi": "kích thích" },
+          { "w": "想像力", "r": "そうぞうりょく", "hv": "TƯỞNG TƯỢNG LỰC", "vi": "trí tưởng tượng" },
+          { "w": "感激", "r": "かんげき", "hv": "CẢM KÍCH", "vi": "xúc động, cảm kích" },
+          { "w": "刺す", "r": "さす", "hv": "THÍCH", "vi": "đâm, chích" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "激 = げき (激しい・感激・刺激). Đừng nhầm với えき (液・駅)."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "ここが<u>外れて</u>いますけど、どうしたんですか。",
+      "options": ["はずれて", "みだれて", "やぶれて", "つぶれて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Chỗ này đang bị tuột ra (bung ra) đấy, có chuyện gì vậy?",
+        "why": "外れる đọc là はずれる (NGOẠI) = tuột ra, rời ra; trượt, lệch. Ví dụ: ボタンが外れる (cúc áo bị tuột).",
+        "options": [
+          "はずれて → 外れて: tuột ra, rời ra. ĐÚNG.",
+          "みだれて → 乱れて: rối loạn, xộc xệch. Sai.",
+          "やぶれて → 破れて: bị rách. Sai.",
+          "つぶれて → 潰れて: bị bẹp; phá sản. Sai."
+        ],
+        "vocab": [
+          { "w": "外れる", "r": "はずれる", "hv": "NGOẠI", "vi": "tuột ra; trật, trượt (dự đoán)" },
+          { "w": "乱れる", "r": "みだれる", "hv": "LOẠN", "vi": "rối loạn, lộn xộn" },
+          { "w": "破れる", "r": "やぶれる", "hv": "PHÁ", "vi": "rách" },
+          { "w": "潰れる", "r": "つぶれる", "hv": "HỘI", "vi": "bẹp, đổ; phá sản" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "外 có 3 cách đọc hay gặp: そと (bên ngoài), ほか (khác), はず-す/はず-れる (tháo/tuột)."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "私は<u>世間</u>の目を気にしすぎていたようだ。",
+      "options": ["せかん", "せけん", "せいかん", "せいはん"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Có vẻ như tôi đã quá để ý đến ánh mắt của người đời (thiên hạ).",
+        "why": "世間 đọc đặc biệt là せけん (THẾ GIAN) = xã hội, người đời. 世 đọc せ (không phải せい), 間 đọc けん (không phải かん).",
+        "options": [
+          "せかん → sai âm của 間 (phải là けん). Sai.",
+          "せけん → 世間: xã hội, người đời. ĐÚNG.",
+          "せいかん → 生還: sống sót trở về / 静観: bình tĩnh quan sát. Sai.",
+          "せいはん → không phải cách đọc của 世間. Sai."
+        ],
+        "vocab": [
+          { "w": "世間", "r": "せけん", "hv": "THẾ GIAN", "vi": "xã hội, người đời" },
+          { "w": "気にする", "r": "きにする", "hv": "KHÍ", "vi": "để ý, bận tâm" },
+          { "w": "人間", "r": "にんげん", "hv": "NHÂN GIAN", "vi": "con người" },
+          { "w": "世界", "r": "せかい", "hv": "THẾ GIỚI", "vi": "thế giới" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "間 = けん trong 世間・人間(にんげん) — đây là âm Go-on, khác với 時間(じかん)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "木田さんはとても<u>勇ましい</u>人だ。",
+      "options": ["たくましい", "やかましい", "いさましい", "あつかましい"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh Kida là người rất dũng cảm.",
+        "why": "勇ましい đọc là いさましい (DŨNG) = dũng cảm, hùng dũng. 勇 có âm Kun là いさ-む, âm On là ゆう (勇気 ゆうき).",
+        "options": [
+          "たくましい → 逞しい: vạm vỡ, mạnh mẽ. Sai.",
+          "やかましい → 喧しい: ồn ào; khó tính. Sai.",
+          "いさましい → 勇ましい: dũng cảm. ĐÚNG.",
+          "あつかましい → 厚かましい: trơ trẽn, mặt dày. Sai."
+        ],
+        "vocab": [
+          { "w": "勇ましい", "r": "いさましい", "hv": "DŨNG", "vi": "dũng cảm, hùng dũng" },
+          { "w": "勇気", "r": "ゆうき", "hv": "DŨNG KHÍ", "vi": "lòng dũng cảm" },
+          { "w": "逞しい", "r": "たくましい", "hv": "SÍNH", "vi": "vạm vỡ, mạnh mẽ" },
+          { "w": "厚かましい", "r": "あつかましい", "hv": "HẬU", "vi": "trơ trẽn, mặt dày" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bốn tính từ đuôi ～ましい hay bị trộn lẫn: いさましい(勇)・たくましい(逞)・やかましい(喧)・あつかましい(厚)."
+      }
+    }
+  ]
+}

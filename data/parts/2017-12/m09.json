@@ -1,0 +1,156 @@
+{
+  "exam": "2017-12",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、（50）から（54）の中に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án đúng nhất cho các ô 50–54.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "鳥はなぜ飛べるのか",
+      "text": "以下は、ある子供雑誌に寄せられた質問と、質問に対する回答である。\n\n◇質問◇\n鳥はなぜ飛べるのですか。人間も翼をつけたら、飛べますか。（草太　小３）\n\n◇回答◇\n空を飛ぶためには体が軽いことが大切です。（50）、空を飛ぶ鳥は、体や翼の大きさのわりには、体がとても軽くできているのです。例えば、コンドルという鳥は、翼の長さ（左右の翼を広げたときの翼の先から先までの長さ）が３ｍほどもありますが、体重は10～15㎏しかありません。鳥が重そうに見えるのは、羽が膨らんでいるからで、本当はとても細い体をしています。そして、鳥の骨は細く、骨の中はトンネルのような空洞の状態になっているため、軽いのです。でも草太君は、もしかしたら「それなら人間は、体重に合わせて大きい翼をつければいい。」と思うかもしれませんね。では、翼はどのくらいの（51）。ある説によると、体重60㎏の人間が飛ぶのに必要な翼の長さは、約34ｍだそうです。長さ10ｍの大型バスを３台並べたときの長さよりも長いわけです。（52）は人間にはとても動かせませんよね。鳥が体のわりに大きな翼を動かせるのは、胸の筋肉が大変発達しているからです。鳥の胸の筋肉は、体重の約35％を占めると言われています。そのため、鳥は翼を強く動かすことができるのです。そのほかにも、鳥の体は表面の羽がなめらかで、空気の抵抗を受けにくい形になっています。（53）、鳥は、単に翼があるから飛べるのではなく、いろいろな点で体全体が飛ぶのに最適な構造になっていることがわかりますね。鳥は飛ぶために進化してきたのです。残念ながら、人間は、翼をつけただけでは飛ぶのは（54）。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["一方", "実は", "ところが", "なぜなら"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Để bay được trên trời thì cơ thể nhẹ là điều quan trọng. Thật ra, loài chim bay trên trời có cơ thể được cấu tạo rất nhẹ so với kích thước thân và cánh.",
+        "why": "Câu sau đưa ra sự thật có thể người đọc chưa biết (chim nhẹ hơn mình tưởng), kết thúc bằng 〜のです (giải thích). 実は = thật ra là, dùng để tiết lộ sự thật bất ngờ.",
+        "options": [
+          "一方 → \"mặt khác\" (đối chiếu hai sự việc). Không có đối lập. Sai.",
+          "実は → \"thật ra\" (tiết lộ sự thật). ĐÚNG.",
+          "ところが → \"thế nhưng\" (kết quả trái mong đợi). Câu sau không trái với câu trước. Sai.",
+          "なぜなら → \"bởi vì\" – phải kết thúc bằng 〜からだ; câu sau không phải lý do. Sai."
+        ],
+        "vocab": [
+          { "w": "翼", "r": "つばさ", "hv": "DỰC", "vi": "cánh" },
+          { "w": "〜のわりには", "r": "〜のわりには", "hv": "", "vi": "so với ~ thì (khác mong đợi)" },
+          { "w": "実は", "r": "じつは", "hv": "THỰC", "vi": "thật ra là" }
+        ],
+        "grammar": {
+          "pattern": "実は〜のです",
+          "meaning": "thật ra là ~ (tiết lộ, giải thích sự thật)",
+          "form": "実は + 文 + のです／んです",
+          "example": "実は、来月結婚するんです。"
+        },
+        "evidence": "空を飛ぶためには体が軽いことが大切です。（50）、空を飛ぶ鳥は、体や翼の大きさのわりには、体がとても軽くできているのです。",
+        "tip": "なぜなら luôn đi với 〜からだ／〜ためだ ở cuối câu – không có thì loại ngay."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["長さがあるのでしょう", "長さになりましたか", "長さだと言いましたか", "長さが要るのでしょう"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vậy thì, cánh cần dài khoảng bao nhiêu nhỉ? Theo một giả thuyết, độ dài cánh cần thiết để một người nặng 60kg bay được là khoảng 34m.",
+        "why": "Câu sau trả lời bằng \"必要な翼の長さ\" (độ dài cần thiết) → câu hỏi phải là \"cần độ dài bao nhiêu\": 長さが要る (要る = cần).",
+        "options": [
+          "長さがあるのでしょう → \"có độ dài bao nhiêu\" (mô tả thực tế) – không khớp với \"cần thiết\". Sai.",
+          "長さになりましたか → \"đã trở thành độ dài bao nhiêu\" – không hợp. Sai.",
+          "長さだと言いましたか → \"đã nói là độ dài bao nhiêu\" – chưa ai nói. Sai.",
+          "長さが要るのでしょう → cần độ dài bao nhiêu? ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "要る", "r": "いる", "hv": "YẾU", "vi": "cần" },
+          { "w": "説", "r": "せつ", "hv": "THUYẾT", "vi": "giả thuyết, thuyết" },
+          { "w": "必要", "r": "ひつよう", "hv": "TẤT YẾU", "vi": "cần thiết" }
+        ],
+        "grammar": null,
+        "evidence": "では、翼はどのくらいの（51）。ある説によると、体重60㎏の人間が飛ぶのに必要な翼の長さは、約34ｍだそうです。",
+        "tip": "Câu trả lời ngay sau ô trống chứa 必要な → 要る (cần)."
+      }
+    },
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "（52）に入るもの",
+      "options": ["翼", "そんなに大きな翼", "こっちの翼", "あのような大きな翼"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Đôi cánh lớn đến như vậy thì con người không thể nào cử động được nhỉ.",
+        "why": "Cần chỉ lại \"đôi cánh dài 34m (dài hơn 3 xe buýt)\" vừa nói trong câu trước. そんなに + Adj = to đến như thế (chỉ nội dung vừa nêu trong bài viết).",
+        "options": [
+          "翼 → chỉ \"cánh\" chung chung, mất ý nhấn mạnh độ lớn vừa nói. Sai.",
+          "そんなに大きな翼 → cánh lớn đến như thế (đã nêu). ĐÚNG.",
+          "こっちの翼 → \"cánh bên này\" – chỉ vị trí, không hợp. Sai.",
+          "あのような大きな翼 → あ chỉ thứ cả hai cùng biết/đã thấy, không dùng để chỉ nội dung vừa viết. Sai."
+        ],
+        "vocab": [
+          { "w": "大型バス", "r": "おおがたバス", "hv": "ĐẠI HÌNH", "vi": "xe buýt cỡ lớn" },
+          { "w": "並べる", "r": "ならべる", "hv": "TỊNH", "vi": "xếp hàng" },
+          { "w": "とても〜ない", "r": "とても〜ない", "hv": "", "vi": "không thể nào ~" }
+        ],
+        "grammar": {
+          "pattern": "そんな（に）〜（chỉ thị văn mạch）",
+          "meaning": "như thế (chỉ lại nội dung vừa nêu trong văn bản)",
+          "form": "そんなに + Adj + N",
+          "example": "そんなに高い車は、私には買えない。"
+        },
+        "evidence": "長さ10ｍの大型バスを３台並べたときの長さよりも長いわけです。（52）は人間にはとても動かせませんよね。",
+        "tip": "Trong văn viết, chỉ lại nội dung vừa nói → dùng そ (それ・そんな), không dùng あ."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p1",
+      "stem": "（53）に入るもの",
+      "options": ["それに対して", "最近に述べたように", "こうして見てみると", "最後の結論から"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nhìn lại như thế này thì ta hiểu rằng chim không chỉ đơn giản vì có cánh mà bay được, mà toàn bộ cơ thể có cấu tạo tối ưu cho việc bay ở nhiều điểm.",
+        "why": "Sau khi liệt kê các đặc điểm (thân nhẹ, xương rỗng, cơ ngực phát triển, lông trơn), tác giả tổng kết. こうして見てみると = xem xét (các điều trên) như vậy thì → dẫn tới kết luận \"〜ことがわかりますね\".",
+        "options": [
+          "それに対して → \"trái lại\" (đối lập). Không có đối lập. Sai.",
+          "最近に述べたように → cách nói không tự nhiên (\"như đã nói gần đây\"); cũng không phải nhắc lại điều đã nói ở đầu. Sai.",
+          "こうして見てみると → nhìn lại như thế này thì (tổng kết). ĐÚNG.",
+          "最後の結論から → \"từ kết luận cuối cùng\" – chưa có kết luận nào trước đó. Sai."
+        ],
+        "vocab": [
+          { "w": "単に", "r": "たんに", "hv": "ĐƠN", "vi": "đơn thuần, chỉ" },
+          { "w": "最適", "r": "さいてき", "hv": "TỐI THÍCH", "vi": "tối ưu, thích hợp nhất" },
+          { "w": "構造", "r": "こうぞう", "hv": "CẤU TẠO", "vi": "cấu tạo, cấu trúc" },
+          { "w": "抵抗", "r": "ていこう", "hv": "ĐỂ KHÁNG", "vi": "sức cản, kháng cự" }
+        ],
+        "grammar": null,
+        "evidence": "（53）、鳥は、単に翼があるから飛べるのではなく、いろいろな点で体全体が飛ぶのに最適な構造になっていることがわかりますね。",
+        "tip": "Ô trống đứng trước câu kết 〜ことがわかりますね → chọn từ nối mang nghĩa tổng kết."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p1",
+      "stem": "（54）に入るもの",
+      "options": ["難しそうです", "難しいからです", "難しくなってきたらしいです", "難しくなってしまうためです"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tiếc là con người, chỉ gắn cánh vào thôi thì có vẻ khó mà bay được.",
+        "why": "Đây là câu trả lời kết luận cho câu hỏi của bé Sota (\"người gắn cánh có bay được không?\"). Tác giả đưa ra phán đoán nhẹ nhàng: 難しそうです (có vẻ khó).",
+        "options": [
+          "難しそうです → có vẻ khó (phán đoán, kết luận). ĐÚNG.",
+          "難しいからです → \"là vì khó\" – câu giải thích lý do, nhưng không có câu hỏi \"tại sao\" phía trước. Sai.",
+          "難しくなってきたらしいです → \"nghe nói dần trở nên khó\" – không có sự thay đổi theo thời gian. Sai.",
+          "難しくなってしまうためです → \"là vì sẽ trở nên khó\" – cũng là câu lý do. Sai."
+        ],
+        "vocab": [
+          { "w": "残念ながら", "r": "ざんねんながら", "hv": "TÀN NIỆM", "vi": "đáng tiếc là" },
+          { "w": "進化", "r": "しんか", "hv": "TIẾN HÓA", "vi": "tiến hóa" }
+        ],
+        "grammar": {
+          "pattern": "Adj(bỏ い) + そうだ",
+          "meaning": "có vẻ ~ (phán đoán dựa trên tình hình)",
+          "form": "難しい → 難しそうだ",
+          "example": "この仕事は今日中に終わらせるのは難しそうだ。"
+        },
+        "evidence": "残念ながら、人間は、翼をつけただけでは飛ぶのは（54）。",
+        "tip": "Câu cuối của bài trả lời câu hỏi đầu bài → là kết luận, không phải câu lý do (〜からです／〜ためです)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "exam": "2021-12",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các từ để hoàn thành câu và chọn từ đặt ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "もう酒は飲まないと＿＿＿ ＿＿＿ ★ ＿＿＿絶対に守りたい。",
+      "options": ["決めた", "どんなに", "以上は", "誘われても"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Một khi đã quyết định không uống rượu nữa thì dù có bị rủ thế nào, tôi cũng nhất định muốn giữ lời.",
+        "why": "Thứ tự: 決めた(1) → 以上は(3) → どんなに(2) → 誘われても(4). ～と決めた以上は = một khi đã quyết; どんなに～ても = dù ~ đến đâu. Vị trí ★ (thứ 3) là どんなに.",
+        "options": [
+          "決めた → vị trí 1 (と決めた). Không phải ★.",
+          "どんなに → vị trí 3 = ★. ĐÚNG.",
+          "以上は → vị trí 2 (決めた以上は). Không phải ★.",
+          "誘われても → vị trí 4 (どんなに誘われても). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "誘う", "r": "さそう", "hv": "DỤ", "vi": "rủ rê, mời" },
+          { "w": "守る", "r": "まもる", "hv": "THỦ", "vi": "giữ, bảo vệ" },
+          { "w": "絶対に", "r": "ぜったいに", "hv": "TUYỆT ĐỐI", "vi": "tuyệt đối, nhất định" }
+        ],
+        "grammar": {
+          "pattern": "～以上は ／ どんなに～ても",
+          "meaning": "một khi đã ~ thì / dù ~ đến đâu",
+          "form": "Vた＋以上（は）；どんなに＋Vて＋も",
+          "example": "引き受けた以上は、最後までやるべきだ。(Một khi đã nhận thì phải làm đến cùng.)"
+        },
+        "evidence": null,
+        "tip": "Câu hoàn chỉnh: もう酒は飲まないと決めた以上は、どんなに誘われても絶対に守りたい。"
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "必要のない物でも、欲しくなると、＿＿＿ ＿＿＿ ★ ＿＿＿しまう。",
+      "options": ["買わずには", "すぐ買って", "いられなく", "なって"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Dù là đồ không cần thiết, hễ muốn là tôi không thể không mua, và mua ngay mất.",
+        "why": "Thứ tự: 買わずには(1) → いられなく(3) → なって(4) → すぐ買って(2) → しまう. ～ずにはいられない = không thể không ~; いられなくなって = trở nên không nhịn được. Vị trí ★ (thứ 3) là なって.",
+        "options": [
+          "買わずには → vị trí 1. Không phải ★.",
+          "すぐ買って → vị trí 4 (すぐ買ってしまう). Không phải ★.",
+          "いられなく → vị trí 2. Không phải ★.",
+          "なって → vị trí 3 = ★. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "欲しい", "r": "ほしい", "hv": "DỤC", "vi": "muốn có" },
+          { "w": "必要", "r": "ひつよう", "hv": "TẤT YẾU", "vi": "cần thiết" }
+        ],
+        "grammar": {
+          "pattern": "～ずにはいられない",
+          "meaning": "không thể không ~, không kìm được mà ~",
+          "form": "Vない(bỏ ない)＋ずにはいられない（する→せずには）",
+          "example": "その話を聞いて、笑わずにはいられなかった。(Nghe chuyện đó tôi không nhịn được cười.)"
+        },
+        "evidence": null,
+        "tip": "Câu hoàn chỉnh: 欲しくなると、買わずにはいられなくなってすぐ買ってしまう。 Vて＋しまう nên すぐ買って phải đứng cuối."
+      }
+    },
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "パソコンの電源を入れたのだが、画面に「お待ちください」という＿＿＿ ＿＿＿ ★ ＿＿＿電源を入れ直した。",
+      "options": ["待っても", "何分", "メッセージが出たまま", "先に進まないので"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đã bật máy tính, nhưng màn hình cứ hiện thông báo 'Vui lòng chờ' và dù đợi bao nhiêu phút cũng không chạy tiếp được nên tôi đã bật lại nguồn.",
+        "why": "Thứ tự: メッセージが出たまま(3) → 何分(2) → 待っても(1) → 先に進まないので(4). という＋N (メッセージ); 何分待っても = dù chờ bao nhiêu phút. Vị trí ★ (thứ 3) là 待っても.",
+        "options": [
+          "待っても → vị trí 3 = ★. ĐÚNG.",
+          "何分 → vị trí 2. Không phải ★.",
+          "メッセージが出たまま → vị trí 1 (という cần danh từ ngay sau). Không phải ★.",
+          "先に進まないので → vị trí 4 (lý do → 電源を入れ直した). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "電源", "r": "でんげん", "hv": "ĐIỆN NGUYÊN", "vi": "nguồn điện" },
+          { "w": "画面", "r": "がめん", "hv": "HỌA DIỆN", "vi": "màn hình" },
+          { "w": "入れ直す", "r": "いれなおす", "hv": "", "vi": "bật lại, cho vào lại" }
+        ],
+        "grammar": {
+          "pattern": "～たまま ／ 何～ても",
+          "meaning": "để nguyên trạng thái ~ / dù bao nhiêu ~ đi nữa",
+          "form": "Vた＋まま；何＋助数詞＋Vても",
+          "example": "何回電話しても、つながらない。(Gọi bao nhiêu lần cũng không được.)"
+        },
+        "evidence": null,
+        "tip": "Đề gốc in nhầm パンコン/人れ直した; đúng là パソコン/入れ直した."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "（電話で）\nA「すみません、来週の2時からの会議ですが、その時間、別の用件が入ってしまいまして、もしそちらのご都合が＿＿＿ ＿＿＿ ★ ＿＿＿いかがでしょうか。」\nB「こちらは大丈夫ですよ。」",
+      "options": ["ありがたいんですが", "変更していただけると", "4時以降に", "よろしければ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Qua điện thoại) A: Xin lỗi, về cuộc họp lúc 2 giờ tuần sau, vào giờ đó tôi lại có việc khác, nếu bên anh tiện thì chúng tôi rất biết ơn nếu được đổi sang sau 4 giờ, anh thấy sao ạ? B: Bên tôi không sao đâu.",
+        "why": "Thứ tự: よろしければ(4) → 4時以降に(3) → 変更していただけると(2) → ありがたいんですが(1). ご都合がよろしければ (nếu tiện); ～ていただけるとありがたい (rất cảm kích nếu được ~). Vị trí ★ (thứ 3) là 変更していただけると.",
+        "options": [
+          "ありがたいんですが → vị trí 4 (trước いかがでしょうか). Không phải ★.",
+          "変更していただけると → vị trí 3 = ★. ĐÚNG.",
+          "4時以降に → vị trí 2 (đổi sang sau 4 giờ). Không phải ★.",
+          "よろしければ → vị trí 1 (ご都合がよろしければ). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "用件", "r": "ようけん", "hv": "DỤNG KIỆN", "vi": "việc cần làm, công chuyện" },
+          { "w": "都合", "r": "つごう", "hv": "ĐÔ HỢP", "vi": "sự thuận tiện, hoàn cảnh" },
+          { "w": "変更", "r": "へんこう", "hv": "BIẾN CANH", "vi": "thay đổi" },
+          { "w": "以降", "r": "いこう", "hv": "DĨ GIÁNG", "vi": "từ ~ trở đi" }
+        ],
+        "grammar": {
+          "pattern": "～ていただけるとありがたい",
+          "meaning": "nếu được ~ thì tôi rất biết ơn (nhờ vả lịch sự)",
+          "form": "Vて＋いただけると＋ありがたい（です）",
+          "example": "明日までにお返事いただけるとありがたいです。(Nếu anh trả lời giúp trước ngày mai thì tôi rất cảm ơn.)"
+        },
+        "evidence": null,
+        "tip": "Câu hoàn chỉnh: もしそちらのご都合がよろしければ、4時以降に変更していただけるとありがたいんですが、いかがでしょうか。"
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "20年前に初めてこの歌手の歌を聴いたとき、＿＿＿ ＿＿＿ ★ ＿＿＿。",
+      "options": ["と思った", "よく覚えている", "のを", "なんと美しい声なんだろう"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi vẫn nhớ rõ lần đầu nghe bài hát của ca sĩ này 20 năm trước, tôi đã nghĩ 'giọng hát mới đẹp làm sao'.",
+        "why": "Thứ tự: なんと美しい声なんだろう(4) → と思った(1) → のを(3) → よく覚えている(2). 「～と思ったのをよく覚えている」 = nhớ rõ việc đã nghĩ ~. Vị trí ★ (thứ 3) là のを.",
+        "options": [
+          "と思った → vị trí 2. Không phải ★.",
+          "よく覚えている → vị trí 4 (động từ cuối câu). Không phải ★.",
+          "のを → vị trí 3 = ★. ĐÚNG.",
+          "なんと美しい声なんだろう → vị trí 1 (nội dung suy nghĩ trước と). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "歌手", "r": "かしゅ", "hv": "CA THỦ", "vi": "ca sĩ" },
+          { "w": "覚える", "r": "おぼえる", "hv": "GIÁC", "vi": "nhớ" }
+        ],
+        "grammar": {
+          "pattern": "なんと～だろう ／ ～のを覚えている",
+          "meaning": "~ biết bao! (cảm thán) / nhớ việc ~",
+          "form": "なんと＋Aい／Naな＋N＋なんだろう；普通形＋のを覚えている",
+          "example": "子どものころ、父と釣りに行ったのを覚えている。(Tôi nhớ hồi nhỏ đã đi câu cá với bố.)"
+        },
+        "evidence": null,
+        "tip": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "exam": "2025-07",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の(1)から(4)の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(4) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "　ゾウの鼻は進化（注1）の産物です。長い進化の中で鼻が何か目的を持って自らを変化させたわけではないかもしれません。何かの副産物かもしれません。しかし、ゾウは鼻を長くすることでどんな得をしているのかを考えてみることは、ゾウが生きる世界を、ゾウの視点から理解するためにも大切なことです。\n　まず、ゾウの体を分析してみましょう。長い鼻があって、その根元には大きな頭があります。頭の重さは500キログラムほど。その頭を支えるには、太い首は不可欠です。\n（中略）\n　ゾウの頭はなぜこんなにも大きいのでしょう？ゾウの頭は頑丈な頭骨とむきむきの（注2）筋肉からなります。ゾウはとても賢い動物で豊かな感情を持っています。そういった知能や心の世界を支えるのは、もちろん脳です。5000グラムにも及ぶ（注3）大きな脳を守る頑丈な頭骨と、ゾウの象徴である太くて長い鼻を維持するための筋肉がついてゾウの頭はあんなにも大きくなったのです。\n　大きな脳と長い鼻の間にも関係があると、私は考えています。大きな脳、つまり大きな頭を支えるために、首が十分に太くなければなりませんでした。首を太く頑丈にすると、困ったことに、頭部の動きが制限されてしまったのです。その不自由さを、長く機動性に優れた（注4）鼻が十分に補ってくれたのではないでしょうか。鼻がよく動くことで、首が固定されていても生活に困りません。大きな頭を保ったまま、鼻で動きの自由も得たのです。\n（注1）進化：ここでは、世代を超えて生物の形や性質が変化すること\n（注2）むきむきの：盛り上がった\n（注3）及ぶ：達する\n（注4）機動性に優れた：ここでは、よく動く"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "　若い人たちの職業観で、気になることがある。ある調査では、自分に合った仕事をしたいと多くの若者が考えているらしい。僕に言わせれば、それが大きな勘違いである。そんなことにこだわるから、ますます就職するのがキツくなるのだ。\n　仕事というのは社会のニーズだ。（中略）\n　たとえば僕の本が売れたとする。<u>売れた理由</u>は買った人に聞いてみないとわからないが、少なくともそこに“穴”があいていたから、とは言えるだろう。埋まっていない隙間があって、実はみんなが気になっていた。そこを本の形で埋めたから買ってもらえた。一見（注1）平坦な（注2）場所に穴が、つまり隠れたニーズがあったということである。\n　起業（注3）という言葉をメディア（注4）でよく目にするが、この言葉の使われ方を見ていると、平らな場所に新しく何かを積み上げるようなイメージだ。しかし話はまったく逆だと僕は思う。起業というのは社会にあいている穴を見つけて埋めることではないか。何か足りない、不便だとみんなが思っている。それを埋めてやったら、即（注5）、商売になるはずだ。穴があったら入りたい。そう考えてとにかく仕事に就き、身体を動かして現場の作業を知ることだ。どの穴も、外側から見て全体がわかるほど単純な形はしていない。入ってみないで頭でばかり考えたって何もわからないのである。\n（注1）一見：ちょっと見たところ\n（注2）平坦な：平らな\n（注3）起業：新しい事業を始めること\n（注4）メディア：ここでは、テレビや雑誌など\n（注5）即：すぐに"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "　子どもはむずかしいことが好きである。\n　ニュースなどを見ていて、なにか関心を持ったようなら、子どもにわかるよう言葉を選んで教えてあげるといい。\n　親がそのように努力して教えても、実はわかっていないことのほうが多いのだが、それでいいのである。子どもをわかったような気にさせるというのでいい。なぜなら、そこから好奇心（注1）が動き出し、やがて本当にわかるように調べてみようという気になる。\n　そして、そうやっているうちに、本当にわかってくることも多い。\n　要は、好奇心を刺激し、いろいろなものに関心を持たせることがいちばん重要なのである。\n　子どもは、どこか背伸びしたがる（注2）ものだ。それを否定的に見るのではなく、表面的な理解であってもかまわない、自分なりの理解でいい、とおおらかに（注3）受け止めよう。やがて、本格的な学びの場面で、その関心が伸びてくるからだ。（中略）\n　子どもの理解力はゴムのようなもので、伸びないと思えばまったく伸びないままだが、伸びると思えばおそろしく伸びる。\n　そのわかれ目は、課題に出会ったとき、興味をそそる（注4）ように話してやれるかどうかだ。\n　いざとなれば（注5）、大人がじゅうぶんわかっていなくてもいい。もちろん、まちがったことを教えるのはよくないが、「自分にもよくわからないが、こういうことだろうと思う」と正直に言えば、子どもは納得する。大人もわからないことがあるのだと知ったり、子ども自身がなんとなくわかったような気がするというのでもいいだろう。\n（注1）好奇心：興味を持つ心\n（注2）背伸びする：実力以上のことをしようとする\n（注3）おおらかに：広い心で\n（注4）そそる：ここでは、引く\n（注5）いざとなれば：ここでは、場合によっては"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "　あまり語られないことですが、医療というものは、非常に「個別性」が高い分野です。「個別性」とは言いかえると、治療方針は10人いれば10通りあるということです。どれほど苦しくても生きられるなら辛い治療を頑張りたい人がいる一方で、痛みや苦しみがあるくらいなら命が短くなっても治療は一切（注1）したくない人だっているのです。我々医者は、科学的な根拠（注2）のある方法を知りながらも、あくまで患者さんのやりたいよう、生きたいように手助けするという使命があります。\n　これからの時代、この「個別性」はよりいっそう加速されるでしょう。これは、一人ひとりの患者さんに合わせた治療をしていくという意味で「テーラーメイド医療」などと呼ばれています。\n　目の前の患者さんが、どんな生き方を望んでいるのか。決して十分とはいいがたい時間のなかで、医者は把握（注3）せねばなりません。それを知る唯一の方法は、やはり面と向かって（注4）の会話なのです。その意味で、話を聞いてくれない医者は、患者さんに向き合っていないと、私は思います。時間がないのは私も医者なので痛いほどわかるのですが、それでも「話を聞く姿勢」だけは死守したい（注5）と思っています。\n（注1）一切：全く\n（注2）根拠：理由\n（注3）把握する：しっかりと理解する\n（注4）面と向かう：相手と向かい合う\n（注5）死守する：絶対に守る"
+    }
+  ],
+  "questions": [
+    {
+      "num": 57,
+      "passage": "p1",
+      "stem": "ゾウの頭について、筆者はどのように述べているか。",
+      "options": [
+        "高い知能を持つ脳を守るため、頭骨が頑丈である。",
+        "筋肉がついていて大きいので、感情が分かりやすい。",
+        "頭骨が頑丈なので、太くて長い鼻が維持できる。",
+        "重量のほとんどが脳の重さで、知能が高い。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tác giả nói gì về đầu con voi? → Hộp sọ cứng chắc để bảo vệ bộ não có trí thông minh cao.",
+        "why": "Đoạn 3: voi thông minh, giàu cảm xúc; bộ não hỗ trợ điều đó; 'bộ não lớn 5000g được bảo vệ bởi hộp sọ cứng chắc' → đáp án 1.",
+        "options": [
+          "Não thông minh → hộp sọ cứng để bảo vệ. ĐÚNG.",
+          "Không nói cơ bắp giúp dễ hiểu cảm xúc. Sai.",
+          "Cái duy trì chiếc vòi là 'cơ bắp' (筋肉), không phải hộp sọ. Sai.",
+          "Đầu nặng 500kg, não chỉ 5kg → không phải phần lớn trọng lượng. Sai."
+        ],
+        "vocab": [
+          { "w": "頭骨", "r": "とうこつ", "hv": "ĐẦU CỐT", "vi": "hộp sọ" },
+          { "w": "頑丈", "r": "がんじょう", "hv": "NGOAN TRƯỢNG", "vi": "cứng chắc, vững chãi" },
+          { "w": "筋肉", "r": "きんにく", "hv": "CÂN NHỤC", "vi": "cơ bắp" },
+          { "w": "知能", "r": "ちのう", "hv": "TRI NĂNG", "vi": "trí tuệ, trí thông minh" }
+        ],
+        "grammar": {
+          "pattern": "～からなる",
+          "meaning": "được cấu thành từ ~",
+          "form": "N ＋ からなる",
+          "example": "このチームは5人からなる。"
+        },
+        "evidence": "5000グラムにも及ぶ大きな脳を守る頑丈な頭骨と、ゾウの象徴である太くて長い鼻を維持するための筋肉がついてゾウの頭はあんなにも大きくなったのです。",
+        "tip": "Hộp sọ ↔ bảo vệ não; cơ bắp ↔ duy trì vòi. Đáp án 3 đảo vai trò."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p1",
+      "stem": "ゾウの鼻について、筆者はどのように考えているか。",
+      "options": [
+        "脳が発達しているので、首が固定されていても自由に動かせる。",
+        "自由に動かすことで頭部の動きがよくなり、脳も発達した。",
+        "首が太く頭部が自由に動かないのを補っている。",
+        "大きな頭を支えるために、太く長くなった。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tác giả nghĩ gì về vòi voi? → Nó bù đắp cho việc cổ to nên đầu không cử động tự do được.",
+        "why": "Cổ phải to để đỡ đầu lớn → cử động của đầu bị hạn chế → chiếc vòi dài linh hoạt bù đắp sự bất tiện đó → đáp án 3.",
+        "options": [
+          "Vòi cử động tự do không phải do não phát triển. Sai.",
+          "Vòi không làm đầu cử động tốt hơn hay làm não phát triển. Sai.",
+          "Vòi bù đắp cho việc đầu không cử động tự do vì cổ to. ĐÚNG.",
+          "Cái đỡ cái đầu lớn là cái cổ to, không phải vòi. Sai."
+        ],
+        "vocab": [
+          { "w": "補う", "r": "おぎなう", "hv": "BỔ", "vi": "bù đắp" },
+          { "w": "制限", "r": "せいげん", "hv": "CHẾ HẠN", "vi": "hạn chế" },
+          { "w": "固定", "r": "こてい", "hv": "CỐ ĐỊNH", "vi": "cố định" },
+          { "w": "不自由", "r": "ふじゆう", "hv": "BẤT TỰ DO", "vi": "bất tiện, không tự do" }
+        ],
+        "grammar": null,
+        "evidence": "首を太く頑丈にすると、困ったことに、頭部の動きが制限されてしまったのです。その不自由さを、長く機動性に優れた鼻が十分に補ってくれたのではないでしょうか。",
+        "tip": null
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p2",
+      "stem": "<u>売れた理由</u>とあるが、筆者はなぜ売れたと考えているか。",
+      "options": [
+        "多くの人が知らない新しいことを書いたから。",
+        "多くの人が何か足りないと思っていたことを取り上げたから。",
+        "多くの人が気づいていなかった社会の問題を指摘したから。",
+        "多くの人が感じていた社会のニーズをわかりやすく説明したから。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tác giả nghĩ vì sao sách bán chạy? → Vì đã đề cập đến điều mà nhiều người cảm thấy còn thiếu.",
+        "why": "Sách bán được vì có 'lỗ hổng' – khoảng trống chưa được lấp mà mọi người đều để ý; sách đã lấp chỗ đó. 'Lỗ hổng' = điều mọi người thấy thiếu (何か足りない) → đáp án 2.",
+        "options": [
+          "Không nói viết điều mới mà mọi người không biết. Sai.",
+          "Lấp chỗ trống mà mọi người thấy thiếu. ĐÚNG.",
+          "Mọi người 'thực ra đã để ý' (みんなが気になっていた), không phải 'không nhận ra'. Sai.",
+          "Không nói lý do là 'giải thích dễ hiểu'. Sai."
+        ],
+        "vocab": [
+          { "w": "隙間", "r": "すきま", "hv": "KHÍCH GIAN", "vi": "khe hở, khoảng trống" },
+          { "w": "埋める", "r": "うめる", "hv": "MAI", "vi": "lấp, chôn" },
+          { "w": "勘違い", "r": "かんちがい", "hv": "KHÁM VI", "vi": "hiểu lầm" },
+          { "w": "起業", "r": "きぎょう", "hv": "KHỞI NGHIỆP", "vi": "khởi nghiệp" }
+        ],
+        "grammar": null,
+        "evidence": "埋まっていない隙間があって、実はみんなが気になっていた。そこを本の形で埋めたから買ってもらえた。",
+        "tip": "Đoạn sau giải thích 'lỗ hổng' = 「何か足りない、不便だとみんなが思っている」."
+      }
+    },
+    {
+      "num": 60,
+      "passage": "p2",
+      "stem": "若い人たちに対して、筆者が言いたいことは何か。",
+      "options": [
+        "自分に合った仕事より、社会のニーズに応えられる仕事に就くべきだ。",
+        "自分に合った仕事を見つけるには、身体を動かす仕事をしてみるべきだ。",
+        "自分に合った仕事を探すよりも、まずは仕事に就いてみることが大切だ。",
+        "どんな仕事でも、仕事をしているうちに自分に合った仕事になっていく。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tác giả muốn nói gì với người trẻ? → Thay vì tìm công việc hợp với mình, điều quan trọng là trước hết hãy thử đi làm.",
+        "why": "Tác giả cho rằng bám vào 'công việc hợp với mình' là ngộ nhận, và khuyên 'とにかく仕事に就き、身体を動かして現場の作業を知ることだ' (cứ đi làm đã); không vào thử thì không hiểu gì → đáp án 3.",
+        "options": [
+          "Tác giả không bảo phải chọn việc đáp ứng nhu cầu xã hội; ông bảo cứ đi làm, vào trong mới thấy 'lỗ hổng'. Sai.",
+          "'身体を動かして' là cách tìm hiểu hiện trường, không phải chọn 'nghề lao động chân tay' để tìm việc hợp mình. Sai.",
+          "Cứ đi làm trước thay vì tìm việc hợp mình. ĐÚNG.",
+          "Tác giả không nói việc gì làm lâu cũng thành hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "職業観", "r": "しょくぎょうかん", "hv": "CHỨC NGHIỆP QUAN", "vi": "quan niệm về nghề nghiệp" },
+          { "w": "就職", "r": "しゅうしょく", "hv": "TỰU CHỨC", "vi": "tìm được việc, vào làm" },
+          { "w": "現場", "r": "げんば", "hv": "HIỆN TRƯỜNG", "vi": "hiện trường, nơi làm việc thực tế" },
+          { "w": "仕事に就く", "r": "しごとにつく", "hv": "TỰU", "vi": "nhận việc, đi làm" }
+        ],
+        "grammar": {
+          "pattern": "～ことだ（助言）",
+          "meaning": "nên ~, điều cần làm là ~ (lời khuyên)",
+          "form": "Vる／Vない ＋ ことだ",
+          "example": "上手になりたければ、毎日練習することだ。"
+        },
+        "evidence": "そう考えてとにかく仕事に就き、身体を動かして現場の作業を知ることだ。…入ってみないで頭でばかり考えたって何もわからないのである。",
+        "tip": "「穴があったら入りたい」 ở đây được chơi chữ: thấy 'lỗ hổng' (nhu cầu) thì hãy chui vào (đi làm)."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p3",
+      "stem": "筆者によると、子どもにわからないことがあったとき、親はどうすればいいか。",
+      "options": [
+        "すぐにわかることだけを理解させる。",
+        "わかったつもりにさせる。",
+        "全部わからなくてもいいと思わせる。",
+        "全部わかるようにする。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo tác giả, khi trẻ có điều không hiểu thì cha mẹ nên làm gì? → Làm cho trẻ có cảm giác là mình đã hiểu.",
+        "why": "Tác giả nói dù trẻ thực ra chưa hiểu nhưng '子どもをわかったような気にさせるというのでいい', vì từ đó tò mò sẽ thúc đẩy trẻ tự tìm hiểu → đáp án 2 (わかったつもり = わかったような気).",
+        "options": [
+          "Không nói chỉ cho trẻ hiểu những gì dễ hiểu. Sai.",
+          "Làm trẻ có cảm giác đã hiểu. ĐÚNG.",
+          "Không nói làm trẻ nghĩ 'không hiểu hết cũng được' – người chấp nhận điều đó là cha mẹ. Sai.",
+          "Tác giả nói không cần hiểu hết (表面的な理解でもかまわない). Sai."
+        ],
+        "vocab": [
+          { "w": "好奇心", "r": "こうきしん", "hv": "HIẾU KỲ TÂM", "vi": "tính tò mò" },
+          { "w": "刺激する", "r": "しげきする", "hv": "THỨ KÍCH", "vi": "kích thích" },
+          { "w": "背伸び", "r": "せのび", "hv": "BỐI THÂN", "vi": "kiễng chân; cố tỏ ra hơn sức mình" },
+          { "w": "つもり", "r": "つもり", "hv": "", "vi": "tưởng là, coi như là" }
+        ],
+        "grammar": {
+          "pattern": "Vたつもり",
+          "meaning": "tưởng là đã ~ (dù thực tế có thể chưa)",
+          "form": "Vた ＋ つもり",
+          "example": "わかったつもりでも、説明してみるとできない。"
+        },
+        "evidence": "親がそのように努力して教えても、実はわかっていないことのほうが多いのだが、それでいいのである。子どもをわかったような気にさせるというのでいい。",
+        "tip": "Đề in 「わかったつもりにとさせる」 – lỗi đánh máy của 「わかったつもりにさせる」."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p3",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "子どもにわからないことがあったら、大人は一緒に興味を持って調べるべきだ。",
+        "子どもが関心を持ったとき、大人は興味がわくように話してやることが大切だ。",
+        "子どもが課題に出会ったら、大人は答えを教えないで自分で考えさせるべきだ。",
+        "子どもが疑問を持ったとき、大人は納得するまで教えてやることが大切だ。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Khi trẻ quan tâm, điều quan trọng là người lớn kể sao cho trẻ nảy sinh hứng thú.",
+        "why": "Tác giả: điều quan trọng nhất là kích thích tò mò; bước ngoặt (わかれ目) là khi gặp vấn đề, người lớn có kể cho trẻ một cách gợi hứng thú (興味をそそるように話してやれるか) hay không → đáp án 2.",
+        "options": [
+          "Không nói người lớn phải cùng tra cứu. Sai.",
+          "Kể sao cho trẻ hứng thú. ĐÚNG.",
+          "Tác giả khuyên nói cho trẻ (dù người lớn chưa hiểu hết), không nói 'không dạy câu trả lời'. Sai.",
+          "Không cần dạy đến khi trẻ hiểu hết; hiểu bề mặt cũng được. Sai."
+        ],
+        "vocab": [
+          { "w": "課題", "r": "かだい", "hv": "KHÓA ĐỀ", "vi": "vấn đề, bài tập" },
+          { "w": "興味をそそる", "r": "きょうみをそそる", "hv": "HỨNG VỊ", "vi": "khơi gợi hứng thú" },
+          { "w": "わかれ目", "r": "わかれめ", "hv": "", "vi": "bước ngoặt, điểm phân chia" },
+          { "w": "納得する", "r": "なっとくする", "hv": "NẠP ĐẮC", "vi": "đồng ý, thấy thỏa đáng" }
+        ],
+        "grammar": null,
+        "evidence": "そのわかれ目は、課題に出会ったとき、興味をそそるように話してやれるかどうかだ。",
+        "tip": "Câu chủ đề: 「要は、好奇心を刺激し、いろいろなものに関心を持たせることがいちばん重要なのである。」"
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p4",
+      "stem": "筆者によると、医療における「個別性」とはどういうことか。",
+      "options": [
+        "医者と患者との人間関係がさまざまであること。",
+        "患者の考え方に応じて、治療方針がさまざまになること。",
+        "同じ治療を行っても、患者の受け止め方はさまざまであること。",
+        "同じ病気でも患者の症状が異なるので、治療方針もさまざまになること。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo tác giả, 'tính cá biệt' trong y tế là gì? → Phương châm điều trị trở nên đa dạng tùy theo suy nghĩ của bệnh nhân.",
+        "why": "'Tính cá biệt' = 10 người thì 10 phương châm điều trị; ví dụ có người muốn cố chữa dù khổ, có người không muốn chữa chút nào → khác nhau do cách nghĩ/mong muốn của bệnh nhân → đáp án 2.",
+        "options": [
+          "Không nói về quan hệ bác sĩ – bệnh nhân. Sai.",
+          "Phương châm điều trị khác nhau theo suy nghĩ của bệnh nhân. ĐÚNG.",
+          "Không nói về cách tiếp nhận của bệnh nhân sau cùng một điều trị. Sai.",
+          "Nguyên nhân khác nhau là 'mong muốn', không phải 'triệu chứng'. Sai."
+        ],
+        "vocab": [
+          { "w": "個別性", "r": "こべつせい", "hv": "CÁ BIỆT TÍNH", "vi": "tính cá biệt" },
+          { "w": "治療方針", "r": "ちりょうほうしん", "hv": "TRỊ LIỆU PHƯƠNG CHÂM", "vi": "phương châm điều trị" },
+          { "w": "使命", "r": "しめい", "hv": "SỨ MỆNH", "vi": "sứ mệnh" },
+          { "w": "症状", "r": "しょうじょう", "hv": "CHỨNG TRẠNG", "vi": "triệu chứng" }
+        ],
+        "grammar": {
+          "pattern": "～に応じて",
+          "meaning": "tùy theo, ứng với ~",
+          "form": "N ＋ に応じて",
+          "example": "能力に応じて給料が決まる。"
+        },
+        "evidence": "「個別性」とは言いかえると、治療方針は10人いれば10通りあるということです。どれほど苦しくても生きられるなら辛い治療を頑張りたい人がいる一方で、痛みや苦しみがあるくらいなら命が短くなっても治療は一切したくない人だっているのです。",
+        "tip": "Bẫy: đáp án 4 nghe hợp lý theo kiến thức chung nhưng bài nhấn mạnh 'mong muốn sống thế nào', không phải triệu chứng."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p4",
+      "stem": "筆者が医者として大切にしていることは何か。",
+      "options": [
+        "患者と直接話をして、患者の考えや希望を理解すること。",
+        "患者が治療方針を理解するまで、時間をかけて話し合うこと。",
+        "患者の考えや希望を聞いた上で、自分の方針を示すこと。",
+        "患者の話をよく聞いて、治療に対する不安を取り除くこと。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều tác giả coi trọng với tư cách bác sĩ là gì? → Nói chuyện trực tiếp với bệnh nhân để hiểu suy nghĩ và mong muốn của họ.",
+        "why": "Bác sĩ phải nắm bệnh nhân mong muốn sống thế nào; cách duy nhất là trò chuyện trực tiếp; tác giả quyết giữ 'thái độ lắng nghe' → đáp án 1.",
+        "options": [
+          "Trò chuyện trực tiếp để hiểu suy nghĩ, mong muốn của bệnh nhân. ĐÚNG.",
+          "Tác giả nói thời gian không đủ; mục đích là hiểu bệnh nhân, không phải để bệnh nhân hiểu phương châm. Sai.",
+          "Không nói bác sĩ đưa ra phương châm của mình; mà là giúp bệnh nhân sống như họ muốn. Sai.",
+          "Không nói về xóa bỏ lo lắng. Sai."
+        ],
+        "vocab": [
+          { "w": "把握する", "r": "はあくする", "hv": "BẢ ÁC", "vi": "nắm bắt, hiểu rõ" },
+          { "w": "唯一", "r": "ゆいいつ", "hv": "DUY NHẤT", "vi": "duy nhất" },
+          { "w": "姿勢", "r": "しせい", "hv": "TƯ THẾ", "vi": "thái độ, tư thế" },
+          { "w": "死守する", "r": "ししゅする", "hv": "TỬ THỦ", "vi": "giữ bằng mọi giá" }
+        ],
+        "grammar": {
+          "pattern": "Vねばならない／せねばならない",
+          "meaning": "phải ~ (văn viết của なければならない)",
+          "form": "Vない(bỏ ない) ＋ ねばならない（する→せねば）",
+          "example": "約束は守らねばならない。"
+        },
+        "evidence": "目の前の患者さんが、どんな生き方を望んでいるのか。…医者は把握せねばなりません。それを知る唯一の方法は、やはり面と向かっての会話なのです。",
+        "tip": null
+      }
+    }
+  ]
+}

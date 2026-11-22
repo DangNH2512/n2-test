@@ -1,0 +1,122 @@
+{
+  "exam": "2023-12",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn dài rồi chọn câu trả lời đúng nhất cho mỗi câu hỏi (đọc hiểu chủ đề).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "問題13",
+      "text": "人間というのは①<u>奇妙な生き物である</u>。自分の力を使って自分の利益になることを行い、それがうまくいけば嬉しいというのは、個体が生き残っていくために当然のことだが、自分の力を使って何かをやって、他者、とりわけ(注1)身近な他者が喜んでくれると、それがまた嬉しい。そういう生き物なのである。これもまた人間の自然であって、ほかの生き物にはあまり例がない。思えば、親が子どもを喜ばせようと、美味しいものを食べさせたり、面白いおもちゃを買いあたえたりすること自体が、この人間的な喜びよう(注2)の典型である。子どもの笑顔を見たい親たちにとって、子どもを守ることそのもの(注3)が子育ての喜びとなる。教師もまた、子どもの喜ぶ姿を見ることを教育の喜びにしている。では、子どもの方はどうなのだろうか。\n子どもたちが周囲から守られて、喜びをあたえられる機会は、昔に比べて圧倒的に増えている。逆に、②<u>何かを任されて、相手を喜ばせる機会や体験</u>を、いまの子どもたちはどれくらい味わっているだろうか。まだ社会全体が貧しくて、子どもが一人の生活者として働かなければ家(注4)が回っていかなかった時代には、子どもたちは否応(注5)なくそうした体験を味わった。子どもが働くのが当然というなかでは、親が誉めてくれるわけでも、喜びをおもてに表してくれるわけでもないのだが、それでも子どものなかには、自分が役立っているという感覚が確実にあって、それが生活者としての子どもの自信となった。\n(中略)\nしかし、今日のように経済的に豊かな社会になって、生活のほとんどが貨幣でまかなわれる(注6)ようになると、子どもに頼り、子どもに任せる領域(注7)がどんどんと減ってくる。それにつれて、子どもたちは自分の力を使って役立つ機会を失い、結果として子どもは＜ひたすら守られる存在＞にされてきた。\n「子どもを守れ」というのは当然のことである。しかしおとなたちが善意で子どもたちを＜ひたすら守る＞とき、それはかえって子どもたちから、相手に役立ち、相手を喜ばせて喜ぶという人間の自然を奪うことになる。\n\n(注1) とりわけ：特に\n(注2) 喜びよう：喜び方\n(注3) そのもの：自体\n(注4) 家が回っていかない：ここでは、生活ができない\n(注5) 否応なく：嫌でも嫌でなくても\n(注6) まかなう：ここでは、済ませる\n(注7) 領域：範囲"
+    }
+  ],
+  "questions": [
+    {
+      "num": 67,
+      "passage": "p1",
+      "stem": "①<u>奇妙な生き物である</u>とあるが、筆者はなぜそう考えるのか。",
+      "options": [
+        "自分の力で自分の利益になることができれば嬉しいから。",
+        "自分の喜びより他者の喜びを優先させるから。",
+        "他者を養うことが自分の利益になることだと思うから。",
+        "他者を喜ばせることが自分の喜びとなるから。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả nói con người là \"sinh vật kỳ lạ\", vì sao tác giả nghĩ vậy? → Vì việc làm người khác vui lại trở thành niềm vui của chính mình.",
+        "why": "Vui khi làm được điều có lợi cho mình là chuyện đương nhiên để sinh tồn; điểm \"kỳ lạ\" là con người còn vui khi dùng sức mình làm người khác (nhất là người thân) vui – điều hiếm thấy ở sinh vật khác.",
+        "options": [
+          "Vui khi làm lợi cho mình → tác giả nói đó là 当然のこと, không phải điểm kỳ lạ. Sai.",
+          "Ưu tiên niềm vui người khác hơn của mình → bài không so sánh ưu tiên. Sai.",
+          "Nuôi người khác là lợi cho mình → không được nói. Sai.",
+          "Làm người khác vui thành niềm vui của mình. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "奇妙", "r": "きみょう", "hv": "KỲ DIỆU", "vi": "kỳ lạ, kỳ quặc" },
+          { "w": "利益", "r": "りえき", "hv": "LỢI ÍCH", "vi": "lợi ích" },
+          { "w": "他者", "r": "たしゃ", "hv": "THA GIẢ", "vi": "người khác" },
+          { "w": "典型", "r": "てんけい", "hv": "ĐIỂN HÌNH", "vi": "điển hình" },
+          { "w": "個体", "r": "こたい", "hv": "CÁ THỂ", "vi": "cá thể" }
+        ],
+        "grammar": null,
+        "evidence": "自分の力を使って何かをやって、他者、とりわけ身近な他者が喜んでくれると、それがまた嬉しい。そういう生き物なのである。これもまた人間の自然であって、ほかの生き物にはあまり例がない。",
+        "tip": "Phần sau ～は当然のことだが、… mới là điểm tác giả nhấn mạnh (kỳ lạ)."
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p1",
+      "stem": "②<u>何かを任されて、相手を喜ばせる機会や体験</u>は、昔の子どもたちにどのような影響をあたえたか。",
+      "options": [
+        "自分が役立っていると実感でき、自信が持てるようになった。",
+        "自分が働くのが当然だと考えるようになった。",
+        "生活に役立つ能力が向上していった。",
+        "周囲から守られなくてもいいと思えるようになった。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "\"Cơ hội và trải nghiệm được giao việc và làm người khác vui\" đã ảnh hưởng thế nào đến trẻ em ngày xưa? → Các em cảm nhận được mình có ích và trở nên tự tin.",
+        "why": "Ngày xưa trẻ phải làm việc cho gia đình; dù cha mẹ không khen, trong trẻ chắc chắn có cảm giác mình có ích, và điều đó trở thành sự tự tin của trẻ với tư cách người sống tự lập.",
+        "options": [
+          "Cảm nhận mình có ích → tự tin. ĐÚNG.",
+          "Nghĩ việc mình làm việc là đương nhiên → đó là bối cảnh xã hội (子どもが働くのが当然というなか), không phải ảnh hưởng. Sai.",
+          "Năng lực sống được nâng cao → không được nói. Sai.",
+          "Nghĩ không cần được bảo vệ → không được nói. Sai."
+        ],
+        "vocab": [
+          { "w": "任せる", "r": "まかせる", "hv": "NHẬM", "vi": "giao phó" },
+          { "w": "否応なく", "r": "いやおうなく", "hv": "PHỦ ỨNG", "vi": "dù muốn hay không" },
+          { "w": "自信", "r": "じしん", "hv": "TỰ TÍN", "vi": "tự tin" },
+          { "w": "役立つ", "r": "やくだつ", "hv": "DỊCH LẬP", "vi": "có ích" },
+          { "w": "影響", "r": "えいきょう", "hv": "ẢNH HƯỞNG", "vi": "ảnh hưởng" }
+        ],
+        "grammar": {
+          "pattern": "～わけでも～わけでもない",
+          "meaning": "không phải là ~ cũng không phải là ~",
+          "form": "普通形 + わけでも、普通形 + わけでもない",
+          "example": "嫌いなわけでも、忙しいわけでもないが、行きたくない。"
+        },
+        "evidence": "それでも子どものなかには、自分が役立っているという感覚が確実にあって、それが生活者としての子どもの自信となった。",
+        "tip": "Bẫy lựa chọn 2: dùng lại cụm 働くのが当然 trong bài nhưng sai vai trò (bối cảnh ≠ ảnh hưởng)."
+      }
+    },
+    {
+      "num": 69,
+      "passage": "p1",
+      "stem": "筆者がおとなたちに言いたいことは何か。",
+      "options": [
+        "子ども自身にどうしたら人の役に立てるか考えさせるべきだ。",
+        "子どもが人の役に立てる機会をなくさないほうがいい。",
+        "子どもは守られる存在だという考えは誤りだ。",
+        "親自身が人の役に立っている姿を子どもに見せるべきだ。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều tác giả muốn nói với người lớn là gì? → Không nên làm mất đi cơ hội để trẻ có ích cho người khác.",
+        "why": "Tác giả: bảo vệ trẻ là đương nhiên, nhưng khi người lớn với thiện ý \"chỉ một mực bảo vệ\" trẻ, điều đó ngược lại tước đi bản tính tự nhiên của con người là vui khi giúp ích, làm người khác vui → đừng lấy mất cơ hội đó của trẻ.",
+        "options": [
+          "Bắt trẻ tự suy nghĩ cách giúp người → bài nói về \"cơ hội\", không phải bắt trẻ suy nghĩ. Sai.",
+          "Không nên làm mất cơ hội trẻ giúp ích người khác. ĐÚNG.",
+          "Quan niệm trẻ cần được bảo vệ là sai → tác giả nói 「子どもを守れ」というのは当然のこと. Sai.",
+          "Cha mẹ nên làm gương giúp người → không được nói. Sai."
+        ],
+        "vocab": [
+          { "w": "善意", "r": "ぜんい", "hv": "THIỆN Ý", "vi": "thiện ý" },
+          { "w": "ひたすら", "r": "ひたすら", "hv": "", "vi": "một mực, chỉ chăm chăm" },
+          { "w": "奪う", "r": "うばう", "hv": "ĐOẠT", "vi": "cướp, tước đoạt" },
+          { "w": "かえって", "r": "かえって", "hv": "", "vi": "ngược lại, trái lại" },
+          { "w": "存在", "r": "そんざい", "hv": "TỒN TẠI", "vi": "sự tồn tại" }
+        ],
+        "grammar": {
+          "pattern": "かえって",
+          "meaning": "trái lại, ngược với mong đợi",
+          "form": "かえって + 結果",
+          "example": "薬を飲みすぎると、かえって体に悪い。"
+        },
+        "evidence": "「子どもを守れ」というのは当然のことである。しかしおとなたちが善意で子どもたちを＜ひたすら守る＞とき、それはかえって子どもたちから、相手に役立ち、相手を喜ばせて喜ぶという人間の自然を奪うことになる。",
+        "tip": "Câu kết bài (しかし…) là thông điệp chính. Lựa chọn 3 quá cực đoan: tác giả không phủ nhận việc bảo vệ trẻ."
+      }
+    }
+  ]
+}

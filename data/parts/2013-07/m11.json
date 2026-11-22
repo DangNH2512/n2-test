@@ -1,0 +1,309 @@
+{
+  "exam": "2013-07",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（１）から（３）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(3) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "日本の大学生はコピーをとる機会が多い。コピー代は大抵1枚10円で、決して高くはない。けれども、枚数が多いため、大学生にとってはそれなりの負担になる。コピー代が安くすめば、もう少し余裕のある学生生活が送れるかもしれない。\nこのような事情を実感していた①<u>大学生たち</u>が５人集まって、無料でコピーがとれるコピー機を大学に設置する会社を始め、好評を得ている。\nでは、彼らはどうやってコピー代を無料にしたのか。それは、企業からの広告料を利用しようというアイデアから始まった。\n仕組みはこうだ。まず、この会社は広告を出してくれる企業を募集し、広告料をもらう。そして、その企業の広告をコピー用紙の裏面に印刷し、大学に設置した無料コピー機にセットする。学生がこのコピー機を使うと、コピー用紙の表には学生のとったコピーが、裏には企業の広告が載る。つまり、コピー用紙が企業の広告にもなるというわけだ。この会社は、このようにして得た広告掲載料を、無料コピー機の経費にあてているのだ。\nこの仕組みは、広告を掲載する企業にとっても②<u>利点</u>がある。学生向けの広告を、学生に対してのみ効果的に出せるのだ。ちらしと違って読まずに捨てられることのないコピー用紙なら、学生が広告を見る可能性が高い。実際に若者向けの商品を主力とする多くの企業が広告を載せているという。\n学生のアイデアを生かしたこのような会社は、今後も増えていくだろう。"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "心理学者で立正大学特任講師の内藤誼人さんも、就寝（注１）直前の勉強を勧める一人。では、日中の勉強は無駄が多いだけかというと、「そんなことはありません」と内藤さん。眠る前以外にも、記憶をするのに効率的な（注２）時間帯があることが分かっているそうです。\n以前、アメリカの教育心理学者が、小学5、6年生を対象に、記憶力や理解力が時間帯によってどう変わるかを調べる実験を行ったことがあります。その結果、計算や暗記などの作業効率は、午前10時と午後3時くらいがピークでした。\n午前8時の成績を100とすると、同10時に160まで上昇。その後、午後1時に98まで下がり、同3時には103に上がるという曲線を描いたそうです。\n「午前と午後に一度ずつ効率の上がる時間帯に、最も集中して勉強すれば効果的。もちろん個人差はあるので、自分のリズムをきちんと把握（注３）し、ノッている（注４）時間帯を見つけることが大切です。」\n1日に5時間勉強し、1時間に50個ずつ覚える。そんなやり方は、非効率極まりない（注５）。絶好調の（注６）時間帯に2倍のノルマ（注７）を課し、それ以外は軽く流す。タイミングをとらえた勉強法が、記憶力を高めるのです。\n「能率の波は、自分で意識的にコントロールすることもできる。自分が勉強する時間帯に、最も頭の働きが良くなるよう習慣づけられればベスト」と内藤さん。タイミングを待つだけではなく、自分から作り出す「<u>攻めの姿勢</u>」が求められるのです。\n（読売新聞2011年11月18日付朝刊による）\n（注１）就寝：寝ること\n（注２）効率的な：ここでは、効果が上がりやすい\n（注３）把握する：ここでは、つかむ\n（注４）ノッている：ここでは、調子が良い\n（注５）～極まりない：非常に～だ\n（注６）絶好調の：非常に調子が良い\n（注７）ノルマ：ここでは、しなければならない勉強の量"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "個性の重視ということが注目されるようになって以来、「子どもの興味を尊重し、一人ひとりの子どもが興味を持つこと、『やってみたい』と言うことを好きにやらせることが、個性の重視である」という解釈が広がりました。しかしその結果、社会生活上のしきたり（注１）や習慣を教える機会を失ったと悩む教師と、<u>好きなことしかやりたがらない子どもをつくってしまった</u>ということはないでしょうか。個性の重視とは、「二人と同じ人間はいない、つまり人は一人ひとり異なる存在である。だから、一人ひとりが異なった興味や価値観を持つのは当然である」という考え方を肯定する人間観を意味しているのです。（中略）\n子どもの興味や関心は日々変化する可能性があります。しかし、なんらか（注２）の形でその対象を知る機会がなかったなら、興味を持つこともないのです。小学生はまだまだ経験の幅が狭いものです。ですから、おのずと（注３）興味や関心を持つ対象も、非常に限られた範囲のものになります。さまざまなものに興味を持つのを待つばかりでなく、興味が持てるように、さまざまな体験ができるようにすることが大切です。\n（渡辺三枝子『キャリア教育――自立していく子どもたち』による）\n（注１）しきたり：昔からの決まり\n（注２）なんらかの：何かの\n（注３）おのずと：自然と"
+    }
+  ],
+  "questions": [
+    {
+      "num": 60,
+      "passage": "p1",
+      "stem": "①<u>大学生たち</u>は何を目的として会社を作ったか。",
+      "options": [
+        "大学生向けの情報をコピーを使って提供すること",
+        "大学生にコピー代の節約を意識してもらうこと",
+        "大学生が多くのコピーをとれるようにすること",
+        "大学生のコピー代の負担を少なくすること"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Các sinh viên đó lập công ty với mục đích gì? → Giảm gánh nặng tiền photocopy cho sinh viên.",
+        "why": "Đoạn đầu nói tiền copy là 'gánh nặng' đối với sinh viên; những sinh viên 'cảm nhận rõ hoàn cảnh này' đã lập công ty máy copy miễn phí → mục đích là giảm gánh nặng chi phí.",
+        "options": [
+          "Cung cấp thông tin cho sinh viên qua bản copy → quảng cáo là phương tiện, không phải mục đích. Sai.",
+          "Làm sinh viên ý thức tiết kiệm → không nói. Sai.",
+          "Để sinh viên copy được nhiều → không phải mục đích. Sai.",
+          "Giảm gánh nặng tiền copy. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "負担", "r": "ふたん", "hv": "PHỤ ĐẢM", "vi": "gánh nặng" },
+          { "w": "実感", "r": "じっかん", "hv": "THỰC CẢM", "vi": "cảm nhận thực tế" },
+          { "w": "設置", "r": "せっち", "hv": "THIẾT TRÍ", "vi": "lắp đặt" },
+          { "w": "余裕", "r": "よゆう", "hv": "DƯ DỤ", "vi": "dư dả, thoải mái" }
+        ],
+        "grammar": null,
+        "evidence": "けれども、枚数が多いため、大学生にとってはそれなりの負担になる。…このような事情を実感していた大学生たちが５人集まって、無料でコピーがとれるコピー機を大学に設置する会社を始め…",
+        "tip": "このような事情 chỉ lại nội dung đoạn trước (gánh nặng tiền copy)."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p1",
+      "stem": "この会社では、どうしてコピー代を無料にできるのか。",
+      "options": [
+        "学生が払うべきコピー代を、広告費として後から企業に請求できるから",
+        "広告が掲載されたコピー用紙を、企業から提供してもらえるから",
+        "企業から受け取る広告掲載料を、コピー機の経費として使えるから",
+        "企業の広告が描かれたコピー機を、企業から借りられるから"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vì sao công ty này có thể làm tiền copy miễn phí? → Vì dùng phí đăng quảng cáo nhận từ doanh nghiệp làm chi phí vận hành máy copy.",
+        "why": "Công ty thu phí quảng cáo từ doanh nghiệp, in quảng cáo lên mặt sau giấy copy, và dùng phí đó để bù chi phí máy copy miễn phí.",
+        "options": [
+          "Đòi doanh nghiệp tiền copy sau → không nói. Sai.",
+          "Doanh nghiệp cung cấp giấy có in quảng cáo → công ty tự in quảng cáo. Sai.",
+          "Dùng phí quảng cáo làm chi phí máy copy. ĐÚNG.",
+          "Mượn máy copy có vẽ quảng cáo → không nói. Sai."
+        ],
+        "vocab": [
+          { "w": "広告掲載料", "r": "こうこくけいさいりょう", "hv": "QUẢNG CÁO YẾT TẢI LIỆU", "vi": "phí đăng quảng cáo" },
+          { "w": "経費", "r": "けいひ", "hv": "KINH PHÍ", "vi": "chi phí" },
+          { "w": "あてる", "r": "あてる", "hv": "", "vi": "dùng (tiền) vào, phân bổ cho" },
+          { "w": "裏面", "r": "りめん", "hv": "LÝ DIỆN", "vi": "mặt sau" }
+        ],
+        "grammar": null,
+        "evidence": "この会社は、このようにして得た広告掲載料を、無料コピー機の経費にあてているのだ。",
+        "tip": "AをBにあてる = dùng A để chi cho B."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p1",
+      "stem": "②<u>利点</u>とあるが、この文章からわかる企業にとっての利点は何か。",
+      "options": [
+        "大学生を通して、他の人にも広告商品を宣伝できる。",
+        "対象を大学生に絞り込めるので、効果的に広告を出せる。",
+        "広告に対する学生の反応を、今後の商品開発に生かせる。",
+        "ちらしより捨てられにくいので、広告を出す回数が減らせる。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Lợi ích đối với doanh nghiệp là gì? → Có thể thu hẹp đối tượng là sinh viên nên quảng cáo hiệu quả.",
+        "why": "Ngay sau 利点 tác giả giải thích: có thể đăng quảng cáo dành cho sinh viên một cách hiệu quả chỉ tới sinh viên.",
+        "options": [
+          "Quảng bá cho người khác qua sinh viên → ngược lại, chỉ nhắm sinh viên. Sai.",
+          "Thu hẹp đối tượng là sinh viên → quảng cáo hiệu quả. ĐÚNG.",
+          "Dùng phản hồi cho phát triển sản phẩm → không nói. Sai.",
+          "Giảm số lần quảng cáo → không nói (chỉ nói khó bị vứt bỏ). Sai."
+        ],
+        "vocab": [
+          { "w": "利点", "r": "りてん", "hv": "LỢI ĐIỂM", "vi": "ưu điểm, lợi ích" },
+          { "w": "絞り込む", "r": "しぼりこむ", "hv": "GIẢO", "vi": "thu hẹp, khoanh vùng" },
+          { "w": "効果的", "r": "こうかてき", "hv": "HIỆU QUẢ ĐÍCH", "vi": "hiệu quả" },
+          { "w": "主力", "r": "しゅりょく", "hv": "CHỦ LỰC", "vi": "chủ lực" }
+        ],
+        "grammar": null,
+        "evidence": "この仕組みは、広告を掲載する企業にとっても利点がある。学生向けの広告を、学生に対してのみ効果的に出せるのだ。",
+        "tip": null
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p2",
+      "stem": "アメリカの教育心理学者の実験結果について合っているのはどれか。",
+      "options": [
+        "時間帯が早ければ早いほど成績が上がる。",
+        "時間帯が遅ければ遅いほど成績が上がる。",
+        "午後3時ごろのほうが午前10時ごろより成績が良い。",
+        "午前10時ごろのほうが午後3時ごろより成績が良い。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Điều nào đúng về kết quả thí nghiệm của nhà tâm lý học giáo dục người Mỹ? → Khoảng 10 giờ sáng thành tích tốt hơn khoảng 3 giờ chiều.",
+        "why": "Lấy 8h sáng = 100 thì 10h sáng = 160, 1h chiều = 98, 3h chiều = 103. Vậy 10h sáng (160) > 3h chiều (103).",
+        "options": [
+          "Càng sớm càng tốt → 8h (100) thấp hơn 10h (160). Sai.",
+          "Càng muộn càng tốt → 1h chiều giảm còn 98. Sai.",
+          "3h chiều tốt hơn 10h sáng → 103 < 160. Sai.",
+          "10h sáng tốt hơn 3h chiều (160 > 103). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "作業効率", "r": "さぎょうこうりつ", "hv": "TÁC NGHIỆP HIỆU SUẤT", "vi": "hiệu suất làm việc" },
+          { "w": "暗記", "r": "あんき", "hv": "ÁM KÝ", "vi": "học thuộc lòng" },
+          { "w": "上昇", "r": "じょうしょう", "hv": "THƯỢNG THĂNG", "vi": "tăng lên" },
+          { "w": "曲線", "r": "きょくせん", "hv": "KHÚC TUYẾN", "vi": "đường cong" }
+        ],
+        "grammar": null,
+        "evidence": "午前8時の成績を100とすると、同10時に160まで上昇。その後、午後1時に98まで下がり、同3時には103に上がるという曲線を描いたそうです。",
+        "tip": "Cả 10h và 15h đều là 'đỉnh', nhưng đỉnh buổi sáng cao hơn nhiều."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p2",
+      "stem": "この文章によると、効果的な勉強法とはどのようなものか。",
+      "options": [
+        "毎日勉強することを習慣づける。",
+        "勉強の量と時間を毎日一定にする。",
+        "調子の良い日に集中して勉強する。",
+        "頭の働きが良くなる時間に勉強する。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo bài, phương pháp học hiệu quả là gì? → Học vào thời điểm đầu óc hoạt động tốt.",
+        "why": "Bài nhấn mạnh tập trung học vào khung giờ hiệu suất cao (ノッている時間帯, 絶好調の時間帯) và 'phương pháp học nắm bắt đúng thời điểm sẽ nâng cao trí nhớ'.",
+        "options": [
+          "Tạo thói quen học mỗi ngày → không phải ý chính. Sai.",
+          "Giữ lượng và thời gian học cố định → bài phê phán cách này (非効率極まりない). Sai.",
+          "Tập trung vào 'ngày' tốt → bài nói về 'khung giờ' trong ngày, không phải ngày. Sai.",
+          "Học vào thời điểm đầu óc làm việc tốt. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "時間帯", "r": "じかんたい", "hv": "THỜI GIAN ĐỚI", "vi": "khung giờ" },
+          { "w": "把握", "r": "はあく", "hv": "BẢ ÁC", "vi": "nắm bắt" },
+          { "w": "非効率", "r": "ひこうりつ", "hv": "PHI HIỆU SUẤT", "vi": "kém hiệu quả" },
+          { "w": "課す", "r": "かす", "hv": "KHÓA", "vi": "giao (nhiệm vụ), áp đặt" }
+        ],
+        "grammar": null,
+        "evidence": "絶好調の時間帯に2倍のノルマを課し、それ以外は軽く流す。タイミングをとらえた勉強法が、記憶力を高めるのです。",
+        "tip": "Bẫy: 日 (ngày) vs 時間帯 (khung giờ)."
+      }
+    },
+    {
+      "num": 65,
+      "passage": "p2",
+      "stem": "「攻めの姿勢」とは何か。",
+      "options": [
+        "能率のピークをできるだけ長く保てるようにする。",
+        "能率のピークに活動できるように生活の時間を調節する。",
+        "能率を上げたい時間帯に能率のピークが来るようにする。",
+        "日中に能率のピークが来るように自分の生活を変える。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "'Tư thế tấn công' là gì? → Làm cho đỉnh hiệu suất rơi đúng vào khung giờ mình muốn nâng hiệu suất.",
+        "why": "Nội Đằng nói: có thể tự kiểm soát làn sóng hiệu suất; tốt nhất là tạo thói quen để đầu óc tốt nhất vào giờ mình học. Không chỉ chờ thời điểm mà tự tạo ra → đó là 攻めの姿勢.",
+        "options": [
+          "Giữ đỉnh hiệu suất lâu nhất có thể → không nói. Sai.",
+          "Điều chỉnh sinh hoạt để hoạt động vào lúc đỉnh → đây là 'chờ đỉnh', ngược với 'tự tạo ra'. Sai.",
+          "Làm cho đỉnh hiệu suất đến vào giờ mình muốn. ĐÚNG.",
+          "Thay đổi để đỉnh rơi vào ban ngày → không giới hạn ban ngày. Sai."
+        ],
+        "vocab": [
+          { "w": "攻め", "r": "せめ", "hv": "CÔNG", "vi": "tấn công, chủ động" },
+          { "w": "姿勢", "r": "しせい", "hv": "TƯ THẾ", "vi": "thái độ, tư thế" },
+          { "w": "能率", "r": "のうりつ", "hv": "NĂNG SUẤT", "vi": "năng suất, hiệu suất" },
+          { "w": "習慣づける", "r": "しゅうかんづける", "hv": "TẬP QUÁN", "vi": "tạo thành thói quen" }
+        ],
+        "grammar": null,
+        "evidence": "「能率の波は、自分で意識的にコントロールすることもできる。自分が勉強する時間帯に、最も頭の働きが良くなるよう習慣づけられればベスト」と内藤さん。タイミングを待つだけではなく、自分から作り出す「攻めの姿勢」が求められるのです。",
+        "tip": "Phương án 2 là 'theo đỉnh' (bị động), phương án 3 là 'tạo đỉnh' (chủ động = 攻め)."
+      }
+    },
+    {
+      "num": 66,
+      "passage": "p3",
+      "stem": "<u>好きなことしかやりたがらない子どもをつくってしまった</u>とあるが、筆者はどこにその原因があると考えているか。",
+      "options": [
+        "個性の重視ということが間違って解釈されている点",
+        "個性の重視ということが注目されている点",
+        "個性の意味についての解釈が定まっていない点",
+        "教師が社会生活上のルールを教えていない点"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tác giả cho rằng nguyên nhân của việc 'tạo ra những đứa trẻ chỉ muốn làm điều mình thích' nằm ở đâu? → Ở chỗ việc coi trọng cá tính bị hiểu sai.",
+        "why": "Cách hiểu 'cho trẻ tự do làm điều chúng thích = coi trọng cá tính' lan rộng, dẫn đến kết quả này. Sau đó tác giả nêu nghĩa đúng của 個性の重視 → tức là cách hiểu kia là sai.",
+        "options": [
+          "Việc coi trọng cá tính bị hiểu sai. ĐÚNG.",
+          "Việc coi trọng cá tính được chú ý → bản thân sự chú ý không phải nguyên nhân. Sai.",
+          "Cách hiểu chưa được xác định → vấn đề là hiểu sai, không phải chưa xác định. Sai.",
+          "Giáo viên không dạy quy tắc → đó là hệ quả song song, không phải nguyên nhân gốc. Sai."
+        ],
+        "vocab": [
+          { "w": "個性", "r": "こせい", "hv": "CÁ TÍNH", "vi": "cá tính, nét riêng" },
+          { "w": "重視", "r": "じゅうし", "hv": "TRỌNG THỊ", "vi": "coi trọng" },
+          { "w": "解釈", "r": "かいしゃく", "hv": "GIẢI THÍCH", "vi": "cách hiểu, diễn giải" },
+          { "w": "尊重", "r": "そんちょう", "hv": "TÔN TRỌNG", "vi": "tôn trọng" }
+        ],
+        "grammar": null,
+        "evidence": "「…好きにやらせることが、個性の重視である」という解釈が広がりました。しかしその結果、…好きなことしかやりたがらない子どもをつくってしまったということはないでしょうか。個性の重視とは、…を意味しているのです。",
+        "tip": null
+      }
+    },
+    {
+      "num": 67,
+      "passage": "p3",
+      "stem": "筆者は、子どもの個性を重視するとはどのようなことだと言っているか。",
+      "options": [
+        "それぞれの望むことを自由にさせる。",
+        "それぞれの興味や価値観を尊重する。",
+        "他人より優れた点を高く評価する。",
+        "他人との違いが大きいほうがよいとする。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tác giả nói coi trọng cá tính của trẻ là gì? → Tôn trọng hứng thú và giá trị quan của mỗi trẻ.",
+        "why": "Tác giả định nghĩa: mỗi người là một tồn tại khác nhau nên việc mỗi người có hứng thú, giá trị quan khác nhau là đương nhiên, và khẳng định (肯定) quan điểm đó.",
+        "options": [
+          "Cho tự do làm điều mình muốn → đây là cách hiểu sai mà tác giả phê phán. Sai.",
+          "Tôn trọng hứng thú và giá trị quan của từng người. ĐÚNG.",
+          "Đánh giá cao điểm vượt trội → không nói. Sai.",
+          "Càng khác người càng tốt → không nói. Sai."
+        ],
+        "vocab": [
+          { "w": "価値観", "r": "かちかん", "hv": "GIÁ TRỊ QUAN", "vi": "giá trị quan" },
+          { "w": "肯定", "r": "こうてい", "hv": "KHẲNG ĐỊNH", "vi": "khẳng định, công nhận" },
+          { "w": "人間観", "r": "にんげんかん", "hv": "NHÂN GIAN QUAN", "vi": "quan niệm về con người" }
+        ],
+        "grammar": null,
+        "evidence": "個性の重視とは、「二人と同じ人間はいない、つまり人は一人ひとり異なる存在である。だから、一人ひとりが異なった興味や価値観を持つのは当然である」という考え方を肯定する人間観を意味しているのです。",
+        "tip": "Phương án 1 là bẫy: lặp lại đúng cách hiểu sai được nêu đầu bài."
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p3",
+      "stem": "子どもの教育について、筆者が言いたいことは何か。",
+      "options": [
+        "子どもの興味や関心は変わりやすいので、注意深く観察することが必要だ。",
+        "子どもの興味や関心が広がるように、多様な体験の機会を与えることが重要だ。",
+        "子どもの自主性を尊重し、自身で新しい興味や関心を見つけ出すのを待つべきだ。",
+        "子ども自身が見つけた興味や関心に注目し、それを集中して経験させたほうがよい。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều tác giả muốn nói về giáo dục trẻ là gì? → Quan trọng là tạo cơ hội trải nghiệm đa dạng để hứng thú của trẻ được mở rộng.",
+        "why": "Trẻ tiểu học kinh nghiệm còn hẹp nên đối tượng quan tâm bị giới hạn; không chỉ chờ mà cần giúp trẻ có nhiều trải nghiệm để có thể nảy sinh hứng thú.",
+        "options": [
+          "Quan sát kỹ vì hứng thú dễ thay đổi → không phải ý chính. Sai.",
+          "Tạo cơ hội trải nghiệm đa dạng để mở rộng hứng thú. ĐÚNG.",
+          "Chờ trẻ tự tìm → tác giả nói 'không chỉ chờ'. Sai.",
+          "Tập trung vào hứng thú trẻ đã tìm thấy → ngược với ý 'đa dạng'. Sai."
+        ],
+        "vocab": [
+          { "w": "体験", "r": "たいけん", "hv": "THỂ NGHIỆM", "vi": "trải nghiệm" },
+          { "w": "関心", "r": "かんしん", "hv": "QUAN TÂM", "vi": "sự quan tâm" },
+          { "w": "幅", "r": "はば", "hv": "PHÚC", "vi": "bề rộng, phạm vi" },
+          { "w": "おのずと", "r": "おのずと", "hv": "", "vi": "tự nhiên mà" }
+        ],
+        "grammar": {
+          "pattern": "～ばかりでなく",
+          "meaning": "không chỉ ... mà còn",
+          "form": "V辞書形／N＋ばかりでなく",
+          "example": "見るばかりでなく、実際にやってみよう。(Không chỉ xem mà hãy thử làm thực tế.)"
+        },
+        "evidence": "さまざまなものに興味を持つのを待つばかりでなく、興味が持てるように、さまざまな体験ができるようにすることが大切です。",
+        "tip": "Ý chính thường ở câu cuối với ～ことが大切です."
+      }
+    }
+  ]
+}

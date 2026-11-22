@@ -1,0 +1,218 @@
+{
+  "exam": "2019-07",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（１）から（５）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "一般的に、表とグラフでは、グラフのほうがすぐに特徴をみつけやすいといえます。だからといって、そうしてみつけた特徴が本当に意味がある特徴かどうか。単なる錯覚（注１）ではないのか、グラフをみたことで先入観（注２）をもってしまったあとでは、検証（注３）がむずかしいでしょう。\nだからこそ、まずは、特徴を見つけにくい表をながめてデータ分析をすることが、データ読解力を高めるうえでは大切です。そうして表のデータを読む力を磨くことで、やがてグラフでの錯覚を避ける能力も高まります。\n\n（注１）錯覚：ここでは、勘違い\n（注２）先入観：思い込み\n（注３）検証：調べて、証明すること"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、ある市のホームページに掲載されたお知らせである。\n\n今村市＞文化芸術施設＞お知らせ\n2019年5月29日\n文化施設共通利用券および「特別展セット」販売のお知らせ\n\n文化施設共通利用券を販売いたします。この券は、市内五つの博物館や美術館などの文化施設にそれぞれ1回ご入場できるチケットです。\nまた、文化施設共通利用券に特別展割引チケットを付けた「特別展セット」も販売いたします。特別展のご入場には通常1回1,000円かかりますが、「特別展セット」では各施設の特別展の中から一つに限り割引価格で1回ご入場できます。\n\n販売場所：各施設のチケット売り場\n販売価格：文化施設共通利用券2,000円、「特別展セット」2,800円\n販売期間：2019年7月1日～2019年10月31日\n有効期間：2019年7月1日～2019年12月27日\n\nどちらも大変お得になっております。この機会にぜひご利用ください。"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "論文というものは言葉で書くものである。あたりまえのことだが、これは肝心（注１）なことである。ということは、よい論文を書くためには言葉に敏感でなければならないということである。しかし、それはかならずしも、なにか特別なもっともらしい（注２）言葉をうまく操れなければいけないということではない。むしろ、自分の身についた、ふだんはなにげなく（注３）使っているにすぎないような言葉を、いちいち、しっかりととらえなおし、その意味を自分にとってたしかな手応えのある（注４）ものにしてゆくということである。\n\n（注１）肝心な：とても大切な\n（注２）もっともらしい：いかにも本物らしい\n（注３）なにげなく：意識しないで\n（注４）たしかな手応えのある：ここでは、確信の持てる"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "以下は、ある会社が製品を注文してきた相手に出したメールである。\n\nあて先：seiji_omura@matsufuku-shokai.co.jp\n件　名：スピーカー「8QPSⅠ」のご注文につきまして\n日　時：2019年6月5日 10:30\n\nマルフク商会\n営業部　大村成次様\n\nお世話になっております。\nこのたびは、スピーカー「8QPSⅠ」20台をご注文いただきありがとうございました。同機は4月の発売以来、予想以上の売れ行きが続き、製造が追いついておりません。現在、海外の工場でも対応しておりますが、ご指定の期日（6月28日）での納品は難しい状況です。納品可能時期は今月中旬に改めてお知らせいたします。たいへん申し訳ございませんが、ご理解くださいますようお願いいたします。\n\nオーシーサウンド\n販売部　川勝直広"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "試合に出してももらえない。監督やコーチと相性が悪い、他の選手のほうが贔屓（注１）されている……。自分がうまくできない、試合で活躍できないのは環境が悪いからだ。監督のせいだ。他の選手とプレーがかみ合わない（注２）……。\n自分がある程度頑張っているつもりの選手は、つい、こう考えてしまうものです。\nうまくなるために自分自身と向き合っているとすれば、そこに周りは一切（注３）関係ありません。人のせい、物のせいにするのはラク（注４）ですが、私から言わせれば、人のせい、物のせいにするのは、逃げていることと同じです。\n\n（注１）贔屓する：ここでは、気に入って特別に扱う\n（注２）かみ合う：うまく合う\n（注３）一切：全く\n（注４）ラク：「楽」とも書く"
+    }
+  ],
+  "questions": [
+    {
+      "num": 53,
+      "passage": "p1",
+      "stem": "筆者によると、データ分析の力をつけるにはどうすればいいか。",
+      "options": [
+        "特徴がみつけやすいので、先に表をみるようにしたほうがいい。",
+        "思い込みが避けられるので、先に表をみるようにしたほうがいい。",
+        "思い込みに気づきやすいので、先にグラフをみるようにしたほうがいい。",
+        "意味のある特徴がみつけられるので、先にグラフをみるようにしたほうがいい。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo tác giả, làm thế nào để nâng cao năng lực phân tích dữ liệu? → Nên xem bảng trước vì tránh được định kiến (suy nghĩ chủ quan).",
+        "why": "Tác giả nói nếu xem biểu đồ trước sẽ có 先入観 (= 思い込み) khiến việc kiểm chứng khó khăn; vì vậy “trước hết” hãy nhìn bảng (thứ khó thấy đặc điểm) để phân tích. → Xem bảng trước để tránh định kiến.",
+        "options": [
+          "Sai lý do: bảng là thứ “khó” thấy đặc điểm (特徴を見つけにくい表), không phải dễ.",
+          "Xem bảng trước để tránh định kiến. ĐÚNG.",
+          "Sai: xem biểu đồ trước lại dễ sinh định kiến.",
+          "Sai: tác giả khuyên xem bảng trước, không phải biểu đồ."
+        ],
+        "vocab": [
+          { "w": "先入観", "r": "せんにゅうかん", "hv": "TIÊN NHẬP QUAN", "vi": "định kiến, ấn tượng có sẵn" },
+          { "w": "錯覚", "r": "さっかく", "hv": "THÁC GIÁC", "vi": "ảo giác, nhầm lẫn" },
+          { "w": "検証", "r": "けんしょう", "hv": "KIỂM CHỨNG", "vi": "kiểm chứng" },
+          { "w": "読解力", "r": "どっかいりょく", "hv": "ĐỘC GIẢI LỰC", "vi": "năng lực đọc hiểu" },
+          { "w": "磨く", "r": "みがく", "hv": "MA", "vi": "mài giũa, trau dồi" }
+        ],
+        "grammar": {
+          "pattern": "～うえで(は)",
+          "meaning": "trong việc, khi làm ...",
+          "form": "Vる＋うえで",
+          "example": "外国語を学ぶうえで大切なのは、毎日続けることだ。"
+        },
+        "evidence": "グラフをみたことで先入観をもってしまったあとでは、検証がむずかしいでしょう。だからこそ、まずは、特徴を見つけにくい表をながめてデータ分析をすることが、データ読解力を高めるうえでは大切です。",
+        "tip": "Chú thích (注２) cho biết 先入観 = 思い込み — từ khóa nối thẳng sang phương án 2."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p2",
+      "stem": "「特別展セット」を買うと何ができるか。",
+      "options": [
+        "各施設に1回ずつ入場でき、さらに割引価格で特別展に1回ずつ入場できる。",
+        "各施設に1回ずつ入場でき、さらに割引価格で特別展のうち一つに1回入場できる。",
+        "各施設に何回でも入場でき、さらに割引価格で特別展に1回ずつ入場できる。",
+        "各施設に何回でも入場でき、さらに割引価格で特別展のうち一つに1回入場できる。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Mua “bộ triển lãm đặc biệt” thì có thể làm gì? → Vào mỗi cơ sở 1 lần, thêm nữa được vào 1 lần một triển lãm đặc biệt (chọn 1) với giá giảm.",
+        "why": "Vé chung cho phép vào mỗi cơ sở (5 nơi) 1 lần. Bộ “特別展セット” = vé chung + vé giảm giá triển lãm đặc biệt, chỉ giới hạn MỘT triển lãm trong số các triển lãm đặc biệt, vào 1 lần.",
+        "options": [
+          "Sai: triển lãm đặc biệt chỉ được chọn một, không phải mỗi nơi 1 lần.",
+          "Mỗi cơ sở 1 lần + một triển lãm đặc biệt 1 lần (giảm giá). ĐÚNG.",
+          "Sai: không phải vào bao nhiêu lần cũng được; triển lãm đặc biệt chỉ một.",
+          "Sai: mỗi cơ sở chỉ được vào 1 lần."
+        ],
+        "vocab": [
+          { "w": "共通利用券", "r": "きょうつうりようけん", "hv": "CỘNG THÔNG LỢI DỤNG KHOÁN", "vi": "vé dùng chung" },
+          { "w": "特別展", "r": "とくべつてん", "hv": "ĐẶC BIỆT TRIỂN", "vi": "triển lãm đặc biệt" },
+          { "w": "割引", "r": "わりびき", "hv": "CÁT DẪN", "vi": "giảm giá" },
+          { "w": "有効期間", "r": "ゆうこうきかん", "hv": "HỮU HIỆU KỲ GIAN", "vi": "thời hạn có hiệu lực" }
+        ],
+        "grammar": {
+          "pattern": "～に限り",
+          "meaning": "chỉ giới hạn ở ...",
+          "form": "N＋に限り",
+          "example": "先着100名に限り、無料です。"
+        },
+        "evidence": "この券は、市内五つの博物館や美術館などの文化施設にそれぞれ1回ご入場できるチケットです。…「特別展セット」では各施設の特別展の中から一つに限り割引価格で1回ご入場できます。",
+        "tip": "Đọc kỹ các từ giới hạn: それぞれ1回 / 一つに限り / 1回."
+      }
+    },
+    {
+      "num": 55,
+      "passage": "p3",
+      "stem": "筆者は、論文を書くのに大切なことは何だと考えているか。",
+      "options": [
+        "多くの言葉を正確に使えるようにすること",
+        "特別な言葉を日常的に使えるようにすること",
+        "新しい言葉の意味をしっかりととらえること",
+        "日常使っている言葉の意味をたしかめながら使うこと"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả cho rằng điều quan trọng khi viết luận văn là gì? → Vừa xác nhận lại ý nghĩa những từ dùng hằng ngày vừa sử dụng chúng.",
+        "why": "Tác giả phủ định việc phải dùng khéo các từ đặc biệt (しかし…ではない), và khẳng định (むしろ) cần nắm bắt lại từng từ mình vẫn vô tình dùng hằng ngày, biến nghĩa của nó thành thứ mình chắc chắn.",
+        "options": [
+          "Sai: tác giả không nói về số lượng từ nhiều.",
+          "Sai: tác giả phủ định việc cần dùng “từ đặc biệt”.",
+          "Sai: đối tượng là từ quen dùng hằng ngày, không phải từ mới.",
+          "Xác nhận ý nghĩa của từ dùng hằng ngày khi sử dụng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "肝心", "r": "かんじん", "hv": "CAN TÂM", "vi": "cốt yếu, rất quan trọng" },
+          { "w": "敏感", "r": "びんかん", "hv": "MẪN CẢM", "vi": "nhạy cảm, nhạy bén" },
+          { "w": "操る", "r": "あやつる", "hv": "THAO", "vi": "điều khiển, sử dụng thành thạo" },
+          { "w": "手応え", "r": "てごたえ", "hv": "THỦ ỨNG", "vi": "cảm giác chắc chắn, phản hồi" }
+        ],
+        "grammar": {
+          "pattern": "～にすぎない",
+          "meaning": "chỉ là, không hơn",
+          "form": "V/N＋にすぎない",
+          "example": "それは噂にすぎない。"
+        },
+        "evidence": "むしろ、自分の身についた、ふだんはなにげなく使っているにすぎないような言葉を、いちいち、しっかりととらえなおし、その意味を自分にとってたしかな手応えのあるものにしてゆくということである。",
+        "tip": "Ý chính thường đứng sau むしろ (đúng hơn là)."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p4",
+      "stem": "このメールで最も伝えたいことは何か。",
+      "options": [
+        "「8QPSⅠ」の納品日が今月中旬になること",
+        "「8QPSⅠ」の納品が可能かどうかを今月中旬に知らせること",
+        "「8QPSⅠ」を指定の納品日に納品できないこと",
+        "「8QPSⅠ」が予想以上に売れていて、注文を受けられないこと"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều email này muốn truyền đạt nhất là gì? → Không thể giao 8QPSⅠ vào ngày giao hàng đã chỉ định.",
+        "why": "Trọng tâm: 「ご指定の期日（6月28日）での納品は難しい状況です」 = khó giao đúng hạn 28/6 (cách nói lịch sự của “không giao được”). Các thông tin khác (bán chạy, sẽ báo lại giữa tháng) là lý do và bổ sung.",
+        "options": [
+          "Sai: giữa tháng là lúc thông báo thời điểm có thể giao, không phải ngày giao.",
+          "Sai: giữa tháng sẽ báo “thời điểm có thể giao”, không phải báo “có giao được hay không”.",
+          "Không giao được vào ngày đã chỉ định. ĐÚNG.",
+          "Sai: đơn hàng đã được nhận (ご注文いただきありがとうございました), chỉ là giao trễ."
+        ],
+        "vocab": [
+          { "w": "納品", "r": "のうひん", "hv": "NẠP PHẨM", "vi": "giao hàng" },
+          { "w": "期日", "r": "きじつ", "hv": "KỲ NHẬT", "vi": "ngày hạn định" },
+          { "w": "売れ行き", "r": "うれゆき", "hv": "MẠI HÀNH", "vi": "tình hình bán hàng" },
+          { "w": "中旬", "r": "ちゅうじゅん", "hv": "TRUNG TUẦN", "vi": "trung tuần (giữa tháng)" }
+        ],
+        "grammar": {
+          "pattern": "～は難しい状況です",
+          "meaning": "tình hình khó có thể ... (cách từ chối lịch sự trong thư thương mại)",
+          "form": "N/Vること＋は難しい状況です",
+          "example": "ご希望の日時での対応は難しい状況です。"
+        },
+        "evidence": "ご指定の期日（6月28日）での納品は難しい状況です。納品可能時期は今月中旬に改めてお知らせいたします。",
+        "tip": "Trong email công việc, 難しい thường mang nghĩa “không thể”."
+      }
+    },
+    {
+      "num": 57,
+      "passage": "p5",
+      "stem": "筆者の考えに合うものはどれか。",
+      "options": [
+        "うまくなるためには、周りのせいにしてはいけない。",
+        "うまくなりたいなら、周りに合わせてはいけない。",
+        "周りから悪い評価を受けたら、認めなければならない。",
+        "頑張っていても、周りから認められないことがある。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Để giỏi lên thì không được đổ lỗi cho xung quanh.",
+        "why": "Tác giả nói khi đối diện với bản thân để tiến bộ thì người xung quanh hoàn toàn không liên quan; đổ lỗi cho người/vật khác là “trốn chạy”. → Không được đổ lỗi cho xung quanh.",
+        "options": [
+          "Không được đổ lỗi cho xung quanh. ĐÚNG.",
+          "Sai: tác giả không bàn về việc hòa hợp/theo người khác.",
+          "Sai: không nói về việc chấp nhận đánh giá xấu.",
+          "Sai: đây là suy nghĩ của các tuyển thủ mà tác giả phê phán, không phải ý tác giả."
+        ],
+        "vocab": [
+          { "w": "相性", "r": "あいしょう", "hv": "TƯƠNG TÍNH", "vi": "sự hợp nhau" },
+          { "w": "贔屓", "r": "ひいき", "hv": "BÍ HÍ", "vi": "thiên vị" },
+          { "w": "向き合う", "r": "むきあう", "hv": "HƯỚNG HỢP", "vi": "đối diện" },
+          { "w": "一切", "r": "いっさい", "hv": "NHẤT THIẾT", "vi": "hoàn toàn (không)" },
+          { "w": "活躍", "r": "かつやく", "hv": "HOẠT DƯỢC", "vi": "hoạt động tích cực, tỏa sáng" }
+        ],
+        "grammar": {
+          "pattern": "～のせいにする",
+          "meaning": "đổ lỗi cho ...",
+          "form": "N＋のせいにする",
+          "example": "失敗を他人のせいにするな。"
+        },
+        "evidence": "人のせい、物のせいにするのはラクですが、私から言わせれば、人のせい、物のせいにするのは、逃げていることと同じです。",
+        "tip": "Đoạn đầu là suy nghĩ của tuyển thủ (bị phê phán), ý tác giả nằm ở đoạn cuối."
+      }
+    }
+  ]
+}

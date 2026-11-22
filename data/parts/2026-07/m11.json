@@ -1,0 +1,294 @@
+{
+  "exam": "2026-07",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして、最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "　誰への贈り物を選ぶとき、それをほんとうに相手がほしいと思ってくれるかどうかは、はっきりしません。ぼくらは、よくわからないなりに相手のことを想像し、思いをめぐらせて、贈り物を選びます。\n　以前、小さなお子さんのいる家庭を訪ねたとき、絵本を三冊ほどプレゼントとしてもっていったことがあります。ところが、その人は、どの本もすでにお持ちでした。贈り物には<u>そんなこと</u>がよく起こるのです。でもそれはかならずしも「失敗」とはいえません。\n　贈り物の意義は、モノではなく、贈り物を渡そうとした思いのほうにあるからです。もちろん、相手がほしいと指定する物を贈ることもあります。それは、どちらかといえば代わりに支払いをする、といった意味になって、商品の交換に似てきます。\n　どのくらいの金額のものが適切なのか、どんなものだったら喜んでくれるのか、不確定なままであることが、贈り物に特別な意味を付与（注1）している面があるのです。\n（中略）\n　たとえ欲しかったものとは違っていても、相手が自分のことをじっくり考えて選んでくれたものには、相手を想起（注2）させ、その人との関係をつくりだし、感情を喚起（注3）する可能性があります。\n　相手のなかに目に見えない何かを生み出すこと。それができるかどうかわからないまま、でもそれを目指して贈ること。そこに、モノの効用以上の何かが生じる余地（注4）が生まれます。\n（注1）付与する：与える\n（注2）想起する：思い出す\n（注3）喚起する：ここでは、呼び起こす\n（注4）余地：ここでは、可能性"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "　地球全体に棲んでいるクモを全部集めて体重計に乗せてやれば、目盛り（注1）はおおよそ2500万トンほどのところをさすことでしょう。地球に棲む、人と家畜（注2）を除いたすべての野生ほ乳動物（注3）の全体重が4700万トンほどですから、クモはその約半分に相当するほどたくさんいるのです。またこれは、すべての鳥の体重2700万トンとほぼ同じです。\n　クモが一番たくさん棲んでいるのは森林で、草原や灌木林（注4）にはその半分ほどの密度で、農地や砂漠地帯にも1桁少ないとはいえ全体の3パーセントほどが暮らしています。\n　これだけの（注5）クモがエサを必要とします。その量を1年間積み上げていくと、その総量は莫大で、クモは世界中で4億トンから8億トンのエサを食べていると見積もられています。\n（中略）\n　実際は、クモが食べているのはほとんどが昆虫（注6）です。昆虫の量は全体で13億トンと見積もられているので、その3割から6割がクモによって食べられていることになります。\n　ということはつまり、もしクモがいなくなれば、捕食者（注7）から自由になった昆虫が大幅に数を増やすことでしょう。その多くは植物を食べます。ですから、森林や草原では緑が失われ、農地では収穫できる作物の量が減るかもしれません。\n　実際、農地では、クモがたくさんいると、農作物をエサとする昆虫が数を増やすスピードを抑えることができます。このおかげで収穫量を高く保つことができるのです。\n（注1）目盛り：ここでは、重さの数値\n（注2）家畜：人間が生活に利用するために飼う動物\n（注3）野生ほ乳動物：自然の中で生きている乳で子供を育てる動物\n（注4）灌木林：ここでは、低い木の林\n（注5）これだけの：こんなに多くの\n（注6）昆虫：ここでは、クモ以外の虫\n（注7）捕食者：ここでは、食べようと襲ってくる敵"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "以下は、仕事で部下がミスをしたときの、上司の対応のしかたについて書かれた文章である。\n　小さなミスでも、その場できちんと指摘してやることが仕事の能率を高めることは、実験のうえでも確かめられています。マクファーソンという心理学者が、単純作業のミスについて調べた研究ですが、それによると、0.7秒おきに押されるキーの正誤を、結果を知らせながら行なった場合と知らせずに行なった場合とでは、知らせながらのほうが正答率の上がることが確かめられています。「即時確認」の効果ですが、この効果は、小さなミスをくり返しやすい新入社員を教育するときに有効だとされています。\n　そのうちに注意しておこうと考え、その場は黙って見すごし（注1）たりすると、のちに（注2）叱ったときは当人は小さなミスだから、自分のしたことを忘れています。そのうえ、なんのことをぶつぶついってるんだと反発したり、あんなことをまだ根に持って（注3）いたのかと思って、しつこく険悪な（注4）上司だというイメージを与えてしまったりすることになります。\n（中略）\n　大きなミスの場合、とりあえず叱るのはあとまわしになります。何より、事後対策を急がなければならないからです。ミスをした当人は、もちろん叱られるまでもなく（注5）、ショックで打ちひしがれて（注6）いるはずです。だから、当人も含め、ほかの部下も督励し（注7）ながら、先頭に立って事に当たらなければならないのです。大切なのは、その処理が終わってから、じっくりと注意し、ミスの原因をつかむことです。\n　大きなミス、小さなミスには、こうした心理の違いがあります。\n（注1）見すごす：ここでは、そのままにする\n（注2）のちに：あとで\n（注3）根に持つ：ここでは、覚えている\n（注4）険悪な：ここでは、意地悪な\n（注5）叱られるまでもなく：叱られなくても\n（注6）打ちひしがれる：落ち込む\n（注7）督励する：ここでは、元気づける"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "以下は、孤独に対処する手段について書かれた文章である。\n　小説を読めば物語の世界に没頭する（注1）ことができるし、政治や経済、哲学などの思想書を読めば著者の意見に賛成したり反対したりして、いろいろと自分の頭で考えることができる。脳に刺激が入り、それによっていろいろ思考がめぐっているということは、脳は孤独を感じている暇がないってことだ。\n　「だったらテレビでもいいじゃないか」って思うかもしれないけど、実はテレビは読書ほど孤独を癒し（注2）てはくれない。なぜかというとテレビは一方的な情報の押し付けであって、コミュニケーションにはならないのだ。\n　映像の力というのはすごくて、みている人間の頭にいろいろな情報が入ってくる。たとえばバラエティ（注3）番組などでも、出演している人たちの表情や喋り方、そこでどんなムードで話をしているのかなどといったたくさんの情報が同時に頭に飛び込んでくる。しかも、印象的な発言はテロップ（注4）などで大きく表示される。\n　しかし、その情報について考えをめぐらせようとしても、映像がどんどん流れていって次の展開になるので、立ち止まって思考をめぐらせている暇がない。（中略）\n　一人暮らしの高齢者が朝から晩までテレビをつけっぱなしにしているということは珍しくないが、あまり孤独は癒されない。常に人の話し声が聞こえてくるので、寂しさを紛らわす（注5）ことができる部分もあるかもしれないけれど、テレビを消したら瞬間に、急に孤独に襲われてしまうということになりがちだ。\n　それならば、脳内コミュニケーションができる読書のほうが<u>おすすめ</u>だ。\n（注1）没頭する：夢中になる\n（注2）～を癒す：ここでは、～の気持ちを軽くする\n（注3）バラエティ番組：ここでは、娯楽のための番組\n（注4）テロップ：ここでは、テレビ画面に映し出される文\n（注5）紛らわす：ここでは、忘れる"
+    }
+  ],
+  "questions": [
+    {
+      "num": 57,
+      "passage": "p1",
+      "stem": "<u>そんなこと</u>とは、どのようなことか。",
+      "options": [
+        "以前相手に贈ったものなのに、また同じものを贈ること",
+        "自分が贈ったものが、相手が欲しかったものと一致すること",
+        "ほかの人が贈ったものと知らないで、それと同じものを贈ること",
+        "相手が欲しいものだろうと思ったのに、そうではなかったものを贈ること"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "'Chuyện như thế' là chuyện như thế nào? → Tặng món mình nghĩ là đối phương muốn, nhưng hóa ra không phải.",
+        "why": "Ví dụ ngay trước: mang sách tranh tặng, nhưng nhà đó đã có hết rồi. Bối cảnh đoạn đầu: không rõ đối phương có thật sự muốn hay không, mình chỉ tưởng tượng mà chọn → món quà không như đối phương mong muốn.",
+        "options": [
+          "Sai: không phải tặng lại món mình đã từng tặng.",
+          "Sai: ngược lại – món quà KHÔNG trùng với mong muốn.",
+          "Sai: bài không nói sách là do người khác tặng; chỉ nói 'đã có sẵn' (すでにお持ち).",
+          "ĐÚNG: tưởng đối phương muốn, nhưng thực tế không phải."
+        ],
+        "vocab": [
+          { "w": "贈り物", "r": "おくりもの", "hv": "TẶNG VẬT", "vi": "quà tặng" },
+          { "w": "思いをめぐらせる", "r": "おもいをめぐらせる", "hv": "", "vi": "suy nghĩ nhiều mặt" },
+          { "w": "すでに", "r": "すでに", "hv": "", "vi": "đã, rồi" },
+          { "w": "必ずしも～ない", "r": "かならずしも～ない", "hv": "TẤT", "vi": "không hẳn là ~" }
+        ],
+        "grammar": null,
+        "evidence": "ところが、その人は、どの本もすでにお持ちでした。贈り物には<u>そんなこと</u>がよく起こるのです。",
+        "tip": "Câu hỏi chỉ thị từ (そんなこと) → đọc câu ngay trước nó và khái quát hóa."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p1",
+      "stem": "筆者が言いたいことは何か。",
+      "options": [
+        "どんなものでも相手のことを考えて選んだ贈り物は、相手の心を動かせる。",
+        "贈り物の金額によっても、相手のことをどのくらい思っているかが示せる。",
+        "相手の心に残る贈り物をすれば、よい関係がつくりだせる。",
+        "相手が欲しいものを贈れば、どんなものでも強い印象が与えられる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều tác giả muốn nói là gì? → Món quà được chọn vì nghĩ đến đối phương thì dù là gì cũng có thể làm lay động lòng người nhận.",
+        "why": "Tác giả nói ý nghĩa món quà nằm ở tấm lòng chứ không phải đồ vật; dù khác với món đối phương muốn, quà được chọn kỹ vì nghĩ đến họ có thể khơi gợi cảm xúc (感情を喚起する) → làm lay động lòng người.",
+        "options": [
+          "ĐÚNG: quà chọn vì nghĩ cho đối phương, dù là gì, cũng có thể lay động lòng họ.",
+          "Sai: tác giả nói chính sự không rõ nên tặng giá bao nhiêu mới tạo ý nghĩa, không nói giá tiền thể hiện tình cảm.",
+          "Sai: đảo quan hệ nhân quả và không phải ý chính; tác giả nhấn mạnh tấm lòng khi chọn quà.",
+          "Sai: tặng món đối phương chỉ định thì giống trao đổi hàng hóa, tác giả không đề cao điều đó."
+        ],
+        "vocab": [
+          { "w": "意義", "r": "いぎ", "hv": "Ý NGHĨA", "vi": "ý nghĩa" },
+          { "w": "喚起", "r": "かんき", "hv": "HOÁN KHỞI", "vi": "khơi gợi, đánh thức" },
+          { "w": "不確定", "r": "ふかくてい", "hv": "BẤT XÁC ĐỊNH", "vi": "không xác định" },
+          { "w": "効用", "r": "こうよう", "hv": "HIỆU DỤNG", "vi": "công dụng, tác dụng" }
+        ],
+        "grammar": {
+          "pattern": "たとえ～ても",
+          "meaning": "cho dù ~ đi nữa",
+          "form": "たとえ＋Vて／Aくて／Nで＋も",
+          "example": "たとえ失敗しても、後悔はしない。"
+        },
+        "evidence": "たとえ欲しかったものとは違っていても、相手が自分のことをじっくり考えて選んでくれたものには、相手を想起させ、その人との関係をつくりだし、感情を喚起する可能性があります。",
+        "tip": "Ý chính thường nằm ở phần cuối bài sau (中略)."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p2",
+      "stem": "地球全体に棲んでいるクモについて、筆者が述べていることに合っているのはどれか。",
+      "options": [
+        "体重の合計がすべての人と家畜の体重の合計の約半分に相当するほど、数が多い。",
+        "非常に数が多く、体重の合計はすべての鳥の体重の合計と同じくらいである。",
+        "森林に棲むものの数が最も多く、全体の半分を占める。",
+        "森林より、草原や低い木の林に棲む密度のほうが高い。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều nào phù hợp với những gì tác giả nói về loài nhện trên toàn trái đất? → Số lượng rất nhiều, tổng trọng lượng gần bằng tổng trọng lượng của tất cả các loài chim.",
+        "why": "Nhện ≈ 2500万トン, toàn bộ chim ≈ 2700万トン → 'ほぼ同じ' (gần bằng nhau).",
+        "options": [
+          "Sai: 'khoảng một nửa' là so với động vật có vú hoang dã (đã trừ người và gia súc), không phải so với người và gia súc.",
+          "ĐÚNG: tổng trọng lượng gần bằng tổng trọng lượng các loài chim.",
+          "Sai: rừng có nhiều nhện nhất, nhưng bài không nói chiếm một nửa tổng số.",
+          "Sai: ngược lại – đồng cỏ, rừng cây bụi có mật độ chỉ bằng khoảng một nửa rừng."
+        ],
+        "vocab": [
+          { "w": "棲む", "r": "すむ", "hv": "THÊ", "vi": "sinh sống (động vật)" },
+          { "w": "家畜", "r": "かちく", "hv": "GIA SÚC", "vi": "gia súc" },
+          { "w": "相当する", "r": "そうとうする", "hv": "TƯƠNG ĐƯƠNG", "vi": "tương đương" },
+          { "w": "密度", "r": "みつど", "hv": "MẬT ĐỘ", "vi": "mật độ" }
+        ],
+        "grammar": null,
+        "evidence": "またこれは、すべての鳥の体重2700万トンとほぼ同じです。",
+        "tip": "Bẫy so sánh: kiểm tra kỹ 'so với cái gì' (野生ほ乳動物 hay 人と家畜)."
+      }
+    },
+    {
+      "num": 60,
+      "passage": "p2",
+      "stem": "筆者によると、クモがいなくなるとどのような影響があるか。",
+      "options": [
+        "クモが食べていた農作物を昆虫が食べることができ、昆虫の数が増える。",
+        "クモを食べていた昆虫が農作物を食べるようになり、収穫量が減る。",
+        "クモに食べられていた昆虫が農作物の成長を助けて、収穫量が増える。",
+        "クモに食べられていた昆虫が農作物を食べるので、収穫量が減る。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, nếu nhện biến mất sẽ có ảnh hưởng gì? → Côn trùng vốn bị nhện ăn sẽ ăn nông sản, nên sản lượng thu hoạch giảm.",
+        "why": "Nhện ăn côn trùng. Không có nhện → côn trùng thoát khỏi kẻ săn mồi và tăng mạnh, phần lớn ăn thực vật → ở đất nông nghiệp sản lượng giảm.",
+        "options": [
+          "Sai: nhện không ăn nông sản.",
+          "Sai: côn trùng không ăn nhện; ngược lại nhện ăn côn trùng.",
+          "Sai: côn trùng ăn cây, không giúp cây phát triển; sản lượng giảm chứ không tăng.",
+          "ĐÚNG: côn trùng bị nhện ăn sẽ ăn nông sản → giảm sản lượng."
+        ],
+        "vocab": [
+          { "w": "昆虫", "r": "こんちゅう", "hv": "CÔN TRÙNG", "vi": "côn trùng" },
+          { "w": "捕食者", "r": "ほしょくしゃ", "hv": "BỔ THỰC GIẢ", "vi": "kẻ săn mồi" },
+          { "w": "収穫", "r": "しゅうかく", "hv": "THU HOẠCH", "vi": "thu hoạch" },
+          { "w": "大幅", "r": "おおはば", "hv": "ĐẠI PHÚC", "vi": "đáng kể, mạnh" }
+        ],
+        "grammar": null,
+        "evidence": "もしクモがいなくなれば、捕食者から自由になった昆虫が大幅に数を増やすことでしょう。その多くは植物を食べます。ですから、…農地では収穫できる作物の量が減るかもしれません。",
+        "tip": "Vẽ chuỗi thức ăn: クモ → 昆虫 → 植物. Bỏ クモ thì 昆虫↑, 植物↓."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p3",
+      "stem": "筆者によると、上司が部下の小さなミスをあとになって指摘すると、部下はどうなるか。",
+      "options": [
+        "なぜ指摘されたのかが分からず、指摘されたことを不満に思う。",
+        "指摘されても思い出せず、ミスはしていないと主張する。",
+        "指摘されたことに反発して反省せず、より深刻なミスをしてしまう。",
+        "指摘されてはじめて気づき、なぜその場で指摘してくれなかったのかと思う。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, nếu cấp trên để sau mới chỉ ra lỗi nhỏ của cấp dưới thì cấp dưới sẽ thế nào? → Không hiểu tại sao bị nhắc và cảm thấy bất mãn.",
+        "why": "Cấp dưới đã quên việc mình làm (vì lỗi nhỏ), nên phản ứng 'sếp lẩm bẩm chuyện gì vậy' (không hiểu bị nhắc vì sao) và phản đối, cho rằng sếp hay để bụng, khó chịu (bất mãn).",
+        "options": [
+          "ĐÚNG: không hiểu vì sao bị nhắc → bất mãn (反発).",
+          "Sai: bài không nói cấp dưới khẳng định mình không mắc lỗi.",
+          "Sai: không nói đến việc gây ra lỗi nghiêm trọng hơn.",
+          "Sai: bài không nói cấp dưới nghĩ 'sao không nhắc ngay lúc đó'."
+        ],
+        "vocab": [
+          { "w": "指摘", "r": "してき", "hv": "CHỈ TRÍCH", "vi": "chỉ ra" },
+          { "w": "反発", "r": "はんぱつ", "hv": "PHẢN PHÁT", "vi": "phản kháng, phản ứng lại" },
+          { "w": "根に持つ", "r": "ねにもつ", "hv": "CĂN", "vi": "để bụng, thù dai" },
+          { "w": "ぶつぶつ言う", "r": "ぶつぶついう", "hv": "", "vi": "lẩm bẩm, càu nhàu" }
+        ],
+        "grammar": null,
+        "evidence": "のちに叱ったときは当人は小さなミスだから、自分のしたことを忘れています。そのうえ、なんのことをぶつぶついってるんだと反発したり、…しつこく険悪な上司だというイメージを与えてしまったりすることになります。",
+        "tip": "「なんのことを～」= không biết đang nói chuyện gì → tương ứng 'なぜ指摘されたのかが分からず'."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p3",
+      "stem": "筆者によると、大きなミスをした部下に対して上司はどうすればいいか。",
+      "options": [
+        "部下にミスの対処はさせずに、注意して反省させる。",
+        "部下がショックから回復するまで、注意しないようにする。",
+        "ほかの部下も含め一緒にミスに対処してから、丁寧に注意する。",
+        "ほかの部下も含め一緒にミスの原因を考えたうえで、責任を持って対処させる。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Theo tác giả, cấp trên nên làm gì với cấp dưới mắc lỗi lớn? → Cùng xử lý lỗi với cả những cấp dưới khác, sau đó mới nhắc nhở cẩn thận.",
+        "why": "Với lỗi lớn: hoãn việc mắng lại, ưu tiên khắc phục; cấp trên đứng đầu, động viên cả người mắc lỗi lẫn người khác cùng xử lý; sau khi xử lý xong mới 'じっくりと注意し' (nhắc nhở kỹ càng).",
+        "options": [
+          "Sai: người mắc lỗi cũng tham gia khắc phục (当人も含め); không nhắc nhở trước.",
+          "Sai: thời điểm nhắc nhở là sau khi xử lý xong, không phải 'khi hồi phục sau cú sốc'.",
+          "ĐÚNG: cùng xử lý trước, rồi nhắc nhở kỹ (丁寧に＝じっくりと).",
+          "Sai: thứ tự sai – tìm nguyên nhân là sau khi xử lý xong; và cấp trên tự đứng đầu xử lý chứ không bắt cấp dưới chịu trách nhiệm."
+        ],
+        "vocab": [
+          { "w": "後回し", "r": "あとまわし", "hv": "HẬU HỒI", "vi": "để sau, hoãn lại" },
+          { "w": "事後対策", "r": "じごたいさく", "hv": "SỰ HẬU ĐỐI SÁCH", "vi": "biện pháp khắc phục sau sự cố" },
+          { "w": "督励", "r": "とくれい", "hv": "ĐỐC LỆ", "vi": "đôn đốc, động viên" },
+          { "w": "処理", "r": "しょり", "hv": "XỬ LÝ", "vi": "xử lý" }
+        ],
+        "grammar": {
+          "pattern": "～てから",
+          "meaning": "sau khi ~ (rồi mới)",
+          "form": "Vて＋から",
+          "example": "宿題が終わってから、遊びに行きなさい。"
+        },
+        "evidence": "当人も含め、ほかの部下も督励しながら、先頭に立って事に当たらなければならないのです。大切なのは、その処理が終わってから、じっくりと注意し、ミスの原因をつかむことです。",
+        "tip": "Chú ý thứ tự hành động trong đáp án: 対処 → 注意."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p4",
+      "stem": "テレビの問題点について、筆者はどのように述べているか。",
+      "options": [
+        "映像の印象が強すぎて、何かを自分で考えようという気が起こらない。",
+        "映像の展開が早すぎて、印象的なことしか頭に残らない。",
+        "多量の情報を次々与えられるので、それについて自分で考える時間がない。",
+        "いろいろな情報が与えられるので、どれに価値があるのか分からない。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về vấn đề của TV, tác giả nói thế nào? → Vì liên tục được cung cấp lượng lớn thông tin nên không có thời gian tự suy nghĩ về nó.",
+        "why": "TV đưa nhiều thông tin cùng lúc vào đầu; dù muốn suy nghĩ về thông tin đó thì hình ảnh cứ trôi sang diễn biến tiếp theo, 'không có thời gian dừng lại suy nghĩ'.",
+        "options": [
+          "Sai: bài không nói 'không muốn suy nghĩ'; người xem muốn nghĩ nhưng không kịp (考えをめぐらせようとしても).",
+          "Sai: bài không nói chỉ những điều ấn tượng còn lại trong đầu.",
+          "ĐÚNG: thông tin nhiều, liên tục → không có thời gian tự suy nghĩ.",
+          "Sai: bài không bàn về giá trị của thông tin."
+        ],
+        "vocab": [
+          { "w": "映像", "r": "えいぞう", "hv": "ÁNH TƯỢNG", "vi": "hình ảnh (video)" },
+          { "w": "展開", "r": "てんかい", "hv": "TRIỂN KHAI", "vi": "diễn biến, triển khai" },
+          { "w": "一方的", "r": "いっぽうてき", "hv": "NHẤT PHƯƠNG ĐÍCH", "vi": "một chiều" },
+          { "w": "暇", "r": "ひま", "hv": "HẠ", "vi": "thời gian rảnh" }
+        ],
+        "grammar": {
+          "pattern": "～ようとしても",
+          "meaning": "dù có định ~ đi nữa (thì cũng không được)",
+          "form": "V意向形＋としても",
+          "example": "思い出そうとしても、名前が出てこない。"
+        },
+        "evidence": "しかし、その情報について考えをめぐらせようとしても、映像がどんどん流れていって次の展開になるので、立ち止まって思考をめぐらせている暇がない。",
+        "tip": "暇がない trong bài ↔ 時間がない trong đáp án: paraphrase điển hình."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p4",
+      "stem": "<u>おすすめ</u>だとあるが、なぜか。",
+      "options": [
+        "さまざまな情報が入り、孤独から逃げられるから",
+        "刺激を受け思考することにより、孤独を感じにくくなるから",
+        "筆者と同じ気持ちだと分かり、孤独が慰められるから",
+        "好きなときに自分のペースで読め、孤独を感じないから"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tác giả nói 'đáng khuyên dùng', tại sao? → Vì nhờ được kích thích và suy nghĩ mà khó cảm thấy cô đơn.",
+        "why": "Đoạn đầu: đọc sách → não được kích thích, suy nghĩ xoay vần → não không có thời gian cảm thấy cô đơn. Đọc sách là 'giao tiếp trong não' khác với TV một chiều.",
+        "options": [
+          "Sai: 'nhiều thông tin đi vào' là đặc điểm của TV, và TV không xoa dịu được cô đơn.",
+          "ĐÚNG: được kích thích → suy nghĩ → không cảm thấy cô đơn.",
+          "Sai: bài không nói 'đồng cảm với tác giả'; còn có thể phản đối ý kiến tác giả.",
+          "Sai: bài không đề cập đến việc đọc theo nhịp độ của mình."
+        ],
+        "vocab": [
+          { "w": "孤独", "r": "こどく", "hv": "CÔ ĐỘC", "vi": "cô đơn" },
+          { "w": "刺激", "r": "しげき", "hv": "THÍCH KÍCH", "vi": "kích thích" },
+          { "w": "思考", "r": "しこう", "hv": "TƯ KHẢO", "vi": "suy nghĩ, tư duy" },
+          { "w": "没頭", "r": "ぼっとう", "hv": "MỘT ĐẦU", "vi": "say mê, chìm đắm" }
+        ],
+        "grammar": null,
+        "evidence": "脳に刺激が入り、それによっていろいろ思考がめぐっているということは、脳は孤独を感じている暇がないってことだ。",
+        "tip": "Lý do cho kết luận cuối bài thường nằm ở đoạn đầu (cấu trúc mở - kết)."
+      }
+    }
+  ]
+}

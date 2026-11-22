@@ -1,0 +1,206 @@
+{
+  "exam": "2018-12",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（1）から（5）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi (đoạn văn ngắn).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "情報が容易に入手（注1）できると、必要な情報を探索（注2）する努力が必要なくなるかのように思われる。自分で集めるよりも、情報機器の提供する情報のほうが客観的で信頼できると勘違いする。\nしかし、だれにでも役に立つ完璧な情報など存在しない。情報化時代を生きるためには個々人が他者の提供する情報を評価し、比較検討し、その中から自分にとって、自分の目標にとって有益（注3）な情報を選別する能力と知識を持たなければならないのである。\n\n（注1）入手する：手に入れる\n（注2）探索する：探す\n（注3）有益な：役に立つ"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、ある時計メーカーのお客様サポートセンターに届いたメールである。\n\nマルオデジタルお客様サポートセンター\nご担当者様\n\n1か月前に貴社の修理センターで腕時計を修理していただきました（受付番号 46955841）。しかし、先日また同じように画面の一部が暗くなり数字が読みづらくなったので、完全に直っていなかったのではないかと思います。再修理をお願いしたいのですが、現在は保証期間が過ぎています。前回は保証期間内だったので無料でしたが、今回は修理費を支払わなければなりませんか。\n確認の上、なるべく早くお返事をいただけないでしょうか。\nよろしくお願いします。\n\n本山由香"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "文化項目の価値評価は人類共通のものではありません。ある国のある地域では優れているとされるものでも、他の国のある地域に行ったならば、それは妙な事物であったり、社会としては認め難い事物でしかない場合も普通にあるということです。同じことは時代というものに関しても言えることです。現在、同じ集団の人々が素晴らしいと信じて行っていることも、わずか百年前ならば、その社会ではとても認められないことだったという例も沢山あるはずです。"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "以下は、あるかばん店がホームページに掲載したお知らせである。\n\n手作りかばんの店「アズレ」のお知らせ\n2018年11月15日\n\nインターネット販売につきまして\n\n9月よりインターネットでの商品の販売を行ってまいりましたが、予想以上のご注文をいただき、現在、製造が追いつかない状況です。そのため、大変申し訳ございませんが、インターネットでの販売は11月30日までとし、しばらくの間中止させていただきます。なお、店での販売は12月1日以降も続けてまいります。インターネットでの販売の再開につきましては、製造体制が整い次第お知らせいたします。\nご不便をおかけしますが、どうぞよろしくお願い申し上げます。\n\n手作りかばんの店「アズレ」\n店長　鈴本洋一"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "以下は、スポーツ選手が書いた文章である。\n\nよく、過去は変えられないというが、正確に言えば過去に起きた出来事は変えられないが、意味は変えられるというべきだろう。なぜならば、人生で起きた最悪の出来事も、その後の生き方によっては、自分の人生の転機（注）になったと捉え直すときがあるからだ。「人間は現実ではなく、物語を生きている」というのが、私の競技人生で学んだことだ。現実に起きた事は変えられないが、物語はいくらでも変えられる。そして物語が変われば、過去も未来も、風景が違って見える。\n\n（注）人生の転機：人生が変わるきっかけ"
+    }
+  ],
+  "questions": [
+    {
+      "num": 53,
+      "passage": "p1",
+      "stem": "情報化時代を生きるために必要なことについて、筆者はどのように考えているか。",
+      "options": [
+        "情報機器が提供してくれる情報を活用すべきだ。",
+        "自分にとって必要な情報を選び出す力が大切だ。",
+        "自分の目標に合った情報を多く集めたほうがいい。",
+        "自分で選別した情報を他者の情報と比較検討すべきだ。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tác giả nghĩ gì về điều cần thiết để sống trong thời đại thông tin? → Năng lực chọn lọc ra thông tin cần thiết cho bản thân là quan trọng.",
+        "why": "Câu kết: phải có năng lực và kiến thức để chọn lọc (選別する) thông tin có ích cho bản thân, cho mục tiêu của mình → \"năng lực chọn ra thông tin cần thiết\".",
+        "options": [
+          "Tác giả cho rằng tin thông tin từ thiết bị là \"hiểu lầm\" (勘違い). Sai.",
+          "Khớp với 「有益な情報を選別する能力」. ĐÚNG.",
+          "Không nói thu thập \"nhiều\", mà nói chọn lọc. Sai.",
+          "Ngược thứ tự: so sánh thông tin của người khác rồi mới chọn lọc, không phải lấy thông tin mình chọn đem so. Sai."
+        ],
+        "vocab": [
+          { "w": "選別", "r": "せんべつ", "hv": "TUYỂN BIỆT", "vi": "chọn lọc, phân loại" },
+          { "w": "勘違い", "r": "かんちがい", "hv": "KHÁM VI", "vi": "hiểu lầm, nhầm tưởng" },
+          { "w": "客観的", "r": "きゃっかんてき", "hv": "KHÁCH QUAN ĐÍCH", "vi": "khách quan" },
+          { "w": "完璧", "r": "かんぺき", "hv": "HOÀN BÍCH", "vi": "hoàn hảo" }
+        ],
+        "grammar": null,
+        "evidence": "情報化時代を生きるためには個々人が他者の提供する情報を評価し、比較検討し、その中から自分にとって、自分の目標にとって有益な情報を選別する能力と知識を持たなければならないのである。",
+        "tip": "Câu có ～なければならないのである ở cuối đoạn thường là ý chính của tác giả."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p2",
+      "stem": "このメールの用件は何か。",
+      "options": [
+        "再修理なので、修理費が安くなるかどうか教えてほしい。",
+        "無料でなくてもいいので、修理できるかどうか教えてほしい。",
+        "保証期間内なので、無料で修理できるかどうか教えてほしい。",
+        "保証期間が過ぎているが、修理費が必要かどうか教えてほしい。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Mục đích (việc cần) của email này là gì? → Thời hạn bảo hành đã hết, nhưng muốn được cho biết có cần trả phí sửa chữa hay không.",
+        "why": "Người viết nói đã hết bảo hành, rồi hỏi \"lần này có phải trả phí sửa không?\" và mong được trả lời sớm → hỏi có cần phí sửa hay không.",
+        "options": [
+          "Không hỏi phí có \"rẻ hơn\" không. Sai.",
+          "Không nói \"không miễn phí cũng được\"; trọng tâm là hỏi về phí. Sai.",
+          "Hiện tại đã hết bảo hành (保証期間が過ぎています), không phải còn trong hạn. Sai.",
+          "Khớp: đã hết bảo hành + hỏi có phải trả phí không. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "用件", "r": "ようけん", "hv": "DỤNG KIỆN", "vi": "việc cần, nội dung chính" },
+          { "w": "保証期間", "r": "ほしょうきかん", "hv": "BẢO CHỨNG KỲ GIAN", "vi": "thời hạn bảo hành" },
+          { "w": "修理費", "r": "しゅうりひ", "hv": "TU LÝ PHÍ", "vi": "phí sửa chữa" },
+          { "w": "貴社", "r": "きしゃ", "hv": "QUÝ XÃ", "vi": "quý công ty (văn viết)" }
+        ],
+        "grammar": null,
+        "evidence": "再修理をお願いしたいのですが、現在は保証期間が過ぎています。前回は保証期間内だったので無料でしたが、今回は修理費を支払わなければなりませんか。",
+        "tip": "Câu hỏi 用件 → tìm câu hỏi/câu nhờ vả trực tiếp trong email (～なりませんか, ～いただけないでしょうか)."
+      }
+    },
+    {
+      "num": 55,
+      "passage": "p3",
+      "stem": "文化項目の価値評価について、筆者の考えに合うのはどれか。",
+      "options": [
+        "地域や時代によって異なる。",
+        "地域差より時代差のほうが大きい。",
+        "同じ集団なら時代差はない。",
+        "地域や時代に関係なく変化する。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về việc đánh giá giá trị các hạng mục văn hóa, điều nào phù hợp với suy nghĩ của tác giả? → Khác nhau tùy theo khu vực và thời đại.",
+        "why": "Tác giả nói: thứ được đánh giá cao ở vùng này có thể bị coi là kỳ lạ ở vùng khác (khác theo vùng), và điều tương tự cũng đúng với thời đại (cùng một tập thể, 100 năm trước có thể không chấp nhận) → khác nhau theo vùng và thời đại.",
+        "options": [
+          "Khớp: khác theo vùng (地域) và theo thời đại (時代). ĐÚNG.",
+          "Bài không so sánh cái nào lớn hơn. Sai.",
+          "Ngược lại: cùng tập thể nhưng khác thời đại vẫn khác đánh giá. Sai.",
+          "\"Thay đổi không liên quan vùng/thời đại\" trái với bài. Sai."
+        ],
+        "vocab": [
+          { "w": "価値評価", "r": "かちひょうか", "hv": "GIÁ TRỊ BÌNH GIÁ", "vi": "đánh giá giá trị" },
+          { "w": "人類共通", "r": "じんるいきょうつう", "hv": "NHÂN LOẠI CỘNG THÔNG", "vi": "chung cho cả nhân loại" },
+          { "w": "妙", "r": "みょう", "hv": "DIỆU", "vi": "kỳ lạ, khác thường" },
+          { "w": "認め難い", "r": "みとめがたい", "hv": "NHẬN NAN", "vi": "khó chấp nhận" }
+        ],
+        "grammar": {
+          "pattern": "Vます＋難い",
+          "meaning": "khó mà V được (về mặt tâm lý)",
+          "form": "Vます(bỏ ます) ＋ がたい",
+          "example": "彼の話は信じがたい。"
+        },
+        "evidence": "文化項目の価値評価は人類共通のものではありません。ある国のある地域では優れているとされるものでも、他の国のある地域に行ったならば…社会としては認め難い事物でしかない場合も普通にあるということです。同じことは時代というものに関しても言えることです。",
+        "tip": "「同じことは～に関しても言える」= điều tương tự cũng đúng với ~ → bài nêu 2 yếu tố song song."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p4",
+      "stem": "このお知らせで伝えたいことは何か。",
+      "options": [
+        "インターネット販売は11月30日で中止し、製造体制が整うまで店での販売のみ行う。",
+        "インターネット販売は11月30日で中止し、12月1日からは店での販売を始める。",
+        "インターネット販売も店での販売も11月30日で中止するが、製造体制が整ったらどちらも再開する。",
+        "インターネット販売も店での販売も11月30日で中止するが、製造体制が整ったら店での販売のみ再開する。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều thông báo này muốn truyền đạt là gì? → Ngừng bán qua Internet từ sau ngày 30/11, cho đến khi hệ thống sản xuất ổn định thì chỉ bán tại cửa hàng.",
+        "why": "Bán online chỉ đến 30/11 rồi tạm ngừng; bán tại cửa hàng vẫn tiếp tục sau 1/12; bán online sẽ mở lại khi hệ thống sản xuất sẵn sàng → trong thời gian chờ chỉ bán ở cửa hàng.",
+        "options": [
+          "Khớp: ngừng online 30/11, tạm thời chỉ bán ở cửa hàng. ĐÚNG.",
+          "Cửa hàng đã bán từ trước và \"tiếp tục\" (続けてまいります), không phải \"bắt đầu\" từ 1/12. Sai.",
+          "Cửa hàng không ngừng bán. Sai.",
+          "Cửa hàng không ngừng bán; thứ được mở lại là bán online. Sai."
+        ],
+        "vocab": [
+          { "w": "販売", "r": "はんばい", "hv": "PHIẾN MẠI", "vi": "bán hàng" },
+          { "w": "製造", "r": "せいぞう", "hv": "CHẾ TẠO", "vi": "sản xuất, chế tạo" },
+          { "w": "体制", "r": "たいせい", "hv": "THỂ CHẾ", "vi": "hệ thống, cơ chế" },
+          { "w": "再開", "r": "さいかい", "hv": "TÁI KHAI", "vi": "mở lại, tiếp tục lại" }
+        ],
+        "grammar": {
+          "pattern": "～次第",
+          "meaning": "ngay sau khi ~",
+          "form": "Vます(bỏ ます)／N ＋ 次第",
+          "example": "準備ができ次第、出発します。"
+        },
+        "evidence": "インターネットでの販売は11月30日までとし、しばらくの間中止させていただきます。なお、店での販売は12月1日以降も続けてまいります。インターネットでの販売の再開につきましては、製造体制が整い次第お知らせいたします。",
+        "tip": "Bẫy: 続けてまいります (tiếp tục) ≠ 始める (bắt đầu)."
+      }
+    },
+    {
+      "num": 57,
+      "passage": "p5",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "過去に起きた出来事の意味を理解すれば、未来を変えられる。",
+        "現実に起きた出来事によって、人生という物語が決まる。",
+        "同じ出来事でも、捉え方によってその意味が変えられる。",
+        "どんな出来事でも、肯定的に捉えたほうがいい。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Dù là cùng một sự việc, ý nghĩa của nó có thể thay đổi tùy theo cách nhìn nhận.",
+        "why": "Tác giả: sự việc trong quá khứ không đổi được nhưng ý nghĩa thì đổi được; sự việc tồi tệ nhất cũng có thể được nhìn nhận lại (捉え直す) thành bước ngoặt → cách nhìn nhận thay đổi ý nghĩa.",
+        "options": [
+          "Không nói \"hiểu ý nghĩa thì thay đổi được tương lai\"; ý chính là ý nghĩa có thể thay đổi. Sai.",
+          "Ngược lại: câu chuyện có thể thay đổi bao nhiêu cũng được, không bị hiện thực quyết định. Sai.",
+          "Khớp với 「意味は変えられる」「捉え直す」. ĐÚNG.",
+          "Bài không khuyên \"phải luôn nhìn tích cực\". Sai."
+        ],
+        "vocab": [
+          { "w": "捉え直す", "r": "とらえなおす", "hv": "TRÓC TRỰC", "vi": "nhìn nhận lại" },
+          { "w": "転機", "r": "てんき", "hv": "CHUYỂN CƠ", "vi": "bước ngoặt" },
+          { "w": "出来事", "r": "できごと", "hv": "XUẤT LAI SỰ", "vi": "sự việc, sự kiện" },
+          { "w": "肯定的", "r": "こうていてき", "hv": "KHẲNG ĐỊNH ĐÍCH", "vi": "tích cực, khẳng định" }
+        ],
+        "grammar": {
+          "pattern": "～によっては",
+          "meaning": "tùy vào ~ mà có trường hợp…",
+          "form": "N ＋ によっては",
+          "example": "人によっては、この味が苦手かもしれない。"
+        },
+        "evidence": "正確に言えば過去に起きた出来事は変えられないが、意味は変えられるというべきだろう。なぜならば、人生で起きた最悪の出来事も、その後の生き方によっては、自分の人生の転機になったと捉え直すときがあるからだ。",
+        "tip": "Đáp án đúng thường diễn đạt lại ý chính bằng từ khác: 意味は変えられる ⇔ その意味が変えられる."
+      }
+    }
+  ]
+}

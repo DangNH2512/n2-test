@@ -1,0 +1,137 @@
+{
+  "exam": "2021-12",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "美しい<u>情景</u>が目に浮かんだ。",
+      "options": ["じょうけい", "じょけい", "じょうえい", "じょえい"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Một khung cảnh đẹp hiện lên trước mắt.",
+        "why": "情景 đọc là じょうけい (TÌNH CẢNH) = cảnh tượng, khung cảnh (gợi cảm xúc). 情 âm On là じょう (trường âm), 景 âm On là けい (như 景色 けしき, 風景 ふうけい).",
+        "options": [
+          "じょうけい → 情景: khung cảnh, cảnh tượng. ĐÚNG.",
+          "じょけい → thiếu trường âm う ở 情. Sai.",
+          "じょうえい → 上映 (chiếu phim) / 情 + えい không có. Sai.",
+          "じょえい → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "情景", "r": "じょうけい", "hv": "TÌNH CẢNH", "vi": "khung cảnh, cảnh tượng" },
+          { "w": "風景", "r": "ふうけい", "hv": "PHONG CẢNH", "vi": "phong cảnh" },
+          { "w": "目に浮かぶ", "r": "めにうかぶ", "hv": "", "vi": "hiện lên trước mắt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "景 luôn đọc けい trong từ ghép: 風景、景気、光景. 情 đọc じょう: 感情、表情、事情."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "この世代の人たちはコンピューターの知識が<u>乏しい</u>ように思う。",
+      "options": ["くわしい", "とぼしい", "まずしい", "あやしい"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi nghĩ những người thuộc thế hệ này có ít kiến thức về máy tính.",
+        "why": "乏しい đọc là とぼしい (PHẠP) = thiếu, nghèo nàn, ít ỏi. Hay đi với 知識が乏しい, 経験が乏しい, 資源が乏しい.",
+        "options": [
+          "くわしい → 詳しい: am hiểu, chi tiết. Sai.",
+          "とぼしい → 乏しい: thiếu, nghèo nàn. ĐÚNG.",
+          "まずしい → 貧しい: nghèo (về kinh tế). Sai.",
+          "あやしい → 怪しい: đáng ngờ. Sai."
+        ],
+        "vocab": [
+          { "w": "乏しい", "r": "とぼしい", "hv": "PHẠP", "vi": "thiếu, ít ỏi, nghèo nàn" },
+          { "w": "世代", "r": "せだい", "hv": "THẾ ĐẠI", "vi": "thế hệ" },
+          { "w": "知識", "r": "ちしき", "hv": "TRI THỨC", "vi": "kiến thức" },
+          { "w": "貧しい", "r": "まずしい", "hv": "BẦN", "vi": "nghèo" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "乏しい (thiếu về lượng: kiến thức, kinh nghiệm) ≠ 貧しい (nghèo tiền bạc). Cả hai hay bị gài nhau."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "ボランティアでお年寄りの<u>介護</u>をしている。",
+      "options": ["かいごう", "かんごう", "かいご", "かんご"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi đang làm tình nguyện chăm sóc người cao tuổi.",
+        "why": "介護 đọc là かいご (GIỚI HỘ) = chăm sóc, điều dưỡng (người già, người bệnh). 介 = かい, 護 = ご (không có trường âm).",
+        "options": [
+          "かいごう → thừa trường âm. Sai.",
+          "かんごう → không có từ này. Sai.",
+          "かいご → 介護: chăm sóc, điều dưỡng. ĐÚNG.",
+          "かんご → 看護: y tá chăm sóc bệnh nhân (khác chữ). Sai."
+        ],
+        "vocab": [
+          { "w": "介護", "r": "かいご", "hv": "GIỚI HỘ", "vi": "chăm sóc, điều dưỡng (người già, người bệnh)" },
+          { "w": "看護", "r": "かんご", "hv": "KHÁN HỘ", "vi": "chăm sóc y tế, điều dưỡng" },
+          { "w": "お年寄り", "r": "おとしより", "hv": "", "vi": "người cao tuổi" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "護 luôn đọc ご (ngắn): 保護 ほご, 弁護士 べんごし. Đề gốc in phương án 2 và 4 trùng nhau (かんごう); phương án 4 hợp lý là かんご."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "今ごろになって<u>焦っても</u>しかたない。",
+      "options": ["あせっても", "しかっても", "まよっても", "いのっても"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Đến giờ này mới cuống lên thì cũng chẳng ích gì.",
+        "why": "焦る đọc là あせる (TIÊU) = sốt ruột, cuống, vội vàng. 焦っても = dù có cuống lên.",
+        "options": [
+          "あせっても → 焦っても: dù có cuống lên. ĐÚNG.",
+          "しかっても → 叱っても: dù có mắng. Sai.",
+          "まよっても → 迷っても: dù có phân vân / lạc đường. Sai.",
+          "いのっても → 祈っても: dù có cầu nguyện. Sai."
+        ],
+        "vocab": [
+          { "w": "焦る", "r": "あせる", "hv": "TIÊU", "vi": "sốt ruột, cuống quýt" },
+          { "w": "焦げる", "r": "こげる", "hv": "TIÊU", "vi": "bị cháy, khét" },
+          { "w": "仕方ない", "r": "しかたない", "hv": "", "vi": "không còn cách nào, vô ích" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "焦: あせる (cuống) / こげる・こがす (cháy khét) / âm On しょう (焦点 しょうてん: tiêu điểm)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "高速道路の建設については、<u>賛否</u>が分かれた。",
+      "options": ["さんふ", "さんぷ", "さんひ", "さんぴ"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Về việc xây dựng đường cao tốc, ý kiến tán thành và phản đối chia rẽ.",
+        "why": "賛否 đọc là さんぴ (TÁN PHỦ) = tán thành và phản đối. 否 âm On là ひ, nhưng sau ん biến thành ぴ (handakuon).",
+        "options": [
+          "さんふ → 否 không đọc ふ. Sai.",
+          "さんぷ → nhầm 否 với 不 (ふ/ぷ). Sai.",
+          "さんひ → quên biến âm sau ん. Sai.",
+          "さんぴ → 賛否: tán thành và phản đối. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "賛否", "r": "さんぴ", "hv": "TÁN PHỦ", "vi": "tán thành và phản đối" },
+          { "w": "賛成", "r": "さんせい", "hv": "TÁN THÀNH", "vi": "tán thành" },
+          { "w": "否定", "r": "ひてい", "hv": "PHỦ ĐỊNH", "vi": "phủ định" },
+          { "w": "建設", "r": "けんせつ", "hv": "KIẾN THIẾT", "vi": "xây dựng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm cố định: 賛否が分かれる (ý kiến chia rẽ), 賛否両論 (さんぴりょうろん: cả ý kiến khen lẫn chê)."
+      }
+    }
+  ]
+}

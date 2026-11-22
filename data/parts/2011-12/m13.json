@@ -1,0 +1,96 @@
+{
+  "exam": "2011-12",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn (dài, mang tính lập luận) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "小説家で自作解説をする人がたまにいる。ぼくは「ちょっとな……」と思う。なぜそんなに思うのかと言うと、一つは「ぼくの自由に読ませてよ」と言いたいからだ。もう一つは自作解説ができるほど言いたいことがはっきりしているなら、なにも小説などという回りくどい（注1）表現形式をとる必要はなかったではないかと思うからだ。はじめから評論を書けばよかったのだ。\n小説は言葉を使ってこの世界に似せたイメージを作る表現形式である。世界はそれ自身では主張を持たないから、ぼくたちは小説を「自由」に解釈できる。それが小説を読む楽しみだ。ところが、評論はそうではない。古典的名著ともなれば評論でもさまざまな解釈が競われることがあるが、ふつうは評論の主張ははっきりしている。「自由」に解釈すれば「誤読」となることが多い。\nでは、ぼくたちはなぜ評論を読むのかと言えば、それは自分の知らないことやわからないことを、知りたいしわかりたいからだ。それが知的な虚栄心（注2）というもので、これがなくなったら精神的な「老人」である。精神的な「若者」は、友人が本を読んだと聞けば、たとえ自分が読んでない本であっても「読んだよ」と答えるものだ。そして、あわてふためいて（注3）本屋さんか図書館に行って、わかってもわからなくても一晩でそれを読んで、翌日には涼しい顔をして「そう言えば、あれはたいした本じゃないね」なんて言ってみるものだ。そんなふうにして、ぼくたちは教養を身につける。\nぼくは「教養」という言葉を二つの意味でとらえている。一つは知識の量で、これは多ければ多いほどいい。しかし、これは少し古風な教養のとらえ方である。現代ではあまりに多くの情報があふれているからとても追いつけない。その上に過去のことまで知っていなければならないとしたら大変だ。もちろんそのための努力は大切だが、限りがある。そこで二つめの教養の意味が必要だと考えている。それは、物事を考えるための座標軸（注4）をできるだけたくさん持つことだ。「たくさん」とは言っても、ぼくたちの思考方法にはその時代ごとに流行があるから、これは無限というわけではない。ぼくは、その時代に必要な思考方法を身につけることを第二の教養、そして現代の教養と呼んでおきたい。この現代の教養を身につけるために評論を読むのである。\n（石原千秋『未来形の読書術』による）\n\n（注1）回りくどい：直接的でなくわかりにくい\n（注2）虚栄心：実際以上によく見せたいと思う心\n（注3）あわてふためいて：とてもあわてて\n（注4）座標軸：ここでは、基準"
+    }
+  ],
+  "questions": [
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "筆者によると、小説は読者にとってどのようなものか。",
+      "options": ["イメージの世界の作家の解説どおり読むもの", "作家の作り出した世界から主張を読み取るもの", "作家が描いた世界を表現どおり解釈するもの", "作家が表現した世界を好きなように解釈するもの"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, tiểu thuyết đối với người đọc là gì? → Là thứ diễn giải thế giới mà nhà văn thể hiện theo ý thích của mình.",
+        "why": "Tiểu thuyết tạo ra hình ảnh mô phỏng thế giới; thế giới tự nó không có chủ trương, nên ta có thể diễn giải tiểu thuyết một cách \"tự do\" – đó là niềm vui đọc tiểu thuyết.",
+        "options": [
+          "Đọc theo lời giải thích của tác giả – chính điều tác giả không thích (自作解説). Sai.",
+          "Đọc ra chủ trương – đó là đặc điểm của 評論, không phải tiểu thuyết. Sai.",
+          "\"Diễn giải đúng như biểu hiện\" – trái với \"tự do\". Sai.",
+          "Diễn giải tùy ý (自由に解釈). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "自作解説", "r": "じさくかいせつ", "hv": "TỰ TÁC GIẢI THUYẾT", "vi": "tự giải thích tác phẩm của mình" },
+          { "w": "解釈", "r": "かいしゃく", "hv": "GIẢI THÍCH", "vi": "diễn giải, cách hiểu" },
+          { "w": "評論", "r": "ひょうろん", "hv": "BÌNH LUẬN", "vi": "bài bình luận, phê bình" },
+          { "w": "主張", "r": "しゅちょう", "hv": "CHỦ TRƯƠNG", "vi": "quan điểm, chủ trương" },
+          { "w": "誤読", "r": "ごどく", "hv": "NGỘ ĐỘC", "vi": "đọc hiểu sai" }
+        ],
+        "grammar": null,
+        "evidence": "世界はそれ自身では主張を持たないから、ぼくたちは小説を「自由」に解釈できる。それが小説を読む楽しみだ。",
+        "tip": "Bài đối lập 小説 (tự do diễn giải) ↔ 評論 (chủ trương rõ ràng)."
+      }
+    },
+    {
+      "num": 72,
+      "passage": "p1",
+      "stem": "精神的な「若者」とはどういう人か。",
+      "options": ["教養があるのにないふりをする人", "教養があると思われるように評論を読む人", "知識のないことを恥ずかしいと思わない人", "知識の不足を自覚して評論を読む人"],
+      "answer": 2,
+      "explanation": {
+        "translation": "\"Người trẻ\" về tinh thần là người thế nào? → Người đọc bình luận để được người khác nghĩ là có học thức.",
+        "why": "\"Người trẻ\" tinh thần có hư vinh trí tuệ (知的な虚栄心 = muốn tỏ ra hơn thực tế): nghe bạn đọc sách thì nói \"tớ đọc rồi\" dù chưa đọc, vội đi đọc ngay trong đêm rồi hôm sau thản nhiên bình phẩm → đọc để được coi là có hiểu biết.",
+        "options": [
+          "Ngược lại: không có mà làm như có. Sai.",
+          "Đọc bình luận để được nghĩ là có học thức (虚栄心). ĐÚNG.",
+          "Họ xấu hổ vì không biết, nên mới nói dối và vội đọc. Sai.",
+          "Có ý thức thiếu hiểu biết nhưng động lực là hư vinh (muốn tỏ ra), không phải chỉ đơn thuần tự giác bổ sung; đáp án 2 sát với định nghĩa 虚栄心 hơn. Sai."
+        ],
+        "vocab": [
+          { "w": "虚栄心", "r": "きょえいしん", "hv": "HƯ VINH TÂM", "vi": "lòng hư vinh, sĩ diện" },
+          { "w": "精神的", "r": "せいしんてき", "hv": "TINH THẦN ĐÍCH", "vi": "về mặt tinh thần" },
+          { "w": "あわてふためく", "r": "あわてふためく", "hv": "", "vi": "cuống cuồng" },
+          { "w": "涼しい顔", "r": "すずしいかお", "hv": "LƯƠNG NHAN", "vi": "vẻ mặt thản nhiên" },
+          { "w": "教養", "r": "きょうよう", "hv": "GIÁO DƯỠNG", "vi": "học thức, sự hiểu biết" }
+        ],
+        "grammar": { "pattern": "たとえ〜ても", "meaning": "cho dù ~ đi nữa", "form": "たとえ＋Vて／Nで＋も", "example": "たとえ雨が降っても、試合は行われる。" },
+        "evidence": "それが知的な虚栄心というもので、これがなくなったら精神的な「老人」である。精神的な「若者」は、友人が本を読んだと聞けば、たとえ自分が読んでない本であっても「読んだよ」と答えるものだ。",
+        "tip": "Chú thích (注2) 虚栄心＝実際以上によく見せたいと思う心 là chìa khóa: \"muốn tỏ ra\" ↔ 思われるように."
+      }
+    },
+    {
+      "num": 73,
+      "passage": "p1",
+      "stem": "筆者の言う第二の教養とは何か。",
+      "options": ["多くの知識を身につけていること", "時代に沿った考え方ができること", "将来の状況を予測するような考え方ができること", "流行に左右されない知識を身につけていること"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Học thức thứ hai mà tác giả nói là gì? → Có thể suy nghĩ theo cách phù hợp với thời đại.",
+        "why": "Tác giả gọi việc nắm được phương pháp tư duy cần thiết của thời đại đó là \"học thức thứ hai\" (= học thức hiện đại).",
+        "options": [
+          "Nhiều tri thức = học thức thứ nhất (kiểu cũ). Sai.",
+          "Suy nghĩ phù hợp với thời đại. ĐÚNG.",
+          "Không nói dự đoán tương lai. Sai.",
+          "Ngược lại, tư duy có \"mốt\" theo thời đại và cần nắm bắt nó. Sai."
+        ],
+        "vocab": [
+          { "w": "座標軸", "r": "ざひょうじく", "hv": "TỌA TIÊU TRỤC", "vi": "trục tọa độ, hệ quy chiếu" },
+          { "w": "思考方法", "r": "しこうほうほう", "hv": "TƯ KHẢO PHƯƠNG PHÁP", "vi": "phương pháp tư duy" },
+          { "w": "古風", "r": "こふう", "hv": "CỔ PHONG", "vi": "kiểu cũ, cổ điển" },
+          { "w": "〜に沿う", "r": "にそう", "hv": "DUYÊN", "vi": "theo, phù hợp với" }
+        ],
+        "grammar": { "pattern": "〜ば〜ほど", "meaning": "càng ~ càng", "form": "Vば／いAければ＋Vる／いA＋ほど", "example": "練習すればするほど上手になる。" },
+        "evidence": "ぼくは、その時代に必要な思考方法を身につけることを第二の教養、そして現代の教養と呼んでおきたい。",
+        "tip": "Câu định nghĩa có dạng 〜を〜と呼ぶ thường là đáp án trực tiếp."
+      }
+    }
+  ]
+}

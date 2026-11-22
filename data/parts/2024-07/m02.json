@@ -1,0 +1,135 @@
+{
+  "exam": "2024-07",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết Kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "この会社を<u>しぼう</u>した理由を教えてください。",
+      "options": ["希望", "志望", "指望", "貴望"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hãy cho biết lý do bạn chọn ứng tuyển (nguyện vọng vào) công ty này.",
+        "why": "しぼう = 志望 (CHÍ VỌNG): nguyện vọng, mong muốn vào (trường, công ty). 志望理由 / 志望動機 là cụm rất hay gặp khi phỏng vấn.",
+        "options": [
+          "希望 → きぼう: hy vọng, mong muốn. Đọc khác (きぼう). Sai.",
+          "志望 → しぼう: nguyện vọng. ĐÚNG.",
+          "指望 → không có từ này. Sai.",
+          "貴望 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "志望", "r": "しぼう", "hv": "CHÍ VỌNG", "vi": "nguyện vọng (vào trường, công ty)" },
+          { "w": "希望", "r": "きぼう", "hv": "HY VỌNG", "vi": "hy vọng, mong muốn" },
+          { "w": "理由", "r": "りゆう", "hv": "LÝ DO", "vi": "lý do" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "志 (こころざし) = ý chí, chí hướng → 志望 = hướng ý chí về đâu."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "あの作家の<u>たんぺん</u>小説はとても面白い。",
+      "options": ["短編", "単編", "短遍", "単遍"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Truyện ngắn của nhà văn đó rất thú vị.",
+        "why": "たんぺん = 短編 (ĐOẢN BIÊN): tác phẩm ngắn. 短 = ngắn (đối lập 長編 ちょうへん = truyện dài), 編 = biên soạn, tác phẩm.",
+        "options": [
+          "短編 → たんぺん: truyện ngắn. ĐÚNG.",
+          "単編 → 単 (ĐƠN) = đơn lẻ, không mang nghĩa ngắn. Sai.",
+          "短遍 → 遍 (BIẾN) = khắp, lần (một lượt), không dùng. Sai.",
+          "単遍 → sai cả hai chữ. Sai."
+        ],
+        "vocab": [
+          { "w": "短編", "r": "たんぺん", "hv": "ĐOẢN BIÊN", "vi": "truyện ngắn, tác phẩm ngắn" },
+          { "w": "長編", "r": "ちょうへん", "hv": "TRƯỜNG BIÊN", "vi": "truyện dài, tác phẩm dài" },
+          { "w": "作家", "r": "さっか", "hv": "TÁC GIA", "vi": "nhà văn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "編 (bộ 糸 – sợi chỉ: đan, biên) vs 遍 (bộ 辶 – đi khắp: 普遍 ふへん)."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "桜の花が<u>ちって</u>いくのを眺める。",
+      "options": ["消って", "去って", "散って", "失って"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Ngắm nhìn hoa anh đào rơi rụng dần.",
+        "why": "ちる = 散る (TÁN): rơi rụng, tản ra. Hoa rụng → 花が散る.",
+        "options": [
+          "消って → 消 đọc là き(える)/け(す), không đọc ち. Sai.",
+          "去って → さって (去る): rời đi. Sai.",
+          "散って → ちって (散る): rơi rụng. ĐÚNG.",
+          "失って → うしなって (失う): đánh mất. Sai."
+        ],
+        "vocab": [
+          { "w": "散る", "r": "ちる", "hv": "TÁN", "vi": "rơi rụng, tản mác" },
+          { "w": "眺める", "r": "ながめる", "hv": "THIẾU", "vi": "ngắm nhìn" },
+          { "w": "散歩", "r": "さんぽ", "hv": "TÁN BỘ", "vi": "đi dạo" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "散: âm On さん (散歩), âm Kun ち(る)/ち(らかす)."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "このセーターにはとても<u>やわらかい</u>毛糸が使われている。",
+      "options": ["伸らかい", "軽らかい", "暖らかい", "柔らかい"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Chiếc áo len này được dùng loại len rất mềm.",
+        "why": "やわらかい = 柔らかい (NHU): mềm mại. (Cũng có 軟らかい nhưng không có trong lựa chọn.)",
+        "options": [
+          "伸らかい → 伸 là の(びる): duỗi ra. Không có từ này. Sai.",
+          "軽らかい → 軽 là かる(い): nhẹ. Không có từ này. Sai.",
+          "暖らかい → 暖 là あたた(かい): ấm. Không có từ này. Sai.",
+          "柔らかい → やわらかい: mềm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "柔らかい", "r": "やわらかい", "hv": "NHU", "vi": "mềm, mềm mại" },
+          { "w": "毛糸", "r": "けいと", "hv": "MAO MỊCH", "vi": "sợi len" },
+          { "w": "柔道", "r": "じゅうどう", "hv": "NHU ĐẠO", "vi": "nhu đạo, judo" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "柔 (じゅう) trong 柔道, 柔軟 (じゅうなん – mềm dẻo, linh hoạt)."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "最近あまり体調がよくないのは、<u>ひろう</u>のせいだろう。",
+      "options": ["疲労", "病労", "疲老", "病老"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Gần đây sức khỏe không được tốt lắm, có lẽ là do mệt mỏi.",
+        "why": "ひろう = 疲労 (BÌ LAO): sự mệt mỏi. 疲 (ひ) = mệt (疲れる), 労 (ろう) = lao lực.",
+        "options": [
+          "疲労 → ひろう: mệt mỏi. ĐÚNG.",
+          "病労 → 病 đọc びょう, không có từ này. Sai.",
+          "疲老 → 老 (LÃO) = già, không đúng nghĩa. Sai.",
+          "病老 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "疲労", "r": "ひろう", "hv": "BÌ LAO", "vi": "mệt mỏi, sự mệt nhọc" },
+          { "w": "体調", "r": "たいちょう", "hv": "THỂ ĐIỀU", "vi": "thể trạng, tình trạng sức khỏe" },
+          { "w": "苦労", "r": "くろう", "hv": "KHỔ LAO", "vi": "vất vả, khổ cực" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "老 (ろう – già) và 労 (ろう – lao động) đồng âm, phân biệt bằng nghĩa: mệt = 労."
+      }
+    }
+  ]
+}

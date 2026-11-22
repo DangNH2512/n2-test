@@ -1,0 +1,134 @@
+{
+  "exam": "2017-07",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ/cụm từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "最近は生産が<u>過剰である</u>ことが問題になっている。",
+      "options": ["早すぎる", "少なすぎる", "遅すぎる", "多すぎる"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Gần đây việc sản xuất dư thừa (quá nhiều) đang trở thành vấn đề.",
+        "why": "過剰 (QUÁ THẶNG) = quá mức, dư thừa → 過剰である = 多すぎる (quá nhiều).",
+        "options": [
+          "早すぎる → quá sớm. Sai.",
+          "少なすぎる → quá ít (trái nghĩa). Sai.",
+          "遅すぎる → quá muộn. Sai.",
+          "多すぎる → quá nhiều. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "過剰", "r": "かじょう", "hv": "QUÁ THẶNG", "vi": "dư thừa, quá mức" },
+          { "w": "生産", "r": "せいさん", "hv": "SINH SẢN", "vi": "sản xuất" },
+          { "w": "不足", "r": "ふそく", "hv": "BẤT TÚC", "vi": "thiếu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "過剰 ⇔ 不足. 自信過剰 = quá tự tin."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "もし資料に<u>あやまり</u>があったら知らせてください。",
+      "options": ["読みにくいところ", "汚れているところ", "わかりにくいところ", "間違っているところ"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nếu tài liệu có chỗ sai sót, xin hãy báo cho tôi.",
+        "why": "あやまり (誤り) = lỗi, chỗ sai → 間違っているところ.",
+        "options": [
+          "読みにくいところ → chỗ khó đọc. Sai.",
+          "汚れているところ → chỗ bị bẩn. Sai.",
+          "わかりにくいところ → chỗ khó hiểu. Sai.",
+          "間違っているところ → chỗ bị sai. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "誤り", "r": "あやまり", "hv": "NGỘ", "vi": "lỗi, sai sót" },
+          { "w": "誤解", "r": "ごかい", "hv": "NGỘ GIẢI", "vi": "hiểu lầm" },
+          { "w": "資料", "r": "しりょう", "hv": "TƯ LIỆU", "vi": "tài liệu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đừng nhầm 誤り (lỗi) với 謝り (lời xin lỗi) — cùng đọc あやまり."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "うちの子は<u>臆病</u>だ。",
+      "options": ["よく病気をする", "何でも怖がる", "何でも忘れる", "よく泣く"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Con nhà tôi nhút nhát.",
+        "why": "臆病 (ỨC BỆNH) = nhát gan, nhút nhát → 何でも怖がる (cái gì cũng sợ). Chữ 病 ở đây không mang nghĩa 'bệnh'.",
+        "options": [
+          "よく病気をする → hay ốm — bẫy vì có chữ 病. Sai.",
+          "何でも怖がる → cái gì cũng sợ. ĐÚNG.",
+          "何でも忘れる → cái gì cũng quên. Sai.",
+          "よく泣く → hay khóc. Sai."
+        ],
+        "vocab": [
+          { "w": "臆病", "r": "おくびょう", "hv": "ỨC BỆNH", "vi": "nhát gan" },
+          { "w": "怖がる", "r": "こわがる", "hv": "BỐ", "vi": "sợ hãi" },
+          { "w": "勇敢", "r": "ゆうかん", "hv": "DŨNG CẢM", "vi": "dũng cảm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "臆病者 (おくびょうもの) = kẻ nhát gan. Bẫy chữ 病."
+      }
+    },
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "高橋さんなら<u>とっくに</u>帰りましたよ。",
+      "options": ["ずっと前に", "一人で", "あわてて", "何も持たずに"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Anh Takahashi thì đã về từ lâu rồi.",
+        "why": "とっくに = từ lâu rồi, đã ~ lâu rồi → ずっと前に.",
+        "options": [
+          "ずっと前に → từ lâu trước đó. ĐÚNG.",
+          "一人で → một mình. Sai.",
+          "あわてて → vội vàng. Sai.",
+          "何も持たずに → không mang gì. Sai."
+        ],
+        "vocab": [
+          { "w": "とっくに", "r": "とっくに", "hv": "", "vi": "từ lâu rồi" },
+          { "w": "慌てる", "r": "あわてる", "hv": "HOẢNG", "vi": "vội vàng, hoảng hốt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "とっくに thường đi với thể quá khứ/đã hoàn thành: とっくに終わった."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "あの自転車は弟に<u>ゆずりました</u>。",
+      "options": ["貸しました", "もらいました", "あげました", "借りました"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Chiếc xe đạp đó tôi đã nhượng lại (cho) em trai.",
+        "why": "ゆずる (譲る) = nhường, nhượng lại cho người khác → 弟にゆずる = cho em trai → あげました.",
+        "options": [
+          "貸しました → cho mượn (vẫn là của mình). Sai.",
+          "もらいました → nhận (hướng ngược lại). Sai.",
+          "あげました → cho, tặng. ĐÚNG.",
+          "借りました → mượn. Sai."
+        ],
+        "vocab": [
+          { "w": "譲る", "r": "ゆずる", "hv": "NHƯỢNG", "vi": "nhường, nhượng lại" },
+          { "w": "譲歩", "r": "じょうほ", "hv": "NHƯỢNG BỘ", "vi": "nhượng bộ" },
+          { "w": "席を譲る", "r": "せきをゆずる", "hv": "", "vi": "nhường ghế" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "譲る = chuyển quyền sở hữu cho người khác, khác với 貸す (cho mượn)."
+      }
+    }
+  ]
+}

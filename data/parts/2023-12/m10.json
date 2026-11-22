@@ -1,0 +1,214 @@
+{
+  "exam": "2023-12",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の(1)から(5)の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc 5 đoạn văn ngắn (1)–(5) rồi chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "インタビューでは準備も重要だが、実際のインタビューの場面になったら、いったんその準備で得たものをすべて捨てなくてはならない。そして、相手の話を真剣に深く聞き、その人が何を言わんとしている(注1)のか、丸ごと(注2)捉えて、そこで出てきた素晴らしい言葉、豊かな言葉、言葉に込められた大事なメッセージをしっかりとつかむことこそが必要なのだ。そこから良い対話が生まれてくる。良いインタビューは、次の質問を忘れて相手の話を聞けたときに初めて行えるものなのだ。\n\n(注1) 言わんとしている：言おうとしている\n(注2) 丸ごと：そのまま全部"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、ある会社で全社員に送られたメールである。\n\n社員各位\n\nわが社の人気商品「緑山牧場チーズ詰め合わせ」を、定価の30%引き(割引後3,500円)で社員向けに特別販売します。\n購入希望者は、添付の申込書にお名前と購入数をご記入のうえ、3月9日までに営業課までメールでお申し込みください。通常、社内販売の支払いと商品のお渡しは経理課で行っていますが、今回は営業課で行います。代金と引き換えに、その場で商品をお渡しします。お渡し期間は3月16日から19日の間です。\n以上、よろしくお願いします。\n\n添付ファイル：3月1日「緑山牧場チーズ詰め合わせ」申込書\n\n営業課　安井"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "鳥は日常的に目であたりを観察し、自身の生活にとって重要なものかどうかを見分け、必要なものを優先的に記憶しながら暮らしています。野生(注1)と飼育(注2)下では、そこに存在するものがちがっているため、重要と判断されるものも大きく変わってきますが、判断のしかた自体は変化しません。重要なものは詳細に、そうでないものはさっと流すくらいの注意で見る、というやりかたです。そして、重要と判断されなかったものは、どんどん記憶のなかから消えていきます。\n\n(注1) 野生：自然のなかで生きている状態\n(注2) 飼育下：飼われている状態"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "以下は、ある町の掲示板に貼られていた文書である。\n\n10月5日\n住民の皆様へ\n\nごみに関するお願い\n\n最近、「可燃ごみ」の回収日に衣類・布類が多く出されています。しかし、市の規則では、衣類・布類は毎週火曜日の「資源ごみ」の回収日に出すことになっています。資源を有効に活用するため、決められた回収日に出してください。\n衣類・布類は、市内8か所の公共施設に設置してある回収ボックスでも回収しています。回収後は、中古の衣類として再使用したり、工場で再生利用したりします。ご協力をよろしくお願いします。\n\n竹川市役所　市民生活課"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "自分が常識と思っていたこと、そうして見えない枠として自分をしばっていたこと、それを共有しない<u>ひと</u>が現われる。最初、それは非常識なひと、変なひとに思えるかもしれない。だけど、それが変だと感じることで、はじめて、自分があたりまえだと思っていたことを自覚する(注)ようになる。見えない枠が見えるようになる。\n\n(注) 自覚する：意識する"
+    }
+  ],
+  "questions": [
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "インタビューについて、筆者の考えに合うのはどれか。",
+      "options": [
+        "準備したものから離れて、相手の話をよく聞くことが重要だ。",
+        "準備した質問に沿って、相手から大事なメッセージを引き出すことが重要だ。",
+        "相手の話をしっかり聞くことが大切なので、準備をする必要はない。",
+        "相手から素晴らしい言葉を引き出すには、準備しすぎないほうがいい。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về phỏng vấn, điều nào phù hợp với suy nghĩ của tác giả? → Điều quan trọng là rời khỏi những gì đã chuẩn bị và lắng nghe kỹ câu chuyện của đối phương.",
+        "why": "Tác giả nói chuẩn bị cũng quan trọng, nhưng khi phỏng vấn thực tế phải tạm \"vứt bỏ\" mọi thứ đã chuẩn bị, lắng nghe nghiêm túc và sâu sắc; phỏng vấn tốt chỉ đạt được khi quên câu hỏi tiếp theo để nghe đối phương.",
+        "options": [
+          "Rời xa phần chuẩn bị, lắng nghe đối phương. ĐÚNG.",
+          "Đi theo câu hỏi đã chuẩn bị → ngược với ý \"vứt bỏ phần chuẩn bị\". Sai.",
+          "Không cần chuẩn bị → tác giả nói 準備も重要だ. Sai.",
+          "Không nên chuẩn bị quá nhiều → tác giả không bàn về mức độ chuẩn bị. Sai."
+        ],
+        "vocab": [
+          { "w": "いったん", "r": "いったん", "hv": "NHẤT ĐÁN", "vi": "tạm thời, một khi" },
+          { "w": "捉える", "r": "とらえる", "hv": "TRÓC", "vi": "nắm bắt" },
+          { "w": "込める", "r": "こめる", "hv": "", "vi": "gửi gắm, chứa đựng" },
+          { "w": "対話", "r": "たいわ", "hv": "ĐỐI THOẠI", "vi": "đối thoại" }
+        ],
+        "grammar": {
+          "pattern": "～てはじめて",
+          "meaning": "chỉ khi ~ thì mới",
+          "form": "Vて + はじめて／Vたときに初めて",
+          "example": "病気になって初めて健康のありがたさが分かった。"
+        },
+        "evidence": "実際のインタビューの場面になったら、いったんその準備で得たものをすべて捨てなくてはならない。そして、相手の話を真剣に深く聞き…／良いインタビューは、次の質問を忘れて相手の話を聞けたときに初めて行えるものなのだ。",
+        "tip": "Bẫy: lựa chọn 3 \"không cần chuẩn bị\" quá cực đoan – câu đầu đã nói 準備も重要だ."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p2",
+      "stem": "「緑山牧場チーズ詰め合わせ」を社内販売で購入したい社員は、期日までに営業課にメールで申し込んだあと、どうすればいいか。",
+      "options": [
+        "経理課で支払いをして受け取る。",
+        "経理課で支払いをして、営業課で受け取る。",
+        "営業課で支払いをして受け取る。",
+        "営業課で支払いをして、経理課で受け取る。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nhân viên muốn mua \"Hộp phô mai tổng hợp Nông trại Midoriyama\" qua đợt bán nội bộ, sau khi đăng ký qua email với phòng Kinh doanh đúng hạn, thì phải làm gì? → Trả tiền và nhận hàng tại phòng Kinh doanh.",
+        "why": "Bình thường thanh toán và giao hàng nội bộ do phòng Kế toán làm, nhưng lần này phòng Kinh doanh làm; trả tiền xong nhận hàng ngay tại chỗ.",
+        "options": [
+          "Trả và nhận ở phòng Kế toán → đó là cách \"thông thường\", lần này khác. Sai.",
+          "Trả ở Kế toán, nhận ở Kinh doanh. Sai.",
+          "Trả tiền và nhận hàng ở phòng Kinh doanh. ĐÚNG.",
+          "Trả ở Kinh doanh, nhận ở Kế toán. Sai."
+        ],
+        "vocab": [
+          { "w": "営業課", "r": "えいぎょうか", "hv": "DOANH NGHIỆP KHÓA", "vi": "phòng Kinh doanh" },
+          { "w": "経理課", "r": "けいりか", "hv": "KINH LÝ KHÓA", "vi": "phòng Kế toán" },
+          { "w": "引き換え", "r": "ひきかえ", "hv": "DẪN HOÁN", "vi": "đổi lấy, trao đổi" },
+          { "w": "詰め合わせ", "r": "つめあわせ", "hv": "CẬT HỢP", "vi": "hộp tổng hợp (nhiều loại)" },
+          { "w": "添付", "r": "てんぷ", "hv": "THIÊM PHÓ", "vi": "đính kèm" }
+        ],
+        "grammar": {
+          "pattern": "Nと引き換えに",
+          "meaning": "đổi lấy N, khi trao N thì nhận…",
+          "form": "N + と引き換えに",
+          "example": "このチケットと引き換えに、記念品をお渡しします。"
+        },
+        "evidence": "通常、社内販売の支払いと商品のお渡しは経理課で行っていますが、今回は営業課で行います。代金と引き換えに、その場で商品をお渡しします。",
+        "tip": "Dạng email thông báo: chú ý 通常…が、今回は… – thông tin sau が mới là đáp án."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p3",
+      "stem": "鳥の記憶について、筆者の説明に合うのはどれか。",
+      "options": [
+        "何度も見たものを重要だと判断して記憶していく。",
+        "生活する場がちがっても、同じものを記憶していく。",
+        "生活に重要なものを選んで記憶していく。",
+        "生活に重要なものでも、次第に記憶から消えていく。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về trí nhớ của chim, điều nào phù hợp với giải thích của tác giả? → Chúng chọn những thứ quan trọng cho cuộc sống để ghi nhớ.",
+        "why": "Chim quan sát, phân biệt cái gì quan trọng với cuộc sống, rồi ưu tiên ghi nhớ thứ cần thiết; thứ không quan trọng thì dần quên.",
+        "options": [
+          "Nhìn nhiều lần → ghi nhớ: bài không nói tiêu chí là số lần nhìn. Sai.",
+          "Môi trường khác vẫn nhớ cùng một thứ → bài nói hoang dã/nuôi nhốt thì thứ được coi là quan trọng thay đổi lớn. Sai.",
+          "Chọn thứ quan trọng cho cuộc sống để nhớ. ĐÚNG.",
+          "Thứ quan trọng cũng dần quên → chỉ thứ KHÔNG quan trọng mới bị quên. Sai."
+        ],
+        "vocab": [
+          { "w": "見分ける", "r": "みわける", "hv": "KIẾN PHÂN", "vi": "phân biệt" },
+          { "w": "優先的", "r": "ゆうせんてき", "hv": "ƯU TIÊN ĐÍCH", "vi": "một cách ưu tiên" },
+          { "w": "飼育", "r": "しいく", "hv": "TỰ DỤC", "vi": "nuôi (động vật)" },
+          { "w": "野生", "r": "やせい", "hv": "DÃ SINH", "vi": "hoang dã" }
+        ],
+        "grammar": null,
+        "evidence": "自身の生活にとって重要なものかどうかを見分け、必要なものを優先的に記憶しながら暮らしています。",
+        "tip": "Lựa chọn 2 bẫy: \"cách phán đoán\" không đổi, nhưng \"thứ được nhớ\" thì đổi theo môi trường."
+      }
+    },
+    {
+      "num": 55,
+      "passage": "p4",
+      "stem": "この文書で最も伝えたいことは何か。",
+      "options": [
+        "「資源ごみ」として出す衣類・布類の量を減らしてほしい。",
+        "「資源ごみ」の回収日に「可燃ごみ」を出さないでほしい。",
+        "衣類・布類は、「資源ごみ」の回収日に出してほしい。",
+        "衣類・布類は、新しく設置した回収ボックスに出してほしい。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều văn bản này muốn truyền đạt nhất là gì? → Muốn quần áo, vải vóc được bỏ vào ngày thu gom \"rác tài nguyên\".",
+        "why": "Vấn đề: quần áo bị bỏ vào ngày rác cháy được. Quy định: quần áo/vải phải bỏ vào ngày rác tài nguyên (thứ Ba hàng tuần) → \"hãy bỏ đúng ngày quy định\".",
+        "options": [
+          "Giảm lượng quần áo bỏ ra → không nói. Sai.",
+          "Đừng bỏ rác cháy được vào ngày rác tài nguyên → ngược tình huống (vấn đề là quần áo bỏ vào ngày rác cháy). Sai.",
+          "Bỏ quần áo/vải vào ngày rác tài nguyên. ĐÚNG.",
+          "Hộp thu gom \"mới lắp đặt\" → bài không nói mới; đó chỉ là cách bổ sung (でも). Sai."
+        ],
+        "vocab": [
+          { "w": "可燃ごみ", "r": "かねんごみ", "hv": "KHẢ NHIÊN", "vi": "rác cháy được" },
+          { "w": "資源ごみ", "r": "しげんごみ", "hv": "TƯ NGUYÊN", "vi": "rác tài nguyên (tái chế)" },
+          { "w": "回収", "r": "かいしゅう", "hv": "HỒI THU", "vi": "thu gom" },
+          { "w": "衣類", "r": "いるい", "hv": "Y LOẠI", "vi": "quần áo" },
+          { "w": "再生利用", "r": "さいせいりよう", "hv": "TÁI SINH LỢI DỤNG", "vi": "tái chế" }
+        ],
+        "grammar": {
+          "pattern": "～ことになっている",
+          "meaning": "theo quy định là ~",
+          "form": "V辞書形／Vない + ことになっている",
+          "example": "この寮では10時までに帰ることになっている。"
+        },
+        "evidence": "しかし、市の規則では、衣類・布類は毎週火曜日の「資源ごみ」の回収日に出すことになっています。資源を有効に活用するため、決められた回収日に出してください。",
+        "tip": "Câu hỏi \"muốn truyền đạt nhất\" → tìm câu yêu cầu ～てください đi sau しかし."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p5",
+      "stem": "筆者は、<u>ひと</u>と出会うことによってどうなると述べているか。",
+      "options": [
+        "見えない枠が変なものだと気づく。",
+        "自分をしばっていた考え方に気づく。",
+        "自分の常識が間違いだったと気づく。",
+        "ほかのひとの常識は理解できないと気づく。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tác giả nói rằng nhờ gặp \"người\" (không chia sẻ thường thức với mình) thì sẽ thế nào? → Nhận ra lối suy nghĩ vẫn trói buộc bản thân.",
+        "why": "\"Người\" ở đây là người không chia sẻ điều mình cho là thường thức (khung vô hình trói buộc mình). Nhờ thấy họ kỳ lạ, ta mới ý thức được điều mình coi là đương nhiên → cái khung vô hình trở nên nhìn thấy được.",
+        "options": [
+          "Nhận ra khung vô hình là kỳ lạ → cái bị thấy \"kỳ lạ\" là người kia, không phải cái khung. Sai.",
+          "Nhận ra lối suy nghĩ trói buộc mình (見えない枠). ĐÚNG.",
+          "Nhận ra thường thức của mình là sai → bài chỉ nói \"ý thức được\", không nói sai. Sai.",
+          "Không thể hiểu thường thức người khác → không được nói. Sai."
+        ],
+        "vocab": [
+          { "w": "常識", "r": "じょうしき", "hv": "THƯỜNG THỨC", "vi": "lẽ thường, thường thức" },
+          { "w": "枠", "r": "わく", "hv": "", "vi": "khung, giới hạn" },
+          { "w": "しばる（縛る）", "r": "しばる", "hv": "PHƯỢC", "vi": "trói buộc" },
+          { "w": "自覚する", "r": "じかくする", "hv": "TỰ GIÁC", "vi": "tự ý thức, nhận thức" },
+          { "w": "共有", "r": "きょうゆう", "hv": "CỘNG HỮU", "vi": "chia sẻ, dùng chung" }
+        ],
+        "grammar": {
+          "pattern": "～ことで、はじめて…",
+          "meaning": "nhờ ~ thì lần đầu tiên mới…",
+          "form": "V辞書形 + ことで、はじめて + V",
+          "example": "海外に住むことで、はじめて自分の国のよさが分かった。"
+        },
+        "evidence": "だけど、それが変だと感じることで、はじめて、自分があたりまえだと思っていたことを自覚するようになる。見えない枠が見えるようになる。",
+        "tip": "\"見えない枠\" = \"自分をしばっていたこと\" = điều mình coi là thường thức. Đáp án là cách diễn đạt lại."
+      }
+    }
+  ]
+}

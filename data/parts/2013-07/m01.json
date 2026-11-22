@@ -1,0 +1,140 @@
+{
+  "exam": "2013-07",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "新聞を読めば、<u>世の中</u>の動きを知ることができる。",
+      "options": ["よのなか", "せのなか", "ようのなか", "せいのなか"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nếu đọc báo thì có thể biết được những chuyển động của xã hội (thế gian).",
+        "why": "世の中 đọc là よのなか = xã hội, thế gian. Ở từ này 世 đọc âm Kun là よ (như 世の中, この世), không đọc âm On せ/せい.",
+        "options": [
+          "よのなか → 世の中: xã hội, thế gian. ĐÚNG.",
+          "せのなか → không có từ này (せ là âm On của 世 như 世界 せかい). Sai.",
+          "ようのなか → không có từ này. Sai.",
+          "せいのなか → không có từ này (せい như 世紀 せいき). Sai."
+        ],
+        "vocab": [
+          { "w": "世の中", "r": "よのなか", "hv": "THẾ TRUNG", "vi": "xã hội, thế gian, cuộc đời" },
+          { "w": "動き", "r": "うごき", "hv": "ĐỘNG", "vi": "sự chuyển động, động thái" },
+          { "w": "世界", "r": "せかい", "hv": "THẾ GIỚI", "vi": "thế giới" },
+          { "w": "世紀", "r": "せいき", "hv": "THẾ KỶ", "vi": "thế kỷ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "世 có 3 cách đọc: よ (世の中), せ (世界, 世間), せい (世紀)."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "新入生をサークルに<u>勧誘</u>した。",
+      "options": ["かんゆ", "かんげい", "かんゆう", "かんげ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi đã mời gọi (rủ) sinh viên mới vào câu lạc bộ.",
+        "why": "勧誘 đọc là かんゆう (KHUYẾN DỤ) = mời gọi, rủ tham gia. 誘 đọc âm On là ゆう (trường âm), giống 誘惑 ゆうわく.",
+        "options": [
+          "かんゆ → thiếu trường âm う. Sai.",
+          "かんげい → 歓迎: hoan nghênh, chào đón. Sai.",
+          "かんゆう → 勧誘: mời gọi, chiêu mộ. ĐÚNG.",
+          "かんげ → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "勧誘", "r": "かんゆう", "hv": "KHUYẾN DỤ", "vi": "mời gọi, rủ rê, chiêu mộ" },
+          { "w": "新入生", "r": "しんにゅうせい", "hv": "TÂN NHẬP SINH", "vi": "học sinh/sinh viên mới vào" },
+          { "w": "歓迎", "r": "かんげい", "hv": "HOAN NGHÊNH", "vi": "hoan nghênh, chào đón" },
+          { "w": "誘う", "r": "さそう", "hv": "DỤ", "vi": "rủ, mời" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "誘 = ゆう (có trường âm). Đừng nhầm 勧誘 (mời gọi) với 歓迎 (chào đón)."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "当日必要な資料などについても<u>改めて</u>ご連絡します。",
+      "options": ["たしかめて", "あらためて", "まとめて", "ふくめて"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Về các tài liệu cần thiết trong ngày hôm đó, chúng tôi cũng sẽ liên lạc lại (vào dịp khác).",
+        "why": "改めて đọc là あらためて = lại lần nữa, vào dịp khác. Động từ gốc 改める (あらためる) = sửa đổi, đổi mới.",
+        "options": [
+          "たしかめて → 確かめて: xác nhận, kiểm tra. Sai.",
+          "あらためて → 改めて: lại, một lần nữa (vào dịp khác). ĐÚNG.",
+          "まとめて → まとめて: gộp lại, tổng hợp. Sai.",
+          "ふくめて → 含めて: bao gồm. Sai."
+        ],
+        "vocab": [
+          { "w": "改めて", "r": "あらためて", "hv": "CẢI", "vi": "lại lần nữa, vào dịp khác" },
+          { "w": "改める", "r": "あらためる", "hv": "CẢI", "vi": "sửa đổi, thay đổi" },
+          { "w": "当日", "r": "とうじつ", "hv": "ĐƯƠNG NHẬT", "vi": "ngày hôm đó" },
+          { "w": "資料", "r": "しりょう", "hv": "TƯ LIỆU", "vi": "tài liệu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "改めてご連絡します là câu cố định trong thư từ công việc: 'sẽ liên lạc lại sau'."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "海外市場に進出するために販売部門を<u>拡充</u>した。",
+      "options": ["こうじゅ", "かくじゅ", "こうじゅう", "かくじゅう"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Để thâm nhập thị trường nước ngoài, công ty đã mở rộng (tăng cường) bộ phận bán hàng.",
+        "why": "拡充 đọc là かくじゅう (KHUẾCH SUNG) = mở rộng và làm đầy đủ hơn. 拡 = かく (拡大 かくだい), 充 = じゅう (充実 じゅうじつ) có trường âm.",
+        "options": [
+          "こうじゅ → 拡 không đọc こう, 充 thiếu trường âm. Sai.",
+          "かくじゅ → thiếu trường âm (じゅう). Sai.",
+          "こうじゅう → 拡 không đọc こう (dễ nhầm với 広 こう). Sai.",
+          "かくじゅう → 拡充: mở rộng, tăng cường. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "拡充", "r": "かくじゅう", "hv": "KHUẾCH SUNG", "vi": "mở rộng, tăng cường" },
+          { "w": "進出", "r": "しんしゅつ", "hv": "TIẾN XUẤT", "vi": "thâm nhập, mở rộng ra" },
+          { "w": "販売部門", "r": "はんばいぶもん", "hv": "PHIẾN MẠI BỘ MÔN", "vi": "bộ phận bán hàng" },
+          { "w": "充実", "r": "じゅうじつ", "hv": "SUNG THỰC", "vi": "đầy đủ, phong phú" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "充 luôn là じゅう: 充実, 充電 (じゅうでん), 充分 (じゅうぶん)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "教師は生徒の<u>模範</u>となるような行動をとるべきだ。",
+      "options": ["もうほん", "もうはん", "もほん", "もはん"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Giáo viên nên có hành động sao cho trở thành tấm gương cho học sinh.",
+        "why": "模範 đọc là もはん (MÔ PHẠM) = tấm gương, khuôn mẫu. 模 đọc も (ngắn), 範 đọc はん (như 範囲 はんい).",
+        "options": [
+          "もうほん → sai cả hai âm. Sai.",
+          "もうはん → 模 không có trường âm. Sai.",
+          "もほん → 範 đọc はん, không phải ほん. Sai.",
+          "もはん → 模範: tấm gương, hình mẫu. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "模範", "r": "もはん", "hv": "MÔ PHẠM", "vi": "tấm gương, hình mẫu" },
+          { "w": "範囲", "r": "はんい", "hv": "PHẠM VI", "vi": "phạm vi" },
+          { "w": "模型", "r": "もけい", "hv": "MÔ HÌNH", "vi": "mô hình" },
+          { "w": "行動", "r": "こうどう", "hv": "HÀNH ĐỘNG", "vi": "hành động" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "模 = も (模範, 模型) nhưng = ぼ trong 規模 (きぼ). Không có もう."
+      }
+    }
+  ]
+}

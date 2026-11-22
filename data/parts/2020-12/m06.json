@@ -1,0 +1,164 @@
+{
+  "exam": "2020-12",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn câu sử dụng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "初期",
+      "options": [
+        "曲の<u>初期</u>の部分を聞いただけで、題名が何かわかりました。",
+        "この建物は有名な建築物で、明治時代の<u>初期</u>に建てられました。",
+        "池田選手は、試合の<u>初期</u>では負けていたが、最後には勝つことができた。",
+        "今日は朝から雲に覆われ、<u>初期</u>は雨だったが、途中から雪に変わった。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Câu 2) Tòa nhà này là công trình kiến trúc nổi tiếng, được xây vào đầu thời Minh Trị.",
+        "why": "初期 (しょき) = thời kỳ đầu của một giai đoạn dài (thời đại, bệnh tật, sự nghiệp...). 明治時代の初期 là cách dùng chuẩn.",
+        "options": [
+          "Phần mở đầu bài hát → phải dùng 最初・初め・出だし (曲の出だし). Sai.",
+          "明治時代の初期: đầu thời Minh Trị. ĐÚNG.",
+          "Đầu trận đấu (thời gian ngắn) → dùng 序盤 (じょばん) hoặc 最初. Sai.",
+          "Lúc đầu (trong một ngày) → dùng 初めは・最初は. Sai."
+        ],
+        "vocab": [
+          { "w": "初期", "r": "しょき", "hv": "SƠ KỲ", "vi": "thời kỳ đầu" },
+          { "w": "序盤", "r": "じょばん", "hv": "TỰ BÀN", "vi": "giai đoạn mở đầu (trận đấu)" },
+          { "w": "建築物", "r": "けんちくぶつ", "hv": "KIẾN TRÚC VẬT", "vi": "công trình kiến trúc" },
+          { "w": "覆う", "r": "おおう", "hv": "PHÚC", "vi": "che phủ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "初期 đi với giai đoạn dài: 江戸時代初期・病気の初期・初期設定 (cài đặt ban đầu)."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "打ち明ける",
+      "options": [
+        "仕事でわからないことがあれば、彼が何でも<u>打ち明けて</u>くれます。",
+        "谷口さんが戻ってきたら、伝言を<u>打ち明けて</u>おいてもらえますか。",
+        "大事な情報はすぐに上司に<u>打ち明けましょう</u>。",
+        "ずっと秘密にしていたことを友達に<u>打ち明けた</u>。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "(Câu 4) Tôi đã thổ lộ với bạn điều mà tôi giữ bí mật suốt bấy lâu.",
+        "why": "打ち明ける (うちあける) = thổ lộ, tâm sự điều thầm kín/bí mật mà trước giờ chưa nói. Đi với 秘密・悩み・本心.",
+        "options": [
+          "Chỉ dạy việc không hiểu → dùng 教える. Sai.",
+          "Truyền lời nhắn → dùng 伝える. Sai.",
+          "Báo cáo thông tin cho cấp trên → dùng 報告する・伝える. Sai.",
+          "秘密を打ち明ける: thổ lộ bí mật. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "打ち明ける", "r": "うちあける", "hv": "ĐẢ MINH", "vi": "thổ lộ, tâm sự" },
+          { "w": "秘密", "r": "ひみつ", "hv": "BÍ MẬT", "vi": "bí mật" },
+          { "w": "伝言", "r": "でんごん", "hv": "TRUYỀN NGÔN", "vi": "lời nhắn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đối tượng của 打ち明ける luôn là chuyện riêng tư, khó nói."
+      }
+    },
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "欠陥",
+      "options": [
+        "あの人の<u>欠陥</u>は、自分に都合の悪いことがあるとうそをつくことだ。",
+        "眼鏡のレンズを硬い布でふいたら、<u>欠陥</u>がついてしまった。",
+        "先月発表された車のブレーキに<u>欠陥</u>が見つかり、販売が中止された。",
+        "このサービスを利用することの<u>欠陥</u>は費用が非常にかかることだ。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "(Câu 3) Phát hiện lỗi ở phanh của mẫu xe công bố tháng trước nên việc bán đã bị dừng lại.",
+        "why": "欠陥 (けっかん) = khuyết tật, lỗi kỹ thuật trong cấu tạo của sản phẩm, máy móc, hệ thống.",
+        "options": [
+          "Khuyết điểm tính cách của người → dùng 欠点 (けってん)・短所. Sai.",
+          "Vết xước trên kính → dùng 傷 (きず). Sai.",
+          "ブレーキに欠陥: lỗi ở phanh. ĐÚNG.",
+          "Điểm bất lợi của dịch vụ → dùng 欠点・デメリット. Sai."
+        ],
+        "vocab": [
+          { "w": "欠陥", "r": "けっかん", "hv": "KHIẾM HÃM", "vi": "khuyết tật, lỗi (sản phẩm)" },
+          { "w": "欠点", "r": "けってん", "hv": "KHIẾM ĐIỂM", "vi": "khuyết điểm" },
+          { "w": "傷", "r": "きず", "hv": "THƯƠNG", "vi": "vết xước, vết thương" },
+          { "w": "販売", "r": "はんばい", "hv": "PHIẾN MẠI", "vi": "bán hàng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "欠陥商品・欠陥住宅 (hàng lỗi, nhà lỗi). Người thì dùng 欠点."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "引退",
+      "options": [
+        "山本さんは去年入学したばかりの大学を<u>引退</u>し、別の大学を受験するらしい。",
+        "これまで多くの名作を残した映画監督が、今回限りで<u>引退</u>することを発表した。",
+        "この書店はもうすぐ商店街から<u>引退</u>し、駅前のビルの中で店を始めるらしい。",
+        "中村選手は前大会でのけがが回復せず、次の試合への出場を<u>引退</u>した。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Câu 2) Vị đạo diễn đã để lại nhiều kiệt tác tuyên bố sẽ giải nghệ sau lần này.",
+        "why": "引退 (いんたい) = giải nghệ, rút lui khỏi sự nghiệp/vị trí hoạt động lâu dài (vận động viên, nghệ sĩ, chính trị gia).",
+        "options": [
+          "Bỏ trường đại học → dùng 退学 (たいがく)・中退. Sai.",
+          "映画監督が引退する: đạo diễn giải nghệ. ĐÚNG.",
+          "Cửa hàng rời khu phố → dùng 移転 (いてん)・撤退. Sai.",
+          "Không tham gia trận đấu → dùng 欠場 (けつじょう)・辞退. Sai."
+        ],
+        "vocab": [
+          { "w": "引退", "r": "いんたい", "hv": "DẪN THOÁI", "vi": "giải nghệ, nghỉ hưu (khỏi sự nghiệp)" },
+          { "w": "退学", "r": "たいがく", "hv": "THOÁI HỌC", "vi": "thôi học" },
+          { "w": "移転", "r": "いてん", "hv": "DI CHUYỂN", "vi": "chuyển địa điểm" },
+          { "w": "欠場", "r": "けつじょう", "hv": "KHIẾM TRƯỜNG", "vi": "vắng mặt (không thi đấu)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "辞退 (じたい) = từ chối, rút khỏi (出場を辞退する)."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "ぎっしり",
+      "options": [
+        "大きな箱に本がぎっしり詰まっている。",
+        "ジュースがコップにぎっしり入っている。",
+        "少し太ったせいで、ズボンがぎっしりしている。",
+        "朝の電車はいつも人でぎっしりしている。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "(Câu 1) Sách được xếp chật kín trong chiếc thùng lớn.",
+        "why": "ぎっしり = (đồ vật) được nhét/xếp chặt kín không còn kẽ hở; hay đi với 詰まる・詰める. Thường dùng như phó từ, không dùng dạng ぎっしりしている.",
+        "options": [
+          "本がぎっしり詰まっている: sách nhét chật kín. ĐÚNG.",
+          "Chất lỏng đầy cốc → dùng なみなみ・いっぱい. Sai.",
+          "Quần bị chật → dùng きつい・きつくなる. Sai.",
+          "Tàu đông nghẹt người → dùng 混んでいる・ぎゅうぎゅう. Sai."
+        ],
+        "vocab": [
+          { "w": "ぎっしり", "r": "ぎっしり", "hv": "", "vi": "chật kín, đầy ắp (không kẽ hở)" },
+          { "w": "詰まる", "r": "つまる", "hv": "CẬT", "vi": "bị nhét đầy, tắc" },
+          { "w": "なみなみ", "r": "なみなみ", "hv": "", "vi": "(chất lỏng) đầy tràn" },
+          { "w": "きつい", "r": "きつい", "hv": "", "vi": "chật, khắt khe" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "予定がぎっしり詰まっている = lịch kín mít."
+      }
+    }
+  ]
+}

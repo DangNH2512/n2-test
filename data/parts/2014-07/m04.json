@@ -1,0 +1,187 @@
+{
+  "exam": "2014-07",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống (theo ngữ cảnh).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "子どものいたずらにいちいち（　　）を立てても仕方がない。",
+      "options": ["気", "頭", "腹", "心"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Có nổi giận với từng trò nghịch ngợm của trẻ con thì cũng chẳng ích gì.",
+        "why": "腹を立てる(はらをたてる) là quán ngữ = nổi giận, tức giận. Chỉ 腹 kết hợp được với を立てる theo nghĩa này.",
+        "options": [
+          "気 → 気が立つ (bực bội, căng thẳng) chứ không nói 気を立てる. Sai.",
+          "頭 → 頭に来る (tức điên) chứ không nói 頭を立てる. Sai.",
+          "腹 → 腹を立てる: nổi giận. ĐÚNG.",
+          "心 → không có cụm 心を立てる. Sai."
+        ],
+        "vocab": [
+          { "w": "腹を立てる", "r": "はらをたてる", "hv": "PHÚC", "vi": "nổi giận" },
+          { "w": "いたずら", "r": "いたずら", "hv": "", "vi": "trò nghịch ngợm" },
+          { "w": "仕方がない", "r": "しかたがない", "hv": "SĨ PHƯƠNG", "vi": "chẳng làm gì được, vô ích" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bộ quán ngữ 'giận': 腹を立てる／腹が立つ／頭に来る／かっとなる."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "A社が開発した商品管理システムは評価が高く、多くの会社に（　　）されている。",
+      "options": ["導入", "引用", "吸収", "移行"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hệ thống quản lý hàng hóa do công ty A phát triển được đánh giá cao và đang được nhiều công ty đưa vào sử dụng.",
+        "why": "導入(どうにゅう) = đưa vào áp dụng (hệ thống, thiết bị, chế độ mới). システムを導入する là collocation chuẩn.",
+        "options": [
+          "導入 → đưa vào sử dụng, áp dụng. ĐÚNG.",
+          "引用 → いんよう: trích dẫn (câu văn). Sai.",
+          "吸収 → きゅうしゅう: hấp thụ, sáp nhập. Sai.",
+          "移行 → いこう: chuyển sang (chế độ/hệ thống mới); 'được chuyển sang' không hợp với 会社に. Sai."
+        ],
+        "vocab": [
+          { "w": "導入", "r": "どうにゅう", "hv": "ĐẠO NHẬP", "vi": "đưa vào, áp dụng" },
+          { "w": "開発", "r": "かいはつ", "hv": "KHAI PHÁT", "vi": "phát triển, khai thác" },
+          { "w": "評価", "r": "ひょうか", "hv": "BÌNH GIÁ", "vi": "đánh giá" },
+          { "w": "移行", "r": "いこう", "hv": "DI HÀNH", "vi": "chuyển đổi sang" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Collocation: システム／制度／機械を導入する."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "工事の音が（　　）、全然眠れない。",
+      "options": ["しつこくて", "ずうずうしくて", "やかましくて", "けわしくて"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tiếng công trình ồn ào quá nên tôi hoàn toàn không ngủ được.",
+        "why": "やかましい = ồn ào, inh ỏi (âm thanh to gây khó chịu). Chủ ngữ là 音 (âm thanh) nên chỉ やかましい hợp.",
+        "options": [
+          "しつこい → dai dẳng, lằng nhằng (người, mùi, vị). Không dùng tả độ ồn. Sai.",
+          "ずうずうしい → trơ trẽn, mặt dày (tính cách người). Sai.",
+          "やかましい → ồn ào. ĐÚNG.",
+          "けわしい → 険しい: dốc, hiểm trở; (vẻ mặt) nghiêm khắc. Sai."
+        ],
+        "vocab": [
+          { "w": "やかましい", "r": "やかましい", "hv": "", "vi": "ồn ào; khó tính, hay càu nhàu" },
+          { "w": "工事", "r": "こうじ", "hv": "CÔNG SỰ", "vi": "công trình, thi công" },
+          { "w": "険しい", "r": "けわしい", "hv": "HIỂM", "vi": "dốc, hiểm trở" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "やかましい ≈ うるさい ≈ さわがしい (ồn)."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "自転車のタイヤが（　　）して、空気が抜けていた。",
+      "options": ["ストライキ", "パンク", "ダウン", "ミス"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Lốp xe đạp bị thủng nên đã xì hết hơi.",
+        "why": "パンク(する) = (lốp) bị thủng, xì. Đi với タイヤ và 空気が抜ける là hợp lý.",
+        "options": [
+          "ストライキ → đình công. Sai.",
+          "パンク → thủng lốp. ĐÚNG.",
+          "ダウン → ngã, sập; ốm gục; giảm. Sai.",
+          "ミス → lỗi, sai sót. Sai."
+        ],
+        "vocab": [
+          { "w": "パンク", "r": "パンク", "hv": "", "vi": "thủng lốp (puncture)" },
+          { "w": "空気が抜ける", "r": "くうきがぬける", "hv": "KHÔNG KHÍ BẠT", "vi": "xì hơi" },
+          { "w": "自転車", "r": "じてんしゃ", "hv": "TỰ CHUYỂN XA", "vi": "xe đạp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "パンク từ puncture (không phải punk)."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "セミナーの日の朝は準備の時間がないので、資料は（　　）コピーしておいてください。",
+      "options": ["遅くとも", "あらかじめ", "とっくに", "先々"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Sáng hôm hội thảo không có thời gian chuẩn bị nên hãy photo tài liệu trước.",
+        "why": "あらかじめ = trước, sẵn (chuẩn bị trước khi sự việc xảy ra). Rất hay đi với ～ておく (あらかじめコピーしておく).",
+        "options": [
+          "遅くとも → chậm nhất là (cần đi kèm mốc thời gian: 遅くとも3時までに). Sai.",
+          "あらかじめ → trước, sẵn. ĐÚNG.",
+          "とっくに → đã từ lâu rồi (dùng với quá khứ/kết quả đã xong). Sai.",
+          "先々 → さきざき: tương lai xa; khắp nơi đến. Sai."
+        ],
+        "vocab": [
+          { "w": "あらかじめ", "r": "あらかじめ", "hv": "", "vi": "trước, sẵn" },
+          { "w": "資料", "r": "しりょう", "hv": "TƯ LIỆU", "vi": "tài liệu" },
+          { "w": "準備", "r": "じゅんび", "hv": "CHUẨN BỊ", "vi": "chuẩn bị" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "あらかじめ (予め) ≈ 前もって ≈ 事前に."
+      }
+    },
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "山口さんは柔道をしているので、がっしりした（　　）をしている。",
+      "options": ["体格", "姿勢", "格好", "容姿"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Anh Yamaguchi tập judo nên có thân hình vạm vỡ.",
+        "why": "体格(たいかく) = vóc dáng, thể hình (cơ thể to/khỏe). がっしりした体格 = thân hình vạm vỡ, chắc nịch; mẫu ～な体格をしている.",
+        "options": [
+          "体格 → vóc dáng, thể hình. ĐÚNG.",
+          "姿勢 → しせい: tư thế; thái độ. Sai.",
+          "格好 → かっこう: dáng vẻ bề ngoài, ăn mặc. Không nói がっしりした格好. Sai.",
+          "容姿 → ようし: dung mạo, nhan sắc. Sai."
+        ],
+        "vocab": [
+          { "w": "体格", "r": "たいかく", "hv": "THỂ CÁCH", "vi": "vóc dáng, thể hình" },
+          { "w": "がっしり", "r": "がっしり", "hv": "", "vi": "vạm vỡ, chắc nịch" },
+          { "w": "柔道", "r": "じゅうどう", "hv": "NHU ĐẠO", "vi": "judo" },
+          { "w": "姿勢", "r": "しせい", "hv": "TƯ THẾ", "vi": "tư thế; thái độ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "がっしり／たくましい／立派な + 体格."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "こんなに夜遅くまでおきていると、明日の仕事に（　　）よ。",
+      "options": ["かかわり合う", "割り込む", "引っかかる", "差し支える"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Thức khuya thế này thì sẽ ảnh hưởng đến công việc ngày mai đấy.",
+        "why": "～に差し支える(さしつかえる) = gây trở ngại, ảnh hưởng xấu đến ~. 仕事に差し支える là cụm cố định.",
+        "options": [
+          "かかわり合う → dính líu, liên quan với nhau. Sai.",
+          "割り込む → chen ngang, chen vào. Sai.",
+          "引っかかる → bị mắc, vướng; bị lừa. Sai.",
+          "差し支える → gây trở ngại. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "差し支える", "r": "さしつかえる", "hv": "SAI CHI", "vi": "gây trở ngại, ảnh hưởng xấu" },
+          { "w": "差し支えない", "r": "さしつかえない", "hv": "SAI CHI", "vi": "không sao, không có vấn đề gì" },
+          { "w": "割り込む", "r": "わりこむ", "hv": "CÁT NHẬP", "vi": "chen ngang" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Lịch sự: 差し支えなければ… = nếu không phiền thì…"
+      }
+    }
+  ]
+}

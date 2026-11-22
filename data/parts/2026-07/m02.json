@@ -1,0 +1,135 @@
+{
+  "exam": "2026-07",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết Kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "十分な<u>すいみん</u>を確保する。",
+      "options": ["垂眼", "垂眠", "睡眼", "睡眠"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đảm bảo ngủ đủ giấc.",
+        "why": "すいみん = 睡眠 (THỤY MIÊN) = giấc ngủ. Cả hai chữ đều có bộ 目 (mắt) liên quan đến ngủ: 睡 (ngủ gật), 眠 (ngủ).",
+        "options": [
+          "垂眼 → 垂 (THÙY: rủ xuống) + 眼 (NHÃN: mắt). Không có từ này. Sai.",
+          "垂眠 → 垂 sai chữ (thiếu bộ 目). Sai.",
+          "睡眼 → 眼 là mắt (がん), không phải ngủ. Sai.",
+          "睡眠 → giấc ngủ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "睡眠", "r": "すいみん", "hv": "THỤY MIÊN", "vi": "giấc ngủ" },
+          { "w": "確保", "r": "かくほ", "hv": "XÁC BẢO", "vi": "đảm bảo, giữ được" },
+          { "w": "眠る", "r": "ねむる", "hv": "MIÊN", "vi": "ngủ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "睡 = 目 + 垂 (mí mắt rủ xuống → buồn ngủ). 眠 = 目 + 民."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "未来のために、<u>しげん</u>を大切にしよう。",
+      "options": ["資源", "自然", "資然", "自源"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Vì tương lai, hãy trân trọng tài nguyên.",
+        "why": "しげん = 資源 (TƯ NGUYÊN) = tài nguyên. 資 (し: vốn, tư liệu) + 源 (げん: nguồn).",
+        "options": [
+          "資源 → tài nguyên. ĐÚNG.",
+          "自然 → しぜん: thiên nhiên (đọc khác). Sai.",
+          "資然 → không có từ này. Sai.",
+          "自源 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "資源", "r": "しげん", "hv": "TƯ NGUYÊN", "vi": "tài nguyên" },
+          { "w": "未来", "r": "みらい", "hv": "VỊ LAI", "vi": "tương lai" },
+          { "w": "自然", "r": "しぜん", "hv": "TỰ NHIÊN", "vi": "thiên nhiên" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "源 = げん/みなもと (nguồn): 電源 でんげん, 起源 きげん."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "野菜ジュースを飲んで栄養を<u>おぎなう</u>。",
+      "options": ["哺う", "捕う", "補う", "浦う"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Uống nước ép rau để bổ sung dinh dưỡng.",
+        "why": "おぎなう = 補う (BỔ) = bù đắp, bổ sung. Bộ 衤 (y phục) — ý gốc là vá áo → bù vào chỗ thiếu.",
+        "options": [
+          "哺う → 哺 (BỘ: mớm, cho bú, như 哺乳). Sai.",
+          "捕う → 捕 (BỘ: bắt, như 捕まえる). Sai.",
+          "補う → bổ sung, bù đắp. ĐÚNG.",
+          "浦う → 浦 (PHỐ: bờ biển, vịnh). Sai."
+        ],
+        "vocab": [
+          { "w": "補う", "r": "おぎなう", "hv": "BỔ", "vi": "bổ sung, bù đắp" },
+          { "w": "栄養", "r": "えいよう", "hv": "VINH DƯỠNG", "vi": "dinh dưỡng" },
+          { "w": "捕まえる", "r": "つかまえる", "hv": "BỘ", "vi": "bắt, tóm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "4 chữ cùng phần 甫, phân biệt bằng bộ: 衤 = vá (補), 扌 = bắt (捕), 口 = mớm (哺), 氵 = bờ nước (浦)."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "親戚のおじさんに<u>せっきょう</u>された。",
+      "options": ["説教", "説強", "節教", "節強"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi bị ông chú họ hàng giảng đạo lý (lên lớp, mắng) một trận.",
+        "why": "せっきょう = 説教 (THUYẾT GIÁO) = giảng giải, lên lớp, răn dạy. 説 (せつ: nói, giải thích) + 教 (きょう: dạy).",
+        "options": [
+          "説教 → thuyết giáo, lên lớp. ĐÚNG.",
+          "説強 → 強 (きょう: mạnh) sai nghĩa. Sai.",
+          "節教 → 節 (せつ: tiết, đốt) sai nghĩa. Sai.",
+          "節強 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "説教", "r": "せっきょう", "hv": "THUYẾT GIÁO", "vi": "giảng đạo lý, lên lớp, răn dạy" },
+          { "w": "親戚", "r": "しんせき", "hv": "THÂN THÍCH", "vi": "họ hàng" },
+          { "w": "節約", "r": "せつやく", "hv": "TIẾT ƯỚC", "vi": "tiết kiệm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "説 (giải thích: 説明) + 教 (dạy) → nói để dạy dỗ. 節 dùng trong 節約, 季節."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "佐藤さんは<u>あざやか</u>な色のシャツを着ていた。",
+      "options": ["明やか", "鮮やか", "照やか", "清やか"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh Sato mặc chiếc áo sơ mi màu sặc sỡ (rực rỡ).",
+        "why": "あざやか = 鮮やか (TIÊN) = tươi sáng, rực rỡ, nổi bật. 鮮 cũng có trong 新鮮 (しんせん: tươi).",
+        "options": [
+          "明やか → không có cách viết này (明るい = sáng). Sai.",
+          "鮮やか → rực rỡ, tươi sáng. ĐÚNG.",
+          "照やか → không có từ này (照る = chiếu sáng). Sai.",
+          "清やか → không dùng (清らか きよらか = trong trẻo). Sai."
+        ],
+        "vocab": [
+          { "w": "鮮やか", "r": "あざやか", "hv": "TIÊN", "vi": "rực rỡ, tươi sáng; điêu luyện" },
+          { "w": "新鮮", "r": "しんせん", "hv": "TÂN TIÊN", "vi": "tươi mới" },
+          { "w": "清らか", "r": "きよらか", "hv": "THANH", "vi": "trong sạch, trong trẻo" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "鮮 = 魚 + 羊: cá và thịt tươi → tươi, rực rỡ."
+      }
+    }
+  ]
+}

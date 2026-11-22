@@ -1,0 +1,159 @@
+{
+  "exam": "2016-07",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、50 から 54 の中に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án thích hợp nhất cho các chỗ trống từ 50 đến 54.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "25時",
+      "text": "以下は、留学生の作文である。\n\n25時\nロベズ エドガー\n\n先日、サッカーの日本代表が海外で試合を行い、その試合が深夜にテレビで生中継された。生中継が始まる前に、放送は何時からか確認しようとインターネットで調べて驚いた。あるサイトに「金曜25時放送」と書いてあったのだ。一日は（50）。知人に聞いて、「金曜25時」というのは土曜の午前1時のことだと知った。「25時」のような表現は、店の営業時間の掲示などでも見るという。なぜ、午前1時を「25時」と表現するのだろうか。\n（51）表現を使い始めたのはテレビ局だとする説が有力だ。日本の多くのテレビ局では、朝4時前後に一日の放送が始まり、そこからの24時間を一日と考える。つまり、テレビ局にとっては、夜の0時が一日の終わりではない。22時、23時ときたら、その次は0時ではなく24時で、午前1時は25時なのである。このようにして「25時」という表現が（52）。\n現代の日本社会は夜型化が進み、午前0時を過ぎても活動している人が多い。だから、午前0時を過ぎても「今日」は続く。（53）、「起きてから寝るまでが今日」だと考えれば、翌日の午前1時ではなく、その日の25時と表現したほうが的確かもしれない。私も、土曜の午前1時に見た番組は金曜の夜に見たという感じがするので、金曜25時と考えたほうが実際の感覚に近い気もする。生活の夜型化と「寝るまでが今日」という考え方が、24時間しかない一日に「25時」を（54）。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["24時間なのか", "24時間ではないのか", "24時間といえるか", "24時間だっただろうか"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Một ngày chẳng phải là 24 tiếng sao?",
+        "why": "Tác giả ngạc nhiên khi thấy '25時'. Câu phản vấn 「一日は24時間ではないのか」 (một ngày chẳng phải là 24 tiếng sao?) thể hiện đúng sự ngạc nhiên đó – vì ai cũng biết một ngày có 24 giờ.",
+        "options": [
+          "24時間なのか → 'một ngày là 24 tiếng à?' – như thể mới biết, không hợp. Sai.",
+          "24時間ではないのか → 'chẳng phải là 24 tiếng sao?' – phản vấn thể hiện ngạc nhiên. ĐÚNG.",
+          "24時間といえるか → 'có thể nói là 24 tiếng không?' – nghi ngờ định nghĩa, lệch ý. Sai.",
+          "24時間だっただろうか → 'đã từng là 24 tiếng chăng?' – thì quá khứ không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "生中継", "r": "なまちゅうけい", "hv": "SINH TRUNG KẾ", "vi": "truyền hình trực tiếp" },
+          { "w": "深夜", "r": "しんや", "hv": "THÂM DẠ", "vi": "đêm khuya" },
+          { "w": "知人", "r": "ちじん", "hv": "TRI NHÂN", "vi": "người quen" }
+        ],
+        "grammar": {
+          "pattern": "～ではないのか",
+          "meaning": "chẳng phải là ~ sao? (phản vấn, ngạc nhiên/nghi ngờ)",
+          "form": "N/普通形 + ではないのか",
+          "example": "約束は3時ではないのか。まだ誰も来ていない。"
+        },
+        "evidence": "あるサイトに「金曜25時放送」と書いてあったのだ。一日は（50）。",
+        "tip": null
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["こういう", "それ以外の", "同じ", "次のような"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Có giả thuyết mạnh cho rằng chính các đài truyền hình là bên bắt đầu sử dụng cách diễn đạt như thế này.",
+        "why": "Ngay trước đó tác giả đã nói về cách diễn đạt '25時'. こういう表現 = cách diễn đạt như thế này (chỉ lại cái vừa nhắc tới).",
+        "options": [
+          "こういう → chỉ lại '25時' vừa nói. ĐÚNG.",
+          "それ以外の → 'cách diễn đạt khác ngoài cái đó' – sai, đoạn sau vẫn nói về 25時. Sai.",
+          "同じ → 'cùng cách diễn đạt' – không có đối tượng so sánh. Sai.",
+          "次のような → 'như sau đây' – nhưng phía sau không liệt kê biểu hiện. Sai."
+        ],
+        "vocab": [
+          { "w": "表現", "r": "ひょうげん", "hv": "BIỂU HIỆN", "vi": "cách diễn đạt" },
+          { "w": "説", "r": "せつ", "hv": "THUYẾT", "vi": "giả thuyết, thuyết" },
+          { "w": "有力", "r": "ゆうりょく", "hv": "HỮU LỰC", "vi": "có sức thuyết phục, mạnh" }
+        ],
+        "grammar": null,
+        "evidence": "なぜ、午前1時を「25時」と表現するのだろうか。（51）表現を使い始めたのはテレビ局だとする説が有力だ。",
+        "tip": "こういう/そういう chỉ lại nội dung vừa đề cập; 次のような chỉ nội dung sắp tới."
+      }
+    },
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "（52）に入るもの",
+      "options": ["生まれることになっている", "生まれたとしよう", "生まれるといわれていた", "生まれたらしい"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Có vẻ cách diễn đạt '25時' đã ra đời theo cách như vậy.",
+        "why": "Đoạn này trình bày một 'giả thuyết' (説が有力だ), không phải sự thật chắc chắn → kết luận bằng phỏng đoán dựa trên thông tin: 生まれたらしい (hình như đã ra đời).",
+        "options": [
+          "生まれることになっている → 'theo quy định sẽ ra đời' – không hợp. Sai.",
+          "生まれたとしよう → 'giả sử đã ra đời' – không phải giả định. Sai.",
+          "生まれるといわれていた → 'trước đây người ta nói là sẽ ra đời' – sai thì, lệch nghĩa. Sai.",
+          "生まれたらしい → hình như đã ra đời (dựa trên giả thuyết nghe được). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "このようにして", "r": "このようにして", "hv": "", "vi": "bằng cách như thế này" },
+          { "w": "テレビ局", "r": "テレビきょく", "hv": "CỤC", "vi": "đài truyền hình" }
+        ],
+        "grammar": {
+          "pattern": "～らしい",
+          "meaning": "hình như, nghe nói (phỏng đoán dựa trên thông tin bên ngoài)",
+          "form": "普通形 (Nだ→N) + らしい",
+          "example": "天気予報によると、明日は雨らしい。"
+        },
+        "evidence": "表現を使い始めたのはテレビ局だとする説が有力だ。…このようにして「25時」という表現が（52）。",
+        "tip": "説 (giả thuyết) → kết luận không chắc chắn → らしい/ようだ."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p1",
+      "stem": "（53）に入るもの",
+      "options": ["ただ", "一方", "確かに", "それでも"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Quả thật, nếu nghĩ rằng 'từ lúc thức dậy đến lúc đi ngủ là hôm nay' thì có lẽ nói là 25 giờ của ngày đó sẽ chính xác hơn là 1 giờ sáng ngày hôm sau.",
+        "why": "確かに～かもしれない = quả thật có lẽ ~ (đồng tình với một ý). Câu trước nói 'qua 0 giờ thì hôm nay vẫn tiếp tục', câu này tán thành và mở rộng ý đó → 確かに.",
+        "options": [
+          "ただ → 'tuy nhiên' (bổ sung hạn chế) – câu sau không phải là hạn chế. Sai.",
+          "一方 → 'mặt khác' (đối lập) – không có đối lập. Sai.",
+          "確かに → quả thật (tán thành, đi với かもしれない). ĐÚNG.",
+          "それでも → 'dù vậy' – trái ngược, không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "夜型化", "r": "よるがたか", "hv": "DẠ HÌNH HÓA", "vi": "xu hướng sống về đêm" },
+          { "w": "的確", "r": "てきかく", "hv": "ĐÍCH XÁC", "vi": "chính xác, xác đáng" },
+          { "w": "翌日", "r": "よくじつ", "hv": "DỰC NHẬT", "vi": "ngày hôm sau" }
+        ],
+        "grammar": {
+          "pattern": "確かに～かもしれない",
+          "meaning": "quả thật có lẽ ~ (thừa nhận một quan điểm)",
+          "form": "確かに + 普通形 + かもしれない",
+          "example": "確かに値段は高いかもしれないが、品質はいい。"
+        },
+        "evidence": "だから、午前0時を過ぎても「今日」は続く。（53）、「起きてから寝るまでが今日」だと考えれば、…その日の25時と表現したほうが的確かもしれない。",
+        "tip": "Thấy かもしれない ở cuối câu → 確かに là ứng viên mạnh."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p1",
+      "stem": "（54）に入るもの",
+      "options": ["作ったからだ", "作ったのだろう", "作ったこともある", "作ったほどだ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Có lẽ chính lối sống về đêm và suy nghĩ 'đến lúc ngủ vẫn là hôm nay' đã tạo ra '25 giờ' trong một ngày vốn chỉ có 24 giờ.",
+        "why": "Câu kết luận của bài, tác giả đưa ra suy luận/nhận định của mình → 作ったのだろう (có lẽ đã tạo ra). Không có vế lý do nên không dùng からだ.",
+        "options": [
+          "作ったからだ → 'là vì đã tạo ra' – cần chủ đề '~のは' phía trước. Sai.",
+          "作ったのだろう → có lẽ đã tạo ra (suy luận kết luận). ĐÚNG.",
+          "作ったこともある → 'cũng có lúc đã tạo ra' – không hợp. Sai.",
+          "作ったほどだ → 'đến mức đã tạo ra' – cần ngữ cảnh mức độ. Sai."
+        ],
+        "vocab": [
+          { "w": "考え方", "r": "かんがえかた", "hv": "KHẢO PHƯƠNG", "vi": "cách nghĩ" },
+          { "w": "生活", "r": "せいかつ", "hv": "SINH HOẠT", "vi": "cuộc sống" }
+        ],
+        "grammar": {
+          "pattern": "～のだろう",
+          "meaning": "có lẽ là ~ (suy luận, giải thích)",
+          "form": "普通形 + のだろう",
+          "example": "電気が消えている。もう寝たのだろう。"
+        },
+        "evidence": "生活の夜型化と「寝るまでが今日」という考え方が、24時間しかない一日に「25時」を（54）。",
+        "tip": null
+      }
+    }
+  ]
+}

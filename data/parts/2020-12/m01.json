@@ -1,0 +1,136 @@
+{
+  "exam": "2020-12",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "<u>倒さない</u>ように気をつけてください。",
+      "options": ["くずさない", "たおさない", "こわさない", "つぶさない"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hãy cẩn thận để không làm đổ (ngã) nó.",
+        "why": "倒す đọc là たおす (ĐẢO) = làm đổ, xô ngã. Thể phủ định: 倒さない → たおさない.",
+        "options": [
+          "くずさない → 崩さない: không làm sụp, không làm vỡ (hình dạng). Sai.",
+          "たおさない → 倒さない: không làm đổ, không xô ngã. ĐÚNG.",
+          "こわさない → 壊さない: không làm hỏng. Sai.",
+          "つぶさない → 潰さない: không đè bẹp, không làm nát. Sai."
+        ],
+        "vocab": [
+          { "w": "倒す", "r": "たおす", "hv": "ĐẢO", "vi": "làm đổ, xô ngã, đánh bại" },
+          { "w": "倒れる", "r": "たおれる", "hv": "ĐẢO", "vi": "đổ, ngã (tự động từ)" },
+          { "w": "崩す", "r": "くずす", "hv": "BĂNG", "vi": "làm sụp, phá vỡ" },
+          { "w": "潰す", "r": "つぶす", "hv": "HỘI", "vi": "đè bẹp, làm nát" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cặp tự/tha động từ: 倒れる (đổ) ↔ 倒す (làm đổ)."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "今回の件での<u>損害</u>は数百万円にのぼった。",
+      "options": ["ひかい", "そんかい", "そんがい", "ひがい"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Thiệt hại trong vụ việc lần này lên tới vài triệu yên.",
+        "why": "損害 đọc là そんがい (TỔN HẠI) = tổn thất, thiệt hại. 害 đọc là がい (đục), không phải かい.",
+        "options": [
+          "ひかい → không có từ này. Sai.",
+          "そんかい → 損壊: hư hại, đổ nát (công trình). Sai.",
+          "そんがい → 損害: thiệt hại, tổn thất. ĐÚNG.",
+          "ひがい → 被害: thiệt hại (bị gây ra). Chữ khác (被), không phải 損. Sai."
+        ],
+        "vocab": [
+          { "w": "損害", "r": "そんがい", "hv": "TỔN HẠI", "vi": "thiệt hại, tổn thất" },
+          { "w": "被害", "r": "ひがい", "hv": "BỊ HẠI", "vi": "sự bị thiệt hại" },
+          { "w": "～にのぼる", "r": "～にのぼる", "hv": "", "vi": "lên tới (con số)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "害 luôn đọc がい: 損害・被害・公害・障害."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "思ったより<u>険しい</u>山道だった。",
+      "options": ["うるしい", "さびしい", "はげしい", "けわしい"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đó là con đường núi dốc hiểm trở hơn tôi nghĩ.",
+        "why": "険しい đọc là けわしい (HIỂM) = dốc đứng, hiểm trở; (nét mặt) nghiêm khắc.",
+        "options": [
+          "うるしい → không có từ này. Sai.",
+          "さびしい → 寂しい: buồn, cô đơn. Sai.",
+          "はげしい → 激しい: dữ dội, mãnh liệt. Sai.",
+          "けわしい → 険しい: dốc, hiểm trở. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "険しい", "r": "けわしい", "hv": "HIỂM", "vi": "dốc, hiểm trở; nghiêm nghị" },
+          { "w": "山道", "r": "やまみち", "hv": "SƠN ĐẠO", "vi": "đường núi" },
+          { "w": "激しい", "r": "はげしい", "hv": "KÍCH", "vi": "dữ dội, mãnh liệt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "険 âm On là けん: 危険 (きけん), 保険 (ほけん)."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "この辺りは<u>比較的</u>人通りが少ない。",
+      "options": ["ひこうてい", "ひこてき", "ひかくてき", "ひかてき"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Khu vực này tương đối ít người qua lại.",
+        "why": "比較 đọc là ひかく (TỈ GIẢO) = so sánh; 比較的 = ひかくてき: tương đối, khá là.",
+        "options": [
+          "ひこうてい → sai cách đọc (較 là かく, 的 là てき). Sai.",
+          "ひこてき → thiếu âm く, sai. Sai.",
+          "ひかくてき → 比較的: tương đối. ĐÚNG.",
+          "ひかてき → thiếu く của かく. Sai."
+        ],
+        "vocab": [
+          { "w": "比較的", "r": "ひかくてき", "hv": "TỈ GIẢO ĐÍCH", "vi": "tương đối, khá" },
+          { "w": "比較", "r": "ひかく", "hv": "TỈ GIẢO", "vi": "so sánh" },
+          { "w": "人通り", "r": "ひとどおり", "hv": "NHÂN THÔNG", "vi": "người qua lại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "飛行機は<u>下降</u>を始めた。",
+      "options": ["かこう", "かくう", "げこう", "げくう"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Máy bay đã bắt đầu hạ độ cao.",
+        "why": "下降 đọc là かこう (HẠ GIÁNG) = đi xuống, hạ xuống. Trái nghĩa: 上昇 (じょうしょう).",
+        "options": [
+          "かこう → 下降: hạ xuống. ĐÚNG.",
+          "かくう → 架空: hư cấu, tưởng tượng. Sai.",
+          "げこう → 下校: tan học, ra về. Sai.",
+          "げくう → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "下降", "r": "かこう", "hv": "HẠ GIÁNG", "vi": "sự hạ xuống, đi xuống" },
+          { "w": "上昇", "r": "じょうしょう", "hv": "THƯỢNG THĂNG", "vi": "sự đi lên, tăng lên" },
+          { "w": "下校", "r": "げこう", "hv": "HẠ HIỆU", "vi": "tan học" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "下 đọc か trong 下降・地下・低下; đọc げ trong 下校・下車・下旬. 降 đọc こう: 以降・降水."
+      }
+    }
+  ]
+}

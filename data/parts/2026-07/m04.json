@@ -1,0 +1,192 @@
+{
+  "exam": "2026-07",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "明日の天気によって、イベントを行うかどうか（　　）する予定です。",
+      "options": ["判断", "確信", "特定", "評価"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tùy vào thời tiết ngày mai, chúng tôi sẽ quyết định (phán đoán) có tổ chức sự kiện hay không.",
+        "why": "「～かどうか判断する」= xem xét rồi quyết định có ~ hay không. 判断 (はんだん) đi tự nhiên với mệnh đề 「～かどうか」.",
+        "options": [
+          "判断 → はんだん: phán đoán, quyết định. ĐÚNG.",
+          "確信 → かくしん: tin chắc; không dùng 'かどうか確信する' cho việc sắp quyết định. Sai.",
+          "特定 → とくてい: xác định cụ thể (đối tượng, nguyên nhân). Sai.",
+          "評価 → ひょうか: đánh giá (chất lượng, năng lực). Sai."
+        ],
+        "vocab": [
+          { "w": "判断", "r": "はんだん", "hv": "PHÁN ĐOÁN", "vi": "phán đoán, quyết định" },
+          { "w": "確信", "r": "かくしん", "hv": "XÁC TÍN", "vi": "tin chắc" },
+          { "w": "特定", "r": "とくてい", "hv": "ĐẶC ĐỊNH", "vi": "xác định cụ thể" },
+          { "w": "評価", "r": "ひょうか", "hv": "BÌNH GIÁ", "vi": "đánh giá" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Collocation: ～かどうか判断する / 犯人を特定する / 高く評価する / 勝利を確信する."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "山本氏は、今は作家として有名だが、（　　）は俳優をしていたのだそうだ。",
+      "options": ["もともと", "生まれつき", "先ほど", "あらかじめ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Ông Yamamoto bây giờ nổi tiếng với tư cách nhà văn, nhưng nghe nói vốn dĩ (ban đầu) ông là diễn viên.",
+        "why": "もともと = vốn dĩ, ban đầu (trạng thái từ trước khác với hiện tại). Đối lập 「今は作家」⇔「もともとは俳優」.",
+        "options": [
+          "もともと → vốn dĩ, ban đầu. ĐÚNG.",
+          "生まれつき → bẩm sinh (tính cách, thể chất), không dùng cho nghề nghiệp. Sai.",
+          "先ほど → lúc nãy (vài phút/giờ trước). Sai.",
+          "あらかじめ → trước (chuẩn bị sẵn cho việc sau). Sai."
+        ],
+        "vocab": [
+          { "w": "もともと", "r": "もともと", "hv": "", "vi": "vốn dĩ, ban đầu" },
+          { "w": "生まれつき", "r": "うまれつき", "hv": "", "vi": "bẩm sinh" },
+          { "w": "俳優", "r": "はいゆう", "hv": "BÀI ƯU", "vi": "diễn viên" },
+          { "w": "あらかじめ", "r": "あらかじめ", "hv": "", "vi": "trước, sẵn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "「もともとは～」hay đi cặp với 「今は～」để nói sự thay đổi."
+      }
+    },
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "会議に参加するメンバーの都合を聞いて、日程の（　　）を行った。",
+      "options": ["改定", "整備", "改正", "調整"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hỏi lịch bận rảnh của các thành viên dự họp rồi tiến hành điều chỉnh lịch trình.",
+        "why": "日程の調整 (ちょうせい) = sắp xếp, điều chỉnh lịch cho khớp với mọi người. Ngữ cảnh 'hỏi 都合 của các thành viên' → 調整.",
+        "options": [
+          "改定 → かいてい: sửa đổi (giá, quy định). Sai.",
+          "整備 → せいび: bảo trì, chỉnh trang (máy móc, đường sá). Sai.",
+          "改正 → かいせい: sửa đổi luật. Sai.",
+          "調整 → ちょうせい: điều chỉnh. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "調整", "r": "ちょうせい", "hv": "ĐIỀU CHỈNH", "vi": "điều chỉnh, sắp xếp" },
+          { "w": "日程", "r": "にってい", "hv": "NHẬT TRÌNH", "vi": "lịch trình" },
+          { "w": "都合", "r": "つごう", "hv": "ĐÔ HỢP", "vi": "sự thuận tiện, lịch bận rảnh" },
+          { "w": "改正", "r": "かいせい", "hv": "CẢI CHÍNH", "vi": "sửa đổi (luật)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "日程調整・スケジュール調整 là cụm cố định trong công việc."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "お金をかけて開発した商品が売れず、A社は今年、大きな（　　）を出した。",
+      "options": ["不良", "赤字", "消失", "欠点"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Sản phẩm tốn tiền phát triển lại không bán được, năm nay công ty A đã bị lỗ lớn.",
+        "why": "赤字を出す (あかじをだす) = bị thâm hụt, lỗ. Sản phẩm không bán được → lỗ.",
+        "options": [
+          "不良 → ふりょう: hàng lỗi, kém chất lượng; không đi với 大きな～を出した theo nghĩa lỗ. Sai.",
+          "赤字 → あかじ: thâm hụt, lỗ. ĐÚNG.",
+          "消失 → しょうしつ: biến mất. Sai.",
+          "欠点 → けってん: khuyết điểm. Sai."
+        ],
+        "vocab": [
+          { "w": "赤字", "r": "あかじ", "hv": "XÍCH TỰ", "vi": "thâm hụt, lỗ" },
+          { "w": "黒字", "r": "くろじ", "hv": "HẮC TỰ", "vi": "có lãi" },
+          { "w": "開発", "r": "かいはつ", "hv": "KHAI PHÁT", "vi": "phát triển, khai thác" },
+          { "w": "欠点", "r": "けってん", "hv": "KHIẾM ĐIỂM", "vi": "khuyết điểm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "赤字を出す ⇔ 黒字になる. 赤字 (chữ đỏ) = lỗ trong sổ sách."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "中村さんは（　　）性格だから、そういう細かいことは気にしないだろう。",
+      "options": ["なまいきな", "おおざっぱな", "わがままな", "いじわるな"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh Nakamura có tính cách xuề xòa (đại khái), nên chắc sẽ không để ý mấy chuyện nhỏ nhặt như thế.",
+        "why": "おおざっぱ = đại khái, xuề xòa, không tỉ mỉ → hợp với vế sau 「細かいことは気にしない」.",
+        "options": [
+          "なまいきな → 生意気: hỗn, láo, tự cao. Không liên quan việc để ý chi tiết. Sai.",
+          "おおざっぱな → đại khái, xuề xòa. ĐÚNG.",
+          "わがままな → ích kỷ, đòi hỏi theo ý mình. Sai.",
+          "いじわるな → xấu tính, hay chơi khăm. Sai."
+        ],
+        "vocab": [
+          { "w": "大ざっぱ", "r": "おおざっぱ", "hv": "", "vi": "đại khái, xuề xòa" },
+          { "w": "生意気", "r": "なまいき", "hv": "SINH Ý KHÍ", "vi": "hỗn láo, tự phụ" },
+          { "w": "わがまま", "r": "わがまま", "hv": "", "vi": "ích kỷ, bướng" },
+          { "w": "意地悪", "r": "いじわる", "hv": "Ý ĐỊA ÁC", "vi": "xấu tính, hay chơi khăm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "おおざっぱ ⇔ 几帳面 (きちょうめん: cẩn thận, tỉ mỉ)."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "彼は今までどんな苦労にも負けずに、一人で（　　）生きてきた。",
+      "options": ["いちじるしく", "痛ましく", "たくましく", "恐ろしく"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Cho đến nay, anh ấy đã sống một cách mạnh mẽ, kiên cường một mình, không chịu khuất phục trước bất cứ khó khăn nào.",
+        "why": "たくましく生きる = sống mạnh mẽ, kiên cường. Hợp với 「どんな苦労にも負けずに」.",
+        "options": [
+          "いちじるしく → 著しく: rõ rệt (thay đổi, tiến bộ). Sai.",
+          "痛ましく → いたましく: đau lòng, thương tâm. Sai.",
+          "たくましく → 逞しく: mạnh mẽ, kiên cường. ĐÚNG.",
+          "恐ろしく → おそろしく: đáng sợ; cực kỳ. Sai."
+        ],
+        "vocab": [
+          { "w": "たくましい", "r": "たくましい", "hv": "", "vi": "mạnh mẽ, kiên cường, vạm vỡ" },
+          { "w": "著しい", "r": "いちじるしい", "hv": "TRỨ", "vi": "rõ rệt, đáng kể" },
+          { "w": "痛ましい", "r": "いたましい", "hv": "THỐNG", "vi": "đau lòng, thương tâm" },
+          { "w": "苦労", "r": "くろう", "hv": "KHỔ LAO", "vi": "vất vả, khó nhọc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "たくましい dùng cho cả cơ thể (vạm vỡ) lẫn tinh thần (kiên cường)."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "仕事の話をしていたのに、いつのまにか話が（　　）、家族の話をしていた。",
+      "options": ["反して", "狂って", "それて", "偏って"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đang nói chuyện công việc, vậy mà từ lúc nào câu chuyện đã lạc đề, chuyển sang nói chuyện gia đình.",
+        "why": "話がそれる (逸れる) = câu chuyện lạc đề, đi chệch hướng. Đúng với tình huống từ chuyện công việc chuyển sang chuyện gia đình.",
+        "options": [
+          "反して → はんして: trái với (予想に反して). Không dùng 話が反する. Sai.",
+          "狂って → くるって: bị điên, trục trặc, lệch (計画が狂う). Không dùng cho lạc đề. Sai.",
+          "それて → 逸れて: lạc đề, chệch hướng. ĐÚNG.",
+          "偏って → かたよって: thiên lệch (栄養が偏る). Sai."
+        ],
+        "vocab": [
+          { "w": "逸れる", "r": "それる", "hv": "DẬT", "vi": "chệch, lạc (đề, hướng)" },
+          { "w": "狂う", "r": "くるう", "hv": "CUỒNG", "vi": "điên; bị trục trặc, lệch" },
+          { "w": "偏る", "r": "かたよる", "hv": "THIÊN", "vi": "thiên lệch, mất cân bằng" },
+          { "w": "いつのまにか", "r": "いつのまにか", "hv": "", "vi": "từ lúc nào không hay" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "話がそれる / 話をそらす (cố tình lái câu chuyện đi chỗ khác)."
+      }
+    }
+  ]
+}

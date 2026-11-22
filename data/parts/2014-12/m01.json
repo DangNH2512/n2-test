@@ -1,0 +1,138 @@
+{
+  "exam": "2014-12",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "この店は、今月に入って、客数が<u>極端</u>に減ったらしい。",
+      "options": ["きょたん", "きょてん", "きょくたん", "きょくてん"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nghe nói cửa hàng này, từ khi sang tháng này, lượng khách đã giảm một cách cực độ.",
+        "why": "極端 đọc là きょくたん (CỰC ĐOAN) = cực độ, thái quá. 極 đọc âm On là きょく (có âm ngắt く), 端 đọc là たん như trong 端末 (たんまつ).",
+        "options": [
+          "きょたん → thiếu く của 極 (きょく). Không có từ này. Sai.",
+          "きょてん → 拠点: cứ điểm, căn cứ. Sai.",
+          "きょくたん → 極端: cực độ, thái quá. ĐÚNG.",
+          "きょくてん → 端 không đọc てん (てん là 点・店). Sai."
+        ],
+        "vocab": [
+          { "w": "極端", "r": "きょくたん", "hv": "CỰC ĐOAN", "vi": "cực độ, thái quá, cực đoan" },
+          { "w": "客数", "r": "きゃくすう", "hv": "KHÁCH SỐ", "vi": "số lượng khách" },
+          { "w": "拠点", "r": "きょてん", "hv": "CỨ ĐIỂM", "vi": "cứ điểm, căn cứ" },
+          { "w": "端末", "r": "たんまつ", "hv": "ĐOAN MẠT", "vi": "thiết bị đầu cuối" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "極 = きょく (極端・積極的) hoặc ごく (極上・極秘). Không bao giờ là きょ đơn độc."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "食事が済んだら、食器はここに<u>戻して</u>ください。",
+      "options": ["かえして", "のこして", "わたして", "もどして"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Ăn xong thì hãy để bát đĩa trở lại chỗ này.",
+        "why": "戻す đọc là もどす (LỆ) = đưa trở lại vị trí cũ. Trả bát đĩa về chỗ cũ → 戻して.",
+        "options": [
+          "かえして → 返す: trả lại (cho người). Sai.",
+          "のこして → 残す: để lại, chừa lại. Sai.",
+          "わたして → 渡す: trao, đưa cho. Sai.",
+          "もどして → 戻す: đưa về chỗ cũ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "戻す", "r": "もどす", "hv": "LỆ", "vi": "đưa trở lại, trả về chỗ cũ" },
+          { "w": "食器", "r": "しょっき", "hv": "THỰC KHÍ", "vi": "bát đĩa, đồ ăn" },
+          { "w": "済む", "r": "すむ", "hv": "TẾ", "vi": "xong, kết thúc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "戻る (もどる) = quay về / 戻す (もどす) = đưa về. Đừng nhầm với 返す (かえす) vốn viết bằng chữ 返."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "この効果はどのくらい<u>継続</u>するのだろう。",
+      "options": ["じぞく", "けいぞく", "じそく", "けいそく"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Không biết hiệu quả này sẽ kéo dài được bao lâu nhỉ.",
+        "why": "継続 đọc là けいぞく (KẾ TỤC) = tiếp tục, duy trì liên tục. 継 = けい, 続 = ぞく (biến âm đục từ そく).",
+        "options": [
+          "じぞく → 持続: duy trì, kéo dài (chữ 持). Sai.",
+          "けいぞく → 継続: tiếp tục, liên tục. ĐÚNG.",
+          "じそく → 時速: tốc độ theo giờ. Sai.",
+          "けいそく → 計測: đo lường. Sai."
+        ],
+        "vocab": [
+          { "w": "継続", "r": "けいぞく", "hv": "KẾ TỤC", "vi": "tiếp tục, duy trì" },
+          { "w": "持続", "r": "じぞく", "hv": "TRÌ TỤC", "vi": "duy trì, kéo dài" },
+          { "w": "効果", "r": "こうか", "hv": "HIỆU QUẢ", "vi": "hiệu quả" },
+          { "w": "計測", "r": "けいそく", "hv": "KẾ TRẮC", "vi": "đo lường" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "続 luôn đọc ぞく trong từ ghép: 継続・持続・連続・接続."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "これらの経費は<u>除いて</u>計算してください。",
+      "options": ["のぞいて", "はぶいて", "ぬいて", "ひいて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hãy tính toán mà loại trừ những khoản chi phí này ra.",
+        "why": "除く đọc là のぞく (TRỪ) = loại ra, trừ ra. 除いて = trừ ra, không tính.",
+        "options": [
+          "のぞいて → 除く: loại trừ. ĐÚNG.",
+          "はぶいて → 省く: lược bỏ, giản lược. Sai.",
+          "ぬいて → 抜く: rút ra, nhổ ra. Sai.",
+          "ひいて → 引く: kéo; trừ (phép trừ). Sai."
+        ],
+        "vocab": [
+          { "w": "除く", "r": "のぞく", "hv": "TRỪ", "vi": "loại trừ, trừ ra" },
+          { "w": "経費", "r": "けいひ", "hv": "KINH PHÍ", "vi": "chi phí, kinh phí" },
+          { "w": "省く", "r": "はぶく", "hv": "TỈNH", "vi": "lược bỏ, tiết kiệm" },
+          { "w": "計算", "r": "けいさん", "hv": "KẾ TOÁN", "vi": "tính toán" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "除 âm On là じょ (掃除・削除), âm Kun là のぞく. Mẫu hay gặp: 〜を除いて = ngoại trừ ~."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "A国とB国の間で盛んに<u>貿易</u>が行われている。",
+      "options": ["もうえき", "ぼうえき", "もうい", "ぼうい"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Giữa nước A và nước B, hoạt động mậu dịch đang diễn ra sôi nổi.",
+        "why": "貿易 đọc là ぼうえき (MẬU DỊCH) = thương mại, mậu dịch. 貿 = ぼう, 易 ở đây đọc えき (còn đọc い trong 容易・安易).",
+        "options": [
+          "もうえき → 貿 không đọc もう. Sai.",
+          "ぼうえき → 貿易: mậu dịch, thương mại. ĐÚNG.",
+          "もうい → 猛威: sức tàn phá dữ dội. Sai.",
+          "ぼうい → 易 trong 貿易 không đọc い. Không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "貿易", "r": "ぼうえき", "hv": "MẬU DỊCH", "vi": "thương mại, mậu dịch" },
+          { "w": "盛ん", "r": "さかん", "hv": "THỊNH", "vi": "thịnh vượng, sôi nổi" },
+          { "w": "容易", "r": "ようい", "hv": "DUNG DỊ", "vi": "dễ dàng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "易 có 2 âm: えき (貿易) và い (容易・安易). 'Dịch' (đổi) → えき, 'dị' (dễ) → い."
+      }
+    }
+  ]
+}

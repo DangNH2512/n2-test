@@ -1,0 +1,78 @@
+{
+  "exam": "2016-12",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "右のページは、あるホテルのホームページに載っている案内である。下の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc bảng thông tin (hướng dẫn buffet trên trang web của một khách sạn) và chọn câu trả lời đúng nhất.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "ミハマホテル　ビュッフェのご案内",
+      "text": "ミハマホテル\nビュッフェのご案内\nレストラン「ベルン」および「みよし」では、以下のビュッフェをご用意しております。\nお好みの料理を食べ放題でお楽しみください。\n\nベルン（洋食）\n◆ランチ　11：30～14：00（制限時間90分）\n料理（平日）：おとな3,300円　シニア3,000円　こども1,700円\n料理（土日・祝日）：おとな4,000円　シニア3,700円　こども2,000円\n◆デザート　15：00～17：00（制限時間60分）\n料理（平日）：おとな2,500円　シニア2,200円　こども1,500円\n料理（土日・祝日）：おとな3,000円　シニア2,700円　こども1,800円\n◆夕食　18：00～21：00（制限時間2時間）\n料理（平日）：おとな5,500円　シニア5,000円　こども2,000円\n料理（土日・祝日）：おとな6,000円　シニア5,500円　こども2,500円\n\n「窓際特別テーブル」のご案内\nレストラン「ベルン」では、海が渡せる窓際の特別席をご用意しております。最高の眺めとともにビュッフェをお楽しみください。ビュッフェ料金に、1テーブル（2～4名様）1,000円の追加料金でご利用いただけます。\n\nみよし（和食）\n◆ランチ　11：00～16：00（制限時間2時間）\n土日・祝日のみ\n料金：おとな4,500円　シニア4,200円　こども2,200円\n\n＊ビュッフェ料金の区分について（ベルン・みよし共通）\nおとな…中学生から64歳までのお客様\nシニア…65歳以上のお客様\nこども…4歳から小学生までのお子様（3歳以下のお子様は無料です。）\n\nご予約・お問い合わせ\nベルン　031-277-1116（直通）／みよし　031-277-1119（直通）"
+    }
+  ],
+  "questions": [
+    {
+      "num": 74,
+      "passage": "p1",
+      "stem": "ユンさんは、来週ミハマホテルのビュッフェに行きたいと考えている。金曜か土曜の12時から17時の間で、2時間いられるものがいい。ユンさんの希望に合うビュッフェはどれか。",
+      "options": [
+        "「ベルン」のランチビュッフェ",
+        "「ベルン」のデザートビュッフェ",
+        "「ベルン」の夕食ビュッフェ",
+        "「みよし」のランチビュッフェ"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh/chị Yun muốn đi buffet ở khách sạn Mihama vào tuần sau. Muốn đi thứ Sáu hoặc thứ Bảy, trong khoảng 12h–17h, và ở lại được 2 tiếng. Buffet nào phù hợp? → Buffet trưa của \"Miyoshi\".",
+        "why": "Điều kiện: (1) thứ Sáu hoặc thứ Bảy, (2) trong khung 12h–17h, (3) được ở 2 tiếng. Miyoshi lunch: 11:00–16:00, giới hạn 2 tiếng, chỉ thứ Bảy/CN/lễ → đi thứ Bảy, ví dụ 12h–14h là thỏa mãn cả 3.",
+        "options": [
+          "Bern lunch: giới hạn chỉ 90 phút. Sai.",
+          "Bern dessert: 15–17h nhưng giới hạn chỉ 60 phút. Sai.",
+          "Bern dinner: 18–21h, ngoài khung 12–17h. Sai.",
+          "Miyoshi lunch: 11–16h, 2 tiếng, có thứ Bảy. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "制限時間", "r": "せいげんじかん", "hv": "CHẾ HẠN THỜI GIAN", "vi": "thời gian giới hạn" },
+          { "w": "食べ放題", "r": "たべほうだい", "hv": "THỰC PHÓNG ĐỀ", "vi": "ăn thỏa thích (buffet)" },
+          { "w": "祝日", "r": "しゅくじつ", "hv": "CHÚC NHẬT", "vi": "ngày lễ" },
+          { "w": "平日", "r": "へいじつ", "hv": "BÌNH NHẬT", "vi": "ngày thường" }
+        ],
+        "grammar": null,
+        "evidence": "みよし（和食）◆ランチ　11：00～16：00（制限時間2時間）土日・祝日のみ",
+        "tip": "Liệt kê điều kiện (ngày, khung giờ, thời lượng) rồi loại từng phương án; chú ý dòng 制限時間."
+      }
+    },
+    {
+      "num": 75,
+      "passage": "p1",
+      "stem": "エンリケさんは、今度の土曜日に妻と一緒にレストラン「ベルン」の夕食ビュッフェに行き、「窓際特別テーブル」を利用したい。エンリケさんは63歳、妻は66歳である。エンリケさんたちの料金はどのようになるか。",
+      "options": [
+        "エンリケさん6,000円、妻6,000円のみ",
+        "エンリケさん6,000円、妻6,000円、テーブル料金1,000円",
+        "エンリケさん6,000円、妻5,500円、テーブル料金1,000円",
+        "エンリケさん5,500円、妻5,000円、テーブル料金1,000円"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh Enrique muốn cùng vợ đi buffet tối ở nhà hàng \"Bern\" vào thứ Bảy tới và dùng \"bàn đặc biệt cạnh cửa sổ\". Anh Enrique 63 tuổi, vợ 66 tuổi. Chi phí sẽ như thế nào? → Enrique 6.000 yên, vợ 5.500 yên, phí bàn 1.000 yên.",
+        "why": "Thứ Bảy = giá 土日・祝日. Enrique 63 tuổi → おとな (đến 64 tuổi) = 6.000 yên. Vợ 66 tuổi → シニア (từ 65 tuổi) = 5.500 yên. Bàn cạnh cửa sổ: thêm 1.000 yên/bàn.",
+        "options": [
+          "Vợ là シニア (5.500) và thiếu phí bàn 1.000. Sai.",
+          "Tính vợ theo giá người lớn (6.000), sai vì vợ 66 tuổi là シニア. Sai.",
+          "6.000 + 5.500 + 1.000. ĐÚNG.",
+          "Đây là giá ngày thường (平日), mà họ đi thứ Bảy; Enrique cũng không phải シニア. Sai."
+        ],
+        "vocab": [
+          { "w": "窓際", "r": "まどぎわ", "hv": "SONG TẾ", "vi": "cạnh cửa sổ" },
+          { "w": "追加料金", "r": "ついかりょうきん", "hv": "TRUY GIA LIỆU KIM", "vi": "phụ phí" },
+          { "w": "区分", "r": "くぶん", "hv": "KHU PHÂN", "vi": "phân loại" },
+          { "w": "眺め", "r": "ながめ", "hv": "THIẾU", "vi": "cảnh quan, tầm nhìn" }
+        ],
+        "grammar": null,
+        "evidence": "（土日・祝日）おとな6,000円　シニア5,500円／おとな…中学生から64歳までのお客様　シニア…65歳以上のお客様／ビュッフェ料金に、1テーブル（2～4名様）1,000円の追加料金でご利用いただけます。",
+        "tip": "Luôn kiểm tra 3 thứ: ngày (平日/土日), độ tuổi (ranh giới 64/65), phụ phí."
+      }
+    }
+  ]
+}

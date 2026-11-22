@@ -1,0 +1,196 @@
+{
+  "exam": "2021-07",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（１）から（５）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "以下は、保護者に向けて書かれた文章である。\n\n最初に知っておきたいのは、保護者が嫌いなものは、子どもも好きになれないということです。普段から「まずい、嫌い」と聞かされているものを美味しいと思えないのは当然です。また、嫌がるものを無理に食べさせても、嫌な思い出が残るばかりで、良い結果は出ません。\nそれに対して、最初は苦手だった食べ物でも、周囲の大人たちが「美味しい」と笑顔で食べている姿を見て興味が湧き、食べられるようになることがあります。つまり、偏食を無くすには「親子で一緒に楽しみながら」がコツなのです。"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、ある市に届いたメールである。\n\n花丸市道路交通部ご担当者様\n\n花丸駅前の有料駐輪場を利用している者です。\n最近、利用許可のシールが貼られていない自転車を多く見ます。この駐輪場は、利用料金を払った際にもらう利用許可シールを貼らなければ利用できないはずなので、これらは無断で止められているのではないでしょうか。止めるスペースがない日もあり、とても迷惑しています。管理人が見回って、これらの自転車を片付けたり、無断で止めている人に注意したりするべきだと思います。料金を払って利用している人がきちんと止められるように適切な対応をお願いします。\nご検討をよろしくお願いいたします。\n\n北山進一"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "私は毎日、自宅の周りを散歩する。運動、気分転換など色々理由はあるが、コンビニに立ち寄ることも目的の一つだ。\nそこでいろいろな売り物を見て、雑誌を眺めて、飲み物を買う。この飲み物一つとっても、世の中の様々な流れが凝縮（注1）されている。\n例えば、大きさ。ペットボトルと言えば500ccと思い込んでいるかもしれないが、昨年辺りから変化がある。400cc前後に減量しているものがあるのだ。でも、値段は同じだ。割高（注2）なようだが、結構人気がある。理由は簡単。女性がバッグに入れやすいのだ。\n\n（注1）凝縮されている：たくさんのものが一つのところにぎゅっと詰まっている。\n（注2）割高：分量に対して値段が高いこと。"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "以下は商品を注文した会社がメーカーに送ったメールである。\n\n株式会社カケイ電機\n販売部　西山光一様\n\nお世話になっております。ヒラノ商会の本田です。\n今朝メールを確認いたしました。\n納品が予定より遅れるということですが、注文の際にご説明したとおり、今回注文した商品は今月20日から始まるセールで販売を予定しているものです。\nそのため、セールが始まる前日までに、少なくとも10台は納品していただけないでしょうか。\n間に合わない場合は、全ての注文をキャンセルすることも考えております。\n至急ご回答頂きたく宜しくお願い致します。\n\nヒラノ商会\n営業部　本田美知子\nMichiko_honda@hirano.co.jp"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "以下の文章は就職に対する学生の意識調査の結果について書かれたものである。\n\n今回の調査では入社する企業を決めるうえで重視する点を最大三つ挙げてもらった。企業の規模や将来性、希望職種に就ける可能性などを抑えてトップになったのは「社員の魅力や社内の雰囲気」（54.3％）。「勤務地や転勤の有無」も22.1％あった。良好な人間関係や居心地の良さを求める学生が増えているようだ。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "大人は子供の好き嫌いを気にしすぎない方が良い。",
+        "大人の食べ物に対する態度が、子供の好き嫌いに影響する。",
+        "子供のころの好き嫌いは、大人になってからも変わらない。",
+        "子供の好き嫌いを無くすより、食事を楽しむことの方が大切だ。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Thái độ của người lớn đối với đồ ăn ảnh hưởng đến việc kén ăn của trẻ.",
+        "why": "Cả hai đoạn đều nói về ảnh hưởng của người lớn: phụ huynh ghét món gì thì con cũng không thích; ngược lại thấy người lớn ăn ngon lành thì trẻ cũng thích thú và ăn được.",
+        "options": [
+          "Người lớn không nên quá bận tâm đến việc kén ăn của trẻ → bài không nói vậy, còn đưa ra cách khắc phục. Sai.",
+          "Thái độ của người lớn với đồ ăn ảnh hưởng đến sở thích ăn uống của trẻ. ĐÚNG.",
+          "Kén ăn từ nhỏ thì lớn lên không đổi → trái với bài (trẻ có thể ăn được món từng không thích). Sai.",
+          "Vui vẻ ăn uống quan trọng hơn bỏ tật kén ăn → bài nói vui vẻ là bí quyết ĐỂ bỏ kén ăn, không so sánh như vậy. Sai."
+        ],
+        "vocab": [
+          { "w": "保護者", "r": "ほごしゃ", "hv": "BẢO HỘ GIẢ", "vi": "phụ huynh, người giám hộ" },
+          { "w": "偏食", "r": "へんしょく", "hv": "THIÊN THỰC", "vi": "kén ăn, ăn uống lệch lạc" },
+          { "w": "興味が湧く", "r": "きょうみがわく", "hv": "HỨNG VỊ DŨNG", "vi": "nảy sinh hứng thú" },
+          { "w": "好き嫌い", "r": "すききらい", "hv": "HẢO HIỀM", "vi": "kén chọn, thích và ghét" }
+        ],
+        "grammar": null,
+        "evidence": "保護者が嫌いなものは、子どもも好きになれないということです。／周囲の大人たちが「美味しい」と笑顔で食べている姿を見て興味が湧き、食べられるようになることがあります。",
+        "tip": "Đáp án 4 là bẫy \"lấy ý phương tiện thành mục đích\": vui vẻ chỉ là コツ (bí quyết) để hết kén ăn."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p2",
+      "stem": "このメールで伝えたいことは何か。",
+      "options": [
+        "誰でも駐輪場を利用できるようにしてほしい。",
+        "自転車を止めるスペースを広げてほしい。",
+        "駐輪場をしっかり管理してほしい。",
+        "管理人の人数を増やしてほしい。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều muốn truyền đạt trong email này là gì? → Muốn bãi giữ xe được quản lý chặt chẽ.",
+        "why": "Người viết phàn nàn có nhiều xe đỗ trái phép, đề nghị người quản lý đi tuần, dọn xe, nhắc nhở người đỗ không phép → tức là yêu cầu quản lý bãi xe nghiêm túc.",
+        "options": [
+          "Muốn ai cũng dùng được bãi xe → ngược lại, người viết muốn ngăn người không trả phí. Sai.",
+          "Muốn mở rộng chỗ đỗ → không đề cập. Sai.",
+          "Muốn bãi xe được quản lý chặt chẽ. ĐÚNG.",
+          "Muốn tăng số người quản lý → không nói đến số lượng, chỉ yêu cầu người quản lý làm việc. Sai."
+        ],
+        "vocab": [
+          { "w": "駐輪場", "r": "ちゅうりんじょう", "hv": "TRÚ LUÂN TRƯỜNG", "vi": "bãi giữ xe đạp" },
+          { "w": "無断", "r": "むだん", "hv": "VÔ ĐOẠN", "vi": "tự ý, không xin phép" },
+          { "w": "見回る", "r": "みまわる", "hv": "KIẾN HỒI", "vi": "đi tuần tra" },
+          { "w": "迷惑", "r": "めいわく", "hv": "MÊ HOẶC", "vi": "phiền toái" }
+        ],
+        "grammar": null,
+        "evidence": "管理人が見回って、これらの自転車を片付けたり、無断で止めている人に注意したりするべきだと思います。料金を払って利用している人がきちんと止められるように適切な対応をお願いします。",
+        "tip": "Email yêu cầu: tìm câu có 〜べきだ／お願いします → đó là ý chính."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p3",
+      "stem": "この人がコンビニで売られている飲み物を見て気づいたことは何か。",
+      "options": [
+        "飲み物が売れる理由には、持ち運びしやすいかどうかも関係すること。",
+        "量が少なくなっても値段の安い物の方が売れるようになったこと。",
+        "ペットボトルの飲み物で減量する女性が昨年辺りから増えていること。",
+        "どのような飲み物が流行るかは、人気のある雑誌の影響を受けること。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều người này nhận ra khi nhìn đồ uống bán ở cửa hàng tiện lợi là gì? → Lý do đồ uống bán chạy còn liên quan đến việc có dễ mang theo hay không.",
+        "why": "Chai 400cc dù giá như chai 500cc (đắt hơn tương đối) vẫn được ưa chuộng vì phụ nữ dễ bỏ vào túi xách → tính tiện mang theo ảnh hưởng đến doanh số.",
+        "options": [
+          "Lý do bán chạy liên quan đến việc dễ mang theo. ĐÚNG.",
+          "Lượng ít đi nhưng giá rẻ thì bán chạy → bài nói giá vẫn như cũ (割高). Sai.",
+          "Phụ nữ giảm cân bằng đồ uống tăng lên → 減量 trong bài là \"giảm dung tích\" chai, không phải giảm cân. Sai.",
+          "Đồ uống thịnh hành chịu ảnh hưởng của tạp chí → không đề cập. Sai."
+        ],
+        "vocab": [
+          { "w": "減量", "r": "げんりょう", "hv": "GIẢM LƯỢNG", "vi": "giảm lượng; giảm cân" },
+          { "w": "割高", "r": "わりだか", "hv": "CÁT CAO", "vi": "đắt so với lượng" },
+          { "w": "思い込む", "r": "おもいこむ", "hv": "TƯ", "vi": "đinh ninh, tin chắc" },
+          { "w": "持ち運ぶ", "r": "もちはこぶ", "hv": "TRÌ VẬN", "vi": "mang theo, xách đi" }
+        ],
+        "grammar": null,
+        "evidence": "400cc前後に減量しているものがあるのだ。でも、値段は同じだ。割高なようだが、結構人気がある。理由は簡単。女性がバッグに入れやすいのだ。",
+        "tip": "Bẫy từ vựng: 減量 ở đây là \"giảm dung tích\", phương án 3 lợi dụng nghĩa \"giảm cân\"."
+      }
+    },
+    {
+      "num": 55,
+      "passage": "p4",
+      "stem": "このメールの用件は何か。",
+      "options": [
+        "注文した商品の数を、10台に変更できるかどうか教えてほしい。",
+        "注文した商品の一部を、19日までに納品できるかどうか教えてほしい。",
+        "注文した商品のすべてを、19日までに納品できるかどうか教えてほしい。",
+        "注文した商品の全てを、キャンセルできるかどうか教えてほしい。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Nội dung chính của email này là gì? → Muốn biết liệu có thể giao một phần hàng đã đặt trước ngày 19 hay không.",
+        "why": "Đợt giảm giá bắt đầu ngày 20 → \"trước ngày bắt đầu\" = ngày 19. Yêu cầu \"ít nhất 10 chiếc\" = một phần đơn hàng, không phải toàn bộ, và đề nghị trả lời gấp.",
+        "options": [
+          "Đổi số lượng đặt thành 10 chiếc → không phải đổi đơn, chỉ cần giao trước ít nhất 10 chiếc. Sai.",
+          "Giao một phần hàng trước ngày 19 được không. ĐÚNG.",
+          "Giao toàn bộ trước ngày 19 → chỉ yêu cầu \"ít nhất 10 chiếc\". Sai.",
+          "Có thể hủy toàn bộ không → hủy chỉ là phương án nếu không kịp, không phải điều hỏi. Sai."
+        ],
+        "vocab": [
+          { "w": "納品", "r": "のうひん", "hv": "NẠP PHẨM", "vi": "giao hàng (cho khách)" },
+          { "w": "用件", "r": "ようけん", "hv": "DỤNG KIỆN", "vi": "việc cần, nội dung chính" },
+          { "w": "至急", "r": "しきゅう", "hv": "CHÍ CẤP", "vi": "khẩn cấp, gấp" },
+          { "w": "少なくとも", "r": "すくなくとも", "hv": "THIỂU", "vi": "ít nhất" }
+        ],
+        "grammar": null,
+        "evidence": "今回注文した商品は今月20日から始まるセールで販売を予定しているものです。そのため、セールが始まる前日までに、少なくとも10台は納品していただけないでしょうか。",
+        "tip": "\"前日までに\" + ngày 20 → phải tự tính ra ngày 19."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p5",
+      "stem": "この調査結果では、就職先を決めるとき最も多くの学生が重視していた点は何か。",
+      "options": [
+        "働いている人たちやその職場の印象がいいこと。",
+        "自分が希望している職種に就くことができること。",
+        "将来その企業が発展する可能性を持っていること。",
+        "勤務地が選択でき、転勤の可能性が少ないこと。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo kết quả khảo sát, điều được nhiều sinh viên coi trọng nhất khi chọn nơi làm việc là gì? → Ấn tượng tốt về những người đang làm việc và nơi làm việc đó.",
+        "why": "Đứng đầu là 「社員の魅力や社内の雰囲気」 (54.3%) = sức hút của nhân viên và bầu không khí trong công ty → diễn đạt lại thành \"ấn tượng tốt về người làm và nơi làm\".",
+        "options": [
+          "Ấn tượng tốt về người làm việc và nơi làm việc (= 社員の魅力や社内の雰囲気). ĐÚNG.",
+          "Được làm ngành nghề mong muốn → là mục bị vượt qua (抑えて). Sai.",
+          "Công ty có tiềm năng phát triển → cũng bị vượt qua. Sai.",
+          "Chọn được nơi làm, ít chuyển công tác → chỉ 22.1%, không phải cao nhất. Sai."
+        ],
+        "vocab": [
+          { "w": "重視", "r": "じゅうし", "hv": "TRỌNG THỊ", "vi": "coi trọng" },
+          { "w": "雰囲気", "r": "ふんいき", "hv": "PHÂN VI KHÍ", "vi": "bầu không khí" },
+          { "w": "転勤", "r": "てんきん", "hv": "CHUYỂN CẦN", "vi": "chuyển công tác" },
+          { "w": "居心地", "r": "いごこち", "hv": "CƯ TÂM ĐỊA", "vi": "cảm giác dễ chịu khi ở" }
+        ],
+        "grammar": {
+          "pattern": "〜を抑えて（トップになる）",
+          "meaning": "vượt qua ~ (để đứng đầu)",
+          "form": "N＋を抑えて",
+          "example": "強豪チームを抑えて優勝した。"
+        },
+        "evidence": "企業の規模や将来性、希望職種に就ける可能性などを抑えてトップになったのは「社員の魅力や社内の雰囲気」（54.3％）。",
+        "tip": "〜を抑えてトップ: những thứ đứng trước を抑えて là KHÔNG phải hạng nhất."
+      }
+    }
+  ]
+}

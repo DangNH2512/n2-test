@@ -1,0 +1,169 @@
+{
+  "exam": "2018-12",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、48から52の中に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án đúng nhất cho các ô 48–52.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "伝統から最新技術へ",
+      "text": "伝統から最新技術へ\n\n今も昔も、子供たちに親しまれている折り紙。そんな身近な折り紙が今、「折り紙工学」という学問となっている。一例を（48）。折り紙の「折って畳むこと」と「畳んだものを広げること」を利用した研究がある。大きなものを小さくし、それを簡単に元の大きさに戻す方法として、折るだけで形や大きさが変えられる折り紙が注目されたのだ。ただ折って小さくするのなら、新聞を折り畳むように何回も折ればいい。しかしそれでは、広げるときに、畳んだ分の回数だけ開くことになる。\n（49）一気に元の大きさに戻せる折り方を開発するために研究が重ねられた。その結果何回折った後でも、折り畳んだ状態から両端を引っ張るだけで、元の平面に戻すことができる方法にたどり着いたのである。\nこの折り方を（50）、人工衛星に用いる「太陽電池パネル」などの装置が作られている。装置を宇宙へ運ぶロケットの容量には限界があり、装置は小さくしなければならない。だからといって分割して部品にすると、宇宙空間で組み立てる技術が必要となる。ここに研究の成果が生かされる。開発された折り方を使えば、装置を折り畳んで小さくすることができ、宇宙空間に出たときには簡単に（51）。\n伝統的な遊びが宇宙で使われる最新技術につながっている。子供と折り紙で遊びながらこのような科学の話を（52）。折り紙を通して、宇宙工学や技術開発の分野にも興味を持つかもしれない。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 48,
+      "passage": "p1",
+      "stem": "（48）に入るもの",
+      "options": ["挙げている", "挙げようとする", "挙げよう", "挙げるだろう"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hãy thử nêu một ví dụ. (一例を挙げよう)",
+        "why": "Người viết tự đề xuất với người đọc \"nào, hãy nêu một ví dụ\" rồi ngay sau đó trình bày ví dụ. Thể ý chí 挙げよう dùng để mở đầu phần ví dụ: 一例を挙げよう.",
+        "options": [
+          "挙げている → \"đang nêu\" (mô tả trạng thái), không phải lời dẫn ví dụ. Sai.",
+          "挙げようとする → \"định nêu\" (mô tả ý định của người khác). Sai.",
+          "挙げよう → hãy (cùng) nêu một ví dụ. ĐÚNG.",
+          "挙げるだろう → \"có lẽ sẽ nêu\" (suy đoán). Sai."
+        ],
+        "vocab": [
+          { "w": "一例", "r": "いちれい", "hv": "NHẤT LỆ", "vi": "một ví dụ" },
+          { "w": "挙げる", "r": "あげる", "hv": "CỬ", "vi": "nêu ra (ví dụ)" },
+          { "w": "折り紙", "r": "おりがみ", "hv": "CHIẾT CHỈ", "vi": "nghệ thuật gấp giấy" },
+          { "w": "工学", "r": "こうがく", "hv": "CÔNG HỌC", "vi": "ngành kỹ thuật" }
+        ],
+        "grammar": {
+          "pattern": "例を挙げよう／見てみよう",
+          "meaning": "thể ý chí trong văn viết: người viết rủ người đọc cùng làm (mở đầu ví dụ, giải thích)",
+          "form": "V意向形 (～よう／～おう)",
+          "example": "具体的な例を挙げよう。"
+        },
+        "evidence": null,
+        "tip": "Câu sau ô trống bắt đầu nội dung ví dụ → cần câu \"dẫn\" dạng ～よう."
+      }
+    },
+    {
+      "num": 49,
+      "passage": "p1",
+      "stem": "（49）に入るもの",
+      "options": ["ただし", "しかも", "そこで", "かえって"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vì vậy, người ta đã nghiên cứu nhiều lần để phát triển cách gấp có thể trở lại kích thước ban đầu chỉ trong một lần.",
+        "why": "Câu trước nêu vấn đề (gấp nhiều lần thì phải mở nhiều lần), câu sau nêu biện pháp giải quyết (nghiên cứu cách mở một lần). そこで = \"vì thế, do đó (đưa ra hành động đối phó)\".",
+        "options": [
+          "ただし → tuy nhiên (thêm điều kiện, ngoại lệ). Sai.",
+          "しかも → hơn nữa (bổ sung cùng chiều). Sai.",
+          "そこで → vì vậy (hành động giải quyết vấn đề). ĐÚNG.",
+          "かえって → ngược lại (kết quả trái mong đợi). Sai."
+        ],
+        "vocab": [
+          { "w": "一気に", "r": "いっきに", "hv": "NHẤT KHÍ", "vi": "một mạch, một lần" },
+          { "w": "開発", "r": "かいはつ", "hv": "KHAI PHÁT", "vi": "phát triển, khai thác" },
+          { "w": "重ねる", "r": "かさねる", "hv": "TRÙNG", "vi": "chồng lên, lặp lại nhiều lần" }
+        ],
+        "grammar": {
+          "pattern": "そこで",
+          "meaning": "vì vậy, thế là (nêu hành động để đối phó với tình huống vừa nói)",
+          "form": "[vấn đề/tình huống]。そこで、[hành động giải quyết]",
+          "example": "道がわからなかった。そこで、近くの人に聞いてみた。"
+        },
+        "evidence": null,
+        "tip": "Vấn đề → そこで → giải pháp. Khác だから: そこで luôn đi với hành động có chủ ý."
+      }
+    },
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["活用して", "活用するほかに", "活用するまで", "活用したにもかかわらず"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tận dụng cách gấp này, người ta đang chế tạo các thiết bị như \"tấm pin mặt trời\" dùng cho vệ tinh nhân tạo.",
+        "why": "Cách gấp là phương tiện để chế tạo thiết bị → Vて chỉ cách thức/phương tiện: この折り方を活用して～が作られている.",
+        "options": [
+          "活用して → tận dụng (làm phương tiện). ĐÚNG.",
+          "活用するほかに → ngoài việc tận dụng ra (bổ sung), không hợp. Sai.",
+          "活用するまで → cho đến khi tận dụng. Sai.",
+          "活用したにもかかわらず → mặc dù đã tận dụng (nghịch lý), sai mạch. Sai."
+        ],
+        "vocab": [
+          { "w": "活用", "r": "かつよう", "hv": "HOẠT DỤNG", "vi": "tận dụng, ứng dụng" },
+          { "w": "人工衛星", "r": "じんこうえいせい", "hv": "NHÂN CÔNG VỆ TINH", "vi": "vệ tinh nhân tạo" },
+          { "w": "装置", "r": "そうち", "hv": "TRANG TRÍ", "vi": "thiết bị" },
+          { "w": "太陽電池", "r": "たいようでんち", "hv": "THÁI DƯƠNG ĐIỆN TRÌ", "vi": "pin mặt trời" }
+        ],
+        "grammar": {
+          "pattern": "Vて (phương tiện, cách thức)",
+          "meaning": "bằng cách V, dùng V để…",
+          "form": "Vて ＋ V2",
+          "example": "インターネットを利用して情報を集める。"
+        },
+        "evidence": null,
+        "tip": "Đoạn trước giới thiệu cách gấp, đoạn này nói ứng dụng → \"tận dụng nó để…\"."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["広げられるというのか", "広げられるかのようだ", "広げられるのだろうか", "広げられるというわけだ"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nếu dùng cách gấp đã được phát triển, có thể gấp thiết bị lại cho nhỏ, và khi ra ngoài vũ trụ thì có thể dễ dàng mở rộng ra — chính là như vậy.",
+        "why": "Câu này tổng kết, kết luận một cách hợp lý từ các ý trước (ứng dụng thành quả nghiên cứu) → ～というわけだ = \"tức là, nghĩa là, thế nên mới…\".",
+        "options": [
+          "広げられるというのか → \"lẽ nào có thể mở ra sao?\" (nghi vấn phản bác). Sai.",
+          "広げられるかのようだ → \"cứ như là có thể mở ra\" (so sánh giả định, thực tế không phải). Sai.",
+          "広げられるのだろうか → \"liệu có mở ra được không?\" (nghi ngờ). Sai.",
+          "広げられるというわけだ → nghĩa là có thể mở ra (kết luận). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "広げる", "r": "ひろげる", "hv": "QUẢNG", "vi": "mở rộng, trải ra" },
+          { "w": "成果", "r": "せいか", "hv": "THÀNH QUẢ", "vi": "thành quả" },
+          { "w": "組み立てる", "r": "くみたてる", "hv": "TỔ LẬP", "vi": "lắp ráp" },
+          { "w": "容量", "r": "ようりょう", "hv": "DUNG LƯỢNG", "vi": "dung tích, sức chứa" }
+        ],
+        "grammar": {
+          "pattern": "～というわけだ",
+          "meaning": "tức là, nghĩa là, thế nên (kết luận hợp lý từ điều đã nói)",
+          "form": "普通形 ＋ (という)わけだ",
+          "example": "毎日練習したから、上手になったというわけだ。"
+        },
+        "evidence": null,
+        "tip": "Bản PDF in phương án 4 là 「広がられる」 (lỗi đánh máy); đáp án chuẩn là 「広げられるというわけだ」."
+      }
+    },
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "（52）に入るもの",
+      "options": ["してみたがらない", "してみるのも悪くない", "してみそうにない", "してみても始まらない"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Vừa chơi gấp giấy với trẻ vừa thử kể câu chuyện khoa học như thế này cũng không tệ. Qua gấp giấy, có thể trẻ sẽ hứng thú cả với lĩnh vực kỹ thuật vũ trụ và phát triển công nghệ.",
+        "why": "Người viết đề xuất nhẹ nhàng với người đọc, câu sau nêu lợi ích (trẻ có thể hứng thú với khoa học) → ～のも悪くない = \"~ cũng hay đấy\" (lời gợi ý tích cực).",
+        "options": [
+          "してみたがらない → (người khác) không muốn thử. Sai.",
+          "してみるのも悪くない → thử làm cũng không tệ (gợi ý). ĐÚNG.",
+          "してみそうにない → có vẻ sẽ không thử. Sai.",
+          "してみても始まらない → có thử cũng vô ích (phủ định), mâu thuẫn với lợi ích ở câu sau. Sai."
+        ],
+        "vocab": [
+          { "w": "伝統的", "r": "でんとうてき", "hv": "TRUYỀN THỐNG ĐÍCH", "vi": "mang tính truyền thống" },
+          { "w": "分野", "r": "ぶんや", "hv": "PHÂN DÃ", "vi": "lĩnh vực" },
+          { "w": "宇宙工学", "r": "うちゅうこうがく", "hv": "VŨ TRỤ CÔNG HỌC", "vi": "kỹ thuật vũ trụ" }
+        ],
+        "grammar": {
+          "pattern": "～のも悪くない",
+          "meaning": "~ cũng không tệ, ~ cũng hay đấy (gợi ý nhẹ nhàng)",
+          "form": "V辞書形 ＋ のも悪くない",
+          "example": "たまには一人で旅行するのも悪くない。"
+        },
+        "evidence": null,
+        "tip": "～ても始まらない = có làm cũng vô ích (今さら後悔しても始まらない)."
+      }
+    }
+  ]
+}

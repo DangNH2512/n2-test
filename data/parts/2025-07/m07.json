@@ -1,0 +1,368 @@
+{
+  "exam": "2025-07",
+  "mondai": 7,
+  "section": "grammar",
+  "instruction": "次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn phương án ngữ pháp thích hợp nhất điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "南市は、市民ホールを建設する（　　）、周辺の住民に対して説明会を行う予定だ。",
+      "options": ["とすると", "にあたって", "ものなら", "わりには"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Nhân dịp xây dựng hội trường thị dân, thành phố Minami dự định tổ chức buổi giải thích cho cư dân xung quanh.",
+        "why": "Vる＋にあたって = khi bắt đầu / trước khi làm một việc quan trọng (văn trang trọng). Trước khi xây hội trường thì tổ chức buổi giải thích → hợp nghĩa.",
+        "options": [
+          "とすると → giả sử nếu ~ thì (giả định). Sai.",
+          "にあたって → nhân dịp, khi tiến hành ~. ĐÚNG.",
+          "ものなら → nếu mà có thể ~ (điều khó xảy ra). Sai.",
+          "わりには → so với ~ thì (trái kỳ vọng). Sai."
+        ],
+        "vocab": [
+          { "w": "建設", "r": "けんせつ", "hv": "KIẾN THIẾT", "vi": "xây dựng" },
+          { "w": "周辺", "r": "しゅうへん", "hv": "CHU BIÊN", "vi": "xung quanh" },
+          { "w": "住民", "r": "じゅうみん", "hv": "TRÚ DÂN", "vi": "cư dân" },
+          { "w": "説明会", "r": "せつめいかい", "hv": "THUYẾT MINH HỘI", "vi": "buổi giải thích, thuyết trình" }
+        ],
+        "grammar": {
+          "pattern": "～にあたって／～にあたり",
+          "meaning": "khi, nhân dịp (bắt đầu một việc quan trọng)",
+          "form": "Vる／N ＋ にあたって",
+          "example": "開店にあたって、多くの方にご協力いただきました。"
+        },
+        "evidence": null,
+        "tip": "～にあたって ≈ ～に際して: dùng cho sự kiện đặc biệt, trang trọng."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "彼女は、まだ小学生（　　）、すでに数々の国際的なピアノコンクールで優勝している。",
+      "options": ["こそ", "すら", "ながらも", "どころか"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Cô ấy tuy vẫn còn là học sinh tiểu học nhưng đã vô địch nhiều cuộc thi piano quốc tế.",
+        "why": "N＋ながらも = tuy ~ nhưng (nghịch tiếp). 'Mới là học sinh tiểu học' trái với 'đã vô địch quốc tế' → ながらも.",
+        "options": [
+          "こそ → chính là (nhấn mạnh). Sai.",
+          "すら → ngay cả ~ (cũng không). Sai.",
+          "ながらも → tuy ~ nhưng. ĐÚNG.",
+          "どころか → không những không ~ mà ngược lại. Sai."
+        ],
+        "vocab": [
+          { "w": "数々", "r": "かずかず", "hv": "SỐ", "vi": "nhiều, vô số" },
+          { "w": "優勝する", "r": "ゆうしょうする", "hv": "ƯU THẮNG", "vi": "vô địch" },
+          { "w": "すでに", "r": "すでに", "hv": "", "vi": "đã (rồi)" }
+        ],
+        "grammar": {
+          "pattern": "～ながら（も）",
+          "meaning": "tuy ~ nhưng (nghịch tiếp)",
+          "form": "N／Aい／Aな(bỏ な)／Vます ＋ ながら（も）",
+          "example": "狭いながらも楽しい我が家。(Nhà tuy chật nhưng vui.)"
+        },
+        "evidence": null,
+        "tip": "N＋ながら mang nghĩa nghịch tiếp: 子どもながら (tuy là trẻ con), 残念ながら."
+      }
+    },
+    {
+      "num": 33,
+      "passage": null,
+      "stem": "仕事ができると言われる人は、そうでない人と比べて（　　）何が違うのだろうか。",
+      "options": ["いったい", "おそらく", "かえって", "どうしても"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Người được cho là làm việc giỏi, so với người không như vậy, rốt cuộc khác nhau ở điểm gì nhỉ?",
+        "why": "いったい đi với từ để hỏi (何・どうして・誰) để nhấn mạnh sự thắc mắc: 'rốt cuộc là... vậy?'. Câu có 何が違うのだろうか → いったい.",
+        "options": [
+          "いったい → rốt cuộc, không biết là (đi với câu hỏi). ĐÚNG.",
+          "おそらく → có lẽ (đi với だろう, phỏng đoán chứ không phải câu hỏi). Sai.",
+          "かえって → ngược lại. Sai.",
+          "どうしても → bằng mọi giá / dù thế nào cũng (không). Sai."
+        ],
+        "vocab": [
+          { "w": "いったい", "r": "いったい", "hv": "NHẤT THỂ", "vi": "rốt cuộc, không biết là (nhấn mạnh câu hỏi)" },
+          { "w": "おそらく", "r": "おそらく", "hv": "", "vi": "có lẽ" },
+          { "w": "かえって", "r": "かえって", "hv": "", "vi": "ngược lại" }
+        ],
+        "grammar": {
+          "pattern": "いったい＋từ để hỏi",
+          "meaning": "rốt cuộc là ~ vậy? (nhấn mạnh nghi vấn)",
+          "form": "いったい＋何／誰／どこ／どうして…か",
+          "example": "いったい誰がこんなことをしたんだ。"
+        },
+        "evidence": null,
+        "tip": "Thấy từ để hỏi (何, 誰, どうして) + だろうか → nghĩ ngay đến いったい."
+      }
+    },
+    {
+      "num": 34,
+      "passage": null,
+      "stem": "（旅館で）\n旅館の人「いらっしゃいませ。本日は森川旅館に（　　）、ありがとうございます。」",
+      "options": ["伺いまして", "お越しになり", "参りまして", "おいでくださり"],
+      "answer": 4,
+      "explanation": {
+        "translation": "(Tại lữ quán) Nhân viên: 'Kính chào quý khách. Cảm ơn quý khách hôm nay đã đến lữ quán Morikawa.'",
+        "why": "Cảm ơn hành động của khách → cần tôn kính ngữ + くださる: おいでくださる (= 来てくれる). Mẫu 'Vてくださり、ありがとうございます'.",
+        "options": [
+          "伺いまして → khiêm nhường ngữ (hành động của mình), không dùng cho khách. Sai.",
+          "お越しになり → là tôn kính ngữ nhưng thiếu くださる nên không mang nghĩa 'làm ơn cho mình'; cảm ơn phải là お越しくださり. Sai.",
+          "参りまして → khiêm nhường ngữ của 行く/来る. Sai.",
+          "おいでくださり → 来てくれて (tôn kính) → cảm ơn. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "旅館", "r": "りょかん", "hv": "LỮ QUÁN", "vi": "nhà trọ kiểu Nhật" },
+          { "w": "おいでになる", "r": "おいでになる", "hv": "", "vi": "đến/đi/ở (tôn kính)" },
+          { "w": "伺う", "r": "うかがう", "hv": "TỨ", "vi": "đến thăm, hỏi (khiêm nhường)" }
+        ],
+        "grammar": {
+          "pattern": "おいでくださる／お越しくださる",
+          "meaning": "(quý khách) đã đến cho (tôn kính ngữ của 来てくれる)",
+          "form": "おいで／お越し＋くださる → くださり、ありがとうございます",
+          "example": "遠いところをお越しくださり、ありがとうございます。"
+        },
+        "evidence": null,
+        "tip": "Cảm ơn hành động người khác làm cho mình → luôn cần くださる/いただく."
+      }
+    },
+    {
+      "num": 35,
+      "passage": null,
+      "stem": "父は、健康のことを考えてなるべく（　　）、会社から家まで1時間かけて歩いて帰ってくることもある。",
+      "options": ["歩こうとしそうで", "歩こうとすることで", "歩くようにしているらしく", "歩くようにしていたら"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Bố tôi vì nghĩ đến sức khỏe nên hình như cố gắng đi bộ càng nhiều càng tốt, có khi còn đi bộ 1 tiếng từ công ty về nhà.",
+        "why": "なるべく＋Vるようにしている = cố gắng duy trì thói quen làm V. らしく (hình như) phù hợp vì người nói kể về bố theo suy đoán. Sau đó nối tự nhiên với '…こともある'.",
+        "options": [
+          "歩こうとしそうで → ghép 'định làm' + 'có vẻ sắp' không tự nhiên. Sai.",
+          "歩こうとすることで → 'bằng việc định đi bộ' không nối được với 'có khi đi bộ 1 tiếng'. Sai.",
+          "歩くようにしているらしく → hình như đang cố gắng đi bộ (thói quen). ĐÚNG.",
+          "歩くようにしていたら → 'nếu cố gắng đi bộ thì...' – giả định, không hợp với vế sau. Sai."
+        ],
+        "vocab": [
+          { "w": "なるべく", "r": "なるべく", "hv": "", "vi": "càng ~ càng tốt, cố gắng" },
+          { "w": "健康", "r": "けんこう", "hv": "KIỆN KHANG", "vi": "sức khỏe" }
+        ],
+        "grammar": {
+          "pattern": "Vるようにしている",
+          "meaning": "cố gắng (duy trì thói quen) làm V",
+          "form": "Vる／Vない ＋ ようにしている",
+          "example": "毎日野菜を食べるようにしている。"
+        },
+        "evidence": null,
+        "tip": "なるべく thường đi với ～ようにする."
+      }
+    },
+    {
+      "num": 36,
+      "passage": null,
+      "stem": "図書館で本を借りたのだが、最後まで（　　）、返却期限が来そうだ。",
+      "options": ["読み終わるより", "読み終わらないうちに", "読んでしまうまで", "読んでしまわなければ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi đã mượn sách ở thư viện, nhưng có vẻ hạn trả sách sẽ đến trước khi tôi đọc xong hết.",
+        "why": "Vないうちに = trong khi chưa V thì (đã xảy ra việc khác). 'Chưa đọc xong thì hạn trả đã đến' → 読み終わらないうちに.",
+        "options": [
+          "読み終わるより → 'hơn là đọc xong' (so sánh). Sai.",
+          "読み終わらないうちに → trong khi chưa đọc xong. ĐÚNG.",
+          "読んでしまうまで → 'cho đến khi đọc xong' – mâu thuẫn với 期限が来そうだ. Sai.",
+          "読んでしまわなければ → 'nếu không đọc xong thì' – không hợp với vế sau. Sai."
+        ],
+        "vocab": [
+          { "w": "返却", "r": "へんきゃく", "hv": "PHẢN KHƯỚC", "vi": "trả lại" },
+          { "w": "期限", "r": "きげん", "hv": "KỲ HẠN", "vi": "thời hạn" }
+        ],
+        "grammar": {
+          "pattern": "Vないうちに",
+          "meaning": "trong khi chưa V (thì đã xảy ra việc khác)",
+          "form": "Vない ＋ うちに",
+          "example": "知らないうちに眠ってしまった。"
+        },
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 37,
+      "passage": null,
+      "stem": "最近成績が伸びないので、このままの勉強方法（　　）、先生に相談してみた。",
+      "options": ["でいいことを", "ならいいことを", "でいいのかどうか", "ならいいのかどうか"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Dạo này thành tích không tiến bộ nên tôi đã thử hỏi ý kiến thầy xem cứ giữ cách học như thế này thì có được không.",
+        "why": "Nでいい = N là được. Câu hỏi gián tiếp lồng vào câu: ～かどうか (liệu có ~ hay không) + 相談する. → このままの勉強方法でいいのかどうか.",
+        "options": [
+          "でいいことを → 'việc ~ là được' – không phải nội dung câu hỏi. Sai.",
+          "ならいいことを → なら không hợp và không phải câu hỏi. Sai.",
+          "でいいのかどうか → liệu ~ có được hay không. ĐÚNG.",
+          "ならいいのかどうか → Nならいい mang nghĩa điều kiện 'nếu là N thì tốt', không tự nhiên. Sai."
+        ],
+        "vocab": [
+          { "w": "成績", "r": "せいせき", "hv": "THÀNH TÍCH", "vi": "thành tích, điểm số" },
+          { "w": "伸びる", "r": "のびる", "hv": "THÂN", "vi": "tăng lên, tiến bộ" },
+          { "w": "相談する", "r": "そうだんする", "hv": "TƯƠNG ĐÀM", "vi": "bàn bạc, hỏi ý kiến" }
+        ],
+        "grammar": {
+          "pattern": "～かどうか",
+          "meaning": "liệu có ~ hay không (câu hỏi gián tiếp)",
+          "form": "普通形(Nだ→N) ＋ かどうか",
+          "example": "このやり方でいいのかどうか、わからない。"
+        },
+        "evidence": null,
+        "tip": "Nでいい／Nでかまわない: N là được, N cũng không sao."
+      }
+    },
+    {
+      "num": 38,
+      "passage": null,
+      "stem": "環境問題への意識が世界的に高まってきており、メーカー間の電気自動車の開発競争は激しくなる（　　）。",
+      "options": ["一方だ", "次第だ", "ほどだ", "べきだ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Ý thức về vấn đề môi trường đang dâng cao trên toàn thế giới, cuộc cạnh tranh phát triển xe điện giữa các hãng ngày càng trở nên khốc liệt.",
+        "why": "Vる＋一方だ = ngày càng ~ (xu hướng chỉ tiến về một phía). 激しくなる一方だ = ngày càng gay gắt.",
+        "options": [
+          "一方だ → ngày càng ~. ĐÚNG.",
+          "次第だ → tùy vào ~ / sự tình là ~ (không gắn sau なる với nghĩa này). Sai.",
+          "ほどだ → đến mức ~ (cần mức độ cụ thể). Sai.",
+          "べきだ → nên ~ (không hợp, cạnh tranh không phải điều 'nên'). Sai."
+        ],
+        "vocab": [
+          { "w": "意識", "r": "いしき", "hv": "Ý THỨC", "vi": "ý thức" },
+          { "w": "競争", "r": "きょうそう", "hv": "CẠNH TRANH", "vi": "cạnh tranh" },
+          { "w": "開発", "r": "かいはつ", "hv": "KHAI PHÁT", "vi": "phát triển, khai thác" }
+        ],
+        "grammar": {
+          "pattern": "Vる一方だ",
+          "meaning": "ngày càng ~ (xu hướng tiếp diễn một chiều)",
+          "form": "Vる(động từ biến đổi) ＋ 一方だ",
+          "example": "物価は上がる一方だ。"
+        },
+        "evidence": null,
+        "tip": "一方だ thường đi với động từ biến đổi: 増える・減る・悪くなる・高まる."
+      }
+    },
+    {
+      "num": 39,
+      "passage": null,
+      "stem": "週末、山に登った。とても暑い日だったが、頂上の近くは気温が低くて寒い（　　）。",
+      "options": ["とよかった", "に違いなかった", "かのようだった", "くらいだった"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Cuối tuần tôi đã leo núi. Hôm đó là một ngày rất nóng nhưng gần đỉnh núi nhiệt độ thấp đến mức thấy lạnh.",
+        "why": "～くらいだ = đến mức ~ (diễn tả mức độ). Người nói tự trải nghiệm: nhiệt độ thấp đến mức lạnh → 寒いくらいだった.",
+        "options": [
+          "とよかった → 'giá mà ~ thì tốt' (tiếc nuối). Sai.",
+          "に違いなかった → chắc chắn là ~ (suy đoán); người nói tự trải nghiệm nên không cần đoán. Sai.",
+          "かのようだった → như thể là ~ (thực tế không phải); nhưng thực tế đúng là lạnh. Sai.",
+          "くらいだった → đến mức ~. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "頂上", "r": "ちょうじょう", "hv": "ĐỈNH THƯỢNG", "vi": "đỉnh núi" },
+          { "w": "気温", "r": "きおん", "hv": "KHÍ ÔN", "vi": "nhiệt độ không khí" },
+          { "w": "登る", "r": "のぼる", "hv": "ĐĂNG", "vi": "leo, trèo" }
+        ],
+        "grammar": {
+          "pattern": "～くらいだ／～ぐらいだ",
+          "meaning": "đến mức ~",
+          "form": "普通形 ＋ くらいだ",
+          "example": "疲れて、一歩も歩けないくらいだ。"
+        },
+        "evidence": null,
+        "tip": "Đề in 「気候が低くて」 – nhiều khả năng là lỗi đánh máy của 「気温が低くて」."
+      }
+    },
+    {
+      "num": 40,
+      "passage": null,
+      "stem": "満員電車に乗るのは嫌だが、ほかに手段がないので（　　）。",
+      "options": ["乗るものではない", "乗りようがない", "乗らないわけにはいかない", "乗らなくてもかまわない"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi ghét đi tàu chật cứng người nhưng vì không có phương tiện nào khác nên không thể không đi.",
+        "why": "Vないわけにはいかない = không thể không V (vì hoàn cảnh bắt buộc). Không có cách khác → buộc phải đi tàu.",
+        "options": [
+          "乗るものではない → không nên đi (lời khuyên theo lẽ thường). Sai.",
+          "乗りようがない → không có cách nào để đi. Sai, ngược nghĩa.",
+          "乗らないわけにはいかない → không thể không đi. ĐÚNG.",
+          "乗らなくてもかまわない → không đi cũng được. Sai."
+        ],
+        "vocab": [
+          { "w": "満員電車", "r": "まんいんでんしゃ", "hv": "MÃN VIÊN ĐIỆN XA", "vi": "tàu điện chật cứng người" },
+          { "w": "手段", "r": "しゅだん", "hv": "THỦ ĐOẠN", "vi": "phương tiện, cách thức" }
+        ],
+        "grammar": {
+          "pattern": "Vないわけにはいかない",
+          "meaning": "không thể không V, buộc phải V (vì hoàn cảnh, trách nhiệm)",
+          "form": "Vない ＋ わけにはいかない",
+          "example": "明日は試験だから、勉強しないわけにはいかない。"
+        },
+        "evidence": null,
+        "tip": "Vようがない = không có cách nào để V (bất khả thi)."
+      }
+    },
+    {
+      "num": 41,
+      "passage": null,
+      "stem": "（テレビ番組で）\n司会「薬はどうして水以外の飲み物で飲んではいけないんでしょうか。」\n医者「それは、お茶やジュースで飲むと薬の効きめに影響が出る（　　）。」",
+      "options": ["ことがあるためです", "ことにするためです", "ことがあるはずです", "ことにするはずです"],
+      "answer": 1,
+      "explanation": {
+        "translation": "(Trên chương trình TV) MC: 'Tại sao không được uống thuốc bằng đồ uống khác ngoài nước ạ?' Bác sĩ: 'Đó là vì nếu uống bằng trà hay nước ép thì có khi ảnh hưởng đến hiệu quả của thuốc.'",
+        "why": "Câu hỏi どうして → câu trả lời 'それは～ためです' (là vì ~). Vることがある = có khi, có trường hợp ~. → ことがあるためです.",
+        "options": [
+          "ことがあるためです → là vì có khi ~. ĐÚNG.",
+          "ことにするためです → ことにする = quyết định làm; ảnh hưởng không phải do quyết định. Sai.",
+          "ことがあるはずです → はず là suy đoán, không trả lời lý do. Sai.",
+          "ことにするはずです → sai cả hai phần. Sai."
+        ],
+        "vocab": [
+          { "w": "効きめ", "r": "ききめ", "hv": "HIỆU", "vi": "hiệu quả (thuốc)" },
+          { "w": "影響", "r": "えいきょう", "hv": "ẢNH HƯỞNG", "vi": "ảnh hưởng" },
+          { "w": "司会", "r": "しかい", "hv": "TƯ HỘI", "vi": "người dẫn chương trình" }
+        ],
+        "grammar": {
+          "pattern": "それは～ためです",
+          "meaning": "đó là vì ~ (trả lời câu hỏi lý do)",
+          "form": "普通形 ＋ ためです",
+          "example": "遅れたのは、事故で電車が止まったためです。"
+        },
+        "evidence": null,
+        "tip": "どうして／なぜ ↔ ～から／～ためです."
+      }
+    },
+    {
+      "num": 42,
+      "passage": null,
+      "stem": "私は猫アレルギーで、猫に触ると体がかゆくなってしまうのだが、猫は好きなので、見るとつい（　　）。",
+      "options": ["触ってみたがっている", "触ってみたくなってしまう", "触ってみてほしがっている", "触ってみてほしくなってしまう"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi bị dị ứng mèo, chạm vào là ngứa khắp người, nhưng vì thích mèo nên hễ thấy là lại buột muốn sờ thử.",
+        "why": "Chủ ngữ là 私 → mong muốn của bản thân dùng ～たい (không dùng ～たがる cho ngôi 1). つい＋～てしまう = lỡ, buột. → 触ってみたくなってしまう.",
+        "options": [
+          "触ってみたがっている → ～たがる dùng cho ngôi thứ 3. Sai.",
+          "触ってみたくなってしまう → lại buột muốn sờ thử. ĐÚNG.",
+          "触ってみてほしがっている → 'muốn người khác sờ' + ngôi 3. Sai.",
+          "触ってみてほしくなってしまう → 'muốn ai đó sờ thử' – sai chủ thể hành động. Sai."
+        ],
+        "vocab": [
+          { "w": "触る", "r": "さわる", "hv": "XÚC", "vi": "sờ, chạm" },
+          { "w": "かゆい", "r": "かゆい", "hv": "", "vi": "ngứa" },
+          { "w": "つい", "r": "つい", "hv": "", "vi": "lỡ, buột (không kiềm được)" }
+        ],
+        "grammar": {
+          "pattern": "つい～てしまう",
+          "meaning": "lỡ, buột làm gì (dù biết không nên)",
+          "form": "つい ＋ Vて ＋ しまう",
+          "example": "ダイエット中なのに、つい甘いものを食べてしまう。"
+        },
+        "evidence": null,
+        "tip": "Ngôi 1: ～たい; ngôi 3: ～たがっている."
+      }
+    }
+  ]
+}

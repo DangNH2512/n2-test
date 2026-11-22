@@ -1,0 +1,312 @@
+{
+  "exam": "2013-12",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（１）から（３）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(3), chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "①<u>面接の準備をする作業</u>は自分自身を見つめ直すいいきっかけになると私は思います。自分って要するになんなんだろう？何が人と違って、どこが優れているんだろう？普段は自分自身のことをそこまで考えないでしょうが、面接に臨む（注1）ためには、自分で自分を的確に語れるようになっていなくてはダメです。それも短い的確な言葉に絞り込まなければなりません。\n新聞記事をよく見てください。太い大見出しというのは１０文字以下です。あれがニュースです。世界中に起きていること、国会で起きていること、大きな事件、それらをたった１０文字以下で表現しているのです。\n一日の国会でどれだけたくさんの論戦が戦わされていることでしょう。その事実だけを列挙（注2）しても新聞にはなりません。すべてを書かれても、読み手はそのすべてを受け取ることもできません。そこで記者が膨大な事実の中からニュースと判断されるものを探し出し、たった一言でまとめてしまう、それがニュースであり、大見出しなのです。\n（中略）面接で自分を語るということは②<u>自分自身を見出しにする</u>ということです。自分の人生という長く膨大な時の流れと経験の数々、その都度（注3）心に去来した（注4）ありとあらゆる（注5）思い、それをたったヒトコト（注6）で表現するのです。ヒトコトなんかじゃ語れないことは分かっています。でも、ヒトコトで語らなければならないのです。\n\n（黒石祐治「メッセージを高める黒石の法則」による）\n\n（注1）面接に臨む：面接を受ける\n（注2）列挙する：並べる\n（注3）その都度：そのたびに\n（注4）心に去来する：ここでは、心に浮かぶ\n（注5）ありとあらゆる：すべての\n（注6）ヒトコト：普通「一言」と書く"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "美術館に展示（注1）してあるものに正解は一つもない。その作品をどう観るかはまったくの自由だ。もちろん、その作品を制作したアーティストの意図は存在する。しかし、それは決してただ一つの正解ではない。作者も考えていなかったような見方、読み方ができることが芸術作品の魅力なのだ。優れた作品は作者の意図を軽々と超えて、観客の心のなかで多様な気づきを生み出していく。多様な解釈ができることは、優れた美術作品の条件だと言ってもいい。\nしかし、日本人は、この「答えがない」ことが苦手なのだ。「美術が難しい」「絵がわからない」という声をよく聞くのは、多くの日本人が美術や絵の見方に「正解」があると思っているからである。欧米ではこうした声は聞かれない。「美術は好きじゃない」「絵には興味ない」という人はいる。しかし、「わからない」ものだと思っている人はあまりいないのではないかと思う。\nただし、「絵がわからない」と当惑（注2）気味につぶやくのは大人たちだけだ。子供はそんなことは言わない。美術館で子供たちは、それぞれのやり方で作品を受け止める。（中略）面白いと思えばハマる（注3）。思わなければ忘れてしまう。子供たちと美術の最初の出会いはそれでいいのだと思う。\n\n（蓑豊『超〈集客力〉革命―人気美術館が知っているお客の呼び方』による）\n\n（注1）展示（てんじ）する：並べて見せる\n（注2）当惑（とうわく）気味につぶやく：困ったように小声で言う\n（注3）ハマる：ここでは、夢中になる"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "暑い夏、外を歩くと汗が出る。汗を止めるために冷房のきいた部屋に入る。誰もがしがちな行動だが、実は、私たちの体にとっては①<u>良いことではない</u>。\n汗は汗腺によって作られるが、この汗腺は汗を作るだけではなく、汗を体外に出す働きも持っている。そして多くの汗腺が活発に働いていれば、蒸発しやすいさらさらした汗が作られ、体温調節がスムーズに行われる。汗腺は人の体には２００～５００万か所ほどあるが、通常、そのうちの半分程度が働かずに休んでいる。そして、通常でも半分しか働いていないのに、冷房を多用するなどして汗を出さないでいると、さらに休む汗腺が増えていく。\n働いている汗腺が１００か所あって、そこで１００ccの汗を作って出すという処理をしなければならないとして考えてみよう。その時にもし冷房のきいた部屋に入り②<u>汗腺が５０か所しか働かなくなれば</u>、一か所当たり１ccの処理のはずが、２倍の２ccの処理になる。そうなると、処理が間に合わず、塩分などの体内に吸収されるべき成分を含んだままの汗が体外に出てしまうことになる。このような汗はべたべたとしており、蒸発しにくく、「蒸発することで体温調節をする」という汗の役割をうまく果たせない。\n休む汗腺を増やさないためには、日ごろから汗が出る時にはそのまま出すという生活をしたほうがいい。飲食物に気をつけることも有効である。汗が出ている時に冷えたものをとると、脳が「体は冷えた」と判断し、汗を止めてしまうので注意が必要だ。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 60,
+      "passage": "p1",
+      "stem": "①<u>面接の準備をする作業</u>について、筆者はどのように考えているか。",
+      "options": [
+        "人とは違う優れた能力を発見することにつながる。",
+        "自分の本当にしたいことが見えてくるようになる。",
+        "自分のことをありのままに語れるようになる。",
+        "自分のことをよりよく知ることにつながる。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả nghĩ thế nào về 'công việc chuẩn bị phỏng vấn'? → Nó dẫn đến việc hiểu rõ bản thân hơn.",
+        "why": "Ngay câu đầu: việc chuẩn bị phỏng vấn là cơ hội tốt để 'nhìn nhận lại chính mình' (自分自身を見つめ直す), tự hỏi mình là ai, khác người ở đâu → hiểu bản thân hơn.",
+        "options": [
+          "Phát hiện năng lực vượt trội khác người → bài chỉ nói 'tự hỏi' mình giỏi ở đâu, không khẳng định sẽ phát hiện năng lực vượt trội. Sai.",
+          "Thấy được điều mình thật sự muốn làm → không được đề cập. Sai.",
+          "Kể về mình đúng y như thật (ありのまま) → tác giả nhấn mạnh phải tóm gọn, chắt lọc 'ngắn và chính xác', không phải kể nguyên trạng. Sai.",
+          "Dẫn đến hiểu bản thân rõ hơn = 自分自身を見つめ直す. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "面接", "r": "めんせつ", "hv": "DIỆN TIẾP", "vi": "phỏng vấn" },
+          { "w": "見つめ直す", "r": "みつめなおす", "hv": "KIẾN TRỰC", "vi": "nhìn nhận lại, xem xét lại" },
+          { "w": "きっかけ", "r": "きっかけ", "hv": "", "vi": "cơ hội, động cơ, khởi đầu" },
+          { "w": "的確", "r": "てきかく", "hv": "ĐÍCH XÁC", "vi": "chính xác, đúng trọng tâm" },
+          { "w": "絞り込む", "r": "しぼりこむ", "hv": "GIẢO", "vi": "thu hẹp, chắt lọc" }
+        ],
+        "grammar": null,
+        "evidence": "面接の準備をする作業は自分自身を見つめ直すいいきっかけになると私は思います。",
+        "tip": "Câu trả lời cho 'tác giả nghĩ gì về ①' thường nằm ngay trong câu chứa ①."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p1",
+      "stem": "面接と新聞の共通点は何か。",
+      "options": [
+        "できるだけ多くのことを正確に伝えなければならない。",
+        "相手が何を知りたいかを考えて伝えなければならない。",
+        "伝えたいことを選んで簡潔に伝えなければならない。",
+        "実際にあったことだけを伝えなければならない。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điểm chung giữa phỏng vấn và báo chí là gì? → Phải chọn lọc điều muốn truyền đạt và truyền đạt ngắn gọn.",
+        "why": "Báo: phóng viên chọn ra điều đáng thành tin từ vô số sự thật và tóm lại 'chỉ trong một câu' (大見出し ≤ 10 chữ). Phỏng vấn: phải thu gọn bản thân vào 'lời ngắn và chính xác', 'chỉ một lời'. → chọn lọc + ngắn gọn.",
+        "options": [
+          "Truyền đạt càng nhiều càng tốt → ngược ý: liệt kê hết thì không thành báo. Sai.",
+          "Nghĩ xem đối phương muốn biết gì → không được đề cập trực tiếp. Sai.",
+          "Chọn lọc và truyền đạt ngắn gọn. ĐÚNG.",
+          "Chỉ truyền đạt sự thật → bài nói 'chỉ liệt kê sự thật thì không thành báo'. Sai."
+        ],
+        "vocab": [
+          { "w": "大見出し", "r": "おおみだし", "hv": "ĐẠI KIẾN XUẤT", "vi": "tít lớn (báo)" },
+          { "w": "膨大", "r": "ぼうだい", "hv": "BÀNH ĐẠI", "vi": "khổng lồ, đồ sộ" },
+          { "w": "簡潔", "r": "かんけつ", "hv": "GIẢN KHIẾT", "vi": "ngắn gọn, súc tích" },
+          { "w": "列挙", "r": "れっきょ", "hv": "LIỆT CỬ", "vi": "liệt kê" }
+        ],
+        "grammar": null,
+        "evidence": "そこで記者が膨大な事実の中からニュースと判断されるものを探し出し、たった一言でまとめてしまう、それがニュースであり、大見出しなのです。／それも短い的確な言葉に絞り込まなければなりません。",
+        "tip": "探し出す (chọn ra) + 一言でまとめる (tóm trong một lời) = 選んで簡潔に."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p1",
+      "stem": "②<u>自分自身を見出しにする</u>とあるが、どういうことか。",
+      "options": [
+        "これまで生きてきた自分について短く的確に語る。",
+        "これまでの人生で感動したことを印象的に伝える。",
+        "自身にとっての大きな出来事をまとめて説明する。",
+        "自身の経験を時の流れに沿って分かりやすく説明する。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "'Biến bản thân thành tít báo' nghĩa là gì? → Nói ngắn gọn, chính xác về bản thân mình đã sống đến nay.",
+        "why": "Ngay sau ②: lấy dòng thời gian dài và vô số trải nghiệm của đời mình, mọi suy nghĩ từng nảy ra, rồi 'diễn đạt chỉ bằng một lời'. Giống tít báo = ngắn và trúng trọng tâm.",
+        "options": [
+          "Nói ngắn gọn, chính xác về bản thân đã sống đến nay. ĐÚNG.",
+          "Truyền đạt ấn tượng điều cảm động trong đời → không nói về 'cảm động'. Sai.",
+          "Tóm tắt giải thích các sự kiện lớn → không phải chỉ sự kiện lớn; trọng tâm là 'một lời'. Sai.",
+          "Giải thích trải nghiệm theo trình tự thời gian → ngược lại, phải gói tất cả trong một lời. Sai."
+        ],
+        "vocab": [
+          { "w": "見出し", "r": "みだし", "hv": "KIẾN XUẤT", "vi": "tiêu đề, tít" },
+          { "w": "その都度", "r": "そのつど", "hv": "ĐÔ ĐỘ", "vi": "mỗi lần như vậy" },
+          { "w": "去来", "r": "きょらい", "hv": "KHỨ LAI", "vi": "đến rồi đi; (ý nghĩ) thoáng hiện" },
+          { "w": "ありとあらゆる", "r": "ありとあらゆる", "hv": "", "vi": "tất cả, mọi" }
+        ],
+        "grammar": null,
+        "evidence": "自分の人生という長く膨大な時の流れと経験の数々、その都度心に去来したありとあらゆる思い、それをたったヒトコトで表現するのです。",
+        "tip": "Phương án 4 dùng lại từ 時の流れ trong bài để gài bẫy – đọc kỹ ý 'たったヒトコトで'."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p2",
+      "stem": "筆者は、どのような芸術作品が優れていると述べているか。",
+      "options": [
+        "観る人が自由に解釈できる作品。",
+        "観る人が共通の解釈を持てる作品。",
+        "作者の意図が観る人の解釈を超える作品。",
+        "作者の意図が明確で素直に解釈できる作品。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tác giả cho rằng tác phẩm nghệ thuật như thế nào là xuất sắc? → Tác phẩm mà người xem có thể tự do diễn giải.",
+        "why": "Tác giả: cách xem hoàn toàn tự do; tác phẩm xuất sắc vượt qua ý đồ tác giả, tạo ra nhiều nhận thức khác nhau trong lòng người xem; 'có thể diễn giải đa dạng là điều kiện của tác phẩm xuất sắc'.",
+        "options": [
+          "Người xem tự do diễn giải. ĐÚNG.",
+          "Người xem có chung một cách hiểu → ngược với 'đa dạng'. Sai.",
+          "Ý đồ tác giả vượt qua cách hiểu của người xem → đảo ngược: tác phẩm vượt qua ý đồ tác giả. Sai.",
+          "Ý đồ rõ ràng, hiểu thẳng → ngược ý. Sai."
+        ],
+        "vocab": [
+          { "w": "解釈", "r": "かいしゃく", "hv": "GIẢI THÍCH", "vi": "diễn giải, cách hiểu" },
+          { "w": "意図", "r": "いと", "hv": "Ý ĐỒ", "vi": "ý đồ, dụng ý" },
+          { "w": "多様", "r": "たよう", "hv": "ĐA DẠNG", "vi": "đa dạng" },
+          { "w": "魅力", "r": "みりょく", "hv": "MỊ LỰC", "vi": "sức hấp dẫn" }
+        ],
+        "grammar": null,
+        "evidence": "優れた作品は作者の意図を軽々と超えて、観客の心のなかで多様な気づきを生み出していく。多様な解釈ができることは、優れた美術作品の条件だと言ってもいい。",
+        "tip": "Bẫy đảo chủ-khách ở phương án 3: '作品が作者の意図を超える' chứ không phải 'ý đồ vượt cách hiểu'."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p2",
+      "stem": "筆者によると、日本人の大人が美術を難しいと感じるのはなぜか。",
+      "options": [
+        "決まった見方があるのに自由に観ようとするから。",
+        "見方に正しい答えがあるはずだと思っているから。",
+        "誰も正しい見方を教えてくれないから。",
+        "見方がいろいろあって選べないから。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo tác giả, vì sao người lớn Nhật thấy mỹ thuật khó? → Vì họ nghĩ cách xem tranh hẳn phải có đáp án đúng.",
+        "why": "'Hay nghe câu 美術が難しい・絵がわからない là vì nhiều người Nhật cho rằng cách xem mỹ thuật có một 正解 (đáp án đúng)'.",
+        "options": [
+          "Có cách xem cố định mà lại muốn xem tự do → tác giả nói không có cách xem cố định. Sai.",
+          "Nghĩ rằng cách xem phải có đáp án đúng. ĐÚNG.",
+          "Không ai dạy cách xem đúng → không được đề cập. Sai.",
+          "Nhiều cách xem nên không chọn được → không phải lý do tác giả nêu. Sai."
+        ],
+        "vocab": [
+          { "w": "正解", "r": "せいかい", "hv": "CHÍNH GIẢI", "vi": "đáp án đúng" },
+          { "w": "苦手", "r": "にがて", "hv": "KHỔ THỦ", "vi": "kém, không giỏi, ngại" },
+          { "w": "欧米", "r": "おうべい", "hv": "ÂU MỸ", "vi": "Âu Mỹ, phương Tây" },
+          { "w": "当惑", "r": "とうわく", "hv": "ĐƯƠNG HOẶC", "vi": "bối rối" }
+        ],
+        "grammar": null,
+        "evidence": "「美術が難しい」「絵がわからない」という声をよく聞くのは、多くの日本人が美術や絵の見方に「正解」があると思っているからである。",
+        "tip": "Cấu trúc 〜のは、〜からである = 'sở dĩ … là vì …' → vế sau chính là lý do."
+      }
+    },
+    {
+      "num": 65,
+      "passage": "p2",
+      "stem": "子供と美術の出会いについて、筆者はどのように考えているか。",
+      "options": [
+        "絵がわからなくても大丈夫だ。",
+        "絵がわかったという実感が大切だ。",
+        "優れた作品に多く触れたほうがいい。",
+        "興味を持ったものを観ればいい。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả nghĩ thế nào về lần gặp gỡ đầu tiên giữa trẻ em và mỹ thuật? → Chỉ cần xem những gì mình thấy hứng thú là được.",
+        "why": "Trẻ tiếp nhận tác phẩm theo cách riêng: thấy thú vị thì say mê, không thì quên đi – 'lần gặp gỡ đầu tiên như thế là được'. → cứ xem cái mình hứng thú.",
+        "options": [
+          "Không hiểu tranh cũng không sao → trẻ vốn không nói 'không hiểu'; tác giả không bàn chuyện hiểu/không hiểu. Sai.",
+          "Cảm giác 'đã hiểu tranh' là quan trọng → không được đề cập. Sai.",
+          "Nên tiếp xúc nhiều tác phẩm xuất sắc → không được đề cập. Sai.",
+          "Cứ xem cái mình thấy hứng thú. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "受け止める", "r": "うけとめる", "hv": "THỤ CHỈ", "vi": "đón nhận, tiếp nhận" },
+          { "w": "ハマる", "r": "はまる", "hv": "", "vi": "say mê, nghiện" },
+          { "w": "出会い", "r": "であい", "hv": "XUẤT HỘI", "vi": "cuộc gặp gỡ" }
+        ],
+        "grammar": null,
+        "evidence": "面白いと思えばハマる。思わなければ忘れてしまう。子供たちと美術の最初の出会いはそれでいいのだと思う。",
+        "tip": "'それでいい' chỉ ý ngay trước: thấy thú vị thì mê, không thì quên → tự do theo hứng thú."
+      }
+    },
+    {
+      "num": 66,
+      "passage": "p3",
+      "stem": "①<u>良いことではない</u>とあるが、なぜか。",
+      "options": [
+        "汗腺の数が減ってしまうから。",
+        "汗腺が汗を作れなくなるから。",
+        "働くべき汗腺が働かなくなるから。",
+        "一つ一つの汗腺の働きが弱まるから。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "'Không phải điều tốt' – vì sao? → Vì những tuyến mồ hôi đáng lẽ phải hoạt động lại không hoạt động nữa.",
+        "why": "Bình thường đã chỉ có một nửa tuyến mồ hôi hoạt động; nếu dùng điều hòa nhiều mà không ra mồ hôi thì 'số tuyến nghỉ lại tăng thêm' → tuyến cần hoạt động thì không hoạt động.",
+        "options": [
+          "Số tuyến mồ hôi giảm → số lượng không giảm; chỉ là số tuyến 'nghỉ' tăng. Sai.",
+          "Tuyến mồ hôi không tạo được mồ hôi nữa → bài không nói vậy. Sai.",
+          "Tuyến đáng lẽ hoạt động lại không hoạt động = 休む汗腺が増えていく. ĐÚNG.",
+          "Chức năng từng tuyến yếu đi → ngược lại, mỗi tuyến phải xử lý nhiều hơn. Sai."
+        ],
+        "vocab": [
+          { "w": "汗腺", "r": "かんせん", "hv": "HÃN TUYẾN", "vi": "tuyến mồ hôi" },
+          { "w": "冷房", "r": "れいぼう", "hv": "LÃNH PHÒNG", "vi": "máy lạnh, điều hòa (làm mát)" },
+          { "w": "蒸発", "r": "じょうはつ", "hv": "CHƯNG PHÁT", "vi": "bay hơi" },
+          { "w": "体温調節", "r": "たいおんちょうせつ", "hv": "THỂ ÔN ĐIỀU TIẾT", "vi": "điều hòa thân nhiệt" },
+          { "w": "多用", "r": "たよう", "hv": "ĐA DỤNG", "vi": "dùng nhiều" }
+        ],
+        "grammar": {
+          "pattern": "Vないでいる",
+          "meaning": "cứ để trong trạng thái không …",
+          "form": "Vない＋でいる",
+          "example": "何も食べないでいると、体に悪い。(Cứ nhịn không ăn gì thì có hại cho cơ thể.)"
+        },
+        "evidence": "通常でも半分しか働いていないのに、冷房を多用するなどして汗を出さないでいると、さらに休む汗腺が増えていく。",
+        "tip": "Phân biệt 'số tuyến giảm' (sai) với 'số tuyến nghỉ tăng' (đúng)."
+      }
+    },
+    {
+      "num": 67,
+      "passage": "p3",
+      "stem": "②<u>汗腺が５０か所しか働かなくなれば</u>とあるが、そうなった場合どうなるか。",
+      "options": [
+        "汗の中の塩分などが増えて体温調節がしにくくなる。",
+        "汗の中の塩分などが減って蒸発しにくくなる。",
+        "汗の量が増えて蒸発しにくくなる。",
+        "汗の量が減って体温調節がしにくくなる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nếu chỉ còn 50 tuyến mồ hôi hoạt động thì sẽ ra sao? → Muối khoáng trong mồ hôi tăng lên, khó điều hòa thân nhiệt.",
+        "why": "Mỗi tuyến phải xử lý gấp đôi → không kịp → mồ hôi ra ngoài vẫn còn chứa muối và các thành phần lẽ ra được hấp thu lại → mồ hôi dính, khó bay hơi, không làm tốt vai trò điều hòa thân nhiệt.",
+        "options": [
+          "Muối trong mồ hôi tăng → khó điều hòa thân nhiệt. ĐÚNG.",
+          "Muối giảm → ngược lại (muối còn nguyên trong mồ hôi = tăng). Sai.",
+          "Lượng mồ hôi tăng → tổng lượng vẫn 100cc; chỉ phần xử lý mỗi tuyến tăng. Sai.",
+          "Lượng mồ hôi giảm → không đúng; vấn đề là chất lượng mồ hôi. Sai."
+        ],
+        "vocab": [
+          { "w": "塩分", "r": "えんぶん", "hv": "DIÊM PHÂN", "vi": "muối, lượng muối" },
+          { "w": "吸収", "r": "きゅうしゅう", "hv": "HẤP THU", "vi": "hấp thu" },
+          { "w": "成分", "r": "せいぶん", "hv": "THÀNH PHẦN", "vi": "thành phần" },
+          { "w": "間に合う", "r": "まにあう", "hv": "GIAN HỢP", "vi": "kịp" },
+          { "w": "べたべた", "r": "べたべた", "hv": "", "vi": "dính nhớp" }
+        ],
+        "grammar": null,
+        "evidence": "処理が間に合わず、塩分などの体内に吸収されるべき成分を含んだままの汗が体外に出てしまうことになる。このような汗はべたべたとしており、蒸発しにくく、「蒸発することで体温調節をする」という汗の役割をうまく果たせない。",
+        "tip": "含んだまま = vẫn còn chứa (lẽ ra phải được lấy lại) → hàm lượng muối trong mồ hôi tăng."
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p3",
+      "stem": "筆者によると、良い汗を出すにはどうすればよいか。",
+      "options": [
+        "日ごろから水分を多く取り、汗が出やすい状態にする。",
+        "汗をたくさん出して、働いている汗腺の機能を高める。",
+        "汗が出るときには、できるだけ止めないようにする。",
+        "脳を刺激し、汗腺への命令の伝わりをよくする。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Theo tác giả, để ra mồ hôi tốt thì nên làm gì? → Khi mồ hôi ra thì cố gắng đừng ngăn lại.",
+        "why": "Đoạn cuối: để không tăng số tuyến nghỉ, nên sống theo kiểu 'khi mồ hôi ra thì cứ để nó ra' (そのまま出す); cũng cẩn thận đồ ăn lạnh vì não sẽ ra lệnh ngừng mồ hôi.",
+        "options": [
+          "Uống nhiều nước thường ngày → không được đề cập. Sai.",
+          "Ra thật nhiều mồ hôi để nâng chức năng → bài không khuyên 'ra thật nhiều'; chỉ khuyên đừng ngăn lại. Sai.",
+          "Khi ra mồ hôi thì cố đừng ngăn lại = そのまま出す. ĐÚNG.",
+          "Kích thích não → bài chỉ cảnh báo đồ lạnh làm não ra lệnh dừng mồ hôi. Sai."
+        ],
+        "vocab": [
+          { "w": "日ごろ", "r": "ひごろ", "hv": "NHẬT", "vi": "thường ngày" },
+          { "w": "有効", "r": "ゆうこう", "hv": "HỮU HIỆU", "vi": "hiệu quả" },
+          { "w": "飲食物", "r": "いんしょくぶつ", "hv": "ẨM THỰC VẬT", "vi": "đồ ăn thức uống" },
+          { "w": "判断", "r": "はんだん", "hv": "PHÁN ĐOÁN", "vi": "phán đoán" }
+        ],
+        "grammar": null,
+        "evidence": "休む汗腺を増やさないためには、日ごろから汗が出る時にはそのまま出すという生活をしたほうがいい。",
+        "tip": "〜たほうがいい trong đoạn kết thường là lời khuyên chính của tác giả."
+      }
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "exam": "2024-12",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（1）から（4）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(4) và chọn câu trả lời đúng nhất cho mỗi câu hỏi (đoạn văn trung bình).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "新年度が始まった。進級や進学、転勤やそれに伴う転居など変化の多い季節だ。新しい学校に進学したり職場が変わったりして新しい環境に入っていく人も多いだろう。（中略）\n新しい環境では緊張や不安を感じるものだ。人見知り（注１）が強い性格だと、こうした変化が苦手だ。私もその一人だが、どんな場所でもいつも通り元気に自分の力を発揮する人を見ると、うらやましくも思える。こちらは少々のことで気持ちが揺れ動いているように思え、いつでも平常心で行動できればと考える。\nしかし新しい環境で不安を感じないというのは、<u>必ずしも良いことではない</u>。慣れない環境で、何の不安も感じずにこれまでと同じような行動をしていたのでは、思いがけない失敗をする可能性がある。これまでの経験からは想定（注２）できないことが起きるかもしれない。人生、何があるかわからないのだ。\n慣れない場所では、むしろ良くないことが起きる可能性を考えて慎重に行動した方が安全だ。私たちは不安を感じるからこそ、良くない事態に備えて準備しようと考える。緊張するからこそ、集中して、しかも慎重に問題に対応できる。実際に良くないことが起きたときの対応法もシミュレーション（注３）できる。\n不安や緊張は自分を守る安全弁（注４）の働きをしている。不安や緊張を感じたときは、そのような気持ちを感じられる自分のこころの力を信じて、あれこれ考えすぎずに今自分にできることに集中するようにしてほしい。\n\n（注１）人見知り：初対面の相手に緊張する気持ち\n（注２）想定する：ここでは、想像する\n（注３）シミュレーションする：ここでは、想像する\n（注４）安全弁：ここでは、安全のための装置"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "「いぬ」は人間の家畜（注１）になる前から、群れて暮らしていた動物です。人間の家族の一員ともなれば集団生活の掟（注２）そのままに、飼い主を群れのリーダーや上位のものとみなし（注３）、日頃から服従（注４）の態度を示します。また、飼い主のその日の顔色をうかがうなど、家庭内の空気を読みとりながら、上手にふるまう（注５）ことにも長けています（注６）。群れで生活する動物は、お互いの状況を把握して（注７）、それにあわせた行動をとることが、群れ社会のなかで生きていくには必要だからです。人間にとっても、「いぬのきもち」は非常にわかりやすく、会話はできなくとも、お互いになにを考えているかが理解しやすい動物です。そこが、「いぬ」と一緒に暮らすことのひとつの魅力でもあるのでしょう。\n一方、「ねこ」は、もともとが単独で行動していた動物ですので、家の中で人間の家族と一緒に暮らすようになっても、協調性のようなものはありません。また、家庭の中で自分の立場もあまり気にしないので、いぬのように、飼い主をリーダーとみなして服従することはありません。（中略）ねこがいったい飼い主である自分のことをどう思っているのか、飼い主であれば誰しも知りたいところですが、人間の持つ気持ちや感情の尺度では、完全には理解しがたい動物だと思います。ねこはそもそも集団生活をしない、個を重視する孤独な生き物だからです。しかし、この理解できないところが、ねこの大きな魅力のひとつであり、人間が、ねこと一緒に暮らしたがる理由のひとつではないでしょうか。\n\n（注１）家畜：人間が飼って利用する動物\n（注２）掟：ここでは、決まり\n（注３）みなす：考える\n（注４）服従の態度：ここでは、従う態度\n（注５）ふるまう：行動する\n（注６）長ける：優れている\n（注７）把握する：ここでは、理解する"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "作家が小説を書くときは、頭の中に書いているシーンが「絵」や「映像」として浮かんでいます。そのシーンを言語化し、文字という記号にしているのです。読者は作家が書いた文字を読み、頭の中で想像しながら映像化します。そこで感情移入（注１）が起きて、笑ったり、涙したりしているのです。\n小説がベストセラー（注２）となり映画化されると「この配役じゃない（注３）」「そのシーンは違う」といった声がよく上がりますが、これは<u>当たり前のことです</u>。映画というのは監督が原作を読んでイメージを膨らませ、映像化した作品だからです。原作の小説は読者一人一人が作家からの記号（文字）を受け取って、それぞれが自由にシーンを思い浮かべています。\nフランスの哲学者ロラン・バルトはこの現象を「作者の死」と表現しました。\n「物語は作者の意図通りに読まなくてもいい。読者が好きな読み方をして、それぞれ解釈すればいい」\n「作者は作品を支配できず、読者に解釈を任せなければならない」\nロラン・バルトはそう主張しました。私たちは作品の解釈を作者に求めがちです。これは作者の意図を正確に読み取ろうという発想です。そうではなく、作品の解釈は読者それぞれでいい。読者それぞれが頭の中で好き勝手に映像化していいのです。\n\n（注１）感情移入：ここでは、登場人物と同じ気持ちになること\n（注２）ベストセラー：最もよく売れている本\n（注３）この配役じゃない：ここでは、演じている俳優がこの役に合っていない"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "哲学は一般の人が、一般的な問題について考えるための学問です。「人生の意味とは何か」「人類に共通の利益はあるのか」「時間とは何か」「愛とは何か」「正義（注１）はどのように定まるのか」「国はどのようにあるべきか」「法の役割とは何か」「正しい認識（注２）にはどうやって到達するのか」「宗教は必要か」などが<u>哲学の典型的な問い</u>です。\nこれらの問いは、複数の教科や学問分野の根底（注３）に関わるような問題であることはおわかりでしょう。「愛とは何か」を考えることは、個人的な愛についての考えを尋ねているだけではなく、隣人愛（注４）は、社会の中で人々のつながりはどうあるべきか、家族愛は、家族とはどうあるべきかといった、社会におけるみんなの問題となってくるはずです。社会観や家族観は、政策（注５）や法律の設定とも関係してくるでしょう。（中略）\nしかし哲学の<u>もうひとつの重要な仕事</u>は、それぞれの専門的な知識をより一般的で全体的な観点から問い直すことです。たとえば、遺伝子治療（注６）は非常に専門性が高い分野です。しかし遺伝子治療の範囲をどこまで認めていいのか。遺伝子を組み替えて難病にかかりにくくした子どもを作っていいのか。人間の遺伝子に対して、人間はどこまで改変して（注７）よいものなのでしょうか。\nこうしたことは、社会のだれにでも関わってくるので、医学の専門家だけに判断を任せてよい問題ではありません。社会に存在している常識や知識や技術を、人間の根本的な価値に照らし合わせてあらためて検討することは重要な哲学の役割です。\n\n（注１）正義：人としての正しい行い\n（注２）認識：ここでは、理解\n（注３）根底：土台\n（注４）隣人愛：ここでは、社会で交流のある人への愛\n（注５）政策：政治の方針と手段\n（注６）遺伝子治療：遺伝子に働きかける治療法\n（注７）改変する：変える"
+    }
+  ],
+  "questions": [
+    {
+      "num": 57,
+      "passage": "p1",
+      "stem": "<u>必ずしも良いことではない</u>とあるが、なぜか。",
+      "options": [
+        "予想しなかったことにうまく対応できないかもしれないから。",
+        "これまでと同じような失敗をする可能性があるから。",
+        "これまでのやり方を周囲に押しつけてしまうから。",
+        "いつまでも新しい環境に慣れることができないから。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tác giả viết \"không hẳn là điều tốt\", tại sao? → Vì có thể sẽ không ứng phó tốt được với những việc không lường trước.",
+        "why": "Ngay sau câu gạch chân: nếu không chút lo lắng mà hành động như trước trong môi trường lạ, có thể thất bại bất ngờ; có thể xảy ra những việc không thể hình dung từ kinh nghiệm cũ → không ứng phó kịp với điều không dự đoán.",
+        "options": [
+          "Khớp với 思いがけない失敗／想定できないことが起きるかもしれない. ĐÚNG.",
+          "Bài nói thất bại \"bất ngờ\" (思いがけない), không phải thất bại \"giống như trước\". Sai.",
+          "Bài không nói áp đặt cách làm lên người xung quanh. Sai.",
+          "Bài không nói mãi không quen được với môi trường mới. Sai."
+        ],
+        "vocab": [
+          { "w": "必ずしも〜ない", "r": "かならずしも〜ない", "hv": "TẤT", "vi": "không hẳn là ~" },
+          { "w": "思いがけない", "r": "おもいがけない", "hv": "TƯ", "vi": "bất ngờ, không ngờ tới" },
+          { "w": "想定", "r": "そうてい", "hv": "TƯỞNG ĐỊNH", "vi": "giả định, hình dung trước" },
+          { "w": "人見知り", "r": "ひとみしり", "hv": "NHÂN KIẾN TRI", "vi": "ngại người lạ" },
+          { "w": "平常心", "r": "へいじょうしん", "hv": "BÌNH THƯỜNG TÂM", "vi": "tâm thế bình thường, bình tĩnh" }
+        ],
+        "grammar": {
+          "pattern": "〜ていたのでは",
+          "meaning": "nếu cứ ~ thì (sẽ dẫn đến kết quả xấu)",
+          "form": "Vて いた ＋ のでは",
+          "example": "そんなにゆっくりしていたのでは、間に合わないよ。"
+        },
+        "evidence": "慣れない環境で、何の不安も感じずにこれまでと同じような行動をしていたのでは、思いがけない失敗をする可能性がある。これまでの経験からは想定できないことが起きるかもしれない。",
+        "tip": "Bẫy: đáp án 2 lấy chữ これまでと同じ trong bài nhưng ghép sai (đó là \"hành động\" như cũ, không phải \"thất bại\" như cũ)."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p1",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "不安や緊張を感じないように、平常心で今できることに集中すればいい。",
+        "不安や緊張を感じたら、原因を考えて次の行動に生かした方がいい。",
+        "不安や緊張を感じたら、その気持ちを大切にして迷わず行動するのがいい。",
+        "不安や緊張を感じても気にしないで、いつも通りのことをした方がいい。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Khi cảm thấy lo lắng, căng thẳng, hãy trân trọng cảm xúc đó và hành động mà không do dự.",
+        "why": "Tác giả coi lo lắng, căng thẳng là \"van an toàn\" bảo vệ mình; khuyên hãy tin vào sức mạnh tâm hồn có thể cảm nhận những cảm xúc đó (= trân trọng nó), đừng nghĩ ngợi quá nhiều mà tập trung vào việc mình làm được (= hành động không do dự).",
+        "options": [
+          "Tác giả không bảo \"đừng để cảm thấy lo lắng\"; ngược lại, lo lắng là có ích. Sai.",
+          "Tác giả khuyên あれこれ考えすぎずに (đừng nghĩ quá nhiều), không phải phân tích nguyên nhân. Sai.",
+          "Trân trọng cảm xúc (信じて) + không nghĩ ngợi, tập trung hành động. ĐÚNG.",
+          "\"Mặc kệ, cứ làm như mọi khi\" trái với ý phải hành động thận trọng ở môi trường mới. Sai."
+        ],
+        "vocab": [
+          { "w": "安全弁", "r": "あんぜんべん", "hv": "AN TOÀN BIỆN", "vi": "van an toàn" },
+          { "w": "慎重", "r": "しんちょう", "hv": "THẬN TRỌNG", "vi": "thận trọng" },
+          { "w": "備える", "r": "そなえる", "hv": "BỊ", "vi": "phòng bị, chuẩn bị" },
+          { "w": "事態", "r": "じたい", "hv": "SỰ THÁI", "vi": "tình hình, sự việc" }
+        ],
+        "grammar": {
+          "pattern": "〜からこそ",
+          "meaning": "chính vì ~ nên mới",
+          "form": "普通形 ＋ からこそ",
+          "example": "大切な人だからこそ、厳しいことも言うのだ。"
+        },
+        "evidence": "不安や緊張を感じたときは、そのような気持ちを感じられる自分のこころの力を信じて、あれこれ考えすぎずに今自分にできることに集中するようにしてほしい。",
+        "tip": "Câu kết có 〜してほしい = lời khuyên trực tiếp của tác giả. Đối chiếu từng vế: 信じて ≈ 大切にして; 考えすぎずに ≈ 迷わず."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p2",
+      "stem": "いぬについて、筆者はどのように述べているか。",
+      "options": [
+        "所属する集団のリーダーとして行動しようとする。",
+        "リーダーや上位のものの利益のために行動できる。",
+        "孤独に慣れていないので、集団で行動することを好む。",
+        "集団生活をしていたので、周囲にあわせた行動ができる。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả nói gì về loài chó? → Vì từng sống theo bầy nên chúng có thể hành động hòa hợp với xung quanh.",
+        "why": "Chó vốn sống theo bầy từ trước khi được thuần hóa; chúng giỏi đọc không khí gia đình và hành xử khéo léo, vì động vật sống theo bầy cần nắm bắt tình hình của nhau và hành động phù hợp → đáp án 4.",
+        "options": [
+          "Ngược lại: chó coi chủ là thủ lĩnh và phục tùng, chứ không tự làm thủ lĩnh. Sai.",
+          "Bài nói chó phục tùng thủ lĩnh, không nói hành động vì \"lợi ích\" của thủ lĩnh. Sai.",
+          "Bài không nói chó \"chưa quen cô độc\"; cô độc là đặc điểm của mèo. Sai.",
+          "Khớp: sống tập thể → nắm bắt tình hình, hành động phù hợp. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "群れ", "r": "むれ", "hv": "QUẦN", "vi": "bầy, đàn" },
+          { "w": "服従", "r": "ふくじゅう", "hv": "PHỤC TÙNG", "vi": "phục tùng" },
+          { "w": "長ける", "r": "たける", "hv": "TRƯỜNG", "vi": "giỏi, thạo" },
+          { "w": "把握", "r": "はあく", "hv": "BẢ ÁC", "vi": "nắm bắt" },
+          { "w": "顔色をうかがう", "r": "かおいろをうかがう", "hv": "NHAN SẮC", "vi": "nhìn sắc mặt (để hành xử)" }
+        ],
+        "grammar": {
+          "pattern": "〜ともなれば",
+          "meaning": "một khi đã trở thành ~ thì (đương nhiên)",
+          "form": "N ＋ ともなれば",
+          "example": "社会人ともなれば、自分の行動に責任を持たなければならない。"
+        },
+        "evidence": "群れで生活する動物は、お互いの状況を把握して、それにあわせた行動をとることが、群れ社会のなかで生きていくには必要だからです。",
+        "tip": "Bẫy đảo vai: chó coi chủ là リーダー (phục tùng), không phải tự làm リーダー."
+      }
+    },
+    {
+      "num": 60,
+      "passage": "p2",
+      "stem": "筆者によると、ねこを飼う人は、ねこのどんな点がいいと思っているか。",
+      "options": [
+        "人間には気持ちがわかりにくいこと。",
+        "人間の気持ちが理解できないこと。",
+        "集団生活を嫌い、協調性がないこと。",
+        "孤独を好み、人間に愛情を示さないこと。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, người nuôi mèo thấy điểm nào ở mèo là hay? → Việc con người khó hiểu được cảm xúc của mèo.",
+        "why": "Tác giả nói mèo là loài mà con người khó lòng hiểu hoàn toàn bằng thước đo cảm xúc của mình, và chính \"chỗ không hiểu được này\" là sức hấp dẫn lớn của mèo → đáp án 1.",
+        "options": [
+          "Khớp: この理解できないところが、ねこの大きな魅力. ĐÚNG.",
+          "Đảo chủ thể: không phải mèo không hiểu người, mà người không hiểu mèo. Sai.",
+          "Mèo không có tính hợp tác là sự thật được nêu, nhưng tác giả không nói đó là điểm hấp dẫn. Sai.",
+          "Bài không nói mèo không thể hiện tình cảm với người. Sai."
+        ],
+        "vocab": [
+          { "w": "単独", "r": "たんどく", "hv": "ĐƠN ĐỘC", "vi": "đơn độc, một mình" },
+          { "w": "協調性", "r": "きょうちょうせい", "hv": "HIỆP ĐIỀU TÍNH", "vi": "tính hợp tác" },
+          { "w": "尺度", "r": "しゃくど", "hv": "XÍCH ĐỘ", "vi": "thước đo" },
+          { "w": "魅力", "r": "みりょく", "hv": "MỊ LỰC", "vi": "sức hấp dẫn" }
+        ],
+        "grammar": {
+          "pattern": "Vます＋がたい",
+          "meaning": "khó mà ~",
+          "form": "Vます(bỏ ます)＋がたい",
+          "example": "彼の行動は理解しがたい。"
+        },
+        "evidence": "人間の持つ気持ちや感情の尺度では、完全には理解しがたい動物だと思います。…しかし、この理解できないところが、ねこの大きな魅力のひとつであり、人間が、ねこと一緒に暮らしたがる理由のひとつではないでしょうか。",
+        "tip": "Phân biệt chủ thể: 人間には（ねこの）気持ちがわかりにくい ≠ （ねこが）人間の気持ちを理解できない."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p3",
+      "stem": "<u>当たり前のことです</u>とあるが、なぜか。",
+      "options": [
+        "監督より読者のほうが、感情を入れてイメージを膨らませるから。",
+        "読者より監督のほうが、正確に原作を理解しようとするから。",
+        "頭の中のイメージを正確に映像化することはできないから。",
+        "人によって原作を読んで得たイメージが異なるから。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả viết \"là điều đương nhiên\", tại sao? → Vì hình ảnh mỗi người có được khi đọc nguyên tác là khác nhau.",
+        "why": "Phim là hình ảnh do đạo diễn tưởng tượng ra khi đọc nguyên tác, còn mỗi độc giả lại tự do hình dung cảnh theo cách riêng → hình ảnh khác nhau nên việc có ý kiến \"không đúng vai\", \"cảnh đó sai rồi\" là đương nhiên.",
+        "options": [
+          "Bài không so sánh ai đưa cảm xúc vào nhiều hơn. Sai.",
+          "Bài không nói đạo diễn hiểu nguyên tác chính xác hơn. Sai.",
+          "Vấn đề không phải là khả năng chuyển thành hình ảnh chính xác, mà là mỗi người hình dung khác nhau. Sai.",
+          "Đạo diễn và từng độc giả mỗi người có hình ảnh riêng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "配役", "r": "はいやく", "hv": "PHỐI DỊCH", "vi": "phân vai, dàn diễn viên" },
+          { "w": "原作", "r": "げんさく", "hv": "NGUYÊN TÁC", "vi": "nguyên tác" },
+          { "w": "膨らませる", "r": "ふくらませる", "hv": "BÀNH", "vi": "làm phồng lên, mở rộng (trí tưởng tượng)" },
+          { "w": "感情移入", "r": "かんじょういにゅう", "hv": "CẢM TÌNH DI NHẬP", "vi": "đồng cảm, nhập tâm vào nhân vật" }
+        ],
+        "grammar": {
+          "pattern": "〜からだ",
+          "meaning": "là vì ~ (câu giải thích lý do cho câu trước)",
+          "form": "普通形 ＋ からだ／からです",
+          "example": "彼が怒ったのは当然だ。約束を破ったからだ。"
+        },
+        "evidence": "映画というのは監督が原作を読んでイメージを膨らませ、映像化した作品だからです。原作の小説は読者一人一人が作家からの記号（文字）を受け取って、それぞれが自由にシーンを思い浮かべています。",
+        "tip": "Câu ngay sau gạch chân kết thúc bằng 〜からです → lý do trực tiếp."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p3",
+      "stem": "小説の読み方について、筆者はどのように述べているか。",
+      "options": [
+        "作者の意図を読み取ろうという姿勢があれば、自由に解釈していい。",
+        "作者の意図を読み取るのは不可能なので、好きなように読めばいい。",
+        "作者の意図に縛られずに、作品の解釈を行えばいい。",
+        "作者の意図を想像しながら、読んだほうがいい。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về cách đọc tiểu thuyết, tác giả nói thế nào? → Cứ diễn giải tác phẩm mà không bị ràng buộc bởi ý đồ của tác giả.",
+        "why": "Tác giả dẫn lời Roland Barthes: không cần đọc theo ý đồ tác giả, độc giả tự diễn giải; và khẳng định: không phải cố đọc chính xác ý đồ tác giả, mà mỗi độc giả diễn giải tùy ý → không bị ràng buộc bởi ý đồ tác giả.",
+        "options": [
+          "Tác giả phủ định chính tư thế \"cố đọc ra ý đồ tác giả\" (そうではなく). Sai.",
+          "Bài không nói đọc ý đồ tác giả là \"không thể\"; chỉ nói không cần thiết. Sai.",
+          "Khớp: 作者の意図通りに読まなくてもいい／解釈は読者それぞれでいい. ĐÚNG.",
+          "Ngược với quan điểm của tác giả. Sai."
+        ],
+        "vocab": [
+          { "w": "意図", "r": "いと", "hv": "Ý ĐỒ", "vi": "ý đồ, dụng ý" },
+          { "w": "解釈", "r": "かいしゃく", "hv": "GIẢI THÍCH", "vi": "diễn giải, cách hiểu" },
+          { "w": "支配", "r": "しはい", "hv": "CHI PHỐI", "vi": "chi phối, thống trị" },
+          { "w": "縛られる", "r": "しばられる", "hv": "PHƯỢC", "vi": "bị ràng buộc" }
+        ],
+        "grammar": {
+          "pattern": "〜がち",
+          "meaning": "hay có khuynh hướng ~ (thường là không tốt)",
+          "form": "Vます(bỏ ます)／N ＋ がち",
+          "example": "冬は運動不足になりがちだ。"
+        },
+        "evidence": "私たちは作品の解釈を作者に求めがちです。これは作者の意図を正確に読み取ろうという発想です。そうではなく、作品の解釈は読者それぞれでいい。",
+        "tip": "そうではなく báo hiệu tác giả phủ định quan niệm phổ biến và nêu chủ ý của mình."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p4",
+      "stem": "筆者によると、<u>哲学の典型的な問い</u>とはどのようなものか。",
+      "options": [
+        "複数の学問分野の知識をもとにして考えるべき問い。",
+        "社会のなかでの理想的な愛の形についての問い。",
+        "個人の利益ではなく、社会全体の利益につながる問い。",
+        "さまざまな事柄の基礎につながる、あらゆる人々にかかわる問い。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, \"câu hỏi tiêu biểu của triết học\" là loại câu hỏi như thế nào? → Câu hỏi liên quan đến nền tảng của nhiều sự việc, liên quan đến mọi người.",
+        "why": "Tác giả nói các câu hỏi đó liên quan tới nền tảng (根底) của nhiều môn học, lĩnh vực, và trở thành vấn đề chung của mọi người trong xã hội (社会におけるみんなの問題); triết học là để người bình thường suy nghĩ về vấn đề chung → đáp án 4.",
+        "options": [
+          "Bài nói câu hỏi liên quan đến \"nền tảng\" của nhiều lĩnh vực, không nói phải dựa trên kiến thức của nhiều lĩnh vực để suy nghĩ. Sai.",
+          "\"Tình yêu\" chỉ là một ví dụ, không phải định nghĩa của câu hỏi triết học. Sai.",
+          "Bài không đối lập lợi ích cá nhân và lợi ích xã hội. Sai.",
+          "根底に関わる (nền tảng) + みんなの問題 (mọi người). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "典型的", "r": "てんけいてき", "hv": "ĐIỂN HÌNH ĐÍCH", "vi": "điển hình, tiêu biểu" },
+          { "w": "根底", "r": "こんてい", "hv": "CĂN ĐỂ", "vi": "nền tảng, gốc rễ" },
+          { "w": "哲学", "r": "てつがく", "hv": "TRIẾT HỌC", "vi": "triết học" },
+          { "w": "学問", "r": "がくもん", "hv": "HỌC VẤN", "vi": "học vấn, ngành học" }
+        ],
+        "grammar": {
+          "pattern": "〜に関わる",
+          "meaning": "liên quan đến ~ (thường là điều quan trọng)",
+          "form": "N ＋ に関わる",
+          "example": "これは命に関わる問題だ。"
+        },
+        "evidence": "これらの問いは、複数の教科や学問分野の根底に関わるような問題であることはおわかりでしょう。…社会におけるみんなの問題となってくるはずです。",
+        "tip": "Đáp án đúng thường \"diễn đạt lại\" (根底 → 基礎, みんな → あらゆる人々) chứ không chép nguyên văn."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p4",
+      "stem": "<u>もうひとつの重要な仕事</u>とは何か。",
+      "options": [
+        "専門ではない人の視点で、専門的な知識を再検討すること。",
+        "各分野の専門家の視点で、人間の根本的な価値観を検討すること。",
+        "一般の人に、専門的な知識をわかりやすく伝えること。",
+        "一般の人に、人間の根本的な価値観を理解させること。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "\"Một công việc quan trọng khác\" là gì? → Xem xét lại kiến thức chuyên môn từ góc nhìn của người không chuyên.",
+        "why": "Công việc đó là \"đặt lại câu hỏi về kiến thức chuyên môn từ góc nhìn chung, tổng thể hơn\". Ví dụ liệu pháp gen: không thể chỉ giao cho chuyên gia y học phán đoán vì nó liên quan đến mọi người → góc nhìn của người không chuyên (người bình thường) để xem xét lại kiến thức chuyên môn.",
+        "options": [
+          "より一般的で全体的な観点 ≈ góc nhìn người không chuyên; 問い直す ≈ 再検討. ĐÚNG.",
+          "Ngược: không phải góc nhìn chuyên gia; chính bài nói không nên chỉ giao cho chuyên gia. Sai.",
+          "Bài không nói về việc truyền đạt kiến thức dễ hiểu cho người thường. Sai.",
+          "Bài không nói \"làm cho người thường hiểu giá trị\"; mà là đối chiếu kiến thức với giá trị căn bản. Sai."
+        ],
+        "vocab": [
+          { "w": "専門的", "r": "せんもんてき", "hv": "CHUYÊN MÔN ĐÍCH", "vi": "mang tính chuyên môn" },
+          { "w": "観点", "r": "かんてん", "hv": "QUAN ĐIỂM", "vi": "góc nhìn, quan điểm" },
+          { "w": "問い直す", "r": "といなおす", "hv": "VẤN TRỰC", "vi": "đặt lại câu hỏi, xem xét lại" },
+          { "w": "遺伝子", "r": "いでんし", "hv": "DI TRUYỀN TỬ", "vi": "gen" },
+          { "w": "照らし合わせる", "r": "てらしあわせる", "hv": "CHIẾU HỢP", "vi": "đối chiếu" }
+        ],
+        "grammar": {
+          "pattern": "〜に照らし合わせて",
+          "meaning": "đối chiếu với ~, xét theo ~",
+          "form": "N ＋ に照らし合わせて",
+          "example": "規則に照らし合わせて判断する。"
+        },
+        "evidence": "しかし哲学のもうひとつの重要な仕事は、それぞれの専門的な知識をより一般的で全体的な観点から問い直すことです。…医学の専門家だけに判断を任せてよい問題ではありません。",
+        "tip": "Câu gạch chân tự định nghĩa ngay sau は〜ことです. Đáp án là bản diễn đạt lại."
+      }
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "exam": "2016-12",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ (tiền tố/hậu tố) thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "男女の結婚（　　）の違いについて調べた。",
+      "options": ["観", "識", "念", "察"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đã tìm hiểu về sự khác biệt trong quan niệm hôn nhân của nam và nữ.",
+        "why": "〜観 (かん, QUAN) là hậu tố chỉ \"quan niệm, cách nhìn về ~\": 結婚観 (quan niệm hôn nhân), 人生観, 価値観.",
+        "options": [
+          "観 → 結婚観: quan niệm về hôn nhân. ĐÚNG.",
+          "識 → (THỨC) 知識, 常識; không gắn sau 結婚. Sai.",
+          "念 → (NIỆM) 記念, 観念; không nói 結婚念. Sai.",
+          "察 → (SÁT) 観察, 警察; không phải hậu tố. Sai."
+        ],
+        "vocab": [
+          { "w": "結婚観", "r": "けっこんかん", "hv": "KẾT HÔN QUAN", "vi": "quan niệm về hôn nhân" },
+          { "w": "価値観", "r": "かちかん", "hv": "GIÁ TRỊ QUAN", "vi": "quan niệm giá trị" },
+          { "w": "男女", "r": "だんじょ", "hv": "NAM NỮ", "vi": "nam nữ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜観: 人生観・世界観・価値観・結婚観・歴史観."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "ここでは（　　）水準の医療が受けられる。",
+      "options": ["頂", "上", "高", "特"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Ở đây có thể được hưởng dịch vụ y tế trình độ cao.",
+        "why": "高水準 (こうすいじゅん) = trình độ cao, tiêu chuẩn cao. Tiền tố 高〜 đi với danh từ chỉ mức độ: 高水準, 高品質, 高収入.",
+        "options": [
+          "頂 → (ĐỈNH) 頂上; không làm tiền tố cho 水準. Sai.",
+          "上 → không nói 上水準 (chỉ có 上水道...). Sai.",
+          "高 → 高水準: trình độ cao. ĐÚNG.",
+          "特 → 特〜 (特急, 特大) nhưng không có 特水準. Sai."
+        ],
+        "vocab": [
+          { "w": "高水準", "r": "こうすいじゅん", "hv": "CAO THỦY CHUẨN", "vi": "trình độ cao" },
+          { "w": "水準", "r": "すいじゅん", "hv": "THỦY CHUẨN", "vi": "mức, tiêu chuẩn, trình độ" },
+          { "w": "医療", "r": "いりょう", "hv": "Y LIỆU", "vi": "y tế, chữa trị" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "高〜: 高水準・高性能・高品質・高収入・高血圧."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "今日は大学の講義で日本（　　）の経営について学んだ。",
+      "options": ["状", "類", "式", "則"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hôm nay trong bài giảng ở trường đại học, tôi đã học về cách quản lý kinh doanh kiểu Nhật.",
+        "why": "〜式 (しき, THỨC) = kiểu, phương thức ~: 日本式の経営 = mô hình quản trị kiểu Nhật. Tương tự 洋式, 和式.",
+        "options": [
+          "状 → (TRẠNG) 招待状, 年賀状: thư/giấy. Sai.",
+          "類 → (LOẠI) 書類, 人類; không nói 日本類. Sai.",
+          "式 → 日本式: kiểu Nhật. ĐÚNG.",
+          "則 → (TẮC) 規則, 原則. Sai."
+        ],
+        "vocab": [
+          { "w": "日本式", "r": "にほんしき", "hv": "NHẬT BẢN THỨC", "vi": "kiểu Nhật" },
+          { "w": "経営", "r": "けいえい", "hv": "KINH DOANH", "vi": "kinh doanh, quản lý doanh nghiệp" },
+          { "w": "講義", "r": "こうぎ", "hv": "GIẢNG NGHĨA", "vi": "bài giảng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜式: 日本式・西洋式・和式トイレ・洋式トイレ."
+      }
+    },
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "開封しても、（　　）使用の物は返品可能です。",
+      "options": ["外", "否", "前", "未"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Kể cả đã mở bao bì, những món chưa sử dụng vẫn có thể trả lại.",
+        "why": "未〜 (み, VỊ) = chưa ~: 未使用 = chưa sử dụng. Tương tự 未完成, 未経験, 未成年.",
+        "options": [
+          "外 → không nói 外使用. Sai.",
+          "否 → (PHỦ) 否定; không làm tiền tố \"chưa\". Sai.",
+          "前 → 使用前 (trước khi dùng) thì đứng sau, không đứng trước. Sai.",
+          "未 → 未使用: chưa sử dụng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "未使用", "r": "みしよう", "hv": "VỊ SỬ DỤNG", "vi": "chưa sử dụng" },
+          { "w": "開封", "r": "かいふう", "hv": "KHAI PHONG", "vi": "mở niêm phong, bóc bao bì" },
+          { "w": "返品", "r": "へんぴん", "hv": "PHẢN PHẨM", "vi": "trả lại hàng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "未 (chưa) ≠ 不 (không) ≠ 非 (phi) ≠ 無 (vô): 未使用・不可能・非常識・無関係."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "受験生なので、勉強（　　）の毎日だ。",
+      "options": ["漬け", "浸し", "溶け", "満ち"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Vì là thí sinh nên ngày nào tôi cũng ngập đầu trong học tập.",
+        "why": "N + 漬け (づけ) = ngập trong N, chỉ làm toàn N (nghĩa gốc: ngâm, muối). 勉強漬け = học suốt ngày, chìm trong học tập.",
+        "options": [
+          "漬け → 勉強漬け: ngập đầu trong học. ĐÚNG.",
+          "浸し → 浸す: ngâm (vào nước), không dùng làm hậu tố này. Sai.",
+          "溶け → 溶ける: tan chảy. Sai.",
+          "満ち → 満ちる: tràn đầy; không nói 勉強満ち. Sai."
+        ],
+        "vocab": [
+          { "w": "〜漬け", "r": "づけ", "hv": "TÍ", "vi": "ngập trong ~, chỉ toàn ~" },
+          { "w": "受験生", "r": "じゅけんせい", "hv": "THỤ NGHIỆM SINH", "vi": "thí sinh" },
+          { "w": "漬物", "r": "つけもの", "hv": "TÍ VẬT", "vi": "dưa muối" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Hay gặp: 勉強漬け・仕事漬け・薬漬け (lạm dụng thuốc)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "exam": "2023-12",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "これについては、<u>各自</u>が責任を持つことにします。",
+      "options": ["私", "代表者", "一人一人", "あなた"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về việc này, chúng ta quyết định mỗi người tự chịu trách nhiệm.",
+        "why": "各自 (かくじ – CÁC TỰ) = mỗi người, từng người tự mình → đồng nghĩa với 一人一人 (từng người một).",
+        "options": [
+          "私 → tôi. Sai.",
+          "代表者 → だいひょうしゃ: người đại diện. Sai (ngược nghĩa: một người thay mặt).",
+          "一人一人 → ひとりひとり: từng người một. ĐÚNG.",
+          "あなた → bạn (ngôi thứ hai). Sai."
+        ],
+        "vocab": [
+          { "w": "各自", "r": "かくじ", "hv": "CÁC TỰ", "vi": "mỗi người, từng người" },
+          { "w": "一人一人", "r": "ひとりひとり", "hv": "NHẤT NHÂN NHẤT NHÂN", "vi": "từng người một" },
+          { "w": "責任", "r": "せきにん", "hv": "TRÁCH NHIỆM", "vi": "trách nhiệm" },
+          { "w": "代表者", "r": "だいひょうしゃ", "hv": "ĐẠI BIỂU GIẢ", "vi": "người đại diện" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Thường gặp: 昼食は各自でご用意ください = Mỗi người tự chuẩn bị bữa trưa."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "明日はレポートを<u>仕上げる</u>つもりです",
+      "options": ["書く", "完成させる", "出す", "整理する"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Ngày mai tôi định hoàn thành bài báo cáo.",
+        "why": "仕上げる (しあげる – SĨ THƯỢNG) = làm xong, hoàn thiện → đồng nghĩa 完成させる (làm cho hoàn thành).",
+        "options": [
+          "書く → viết (chưa chắc xong). Sai.",
+          "完成させる → làm cho hoàn thành. ĐÚNG.",
+          "出す → nộp. Sai.",
+          "整理する → sắp xếp, chỉnh lý. Sai."
+        ],
+        "vocab": [
+          { "w": "仕上げる", "r": "しあげる", "hv": "SĨ THƯỢNG", "vi": "hoàn thành, hoàn thiện" },
+          { "w": "完成", "r": "かんせい", "hv": "HOÀN THÀNH", "vi": "hoàn thành" },
+          { "w": "仕上がり", "r": "しあがり", "hv": "SĨ THƯỢNG", "vi": "thành phẩm, độ hoàn thiện" },
+          { "w": "整理", "r": "せいり", "hv": "CHỈNH LÝ", "vi": "sắp xếp, chỉnh lý" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "～上げる thường mang nghĩa \"làm xong hẳn\": 書き上げる (viết xong), 仕上げる (hoàn thiện)."
+      }
+    },
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "それは<u>深刻な</u>問題だ。",
+      "options": ["単純な", "身近な", "微妙な", "重大な"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đó là một vấn đề nghiêm trọng.",
+        "why": "深刻な (しんこくな – THÂM KHẮC) = nghiêm trọng, trầm trọng → gần nghĩa nhất là 重大な (じゅうだいな – TRỌNG ĐẠI) = hệ trọng, nghiêm trọng.",
+        "options": [
+          "単純な → たんじゅんな: đơn giản. Sai (gần như ngược nghĩa).",
+          "身近な → みぢかな: gần gũi, thân thuộc. Sai.",
+          "微妙な → びみょうな: tế nhị, khó nói, mập mờ. Sai.",
+          "重大な → じゅうだいな: nghiêm trọng, hệ trọng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "深刻", "r": "しんこく", "hv": "THÂM KHẮC", "vi": "nghiêm trọng, trầm trọng" },
+          { "w": "重大", "r": "じゅうだい", "hv": "TRỌNG ĐẠI", "vi": "nghiêm trọng, hệ trọng" },
+          { "w": "単純", "r": "たんじゅん", "hv": "ĐƠN THUẦN", "vi": "đơn giản" },
+          { "w": "微妙", "r": "びみょう", "hv": "VI DIỆU", "vi": "tế nhị, mập mờ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "深刻な顔 = vẻ mặt nghiêm trọng, 深刻な被害 = thiệt hại nghiêm trọng. (Đề in nhầm chữ 単 thành 箪, furigana たんじゅん.)"
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "今日は<u>同僚</u>と食事に行く予定です。",
+      "options": ["同じ会社の人", "同じアパートの人", "同じ出身地の人", "同じクラスの人"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hôm nay tôi định đi ăn với đồng nghiệp.",
+        "why": "同僚 (どうりょう – ĐỒNG LIÊU) = đồng nghiệp, người làm cùng nơi → 同じ会社の人.",
+        "options": [
+          "同じ会社の人 → người cùng công ty = đồng nghiệp. ĐÚNG.",
+          "同じアパートの人 → người cùng chung cư (hàng xóm). Sai.",
+          "同じ出身地の人 → người cùng quê (同郷). Sai.",
+          "同じクラスの人 → người cùng lớp (同級生, クラスメート). Sai."
+        ],
+        "vocab": [
+          { "w": "同僚", "r": "どうりょう", "hv": "ĐỒNG LIÊU", "vi": "đồng nghiệp" },
+          { "w": "同級生", "r": "どうきゅうせい", "hv": "ĐỒNG CẤP SINH", "vi": "bạn cùng lớp/khóa" },
+          { "w": "出身地", "r": "しゅっしんち", "hv": "XUẤT THÂN ĐỊA", "vi": "quê quán" },
+          { "w": "予定", "r": "よてい", "hv": "DỰ ĐỊNH", "vi": "dự định, kế hoạch" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "僚 (liêu) như trong 官僚 (quan liêu). Đối với cấp trên: 上司, cấp dưới: 部下, ngang hàng: 同僚."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "前田さんはさっきから<u>うつむいて</u>いる。",
+      "options": ["上を向いて", "横を向いて", "下を向いて", "後ろを向いて"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh/chị Maeda cúi gằm mặt từ nãy đến giờ.",
+        "why": "うつむく (俯く) = cúi mặt, cúi đầu nhìn xuống → 下を向く.",
+        "options": [
+          "上を向いて → ngẩng lên (= 見上げる/仰ぐ). Sai.",
+          "横を向いて → quay sang bên. Sai.",
+          "下を向いて → nhìn xuống, cúi mặt. ĐÚNG.",
+          "後ろを向いて → quay ra sau (= 振り向く). Sai."
+        ],
+        "vocab": [
+          { "w": "うつむく（俯く）", "r": "うつむく", "hv": "PHỦ", "vi": "cúi mặt, cúi đầu" },
+          { "w": "振り向く", "r": "ふりむく", "hv": "CHẤN HƯỚNG", "vi": "ngoảnh lại" },
+          { "w": "見上げる", "r": "みあげる", "hv": "KIẾN THƯỢNG", "vi": "ngước nhìn lên" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "うつむく thường đi với cảm xúc buồn, xấu hổ: 恥ずかしくてうつむいた."
+      }
+    }
+  ]
+}

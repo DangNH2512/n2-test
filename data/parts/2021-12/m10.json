@@ -1,0 +1,171 @@
+{
+  "exam": "2021-12",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（1）から（5）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "森はいつも独特な香りに包まれ、さわやかに感じられるが、それは<u>ある物質</u>の効果によるものだ。その物質は、木々が動けない体を守るために自ら作り出すもので、木につく虫や（注）細菌の増加を防いだり、落ち葉や枯れ木が腐ったときなどに生じる嫌なにおいを消したりする働きを持っている。さらにその物質には、人間の神経を安定させる効果もあるという。私たちが森林に入るとリラックスした気分になるのは、このためだ。\n\n（注）細菌：非常に小さくて目に見えない生物"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、池林市の市民文化センターに届いたメールである。\n\n池林市民文化センター\nご担当者様\n\n3月に文化センターで行われる市民文化祭用のポスターについてお願いがあります。\nホームページには、サークルの代表者が直接センターの受付に持参するようにと書いてありますが、仕事の都合で、受付が開いている平日の開館時間には伺うことができません。そのため郵送での提出を認めていただくことはできませんでしょうか。\nポスターは、ホームページの指示にしたがって問題なく作成できていると思います。\nお忙しいところすみませんが、ご回答いただけますようよろしくお願いいたします。\n\n市民絵画サークルぽぷら代表"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "下の文章は、新聞のコラムである。\n\n最近は、環境のためによい商品が市場に多く出ているが、それらを求める際にとても便利なインターネットのサイトが、ある環境団体によって運営されている。そのサイトには、環境のことを考えた家電製品からホテルまで10分類、1万点もの商品・サービスの情報がある。\n例えば、パソコンの場合、メーカー名や「ノート」か「デスクトップ」かなどを指定して検索すると、約74点の商品のリサイクルの状況、修理のしやすさ、長寿命商品であるかなどを比較することができる。メーカー側が年4回、情報を書き換える仕組みとなっており、最近のモデルを検討する際に便利だ。"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "以下は、ある会社の社内文書である。\n\n6月24日\n担当者各位\n\n事務用品の注文について\n\nこれまで事務用品は、総務課で事務用品配達サービス会社に一括して注文・管理し、各課に支給してきました。しかし、事務作業を簡略化するため、8月より各課で直接注文していただくことになりました。管理も各課でお願いいたします。\nなお、注文方法の詳細については、改めて説明会を行う予定です。\nよろしくお願いいたします。\n\n以上"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "人材の評価や選択の方式は、社会の根本的な活力を規定する最も重要な（注1）ファクターである。しかもその人材の育成には時間がかかる。競争のない社会、公正な評価が通らない組織は、長い目で見れば必ず（注2）衰退する。だからこそ、いつの時代でも、どの組織でも、優秀な人材の獲得に（注3）躍起になり、人材の育成に多大の努力を注ぐとともに、いかに公正な評価のシステムを組み込むのかという点に強い関心を払ってきたのである。\n\n（注1）ファクター：要素\n（注2）衰退する：衰える、弱くなる\n（注3）躍起になる：必死になる"
+    }
+  ],
+  "questions": [
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "<u>ある物質</u>の働きについて、この文章からわかることは何か。",
+      "options": ["人間の持つ嫌なにおいを防ぐ。", "人々の気持ちを落ち着かせる。", "落ち葉や枯れ木を腐りにくくする。", "木々がもともと持っているにおいを消す。"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Về tác dụng của 'một chất nọ', điều gì có thể biết được từ đoạn văn? → Làm cho tâm trạng con người dịu lại.",
+        "why": "Bài viết: chất đó có tác dụng 'ổn định thần kinh con người' (人間の神経を安定させる), vì vậy vào rừng ta thấy thư giãn → = 気持ちを落ち着かせる.",
+        "options": [
+          "Ngăn mùi khó chịu của con người → bài nói khử mùi khó chịu khi lá rụng/cây khô mục, không phải mùi của người. Sai.",
+          "Làm tâm trạng con người dịu lại → khớp với 神経を安定させる / リラックスした気分. ĐÚNG.",
+          "Làm lá rụng, cây khô khó mục → bài chỉ nói khử mùi khi chúng mục, không ngăn mục. Sai.",
+          "Khử mùi vốn có của cây → ngược lại, chất này tạo ra hương thơm của rừng. Sai."
+        ],
+        "vocab": [
+          { "w": "物質", "r": "ぶっしつ", "hv": "VẬT CHẤT", "vi": "chất, vật chất" },
+          { "w": "神経", "r": "しんけい", "hv": "THẦN KINH", "vi": "thần kinh" },
+          { "w": "安定", "r": "あんてい", "hv": "AN ĐỊNH", "vi": "ổn định" },
+          { "w": "腐る", "r": "くさる", "hv": "HỦ", "vi": "thối rữa, mục" },
+          { "w": "落ち着く", "r": "おちつく", "hv": "", "vi": "bình tĩnh, dịu lại" }
+        ],
+        "grammar": null,
+        "evidence": "さらにその物質には、人間の神経を安定させる効果もあるという。私たちが森林に入るとリラックスした気分になるのは、このためだ。",
+        "tip": "Đáp án thường diễn đạt lại (paraphrase): 神経を安定させる → 気持ちを落ち着かせる."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p2",
+      "stem": "このメールの用件は何か。",
+      "options": ["ポスターの作り方に間違いがないか確認してほしい。", "ポスターの提出が遅れることを許可してほしい。", "ポスターを休日に提出させてほしい。", "ポスターを郵送で提出させてほしい。"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Mục đích của email này là gì? → Muốn được nộp poster qua đường bưu điện.",
+        "why": "Người viết không thể đến quầy lễ tân trong giờ làm việc ngày thường, nên hỏi 'có thể cho phép nộp bằng bưu điện không' (郵送での提出を認めていただくことはできませんでしょうか).",
+        "options": [
+          "Kiểm tra cách làm poster → người viết nói đã làm đúng hướng dẫn rồi, không nhờ kiểm tra. Sai.",
+          "Xin nộp muộn → không nhắc đến việc nộp muộn. Sai.",
+          "Xin nộp vào ngày nghỉ → không đề nghị ngày nghỉ, mà đề nghị gửi bưu điện. Sai.",
+          "Xin nộp qua bưu điện → đúng nội dung yêu cầu. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "持参", "r": "じさん", "hv": "TRÌ THAM", "vi": "mang đến" },
+          { "w": "郵送", "r": "ゆうそう", "hv": "BƯU TỐNG", "vi": "gửi qua bưu điện" },
+          { "w": "提出", "r": "ていしゅつ", "hv": "ĐỀ XUẤT", "vi": "nộp" },
+          { "w": "認める", "r": "みとめる", "hv": "NHẬN", "vi": "chấp nhận, công nhận" },
+          { "w": "用件", "r": "ようけん", "hv": "DỤNG KIỆN", "vi": "việc cần, mục đích" }
+        ],
+        "grammar": null,
+        "evidence": "そのため郵送での提出を認めていただくことはできませんでしょうか。",
+        "tip": "Câu hỏi 用件 → tìm câu có 「～ていただけませんか／できませんでしょうか」."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p3",
+      "stem": "このインターネットのサイトの便利な点について述べているのはどれか。",
+      "options": ["買いたいと思う商品についてこのサイトを通してメーカーから直接買うことができる。", "買いたいと思っている商品が環境に良いか悪いかを、このサイトで調べることができる。", "このサイトには高齢者が使いやすいさまざまな家電製品やホテルの情報が載っている。", "環境団体が各商品の情報を常に書き換えているので、最新のモデルを選ぶことができる。"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều nào nói về điểm tiện lợi của trang web này? → Có thể tra trên trang này xem sản phẩm mình muốn mua có tốt cho môi trường hay không.",
+        "why": "Trang web cho phép so sánh tình trạng tái chế, độ dễ sửa chữa, có phải sản phẩm tuổi thọ dài không... của các sản phẩm thân thiện môi trường → tra được mức độ tốt cho môi trường.",
+        "options": [
+          "Mua trực tiếp từ nhà sản xuất qua trang → không nhắc đến chức năng mua hàng. Sai.",
+          "Tra xem sản phẩm có tốt cho môi trường không → khớp với nội dung so sánh リサイクル、修理、長寿命. ĐÚNG.",
+          "Thông tin đồ điện gia dụng dễ dùng cho người cao tuổi → bài nói 'xem xét đến môi trường', không phải người cao tuổi. Sai.",
+          "Tổ chức môi trường liên tục cập nhật → thực tế là phía nhà sản xuất cập nhật 4 lần/năm. Sai."
+        ],
+        "vocab": [
+          { "w": "環境団体", "r": "かんきょうだんたい", "hv": "HOÀN CẢNH ĐOÀN THỂ", "vi": "tổ chức môi trường" },
+          { "w": "運営", "r": "うんえい", "hv": "VẬN DOANH", "vi": "vận hành, điều hành" },
+          { "w": "比較", "r": "ひかく", "hv": "TỶ GIẢO", "vi": "so sánh" },
+          { "w": "長寿命", "r": "ちょうじゅみょう", "hv": "TRƯỜNG THỌ MỆNH", "vi": "tuổi thọ dài" },
+          { "w": "書き換える", "r": "かきかえる", "hv": "", "vi": "viết lại, cập nhật" }
+        ],
+        "grammar": null,
+        "evidence": "約74点の商品のリサイクルの状況、修理のしやすさ、長寿命商品であるかなどを比較することができる。",
+        "tip": "Bẫy phương án 4: chủ thể cập nhật là メーカー側, không phải 環境団体."
+      }
+    },
+    {
+      "num": 55,
+      "passage": "p4",
+      "stem": "この文書を書いた一番の目的は何か。",
+      "options": ["事務用品の注文先の会社の変更を伝える。", "事務用品の注文方法の説明会の日時を知らせる。", "事務用品の注文、管理方法の問題点を伝える。", "事務用品の注文、管理方法の変更を知らせる。"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Mục đích chính của văn bản này là gì? → Thông báo sự thay đổi về cách đặt hàng và quản lý văn phòng phẩm.",
+        "why": "Trước đây phòng Tổng vụ đặt và quản lý tập trung; từ tháng 8, các phòng tự đặt và tự quản lý → thông báo thay đổi phương thức đặt hàng, quản lý.",
+        "options": [
+          "Thay đổi công ty nhận đặt hàng → không nói đổi công ty, chỉ đổi người đặt. Sai.",
+          "Báo ngày giờ buổi giải thích → chỉ nói 'dự định sẽ tổ chức', không có ngày giờ; đây là thông tin phụ. Sai.",
+          "Nêu vấn đề của cách đặt hàng → văn bản không nêu vấn đề, chỉ nêu lý do 'đơn giản hóa'. Sai.",
+          "Thông báo thay đổi cách đặt hàng, quản lý → đúng nội dung chính. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "事務用品", "r": "じむようひん", "hv": "SỰ VỤ DỤNG PHẨM", "vi": "văn phòng phẩm" },
+          { "w": "総務課", "r": "そうむか", "hv": "TỔNG VỤ KHÓA", "vi": "phòng Tổng vụ (hành chính)" },
+          { "w": "一括", "r": "いっかつ", "hv": "NHẤT QUÁT", "vi": "gộp lại, tập trung một lần" },
+          { "w": "支給", "r": "しきゅう", "hv": "CHI CẤP", "vi": "cấp phát" },
+          { "w": "簡略化", "r": "かんりゃくか", "hv": "GIẢN LƯỢC HÓA", "vi": "đơn giản hóa" }
+        ],
+        "grammar": null,
+        "evidence": "しかし、事務作業を簡略化するため、8月より各課で直接注文していただくことになりました。管理も各課でお願いいたします。",
+        "tip": "Câu sau 「しかし」 thường là nội dung chính của văn bản thông báo."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p5",
+      "stem": "筆者は、人材が公正に評価されないと組織はどうなると述べているか。",
+      "options": ["短期間で人材を育てられなくなる。", "優秀な人材を獲得できなくなる。", "組織の活力を維持できなくなる。", "組織への関心が薄くなる。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Theo tác giả, nếu nhân tài không được đánh giá công bằng thì tổ chức sẽ ra sao? → Không duy trì được sức sống của tổ chức.",
+        "why": "Bài viết: 'tổ chức mà sự đánh giá công bằng không được thực thi thì về lâu dài chắc chắn sẽ suy thoái (衰退する = yếu đi)'. Suy thoái = mất sức sống → 活力を維持できなくなる.",
+        "options": [
+          "Không đào tạo được nhân tài trong thời gian ngắn → bài nói đào tạo vốn tốn thời gian, không liên quan trực tiếp đến đánh giá. Sai.",
+          "Không thu hút được nhân tài giỏi → bài không nói đây là hậu quả. Sai.",
+          "Không duy trì được sức sống tổ chức → = 衰退する. ĐÚNG.",
+          "Sự quan tâm đến tổ chức giảm → không được nhắc đến. Sai."
+        ],
+        "vocab": [
+          { "w": "人材", "r": "じんざい", "hv": "NHÂN TÀI", "vi": "nhân lực, nhân tài" },
+          { "w": "公正", "r": "こうせい", "hv": "CÔNG CHÍNH", "vi": "công bằng" },
+          { "w": "活力", "r": "かつりょく", "hv": "HOẠT LỰC", "vi": "sức sống, sinh lực" },
+          { "w": "衰退", "r": "すいたい", "hv": "SUY THOÁI", "vi": "suy thoái" },
+          { "w": "維持", "r": "いじ", "hv": "DUY TRÌ", "vi": "duy trì" }
+        ],
+        "grammar": null,
+        "evidence": "競争のない社会、公正な評価が通らない組織は、長い目で見れば必ず衰退する。",
+        "tip": "Đề gốc in nhầm 長い日; đúng là 長い目で見れば (nhìn về lâu dài)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "exam": "2014-12",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "この二つのレポートはテーマが<u>ことなり</u>ます。",
+      "options": ["単純です", "似ています", "複雑です", "違います"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hai bản báo cáo này có chủ đề khác nhau.",
+        "why": "ことなる (異なる, DỊ) = khác nhau = 違う.",
+        "options": [
+          "単純です → đơn giản. Sai.",
+          "似ています → giống nhau (trái nghĩa). Sai.",
+          "複雑です → phức tạp. Sai.",
+          "違います → khác nhau. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "異なる", "r": "ことなる", "hv": "DỊ", "vi": "khác nhau" },
+          { "w": "単純", "r": "たんじゅん", "hv": "ĐƠN THUẦN", "vi": "đơn giản" },
+          { "w": "複雑", "r": "ふくざつ", "hv": "PHỨC TẠP", "vi": "phức tạp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "異 trong 異文化 (いぶんか – văn hóa khác), 異常 (いじょう – bất thường)."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "二人は<u>たまたま</u>会ったらしい。",
+      "options": ["すぐに", "偶然", "何度も", "さっき"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Nghe nói hai người tình cờ gặp nhau.",
+        "why": "たまたま = tình cờ, ngẫu nhiên = 偶然 (ぐうぜん).",
+        "options": [
+          "すぐに → ngay lập tức. Sai.",
+          "偶然 → ngẫu nhiên, tình cờ. ĐÚNG.",
+          "何度も → nhiều lần. Sai.",
+          "さっき → lúc nãy. Sai."
+        ],
+        "vocab": [
+          { "w": "たまたま", "r": "たまたま", "hv": "", "vi": "tình cờ" },
+          { "w": "偶然", "r": "ぐうぜん", "hv": "NGẪU NHIÊN", "vi": "ngẫu nhiên, tình cờ" },
+          { "w": "たまに", "r": "たまに", "hv": "", "vi": "thỉnh thoảng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đừng nhầm たまたま (tình cờ) với たまに (thỉnh thoảng)."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "その発言がうそだという<u>あきらかな</u>証拠があります。",
+      "options": ["さまざまな", "別の", "新しい", "はっきりした"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Có bằng chứng rõ ràng rằng lời phát ngôn đó là dối trá.",
+        "why": "あきらか (明らか, MINH) = rõ ràng, hiển nhiên = はっきりした.",
+        "options": [
+          "さまざまな → nhiều loại, đa dạng. Sai.",
+          "別の → khác. Sai.",
+          "新しい → mới. Sai.",
+          "はっきりした → rõ ràng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "明らか", "r": "あきらか", "hv": "MINH", "vi": "rõ ràng, hiển nhiên" },
+          { "w": "証拠", "r": "しょうこ", "hv": "CHỨNG CỨ", "vi": "bằng chứng" },
+          { "w": "発言", "r": "はつげん", "hv": "PHÁT NGÔN", "vi": "phát ngôn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "明らかにする = làm sáng tỏ."
+      }
+    },
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "できるだけ<u>用心</u>したほうがいいですよ。",
+      "options": ["注意", "努力", "我慢", "遠慮"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Anh nên cẩn thận hết mức có thể đấy.",
+        "why": "用心 (ようじん, DỤNG TÂM) = cẩn thận, đề phòng = 注意 (ちゅうい).",
+        "options": [
+          "注意 → chú ý, cẩn thận. ĐÚNG.",
+          "努力 (どりょく) → nỗ lực. Sai.",
+          "我慢 (がまん) → chịu đựng, nhẫn nại. Sai.",
+          "遠慮 (えんりょ) → ngại ngùng, khách sáo; kiêng. Sai."
+        ],
+        "vocab": [
+          { "w": "用心", "r": "ようじん", "hv": "DỤNG TÂM", "vi": "cẩn thận, đề phòng" },
+          { "w": "注意", "r": "ちゅうい", "hv": "CHÚ Ý", "vi": "chú ý, cẩn thận" },
+          { "w": "我慢", "r": "がまん", "hv": "NGÃ MẠN", "vi": "chịu đựng" },
+          { "w": "遠慮", "r": "えんりょ", "hv": "VIỄN LỰ", "vi": "ngại, khách sáo" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "火の用心 = cẩn thận lửa (khẩu hiệu phòng cháy)."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "会場が急に<u>そうぞうしく</u>なった。",
+      "options": ["暗く", "静かに", "うるさく", "寒く"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hội trường đột nhiên trở nên ồn ào.",
+        "why": "そうぞうしい (騒々しい, TAO) = ồn ào, náo động = うるさい.",
+        "options": [
+          "暗く → tối. Sai.",
+          "静かに → yên tĩnh (trái nghĩa). Sai.",
+          "うるさく → ồn ào. ĐÚNG.",
+          "寒く → lạnh. Sai."
+        ],
+        "vocab": [
+          { "w": "騒々しい", "r": "そうぞうしい", "hv": "TAO", "vi": "ồn ào, náo động" },
+          { "w": "騒ぐ", "r": "さわぐ", "hv": "TAO", "vi": "làm ồn" },
+          { "w": "会場", "r": "かいじょう", "hv": "HỘI TRƯỜNG", "vi": "hội trường, địa điểm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đừng nhầm với 想像 (そうぞう – tưởng tượng). 騒 = 馬 + 蚤: ngựa náo loạn."
+      }
+    }
+  ]
+}

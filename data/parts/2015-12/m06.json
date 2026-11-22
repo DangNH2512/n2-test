@@ -1,0 +1,163 @@
+{
+  "exam": "2015-12",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn câu sử dụng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "作成",
+      "options": [
+        "外国語の練習のために、話す機会を多く<u>作成</u>している。",
+        "今週中に会議の資料を<u>作成</u>しておいてください。",
+        "この地域で<u>作成</u>された果物はとてもおいしい。",
+        "友人と共同で新しい会社を<u>作成</u>することにした。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Câu 2: Hãy soạn sẵn tài liệu cuộc họp trong tuần này.",
+        "why": "作成 (さくせい – TÁC THÀNH) = soạn thảo, lập (văn bản, tài liệu, kế hoạch, bảng biểu). 資料を作成する là cách dùng chuẩn.",
+        "options": [
+          "Tạo cơ hội → 機会を作る (không dùng 作成). Sai.",
+          "資料を作成する: soạn tài liệu. ĐÚNG.",
+          "Trái cây được trồng → 生産・栽培された. Sai.",
+          "Thành lập công ty → 会社を設立する／作る. Sai."
+        ],
+        "vocab": [
+          { "w": "作成", "r": "さくせい", "hv": "TÁC THÀNH", "vi": "soạn thảo, lập (văn bản)" },
+          { "w": "資料", "r": "しりょう", "hv": "TƯ LIỆU", "vi": "tài liệu" },
+          { "w": "設立", "r": "せつりつ", "hv": "THIẾT LẬP", "vi": "thành lập" },
+          { "w": "生産", "r": "せいさん", "hv": "SINH SẢN", "vi": "sản xuất" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "作成 đi với giấy tờ: 書類・資料・計画書・名簿を作成する. Đồ vật → 製作/作る; trồng trọt → 栽培."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "いったん",
+      "options": [
+        "私はまだ海外に<u>いったん</u>も行ったことがないので、いつか行きたいと思っている。",
+        "彼とはずいぶん前に<u>いったん</u>しか会っていないが、顔も名前もよく覚えている。",
+        "部長は外出先から会社に<u>いったん</u>戻ったが、すぐにまた出かけた。",
+        "学生のころは、友人と1週間に<u>いったん</u>映画を見に行った。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Câu 3: Trưởng phòng tạm quay về công ty từ nơi đi công tác, nhưng rồi lại đi ra ngoài ngay.",
+        "why": "いったん (一旦) = tạm thời (làm một việc trước, rồi sau đó chuyển sang việc khác) / một khi đã. いったん戻ったが、すぐにまた出かけた đúng nghĩa \"tạm về rồi lại đi\".",
+        "options": [
+          "\"Chưa một lần nào\" → 一度も. Sai.",
+          "\"Chỉ gặp một lần\" → 一度しか. Sai.",
+          "いったん戻る: tạm quay về. ĐÚNG.",
+          "\"Mỗi tuần một lần\" → 1週間に1回／一度. Sai."
+        ],
+        "vocab": [
+          { "w": "いったん（一旦）", "r": "いったん", "hv": "NHẤT ĐÁN", "vi": "tạm thời; một khi đã" },
+          { "w": "外出先", "r": "がいしゅつさき", "hv": "NGOẠI XUẤT TIÊN", "vi": "nơi đang ra ngoài làm việc" },
+          { "w": "一度", "r": "いちど", "hv": "NHẤT ĐỘ", "vi": "một lần" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy: いったん KHÔNG phải \"một lần\" (đếm số lần). Mẫu: いったん〜と／たら = một khi đã ~ thì..."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "思いつく",
+      "options": [
+        "今は大変だが、将来成功している自分の姿を<u>思いつくと</u>、頑張ろうと思える。",
+        "このアイディアは仕事中ではなく、散歩しているときに<u>思いついた</u>。",
+        "佐藤さんに初めて会ったとき、この人とは親友になれそうだと<u>思いついた</u>。",
+        "この写真を見ると、いつも学生時代のことを<u>思いついて</u>、同級生に会いたくなる。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Câu 2: Ý tưởng này tôi nảy ra không phải trong lúc làm việc mà khi đang đi dạo.",
+        "why": "思いつく (おもいつく) = chợt nảy ra (ý tưởng, sáng kiến). アイディアを思いつく là kết hợp chuẩn.",
+        "options": [
+          "Hình dung bản thân thành công → 思い浮かべる／想像する. Sai.",
+          "アイディアを思いつく: nảy ra ý tưởng. ĐÚNG.",
+          "Cảm thấy (có linh cảm) → 感じた／思った. Sai.",
+          "Nhớ lại thời học sinh → 思い出して. Sai."
+        ],
+        "vocab": [
+          { "w": "思いつく", "r": "おもいつく", "hv": "TƯ", "vi": "nảy ra (ý tưởng)" },
+          { "w": "思い浮かべる", "r": "おもいうかべる", "hv": "TƯ PHÙ", "vi": "hình dung, nghĩ đến" },
+          { "w": "思い出す", "r": "おもいだす", "hv": "TƯ XUẤT", "vi": "nhớ lại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "思いつく = ý mới chợt đến; 思い出す = nhớ lại điều cũ; 思い浮かべる = hình dung trong đầu."
+      }
+    },
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "中断",
+      "options": [
+        "参加の希望者が集まらないので、来週のイベントは<u>中断</u>されることになった。",
+        "この山には、曲がって枯れた木や<u>中断</u>した木がたくさんある。",
+        "林さんは今勤めている会社を<u>中断</u>して、別の会社に転職するらしい。",
+        "雨が強くなって試合が<u>中断</u>されているが、恐らく再開は難しいだろう。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Câu 4: Mưa to lên nên trận đấu đang bị tạm dừng, nhưng có lẽ khó mà tiếp tục lại được.",
+        "why": "中断 (ちゅうだん) = gián đoạn, tạm dừng giữa chừng một việc ĐANG diễn ra. Trận đấu đang đá thì bị dừng vì mưa, và 再開 (tiếp tục lại) là cặp đối ứng tự nhiên.",
+        "options": [
+          "Sự kiện tuần sau chưa bắt đầu → phải dùng 中止 (hủy bỏ). Sai.",
+          "Cây bị gãy ngang → 折れた木. Sai.",
+          "Nghỉ việc ở công ty → 退職／辞める. Sai.",
+          "試合が中断される: trận đấu bị gián đoạn. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "中断", "r": "ちゅうだん", "hv": "TRUNG ĐOẠN", "vi": "gián đoạn, tạm dừng giữa chừng" },
+          { "w": "中止", "r": "ちゅうし", "hv": "TRUNG CHỈ", "vi": "hủy bỏ, đình chỉ" },
+          { "w": "再開", "r": "さいかい", "hv": "TÁI KHAI", "vi": "mở lại, tiếp tục lại" },
+          { "w": "恐らく", "r": "おそらく", "hv": "KHỦNG", "vi": "có lẽ, e rằng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "中止 = hủy (chưa diễn ra hoặc dừng hẳn); 中断 = dừng tạm giữa chừng, có thể 再開."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "たくましい",
+      "options": [
+        "両親は今までどんな苦労にも負けずに、<u>たくましく</u>生きてきた。",
+        "このひもは細くてすぐ切れそうなので、もっと<u>たくましい</u>のが欲しい。",
+        "森さんは仕事の経験が<u>たくましい</u>ので、上司から信頼されている。",
+        "昼になって急に日ざしが<u>たくましく</u>なったので、帽子をかぶった。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Câu 1: Bố mẹ tôi đến nay đã sống mạnh mẽ, kiên cường, không chịu khuất phục trước bất kỳ khó khăn nào.",
+        "why": "たくましい (逞しい) = vạm vỡ, mạnh mẽ, kiên cường (về thể chất hoặc tinh thần của con người/sinh vật). たくましく生きる = sống kiên cường.",
+        "options": [
+          "たくましく生きる: sống kiên cường. ĐÚNG.",
+          "Dây chắc hơn → 丈夫な／太い. Không dùng たくましい cho đồ vật. Sai.",
+          "Kinh nghiệm phong phú → 経験が豊富な. Sai.",
+          "Nắng gắt → 日ざしが強く. Sai."
+        ],
+        "vocab": [
+          { "w": "たくましい（逞しい）", "r": "たくましい", "hv": "SÍNH", "vi": "vạm vỡ, kiên cường, mạnh mẽ" },
+          { "w": "苦労", "r": "くろう", "hv": "KHỔ LAO", "vi": "vất vả, gian khổ" },
+          { "w": "丈夫", "r": "じょうぶ", "hv": "TRƯỢNG PHU", "vi": "bền, chắc; khỏe" },
+          { "w": "豊富", "r": "ほうふ", "hv": "PHONG PHÚ", "vi": "phong phú, dồi dào" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "たくましい dùng cho người/sinh vật: たくましい腕 (cánh tay vạm vỡ), たくましい精神 (tinh thần kiên cường)."
+      }
+    }
+  ]
+}

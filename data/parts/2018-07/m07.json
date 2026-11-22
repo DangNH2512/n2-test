@@ -1,0 +1,366 @@
+{
+  "exam": "2018-07",
+  "mondai": 7,
+  "section": "grammar",
+  "instruction": "次の文の（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ/cụm từ thích hợp nhất để điền vào chỗ trống trong câu.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 33,
+      "passage": null,
+      "stem": "昨日泊まったホテルの部屋は、シングルルーム（　　）広かった。",
+      "options": ["ばかりか", "をとわず", "にしては", "かというと"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Phòng khách sạn tôi ở hôm qua rộng so với (một) phòng đơn.",
+        "why": "AにしてはB = 'so với A thì B (trái với dự đoán thông thường về A)'. Phòng đơn thường hẹp, nhưng phòng này lại rộng → にしては.",
+        "options": [
+          "ばかりか → không những… mà còn; cần vế sau bổ sung. Sai.",
+          "をとわず → không kể, bất kể (年齢を問わず). Sai.",
+          "にしては → so với… thì (khác dự đoán). ĐÚNG.",
+          "かというと → nếu hỏi là… thì (thường đi với 疑問詞). Sai."
+        ],
+        "vocab": [
+          { "w": "泊まる", "r": "とまる", "hv": "BẠC", "vi": "trọ lại" },
+          { "w": "広い", "r": "ひろい", "hv": "QUẢNG", "vi": "rộng" }
+        ],
+        "grammar": {
+          "pattern": "〜にしては",
+          "meaning": "so với… thì (kết quả trái với mong đợi thông thường)",
+          "form": "N／V普通形 ＋ にしては",
+          "example": "彼は初心者にしては上手だ。(So với người mới học thì anh ấy giỏi.)"
+        },
+        "evidence": null,
+        "tip": "にしては dùng cho đánh giá về một đối tượng cụ thể; わりに cũng gần nghĩa."
+      }
+    },
+    {
+      "num": 34,
+      "passage": null,
+      "stem": "（店の前で）\n客「すみません、開店はまだですか。」\n店員「（　　）開店いたしますので、もう少々お待ちください。」",
+      "options": ["いまにも", "まもなく", "ほとんど", "いつのまに"],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Trước cửa hàng) Khách: Xin lỗi, chưa mở cửa à? – Nhân viên: Chúng tôi sắp mở cửa rồi, xin vui lòng đợi thêm chút.",
+        "why": "まもなく = sắp sửa, chẳng bao lâu nữa (lịch sự, dùng trong thông báo). Phù hợp với もう少々お待ちください.",
+        "options": [
+          "いまにも → sắp… đến nơi (dùng cho hiện tượng sắp xảy ra: いまにも雨が降りそう). Sai.",
+          "まもなく → sắp, chẳng mấy chốc. ĐÚNG.",
+          "ほとんど → hầu hết. Sai.",
+          "いつのまに → từ lúc nào không hay. Sai."
+        ],
+        "vocab": [
+          { "w": "間もなく", "r": "まもなく", "hv": "GIAN", "vi": "sắp sửa, chẳng mấy chốc" },
+          { "w": "開店", "r": "かいてん", "hv": "KHAI ĐIẾM", "vi": "mở cửa hàng" },
+          { "w": "少々", "r": "しょうしょう", "hv": "THIỂU THIỂU", "vi": "một chút" }
+        ],
+        "grammar": {
+          "pattern": "まもなく",
+          "meaning": "sắp, chẳng bao lâu nữa",
+          "form": "まもなく ＋ V",
+          "example": "まもなく電車が参ります。(Tàu sắp đến.)"
+        },
+        "evidence": null,
+        "tip": "いまにも thường đi với 〜そうだ và chủ thể là sự việc tự nhiên, không phải hành động có kế hoạch."
+      }
+    },
+    {
+      "num": 35,
+      "passage": null,
+      "stem": "北山には、初心者でも楽しめるハイキングコースや上級者（　　）コースなど、いくつかの登山コースがあります。",
+      "options": ["ほどの", "向けの", "きりの", "どおりの"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Ở núi Kitayama có vài cung đường leo núi như cung đi bộ mà người mới cũng có thể thưởng thức hay cung dành cho người có trình độ cao.",
+        "why": "N向けの = dành cho N (được thiết kế cho đối tượng N). 上級者向けのコース = cung đường dành cho người trình độ cao.",
+        "options": [
+          "ほどの → mức độ cỡ… Sai.",
+          "向けの → dành cho. ĐÚNG.",
+          "きりの → chỉ có… (二人きり). Sai.",
+          "どおりの → đúng như (予定どおり). Sai."
+        ],
+        "vocab": [
+          { "w": "上級者", "r": "じょうきゅうしゃ", "hv": "THƯỢNG CẤP GIẢ", "vi": "người trình độ cao" },
+          { "w": "初心者", "r": "しょしんしゃ", "hv": "SƠ TÂM GIẢ", "vi": "người mới bắt đầu" },
+          { "w": "登山", "r": "とざん", "hv": "ĐĂNG SƠN", "vi": "leo núi" }
+        ],
+        "grammar": {
+          "pattern": "N向け",
+          "meaning": "dành cho N (đối tượng được nhắm tới)",
+          "form": "N ＋ 向け（の N／に）",
+          "example": "子ども向けの番組 (chương trình dành cho trẻ em)"
+        },
+        "evidence": null,
+        "tip": "向け (dành cho đối tượng) ≠ 向き (phù hợp với)."
+      }
+    },
+    {
+      "num": 36,
+      "passage": null,
+      "stem": "昨日、高熱が出たので病院に行った（　　）、インフルエンザと診断された。",
+      "options": ["場合", "以上", "ことに", "ところ"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hôm qua bị sốt cao nên tôi đến bệnh viện, thì được chẩn đoán là cúm.",
+        "why": "Vたところ = 'khi làm V thì (phát hiện/kết quả là)…'. Diễn tả kết quả bất ngờ sau một hành động, vế sau ở quá khứ.",
+        "options": [
+          "場合 → trường hợp (giả định); không dùng với sự việc đã xảy ra. Sai.",
+          "以上 → một khi đã… thì phải. Sai.",
+          "ことに → thật là… (うれしいことに): đi với tính từ cảm xúc. Sai.",
+          "ところ → làm… thì (kết quả). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "高熱", "r": "こうねつ", "hv": "CAO NHIỆT", "vi": "sốt cao" },
+          { "w": "診断", "r": "しんだん", "hv": "CHẨN ĐOÁN", "vi": "chẩn đoán" }
+        ],
+        "grammar": {
+          "pattern": "Vたところ",
+          "meaning": "khi thử làm V thì (kết quả là…)",
+          "form": "Vた ＋ ところ、〜た",
+          "example": "先生に相談したところ、快く引き受けてくださった。"
+        },
+        "evidence": null,
+        "tip": "Vたところ + kết quả quá khứ, khác với Vたところだ (vừa mới làm)."
+      }
+    },
+    {
+      "num": 37,
+      "passage": null,
+      "stem": "散歩が大好きなうちの犬が、今日は散歩に（　　）。具合でも悪いのだろうか。",
+      "options": ["行きたがらなかった", "行かなければよかった", "行ってほしくなかった", "行きたくなかった"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Con chó nhà tôi vốn rất thích đi dạo, vậy mà hôm nay nó không muốn đi. Không biết có bị ốm không.",
+        "why": "Mong muốn của ngôi thứ ba (con chó) phải dùng 〜たがる. 行きたがらなかった = (nó) tỏ ra không muốn đi.",
+        "options": [
+          "行きたがらなかった → (nó) tỏ ra không muốn đi. ĐÚNG.",
+          "行かなければよかった → giá mà đừng đi (hối tiếc). Sai.",
+          "行ってほしくなかった → (tôi) không muốn (ai) đi. Sai.",
+          "行きたくなかった → 〜たい chỉ dùng cho ngôi thứ nhất. Sai."
+        ],
+        "vocab": [
+          { "w": "具合", "r": "ぐあい", "hv": "CỤ HỢP", "vi": "tình trạng (sức khỏe)" },
+          { "w": "散歩", "r": "さんぽ", "hv": "TẢN BỘ", "vi": "đi dạo" }
+        ],
+        "grammar": {
+          "pattern": "〜たがる",
+          "meaning": "(người thứ ba) muốn, tỏ ra muốn",
+          "form": "Vます(bỏ ます) ＋ たがる",
+          "example": "子どもは甘い物を食べたがる。"
+        },
+        "evidence": null,
+        "tip": "Chủ ngữ là người/vật khác 'tôi' → たがる, không dùng たい."
+      }
+    },
+    {
+      "num": 38,
+      "passage": null,
+      "stem": "市長は、記者会見で「高速道路建設に反対している市民も少なくないのだから、市長として、そのことを無視して建設計画を（　　）。」と述べた。",
+      "options": ["進めそうにない", "進めてもかまわない", "進めずにはいられない", "進めるわけにはいかない"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Thị trưởng phát biểu trong buổi họp báo: 'Vì không ít người dân phản đối việc xây đường cao tốc, nên với tư cách thị trưởng, tôi không thể phớt lờ điều đó mà tiến hành kế hoạch xây dựng được.'",
+        "why": "〜わけにはいかない = không thể làm (vì lý do đạo lý, trách nhiệm, hoàn cảnh). 'Với tư cách thị trưởng' → trách nhiệm xã hội → không thể tiến hành.",
+        "options": [
+          "進めそうにない → có vẻ không thể tiến hành (phỏng đoán). Sai.",
+          "進めてもかまわない → tiến hành cũng không sao. Trái ý. Sai.",
+          "進めずにはいられない → không thể không tiến hành (cảm xúc không kìm được). Sai.",
+          "進めるわけにはいかない → không thể tiến hành (vì trách nhiệm). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "無視", "r": "むし", "hv": "VÔ THỊ", "vi": "phớt lờ" },
+          { "w": "建設", "r": "けんせつ", "hv": "KIẾN THIẾT", "vi": "xây dựng" },
+          { "w": "反対", "r": "はんたい", "hv": "PHẢN ĐỐI", "vi": "phản đối" }
+        ],
+        "grammar": {
+          "pattern": "〜わけにはいかない",
+          "meaning": "không thể (vì lý do đạo đức, xã hội, trách nhiệm)",
+          "form": "V辞書形 ＋ わけにはいかない",
+          "example": "明日試験だから、遊んでいるわけにはいかない。"
+        },
+        "evidence": null,
+        "tip": "〜として (với tư cách) thường đi kèm 〜わけにはいかない."
+      }
+    },
+    {
+      "num": 39,
+      "passage": null,
+      "stem": "（スピーチで）「本日は弊社創立50周年記念パーティーにお越しくださりありがとうございます。社長の小林でございます。社を代表して、私から一言ごあいさつ（　　）。」",
+      "options": ["されます", "うかがいます", "申し上げます", "おっしゃいます"],
+      "answer": 3,
+      "explanation": {
+        "translation": "(Trong bài phát biểu) 'Cảm ơn quý vị hôm nay đã đến dự tiệc kỷ niệm 50 năm thành lập công ty chúng tôi. Tôi là Kobayashi, giám đốc. Thay mặt công ty, tôi xin gửi lời chào.'",
+        "why": "Người nói (giám đốc) tự nói về hành động của mình → khiêm nhường ngữ. ごあいさつ申し上げます = xin gửi lời chào (khiêm nhường của 言う).",
+        "options": [
+          "されます → tôn kính ngữ (của する) – không dùng cho bản thân. Sai.",
+          "うかがいます → khiêm nhường của 聞く/訪ねる – không hợp với あいさつ. Sai.",
+          "申し上げます → khiêm nhường của 言う. ĐÚNG.",
+          "おっしゃいます → tôn kính của 言う – không dùng cho bản thân. Sai."
+        ],
+        "vocab": [
+          { "w": "弊社", "r": "へいしゃ", "hv": "TỆ XÃ", "vi": "công ty chúng tôi (khiêm nhường)" },
+          { "w": "創立", "r": "そうりつ", "hv": "SÁNG LẬP", "vi": "thành lập" },
+          { "w": "代表", "r": "だいひょう", "hv": "ĐẠI BIỂU", "vi": "đại diện" }
+        ],
+        "grammar": {
+          "pattern": "ご＋N＋申し上げる",
+          "meaning": "khiêm nhường ngữ: (tôi) xin làm…",
+          "form": "ご／お ＋ N（漢語）／Vます ＋ 申し上げる",
+          "example": "心よりお礼申し上げます。"
+        },
+        "evidence": null,
+        "tip": "Chủ ngữ là 'tôi' → khiêm nhường (申し上げる, いたす); chủ ngữ là khách → tôn kính (おっしゃる, なさる)."
+      }
+    },
+    {
+      "num": 40,
+      "passage": null,
+      "stem": "そのバッグは、どこにでもあるような物なのに、人気歌手が愛用している（　　）、１万個も売れたそうだ。",
+      "options": ["とすること", "というだけ", "とすることを", "というだけで"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Cái túi đó là đồ ở đâu cũng có, vậy mà chỉ vì ca sĩ nổi tiếng hay dùng mà nghe nói đã bán được tới 10.000 chiếc.",
+        "why": "〜というだけで = chỉ vì (lý do đơn giản) là… mà đã… Phía sau là kết quả (売れた) nên cần trợ từ で chỉ nguyên nhân.",
+        "options": [
+          "とすること → không nối được với 売れた. Sai.",
+          "というだけ → thiếu で nên không nối được với vế sau. Sai.",
+          "とすることを → sai cấu trúc. Sai.",
+          "というだけで → chỉ vì… mà. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "愛用", "r": "あいよう", "hv": "ÁI DỤNG", "vi": "ưa dùng, dùng thường xuyên" },
+          { "w": "人気", "r": "にんき", "hv": "NHÂN KHÍ", "vi": "được ưa chuộng" }
+        ],
+        "grammar": {
+          "pattern": "〜というだけで",
+          "meaning": "chỉ vì lý do (đơn giản) là… mà",
+          "form": "普通形 ＋ というだけで",
+          "example": "外国人だというだけで、部屋を貸してもらえなかった。"
+        },
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 41,
+      "passage": null,
+      "stem": "ホテルのフロント係として働き始めたころは、「どんなに忙しくてもお客様には疲れた顔を（　　）。」と先輩によく注意された。",
+      "options": ["見せないために", "見えないこと", "見せないように", "見えないもの"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hồi mới làm lễ tân khách sạn, tôi hay bị đàn anh nhắc: 'Dù bận đến đâu cũng đừng để khách thấy vẻ mặt mệt mỏi.'",
+        "why": "Câu nhắc nhở kết thúc bằng 〜ないように (lược bỏ しなさい/気をつけて) = 'hãy cố gắng đừng…'. 顔を見せる là tha động từ, đi với を.",
+        "options": [
+          "見せないために → để không cho thấy (mục đích) – không thể kết thúc câu nhắc nhở. Sai.",
+          "見えないこと → 見える là tự động từ, không đi với 顔を; こと chỉ quy định. Sai.",
+          "見せないように → hãy cố đừng để lộ ra. ĐÚNG.",
+          "見えないもの → sai động từ và nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "フロント係", "r": "フロントがかり", "hv": "HỆ", "vi": "nhân viên lễ tân" },
+          { "w": "先輩", "r": "せんぱい", "hv": "TIÊN BỐI", "vi": "đàn anh, tiền bối" },
+          { "w": "注意", "r": "ちゅうい", "hv": "CHÚ Ý", "vi": "nhắc nhở" }
+        ],
+        "grammar": {
+          "pattern": "〜ないように（。）",
+          "meaning": "hãy cố gắng đừng… (lời nhắc nhở, khuyên)",
+          "form": "Vない ＋ ように",
+          "example": "忘れ物をしないように。"
+        },
+        "evidence": null,
+        "tip": "見せる (cho thấy, tha động) ↔ 見える (nhìn thấy được, tự động). Có を → chọn 見せる."
+      }
+    },
+    {
+      "num": 42,
+      "passage": null,
+      "stem": "母「たかし、寝る前に必ず明日の準備を（　　）。朝、慌てて準備すると絶対忘れ物するから。」\nたかし「大丈夫、もう終わってるよ。」",
+      "options": ["してあんだよ", "しておきなさいよ", "してあるんじゃないの", "しておいたの"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Mẹ: 'Takashi, trước khi ngủ nhớ chuẩn bị sẵn cho ngày mai đấy. Sáng ra vội vàng chuẩn bị là chắc chắn quên đồ.' – Takashi: 'Không sao, con xong rồi.'",
+        "why": "Mẹ ra lệnh/nhắc nhở → 〜ておきなさい = hãy làm sẵn. 必ず + mệnh lệnh phù hợp; câu trả lời 'con xong rồi' đáp lại lời nhắc.",
+        "options": [
+          "してあんだよ → (đã) được làm sẵn rồi đấy – câu trần thuật, không phải nhắc nhở. Sai.",
+          "しておきなさいよ → hãy làm sẵn đi đấy. ĐÚNG.",
+          "してあるんじゃないの → chẳng phải đã làm sẵn rồi sao (phỏng đoán). Sai.",
+          "しておいたの → (con) đã làm sẵn rồi à? (câu hỏi quá khứ) – không hợp với 必ず. Sai."
+        ],
+        "vocab": [
+          { "w": "準備", "r": "じゅんび", "hv": "CHUẨN BỊ", "vi": "chuẩn bị" },
+          { "w": "慌てる", "r": "あわてる", "hv": "HOẢNG", "vi": "vội vàng, cuống" },
+          { "w": "忘れ物", "r": "わすれもの", "hv": "VONG VẬT", "vi": "đồ bỏ quên" }
+        ],
+        "grammar": {
+          "pattern": "〜ておきなさい",
+          "meaning": "hãy làm sẵn/trước (mệnh lệnh nhẹ, cha mẹ → con)",
+          "form": "Vて ＋ おきなさい",
+          "example": "出かける前に窓を閉めておきなさい。"
+        },
+        "evidence": null,
+        "tip": "必ず (nhất định) thường đi với mệnh lệnh/ý chí, không đi với câu hỏi quá khứ."
+      }
+    },
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "X社に入社すると、新入社員は、まず電話の応対の練習を２週間（　　）。",
+      "options": ["させられるそうだ", "させるつもりだ", "させられたままだ", "させているところだ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nghe nói khi vào công ty X, nhân viên mới trước tiên bị bắt luyện tập nghe điện thoại trong 2 tuần.",
+        "why": "Chủ ngữ là 新入社員 (người bị bắt làm) → thể sai khiến bị động させられる. Người nói là người ngoài kể lại → そうだ (nghe nói).",
+        "options": [
+          "させられるそうだ → nghe nói bị bắt làm. ĐÚNG.",
+          "させるつもりだ → định bắt (ai) làm – chủ ngữ phải là công ty. Sai.",
+          "させられたままだ → cứ để nguyên trạng thái bị bắt làm – vô nghĩa. Sai.",
+          "させているところだ → đang bắt làm – chủ ngữ sai. Sai."
+        ],
+        "vocab": [
+          { "w": "応対", "r": "おうたい", "hv": "ỨNG ĐỐI", "vi": "tiếp đãi, ứng đối" },
+          { "w": "新入社員", "r": "しんにゅうしゃいん", "hv": "TÂN NHẬP XÃ VIÊN", "vi": "nhân viên mới" },
+          { "w": "入社", "r": "にゅうしゃ", "hv": "NHẬP XÃ", "vi": "vào công ty" }
+        ],
+        "grammar": {
+          "pattern": "使役受身 〜させられる",
+          "meaning": "bị bắt làm (không muốn nhưng phải làm)",
+          "form": "Vない ＋ させられる／(ら)される",
+          "example": "子どものころ、毎日ピアノを練習させられた。"
+        },
+        "evidence": null,
+        "tip": "Chủ ngữ là người bị bắt làm → させられる."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "田中「次回の勉強会のテーマは何にしましょうか。」\n山下「私は消費者心理に興味があります。」\n石川「それも面白そうですが、私はアンケートの分析方法を（　　）。」",
+      "options": ["取り上げようとするでしょうか", "取り上げるようになるでしょうか", "取り上げたいのだろうと思います", "取り上げてみてはどうかと思います"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tanaka: 'Chủ đề buổi học nhóm lần tới chọn gì nhỉ?' – Yamashita: 'Tôi quan tâm đến tâm lý người tiêu dùng.' – Ishikawa: 'Cái đó cũng hay, nhưng tôi nghĩ sao ta không thử chọn phương pháp phân tích phiếu khảo sát.'",
+        "why": "Ishikawa đang đề xuất ý kiến của mình → 〜てみてはどうかと思います = tôi nghĩ sao không thử… (đề xuất nhẹ nhàng).",
+        "options": [
+          "取り上げようとするでしょうか → liệu có định chọn không? – không phải đề xuất. Sai.",
+          "取り上げるようになるでしょうか → liệu sẽ trở nên chọn? – vô nghĩa. Sai.",
+          "取り上げたいのだろうと思います → tôi đoán (ai đó) muốn chọn – phỏng đoán người khác, không hợp chủ ngữ 私. Sai.",
+          "取り上げてみてはどうかと思います → tôi nghĩ sao không thử chọn. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "取り上げる", "r": "とりあげる", "hv": "THỦ THƯỢNG", "vi": "chọn lấy, đề cập (làm chủ đề)" },
+          { "w": "消費者心理", "r": "しょうひしゃしんり", "hv": "TIÊU PHÍ GIẢ TÂM LÝ", "vi": "tâm lý người tiêu dùng" },
+          { "w": "分析", "r": "ぶんせき", "hv": "PHÂN TÍCH", "vi": "phân tích" }
+        ],
+        "grammar": {
+          "pattern": "〜てみてはどうか",
+          "meaning": "sao không thử… (đề xuất, gợi ý)",
+          "form": "Vて ＋ みてはどうか（と思う）",
+          "example": "一度専門家に相談してみてはどうでしょうか。"
+        },
+        "evidence": null,
+        "tip": "それも面白そうですが、私は… → dấu hiệu đưa ra đề xuất khác."
+      }
+    }
+  ]
+}

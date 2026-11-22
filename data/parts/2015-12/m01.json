@@ -1,0 +1,140 @@
+{
+  "exam": "2015-12",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の読み方として最もよいものを1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "迷惑なメールの受信を<u>拒否</u>したい。",
+      "options": ["きょうひ", "きょうふ", "きょひ", "きょふ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi muốn từ chối nhận các email phiền toái (thư rác).",
+        "why": "拒否 đọc là きょひ (CỰ PHỦ) = từ chối, cự tuyệt. 拒 là きょ (âm ngắn, không có う), 否 là ひ.",
+        "options": [
+          "きょうひ → thêm trường âm sai cho 拒. Sai.",
+          "きょうふ → 恐怖: sự sợ hãi. Sai.",
+          "きょひ → 拒否: từ chối. ĐÚNG.",
+          "きょふ → không có từ này; 否 không đọc ふ. Sai."
+        ],
+        "vocab": [
+          { "w": "拒否", "r": "きょひ", "hv": "CỰ PHỦ", "vi": "từ chối, cự tuyệt" },
+          { "w": "迷惑", "r": "めいわく", "hv": "MÊ HOẶC", "vi": "phiền toái, làm phiền" },
+          { "w": "受信", "r": "じゅしん", "hv": "THỤ TÍN", "vi": "nhận (tin, thư)" },
+          { "w": "恐怖", "r": "きょうふ", "hv": "KHỦNG BỐ", "vi": "sợ hãi" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "否 luôn đọc ひ: 否定 (ひてい), 賛否 (さんぴ – biến âm). 拒 chỉ có âm きょ (ngắn): 拒絶 きょぜつ."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "鈴木選手は試合の後、多くの記者に<u>囲まれて</u>質問を受けていた。",
+      "options": ["かこまれて", "つつまれて", "はさまれて", "つかまれて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Sau trận đấu, tuyển thủ Suzuki bị nhiều phóng viên vây quanh và đặt câu hỏi.",
+        "why": "囲む đọc là かこむ (VI) = vây quanh, bao quanh; thể bị động 囲まれる → かこまれて.",
+        "options": [
+          "かこまれて → 囲まれる: bị vây quanh. ĐÚNG.",
+          "つつまれて → 包まれる: được bao bọc, gói lại. Sai.",
+          "はさまれて → 挟まれる: bị kẹp giữa. Sai.",
+          "つかまれて → 掴まれる: bị nắm, bị túm. Sai."
+        ],
+        "vocab": [
+          { "w": "囲む", "r": "かこむ", "hv": "VI", "vi": "vây quanh, bao quanh" },
+          { "w": "記者", "r": "きしゃ", "hv": "KÝ GIẢ", "vi": "phóng viên" },
+          { "w": "包む", "r": "つつむ", "hv": "BAO", "vi": "gói, bao bọc" },
+          { "w": "挟む", "r": "はさむ", "hv": "HIỆP", "vi": "kẹp, chèn vào giữa" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "囲 âm On là い: 周囲 (しゅうい – xung quanh), 範囲 (はんい – phạm vi)."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "何とか<u>損害</u>を最小限に抑えることができた。",
+      "options": ["さいかい", "さいがい", "そんかい", "そんがい"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Bằng cách nào đó, chúng tôi đã kìm được thiệt hại ở mức tối thiểu.",
+        "why": "損害 đọc là そんがい (TỔN HẠI) = thiệt hại, tổn thất. 損 là そん, 害 là がい (âm đục).",
+        "options": [
+          "さいかい → 再会/再開: gặp lại / mở lại. Sai.",
+          "さいがい → 災害: thiên tai, thảm họa. Sai (bẫy vì cũng có 害).",
+          "そんかい → 害 không đọc かい. Sai.",
+          "そんがい → 損害: thiệt hại. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "損害", "r": "そんがい", "hv": "TỔN HẠI", "vi": "thiệt hại, tổn thất" },
+          { "w": "最小限", "r": "さいしょうげん", "hv": "TỐI TIỂU HẠN", "vi": "mức tối thiểu" },
+          { "w": "抑える", "r": "おさえる", "hv": "ỨC", "vi": "kìm nén, hạn chế" },
+          { "w": "災害", "r": "さいがい", "hv": "TAI HẠI", "vi": "thiên tai" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "害 luôn đọc がい: 被害 (ひがい), 公害 (こうがい), 災害 (さいがい). Phân biệt 損 (そん) – 災 (さい)."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "この<u>現象</u>は、これまでの理論では説明ができない。",
+      "options": ["げんそう", "げんしょう", "げんぞう", "げんじょう"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hiện tượng này không thể giải thích được bằng các lý thuyết từ trước đến nay.",
+        "why": "現象 đọc là げんしょう (HIỆN TƯỢNG) = hiện tượng. 象 trong từ này đọc しょう (không đục).",
+        "options": [
+          "げんそう → 幻想: ảo tưởng. Sai.",
+          "げんしょう → 現象: hiện tượng. ĐÚNG.",
+          "げんぞう → 現像: rửa ảnh (phim). Sai.",
+          "げんじょう → 現状: hiện trạng. Sai."
+        ],
+        "vocab": [
+          { "w": "現象", "r": "げんしょう", "hv": "HIỆN TƯỢNG", "vi": "hiện tượng" },
+          { "w": "理論", "r": "りろん", "hv": "LÝ LUẬN", "vi": "lý thuyết, lý luận" },
+          { "w": "現状", "r": "げんじょう", "hv": "HIỆN TRẠNG", "vi": "hiện trạng" },
+          { "w": "印象", "r": "いんしょう", "hv": "ẤN TƯỢNG", "vi": "ấn tượng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "象 có 2 âm: しょう (現象, 印象, 対象) và ぞう (象 – con voi). Đừng nhầm với 状 (じょう)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "私は今まで人を<u>憎い</u>と思ったことがない。",
+      "options": ["こわい", "ひどい", "にくい", "ずるい"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Từ trước đến giờ tôi chưa từng cảm thấy căm ghét ai.",
+        "why": "憎い đọc là にくい (TĂNG) = đáng ghét, căm ghét. Liên hệ 憎む (にくむ – căm ghét).",
+        "options": [
+          "こわい → 怖い: sợ, đáng sợ. Sai.",
+          "ひどい → 酷い: tệ hại, quá đáng. Sai.",
+          "にくい → 憎い: đáng ghét, căm ghét. ĐÚNG.",
+          "ずるい → 狡い: gian xảo, chơi xấu. Sai."
+        ],
+        "vocab": [
+          { "w": "憎い", "r": "にくい", "hv": "TĂNG", "vi": "đáng ghét, căm ghét" },
+          { "w": "憎む", "r": "にくむ", "hv": "TĂNG", "vi": "căm ghét, hận" },
+          { "w": "怖い", "r": "こわい", "hv": "BỐ", "vi": "sợ, đáng sợ" },
+          { "w": "ずるい", "r": "ずるい", "hv": "", "vi": "gian xảo, ăn gian" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đừng nhầm 憎い (にくい) với hậu tố 〜にくい (khó làm, viết hiragana: 読みにくい). Âm On của 憎 là ぞう: 憎悪 (ぞうお)."
+      }
+    }
+  ]
+}

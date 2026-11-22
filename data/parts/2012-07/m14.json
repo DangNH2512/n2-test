@@ -1,0 +1,78 @@
+{
+  "exam": "2012-07",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "右のページは、観光客のための案内である。下の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Trang bên phải là tờ hướng dẫn dành cho khách du lịch. Chọn câu trả lời đúng nhất cho các câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "京都楽遊パス",
+      "text": "京都楽遊パス\n京都楽遊パスで、京都を楽しもう！\nこのパスがあると、こんなことができます。\n① 乗る：京都楽遊パス、地下鉄、JR(注)、私鉄に1日または2日間自由に乗車できます。（なお、市内でも長距離の場合は追加料金を払っていただくことがあります。パスについている楽遊オリジナルガイドブックでご確認ください。）\n② 見る：［楽遊］の表示がある博物館、美術館、寺院、庭園などで、このパスをお見せください。入場料が100円安くなります。\n③ 買う：［楽遊］の表示がある店で2,000円以上の買い物をすると、代金から5%割引きします。会計の前に、お店の人にパスをお見せください。\n④ 食べる：［楽遊］の表示があるレストランや食堂で、飲み物のサービスが受けられます。\n※②～④でのご利用は、交通機関の利用日と同じ日に限ります。\n※楽遊オリジナルガイドブックには、京都の観光や交通、飲食、ショッピングなどに役に立つ情報をたくさん紹介しています。\n購入：このパスは、京都市内の観光案内所や、JR、私鉄、地下鉄の各駅やホテル、デパートの受付や案内、コンビニエンスストアなどで購入できます。「大人」以外のパスを購入する場合は、学生証など、年齢がわかるものをご提示ください。\n価格：\n1日パス：大人 1,500円、学生 1,000円、小学生以下 500円、シルバー（60歳以上）1,000円\n2日パス：大人 2,500円、学生 1,800円、小学生以下 800円、シルバー（60歳以上）1,800円\n京都楽遊パスオフィス（電話：0120-34-567　年中無休、9:00～18:00）\n(注) JR：日本の大きな鉄道会社"
+    }
+  ],
+  "questions": [
+    {
+      "num": 74,
+      "passage": "p1",
+      "stem": "このパスを手に入れるには、どうしたらいいか。",
+      "options": [
+        "京都楽遊パスオフィスへ行けば無料でもらえる。",
+        "京都市内の観光案内所、駅、ホテルなどで買える。",
+        "京都市内の主な観光施設で買うことができる。",
+        "京都市内のバスや地下鉄などに乗るともらえる。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Muốn có tấm vé này thì phải làm sao? → Có thể mua ở các trung tâm thông tin du lịch, nhà ga, khách sạn... trong thành phố Kyoto.",
+        "why": "Mục 購入 ghi: có thể mua ở trung tâm hướng dẫn du lịch, các ga JR/tư nhân/tàu điện ngầm, khách sạn, quầy lễ tân bách hóa, cửa hàng tiện lợi.",
+        "options": [
+          "Vé phải MUA (có bảng giá), không miễn phí; văn phòng chỉ ghi số điện thoại. Sai.",
+          "Mua ở trung tâm du lịch, ga, khách sạn. ĐÚNG.",
+          "Bảo tàng, chùa... là nơi được giảm giá vé vào, không phải nơi bán vé. Sai.",
+          "Không phải đi tàu xe là được tặng. Sai."
+        ],
+        "vocab": [
+          { "w": "購入", "r": "こうにゅう", "hv": "CẤU NHẬP", "vi": "mua" },
+          { "w": "観光案内所", "r": "かんこうあんないじょ", "hv": "QUAN QUANG ÁN NỘI SỞ", "vi": "trung tâm thông tin du lịch" },
+          { "w": "手に入れる", "r": "てにいれる", "hv": "", "vi": "có được, lấy được" },
+          { "w": "提示", "r": "ていじ", "hv": "ĐỀ THỊ", "vi": "xuất trình" }
+        ],
+        "grammar": null,
+        "evidence": "このパスは、京都市内の観光案内所や、JR、私鉄、地下鉄の各駅やホテル、デパートの受付や案内、コンビニエンスストアなどで購入できます。",
+        "tip": "Câu hỏi 'làm thế nào để có' → tìm mục 購入."
+      }
+    },
+    {
+      "num": 75,
+      "passage": "p1",
+      "stem": "このパスを持っているとどんなことが可能になるか。",
+      "options": [
+        "指定の店での買い物はすべて5%引きになる。",
+        "距離に関係なく、市内の乗り物が無料になる。",
+        "指定の美術館では入場料が100円引きになる。",
+        "市内のレストランでの食事が10%引きになる。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Có tấm vé này thì có thể làm gì? → Tại các bảo tàng mỹ thuật được chỉ định, phí vào cửa được giảm 100 yên.",
+        "why": "Mục ② 見る: tại bảo tàng, bảo tàng mỹ thuật, chùa, vườn có biển 楽遊, xuất trình vé thì phí vào cửa rẻ đi 100 yên.",
+        "options": [
+          "Chỉ giảm 5% khi mua từ 2.000 yên trở lên, không phải 'tất cả'. Sai.",
+          "Đi xa trong thành phố có thể phải trả thêm phí. Sai.",
+          "Bảo tàng mỹ thuật chỉ định giảm 100 yên. ĐÚNG.",
+          "Nhà hàng chỉ được phục vụ đồ uống, không giảm 10%. Sai."
+        ],
+        "vocab": [
+          { "w": "入場料", "r": "にゅうじょうりょう", "hv": "NHẬP TRƯỜNG LIỆU", "vi": "phí vào cửa" },
+          { "w": "割引", "r": "わりびき", "hv": "CÁT DẪN", "vi": "giảm giá" },
+          { "w": "追加料金", "r": "ついかりょうきん", "hv": "TRUY GIA LIỆU KIM", "vi": "phụ phí" },
+          { "w": "指定", "r": "してい", "hv": "CHỈ ĐỊNH", "vi": "chỉ định" }
+        ],
+        "grammar": null,
+        "evidence": "楽遊の表示がある博物館、美術館、寺院、庭園などで、このパスをお見せください。入場料が100円安くなります。",
+        "tip": "Bẫy: すべて (tất cả), 距離に関係なく (bất kể khoảng cách) – đọc kỹ điều kiện kèm theo."
+      }
+    }
+  ]
+}

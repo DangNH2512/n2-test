@@ -1,0 +1,309 @@
+{
+  "exam": "2025-12",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の(1)から(4)の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn vừa (1)–(4) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "以下は若い人たちに向けて書かれた文章である。\n\n私は、なにかを知るため、料理するために費やす（注1）時間が、その長さが大切だと思っている。知りたいことがあって、すぐにわからなければ、その疑問はずっと頭の片隅に残っている。こびりついて（注2）いる。わからない間、もしかしたらこうではないか、ああではないか、と想像力が働く。これが答えだと思って確かめるとまた違う。そうすると再び、こうではないか、ああではないか、と想像する…。この飽くなき（注3）プロセスによってこそ、想像力が養われていく。\nインターネットはすぐに答えを得られるので便利な反面、「なんでかな」「こうではないかな」と思って疑問を抱え込み、自らそれなりに考えてみるという時間を少なくしている。これでは想像力が働く場面がない。\nこの、すぐに答えが返ってくるという時間感覚は、人々にどんな影響を及ぼす（注4）だろうか。\n興味というのは、わからないことから湧いてくるものだ。最初からすべてわかっていたら、それは知識の対象にはなるだろうが、興味を持つ対象にはならないだろう。「わからない」部分があるからこそ、「知りたい」という欲求が湧くのである。（中略）\nどれくらい自分の中で問いや疑問を維持し続けられるか。この「わからない時間」に耐え、しかもそれを楽しむという習慣を、私たちはもっと大切にすべきだし、若い読者はぜひいまから心して（注5）おいて欲しいと思う。\n\n（注1）費やす：使う\n（注2）こびりつく：ここでは、消えずに残る\n（注3）飽くなき：ここでは、いつまでも続く\n（注4）及ぼす：ここでは、与える\n（注5）心する：心に留める"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "食事、睡眠、活動など、毎日はほぼ規則正しい生活をしていると、およそ決まった時刻に空腹を感じ、眠け（注1）を催しますが、これは生体に備わった（注2）リズムによるものです。\n地球は24時間で一回転するので、昼と夜の周期が生まれ、野生の（注3）動物たちはその周期に逆らわずに生きています。昼行性の動物は昼間に活動して夜間は休息するという生活で、夜行性の動物はこの逆です。人間は昼行性の動物ですが、機械文明の発達した現在、照明により室内の明暗を調節できるので、昼夜の周期（リズム）とは無関係に生きているように見えます。しかし、自然界の昼夜のリズムは人間の体に備わっているリズムに影響し、自分の意志とは無関係に体の調子が制御（注4）されている部分があります。\n<u>食事の時刻が近づいても空腹を感じない場合</u>は、前の食事や間食（注5）を食べ過ぎているなど、何か原因があると思います。そのようなときに「食べたくないから」と言って食事を抜いてしまうと、今度はまた次の食事になる前におなかがすいてしまい、何か食べてしまう結果、また食べたくないという悪循環に陥って（注6）しまうことになります。そうならないためには、食欲がなくても少しだけ食べて自分自身の気持ちに「食事をした」と、けり（注7）をつけることも大切です。\n\n（注1）眠けを催す：眠くなる\n（注2）備わる：もともとある\n（注3）野生の：自然の中で生きている\n（注4）制御する：コントロールする\n（注5）間食：食事と食事の間に食べる物\n（注6）陥る：ここでは、落ちる\n（注7）けり：ここでは、区切り"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "ひと言で人間関係と言っても、友人関係や異性関係、家族関係などさまざまです。しかし、こうした人間関係に関わる悩みには<u>共通すること</u>があるようです。\nそのひとつは、人との関係についての悩みには、「自分ではどうにもならない感じ」があることです。人間関係の悩みには、「相手しだい」という面が大きいのです。「相手がこうなってくれないと、どうにもならない」とか「相手がこういう人だから、こちらには何もできない」などという感じになることが多いようなのです。\n（中略）\n相手しだいの状況を何とか解決しようとすると、時に人は「自分を変えよう」と努力します。しかし、その状況を解決するためだけに努力して変化しようとすると、「自分を見失う（注1）」という状態になりやすいのです。\n自分を見失った状態は、かえって苦しく、実際に起きている事態にも何も変化をもたらさない（注2）か、あるいは、ますます悪くしがちです。自分を見失わずに進んでいくなかで、正面から思い悩み、そして結果的に自然に自分が変わってゆくという形での「変化」でなければ、うまくはいかないようです。実は、そうした変化は、一般に「成長」と呼ばれるのです。\n\n（注1）～を見失う：～が見えなくなる\n（注2）もたらす：ここでは、起こす"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "人間にとって、どのくらいの規模のコミュニティーで暮らすのが合っているのか。実は、それが脳の大きさから推定できるという説がある。\n人間の脳は700万年前、チンパンジー（注1）との共通祖先と分かれた後も、ずっと小さいままだった。200万年前にやっとゴリラの脳サイズ500ccを超えて大きくなりはじめ、40～60万年前までには3倍に増加して現代人の脳サイズに達する。でも、人間が言葉を話すようになったのは約7万年前だというので、脳は言葉を話すことによって大きくなったのではないということになる。\nではなんのために大きくなったのか。人間以外の霊長類（注2）で脳の大きさに関係しそうな特徴から調べてみると、それぞれの種が示す集団の平均サイズがきれいに正の相関（注3）を示すことがわかった。つまり、集団サイズが大きいほど、仲間の数が多いほど、脳が大きくなっているのだ。\nそれを現代人の脳サイズにあてはめると、私たちの脳の大きさに対応する集団規模は150人だということがわかった。（中略）今、都市に暮らす私たちは数千人、数万人規模のコミュニティーで暮らしているが、実際信頼関係を築いてつき合っている人の数は150人程度なのかもしれない。\n私はそれを、年賀状を出すときにリストに頼らず思い浮かべられる人の顔の数ではないかと思う。それは、言葉でも文字でもなく、いっしょに何かを体験した、共有した経験によって記憶に収められている人の数である。つまりその数が、互酬性（注4）にもとづいて自分よりよき関係を保ちたいと思う社会の規模なのだ。\n\n（注1）チンパンジー：猿と同じ種類の動物\n（注2）霊長類：猿や人間などの動物の種類\n（注3）正の相関：ここでは、片方が増えるにつれてもう一方も増えるという関係\n（注4）互酬性：ここでは、互いに助け合う性質"
+    }
+  ],
+  "questions": [
+    {
+      "num": 57,
+      "passage": "p1",
+      "stem": "インターネットで調べることについて、筆者はどのように述べているか。",
+      "options": [
+        "なんでも答えがわかるので、不必要なことまで知ってしまう。",
+        "有力な情報に影響されて、自分自身の考えが持てなくなる。",
+        "想像力を働かせられず、インターネットに頼りがちになる。",
+        "答えが簡単に得られるので、想像力を働かせる機会がない。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Về việc tra cứu trên Internet, tác giả nói gì? → Vì dễ dàng có được câu trả lời nên không có cơ hội vận dụng trí tưởng tượng.",
+        "why": "Internet có câu trả lời ngay nên tiện, nhưng làm giảm thời gian tự ôm thắc mắc và suy nghĩ → \"như vậy thì không có lúc nào trí tưởng tượng hoạt động\".",
+        "options": [
+          "Bài không nói biết cả những điều không cần thiết. Sai.",
+          "Bài không nói bị thông tin có sức ảnh hưởng chi phối. Sai.",
+          "Bài không nói \"dễ phụ thuộc vào Internet\"; quan hệ nhân quả cũng ngược. Sai.",
+          "Dễ có câu trả lời → không có cơ hội tưởng tượng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "想像力", "r": "そうぞうりょく", "hv": "TƯỞNG TƯỢNG LỰC", "vi": "trí tưởng tượng" },
+          { "w": "抱え込む", "r": "かかえこむ", "hv": "BÃO NHẬP", "vi": "ôm giữ (vấn đề) trong lòng" },
+          { "w": "片隅", "r": "かたすみ", "hv": "PHIẾN NGUNG", "vi": "một góc" },
+          { "w": "養う", "r": "やしなう", "hv": "DƯỠNG", "vi": "nuôi dưỡng, bồi dưỡng" }
+        ],
+        "grammar": {
+          "pattern": "～反面",
+          "meaning": "mặt khác, trái lại (một sự việc có hai mặt)",
+          "form": "普通形（Na＋な／である）＋反面",
+          "example": "都会の生活は便利な反面、ストレスも多い。"
+        },
+        "evidence": "インターネットはすぐに答えを得られるので便利な反面、「なんでかな」「こうではないかな」と思って疑問を抱え込み、自らそれなりに考えてみるという時間を少なくしている。これでは想像力が働く場面がない。",
+        "tip": null
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p1",
+      "stem": "筆者が言いたいことは何か。",
+      "options": [
+        "興味の対象を広げていけば、「知りたい」という気持ちが持ち続けられる。",
+        "わからないことを考え続けていれば、考えることが楽しめるようになる。",
+        "すぐに答えを得ようとせずに、考え続けることを楽しむべきだ。",
+        "正しい答えにたどり着くには、「わからない時間」に耐えるべきだ。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều tác giả muốn nói là gì? → Không nên vội tìm ngay câu trả lời mà nên tận hưởng việc tiếp tục suy nghĩ.",
+        "why": "Đoạn cuối: hãy chịu đựng \"thời gian chưa biết\", hơn nữa là tận hưởng nó, và duy trì câu hỏi trong mình — chúng ta nên trân trọng thói quen này.",
+        "options": [
+          "Bài không nói mở rộng đối tượng quan tâm. Sai.",
+          "\"Nghĩ mãi thì sẽ thấy vui\" — bài không nói kết quả này; tác giả bảo nên tận hưởng. Sai.",
+          "Đừng vội có câu trả lời, hãy tận hưởng việc tiếp tục suy nghĩ. ĐÚNG.",
+          "Mục đích không phải là \"đến được đáp án đúng\" mà là nuôi trí tưởng tượng, hứng thú; thiếu ý \"楽しむ\". Sai."
+        ],
+        "vocab": [
+          { "w": "維持", "r": "いじ", "hv": "DUY TRÌ", "vi": "duy trì" },
+          { "w": "耐える", "r": "たえる", "hv": "NẠI", "vi": "chịu đựng" },
+          { "w": "湧く", "r": "わく", "hv": "DŨNG", "vi": "trào ra, nảy sinh" },
+          { "w": "欲求", "r": "よっきゅう", "hv": "DỤC CẦU", "vi": "nhu cầu, mong muốn" }
+        ],
+        "grammar": {
+          "pattern": "～べきだ",
+          "meaning": "nên ~, phải ~",
+          "form": "V辞書形＋べきだ（する→すべきだ）",
+          "example": "約束は守るべきだ。"
+        },
+        "evidence": "この「わからない時間」に耐え、しかもそれを楽しむという習慣を、私たちはもっと大切にすべきだし、若い読者はぜひいまから心しておいて欲しいと思う。",
+        "tip": "Câu hỏi 筆者が言いたいこと → tìm câu có ～べきだ／～欲しいと思う ở cuối bài."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p2",
+      "stem": "人間の体のリズムについて、筆者はどのように述べているか。",
+      "options": [
+        "照明の技術が発達して昼夜を問わず行動できるようになっても、自然界の昼夜のリズムの影響を受けている。",
+        "照明により昼夜の区別があいまいになったことで、自然界の昼夜のリズムに逆らって不規則になっている。",
+        "技術が発達した現在でも、動物と同様に、自身の意志より自然界の昼夜のリズムのほうが影響が大きい。",
+        "技術が発達した結果、動物とは異なり、自然界の昼夜のリズムの影響を受けずに生きられるようになっている。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về nhịp sinh học của cơ thể con người, tác giả nói gì? → Dù kỹ thuật chiếu sáng phát triển, có thể hoạt động bất kể ngày đêm, con người vẫn chịu ảnh hưởng của nhịp ngày đêm tự nhiên.",
+        "why": "Nhờ đèn chiếu sáng, con người có vẻ sống không liên quan đến chu kỳ ngày đêm, \"nhưng\" nhịp ngày đêm tự nhiên vẫn ảnh hưởng đến nhịp vốn có của cơ thể.",
+        "options": [
+          "Dù đèn phát triển, vẫn chịu ảnh hưởng nhịp ngày đêm. ĐÚNG.",
+          "Bài không nói nhịp cơ thể trở nên rối loạn, đi ngược tự nhiên. Sai.",
+          "Bài chỉ nói có \"một phần\" bị điều khiển không theo ý muốn, không so sánh ý chí với nhịp tự nhiên cái nào lớn hơn. Sai.",
+          "Trái với bài: chỉ là \"trông như\" không bị ảnh hưởng. Sai."
+        ],
+        "vocab": [
+          { "w": "照明", "r": "しょうめい", "hv": "CHIẾU MINH", "vi": "chiếu sáng, đèn" },
+          { "w": "周期", "r": "しゅうき", "hv": "CHU KỲ", "vi": "chu kỳ" },
+          { "w": "逆らう", "r": "さからう", "hv": "NGHỊCH", "vi": "đi ngược, chống lại" },
+          { "w": "制御", "r": "せいぎょ", "hv": "CHẾ NGỰ", "vi": "điều khiển, kiểm soát" }
+        ],
+        "grammar": {
+          "pattern": "～ように見える",
+          "meaning": "trông có vẻ như ~ (thực tế có thể khác)",
+          "form": "普通形（Na＋な／N＋の）＋ように見える",
+          "example": "彼は元気そうに見えるが、実は疲れている。"
+        },
+        "evidence": "照明により室内の明暗を調節できるので、昼夜の周期（リズム）とは無関係に生きているように見えます。しかし、自然界の昼夜のリズムは人間の体に備わっているリズムに影響し、自分の意志とは無関係に体の調子が制御されている部分があります。",
+        "tip": "Sau ～ように見えます。しかし… → ý thật nằm sau しかし."
+      }
+    },
+    {
+      "num": 60,
+      "passage": "p2",
+      "stem": "筆者によると、<u>食事の時刻が近づいても空腹を感じない場合</u>はどうすればいいか。",
+      "options": [
+        "無理に食べないで、食事をしたと思い込むようにする。",
+        "食欲がわかない原因を考えて、いろいろな食べ方を試してみる。",
+        "食事をしたいという気持ちになるまで、少しずつ食べるようにする。",
+        "食事をしたいという気持ちになるために、少しでも食べるようにする。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, khi đến giờ ăn mà không thấy đói thì nên làm gì? → Ăn dù chỉ một chút để có được cảm giác muốn ăn (đúng nhịp bữa ăn).",
+        "why": "Nếu bỏ bữa vì không muốn ăn thì sẽ đói trước bữa sau, ăn vặt, rồi lại không muốn ăn — vòng luẩn quẩn. Để tránh, dù không thèm ăn cũng nên ăn một chút để \"chốt\" với bản thân là đã ăn → giữ lại nhịp ăn, tức là để lại có cảm giác muốn ăn vào bữa.",
+        "options": [
+          "Trái với bài: bài khuyên vẫn ăn một ít, không phải không ăn. Sai.",
+          "Bài không khuyên thử nhiều cách ăn. Sai.",
+          "\"Ăn từng chút cho đến khi muốn ăn\" — bài nói ăn một chút rồi chốt lại, không phải ăn dần cho tới lúc thèm. Sai.",
+          "Ăn dù chỉ một chút để phục hồi cảm giác muốn ăn (thoát vòng luẩn quẩn). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "空腹", "r": "くうふく", "hv": "KHÔNG PHÚC", "vi": "bụng đói" },
+          { "w": "間食", "r": "かんしょく", "hv": "GIAN THỰC", "vi": "ăn vặt giữa bữa" },
+          { "w": "悪循環", "r": "あくじゅんかん", "hv": "ÁC TUẦN HOÀN", "vi": "vòng luẩn quẩn" },
+          { "w": "けりをつける", "r": "けりをつける", "hv": "", "vi": "chấm dứt, dứt điểm" }
+        ],
+        "grammar": {
+          "pattern": "～ないためには",
+          "meaning": "để không ~ thì",
+          "form": "Vない＋ためには",
+          "example": "風邪をひかないためには、手洗いが大切だ。"
+        },
+        "evidence": "そうならないためには、食欲がなくても少しだけ食べて自分自身の気持ちに「食事をした」と、けりをつけることも大切です。",
+        "tip": "Phương án 4 là cách diễn đạt lại mục đích (thoát vòng 食べたくない) của lời khuyên \"少しだけ食べて\"."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p3",
+      "stem": "<u>共通すること</u>として筆者が述べているのはどれか。",
+      "options": [
+        "自分にも相手にも原因があると感じられること。",
+        "自分では解決できそうにないと感じられること。",
+        "相手に原因があっても、自分が悪いと感じられること。",
+        "相手が変わっても解決しないと感じられること。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điểm chung mà tác giả nêu ra là gì? → Cảm giác rằng bản thân không thể tự giải quyết được.",
+        "why": "Ngay sau đó: \"một trong số đó là trong phiền não về quan hệ có cảm giác 'tự mình không làm gì được'\" — phụ thuộc vào đối phương.",
+        "options": [
+          "Bài không nói nguyên nhân ở cả hai phía. Sai.",
+          "Cảm giác tự mình không giải quyết được. ĐÚNG.",
+          "Bài không nói cảm thấy mình có lỗi. Sai.",
+          "Ngược lại: người ta nghĩ \"đối phương phải thay đổi thì mới giải quyết được\". Sai."
+        ],
+        "vocab": [
+          { "w": "悩み", "r": "なやみ", "hv": "NÃO", "vi": "nỗi phiền muộn" },
+          { "w": "異性", "r": "いせい", "hv": "DỊ TÍNH", "vi": "người khác giới" },
+          { "w": "相手しだい", "r": "あいてしだい", "hv": "TƯƠNG THỦ THỨ ĐỆ", "vi": "tùy vào đối phương" },
+          { "w": "どうにもならない", "r": "どうにもならない", "hv": "", "vi": "không thể làm gì được" }
+        ],
+        "grammar": {
+          "pattern": "N＋しだい",
+          "meaning": "tùy thuộc vào N",
+          "form": "N＋しだいだ／しだいで",
+          "example": "旅行に行くかどうかは天気しだいだ。"
+        },
+        "evidence": "そのひとつは、人との関係についての悩みには、「自分ではどうにもならない感じ」があることです。",
+        "tip": null
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p3",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "悩みと真剣に向き合うことが、自分が変わることにつながる。",
+        "悩みがあっても、自分が変わらないでいることが大切だ。",
+        "悩んでばかりいては、自分をいい方向に変化させられない。",
+        "自分を変えようと努力していれば、自然に悩みを解決できる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Ý nào khớp với suy nghĩ của tác giả? → Đối diện nghiêm túc với phiền não sẽ dẫn đến việc bản thân thay đổi.",
+        "why": "Tác giả: cố thay đổi chỉ để giải quyết tình huống thì dễ đánh mất mình; phải là thay đổi theo kiểu không đánh mất mình, trăn trở chính diện, rồi kết quả là tự nhiên thay đổi (= trưởng thành).",
+        "options": [
+          "Đối mặt nghiêm túc với phiền não → bản thân thay đổi. ĐÚNG.",
+          "Tác giả không bảo đừng thay đổi; điều quan trọng là không đánh mất mình, còn thay đổi tự nhiên là tốt. Sai.",
+          "Tác giả lại đánh giá cao việc 思い悩む (trăn trở). Sai.",
+          "Cố thay đổi bản thân chỉ để giải quyết thì dễ đánh mất mình, làm tình hình xấu hơn. Sai."
+        ],
+        "vocab": [
+          { "w": "見失う", "r": "みうしなう", "hv": "KIẾN THẤT", "vi": "đánh mất, lạc mất" },
+          { "w": "正面から", "r": "しょうめんから", "hv": "CHÍNH DIỆN", "vi": "trực diện" },
+          { "w": "思い悩む", "r": "おもいなやむ", "hv": "TƯ NÃO", "vi": "trăn trở, day dứt" },
+          { "w": "成長", "r": "せいちょう", "hv": "THÀNH TRƯỞNG", "vi": "trưởng thành" }
+        ],
+        "grammar": {
+          "pattern": "～でなければ…ない",
+          "meaning": "nếu không phải là ~ thì không…",
+          "form": "N／Na＋でなければ＋phủ định",
+          "example": "本人でなければ、手続きはできない。"
+        },
+        "evidence": "自分を見失わずに進んでいくなかで、正面から思い悩み、そして結果的に自然に自分が変わってゆくという形での「変化」でなければ、うまくはいかないようです。",
+        "tip": "Bẫy 4: \"努力して変化しようとする\" chính là cách tác giả cảnh báo."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p4",
+      "stem": "人間の脳について、筆者が述べていることに合うのはどれか。",
+      "options": [
+        "700万年前から大きくなりはじめ、200万年前にゴリラの脳より大きくなった。",
+        "200万年前から大きくなりはじめ、7万年前に現代人の脳と同じ大きさになった。",
+        "言葉を話しはじめる前に、現代人の脳と同じ大きさになった。",
+        "言葉を話しはじめたころ、ゴリラの脳より大きくなった。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Ý nào khớp với điều tác giả nói về não người? → Não đã to bằng não người hiện đại từ trước khi con người bắt đầu nói.",
+        "why": "Não đạt kích thước người hiện đại vào khoảng 40–60 vạn năm trước, còn con người bắt đầu nói khoảng 7 vạn năm trước → não lớn trước khi có ngôn ngữ.",
+        "options": [
+          "700 vạn năm trước não vẫn nhỏ; mãi 200 vạn năm trước mới bắt đầu lớn. Sai.",
+          "Đạt kích thước hiện đại vào 40–60 vạn năm trước, không phải 7 vạn năm. Sai.",
+          "Đạt kích thước hiện đại trước khi biết nói. ĐÚNG.",
+          "Vượt não gorilla từ 200 vạn năm trước, lâu trước khi biết nói (7 vạn năm). Sai."
+        ],
+        "vocab": [
+          { "w": "脳", "r": "のう", "hv": "NÃO", "vi": "não" },
+          { "w": "祖先", "r": "そせん", "hv": "TỔ TIÊN", "vi": "tổ tiên" },
+          { "w": "推定", "r": "すいてい", "hv": "SUY ĐỊNH", "vi": "ước đoán" },
+          { "w": "達する", "r": "たっする", "hv": "ĐẠT", "vi": "đạt đến" }
+        ],
+        "grammar": null,
+        "evidence": "200万年前にやっとゴリラの脳サイズ500ccを超えて大きくなりはじめ、40～60万年前までには3倍に増加して現代人の脳サイズに達する。でも、人間が言葉を話すようになったのは約7万年前だというので、脳は言葉を話すことによって大きくなったのではないということになる。",
+        "tip": "Câu hỏi số liệu → gạch mốc thời gian: 700万 (tách khỏi tinh tinh, não nhỏ) → 200万 (bắt đầu lớn) → 40–60万 (bằng hiện đại) → 7万 (biết nói)."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p4",
+      "stem": "150人という数について、筆者はどのように考えているか。",
+      "options": [
+        "共有した経験によって記憶に残り、信頼関係が築ける人の数である。",
+        "人間がよりよく生きるために必要な人の数である。",
+        "都市での生活で誰もが知り合うことのできる人の数である。",
+        "言葉や文字を使えば記憶でき、信頼してつき合える人の数である。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tác giả nghĩ gì về con số 150 người? → Là số người được ghi nhớ nhờ những trải nghiệm chung và có thể xây dựng quan hệ tin cậy.",
+        "why": "Tác giả: số người thực sự xây dựng quan hệ tin cậy có lẽ khoảng 150; đó là số người được lưu trong trí nhớ nhờ kinh nghiệm cùng trải qua, không phải nhờ lời nói hay chữ viết.",
+        "options": [
+          "Nhớ nhờ trải nghiệm chung + quan hệ tin cậy. ĐÚNG.",
+          "Bài không nói \"cần thiết để sống tốt hơn\". Sai.",
+          "Ở thành phố ta sống trong cộng đồng hàng nghìn, vạn người; 150 không phải số người quen được. Sai.",
+          "Trái với bài: \"không phải nhờ lời nói hay chữ viết\" (言葉でも文字でもなく). Sai."
+        ],
+        "vocab": [
+          { "w": "信頼関係", "r": "しんらいかんけい", "hv": "TÍN LẠI QUAN HỆ", "vi": "quan hệ tin cậy" },
+          { "w": "共有", "r": "きょうゆう", "hv": "CỘNG HỮU", "vi": "chia sẻ, cùng có" },
+          { "w": "年賀状", "r": "ねんがじょう", "hv": "NIÊN HẠ TRẠNG", "vi": "thiệp chúc Tết" },
+          { "w": "互酬性", "r": "ごしゅうせい", "hv": "HỖ THÙ TÍNH", "vi": "tính có qua có lại" }
+        ],
+        "grammar": null,
+        "evidence": "実際信頼関係を築いてつき合っている人の数は150人程度なのかもしれない。…それは、言葉でも文字でもなく、いっしょに何かを体験した、共有した経験によって記憶に収められている人の数である。",
+        "tip": null
+      }
+    }
+  ]
+}

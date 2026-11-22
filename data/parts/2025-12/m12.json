@@ -1,0 +1,88 @@
+{
+  "exam": "2025-12",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B rồi chọn câu trả lời đúng nhất (đọc so sánh).",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "子供が成長していくうえで失敗の経験は大事だ。だが子供が失敗したときに、親が子供の行動を責めると、子供は「自分が悪いことをしたんだ」と思い、失敗を隠すようになってしまう。また、失敗したくないという気持ちが強くなりチャレンジすることをやめてしまうだろう。\n子供が失敗したときは、責めるのではなく、子供と一緒になぜできなかったのか、どうすればうまくいくのかを考えることが大切だ。それでも分からない場合にはアドバイスをすればいい。子供と一緒に考えるようにすれば、自身で次のステップを考える習慣が身についていく。失敗の経験を次に生かせるように導くことが何よりも大切だ。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "子供は失敗の経験を重ねながら強い精神力を身につけていくものだ。そのため、子供が失敗したときは、親は助けたい気持ちを我慢して見守ることが大切だ。親が手助けしなければ、子供は自身で試行錯誤しながら何がいけなかったのか、次に成功するために何が必要かを考えようとする。その経験が心を強くしていくのだ。\n子供が失敗すると責める親がいるが、それでは子供は自分の行動に自信が持てなくなり、失敗することを恐れて、チャレンジする前からあきらめるようになってしまう。子供が失敗の経験を生かして成長するには、親は責めることもアドバイスもしないほうがいい。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 65,
+      "passage": "AB",
+      "stem": "失敗を親に責められた子供について、AとBが共通して述べているのはどれか。",
+      "options": [
+        "失敗したことを親に話さなくなる。",
+        "新しいことをやってみようと思わなくなる。",
+        "自分が失敗したことを認めたくなくなる。",
+        "自分のしていることに自信を持てなくなる。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Về đứa trẻ bị bố mẹ trách mắng vì thất bại, A và B cùng nói điều gì? → Trẻ sẽ không muốn thử làm điều mới nữa.",
+        "why": "A: trẻ sẽ ngừng thử thách (チャレンジすることをやめてしまう). B: trẻ sẽ bỏ cuộc trước cả khi thử thách (チャレンジする前からあきらめる). → Cả hai: không dám thử điều mới.",
+        "options": [
+          "Chỉ A nói trẻ sẽ giấu thất bại (失敗を隠す). Sai.",
+          "Cả A và B: không muốn thử thách điều mới. ĐÚNG.",
+          "Không bên nào nói \"không muốn thừa nhận thất bại\" (A nói giấu, khác với không thừa nhận). Sai.",
+          "Chỉ B nói mất tự tin vào hành động của mình. Sai."
+        ],
+        "vocab": [
+          { "w": "責める", "r": "せめる", "hv": "TRÁCH", "vi": "trách mắng, đổ lỗi" },
+          { "w": "隠す", "r": "かくす", "hv": "ẨN", "vi": "che giấu" },
+          { "w": "見守る", "r": "みまもる", "hv": "KIẾN THỦ", "vi": "dõi theo, trông chừng" },
+          { "w": "試行錯誤", "r": "しこうさくご", "hv": "THÍ HÀNH THÁC NGỘ", "vi": "thử và sai" }
+        ],
+        "grammar": null,
+        "evidence": "A：失敗したくないという気持ちが強くなりチャレンジすることをやめてしまうだろう。／B：失敗することを恐れて、チャレンジする前からあきらめるようになってしまう。",
+        "tip": "Câu hỏi 共通 → loại các phương án chỉ một bên nói (1 chỉ A, 4 chỉ B)."
+      }
+    },
+    {
+      "num": 66,
+      "passage": "AB",
+      "stem": "子供が失敗したときの親の対応のしかたについて、AとBはどのようにアドバイスしているか。",
+      "options": [
+        "AもBも、なぜ失敗したのか子供自身に考えさせればいいと述べている。",
+        "AもBも、子供とともに改善方法を試してみるといいと述べている。",
+        "Aは子供と一緒に原因と改善方法を考えるといいと述べ、Bは子供自身が原因と改善方法を考えるのを見守るといいと述べている。",
+        "Aは失敗を次に生かす方法をアドバイスするといいと述べ、Bは子供自身で対処できないことだけを手助けすればいいと述べている。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "A và B khuyên cha mẹ nên ứng xử thế nào khi con thất bại? → A: cùng con suy nghĩ nguyên nhân và cách cải thiện; B: dõi theo để con tự suy nghĩ nguyên nhân và cách cải thiện.",
+        "why": "A: \"cùng con nghĩ vì sao không làm được, làm thế nào sẽ tốt\" (cha mẹ tham gia). B: \"kìm nén mong muốn giúp đỡ, chỉ dõi theo; con sẽ tự thử–sai, nghĩ cái gì sai, cần gì để thành công\" và không nên cả khuyên bảo.",
+        "options": [
+          "A không để con tự nghĩ một mình mà cùng nghĩ với con. Sai.",
+          "Không bên nào nói cùng con thử cách cải thiện; B còn bảo không giúp. Sai.",
+          "A: cùng con nghĩ; B: dõi theo con tự nghĩ. ĐÚNG.",
+          "A chỉ khuyên khi \"vẫn không hiểu\"; B nói không giúp cũng không khuyên, không có ý \"chỉ giúp việc con không tự xử lý được\". Sai."
+        ],
+        "vocab": [
+          { "w": "対応", "r": "たいおう", "hv": "ĐỐI ỨNG", "vi": "cách ứng xử, đối phó" },
+          { "w": "改善", "r": "かいぜん", "hv": "CẢI THIỆN", "vi": "cải thiện" },
+          { "w": "我慢", "r": "がまん", "hv": "NGÃ MẠN", "vi": "chịu đựng, kìm nén" },
+          { "w": "導く", "r": "みちびく", "hv": "ĐẠO", "vi": "dẫn dắt" }
+        ],
+        "grammar": {
+          "pattern": "～ほうがいい",
+          "meaning": "nên ~ thì tốt hơn",
+          "form": "Vた／Vない＋ほうがいい",
+          "example": "疲れているなら、今日は早く寝たほうがいい。"
+        },
+        "evidence": "A：子供と一緒になぜできなかったのか、どうすればうまくいくのかを考えることが大切だ。／B：親は助けたい気持ちを我慢して見守ることが大切だ。親が手助けしなければ、子供は自身で試行錯誤しながら何がいけなかったのか、次に成功するために何が必要かを考えようとする。",
+        "tip": "Từ khóa phân biệt: A = 一緒に (cùng); B = 見守る (đứng ngoài dõi theo)."
+      }
+    }
+  ]
+}

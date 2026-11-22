@@ -1,0 +1,84 @@
+{
+  "exam": "2020-12",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B rồi chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "睡眠不足で悩む人が多い。そのような人は、十分な睡眠時間が取れていないからだと思うかもしれないが、実はぐっすり眠れていないことが原因のほうが多い。睡眠時間の長さだけでなく、眠りの質を大切にしなければよく眠れたとは感じられないのだ。\n質のよい睡眠をとるためには、睡眠の妨げになる緊張や興奮を取り除いて心や体を落ち着かせることが大事だ。例えば、私は温かい牛乳を飲んだりクラシック音楽を聞いたりしている。寝る前には心配事や悩みについて考えたり、テレビやケータイの画面などを見すぎたりしないほうがいい。寝る前の時間の過ごし方について、少し意識を変えてみることで睡眠の悩みの改善につながるはずだ。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "朝起きたとき、よく眠れなかった、疲れが取れていない、などと感じたことがありませんか。睡眠不足を感じるのは、眠りが浅いことが原因です。日によって寝る時間や起きる時間ができるだけ異ならないように、生活のリズムを整えることが大事だという意見もあります。しかし、最も大きな問題は、質のよい睡眠が取れていないということなのです。\n睡眠不足にならないようにするには、睡眠に適した環境を作ることが大切です。部屋の照明や温度を調整することはもちろん、体に負担のかからない、自分に合った枕や布団も睡眠をサポートしてくれます。よい睡眠は少しの工夫で得られるようになるものです。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 66,
+      "passage": "AB",
+      "stem": "睡眠不足で悩む人について、AとBが共通して原因だと指摘していることは何か。",
+      "options": [
+        "不規則な生活を送っていること",
+        "深い睡眠が取れていないこと",
+        "夜遅くまで活動していること",
+        "睡眠時間が足りないこと"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Về những người khổ sở vì thiếu ngủ, điều mà cả A và B cùng chỉ ra là nguyên nhân là gì? → Không có được giấc ngủ sâu.",
+        "why": "A: nguyên nhân thường là 「ぐっすり眠れていないこと」 (không ngủ say), quan trọng là 「眠りの質」. B: 「眠りが浅いことが原因」, vấn đề lớn nhất là 「質のよい睡眠が取れていない」. Cả hai đều nói về việc không ngủ sâu.",
+        "options": [
+          "Sinh hoạt không đều đặn → B chỉ giới thiệu là 「ý kiến của người khác」 rồi phủ định bằng しかし; A không nhắc. Sai.",
+          "Không có giấc ngủ sâu. ĐÚNG.",
+          "Hoạt động đến khuya → cả hai không nói. Sai.",
+          "Thời gian ngủ không đủ → A phủ định rõ ràng (「実は…ほうが多い」). Sai."
+        ],
+        "vocab": [
+          { "w": "睡眠不足", "r": "すいみんぶそく", "hv": "THỤY MIÊN BẤT TÚC", "vi": "thiếu ngủ" },
+          { "w": "ぐっすり", "r": "ぐっすり", "hv": "", "vi": "(ngủ) say, ngon giấc" },
+          { "w": "眠りが浅い", "r": "ねむりがあさい", "hv": "", "vi": "ngủ không sâu" },
+          { "w": "質", "r": "しつ", "hv": "CHẤT", "vi": "chất lượng" }
+        ],
+        "grammar": null,
+        "evidence": "A：実はぐっすり眠れていないことが原因のほうが多い。／B：睡眠不足を感じるのは、眠りが浅いことが原因です。…最も大きな問題は、質のよい睡眠が取れていないということなのです。",
+        "tip": "Bài tổng hợp: ý được giới thiệu bằng 「～という意見もあります。しかし」 thường KHÔNG phải ý kiến của tác giả."
+      }
+    },
+    {
+      "num": 67,
+      "passage": "AB",
+      "stem": "睡眠不足を解消するために、AとBはどのようなアドバイスをしているか。",
+      "options": [
+        "AもBも、できるだけ生活のリズムを乱さないようにしたほうがいいと述べている。",
+        "AもBも、寝る前の時間を有効に活用したほうがいいと述べている。",
+        "Aは寝る前に気持ちを落ち着かせたほうがいいと述べ、Bは基本的な生活習慣を見直したほうがいいと述べている。",
+        "Aは寝る前の行動に気をつけたほうがいいと述べ、Bは寝るときの環境や使う物を意識したほうがいいと述べている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Để giải quyết tình trạng thiếu ngủ, A và B khuyên điều gì? → A khuyên nên chú ý hành động trước khi ngủ, B khuyên nên để ý môi trường khi ngủ và đồ dùng.",
+        "why": "A: uống sữa ấm, nghe nhạc, không lo nghĩ, không xem màn hình quá nhiều → 「寝る前の時間の過ごし方」. B: điều chỉnh ánh sáng, nhiệt độ phòng, gối và chăn hợp với mình → 「睡眠に適した環境」.",
+        "options": [
+          "Cả hai khuyên không phá vỡ nhịp sinh hoạt → A không nói, B chỉ dẫn ý kiến người khác. Sai.",
+          "Cả hai khuyên tận dụng thời gian trước khi ngủ → B không nói. Sai.",
+          "Vế A đúng, nhưng B không khuyên xem lại thói quen sinh hoạt cơ bản (B nói về môi trường). Sai.",
+          "A: chú ý hành động trước khi ngủ; B: chú ý môi trường và đồ dùng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "解消", "r": "かいしょう", "hv": "GIẢI TIÊU", "vi": "giải tỏa, xóa bỏ" },
+          { "w": "妨げ", "r": "さまたげ", "hv": "PHƯƠNG", "vi": "sự cản trở" },
+          { "w": "照明", "r": "しょうめい", "hv": "CHIẾU MINH", "vi": "ánh sáng, đèn" },
+          { "w": "枕", "r": "まくら", "hv": "CHẨM", "vi": "cái gối" },
+          { "w": "負担", "r": "ふたん", "hv": "PHỤ ĐẢM", "vi": "gánh nặng" }
+        ],
+        "grammar": null,
+        "evidence": "A：寝る前の時間の過ごし方について、少し意識を変えてみることで睡眠の悩みの改善につながるはずだ。／B：睡眠不足にならないようにするには、睡眠に適した環境を作ることが大切です。部屋の照明や温度を調整することはもちろん、…自分に合った枕や布団も睡眠をサポートしてくれます。",
+        "tip": "Đáp án 3 bẫy nửa đúng nửa sai: luôn kiểm tra CẢ HAI vế."
+      }
+    }
+  ]
+}

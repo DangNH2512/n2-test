@@ -1,0 +1,215 @@
+{
+  "exam": "2019-12",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（１）から（５）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(5), chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "人に何か言われて、それがどんな意味なんだろう、どうしてそんなことを言ったんだろうと、一人で考えれば考えるほど、あなたは成長します。\n逆に言えば、自分一人で考える時間がなければ、あなたはどんなに立派な話を聞いても、どんなに役立つ本を読んでも、その考えやアイデアは、あなたのものになりません。取ってつけた（注1）ようで、人は、それがあなたの本当の知識じゃないことを見抜きます（注2）。\n（注1）取ってつけた：無理に付け加えた\n（注2）～を見抜く：ここでは、～に簡単に気づく"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、ある市の国際交流協会から届いたメールである。\n\n水森市国際交流協会　会員の皆様\n今年も水森市国際交流協会の活動に参加してくださりありがとうございました。\n会員の方にはこれまで毎年12月に会費4,000円（翌年1月から12月の1年分）を納めていただきましたが、来年より4月に会費（4月から翌年3月の1年分）を納めていただくことになりました。\n今回の変更に伴い、来年1月から3月までの分の1,000円は、1月の交流会で集めます。\nなお、1月の交流会に参加できない場合は、1月中に事務局にお持ちください。\n今後ともよろしくお願いいたします。\n水森市国際交流協会事務局\n会計担当　赤木春香　akagi@miz.or.jp\n電話：08-1596-4712"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "ヒトと機械は違っているからこそ、補完し（注1）合えるのだという考え方がある。同じであっては意味が無いとさえ言い切る人もいる。同じものが二つあっても量的な能力が倍増する（注2）だけであって、質的な変化は起こりえない。初期のコンピュータが結構役に立ったのは人間と全く違った単純作業ができたからである。人間だと繰り返しの作業の中でどうしても思い込みが起こる。\nコンピュータが得意なのは常に一定の判断である。それであるがゆえに（注3）人間の単純なミスを指摘できるのである。\n（注1）補完する：不十分な部分を補う\n（注2）倍増する：二倍に増える\n（注3）それであるがゆえに：だから"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "以下は、あるカメラメーカーがホームページに掲載したお知らせである。\n\nビーエスカメラ＞製品情報\n2019年10月8日\nデジタルカメラ「BS-ZG1」に関するお知らせ\n弊社のデジタルカメラ「BS-ZG1」は、電源ボタンの不具合が見付かったため9月30日より販売を一時中止しておりました。その後の調査の結果、この不具合は製造番号ZH29200～ZH29800の製品にのみ起きることが分かりました。\n対象の製品をお持ちのお客様は、現在不具合が起きていなくても無料で修理させていただきますので、お手数ですがお近くの販売店までお持ちくださいますようお願い申し上げます。\nなお、製造番号の確認方法は、下記のホームページをご覧ください。\nhttp://bs-camera.jp/info/20191008\nビーエスカメラ　お客様サポート窓口\nTEL：02-3389-4254（受付時間 10:00～19:00）"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "作者というものは、たいていの場合、自分の詩のいい読者ではありえません。作意（注）や創作過程が心につよく残っていて、作品を客観的に見ることを妨げるからです。だれだって、自分のことは自分がもっともよく知っていると思うでしょう。ですが、その反面、他人にはすぐわかるのに、本人にはいっこうにわからないような一面が人間にはあります。作者と詩の場合もこれと同じです。だから、作者がこの詩についてはこう言っているのだから、これが正しいというような考え方には、僕は<u>あまり賛成できません</u>。\n（注）作意：作成した意図"
+    }
+  ],
+  "questions": [
+    {
+      "num": 53,
+      "passage": "p1",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "自分自身を知るには、一人で考える時間が必要だ。",
+        "人として成長するには、自分一人で考える時間が必要だ。",
+        "自分一人で考える時間が長ければ、よいアイデアが浮かぶ。",
+        "本当の知識を得るには、役立つ本や立派な話に接するべきだ。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Để trưởng thành với tư cách con người, cần có thời gian tự mình suy nghĩ.",
+        "why": "Câu đầu: 'càng tự mình suy nghĩ thì bạn càng trưởng thành'; đoạn sau: không có thời gian tự suy nghĩ thì kiến thức không thành của mình. → Trưởng thành cần thời gian suy nghĩ một mình.",
+        "options": [
+          "Bài không nói về việc 'hiểu bản thân'. Sai.",
+          "Cần thời gian tự suy nghĩ để trưởng thành. ĐÚNG.",
+          "Bài không nói thời gian dài thì nảy ra ý tưởng hay; ý tưởng nghe/đọc được mới thành của mình. Sai.",
+          "Ngược lại: dù đọc sách hay, nghe chuyện hay mà không tự suy nghĩ thì cũng vô ích. Sai."
+        ],
+        "vocab": [
+          { "w": "成長", "r": "せいちょう", "hv": "THÀNH TRƯỞNG", "vi": "trưởng thành" },
+          { "w": "立派", "r": "りっぱ", "hv": "LẬP PHÁI", "vi": "tuyệt vời, đáng nể" },
+          { "w": "見抜く", "r": "みぬく", "hv": "KIẾN BẠT", "vi": "nhìn thấu" }
+        ],
+        "grammar": {
+          "pattern": "～ば～ほど",
+          "meaning": "càng ~ càng ~",
+          "form": "Vば＋Vる＋ほど",
+          "example": "考えれば考えるほど、わからなくなる。"
+        },
+        "evidence": "一人で考えれば考えるほど、あなたは成長します。逆に言えば、自分一人で考える時間がなければ、…その考えやアイデアは、あなたのものになりません。",
+        "tip": "Ý chính thường nằm ở câu đầu và được nhắc lại bằng '逆に言えば'."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p2",
+      "stem": "会員は、来年1月から再来年3月までの会費をどのように払えばいいか。",
+      "options": [
+        "今年12月に4000円払い、来年1月に1000円払う。",
+        "来年1月に1000円と4000円を払う。",
+        "来年1月に1000円払い、4月に4000円払う。",
+        "来年4月に1000円と4000円を払う。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hội viên nên đóng hội phí từ tháng 1 năm sau đến tháng 3 năm kia như thế nào? → Tháng 1 năm sau đóng 1.000 yên, tháng 4 đóng 4.000 yên.",
+        "why": "Từ năm sau hội phí đóng vào tháng 4 (cho 4/năm sau – 3/năm kia) = 4.000 yên. Phần tháng 1–3 năm sau = 1.000 yên thu tại buổi giao lưu tháng 1. → Tháng 1: 1.000, tháng 4: 4.000.",
+        "options": [
+          "Tháng 12 năm nay không còn thu 4.000 nữa (chế độ đã đổi). Sai.",
+          "4.000 yên đóng vào tháng 4, không phải tháng 1. Sai.",
+          "Tháng 1 đóng 1.000 yên, tháng 4 đóng 4.000 yên. ĐÚNG.",
+          "1.000 yên thu vào tháng 1, không phải tháng 4. Sai."
+        ],
+        "vocab": [
+          { "w": "会費", "r": "かいひ", "hv": "HỘI PHÍ", "vi": "hội phí" },
+          { "w": "納める", "r": "おさめる", "hv": "NẠP", "vi": "nộp, đóng (tiền)" },
+          { "w": "翌年", "r": "よくねん", "hv": "DỰC NIÊN", "vi": "năm sau đó" },
+          { "w": "事務局", "r": "じむきょく", "hv": "SỰ VỤ CỤC", "vi": "văn phòng, ban thư ký" }
+        ],
+        "grammar": {
+          "pattern": "～に伴い",
+          "meaning": "cùng với ~, do ~ (thay đổi kéo theo)",
+          "form": "N＋に伴い／に伴って",
+          "example": "引っ越しに伴い、住所が変わりました。"
+        },
+        "evidence": "来年より4月に会費（4月から翌年3月の1年分）を納めていただくことになりました。今回の変更に伴い、来年1月から3月までの分の1,000円は、1月の交流会で集めます。",
+        "tip": "Bài toán thời gian: vẽ trục tháng 1–3 (1.000 yên) và 4–3 năm sau (4.000 yên)."
+      }
+    },
+    {
+      "num": 55,
+      "passage": "p3",
+      "stem": "筆者によると、コンピュータがヒトと違う点は何か。",
+      "options": [
+        "ヒトの単純なミスを予測できること",
+        "ヒトの二倍の量の仕事ができること",
+        "常に質の高い仕事ができること",
+        "常に同じ作業ができること"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, điểm khác giữa máy tính và con người là gì? → Luôn có thể làm cùng một công việc như nhau.",
+        "why": "Con người khi làm việc lặp đi lặp lại thì sinh ra 'định kiến/nhầm lẫn'; máy tính giỏi ở 'phán đoán luôn nhất quán' → luôn làm cùng một thao tác như nhau.",
+        "options": [
+          "Máy tính 'chỉ ra' (指摘) lỗi đơn giản của người, không phải 'dự đoán'. Sai.",
+          "'Gấp đôi' là ví dụ về hai thứ giống nhau, không phải điểm khác của máy tính. Sai.",
+          "Bài không nói máy tính luôn làm việc chất lượng cao. Sai.",
+          "Luôn làm cùng một thao tác, phán đoán nhất quán. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "補完", "r": "ほかん", "hv": "BỔ HOÀN", "vi": "bổ sung, bù đắp" },
+          { "w": "思い込み", "r": "おもいこみ", "hv": "TƯ NHẬP", "vi": "định kiến, tưởng nhầm" },
+          { "w": "一定", "r": "いってい", "hv": "NHẤT ĐỊNH", "vi": "cố định, nhất quán" },
+          { "w": "指摘", "r": "してき", "hv": "CHỈ TRÍCH", "vi": "chỉ ra" }
+        ],
+        "grammar": {
+          "pattern": "～からこそ",
+          "meaning": "chính vì ~ nên",
+          "form": "[thể thường]＋からこそ",
+          "example": "違っているからこそ、補完し合える。"
+        },
+        "evidence": "人間だと繰り返しの作業の中でどうしても思い込みが起こる。コンピュータが得意なのは常に一定の判断である。",
+        "tip": "Bẫy: 予測 (dự đoán) ≠ 指摘 (chỉ ra). Đọc kỹ động từ trong đáp án."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p4",
+      "stem": "このお知らせで最も伝えたいことは何か。",
+      "options": [
+        "「BS-ZG1」の電源ボタンに不具合が起きていないかどうか、確認してほしい。",
+        "すべての「BS-ZG1」を無料で修理するので、販売店に持ってきてほしい。",
+        "対象の製造番号の「BS-ZG1」を無料で修理するので、販売店に持ってきてほしい。",
+        "不具合が起きた「BS-ZG1」の製造番号をホームページに載せたので、確認してほしい。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều thông báo này muốn truyền đạt nhất là gì? → Sẽ sửa miễn phí máy BS-ZG1 thuộc dải số sản xuất đối tượng, nên mong khách mang tới cửa hàng.",
+        "why": "Lỗi chỉ xảy ra ở số sản xuất ZH29200–ZH29800; khách có sản phẩm đối tượng (kể cả chưa bị lỗi) sẽ được sửa miễn phí → mời mang tới cửa hàng bán lẻ.",
+        "options": [
+          "Không yêu cầu kiểm tra có bị lỗi hay không; kể cả chưa lỗi cũng được sửa. Sai.",
+          "Không phải tất cả, chỉ máy thuộc dải số sản xuất đối tượng. Sai.",
+          "Máy thuộc số sản xuất đối tượng được sửa miễn phí → mang đến cửa hàng. ĐÚNG.",
+          "Trang web chỉ đăng cách kiểm tra số sản xuất (thông tin phụ, なお). Sai."
+        ],
+        "vocab": [
+          { "w": "不具合", "r": "ふぐあい", "hv": "BẤT CỤ HỢP", "vi": "lỗi, trục trặc" },
+          { "w": "製造番号", "r": "せいぞうばんごう", "hv": "CHẾ TẠO PHIÊN HIỆU", "vi": "số sản xuất (serial)" },
+          { "w": "弊社", "r": "へいしゃ", "hv": "TỆ XÃ", "vi": "công ty chúng tôi (khiêm nhường)" },
+          { "w": "販売店", "r": "はんばいてん", "hv": "PHIẾN MẠI ĐIẾM", "vi": "cửa hàng bán lẻ" }
+        ],
+        "grammar": {
+          "pattern": "～させていただきます",
+          "meaning": "(chúng tôi) xin phép được làm ~ (khiêm nhường)",
+          "form": "Vさせて＋いただきます",
+          "example": "本日は休業させていただきます。"
+        },
+        "evidence": "この不具合は製造番号ZH29200～ZH29800の製品にのみ起きることが分かりました。対象の製品をお持ちのお客様は、現在不具合が起きていなくても無料で修理させていただきますので、お手数ですがお近くの販売店までお持ちくださいますようお願い申し上げます。",
+        "tip": "Thông báo: nội dung chính thường là phần 'お願い'. Câu bắt đầu bằng なお là thông tin phụ."
+      }
+    },
+    {
+      "num": 57,
+      "passage": "p5",
+      "stem": "<u>あまり賛成できません</u>とあるが、なぜか。",
+      "options": [
+        "詩は、読者自身が意味を考えることに意義があるから",
+        "詩の解釈は、正しいかどうかを考えても意味がないから",
+        "作者が自身の詩を他人よりわかっているとは限らないから",
+        "作者の意図や創作過程を知ることは、あまり重要ではないから"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tác giả viết 'tôi không mấy tán thành', vì sao? → Vì không hẳn tác giả hiểu bài thơ của mình hơn người khác.",
+        "why": "Tác giả thơ thường không phải người đọc tốt bài thơ của mình vì ý đồ và quá trình sáng tác cản trở cái nhìn khách quan; có những mặt người khác thấy ngay mà bản thân không thấy → không thể cho rằng lời tác giả là đúng.",
+        "options": [
+          "Bài không nói ý nghĩa nằm ở việc người đọc tự suy nghĩ. Sai.",
+          "Bài không phủ nhận việc đánh giá đúng/sai của cách hiểu. Sai.",
+          "Tác giả không hẳn hiểu bài thơ của mình hơn người khác. ĐÚNG.",
+          "Bài không nói biết ý đồ sáng tác là không quan trọng; chỉ nói nó cản trở cái nhìn khách quan của chính tác giả. Sai."
+        ],
+        "vocab": [
+          { "w": "客観的", "r": "きゃっかんてき", "hv": "KHÁCH QUAN ĐÍCH", "vi": "khách quan" },
+          { "w": "妨げる", "r": "さまたげる", "hv": "PHƯƠNG", "vi": "cản trở" },
+          { "w": "創作過程", "r": "そうさくかてい", "hv": "SÁNG TÁC QUÁ TRÌNH", "vi": "quá trình sáng tác" },
+          { "w": "いっこうに", "r": "いっこうに", "hv": "", "vi": "hoàn toàn (không)" }
+        ],
+        "grammar": {
+          "pattern": "～とは限らない",
+          "meaning": "không hẳn là ~, chưa chắc ~",
+          "form": "[thể thường]＋とは限らない",
+          "example": "高い物がいい物だとは限らない。"
+        },
+        "evidence": "作者というものは、たいていの場合、自分の詩のいい読者ではありえません。…他人にはすぐわかるのに、本人にはいっこうにわからないような一面が人間にはあります。作者と詩の場合もこれと同じです。",
+        "tip": "Lý do thường đứng trước だから: tìm câu ngay trước 'だから、…賛成できません'."
+      }
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "exam": "2015-07",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、（50）から（54）の中に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án đúng nhất để điền vào các chỗ trống (50) đến (54).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "のぼり",
+      "text": "以下は、留学生が書いた文章である。\n\n「のぼり」\nシルバ ジョゼ\n\nそれを見たのは、日本に着いた日、空港からホテルへバスで向かっているときだった。高さは（50）。青い布に白い字で「夏祭り」と書かれた大きな長方形の旗が道路沿いに一定間隔で何本も立っていたのだ。初めて見る、面白い光景だった。\nこのとき、「この旗は何だ？」と思った。しかし、街を歩くと、あちこちに似たような旗があり、それらを見ているうちに、「これは広告だ。」と気づいた。旗にはそれぞれ、「お弁当」、「食べ放題」、「本日特売日」といった短い言葉が書かれている。（51）旗も色が派手で高さがあり、1本でもよく目立つ。そのため自然と目が行く。また、何本か同じ旗が並んで立っていると、まるで一つの大きな看板のように見える。さらに、旗はどこにでも簡単に立てられるから、街のあちこちで（52）。私はこの旗に強い関心を持った。\n（53）、この旗は「のぼり」というそうだ。サイズは縦180センチ、横60センチのものが多い。布の上部と片方の端に棒が通してあり、風が吹かなくても見えるようになっている。今の形ののぼりは、600年ぐらい前にはすでにあり、当時は戦いで自分の軍と敵の軍とを見分けるために使われていたらしい。時代は変わり、今はそのような目的で使われることはない。だが、今も、情報を一瞬ではっきりと伝えたいときにのぼりを使うのは（54）。のぼりの特徴をとらえ、広告に応用した発想に感心した。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["２メートルくらいだっただろうか", "２メートルくらいだったものなのか", "２メートルくらいだと言われたそうだ", "２メートルくらいだと思われていたことだ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Chiều cao chắc khoảng 2 mét nhỉ.",
+        "why": "Tác giả đang hồi tưởng điều chính mình nhìn thấy, không nhớ chính xác nên tự hỏi/ước đoán: ～だっただろうか = 'có lẽ là ~ nhỉ'. Đây là cách nói tự nhiên khi nhớ lại kích thước.",
+        "options": [
+          "２メートルくらいだっただろうか → ước đoán khi hồi tưởng. ĐÚNG.",
+          "２メートルくらいだったものなのか → ～ものなのか dùng để hỏi về bản chất/lẽ thường, không hợp. Sai.",
+          "２メートルくらいだと言われたそうだ → 'nghe nói đã được nói là' – tác giả tự nhìn thấy nên không cần truyền đạt lại. Sai.",
+          "２メートルくらいだと思われていたことだ → 'là việc đã được cho là', vô nghĩa trong ngữ cảnh. Sai."
+        ],
+        "vocab": [
+          { "w": "長方形", "r": "ちょうほうけい", "hv": "TRƯỜNG PHƯƠNG HÌNH", "vi": "hình chữ nhật" },
+          { "w": "一定間隔", "r": "いっていかんかく", "hv": "NHẤT ĐỊNH GIAN CÁCH", "vi": "khoảng cách đều nhau" },
+          { "w": "光景", "r": "こうけい", "hv": "QUANG CẢNH", "vi": "quang cảnh, cảnh tượng" }
+        ],
+        "grammar": {
+          "pattern": "～だっただろうか",
+          "meaning": "có lẽ là ~ nhỉ (tự hỏi khi hồi tưởng)",
+          "form": "N／Na＋だった＋だろうか",
+          "example": "あれは確か10年前だっただろうか。"
+        },
+        "evidence": "それを見たのは、日本に着いた日、空港からホテルへバスで向かっているときだった。",
+        "tip": "Người viết kể lại trải nghiệm của bản thân → loại các đáp án truyền đạt (～そうだ, ～と言われた)."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["このように", "あのように", "どの", "そちらの"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Lá cờ nào cũng có màu sặc sỡ và cao, chỉ một cây cũng rất nổi bật.",
+        "why": "どの＋N＋も = 'N nào cũng ~'. Trước đó liệt kê nhiều cờ với các chữ khác nhau (お弁当, 食べ放題...) → 'cờ nào cũng sặc sỡ, nổi bật'.",
+        "options": [
+          "このように → như thế này (tổng kết), không đi trực tiếp với 旗も. Sai.",
+          "あのように → như thế kia, không hợp. Sai.",
+          "どの → どの旗も: cờ nào cũng. ĐÚNG.",
+          "そちらの → của phía đó (lịch sự, chỉ phương hướng), không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "派手", "r": "はで", "hv": "PHÁI THỦ", "vi": "sặc sỡ, lòe loẹt" },
+          { "w": "目立つ", "r": "めだつ", "hv": "MỤC LẬP", "vi": "nổi bật, dễ thấy" },
+          { "w": "看板", "r": "かんばん", "hv": "KHÁN BẢN", "vi": "biển hiệu" }
+        ],
+        "grammar": {
+          "pattern": "どの＋N＋も",
+          "meaning": "N nào cũng ~",
+          "form": "どの＋N＋も",
+          "example": "どの店も休みだった。"
+        },
+        "evidence": "旗にはそれぞれ、「お弁当」、「食べ放題」、「本日特売日」といった短い言葉が書かれている。",
+        "tip": "Thấy trợ từ も ngay sau chỗ trống + danh từ → nghĩ đến どの～も / 何～も."
+      }
+    },
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "（52）に入るもの",
+      "options": ["使われている", "使っていく", "使おう", "使わせる"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hơn nữa, vì cờ có thể dựng ở bất cứ đâu một cách dễ dàng nên chúng được sử dụng khắp nơi trong phố.",
+        "why": "Chủ đề là 'cờ' (旗は) → động từ phải ở thể bị động: 旗が使われている = cờ đang được sử dụng. Đây là mô tả hiện trạng mà tác giả quan sát.",
+        "options": [
+          "使われている → (cờ) đang được sử dụng. ĐÚNG.",
+          "使っていく → sẽ tiếp tục dùng (chủ động, cần chủ thể người). Sai.",
+          "使おう → hãy dùng (ý chí). Sai.",
+          "使わせる → bắt/cho dùng (sai khiến). Sai."
+        ],
+        "vocab": [
+          { "w": "立てる", "r": "たてる", "hv": "LẬP", "vi": "dựng lên" },
+          { "w": "あちこち", "r": "あちこち", "hv": "", "vi": "khắp nơi" },
+          { "w": "関心", "r": "かんしん", "hv": "QUAN TÂM", "vi": "sự quan tâm" }
+        ],
+        "grammar": {
+          "pattern": "受身＋ている",
+          "meaning": "đang được ~ (mô tả hiện trạng)",
+          "form": "V受身形て＋いる",
+          "example": "この言葉は若者の間でよく使われている。"
+        },
+        "evidence": "さらに、旗はどこにでも簡単に立てられるから、街のあちこちで（52）。",
+        "tip": "Chủ ngữ là vật (旗) → ưu tiên thể bị động."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p1",
+      "stem": "（53）に入るもの",
+      "options": ["以上から", "旗といえば", "しかしながら", "調べてみたところ"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Khi thử tìm hiểu thì được biết lá cờ này gọi là 'nobori'.",
+        "why": "Ngay trước đó tác giả nói 'tôi rất quan tâm đến lá cờ này'; sau đó là thông tin tra cứu được (tên gọi, kích thước, lịch sử) với ～そうだ (nghe nói). Vたところ = 'khi làm ~ thì (biết được)' → 調べてみたところ hợp logic.",
+        "options": [
+          "以上から → từ những điều trên (kết luận), không hợp vì phía sau là thông tin mới. Sai.",
+          "旗といえば → nói đến cờ thì (liên tưởng chung), không hợp. Sai.",
+          "しかしながら → tuy nhiên (đối lập), không có quan hệ đối lập. Sai.",
+          "調べてみたところ → khi thử tìm hiểu thì. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "調べる", "r": "しらべる", "hv": "ĐIỀU", "vi": "tìm hiểu, tra cứu" },
+          { "w": "棒", "r": "ぼう", "hv": "BỔNG", "vi": "cây gậy, thanh" },
+          { "w": "敵", "r": "てき", "hv": "ĐỊCH", "vi": "kẻ địch" },
+          { "w": "見分ける", "r": "みわける", "hv": "KIẾN PHÂN", "vi": "phân biệt" }
+        ],
+        "grammar": {
+          "pattern": "Vたところ",
+          "meaning": "khi (thử) làm ~ thì (phát hiện, kết quả là)",
+          "form": "Vた＋ところ",
+          "example": "先生に相談したところ、快く引き受けてくださった。"
+        },
+        "evidence": "私はこの旗に強い関心を持った。（53）、この旗は「のぼり」というそうだ。",
+        "tip": "Câu sau kết thúc bằng ～そうだ (thông tin tiếp nhận) → hợp với hành động tìm hiểu trước đó."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p1",
+      "stem": "（54）に入るもの",
+      "options": ["変わらないこともない", "変わらないようだ", "変えないでおきたい", "変えなければならない"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Thế nhưng, việc dùng nobori khi muốn truyền tải thông tin rõ ràng trong chốc lát thì có vẻ vẫn không thay đổi.",
+        "why": "Mạch văn: ngày xưa nobori dùng để phân biệt quân ta – quân địch (truyền thông tin tức thì); nay mục đích đó không còn, NHƯNG (だが) việc dùng nobori để truyền thông tin nhanh và rõ thì vẫn không đổi. Tác giả là người nước ngoài nhận xét → ～ようだ (có vẻ).",
+        "options": [
+          "変わらないこともない → không phải là không thay đổi (= có thể thay đổi), ngược ý. Sai.",
+          "変わらないようだ → có vẻ không thay đổi. ĐÚNG.",
+          "変えないでおきたい → muốn giữ nguyên không đổi (ý muốn của người viết), không hợp. Sai.",
+          "変えなければならない → phải thay đổi, ngược ý. Sai."
+        ],
+        "vocab": [
+          { "w": "一瞬", "r": "いっしゅん", "hv": "NHẤT THUẤN", "vi": "trong chớp mắt" },
+          { "w": "応用", "r": "おうよう", "hv": "ỨNG DỤNG", "vi": "ứng dụng" },
+          { "w": "感心", "r": "かんしん", "hv": "CẢM TÂM", "vi": "thán phục" }
+        ],
+        "grammar": {
+          "pattern": "～ようだ",
+          "meaning": "có vẻ như ~ (phán đoán dựa trên quan sát)",
+          "form": "V普通形＋ようだ",
+          "example": "外は雨が降っているようだ。"
+        },
+        "evidence": "時代は変わり、今はそのような目的で使われることはない。だが、今も、情報を一瞬ではっきりと伝えたいときにのぼりを使うのは（54）。",
+        "tip": "だが、今も～ → nhấn mạnh điều không đổi qua thời gian."
+      }
+    }
+  ]
+}

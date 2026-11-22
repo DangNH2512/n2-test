@@ -1,0 +1,131 @@
+{
+  "exam": "2022-12",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、48 から 51 の中に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án thích hợp nhất điền vào các chỗ trống 48 – 51.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "　現代人は座りすぎだとよく言われます。皆がずっと席に座ってパソコンで作業をしているという職場も珍しくないのではないでしょうか。座りすぎが様々な体の不調の原因になるという研究報告も（48）。座りすぎは、日本人の4人に1人が抱えているという腰の痛みの原因にもなると考えられています。\n　座っている姿勢は体にあまり負担がかかっていないと思うかもしれません。（49）、座り方によっては、実は立っているときの2倍もの負担が腰にかかるのだそうです。座っている時間が長くなるほど、腰への負担も大きくなり、それが腰痛につながります。かといって、ずっと立ったまま仕事をするというのも現実的ではありません。長時間立っていると、足に疲れがたまってしまうという問題もあります。大切なのは、（50）姿勢を長く続けないことです。理想は30分に1回、少なくとも1時間に1回立って、少し動くのがいいとされています。\n　実際に、仕事中に時々立って動くようにしてみた人の多くが、腰痛の改善や疲れを感じにくいといった効果を感じているようです。座りっぱなしを避け、時々立って体を動かすことは、気軽にできる腰痛対策であり、仕事中の集中力維持にもつながります。職場で座っている時間が長い人は、（51）。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 48,
+      "passage": "p1",
+      "stem": "（48）に入るもの",
+      "options": ["増えそうでした", "増えてきました", "増えていきました", "増えたところでした"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Các báo cáo nghiên cứu cho rằng ngồi quá nhiều là nguyên nhân gây ra nhiều vấn đề sức khỏe cũng ngày càng tăng lên (cho đến nay).",
+        "why": "Vてくる = sự thay đổi diễn ra từ quá khứ đến hiện tại. Bài viết nói về tình hình hiện nay (現代人は…) nên 増えてきました (đã tăng dần đến bây giờ) là tự nhiên nhất.",
+        "options": [
+          "増えそうでした → (khi đó) có vẻ sắp tăng; thì quá khứ, không hợp với bối cảnh hiện tại. Sai.",
+          "増えてきました → đã tăng dần đến nay. ĐÚNG.",
+          "増えていきました → tăng dần từ một thời điểm quá khứ trở về sau (hướng ra xa người nói). Sai.",
+          "増えたところでした → (lúc đó) vừa mới tăng; không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "研究報告", "r": "けんきゅうほうこく", "hv": "NGHIÊN CỨU BÁO CÁO", "vi": "báo cáo nghiên cứu" },
+          { "w": "不調", "r": "ふちょう", "hv": "BẤT ĐIỀU", "vi": "trục trặc, không khỏe" },
+          { "w": "腰", "r": "こし", "hv": "YÊU", "vi": "thắt lưng, hông" }
+        ],
+        "grammar": {
+          "pattern": "Vてくる",
+          "meaning": "dần dần ~ (thay đổi từ quá khứ đến hiện tại)",
+          "form": "Vて＋くる",
+          "example": "最近、外国人観光客が増えてきた。"
+        },
+        "evidence": "座りすぎが様々な体の不調の原因になるという研究報告も（48）。",
+        "tip": "てくる: quá khứ → hiện tại; ていく: hiện tại → tương lai."
+      }
+    },
+    {
+      "num": 49,
+      "passage": "p1",
+      "stem": "（49）に入るもの",
+      "options": ["つまり", "しかも", "ところが", "というのは"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Có thể bạn nghĩ tư thế ngồi không gây nhiều gánh nặng cho cơ thể. Thế nhưng, tùy cách ngồi, thực ra lưng còn phải chịu gánh nặng gấp đôi khi đứng.",
+        "why": "Câu trước: (bạn) nghĩ ngồi ít gánh nặng. Câu sau: thực ra (実は) gánh nặng gấp đôi → hai ý trái ngược, kết quả trái với suy nghĩ → ところが.",
+        "options": [
+          "つまり → tức là (tóm tắt, diễn đạt lại). Sai.",
+          "しかも → hơn nữa (bổ sung cùng chiều). Sai.",
+          "ところが → thế nhưng (trái với dự đoán). ĐÚNG.",
+          "というのは → bởi vì (giải thích lý do). Sai."
+        ],
+        "vocab": [
+          { "w": "姿勢", "r": "しせい", "hv": "TƯ THẾ", "vi": "tư thế" },
+          { "w": "負担", "r": "ふたん", "hv": "PHỤ ĐẢM", "vi": "gánh nặng" },
+          { "w": "実は", "r": "じつは", "hv": "THỰC", "vi": "thực ra" }
+        ],
+        "grammar": {
+          "pattern": "ところが",
+          "meaning": "thế nhưng, vậy mà (kết quả trái với mong đợi/suy nghĩ)",
+          "form": "Câu A。ところが、câu B（trái với A）",
+          "example": "簡単だと思った。ところが、やってみると難しかった。"
+        },
+        "evidence": "座っている姿勢は体にあまり負担がかかっていないと思うかもしれません。（49）、座り方によっては、実は立っているときの2倍もの負担が腰にかかるのだそうです。",
+        "tip": "～と思うかもしれない。＋ 実は → dấu hiệu đảo chiều: ところが／しかし."
+      }
+    },
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["同じ", "違う", "この", "以下の"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều quan trọng là không duy trì cùng một tư thế trong thời gian dài.",
+        "why": "Đoạn văn nói ngồi lâu cũng hại, đứng lâu cũng hại → vấn đề là giữ MỘT tư thế quá lâu. Do đó 同じ姿勢を長く続けない (không giữ nguyên một tư thế lâu).",
+        "options": [
+          "同じ → cùng một (tư thế). ĐÚNG.",
+          "違う → khác; 'không giữ tư thế khác lâu' vô nghĩa. Sai.",
+          "この → tư thế này (chỉ riêng ngồi/đứng), không bao quát cả hai. Sai.",
+          "以下の → như sau; phía sau không liệt kê tư thế nào. Sai."
+        ],
+        "vocab": [
+          { "w": "続ける", "r": "つづける", "hv": "TỤC", "vi": "tiếp tục, duy trì" },
+          { "w": "現実的", "r": "げんじつてき", "hv": "HIỆN THỰC ĐÍCH", "vi": "thực tế" },
+          { "w": "理想", "r": "りそう", "hv": "LÝ TƯỞNG", "vi": "lý tưởng" }
+        ],
+        "grammar": null,
+        "evidence": "かといって、ずっと立ったまま仕事をするというのも現実的ではありません。…大切なのは、（50）姿勢を長く続けないことです。",
+        "tip": "Ngồi lâu hại + đứng lâu cũng hại → kết luận: đừng giữ 'cùng một' tư thế."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["試してもいいですか", "試したらいいのでしょうか", "試してみればよかったですか", "試してみてはいかがでしょうか"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Những ai ngồi nhiều ở nơi làm việc, sao không thử áp dụng xem?",
+        "why": "Câu kết bài là lời đề xuất của người viết tới người đọc → Vてみてはいかがでしょうか (thử ~ xem sao?) là cách khuyên lịch sự.",
+        "options": [
+          "試してもいいですか → tôi thử có được không (xin phép). Sai.",
+          "試したらいいのでしょうか → nên thử thì được nhỉ? (người viết tự hỏi, băn khoăn). Sai.",
+          "試してみればよかったですか → lẽ ra nên thử à? (hối tiếc quá khứ). Sai.",
+          "試してみてはいかがでしょうか → thử xem thì sao ạ (đề xuất). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "試す", "r": "ためす", "hv": "THÍ", "vi": "thử" },
+          { "w": "対策", "r": "たいさく", "hv": "ĐỐI SÁCH", "vi": "biện pháp đối phó" },
+          { "w": "維持", "r": "いじ", "hv": "DUY TRÌ", "vi": "duy trì" }
+        ],
+        "grammar": {
+          "pattern": "Vてはいかがでしょうか",
+          "meaning": "~ thì thế nào ạ? (đề nghị, khuyên lịch sự)",
+          "form": "Vて＋は＋いかがでしょうか",
+          "example": "一度、専門家に相談してみてはいかがでしょうか。"
+        },
+        "evidence": "職場で座っている時間が長い人は、（51）。",
+        "tip": "Câu cuối bài văn thuyết phục thường là lời khuyên: ～てはいかがでしょうか／～てみませんか."
+      }
+    }
+  ]
+}

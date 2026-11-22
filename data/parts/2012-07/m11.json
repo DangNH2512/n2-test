@@ -1,0 +1,282 @@
+{
+  "exam": "2012-07",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（１）から（３）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn từ (1) đến (3) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "僕は学校が好きだった。毎日わくわくしながら学校に通ったものだ。学校にはいやな奴も大勢いたが、好きな友達がそれ以上たくさんいたからである。向こうは僕のことをどう思っていたのかは分からないが、構わなかった。僕はかってに彼らのことを友達だと思っていたのである。\n友達を作る、とよく言う。あの頃先生や親は僕によく「いい友達をいっぱい作りなさい。」と言っていた。僕は彼らがそう言うたびに①「<u>それは違う。</u>」と心の中で反発(注1)したものだった。友達は作るものじゃない、と今でも思っている。友達を作るなんて第一友達に対して失礼だと思った。第二に作った友達は偽物のような気がしたのだ。\n僕は友達は作るものではなく、自然に出来るものなのだと思う。僕にも友達が出来なくて辛い時期があったけれど、僕は決して友達を作ろうとはしなかった。つまり無理して誰かに合わせたりしてつきあうことはなかったのだ。僕はいつも自然にしていた。大人になってから、ああ、あの頃あいつは僕の友達だったのだな、と思い知らされた(注2)奴もいた。その頃は喧嘩ばっかりしていたからである。後になってそうやって分かる友達もまたいいものだ。\n（中略）\n大人になった今、僕は学校を失ってしまった。毎日楽しみにしていた学校はもうない。社会にでてから今日まで、僕は孤独に仕事をしてきた。それでも一生懸命仕事がやれたのは、ふりかえると僕には素晴らしい仲間たちが大勢いたからなのだ。②<u>彼ら</u>と過ごした自然な日々は、僕の人生において大いなる大地となっている。そして僕はそこからすくすくと伸びる一本の木なのだ。僕の根っこは彼らと繋がり、僕は空を目指している。\n（辻仁成『そこに僕はいた』による）\n(注1) 反発する：反抗して、受け付けない\n(注2) 思い知らされる：強く思わされる"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "人間の顔には、いろいろな特徴があります。毛がないというのがその一つ、そしてもう一つの特徴は、顔が非常に柔らかいということです。特に口が柔らかいというのが人間の顔の特徴です。もともと口の役割は、食べ物を食べるということでした。しかも口でその食べ物をつかむことが必要ですから、顔の中でも口が一番前にないと食べられません。したがって、ほとんどの哺乳類(注1)では口が前にとび出しています。\n口にはもう一つの役割があります。相手を攻撃する道具としての口です。相手に噛みついて攻撃する。そのためにはやはり口は一番前にとび出ていて、しかも固くなければいけません。一番前にとび出ていて固い、それが普通の動物の口の特徴なのです。\nところが、人間では、直立歩行をするようになって、口の役割が変わりました。なぜなら、食べ物をつかむということは、直接口を使うのではなくて、手でできるようになったからです。食べ物を手でつかんで口のところまでもってくることによって、口は必ずしも（　　）。人間の口が進化(注2)の過程でだんだん引っ込んできたのはそのためです。\nさらに、直立歩行で手が自由になったために、相手への攻撃も手を使ってできるようになりました。その結果、攻撃の道具としての口の役割もだんだん失われてきました。必ずしも固い必要はない。柔らかくてもいい。こうして、口の周りがどんどん柔らかくなっていったのです。\n（原島博『顔学への招待』による）\n(注1) 哺乳類：子を乳で育てる動物\n(注2) 進化：生物が発達によって長い間に変化すること"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "アサヒビールは子供の誕生日や運動会などのために休暇を取れる「子育て休暇」を導入した。中学校入学前の子供を持つ社員が対象で、子供が一人の場合は年5日、二人以上の場合は年10日まで休める。育児・介護休業法では、未就学児(注1)の病気・けがの看護を目的とする休暇の取得を認めている。アサヒは要件(注2)を育児全体に広げ、社員の子育てを後押しする。\n新制度は9月1日付で新設した。子供が3歳未満なら有給、3歳以上なら無給で休暇を取れる。理由は子供の誕生日や入学式のほか、PTA(注3)への参加など「育児全般に関する幅広い事由」とする。これまでは看護で休む際にも診断書や薬袋のコピーなどを証拠として提出する必要があったが、新制度は申請するだけで利用できる。\n新制度で育児中の女性社員の負担を軽減すると同時に、男性社員の育児参加を促す。育児・介護休業法に基づく休暇は育児をする女性のほとんどが取得しているものの、男性の取得率は3%にとどまっている。同社には最大2年間を無給で休める育児休業制度もあるが、利用できる制度の選択肢を増やす必要があると判断した。\n（「子育て休暇」2007年9月5日付日本経済新聞による）\n(注1) 未就学児：小学校に入る前の子供\n(注2) 要件：必要な条件\n(注3) PTA：学校の先生と父母の会"
+    }
+  ],
+  "questions": [
+    {
+      "num": 60,
+      "passage": "p1",
+      "stem": "①「<u>それは違う</u>」とあるがどういうことか。",
+      "options": [
+        "本当の友達は、決して意図的に作るものではない。",
+        "新しく友達を作らなくても、すでに友達は十分にいる。",
+        "いい友達を作ることは、それほど簡単なことではない。",
+        "互いに友達だと思えなければ、本当の友達とは言えない。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "「Điều đó sai」 nghĩa là gì? → Bạn thật sự không bao giờ là thứ cố tình 'tạo ra'.",
+        "why": "Ngay sau ①, tác giả viết: 'Bạn bè không phải thứ để tạo ra', 'bạn bè là thứ tự nhiên mà có'. Tức là phản đối việc cố ý 'làm bạn' (作る).",
+        "options": [
+          "Bạn bè không phải thứ cố tình tạo ra. ĐÚNG.",
+          "Tác giả không nói lý do là 'đã đủ bạn'. Sai.",
+          "Không bàn về độ khó của việc kết bạn. Sai.",
+          "Tác giả còn nói 'không biết họ nghĩ gì về mình cũng không sao' → trái ý. Sai."
+        ],
+        "vocab": [
+          { "w": "反発", "r": "はんぱつ", "hv": "PHẢN PHÁT", "vi": "phản kháng, phản đối" },
+          { "w": "偽物", "r": "にせもの", "hv": "NGỤY VẬT", "vi": "đồ giả" },
+          { "w": "意図的", "r": "いとてき", "hv": "Ý ĐỒ ĐÍCH", "vi": "có chủ ý, cố tình" }
+        ],
+        "grammar": null,
+        "evidence": "友達は作るものじゃない、と今でも思っている。／僕は友達は作るものではなく、自然に出来るものなのだと思う。",
+        "tip": null
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p1",
+      "stem": "②<u>彼ら</u>とは誰のことか。",
+      "options": ["学校にいた頃に出会った友達", "学校や仕事で繋がっている友達", "一緒に仕事をしてきた人たち", "人生で出会ったすべての人たち"],
+      "answer": 1,
+      "explanation": {
+        "translation": "「Họ」 là ai? → Những người bạn đã gặp hồi còn đi học.",
+        "why": "Tác giả nói từ khi ra xã hội đã làm việc 'một mình' (孤独に); điều giúp anh cố gắng là những người bạn (仲間たち) mà anh nhìn lại – chính là bạn thời đi học, những ngày tháng 'tự nhiên' ở trường như đoạn đầu kể.",
+        "options": [
+          "Bạn thời đi học. ĐÚNG.",
+          "Tác giả làm việc một mình, không có bạn qua công việc. Sai.",
+          "Như trên – 孤独に仕事をしてきた. Sai.",
+          "Quá rộng, bài chỉ nói về bạn bè. Sai."
+        ],
+        "vocab": [
+          { "w": "孤独", "r": "こどく", "hv": "CÔ ĐỘC", "vi": "cô độc, một mình" },
+          { "w": "仲間", "r": "なかま", "hv": "TRỌNG GIAN", "vi": "bạn bè, đồng đội" },
+          { "w": "振り返る", "r": "ふりかえる", "hv": "CHẤN PHẢN", "vi": "nhìn lại" }
+        ],
+        "grammar": null,
+        "evidence": "社会にでてから今日まで、僕は孤独に仕事をしてきた。それでも一生懸命仕事がやれたのは、ふりかえると僕には素晴らしい仲間たちが大勢いたからなのだ。",
+        "tip": "'孤独に仕事をしてきた' loại ngay các đáp án liên quan đến công việc (2, 3)."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p1",
+      "stem": "大人になった筆者にとって、友達とはどのような存在か。",
+      "options": ["そばにいて見守ってくれている。", "今でも心の支えになってくれている。", "孤独になったときこそ思い出される。", "今も一緒にいて多くの経験を共にしている。"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Đối với tác giả khi đã trưởng thành, bạn bè là sự tồn tại như thế nào? → Đến giờ vẫn là chỗ dựa tinh thần.",
+        "why": "Tác giả ví những ngày bên bạn là 'mặt đất lớn' của đời mình, bản thân là cái cây vươn lên từ đó, rễ nối với họ → bạn bè là nền tảng, chỗ dựa tinh thần đến tận bây giờ.",
+        "options": [
+          "Bạn không ở bên cạnh (tác giả làm việc một mình). Sai.",
+          "Vẫn là chỗ dựa tinh thần. ĐÚNG.",
+          "Bài không nói chỉ nhớ đến khi cô đơn. Sai.",
+          "Hiện nay không còn ở cùng nhau. Sai."
+        ],
+        "vocab": [
+          { "w": "支え", "r": "ささえ", "hv": "CHI", "vi": "chỗ dựa" },
+          { "w": "大地", "r": "だいち", "hv": "ĐẠI ĐỊA", "vi": "mặt đất" },
+          { "w": "繋がる", "r": "つながる", "hv": "HỆ", "vi": "kết nối" }
+        ],
+        "grammar": null,
+        "evidence": "彼らと過ごした自然な日々は、僕の人生において大いなる大地となっている。…僕の根っこは彼らと繋がり、僕は空を目指している。",
+        "tip": "Hình ảnh ẩn dụ 大地・根っこ = nền tảng, chỗ dựa."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p2",
+      "stem": "人間以外の哺乳類の口について述べているのはどれか。",
+      "options": [
+        "口は顔の中で一番固いが、人間と同じように進化して引っ込んできた。",
+        "相手を噛んだり食べ物をつかんだりするため、口は固く前にでている。",
+        "食べ物を他の動物より早く口に入れるため、口が一番前に出ている。",
+        "進化の過程で口が必ずしも相手を攻撃する道具ではなくなってきた。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều nào nói về miệng của động vật có vú ngoài con người? → Để cắn đối thủ và gắp thức ăn, miệng cứng và nhô ra phía trước.",
+        "why": "Bài: miệng có 2 vai trò – ngoạm thức ăn và tấn công (cắn); vì vậy miệng động vật thường 'nhô ra trước nhất và cứng'.",
+        "options": [
+          "Miệng thụt vào là đặc điểm của con người. Sai.",
+          "Cứng, nhô ra để cắn và gắp thức ăn. ĐÚNG.",
+          "Bài không nói 'nhanh hơn động vật khác'. Sai.",
+          "Đây là chuyện của con người. Sai."
+        ],
+        "vocab": [
+          { "w": "哺乳類", "r": "ほにゅうるい", "hv": "BỘ NHŨ LOẠI", "vi": "động vật có vú" },
+          { "w": "攻撃", "r": "こうげき", "hv": "CÔNG KÍCH", "vi": "tấn công" },
+          { "w": "噛みつく", "r": "かみつく", "hv": "GIẢO", "vi": "cắn" }
+        ],
+        "grammar": null,
+        "evidence": "一番前にとび出ていて固い、それが普通の動物の口の特徴なのです。",
+        "tip": null
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p2",
+      "stem": "（　　）に入る文として適当なものはどれか。",
+      "options": ["一番前にとび出ていなくてもよくなりました", "固くて引っ込んでいなくてもよくなりました", "相手を攻撃するためのものではなくなりました", "食べるためだけに使うものではなくなりました"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nhờ dùng tay cầm thức ăn đưa tới miệng, miệng không nhất thiết phải nhô ra phía trước nhất nữa.",
+        "why": "Đoạn này nói về vai trò 'gắp thức ăn' được thay bằng tay. Câu sau: 'miệng người dần thụt vào là vì lý do đó' → chỗ trống phải là 'không cần nhô ra trước nữa'. 必ずしも～なくてもよい.",
+        "options": [
+          "Không cần nhô ra trước nhất nữa. ĐÚNG.",
+          "'cứng và không thụt vào' – nghĩa ngược, không hợp. Sai.",
+          "Chuyện tấn công được bàn ở đoạn sau. Sai.",
+          "Không liên quan đến 'thụt vào'. Sai."
+        ],
+        "vocab": [
+          { "w": "直立歩行", "r": "ちょくりつほこう", "hv": "TRỰC LẬP BỘ HÀNH", "vi": "đi thẳng bằng hai chân" },
+          { "w": "引っ込む", "r": "ひっこむ", "hv": "DẪN", "vi": "thụt vào" },
+          { "w": "進化", "r": "しんか", "hv": "TIẾN HÓA", "vi": "tiến hóa" }
+        ],
+        "grammar": {
+          "pattern": "必ずしも～なくてもよい",
+          "meaning": "không nhất thiết phải ~",
+          "form": "必ずしも + Vなくても／Aくなくても + よい",
+          "example": "毎日必ずしも運動しなくてもよい。"
+        },
+        "evidence": "食べ物を手でつかんで口のところまでもってくることによって、口は必ずしも（　　）。人間の口が進化の過程でだんだん引っ込んできたのはそのためです。",
+        "tip": "Câu ngay sau chỗ trống (引っ込んできた) là chìa khóa."
+      }
+    },
+    {
+      "num": 65,
+      "passage": "p2",
+      "stem": "人間の口が変化した理由について、正しく説明しているものはどれか。",
+      "options": [
+        "人間の口の周りは動物と比べて柔らかく、攻撃の道具にならなかったから",
+        "直立歩行で手や足を使って相手を攻撃することができるようになったから",
+        "哺乳類は手を使って食べるようになり、口でつかむ必要がなくなったから",
+        "食べ物をつかんだり相手を攻撃したりするとき手を使うようになったから"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Điều nào giải thích đúng lý do miệng người thay đổi? → Vì con người đã dùng tay khi cầm thức ăn và khi tấn công đối thủ.",
+        "why": "Đi thẳng → tay rảnh → (1) cầm thức ăn bằng tay → miệng thụt vào; (2) tấn công bằng tay → miệng không cần cứng, trở nên mềm. Cả hai vai trò chuyển sang tay.",
+        "options": [
+          "Đảo ngược nhân quả: miệng mềm là KẾT QUẢ, không phải nguyên nhân. Sai.",
+          "Bài chỉ nói 'tay', không nói 'chân'. Sai.",
+          "Chủ thể là con người, không phải mọi động vật có vú. Sai.",
+          "Dùng tay để cầm thức ăn và tấn công. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "役割", "r": "やくわり", "hv": "DỊCH CÁT", "vi": "vai trò" },
+          { "w": "失う", "r": "うしなう", "hv": "THẤT", "vi": "mất" },
+          { "w": "柔らかい", "r": "やわらかい", "hv": "NHU", "vi": "mềm" }
+        ],
+        "grammar": null,
+        "evidence": "食べ物をつかむということは、直接口を使うのではなくて、手でできるようになったからです。／直立歩行で手が自由になったために、相手への攻撃も手を使ってできるようになりました。",
+        "tip": null
+      }
+    },
+    {
+      "num": 66,
+      "passage": "p3",
+      "stem": "「子育て休暇」の目的は何か。",
+      "options": [
+        "社員の子育てを支援することで、日本の人口減をくい止めること",
+        "子供が未就学児のうちから親が教育に関心を持つようにすること",
+        "無給でも育児休暇を取る社員を増やし、生産の能率を上げること",
+        "条件をゆるくし、社員がもっと子育てしやすいように助けること"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Mục đích của 'kỳ nghỉ nuôi con' là gì? → Nới lỏng điều kiện để giúp nhân viên nuôi con dễ dàng hơn.",
+        "why": "Asahi mở rộng điều kiện (要件) từ chỉ chăm con ốm ra toàn bộ việc nuôi con, bỏ yêu cầu giấy tờ chứng minh, nhằm hỗ trợ (後押し) việc nuôi con của nhân viên.",
+        "options": [
+          "Bài không nhắc đến giảm dân số. Sai.",
+          "Không nói về sự quan tâm giáo dục. Sai.",
+          "Không nói về năng suất sản xuất. Sai.",
+          "Nới điều kiện, hỗ trợ nuôi con. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "子育て", "r": "こそだて", "hv": "TỬ DỤC", "vi": "nuôi con" },
+          { "w": "要件", "r": "ようけん", "hv": "YẾU KIỆN", "vi": "điều kiện cần thiết" },
+          { "w": "後押し", "r": "あとおし", "hv": "HẬU ÁP", "vi": "hỗ trợ, thúc đẩy" },
+          { "w": "導入", "r": "どうにゅう", "hv": "ĐẠO NHẬP", "vi": "đưa vào áp dụng" }
+        ],
+        "grammar": null,
+        "evidence": "アサヒは要件を育児全体に広げ、社員の子育てを後押しする。",
+        "tip": null
+      }
+    },
+    {
+      "num": 67,
+      "passage": "p3",
+      "stem": "「子育て休暇」を取るのに必要な条件はどれか。",
+      "options": ["夫婦ともにこの会社に勤めている社員", "中学校入学前の子供がいる男性社員", "小学生の子供が二人以上いる社員", "小学生までの子供がいる社員"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Điều kiện cần để được nghỉ 'kỳ nghỉ nuôi con' là gì? → Nhân viên có con từ bậc tiểu học trở xuống.",
+        "why": "Đối tượng: 'nhân viên có con chưa vào trung học cơ sở' (中学校入学前) = con từ tiểu học trở xuống, không phân biệt nam nữ.",
+        "options": [
+          "Không yêu cầu cả hai vợ chồng làm ở công ty. Sai.",
+          "Không giới hạn nhân viên NAM. Sai.",
+          "Một con cũng được (5 ngày/năm). Sai.",
+          "Con từ tiểu học trở xuống. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "対象", "r": "たいしょう", "hv": "ĐỐI TƯỢNG", "vi": "đối tượng" },
+          { "w": "入学", "r": "にゅうがく", "hv": "NHẬP HỌC", "vi": "nhập học" },
+          { "w": "休暇", "r": "きゅうか", "hv": "HƯU HẠ", "vi": "kỳ nghỉ" }
+        ],
+        "grammar": null,
+        "evidence": "中学校入学前の子供を持つ社員が対象で、子供が一人の場合は年5日、二人以上の場合は年10日まで休める。",
+        "tip": "中学校入学前 = đến hết tiểu học (cả trẻ mầm non)."
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p3",
+      "stem": "この休暇を取るときに、どんな手続きが必要か。",
+      "options": [
+        "休暇の理由を証明する診断書などを添えて申請する。",
+        "学校の行事等の通知文書のコピーを添えて申請する。",
+        "提出する証明書などは不要で、申請すればよい。",
+        "子供の年齢の証明書を添えて、申請すればよい。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Khi nghỉ phép này cần thủ tục gì? → Không cần nộp giấy chứng nhận, chỉ cần đăng ký.",
+        "why": "Trước đây phải nộp giấy chẩn đoán, bản sao túi thuốc làm bằng chứng, nhưng chế độ mới 'chỉ cần đăng ký là dùng được'.",
+        "options": [
+          "Đây là cách làm CŨ. Sai.",
+          "Không cần giấy tờ thông báo của trường. Sai.",
+          "Không cần giấy tờ, chỉ cần đăng ký. ĐÚNG.",
+          "Không nhắc đến giấy chứng nhận tuổi. Sai."
+        ],
+        "vocab": [
+          { "w": "診断書", "r": "しんだんしょ", "hv": "CHẨN ĐOÁN THƯ", "vi": "giấy chẩn đoán" },
+          { "w": "申請", "r": "しんせい", "hv": "THÂN THỈNH", "vi": "đăng ký, nộp đơn" },
+          { "w": "提出", "r": "ていしゅつ", "hv": "ĐỀ XUẤT", "vi": "nộp" }
+        ],
+        "grammar": null,
+        "evidence": "これまでは看護で休む際にも診断書や薬袋のコピーなどを証拠として提出する必要があったが、新制度は申請するだけで利用できる。",
+        "tip": "これまでは～が、新制度は… → đáp án luôn nằm sau が."
+      }
+    }
+  ]
+}

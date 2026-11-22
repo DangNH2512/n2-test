@@ -1,0 +1,161 @@
+{
+  "exam": "2023-07",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các phương án thành câu đúng và chọn phương án nằm ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "隣のクラスの友達とけんかをしてしまい、学校の廊下で＿＿＿ ＿＿＿ ＿★＿ ＿＿＿なくなってしまった。",
+      "options": ["こと", "すら", "目を合わせる", "すれ違っても"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi lỡ cãi nhau với bạn lớp bên cạnh, nên giờ dù có đi lướt qua nhau ở hành lang trường thì đến cả việc nhìn vào mắt nhau cũng không còn nữa.",
+        "why": "Thứ tự đúng: 廊下で［4 すれ違っても］［3 目を合わせる］［1 こと★］［2 すら］なくなってしまった. 〜ことすらない = đến cả việc ~ cũng không. ★ ở vị trí 3 → こと.",
+        "options": [
+          "こと → vị trí 3 (目を合わせること), ★. ĐÚNG.",
+          "すら → vị trí 4, đứng trước なくなって (ことすらなくなる). Không phải ★.",
+          "目を合わせる → vị trí 2, bổ nghĩa cho こと. Không phải ★.",
+          "すれ違っても → vị trí 1, nối sau 廊下で (廊下ですれ違っても). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "すれ違う", "r": "すれちがう", "hv": "VI", "vi": "đi lướt qua nhau" },
+          { "w": "目を合わせる", "r": "めをあわせる", "hv": "MỤC HỢP", "vi": "nhìn vào mắt nhau" },
+          { "w": "廊下", "r": "ろうか", "hv": "LANG HẠ", "vi": "hành lang" }
+        ],
+        "grammar": {
+          "pattern": "〜すら〜ない",
+          "meaning": "ngay cả ~ cũng không",
+          "form": "N／Vること ＋ すら ＋ 否定",
+          "example": "忙しくて、昼ご飯を食べることすらできなかった。"
+        },
+        "evidence": null,
+        "tip": "Đuôi câu なくなって → trước nó phải là すら (ことすらない). Động từ phải danh từ hóa bằng こと trước すら."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "このソファーは、それなりの大きさはあるが、見た目＿＿＿ ＿＿＿ ＿★＿ ＿＿＿楽に動かせる。",
+      "options": ["ほどの", "でも", "重さはないため", "一人"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Chiếc sofa này tuy cũng khá to, nhưng không nặng như vẻ bề ngoài nên dù chỉ một người cũng có thể di chuyển dễ dàng.",
+        "why": "Thứ tự đúng: 見た目［1 ほどの］［3 重さはないため］［4 一人★］［2 でも］楽に動かせる. 見た目ほどの重さはない = không nặng như vẻ ngoài; 一人でも = dù chỉ một người. ★ ở vị trí 3 → 一人.",
+        "options": [
+          "ほどの → vị trí 1 (見た目ほどの). Không phải ★.",
+          "でも → vị trí 4 (一人でも楽に…). Không phải ★.",
+          "重さはないため → vị trí 2, nêu lý do. Không phải ★.",
+          "一人 → vị trí 3, ★. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "見た目", "r": "みため", "hv": "KIẾN MỤC", "vi": "vẻ bề ngoài" },
+          { "w": "それなり", "r": "それなり", "hv": "", "vi": "ở mức tương ứng, khá" },
+          { "w": "重さ", "r": "おもさ", "hv": "TRỌNG", "vi": "trọng lượng" }
+        ],
+        "grammar": {
+          "pattern": "N ＋ ほどの〜はない",
+          "meaning": "không đến mức như N",
+          "form": "N ＋ ほどの ＋ N2 ＋ はない",
+          "example": "心配するほどの問題ではない。"
+        },
+        "evidence": null,
+        "tip": "ほどの phải đứng ngay sau 見た目 và trước danh từ 重さ. 一人でも + 動かせる (khả năng)."
+      }
+    },
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "友達にスキー旅行に誘われている。返事を＿＿＿ ＿＿＿ ＿★＿ ＿＿＿まだ返事ができていない。",
+      "options": ["決まっていなくて", "仕事の予定が", "しなければ", "と思いながらも"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi đang được bạn rủ đi trượt tuyết. Dù nghĩ là phải trả lời, nhưng lịch công việc vẫn chưa quyết định được nên tôi vẫn chưa thể trả lời.",
+        "why": "Thứ tự đúng: 返事を［3 しなければ］［4 と思いながらも］［2 仕事の予定が★］［1 決まっていなくて］まだ返事ができていない. ★ ở vị trí 3 → 仕事の予定が.",
+        "options": [
+          "決まっていなくて → vị trí 4, nêu lý do trước まだ返事ができていない. Không phải ★.",
+          "仕事の予定が → vị trí 3, chủ ngữ của 決まっていない, ★. ĐÚNG.",
+          "しなければ → vị trí 1 (返事をしなければ). Không phải ★.",
+          "と思いながらも → vị trí 2 (しなければと思いながらも). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "誘う", "r": "さそう", "hv": "DỤ", "vi": "rủ, mời" },
+          { "w": "返事", "r": "へんじ", "hv": "PHẢN SỰ", "vi": "trả lời, hồi âm" },
+          { "w": "予定", "r": "よてい", "hv": "DỰ ĐỊNH", "vi": "kế hoạch, lịch" }
+        ],
+        "grammar": {
+          "pattern": "〜ながらも",
+          "meaning": "mặc dù ~ nhưng (nghịch tiếp)",
+          "form": "Vます(bỏ ます)／Aい／N ＋ ながらも",
+          "example": "悪いと知りながらも、うそをついてしまった。"
+        },
+        "evidence": null,
+        "tip": "〜なければと思う = nghĩ là phải ~ (rút gọn của なければならないと思う)."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "私は、美術館では音声ガイドの機械を借りて、説明を聞きながら作品を鑑賞する。作品のどこに＿＿＿ ＿＿＿ ＿★＿ ＿＿＿その作品をより深く味わえるからだ。",
+      "options": ["わかると", "注目して", "いいのかが", "鑑賞したら"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Ở bảo tàng mỹ thuật, tôi mượn máy hướng dẫn bằng giọng nói và vừa nghe giải thích vừa thưởng thức tác phẩm. Vì khi biết nên chú ý vào chỗ nào của tác phẩm để thưởng thức thì có thể cảm nhận tác phẩm sâu sắc hơn.",
+        "why": "Thứ tự đúng: どこに［2 注目して］［4 鑑賞したら］［3 いいのかが★］［1 わかると］その作品を… 〜たらいいのか = nên ~ thì tốt; nghi vấn どこに…のかが + わかる. ★ ở vị trí 3 → いいのかが.",
+        "options": [
+          "わかると → vị trí 4 (〜のかがわかると). Không phải ★.",
+          "注目して → vị trí 1 (どこに注目して). Không phải ★.",
+          "いいのかが → vị trí 3 (鑑賞したらいいのかが), ★. ĐÚNG.",
+          "鑑賞したら → vị trí 2 (注目して鑑賞したら). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "鑑賞", "r": "かんしょう", "hv": "GIÁM THƯỞNG", "vi": "thưởng thức (nghệ thuật)" },
+          { "w": "注目", "r": "ちゅうもく", "hv": "CHÚ MỤC", "vi": "chú ý" },
+          { "w": "音声", "r": "おんせい", "hv": "ÂM THANH", "vi": "âm thanh, giọng nói" },
+          { "w": "味わう", "r": "あじわう", "hv": "VỊ", "vi": "thưởng thức, cảm nhận" }
+        ],
+        "grammar": {
+          "pattern": "疑問詞〜たらいいのかがわかる",
+          "meaning": "biết nên ~ (như thế nào/ở đâu) thì tốt",
+          "form": "疑問詞 ＋ Vたら ＋ いいのか ＋ が ＋ わかる",
+          "example": "何を準備したらいいのかがわからない。"
+        },
+        "evidence": null,
+        "tip": "Thấy từ để hỏi (どこに) → chờ cụm 〜のか(が) + わかる/知る để khép lại câu hỏi gián tiếp."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "雪が降っている＿＿＿ ＿＿＿ ＿★＿ ＿＿＿風がほとんどないからだろう。",
+      "options": ["わりに", "のは", "寒く感じない", "そんなに"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Việc tuyết đang rơi mà lại không cảm thấy lạnh lắm có lẽ là vì hầu như không có gió.",
+        "why": "Thứ tự đúng: 降っている［1 わりに］［4 そんなに］［3 寒く感じない★］［2 のは］風がほとんどないからだろう. 〜わりに = so với ~ thì (không như mong đợi); 〜のは〜からだ = sở dĩ ~ là vì ~. ★ ở vị trí 3 → 寒く感じない.",
+        "options": [
+          "わりに → vị trí 1 (降っているわりに). Không phải ★.",
+          "のは → vị trí 4, tạo cấu trúc 〜のは〜からだ. Không phải ★.",
+          "寒く感じない → vị trí 3 (そんなに寒く感じない), ★. ĐÚNG.",
+          "そんなに → vị trí 2, đi với phủ định 感じない. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "感じる", "r": "かんじる", "hv": "CẢM", "vi": "cảm thấy" },
+          { "w": "風", "r": "かぜ", "hv": "PHONG", "vi": "gió" },
+          { "w": "ほとんど", "r": "ほとんど", "hv": "", "vi": "hầu như" }
+        ],
+        "grammar": {
+          "pattern": "〜わりに",
+          "meaning": "so với ~ thì (khác với dự đoán)",
+          "form": "普通形（Naな／Nの）＋ わりに",
+          "example": "この店は値段のわりにおいしい。"
+        },
+        "evidence": null,
+        "tip": "Cuối câu có 〜からだろう → đầu vế phải là 〜のは (sở dĩ … là vì …)."
+      }
+    }
+  ]
+}

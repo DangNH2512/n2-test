@@ -1,0 +1,135 @@
+{
+  "exam": "2012-07",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "この問題は、<u>ただちに</u>部長に報告しなければならない。",
+      "options": ["あとで", "すぐに", "くわしく", "きちんと"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Vấn đề này phải báo cáo ngay lập tức cho trưởng phòng.",
+        "why": "ただちに (直ちに) = ngay lập tức = すぐに.",
+        "options": [
+          "あとで → sau đó, lát nữa. Trái nghĩa. Sai.",
+          "すぐに → ngay lập tức. ĐÚNG.",
+          "くわしく → chi tiết. Sai.",
+          "きちんと → đàng hoàng, chỉn chu. Sai."
+        ],
+        "vocab": [
+          { "w": "直ちに", "r": "ただちに", "hv": "TRỰC", "vi": "ngay lập tức" },
+          { "w": "報告", "r": "ほうこく", "hv": "BÁO CÁO", "vi": "báo cáo" },
+          { "w": "部長", "r": "ぶちょう", "hv": "BỘ TRƯỞNG", "vi": "trưởng phòng/bộ phận" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Từ đồng nghĩa: ただちに ≒ すぐに ≒ 即座に(そくざに) ≒ さっそく."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "隣の部屋から<u>奇妙な</u>音が聞こえる。",
+      "options": ["変な", "にぎやかな", "大きな", "嫌な"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi nghe thấy âm thanh kỳ lạ từ phòng bên cạnh.",
+        "why": "奇妙(きみょう)な = kỳ lạ, quái lạ = 変(へん)な.",
+        "options": [
+          "変な → kỳ lạ, lạ. ĐÚNG.",
+          "にぎやかな → náo nhiệt, ồn ào. Sai.",
+          "大きな → to, lớn. Sai.",
+          "嫌な → khó chịu, đáng ghét. Sai."
+        ],
+        "vocab": [
+          { "w": "奇妙", "r": "きみょう", "hv": "KỲ DIỆU", "vi": "kỳ lạ, quái lạ" },
+          { "w": "変", "r": "へん", "hv": "BIẾN", "vi": "lạ, kỳ quặc" },
+          { "w": "隣", "r": "となり", "hv": "LÂN", "vi": "bên cạnh" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Chú ý: 奇妙 trong tiếng Nhật = 'kỳ lạ', KHÔNG phải 'kỳ diệu/tuyệt vời' như tiếng Việt."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "明日までに、この資料を<u>仕上げて</u>おいてください。",
+      "options": ["出して", "直して", "完成させて", "移動させて"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hãy hoàn thành tài liệu này trước ngày mai.",
+        "why": "仕上げる(しあげる) = làm xong, hoàn thiện = 完成させる.",
+        "options": [
+          "出して → nộp, đưa ra. Sai.",
+          "直して → sửa. Sai.",
+          "完成させて → hoàn thành. ĐÚNG.",
+          "移動させて → di chuyển. Sai."
+        ],
+        "vocab": [
+          { "w": "仕上げる", "r": "しあげる", "hv": "SĨ THƯỢNG", "vi": "hoàn thành, hoàn thiện" },
+          { "w": "完成", "r": "かんせい", "hv": "HOÀN THÀNH", "vi": "hoàn thành" },
+          { "w": "資料", "r": "しりょう", "hv": "TƯ LIỆU", "vi": "tài liệu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Danh từ: 仕上げ = khâu hoàn thiện cuối cùng."
+      }
+    },
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "<u>日中</u>はアルバイトに行っています。",
+      "options": ["平日", "休日", "夜間", "昼間"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Ban ngày tôi đi làm thêm.",
+        "why": "日中(にっちゅう) = ban ngày, trong ngày = 昼間(ひるま).",
+        "options": [
+          "平日 → へいじつ: ngày thường (thứ 2–6). Sai.",
+          "休日 → きゅうじつ: ngày nghỉ. Sai.",
+          "夜間 → やかん: ban đêm. Trái nghĩa. Sai.",
+          "昼間 → ひるま: ban ngày. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "日中", "r": "にっちゅう", "hv": "NHẬT TRUNG", "vi": "ban ngày" },
+          { "w": "昼間", "r": "ひるま", "hv": "TRÚ GIAN", "vi": "ban ngày" },
+          { "w": "夜間", "r": "やかん", "hv": "DẠ GIAN", "vi": "ban đêm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "日中 đọc にっちゅう. Lưu ý: 一日中(いちにちじゅう) lại là 'suốt cả ngày' – nghĩa khác hẳn."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "このタオルとシャツは<u>しめっている</u>ね。",
+      "options": ["まだきれいになっていない", "まだ乾いていない", "もうきれいになっている", "もう乾いている"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Cái khăn và áo sơ mi này còn ẩm nhỉ.",
+        "why": "湿っている(しめっている) = ẩm, ướt nhẹ = まだ乾いていない (chưa khô).",
+        "options": [
+          "まだきれいになっていない → chưa sạch. Sai.",
+          "まだ乾いていない → chưa khô. ĐÚNG.",
+          "もうきれいになっている → đã sạch rồi. Sai.",
+          "もう乾いている → đã khô rồi. Trái nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "湿る", "r": "しめる", "hv": "THẤP", "vi": "ẩm, ướt" },
+          { "w": "乾く", "r": "かわく", "hv": "CAN", "vi": "khô" },
+          { "w": "湿気", "r": "しっけ", "hv": "THẤP KHÍ", "vi": "hơi ẩm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "湿る(しめる) khác 閉める(しめる – đóng) và 占める(しめる – chiếm). Phân biệt qua ngữ cảnh."
+      }
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "exam": "2016-07",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（１）から（３）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(3) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "以下は、絵本の選び方について述べた文章である。\n\nたいへん有効な一つの方法は、絵本を見るとき、子どもと同じやり方、つまり、字は読まず、絵だけで物語を追っていくというやり方で、絵本を見ていくことです。わたしも、新しい本を手にしたときは、かならずこのやり方で見ることにしていますが、そうすると、いろんなことが、とてもよくわかってきます。\n字にたよらず絵だけ見ることは、わたしたちの心を、必然的に（注1）、単純で具体的な考え方のレベルにとどめて（注2）くれますし、当然のことながら、絵の中に意味をさぐろうとする心の働きを強めてくれます。そうして見ていくと、絵それ自体が何かを語りかけてくれる場合と、文を読んでからでなければ何の意味ももたない、いわば装飾的な（注3）働きしかしていない場合とが、実にはっきりしてきます。絵が何かを語りかけてくれないものは、ほんとうの意味では絵本とはいえないので、こうして見ていくと、体裁（注4）は絵本でも、①<u>絵本とは呼べないもの</u>が少なくないことがわかってきます。（中略）\nまた絵だけを丹念に（注5）見ていると、絵のもつ雰囲気も調子も、文と合わせ見るときより、よくわかる気がします。そして、それをつかんだあとで文を読むと、絵と文の関係がしっくりいっている（注6）かどうかが、はっきりわかります。登場人物の服装とか、背景（注7）とかの具体的な事実が、文と絵で違っていることがいけないのはもちろんですが、絵全体の調子やムードが、物語のそれと合わないのは、絵本としては、②<u>大きな欠点です</u>。\n（松岡享子・東京子ども図書館『えほんのせかい こどものせかい』による）\n（注1）必然的に：ここでは、必ず\n（注2）～にとどめる：～のままにする\n（注3）装飾的な：飾りのような\n（注4）体裁：形式\n（注5）丹念に：細かく注意しながら\n（注6）しっくりいく：よく合う\n（注7）背景：ここでは、後ろの景色"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "長い間水の中にいると手足の指にたくさん「しわ」ができる。このしわを見たことがない人はいないだろう。私はこれまで、このしわは単に皮膚が水分を吸収し膨らんでできたもので、何の役割もないと思っていた。ところが、①<u>そうではない</u>という記事を読んだ。滑り止めの役割を果たしているというのだ。\nこの記事は、ある論文の実験結果をもとに書かれていた。②<u>実験</u>は次のように行われた。ひとつの容器に小さなガラス玉を入れ、それを指でつかんで別の容器に移し替えるのにかかる時間を計る。ガラス玉が入っている容器には、水入りのものと水なしのものが準備された。また、手はしわがある状態とない状態で、それぞれのかかる時間が計測された。しわは、ぬるま湯に手を浸すことで発生させた。結果は次のようなものである。\nまず水の有無について見てみると、水入りの容器から移し替えるより、水なしの容器から移し替えるほうが速い。次に水入り、水なしの各条件において、しわの有無の違いによる結果を見てみると、水なしの場合、しわがあってもなくても大した差はない。しかし、水入りの場合、しわがあるほうが速い。以上の結果から、実験者は、しわは水中などぬれた環境で物をつかみやすくするためにできるようになった可能性があると述べているそうだ。\nしかし、どうなのだろうか。滑り止めのためであれば、水に入れたらすぐにしわができないとおかしいのではないだろうか。しわの役割を知るためには、新たな実験を待たなければならない。"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "以下は、企業の経営について書かれた文章である。\n\nいろんな規則や罰則（注1）を作って、社員をがんじがらめにして（注2）ひたすら働かせるというタイプの経営者も、まあ今時は少ないとは思うが、まだいることはいる。①<u>そういうやり方が間違っていると思う</u>のは、たとえそれで社員の労働力を物理的に100パーセント引き出すことができたとしても、そのかわり精神面での労働力を捨てることになるからだ。\n精神面での労働力というのは、たとえば創意工夫する（注3）能力だ。強制的に（注4）仕事をさせるやり方では、人の創意工夫の能力を引き出すことはできないのだ。人間の心は、自由なときにその本来の能力を発揮する。楽しんで、興味を持って何かをしているとき、人はいろんなアイデアを思いつく。（中略）\nそして、どんな仕事であろうとも、人間のする仕事には、この創意工夫の才能が重要な役割を果たす。一日中、ひたすらネジを締める仕事であってもそうだ。どうすれば不良品を減らせるか、どうすれば作業効率（注5）を上げられるか。たとえばQC活動（Quality Control：品質管理のこと）を通して、作業する人が自分たちで②<u>そういうこと</u>を積極的に考えるようになるシステムを創り上げたからこそ、日本の製造業は世界一になれたのだ。\nそしてそういう能力を引き出すためには、従業員にとって、そこで働くことが本当の意味で自分のためになるという環境を作ることが欠かせない。\n本人の幸せと会社の業績（注6）が一致すれば、愛社精神なんてものは自然に育つ。強制なんかしなくても、従業員はプライドを持って心から会社のために働こうと思う。\n（高田神助『ご飯を大盛りにするオバチャンの店は必ず繁盛する―絶対に失敗しないビジネス経営哲学』による）\n（注1）罰則：違反したときに従わなければならない規則\n（注2）がんじがらめにする：ここでは、縛る\n（注3）創意工夫する：新しいアイデアを考え出す\n（注4）強制的に：無理やり\n（注5）作業効率：ここでは、作業を進める速度\n（注6）業績：仕事の成果"
+    }
+  ],
+  "questions": [
+    {
+      "num": 60,
+      "passage": "p1",
+      "stem": "筆者によると、字を読まないで絵だけで絵本を見るとどうなるか。",
+      "options": ["字を読むより感動できる。", "字を読むより物語がよくわかる。", "絵を見て自由に物語を作ろうとする。", "絵の中から意味を見つけようとする。"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, nếu không đọc chữ mà chỉ xem tranh trong sách tranh thì sẽ thế nào? → Sẽ cố tìm ra ý nghĩa từ trong tranh.",
+        "why": "Tác giả viết: xem tranh không dựa vào chữ 'tăng cường hoạt động của tâm trí nhằm tìm kiếm ý nghĩa trong tranh' (絵の中に意味をさぐろうとする心の働きを強めてくれます).",
+        "options": [
+          "Không nói đến việc cảm động hơn. Sai.",
+          "Không nói hiểu cốt truyện hơn đọc chữ. Sai.",
+          "Không nói tự sáng tác câu chuyện. Sai.",
+          "Cố tìm ý nghĩa trong tranh (さぐる = 見つけようとする). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "探る", "r": "さぐる", "hv": "THÁM", "vi": "tìm kiếm, dò tìm" },
+          { "w": "絵本", "r": "えほん", "hv": "HỘI BẢN", "vi": "sách tranh" },
+          { "w": "具体的", "r": "ぐたいてき", "hv": "CỤ THỂ ĐÍCH", "vi": "cụ thể" }
+        ],
+        "grammar": null,
+        "evidence": "当然のことながら、絵の中に意味をさぐろうとする心の働きを強めてくれます。",
+        "tip": "さぐろうとする ≈ 見つけようとする (paraphrase)."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p1",
+      "stem": "①<u>絵本とは呼べないもの</u>とはどのようなものか。",
+      "options": ["絵だけでは何も伝わってこないもの", "絵がないと、文の意味がわからないもの", "絵と文の意味が合っていないもの", "絵と文を一緒に見ても、面白くないもの"],
+      "answer": 1,
+      "explanation": {
+        "translation": "'Thứ không thể gọi là sách tranh' là thứ như thế nào? → Thứ mà chỉ nhìn tranh thì không truyền đạt được điều gì.",
+        "why": "Câu ngay trước: 「絵が何かを語りかけてくれないものは、ほんとうの意味では絵本とはいえない」 = tranh không 'nói' được gì thì không phải sách tranh đúng nghĩa.",
+        "options": [
+          "Chỉ nhìn tranh thì không truyền đạt được gì. ĐÚNG.",
+          "Ngược lại: vấn đề là tranh vô nghĩa nếu không có chữ, chứ không phải chữ cần tranh. Sai.",
+          "Sự không khớp giữa tranh và chữ là chủ đề của đoạn sau (②). Sai.",
+          "Không nói đến 'thú vị hay không'. Sai."
+        ],
+        "vocab": [
+          { "w": "語りかける", "r": "かたりかける", "hv": "NGỮ", "vi": "nói với, truyền đạt tới" },
+          { "w": "装飾的", "r": "そうしょくてき", "hv": "TRANG SỨC ĐÍCH", "vi": "mang tính trang trí" },
+          { "w": "体裁", "r": "ていさい", "hv": "THỂ TÀI", "vi": "hình thức, bề ngoài" }
+        ],
+        "grammar": null,
+        "evidence": "絵が何かを語りかけてくれないものは、ほんとうの意味では絵本とはいえないので、こうして見ていくと、体裁は絵本でも、絵本とは呼べないものが少なくないことがわかってきます。",
+        "tip": null
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p1",
+      "stem": "②<u>大きな欠点</u>とは何か。",
+      "options": ["絵の雰囲気や調子がつかみにくいこと", "絵の具体的な部分が、絵全体と合っていないこと", "絵と物語の、雰囲気や調子が異なること", "物語としてあまり感動を与えられないこと"],
+      "answer": 3,
+      "explanation": {
+        "translation": "'Khuyết điểm lớn' là gì? → Không khí, nhịp điệu của tranh và câu chuyện khác nhau.",
+        "why": "「絵全体の調子やムードが、物語のそれと合わないのは、絵本としては、大きな欠点です」 = nhịp điệu/không khí của toàn bộ tranh không hợp với câu chuyện là khuyết điểm lớn.",
+        "options": [
+          "Tác giả nói xem kỹ tranh thì nắm được không khí dễ hơn, không phải khó nắm. Sai.",
+          "So sánh là giữa tranh và câu chuyện, không phải chi tiết tranh với toàn bộ tranh. Sai.",
+          "Không khí, nhịp điệu của tranh và truyện khác nhau. ĐÚNG.",
+          "Không nói về mức độ cảm động. Sai."
+        ],
+        "vocab": [
+          { "w": "欠点", "r": "けってん", "hv": "KHIẾM ĐIỂM", "vi": "khuyết điểm" },
+          { "w": "雰囲気", "r": "ふんいき", "hv": "PHÂN VI KHÍ", "vi": "bầu không khí" },
+          { "w": "調子", "r": "ちょうし", "hv": "ĐIỀU TỬ", "vi": "nhịp điệu, giọng điệu" },
+          { "w": "丹念", "r": "たんねん", "hv": "ĐAN NIỆM", "vi": "tỉ mỉ, cẩn thận" }
+        ],
+        "grammar": null,
+        "evidence": "絵全体の調子やムードが、物語のそれと合わないのは、絵本としては、大きな欠点です。",
+        "tip": "物語のそれ: それ = 調子やムード."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p2",
+      "stem": "①<u>そうではない</u>とあるが、どういうことか。",
+      "options": ["「しわ」は長い間水の中にいるとできるわけではない。", "「しわ」はすべての人にできるというわけではない。", "「しわ」には滑り止めの役割があるわけではない。", "「しわ」に役割がないわけではない。"],
+      "answer": 4,
+      "explanation": {
+        "translation": "'Không phải như vậy' nghĩa là gì? → Không phải nếp nhăn không có vai trò gì.",
+        "why": "そう chỉ suy nghĩ trước đó của tác giả: 'nếp nhăn không có vai trò gì' (何の役割もない). そうではない = không phải không có vai trò → thực ra nó có vai trò chống trượt.",
+        "options": [
+          "Việc ngâm nước lâu tạo nếp nhăn là sự thật, không bị phủ định. Sai.",
+          "Không nói về việc ai cũng có nếp nhăn hay không. Sai.",
+          "Ngược lại, bài báo nói nó CÓ vai trò chống trượt. Sai.",
+          "Không phải là không có vai trò. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "皮膚", "r": "ひふ", "hv": "BÌ PHU", "vi": "da" },
+          { "w": "吸収", "r": "きゅうしゅう", "hv": "HẤP THU", "vi": "hấp thụ" },
+          { "w": "膨らむ", "r": "ふくらむ", "hv": "BÀNH", "vi": "phồng lên" },
+          { "w": "滑り止め", "r": "すべりどめ", "hv": "HOẠT CHỈ", "vi": "chống trượt" }
+        ],
+        "grammar": {
+          "pattern": "～わけではない",
+          "meaning": "không hẳn là ~, không phải là ~",
+          "form": "普通形 + わけではない",
+          "example": "嫌いなわけではないが、あまり食べない。"
+        },
+        "evidence": "私はこれまで、このしわは単に皮膚が水分を吸収し膨らんでできたもので、何の役割もないと思っていた。ところが、そうではないという記事を読んだ。滑り止めの役割を果たしているというのだ。",
+        "tip": "そうではない phủ định ý ngay trước nó → tìm câu trước để xác định そう."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p2",
+      "stem": "②<u>実験</u>で最も時間がかかったのはどの場合か。",
+      "options": ["容器に水があり、「しわ」がある場合", "容器に水があり、「しわ」がない場合", "容器に水がなく、「しわ」がある場合", "容器に水がなく、「しわ」がない場合"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Trong thí nghiệm, trường hợp nào tốn thời gian nhất? → Khi trong hộp có nước và tay không có nếp nhăn.",
+        "why": "Kết quả: (1) có nước chậm hơn không có nước; (2) khi có nước, có nếp nhăn nhanh hơn. → Chậm nhất là 'có nước + không nếp nhăn'.",
+        "options": [
+          "Có nước + có nếp nhăn: nhanh hơn trường hợp không nếp nhăn. Sai.",
+          "Có nước + không nếp nhăn: chậm nhất. ĐÚNG.",
+          "Không nước: nhanh hơn có nước. Sai.",
+          "Không nước: nhanh hơn có nước. Sai."
+        ],
+        "vocab": [
+          { "w": "容器", "r": "ようき", "hv": "DUNG KHÍ", "vi": "đồ đựng, hộp" },
+          { "w": "移し替える", "r": "うつしかえる", "hv": "DI THẾ", "vi": "chuyển sang (chỗ khác)" },
+          { "w": "有無", "r": "うむ", "hv": "HỮU VÔ", "vi": "có hay không" },
+          { "w": "計測", "r": "けいそく", "hv": "KẾ TRẮC", "vi": "đo đạc" }
+        ],
+        "grammar": null,
+        "evidence": "水入りの容器から移し替えるより、水なしの容器から移し替えるほうが速い。…しかし、水入りの場合、しわがあるほうが速い。",
+        "tip": "Câu hỏi 'tốn thời gian nhất' = chậm nhất → đảo ngược các dữ kiện 'nhanh hơn'."
+      }
+    },
+    {
+      "num": 65,
+      "passage": "p2",
+      "stem": "筆者は記事を読んでどのように考えているか。",
+      "options": [
+        "「しわ」ができるまでに時間がかかるので、滑り止めだと決めるにはまだ早い。",
+        "「しわ」ができるまでに時間がかかるが、滑り止めである可能性が高いだろう。",
+        "「しわ」があっても滑るので、滑り止めだと決めるにはまだ早い。",
+        "「しわ」があると滑りにくいので、滑り止めである可能性が高いだろう。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tác giả nghĩ gì sau khi đọc bài báo? → Vì nếp nhăn cần thời gian mới xuất hiện nên còn quá sớm để kết luận nó dùng để chống trượt.",
+        "why": "Tác giả hoài nghi: nếu để chống trượt thì phải xuất hiện ngay khi vào nước mới hợp lý; cần chờ thí nghiệm mới → chưa thể kết luận.",
+        "options": [
+          "Nếp nhăn cần thời gian → chưa thể kết luận. ĐÚNG.",
+          "Tác giả không cho rằng khả năng cao, mà nghi ngờ. Sai.",
+          "Không nói 'có nếp nhăn vẫn trượt'. Sai.",
+          "Đây là ý của người làm thí nghiệm, tác giả thì nghi ngờ. Sai."
+        ],
+        "vocab": [
+          { "w": "論文", "r": "ろんぶん", "hv": "LUẬN VĂN", "vi": "bài luận, công trình nghiên cứu" },
+          { "w": "可能性", "r": "かのうせい", "hv": "KHẢ NĂNG TÍNH", "vi": "khả năng" },
+          { "w": "新た", "r": "あらた", "hv": "TÂN", "vi": "mới" }
+        ],
+        "grammar": null,
+        "evidence": "滑り止めのためであれば、水に入れたらすぐにしわができないとおかしいのではないだろうか。しわの役割を知るためには、新たな実験を待たなければならない。",
+        "tip": "しかし、どうなのだろうか → dấu hiệu tác giả phản bác/nghi ngờ."
+      }
+    },
+    {
+      "num": 66,
+      "passage": "p3",
+      "stem": "①<u>そういうやり方が間違っていると思う</u>のはなぜか。",
+      "options": ["社員からアイデアが生まれなくなるから", "社員のアイデアが採用されなくなるから", "社員の物理的な労働力が無駄になるから", "社員が会社を辞めたいと思うようになるから"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tại sao tác giả nghĩ cách làm đó là sai? → Vì nhân viên sẽ không còn nảy ra ý tưởng.",
+        "why": "Cách quản lý ép buộc sẽ 'vứt bỏ sức lao động về mặt tinh thần' = năng lực sáng tạo, nghĩ ra ý tưởng (創意工夫する能力). → Nhân viên không còn tạo ra ý tưởng.",
+        "options": [
+          "Mất năng lực sáng tạo → không nảy ra ý tưởng. ĐÚNG.",
+          "Không nói việc ý tưởng không được chấp nhận. Sai.",
+          "Ngược lại, sức lao động vật lý có thể khai thác 100%. Sai.",
+          "Không nói việc muốn nghỉ việc. Sai."
+        ],
+        "vocab": [
+          { "w": "罰則", "r": "ばっそく", "hv": "PHẠT TẮC", "vi": "quy định xử phạt" },
+          { "w": "創意工夫", "r": "そういくふう", "hv": "SÁNG Ý CÔNG PHU", "vi": "sáng tạo, tìm tòi cải tiến" },
+          { "w": "労働力", "r": "ろうどうりょく", "hv": "LAO ĐỘNG LỰC", "vi": "sức lao động" },
+          { "w": "引き出す", "r": "ひきだす", "hv": "DẪN XUẤT", "vi": "khai thác, phát huy" }
+        ],
+        "grammar": null,
+        "evidence": "たとえそれで社員の労働力を物理的に100パーセント引き出すことができたとしても、そのかわり精神面での労働力を捨てることになるからだ。精神面での労働力というのは、たとえば創意工夫する能力だ。",
+        "tip": null
+      }
+    },
+    {
+      "num": 67,
+      "passage": "p3",
+      "stem": "②<u>そういうこと</u>とは何か。",
+      "options": ["仕事の楽しみ方", "よりよい仕事の仕方", "単純な作業を減らす方法", "世界一の会社になる方法"],
+      "answer": 2,
+      "explanation": {
+        "translation": "'Những điều như thế' là gì? → Cách làm việc tốt hơn.",
+        "why": "そういうこと chỉ hai câu hỏi trước đó: 'làm sao giảm hàng lỗi, làm sao nâng hiệu suất' → tức là cách làm việc tốt hơn.",
+        "options": [
+          "Không nói về cách tận hưởng công việc. Sai.",
+          "Giảm hàng lỗi, tăng hiệu suất = cách làm việc tốt hơn. ĐÚNG.",
+          "Không nói giảm công việc đơn giản. Sai.",
+          "Trở thành số 1 thế giới là kết quả, không phải nội dung suy nghĩ. Sai."
+        ],
+        "vocab": [
+          { "w": "不良品", "r": "ふりょうひん", "hv": "BẤT LƯƠNG PHẨM", "vi": "hàng lỗi" },
+          { "w": "作業効率", "r": "さぎょうこうりつ", "hv": "TÁC NGHIỆP HIỆU SUẤT", "vi": "hiệu suất công việc" },
+          { "w": "製造業", "r": "せいぞうぎょう", "hv": "CHẾ TẠO NGHIỆP", "vi": "ngành sản xuất" }
+        ],
+        "grammar": null,
+        "evidence": "どうすれば不良品を減らせるか、どうすれば作業効率を上げられるか。",
+        "tip": null
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p3",
+      "stem": "筆者によると、経営者が社員の能力を引き出すために必要なことは何か。",
+      "options": ["社員に自分の能力を高める方法を教えること", "社員に仕事に対してプライドを持つ大切さを教えること", "社員が集中して仕事に取り組める環境を作ること", "社員自身が働き続けたいと思える環境にすること"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, để khai thác năng lực nhân viên, người quản lý cần làm gì? → Tạo môi trường mà chính nhân viên muốn tiếp tục làm việc.",
+        "why": "Cần tạo môi trường mà 'làm việc ở đó thực sự có ích cho bản thân' (自分のためになる) → khi hạnh phúc của bản thân trùng với thành tích công ty, nhân viên tự nguyện muốn làm việc cho công ty.",
+        "options": [
+          "Không nói dạy cách nâng cao năng lực. Sai.",
+          "Lòng tự hào tự nhiên sinh ra, không phải được 'dạy'. Sai.",
+          "Không nói về sự tập trung. Sai.",
+          "Môi trường khiến nhân viên muốn làm tiếp (vì có ích cho bản thân). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "従業員", "r": "じゅうぎょういん", "hv": "TÙNG NGHIỆP VIÊN", "vi": "nhân viên" },
+          { "w": "欠かせない", "r": "かかせない", "hv": "KHIẾM", "vi": "không thể thiếu" },
+          { "w": "業績", "r": "ぎょうせき", "hv": "NGHIỆP TÍCH", "vi": "thành tích kinh doanh" },
+          { "w": "愛社精神", "r": "あいしゃせいしん", "hv": "ÁI XÃ TINH THẦN", "vi": "tinh thần yêu công ty" }
+        ],
+        "grammar": null,
+        "evidence": "そういう能力を引き出すためには、従業員にとって、そこで働くことが本当の意味で自分のためになるという環境を作ることが欠かせない。",
+        "tip": "～ことが欠かせない = điều không thể thiếu → câu trả lời cho '必要なこと'."
+      }
+    }
+  ]
+}

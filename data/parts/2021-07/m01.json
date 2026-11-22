@@ -1,0 +1,139 @@
+{
+  "exam": "2021-07",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "海外市場に進出するために販売部門を<u>拡充</u>した。",
+      "options": ["こうじゅ", "かくじゅ", "こうじゅう", "かくじゅう"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Để tiến ra thị trường nước ngoài, (công ty) đã mở rộng và tăng cường bộ phận bán hàng.",
+        "why": "拡充 đọc là かくじゅう (KHUẾCH SUNG) = mở rộng, làm cho đầy đủ hơn. 拡 đọc かく (拡大 かくだい), 充 đọc じゅう có trường âm (充実 じゅうじつ).",
+        "options": [
+          "こうじゅ → 拡 không đọc こう, 充 thiếu trường âm. Sai.",
+          "かくじゅ → thiếu trường âm (じゅ ≠ じゅう). Sai.",
+          "こうじゅう → 拡 không đọc こう (こう là 広・航…). Sai.",
+          "かくじゅう → 拡充: mở rộng, tăng cường. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "拡充", "r": "かくじゅう", "hv": "KHUẾCH SUNG", "vi": "mở rộng, tăng cường" },
+          { "w": "進出", "r": "しんしゅつ", "hv": "TIẾN XUẤT", "vi": "tiến ra, thâm nhập (thị trường)" },
+          { "w": "部門", "r": "ぶもん", "hv": "BỘ MÔN", "vi": "bộ phận, ban" },
+          { "w": "充実", "r": "じゅうじつ", "hv": "SUNG THỰC", "vi": "đầy đủ, phong phú" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "充 luôn đọc じゅう (dài): 充実・充電・補充. 拡 = かく: 拡大・拡張."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "近年、科学技術は<u>著しい</u>進歩を見せている。",
+      "options": ["かやぶかしい", "かがやかしい", "いちじるしい", "いちるじしい"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Những năm gần đây, khoa học kỹ thuật đang cho thấy sự tiến bộ vượt bậc.",
+        "why": "著しい đọc là いちじるしい (TRỨ) = đáng kể, rõ rệt, vượt bậc. Hay đi với 進歩・変化・発展.",
+        "options": [
+          "かやぶかしい → không có từ này. Sai.",
+          "かがやかしい → 輝かしい: rực rỡ, vẻ vang (輝かしい成績). Sai.",
+          "いちじるしい → 著しい: đáng kể, rõ rệt. ĐÚNG.",
+          "いちるじしい → đảo thứ tự âm, không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "著しい", "r": "いちじるしい", "hv": "TRỨ", "vi": "đáng kể, rõ rệt" },
+          { "w": "進歩", "r": "しんぽ", "hv": "TIẾN BỘ", "vi": "tiến bộ" },
+          { "w": "近年", "r": "きんねん", "hv": "CẬN NIÊN", "vi": "những năm gần đây" },
+          { "w": "輝かしい", "r": "かがやかしい", "hv": "HUY", "vi": "rực rỡ, vẻ vang" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "著 âm On là ちょ (著者 ちょしゃ, 著名 ちょめい), âm Kun là いちじる(しい)/あらわ(す)."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "みなさんの<u>声援</u>に力づけられました。",
+      "options": ["せいえん", "しえん", "せいいん", "しいん"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đã được tiếp thêm sức mạnh nhờ sự cổ vũ của mọi người.",
+        "why": "声援 đọc là せいえん (THANH VIỆN) = tiếng cổ vũ, sự cổ vũ. 声 đọc せい (音声 おんせい), 援 đọc えん (応援 おうえん).",
+        "options": [
+          "せいえん → 声援: sự cổ vũ. ĐÚNG.",
+          "しえん → 支援: hỗ trợ, ủng hộ (chữ 支 khác). Sai.",
+          "せいいん → 成員: thành viên; 援 không đọc いん. Sai.",
+          "しいん → 子音: phụ âm / 死因: nguyên nhân tử vong. Sai."
+        ],
+        "vocab": [
+          { "w": "声援", "r": "せいえん", "hv": "THANH VIỆN", "vi": "sự cổ vũ" },
+          { "w": "力づける", "r": "ちからづける", "hv": "LỰC", "vi": "khích lệ, tiếp sức" },
+          { "w": "応援", "r": "おうえん", "hv": "ỨNG VIỆN", "vi": "cổ vũ, ủng hộ" },
+          { "w": "支援", "r": "しえん", "hv": "CHI VIỆN", "vi": "hỗ trợ, chi viện" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "援 luôn đọc えん: 応援・支援・援助. Đừng nhầm với 員 (いん)."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "いつのまにか<u>傾いて</u>いました。",
+      "options": ["きずついて", "かたむいて", "かわいて", "ういて"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Không biết từ lúc nào nó đã bị nghiêng.",
+        "why": "傾く đọc là かたむく (KHUYNH) = nghiêng, lệch. Thể て: 傾いて → かたむいて.",
+        "options": [
+          "きずついて → 傷つく: bị thương, bị tổn thương. Sai.",
+          "かたむいて → 傾く: nghiêng. ĐÚNG.",
+          "かわいて → 乾く: khô. Sai.",
+          "ういて → 浮く: nổi. Sai."
+        ],
+        "vocab": [
+          { "w": "傾く", "r": "かたむく", "hv": "KHUYNH", "vi": "nghiêng, lệch" },
+          { "w": "傾向", "r": "けいこう", "hv": "KHUYNH HƯỚNG", "vi": "khuynh hướng, xu hướng" },
+          { "w": "いつのまにか", "r": "いつのまにか", "hv": "", "vi": "không biết từ lúc nào" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "傾: âm Kun かたむ(く/ける), âm On けい (傾向・傾斜 けいしゃ)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "ガラスの<u>破片</u>が落ちているから、気をつけてください。",
+      "options": ["ひがた", "はがた", "ひへん", "はへん"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Có mảnh kính vỡ rơi ở đó nên hãy cẩn thận.",
+        "why": "破片 đọc là はへん (PHÁ PHIẾN) = mảnh vỡ. 破 đọc は (破産 はさん), 片 âm On đọc へん (断片 だんぺん, 一片 いっぺん).",
+        "options": [
+          "ひがた → 干潟: bãi bồi ven biển. Sai.",
+          "はがた → 歯形: dấu răng; 片 trong từ Hán ghép đọc へん. Sai.",
+          "ひへん → 破 không đọc ひ. Sai.",
+          "はへん → 破片: mảnh vỡ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "破片", "r": "はへん", "hv": "PHÁ PHIẾN", "vi": "mảnh vỡ" },
+          { "w": "破る", "r": "やぶる", "hv": "PHÁ", "vi": "làm rách, phá vỡ" },
+          { "w": "片道", "r": "かたみち", "hv": "PHIẾN ĐẠO", "vi": "một chiều (vé)" },
+          { "w": "断片", "r": "だんぺん", "hv": "ĐOẠN PHIẾN", "vi": "mảnh, đoạn rời" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "片: Kun かた (片方・片付ける), On へん (破片・断片). Từ Hán ghép 2 chữ thường dùng âm On."
+      }
+    }
+  ]
+}

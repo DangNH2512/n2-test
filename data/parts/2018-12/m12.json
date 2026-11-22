@@ -1,0 +1,93 @@
+{
+  "exam": "2018-12",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B rồi chọn câu trả lời đúng nhất (đọc so sánh).",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "就職したばかりの若者はいつも不安を抱えていることを理解してほしい。彼らは新しい環境に慣れていないうえに、仕事で失敗して上司からしかられることをとても恐れているのだ。\nそんな彼らは、仕事を頼まれてもすぐに始めることができない。失敗したくないので、仕事をする前にいろいろ質問をしてくる。彼らの気持ちがわからないと、聞かれた人は自分の若い時と比べて仕事に消極的だ、口ばかりで働くのを嫌がる、と誤解することになる。もちろん消極的な若者は困る。しかし社会も教育も変わっているのだから、若者の考え方が自分と違うのはしかたない。彼らの気持ちを理解するには、自分から歩み寄ることが必要だ。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "今の若者が、あなたが若いころと同じ考えで動いていると思ってはいけない。育った時代や環境が違えば、仕事についての価値観が違うのは当然だ。\nあなたが若いころは、上司から命じられた仕事は黙ってやる、自分の意見を言うのは仕事を覚えてから、というのが当たり前だったかもしれない。しかし、昔よりも個性を肯定する教育を受けた今の若者にそれは通用しない。自分の考えに合わなければ、たとえ上司の命令でも反論する人もいる。一方で、仕事の目的や本人の役割をきちんと説明すれば、納得して積極的に仕事に取り組むこともある。\n若者には若者のいいところがある。自分との違いを認め、その溝を埋める努力をしてみよう。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 67,
+      "passage": "AB",
+      "stem": "今の若者について、AとBはどのように述べているか。",
+      "options": [
+        "AもBも、上司の言うことをすなおに聞かないと述べている。",
+        "AもBも、不安を抱えていて上司に質問することが多いと述べている。",
+        "Aは仕事に対して消極的で働くのを嫌がると述べ、Bは自身が納得できれば積極的に働くと述べている。",
+        "Aは仕事で失敗することを恐れていると述べ、Bは自身の意見をはっきりと主張しようとすると述べている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "A và B nói gì về giới trẻ ngày nay? → A nói họ sợ thất bại trong công việc, B nói họ cố gắng khẳng định rõ ràng ý kiến của bản thân.",
+        "why": "A: người trẻ rất sợ thất bại và bị cấp trên mắng (失敗して上司からしかられることをとても恐れている). B: nếu không hợp với suy nghĩ của mình thì dù là lệnh cấp trên cũng phản bác (反論する) → họ nói rõ ý kiến của mình.",
+        "options": [
+          "A không nói người trẻ không nghe lời cấp trên. Sai.",
+          "\"Lo lắng, hay hỏi\" chỉ có ở A; B không nói. Sai.",
+          "A nói \"tiêu cực, ngại làm việc\" là sự HIỂU LẦM của người khác, không phải nhận định của A. Sai.",
+          "Khớp: A — sợ thất bại; B — dám phản bác, nói ý kiến. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "不安を抱える", "r": "ふあんをかかえる", "hv": "BẤT AN BÃO", "vi": "mang nỗi lo lắng" },
+          { "w": "消極的", "r": "しょうきょくてき", "hv": "TIÊU CỰC ĐÍCH", "vi": "thụ động, tiêu cực" },
+          { "w": "反論", "r": "はんろん", "hv": "PHẢN LUẬN", "vi": "phản bác" },
+          { "w": "誤解", "r": "ごかい", "hv": "NGỘ GIẢI", "vi": "hiểu lầm" }
+        ],
+        "grammar": {
+          "pattern": "～うえに",
+          "meaning": "không những ~ mà còn",
+          "form": "普通形(Nの／Naな) ＋ うえに",
+          "example": "新しい環境に慣れていないうえに、失敗を恐れている。"
+        },
+        "evidence": "A：彼らは新しい環境に慣れていないうえに、仕事で失敗して上司からしかられることをとても恐れているのだ。\nB：自分の考えに合わなければ、たとえ上司の命令でも反論する人もいる。",
+        "tip": "Bẫy phương án 3: phân biệt ý kiến của tác giả với \"cái nhìn sai\" mà tác giả nêu ra (～と誤解することになる)."
+      }
+    },
+    {
+      "num": 68,
+      "passage": "AB",
+      "stem": "若者と働くうえで重要なこととして、AとBが共通して述べていることは何か。",
+      "options": [
+        "若者との違いを認め、理解しようとすること。",
+        "若者の不安を解消し、働きやすくすること。",
+        "若者の個性を認めてあげること。",
+        "若者のいいところを学ぶこと。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều quan trọng khi làm việc với người trẻ mà cả A và B cùng nêu là gì? → Thừa nhận sự khác biệt với người trẻ và cố gắng thấu hiểu họ.",
+        "why": "A: suy nghĩ của người trẻ khác mình là đương nhiên, để hiểu họ phải tự mình xích lại gần (自分から歩み寄る). B: hãy thừa nhận khác biệt và nỗ lực lấp khoảng cách (違いを認め、その溝を埋める努力) → điểm chung là thừa nhận khác biệt và cố hiểu.",
+        "options": [
+          "Khớp: A 歩み寄る / B 違いを認め、溝を埋める. ĐÚNG.",
+          "Chỉ A nói về nỗi lo của người trẻ; không ai nói \"giải tỏa\" nó. Sai.",
+          "B nhắc giáo dục coi trọng cá tính, nhưng A không nói. Sai.",
+          "B nói người trẻ có điểm tốt, nhưng không nói \"học hỏi\" chúng; A không nói. Sai."
+        ],
+        "vocab": [
+          { "w": "歩み寄る", "r": "あゆみよる", "hv": "BỘ KÝ", "vi": "xích lại gần, nhượng bộ" },
+          { "w": "溝を埋める", "r": "みぞをうめる", "hv": "CÂU MAI", "vi": "lấp khoảng cách" },
+          { "w": "価値観", "r": "かちかん", "hv": "GIÁ TRỊ QUAN", "vi": "quan niệm giá trị" },
+          { "w": "納得", "r": "なっとく", "hv": "NẠP ĐẮC", "vi": "đồng ý, thấu hiểu, tâm phục" }
+        ],
+        "grammar": {
+          "pattern": "～のはしかたない",
+          "meaning": "~ là chuyện không tránh được, đành chấp nhận",
+          "form": "普通形 ＋ のはしかたない",
+          "example": "考え方が違うのはしかたない。"
+        },
+        "evidence": "A：若者の考え方が自分と違うのはしかたない。彼らの気持ちを理解するには、自分から歩み寄ることが必要だ。\nB：自分との違いを認め、その溝を埋める努力をしてみよう。",
+        "tip": "Câu hỏi 共通 → so câu kết của A và câu kết của B."
+      }
+    }
+  ]
+}

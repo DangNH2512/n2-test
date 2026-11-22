@@ -1,0 +1,190 @@
+{
+  "exam": "2012-07",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（１）から（５）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn từ (1) đến (5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "人が「白い、皿、置く」と言いながら、白い皿を置いて見せると、「白い」「皿」「置く」ということばの意味を理解して、手足を動かして同じ動作をすることができる人工知能が入ったロボットが開発されたそうだ。\n今までも人工知能は使われていたが、人のことばや動きから、意味を理解して動くロボットというのは世界で初めてだそうだ。初めに単語や文法を教えておく必要はないし、外国語の学習も可能ということだからまったく驚きだ。"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "岸本小学校バザー開催に向けてのお願い\n岸本小学校では以下のようにバザーを予定しています。\n日時：10月24日（日）10：00～14：00\n場所：岸本小学校グラウンド\nつきましては、バザー開催にあたり地域の方々に品物を提供(注)していただきたいと存じます。衣類・日用品・食料・台所用品・食器・かばんなどを受け付けておりますが、いずれも未使用のものに限らせていただきます。また、勝手ながら家具・電気製品・おもちゃは受け付けておりませんので、ご遠慮ください。\nまた、ご近所でしたら、以下の番号までお電話いただければ、品物を取りにまいります。バザーの売り上げは国際協力団体へ寄付されます。ご協力をお願いいたします。\n電話：003-333-2211（9:00～17:00）\n（岸本小学校バザー係：山田）\n(注) 提供する：自分の持っている物を他の人のために出す"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "言葉というものは、それが無意識のうちに使われれば使われるほど、何か秘された重要な意味を持っているものである。それだからこそ、精神分析学ではふと口をついて出る言葉を、精神分析の大切な手がかり(注1)にしているのだ。日本の古いことわざにも、「言葉は心の使い(注2)」とある。何気なく(注3)口にした言葉であっても、その言葉はその人の心のメッセージであり、正直に本心をつたえているのである。\n（森本哲郎『日本語　表と裏』による）\n(注1) 手がかり：ヒント\n(注2) 心の使い：ここでは、心をつたえるもの\n(注3) 何気なく：深く考えずに無意識に"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "私が親と同居していた頃、既に引退した父が不機嫌になる種があった。それは父宛に届く郵便物の量が、息子である私宛に届く郵便物より少ないことであった。私宛の郵便物といっても大方(注1)がダイレクトメール(注2)で、開封もせずにゴミ箱行きになるものが多かったのだが、それでも父は不機嫌になった。\n届く郵便物の量は、確かにその人の社会的な活動の広さと関係している。たとえ読まれることのないダイレクトメールであっても、それが届くということは、その人が世の中に存在している証拠である。\n（外山知徳『家族の絆をつくる家―失敗しない住まいづくりのための30講』による）\n(注1) 大方：大部分\n(注2) ダイレクトメール：個人に直接送られてくる広告"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "人材の評価や選抜の方式は、社会の根本的な活力を規定する最も重要なファクター(注1)である。しかもその人材の育成には時間がかかる。競争のない社会、公正な評価が通らない組織は、長い目で見れば必ず衰退する(注2)。だからこそ、いつの時代でも、どの組織でも、優秀な人材の獲得に躍起になり(注3)、人材の育成に多大の努力を注ぐとともに、いかに公正な評価のシステムを組み込むのかという点に強い関心を払ってきたのである。\n（猪木武徳『自由と秩序―競争社会の二つの顔』による）\n(注1) ファクター：要素\n(注2) 衰退する：衰える、弱くなる\n(注3) 躍起になる：必死になる"
+    }
+  ],
+  "questions": [
+    {
+      "num": 55,
+      "passage": "p1",
+      "stem": "このロボットが今までのものと違うのはどんな点か。",
+      "options": [
+        "「白い、皿、置く」と言いながら両手で実際に白い皿を置くこと。",
+        "人が言ったり、したりすることを理解して同じように動けること。",
+        "世界で初めて人工知能が用いられたロボットであるということ。",
+        "単語や文法を覚えさせておけば外国語もできるようになる。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điểm khác biệt của robot này so với những robot trước đây là gì? → Nó có thể hiểu lời nói và hành động của con người rồi cử động giống như vậy.",
+        "why": "Bài viết nêu: trước đây cũng đã có trí tuệ nhân tạo, nhưng robot 'hiểu ý nghĩa từ lời nói và cử động của con người rồi chuyển động' thì là lần đầu tiên trên thế giới.",
+        "options": [
+          "Robot không tự nói 「白い、皿、置く」; người nói và làm mẫu. Sai.",
+          "Hiểu lời nói, hành động của người và làm theo. ĐÚNG.",
+          "Bài nói 'trước đây cũng đã dùng trí tuệ nhân tạo' → không phải lần đầu dùng AI. Sai.",
+          "Bài nói 'không cần dạy từ vựng, ngữ pháp trước' → ngược lại. Sai."
+        ],
+        "vocab": [
+          { "w": "人工知能", "r": "じんこうちのう", "hv": "NHÂN CÔNG TRI NĂNG", "vi": "trí tuệ nhân tạo" },
+          { "w": "開発", "r": "かいはつ", "hv": "KHAI PHÁT", "vi": "phát triển, chế tạo" },
+          { "w": "動作", "r": "どうさ", "hv": "ĐỘNG TÁC", "vi": "động tác" }
+        ],
+        "grammar": null,
+        "evidence": "今までも人工知能は使われていたが、人のことばや動きから、意味を理解して動くロボットというのは世界で初めてだそうだ。",
+        "tip": "Câu hỏi 'khác gì so với trước' → tìm câu có 今までも～が、…は世界で初めて."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p2",
+      "stem": "バザーに出せるのはどれか。",
+      "options": [
+        "箱に入った未使用のヘアドライヤーと説明書",
+        "電気ポットと一度だけ使用したコーヒーカップ",
+        "一度しか使っていない新品同様のお皿のセット",
+        "バーゲンセールで買ったが一度も着なかった服"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Thứ nào có thể đem góp cho hội chợ? → Quần áo mua lúc giảm giá nhưng chưa mặc lần nào.",
+        "why": "Điều kiện: chỉ nhận đồ CHƯA SỬ DỤNG (未使用), và không nhận đồ nội thất, đồ điện, đồ chơi. Quần áo (衣類) chưa mặc lần nào thỏa cả hai điều kiện.",
+        "options": [
+          "Máy sấy tóc là đồ điện (電気製品) → không nhận. Sai.",
+          "Ấm điện là đồ điện; cốc đã dùng 1 lần → không nhận. Sai.",
+          "Đĩa 'như mới' nhưng đã dùng 1 lần → không phải 未使用. Sai.",
+          "Quần áo chưa mặc lần nào. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "未使用", "r": "みしよう", "hv": "VỊ SỬ DỤNG", "vi": "chưa sử dụng" },
+          { "w": "提供", "r": "ていきょう", "hv": "ĐỀ CUNG", "vi": "cung cấp, đóng góp" },
+          { "w": "電気製品", "r": "でんきせいひん", "hv": "ĐIỆN KHÍ CHẾ PHẨM", "vi": "đồ điện" },
+          { "w": "寄付", "r": "きふ", "hv": "KÝ PHÓ", "vi": "quyên góp" }
+        ],
+        "grammar": {
+          "pattern": "～に限らせていただきます",
+          "meaning": "xin được giới hạn ở ~ (kính ngữ trong thông báo)",
+          "form": "N + に限らせていただきます",
+          "example": "参加は会員の方に限らせていただきます。"
+        },
+        "evidence": "いずれも未使用のものに限らせていただきます。また、勝手ながら家具・電気製品・おもちゃは受け付けておりませんので、ご遠慮ください。",
+        "tip": "'新品同様' (như mới) ≠ '未使用' (chưa dùng) – bẫy hay gặp."
+      }
+    },
+    {
+      "num": 57,
+      "passage": "p3",
+      "stem": "筆者によると、無意識のうちに使われる言葉はどのようなものか。",
+      "options": ["相手の心につたわるもの", "相手の心を動かすもの", "本当の心を表すもの", "本当の心を秘すもの"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Theo tác giả, lời nói được dùng một cách vô thức là thứ như thế nào? → Thứ thể hiện lòng thật của người nói.",
+        "why": "Câu cuối: lời nói buột ra vô tình chính là thông điệp từ trái tim người đó, truyền đạt thật thà bản tâm (本心).",
+        "options": [
+          "Bài không bàn đến việc truyền tới lòng người nghe. Sai.",
+          "Bài không nói làm lay động người nghe. Sai.",
+          "Thể hiện lòng thật (本心). ĐÚNG.",
+          "Ngược lại: không phải 'che giấu' mà là 'truyền đạt' lòng thật. Sai (bẫy từ 秘された)."
+        ],
+        "vocab": [
+          { "w": "無意識", "r": "むいしき", "hv": "VÔ Ý THỨC", "vi": "vô thức" },
+          { "w": "本心", "r": "ほんしん", "hv": "BẢN TÂM", "vi": "lòng thật, ý thật" },
+          { "w": "秘す", "r": "ひす", "hv": "BÍ", "vi": "giấu kín" },
+          { "w": "精神分析", "r": "せいしんぶんせき", "hv": "TINH THẦN PHÂN TÍCH", "vi": "phân tâm học" }
+        ],
+        "grammar": {
+          "pattern": "～ば～ほど",
+          "meaning": "càng ~ càng ~",
+          "form": "Vば + Vる + ほど",
+          "example": "使われれば使われるほど、重要な意味を持つ。"
+        },
+        "evidence": "何気なく口にした言葉であっても、その言葉はその人の心のメッセージであり、正直に本心をつたえているのである。",
+        "tip": "Đáp án 4 dùng lại chữ 秘 trong bài để gài bẫy; bài nói lời nói 'mang ý nghĩa ẩn giấu' nhưng chức năng là BỘC LỘ lòng thật."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p4",
+      "stem": "筆者である「私」は、なぜ父が不機嫌になったと考えているか。",
+      "options": [
+        "父に届く郵便物が引退してから少なくなって、開封する楽しみが減ったから",
+        "父に届く郵便物が私のより少なくて、存在感が薄れたと父が感じているから",
+        "父に届く郵便物の中身を確認しないで私が勝手に捨ててしまったから",
+        "父に届く郵便物のほとんどが役に立たないものばかりだったから"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tác giả nghĩ vì sao bố trở nên khó chịu? → Vì thư gửi cho bố ít hơn của tôi, bố cảm thấy sự hiện diện của mình mờ nhạt đi.",
+        "why": "Bố khó chịu vì thư gửi bố ÍT HƠN thư gửi con trai. Tác giả giải thích: lượng thư liên quan đến phạm vi hoạt động xã hội, thư đến là bằng chứng mình tồn tại trong xã hội → bố cảm thấy mình bị lãng quên.",
+        "options": [
+          "Bài không nói về niềm vui mở thư. Sai.",
+          "Ít thư hơn con → cảm giác tồn tại mờ nhạt. ĐÚNG.",
+          "Thư bị vứt là thư của 'tôi', không phải của bố. Sai.",
+          "Thư vô dụng (quảng cáo) là thư của 'tôi'. Sai."
+        ],
+        "vocab": [
+          { "w": "不機嫌", "r": "ふきげん", "hv": "BẤT CƠ HIỀM", "vi": "không vui, cáu kỉnh" },
+          { "w": "引退", "r": "いんたい", "hv": "DẪN THOÁI", "vi": "nghỉ hưu, giải nghệ" },
+          { "w": "郵便物", "r": "ゆうびんぶつ", "hv": "BƯU TIỆN VẬT", "vi": "bưu phẩm, thư từ" },
+          { "w": "証拠", "r": "しょうこ", "hv": "CHỨNG CỨ", "vi": "bằng chứng" }
+        ],
+        "grammar": null,
+        "evidence": "それは父宛に届く郵便物の量が、息子である私宛に届く郵便物より少ないことであった。／それが届くということは、その人が世の中に存在している証拠である。",
+        "tip": "種(たね) ở đây = nguyên nhân (不機嫌になる種 = nguyên nhân khiến khó chịu)."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p5",
+      "stem": "筆者は、人材が公正に評価されないと組織はどうなると述べているか。",
+      "options": ["短期間で人材を育てられなくなる。", "優秀な人材を獲得できなくなる。", "組織の活力を維持できなくなる。", "組織への関心が薄くなる。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tác giả nói nếu nhân tài không được đánh giá công bằng thì tổ chức sẽ ra sao? → Không thể duy trì sức sống của tổ chức.",
+        "why": "Bài viết: tổ chức mà sự đánh giá công bằng không được thực hiện thì về lâu dài chắc chắn suy thoái (衰退する = suy yếu) → mất sức sống.",
+        "options": [
+          "Việc đào tạo tốn thời gian là đặc điểm chung, không phải hậu quả. Sai.",
+          "Bài không nói không tuyển được nhân tài. Sai.",
+          "Suy thoái = không duy trì được sức sống. ĐÚNG.",
+          "Không đề cập. Sai."
+        ],
+        "vocab": [
+          { "w": "公正", "r": "こうせい", "hv": "CÔNG CHÍNH", "vi": "công bằng" },
+          { "w": "衰退", "r": "すいたい", "hv": "SUY THOÁI", "vi": "suy thoái" },
+          { "w": "活力", "r": "かつりょく", "hv": "HOẠT LỰC", "vi": "sức sống" },
+          { "w": "人材", "r": "じんざい", "hv": "NHÂN TÀI", "vi": "nhân lực, nhân tài" }
+        ],
+        "grammar": null,
+        "evidence": "競争のない社会、公正な評価が通らない組織は、長い目で見れば必ず衰退する。",
+        "tip": "Đọc kỹ chú thích (注): 衰退する = 衰える、弱くなる → liên hệ với 活力."
+      }
+    }
+  ]
+}

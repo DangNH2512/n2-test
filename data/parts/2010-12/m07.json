@@ -1,0 +1,356 @@
+{
+  "exam": "2010-12",
+  "mondai": 7,
+  "section": "grammar",
+  "instruction": "次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn phương án đúng nhất để điền vào chỗ trống trong câu.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 33,
+      "passage": null,
+      "stem": "休日は混雑が予想されますので、お電話でご予約の（　　）、ご来店ください。",
+      "options": ["あげく", "あまり", "うえ", "ほう"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vì dự kiến ngày nghỉ sẽ đông đúc, xin quý khách vui lòng đặt chỗ qua điện thoại rồi hãy đến cửa hàng.",
+        "why": "「Nの上(で)」 = sau khi làm N rồi mới ~ (làm việc trước như điều kiện cho việc sau). ご予約のうえ、ご来店ください = hãy đặt chỗ trước rồi đến. Cách nói trang trọng hay gặp trong thông báo.",
+        "options": [
+          "あげく: sau một hồi ~ rốt cuộc (kết quả xấu): 迷ったあげく. Không hợp lời mời lịch sự. Sai.",
+          "あまり: vì quá ~ nên (心配のあまり). Sai.",
+          "うえ: ご予約のうえ = đặt chỗ rồi hãy… ĐÚNG.",
+          "ほう: phía, hướng (～のほうが). Không tạo nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "混雑", "r": "こんざつ", "hv": "HỖN TẠP", "vi": "đông đúc, tắc nghẽn" },
+          { "w": "予想", "r": "よそう", "hv": "DỰ TƯỞNG", "vi": "dự đoán" },
+          { "w": "来店", "r": "らいてん", "hv": "LAI ĐIẾM", "vi": "đến cửa hàng" }
+        ],
+        "grammar": {
+          "pattern": "Nの上（で）／Vた上（で）",
+          "meaning": "sau khi ~ rồi mới (làm việc tiếp theo)",
+          "form": "Nの＋上(で)、Vた＋上(で)",
+          "example": "内容をご確認の上、サインしてください。(Xin xác nhận nội dung rồi ký.)"
+        },
+        "tip": "Trong thông báo hay gặp: ご記入の上・ご確認の上・ご予約の上 + ください."
+      }
+    },
+    {
+      "num": 34,
+      "passage": null,
+      "stem": "新作映画について中田一郎監督は、「現実的で（　　）ながらも、詩的な雰囲気を失わないよう意識した。」と語る。",
+      "options": ["あり", "ある", "なり", "なる"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về bộ phim mới, đạo diễn Nakata Ichiro nói: ‘Tôi đã chú ý để phim tuy mang tính hiện thực nhưng vẫn không mất đi không khí thơ mộng.’",
+        "why": "「～ながら(も)」 = tuy ~ nhưng (nghịch tiếp). Nối với tính từ đuôi な dạng 「Naであり＋ながら」 (である → bỏ る thành dạng ます-gốc あり). 現実的でありながらも = tuy hiện thực nhưng.",
+        "options": [
+          "あり: 現実的でありながらも. ĐÚNG.",
+          "ある: ながら nối với gốc ます (あり), không nối với thể từ điển ある. Sai.",
+          "なり: でなりながら không tồn tại. Sai.",
+          "なる: sai cách nối và sai nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "現実的", "r": "げんじつてき", "hv": "HIỆN THỰC ĐÍCH", "vi": "mang tính hiện thực" },
+          { "w": "詩的", "r": "してき", "hv": "THI ĐÍCH", "vi": "thơ mộng, đầy chất thơ" },
+          { "w": "雰囲気", "r": "ふんいき", "hv": "PHÂN VI KHÍ", "vi": "không khí, bầu không khí" },
+          { "w": "監督", "r": "かんとく", "hv": "GIÁM ĐỐC", "vi": "đạo diễn; huấn luyện viên" }
+        ],
+        "grammar": {
+          "pattern": "～ながら（も）",
+          "meaning": "tuy ~ nhưng, mặc dù ~",
+          "form": "Vます(bỏ ます)／Aい／Naであり／Nであり ＋ ながら(も)",
+          "example": "彼は学生でありながら、会社を経営している。(Tuy là sinh viên nhưng anh ấy điều hành công ty.)"
+        },
+        "tip": "Naである → でありながら; Vる → Vます-gốc + ながら (知りながら・残念ながら)."
+      }
+    },
+    {
+      "num": 35,
+      "passage": null,
+      "stem": "A「これまでありがとう。あなたに会えて本当によかった。元気でね。」\nB「そんな、もう一生会えない（　　）言うのはやめてよ。」",
+      "options": ["らしく", "みたいに", "らしいって", "みたいって"],
+      "answer": 2,
+      "explanation": {
+        "translation": "A: ‘Cảm ơn vì tất cả. Gặp được bạn thật tốt. Giữ sức khỏe nhé.’ B: ‘Kìa, đừng nói như thể cả đời không gặp lại nữa chứ.’",
+        "why": "「～みたいに＋V」 = (làm gì đó) như thể ~. B phản đối CÁCH NÓI của A: A nói giống như lời vĩnh biệt. 一生会えないみたいに言う = nói như thể không bao giờ gặp lại.",
+        "options": [
+          "らしく: らしい (đúng kiểu, mang đặc trưng) → 子供らしく; không diễn tả ‘như thể’ được. Sai.",
+          "みたいに: nói như thể ~. ĐÚNG.",
+          "らしいって: ‘nói rằng nghe đâu ~’ → A không hề truyền đạt tin nghe được. Sai.",
+          "みたいって: ‘nói rằng hình như ~’ → A không nói ‘hình như không gặp lại’, chỉ nói giọng như vĩnh biệt. Sai."
+        ],
+        "vocab": [
+          { "w": "一生", "r": "いっしょう", "hv": "NHẤT SINH", "vi": "cả đời" },
+          { "w": "やめる", "r": "やめる", "hv": "", "vi": "thôi, dừng" }
+        ],
+        "grammar": {
+          "pattern": "～みたいに＋V",
+          "meaning": "như thể ~, giống như ~ (so sánh cách thức)",
+          "form": "V普通形／N ＋ みたいに",
+          "example": "子供みたいに泣かないで。(Đừng khóc như con nít thế.)"
+        },
+        "tip": "みたいに là dạng văn nói của ように. 〜って言う = trích dẫn nội dung lời nói, khác với nói ‘theo kiểu’."
+      }
+    },
+    {
+      "num": 36,
+      "passage": null,
+      "stem": "A「昨日、サッカーの試合見に行ったんでしょ？どうだった？」\nB「それが、ミスの連続でね……。（　　）プロの試合とは思えない内容だったよ。」",
+      "options": ["なんて", "仮に", "とても", "二度と"],
+      "answer": 3,
+      "explanation": {
+        "translation": "A: ‘Hôm qua cậu đi xem bóng đá đúng không? Thế nào?’ B: ‘Chuyện là toàn lỗi liên tục... Nội dung trận đấu chẳng thể nào nghĩ là trận chuyên nghiệp được.’",
+        "why": "「とても～ない」 (thường với khả năng phủ định: 思えない・できない) = hoàn toàn không thể ~. とてもプロの試合とは思えない = không thể nào nghĩ đó là trận đấu chuyên nghiệp.",
+        "options": [
+          "なんて: đặt sau từ (～なんて = cái thứ ~), không đứng đầu cụm như phó từ. Sai.",
+          "仮に (かりに): giả sử (đi với ～ても／～としたら). Sai.",
+          "とても: とても～とは思えない = không thể nào nghĩ là. ĐÚNG.",
+          "二度と: không bao giờ ~ lần nữa (二度と行かない), không hợp với 思えない ở đây. Sai."
+        ],
+        "vocab": [
+          { "w": "連続", "r": "れんぞく", "hv": "LIÊN TỤC", "vi": "liên tục, liên tiếp" },
+          { "w": "内容", "r": "ないよう", "hv": "NỘI DUNG", "vi": "nội dung" },
+          { "w": "仮に", "r": "かりに", "hv": "GIẢ", "vi": "giả sử" }
+        ],
+        "grammar": {
+          "pattern": "とても～ない",
+          "meaning": "hoàn toàn không thể ~",
+          "form": "とても ＋ V可能形のない形 (できない・思えない・食べられない)",
+          "example": "こんな量はとても一人では食べられない。(Lượng này một mình thì không thể nào ăn hết.)"
+        },
+        "tip": "とても + khẳng định = rất; とても + phủ định khả năng = không thể nào."
+      }
+    },
+    {
+      "num": 37,
+      "passage": null,
+      "stem": "現在、建設作業はスムーズに進んでいるが、必ずしも最初から順調だった（　　）。",
+      "options": ["に限らない", "必要はない", "にちがいない", "わけではない"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hiện tại công việc xây dựng đang tiến triển suôn sẻ, nhưng không hẳn là đã thuận lợi ngay từ đầu.",
+        "why": "「必ずしも～わけではない」 = không hẳn là ~, không phải lúc nào cũng ~ (phủ định một phần). 必ずしも luôn đi với phủ định một phần như わけではない／とは限らない.",
+        "options": [
+          "に限らない: không chỉ giới hạn ở ~ (Nに限らず). Muốn phủ định một phần phải là ‘とは限らない’, không phải ‘に限らない’. Sai.",
+          "必要はない: không cần ~. Sai nghĩa. Sai.",
+          "にちがいない: chắc chắn là ~ — mâu thuẫn với 必ずしも và với が. Sai.",
+          "わけではない: không hẳn là ~. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "必ずしも", "r": "かならずしも", "hv": "TẤT", "vi": "(không) nhất thiết, (không) hẳn" },
+          { "w": "建設", "r": "けんせつ", "hv": "KIẾN THIẾT", "vi": "xây dựng" },
+          { "w": "順調", "r": "じゅんちょう", "hv": "THUẬN ĐIỀU", "vi": "thuận lợi, suôn sẻ" }
+        ],
+        "grammar": {
+          "pattern": "必ずしも～わけではない",
+          "meaning": "không hẳn là ~, không nhất thiết ~",
+          "form": "必ずしも ＋ 普通形 ＋ わけではない（とは限らない）",
+          "example": "高い物が必ずしもいい物だというわけではない。(Đồ đắt không hẳn là đồ tốt.)"
+        },
+        "tip": "Thấy 必ずしも → tìm ngay わけではない／とは限らない／とはいえない."
+      }
+    },
+    {
+      "num": 38,
+      "passage": null,
+      "stem": "（カメラ店で）\n客「このカメラ直りますか。」\n店員「うん、こんなにひどく壊れていると、（　　）ですね。」",
+      "options": ["直しかねない", "直しようがない", "直してはならない", "直してもかまわない"],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Ở cửa hàng máy ảnh) Khách: ‘Cái máy ảnh này sửa được không?’ Nhân viên: ‘Ừm, hỏng nặng thế này thì không có cách nào sửa được.’",
+        "why": "「Vます＋ようがない」 = không có cách nào để ~ (dù muốn cũng không thể). Hỏng quá nặng → 直しようがない = hết cách sửa.",
+        "options": [
+          "直しかねない: Vかねない = có thể xảy ra (điều xấu) → ‘có khi sửa mất’, vô nghĩa. Sai.",
+          "直しようがない: không có cách sửa. ĐÚNG.",
+          "直してはならない: không được phép sửa (cấm). Sai.",
+          "直してもかまわない: sửa cũng được. Sai."
+        ],
+        "vocab": [
+          { "w": "直す", "r": "なおす", "hv": "TRỰC", "vi": "sửa chữa" },
+          { "w": "壊れる", "r": "こわれる", "hv": "HOẠI", "vi": "bị hỏng, vỡ" }
+        ],
+        "grammar": {
+          "pattern": "Vます＋ようがない",
+          "meaning": "không có cách nào ~, không thể ~",
+          "form": "Vます(bỏ ます)＋ようがない／ようもない",
+          "example": "住所がわからないので、連絡しようがない。(Không biết địa chỉ nên không có cách nào liên lạc.)"
+        },
+        "tip": "Phân biệt: ～かねない (có thể xảy ra điều xấu) vs ～かねる (khó có thể ~, từ chối lịch sự)."
+      }
+    },
+    {
+      "num": 39,
+      "passage": null,
+      "stem": "「このたびは、私どもの商品発送ミスにより、お客様に大変ご迷惑をおかけしましたことを深く（　　）。申し訳ございませんでした。」",
+      "options": ["おわび申し上げます", "おわびいただきます", "わびていただきます", "わびていらっしゃいます"],
+      "answer": 1,
+      "explanation": {
+        "translation": "‘Lần này, do sai sót trong việc gửi hàng của chúng tôi đã gây nhiều phiền phức cho quý khách, chúng tôi xin thành thật xin lỗi sâu sắc. Thật vô cùng xin lỗi.’",
+        "why": "Người xin lỗi là công ty (私ども) → phải dùng khiêm nhường ngữ cho hành động của mình: 「お＋Vます＋申し上げる」. 深くおわび申し上げます là câu xin lỗi trang trọng cố định.",
+        "options": [
+          "おわび申し上げます: (chúng tôi) xin lỗi — khiêm nhường ngữ. ĐÚNG.",
+          "おわびいただきます: ‘được (ai đó) xin lỗi mình’ → người khác xin lỗi mình. Sai.",
+          "わびていただきます: ‘nhờ/bắt (ai đó) xin lỗi’. Sai.",
+          "わびていらっしゃいます: tôn kính ngữ cho hành động của người khác. Sai."
+        ],
+        "vocab": [
+          { "w": "詫びる", "r": "わびる", "hv": "SÁ", "vi": "xin lỗi, tạ lỗi" },
+          { "w": "発送", "r": "はっそう", "hv": "PHÁT TỐNG", "vi": "gửi đi (hàng hóa)" },
+          { "w": "迷惑", "r": "めいわく", "hv": "MÊ HOẶC", "vi": "phiền phức" },
+          { "w": "私ども", "r": "わたくしども", "hv": "TƯ", "vi": "chúng tôi (khiêm nhường)" }
+        ],
+        "grammar": {
+          "pattern": "お＋Vます＋申し上げる",
+          "meaning": "khiêm nhường ngữ (mức cao hơn お～する), dùng cho hành động của mình hướng tới người trên",
+          "form": "お／ご＋Vます(bỏ ます)／N(する)＋申し上げる",
+          "example": "心よりお礼申し上げます。(Xin chân thành cảm ơn.)"
+        },
+        "tip": "Câu cố định: 深くおわび申し上げます・心よりお祝い申し上げます・ご案内申し上げます."
+      }
+    },
+    {
+      "num": 40,
+      "passage": null,
+      "stem": "相手のためと思ってしたことが、実はその人にとって迷惑になっては（　　）。",
+      "options": ["いないでしょうか", "おかないでしょう", "こないでしょう", "みないでしょうか"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều mình làm vì nghĩ là tốt cho đối phương, thực ra chẳng phải đang trở thành phiền phức cho người đó hay sao?",
+        "why": "Gốc là 「迷惑になっている」 (đang trở thành phiền phức) → dạng hỏi phủ định để gợi ý/nêu vấn đề nhẹ nhàng: 「迷惑になってはいないでしょうか」 = chẳng phải đang gây phiền sao? は chen vào giữa て và いない để nhấn mạnh.",
+        "options": [
+          "いないでしょうか: ～てはいないでしょうか = chẳng phải đang ~ sao? ĐÚNG.",
+          "おかないでしょう: ～ておく (làm sẵn) không hợp nghĩa. Sai.",
+          "こないでしょう: ～てくる (biến đổi dần) phủ định, không hợp. Sai.",
+          "みないでしょうか: ～てみる (thử) không hợp nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "相手", "r": "あいて", "hv": "TƯƠNG THỦ", "vi": "đối phương, người kia" },
+          { "w": "迷惑", "r": "めいわく", "hv": "MÊ HOẶC", "vi": "phiền phức" },
+          { "w": "実は", "r": "じつは", "hv": "THỰC", "vi": "thực ra" }
+        ],
+        "grammar": {
+          "pattern": "～てはいないでしょうか",
+          "meaning": "chẳng phải đang ~ sao? (nêu vấn đề, nhắc nhở một cách mềm mỏng)",
+          "form": "Vて＋は＋いないでしょうか",
+          "example": "知らないうちに人を傷つけてはいないでしょうか。(Chẳng phải ta đang vô tình làm tổn thương người khác sao?)"
+        },
+        "tip": "～ないでしょうか dạng phủ định nhưng nghĩa là khẳng định nhẹ nhàng (‘có lẽ là ~’)."
+      }
+    },
+    {
+      "num": 41,
+      "passage": null,
+      "stem": "これは「あお湖」の写真です。この湖は、季節によってさまざまな景色を水面に映して私たちの目を（　　）。",
+      "options": ["楽しんでくれます", "楽しんでもらいます", "楽しませてくれます", "楽しませてもらいます"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đây là ảnh hồ ‘Ao-ko’. Hồ này phản chiếu nhiều cảnh sắc khác nhau trên mặt nước tùy theo mùa, làm vui mắt chúng ta.",
+        "why": "Chủ ngữ là 湖, tân ngữ là 私たちの目 → hồ ‘làm cho’ mắt ta vui → thể sai khiến 楽しませる (目を楽しませる = làm vui mắt). Hành động hồ làm có lợi cho ‘chúng ta’ → ～てくれる.",
+        "options": [
+          "楽しんでくれます: ‘hồ vui chơi cho ta’ — 楽しむ không nhận tân ngữ 目 theo nghĩa này. Sai.",
+          "楽しんでもらいます: ‘nhờ ai vui’, chủ thể sai. Sai.",
+          "楽しませてくれます: (hồ) làm vui mắt chúng ta. ĐÚNG.",
+          "楽しませてもらいます: ‘chúng ta được (ai) cho vui’ → chủ ngữ phải là chúng ta, mâu thuẫn với この湖は. Sai."
+        ],
+        "vocab": [
+          { "w": "湖", "r": "みずうみ", "hv": "HỒ", "vi": "hồ" },
+          { "w": "景色", "r": "けしき", "hv": "CẢNH SẮC", "vi": "cảnh sắc, phong cảnh" },
+          { "w": "水面", "r": "すいめん", "hv": "THỦY DIỆN", "vi": "mặt nước" },
+          { "w": "映す", "r": "うつす", "hv": "ÁNH", "vi": "phản chiếu" }
+        ],
+        "grammar": {
+          "pattern": "Vさせてくれる",
+          "meaning": "(ai/cái gì) làm cho mình ~ (có lợi cho mình)",
+          "form": "V使役て形＋くれる",
+          "example": "彼の話はいつも私たちを笑わせてくれる。(Câu chuyện của anh ấy luôn làm chúng tôi cười.)"
+        },
+        "tip": "目を楽しませる (làm vui mắt), 耳を楽しませる (làm vui tai) là cụm cố định."
+      }
+    },
+    {
+      "num": 42,
+      "passage": null,
+      "stem": "わたしの気持ちは、きっとあなたにはわからないだろうし、あなたに（　　）。",
+      "options": ["わかりたくもない", "わかってほしくもない", "わかりたくはないだろう", "わかってほしくはないだろう"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Cảm xúc của tôi chắc chắn bạn sẽ không hiểu, và tôi cũng chẳng muốn bạn hiểu.",
+        "why": "Chủ thể mong muốn là ‘tôi’ (người nói), người hiểu là ‘あなた’ → 「(あなた)に～てほしい」 = muốn người khác làm. も = ‘cũng (chẳng)’, nối với ～し ở vế trước. → あなたにわかってほしくもない.",
+        "options": [
+          "わかりたくもない: ‘(tôi) cũng chẳng muốn hiểu’ → người hiểu là tôi, không hợp với あなたに. Sai.",
+          "わかってほしくもない: cũng không muốn bạn hiểu. ĐÚNG.",
+          "わかりたくはないだろう: ‘chắc (ai đó) không muốn hiểu’ — sai chủ thể. Sai.",
+          "わかってほしくはないだろう: だろう là phỏng đoán, không dùng cho mong muốn của chính người nói. Sai."
+        ],
+        "vocab": [
+          { "w": "気持ち", "r": "きもち", "hv": "KHÍ TRÌ", "vi": "cảm xúc, tâm trạng" },
+          { "w": "きっと", "r": "きっと", "hv": "", "vi": "chắc chắn" }
+        ],
+        "grammar": {
+          "pattern": "Nに～てほしい",
+          "meaning": "muốn (người khác) làm ~",
+          "form": "人に＋Vて＋ほしい（ほしくない）",
+          "example": "子供にもっと本を読んでほしい。(Tôi muốn con đọc sách nhiều hơn.)"
+        },
+        "tip": "Vたい = bản thân muốn làm; 人にVてほしい = muốn người khác làm. Nhìn trợ từ に để chọn."
+      }
+    },
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "さっきご飯を食べた（　　）、もうおなかがすいてきた。",
+      "options": ["すぐのことだが", "ばかりのことだが", "すぐだというのに", "ばかりだというのに"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vừa mới ăn cơm lúc nãy thế mà đã thấy đói bụng rồi.",
+        "why": "「Vたばかり」 = vừa mới ~ (cảm giác thời gian ngắn). 「～というのに」 = thế mà, vậy mà (ngạc nhiên/bất mãn). → 食べたばかりだというのに = mới ăn xong thế mà.",
+        "options": [
+          "すぐのことだが: không nối được Vた＋すぐ (phải là 食べてすぐ). Sai.",
+          "ばかりのことだが: ‘là chuyện vừa mới’ + が, cách nói không tự nhiên, thiếu sắc thái ‘thế mà’. Sai.",
+          "すぐだというのに: Vた＋すぐ sai ngữ pháp. Sai.",
+          "ばかりだというのに: vừa mới ~ thế mà. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "お腹が空く", "r": "おなかがすく", "hv": "PHÚC KHÔNG", "vi": "đói bụng" },
+          { "w": "さっき", "r": "さっき", "hv": "", "vi": "lúc nãy, vừa nãy" }
+        ],
+        "grammar": {
+          "pattern": "Vたばかりだというのに",
+          "meaning": "vừa mới ~ thế mà (đã…)",
+          "form": "Vた＋ばかり＋だ＋というのに",
+          "example": "買ったばかりだというのに、もう壊れた。(Mới mua thế mà đã hỏng rồi.)"
+        },
+        "tip": "すぐ đi với Vて: 食べてすぐ寝る. ばかり đi với Vた: 食べたばかり."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "大学を決めるときは、自分が本当にその大学に（　　）、じっくり考えることが重要です。",
+      "options": ["行こうかどうか", "行きたいというのは", "行こうというのは", "行きたいのかどうか"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Khi chọn trường đại học, điều quan trọng là suy nghĩ kỹ xem bản thân có thật sự muốn vào trường đó hay không.",
+        "why": "「～のかどうか」 = có ~ hay không (câu hỏi lồng làm tân ngữ cho 考える). 本当に đi với mong muốn 行きたい → 本当に行きたいのかどうか考える = nghĩ xem có thật sự muốn đi không.",
+        "options": [
+          "行こうかどうか: thể ý chí + かどうか thường dùng với 迷う ‘phân vân có đi không’; với 本当に…じっくり考える thì không tự nhiên bằng. Sai.",
+          "行きたいというのは: ‘việc muốn đi thì…’ → chủ đề, không làm tân ngữ cho 考える. Sai.",
+          "行こうというのは: ‘việc định đi thì…’ — sai cấu trúc tương tự. Sai.",
+          "行きたいのかどうか: có thật sự muốn vào hay không. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "じっくり", "r": "じっくり", "hv": "", "vi": "kỹ lưỡng, thong thả" },
+          { "w": "重要", "r": "じゅうよう", "hv": "TRỌNG YẾU", "vi": "quan trọng" }
+        ],
+        "grammar": {
+          "pattern": "～のかどうか",
+          "meaning": "có ~ hay không",
+          "form": "普通形 (Naだ/Nだ→な) ＋のかどうか",
+          "example": "彼が本当に来るのかどうか、わからない。(Không biết anh ấy có thật sự đến hay không.)"
+        },
+        "tip": "Câu hỏi lồng làm tân ngữ cho 考える／わからない／確かめる: ～か(どうか)."
+      }
+    }
+  ]
+}

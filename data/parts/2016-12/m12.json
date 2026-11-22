@@ -1,0 +1,93 @@
+{
+  "exam": "2016-12",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B rồi chọn câu trả lời đúng nhất (đọc so sánh).",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "公立の図書館では、利用者へのサービス向上のために、人気の高い本を複数冊置くことが増えている。本が複数冊あれば、同時に多くの利用者に貸し出せて、予約待ちの期間も短くできる。\nこのような図書館の姿勢に対して、予算は限られているのだから買える本の種類が少なくなってしまうのではないかと心配する声もある。しかし、借りたい本がなかなか借りられない図書館では利用者は満足しないだろう。公立の図書館は、多くの人々に読書のきっかけを与え、本を読む楽しさや喜びを感じてもらうようにする役割を持っている。図書館に同じ本を複数冊置くことは、その役割を果たすための一つの方法だといえる。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "最近公立の図書館では、人気の高い本を複数購入しているそうだ。有名な作家の小説などが対象らしい。流行の本を早く読みたいという利用者の希望に応えようとする図書館の気持ちは理解できる。しかし、どうしても早く読みたければ自分で買えばいいのだから、図書館がそのために多くの予算を使う必要はない。\n税金で運営されている公立図書館の存在意義は、学問的に価値のある本や手に入りにくい本など、さまざまな種類の本を一冊でも多くそろえていることだ。書店にない本でも図書館に行けば読めるというのが本来の姿だろう。同じ本を多く買うことによってその役割が果たせなくなったら、利用者に対するサービスの低下につながるといえる。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 69,
+      "passage": "AB",
+      "stem": "公立図書館が人気のある本を複数冊置くことについて、AとBはどのように述べているか。",
+      "options": [
+        "AもBも、利用者の希望を重視しすぎていると述べている。",
+        "AもBも、利用者へのサービス向上につながると述べている。",
+        "Aは予算が足りなくなると述べ、Bは図書館の存在意義が失われると述べている。",
+        "Aは利用者の満足度が高くなると述べ、Bは予算の使い方として適切でないと述べている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Về việc thư viện công đặt nhiều bản của sách được ưa chuộng, A và B nói thế nào? → A nói mức độ hài lòng của người dùng sẽ tăng, B nói đó không phải cách dùng ngân sách hợp lý.",
+        "why": "A ủng hộ: nhiều bản → cho mượn được nhiều người, thời gian chờ ngắn, thư viện mà không mượn được sách thì người dùng không hài lòng. B phản đối: muốn đọc sớm thì tự mua, thư viện không cần dùng nhiều ngân sách vào việc đó.",
+        "options": [
+          "A không cho là coi trọng quá mức; A ủng hộ. Sai.",
+          "Chỉ A nói vậy; B nói sẽ dẫn đến giảm chất lượng dịch vụ (サービスの低下). Sai.",
+          "\"Thiếu ngân sách\" là ý kiến lo ngại mà A dẫn ra rồi phản bác, không phải quan điểm của A. Sai.",
+          "A: người dùng hài lòng hơn; B: không phải cách dùng ngân sách hợp lý. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "公立", "r": "こうりつ", "hv": "CÔNG LẬP", "vi": "công lập" },
+          { "w": "複数冊", "r": "ふくすうさつ", "hv": "PHỨC SỐ SÁCH", "vi": "nhiều cuốn (cùng đầu sách)" },
+          { "w": "予算", "r": "よさん", "hv": "DỰ TOÁN", "vi": "ngân sách" },
+          { "w": "貸し出す", "r": "かしだす", "hv": "THẢI XUẤT", "vi": "cho mượn" }
+        ],
+        "grammar": {
+          "pattern": "〜に対して",
+          "meaning": "đối với ~ (hướng tới, phản ứng lại)",
+          "form": "N + に対して",
+          "example": "この意見に対して、反対する人も多い。"
+        },
+        "evidence": "A：借りたい本がなかなか借りられない図書館では利用者は満足しないだろう。／B：どうしても早く読みたければ自分で買えばいいのだから、図書館がそのために多くの予算を使う必要はない。",
+        "tip": "Trong A, 〜と心配する声もある。しかし… → ý kiến bị phản bác, không phải quan điểm tác giả A."
+      }
+    },
+    {
+      "num": 70,
+      "passage": "AB",
+      "stem": "公立図書館の役割について、AとBはどのように述べているか。",
+      "options": [
+        "AもBも、利用者の教養を高めることだと述べている。",
+        "AもBも、読書が好きな人を増やすことだと述べている。",
+        "Aは利用者に読書に親しんでもらうことだと述べ、Bは貸し出す本の多様性を確保することだと述べている。",
+        "Aは利用者が読書を楽しめる環境を作ることだと述べ、Bは書店よりも新しい本をそろえることだと述べている。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về vai trò của thư viện công, A và B nói thế nào? → A nói là giúp người dùng gần gũi với việc đọc sách, B nói là bảo đảm sự đa dạng của sách cho mượn.",
+        "why": "A: thư viện có vai trò tạo cơ hội đọc sách, giúp nhiều người cảm nhận niềm vui đọc sách (= 読書に親しむ). B: ý nghĩa tồn tại là có càng nhiều loại sách khác nhau càng tốt (= đa dạng sách).",
+        "options": [
+          "Không ai nói nâng cao trình độ hiểu biết (教養). Sai.",
+          "B không nói vậy; B nói về sự đa dạng sách. Sai.",
+          "A: giúp gần gũi việc đọc; B: bảo đảm đa dạng sách. ĐÚNG.",
+          "Vế A gần đúng nhưng B không nói \"sách mới hơn hiệu sách\"; B nói có cả sách hiệu sách không có. Sai."
+        ],
+        "vocab": [
+          { "w": "役割", "r": "やくわり", "hv": "DỊCH CÁT", "vi": "vai trò" },
+          { "w": "存在意義", "r": "そんざいいぎ", "hv": "TỒN TẠI Ý NGHĨA", "vi": "ý nghĩa tồn tại" },
+          { "w": "多様性", "r": "たようせい", "hv": "ĐA DẠNG TÍNH", "vi": "tính đa dạng" },
+          { "w": "親しむ", "r": "したしむ", "hv": "THÂN", "vi": "gần gũi, quen thuộc" }
+        ],
+        "grammar": {
+          "pattern": "〜てもらうようにする",
+          "meaning": "làm sao để (người khác) ~",
+          "form": "Vて + もらう + ようにする",
+          "example": "子どもに野菜を好きになってもらうようにしている。"
+        },
+        "evidence": "A：公立の図書館は、多くの人々に読書のきっかけを与え、本を読む楽しさや喜びを感じてもらうようにする役割を持っている。／B：公立図書館の存在意義は、学問的に価値のある本や手に入りにくい本など、さまざまな種類の本を一冊でも多くそろえていることだ。",
+        "tip": "Câu hỏi A/B: kiểm tra từng vế; chỉ cần sai một vế là loại."
+      }
+    }
+  ]
+}

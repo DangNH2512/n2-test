@@ -1,0 +1,135 @@
+{
+  "exam": "2012-07",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "これは水をきれいにする<u>装置</u>です。",
+      "options": ["しょち", "しょうち", "そち", "そうち"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đây là thiết bị làm sạch nước.",
+        "why": "装置 đọc là そうち (TRANG TRÍ) = thiết bị, máy móc. 装 âm On là そう (trường âm), 置 là ち.",
+        "options": [
+          "しょち → 処置: xử lý, sơ cứu. Sai.",
+          "しょうち → 承知: biết, đồng ý. Sai.",
+          "そち → 措置: biện pháp. Sai.",
+          "そうち → 装置: thiết bị. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "装置", "r": "そうち", "hv": "TRANG TRÍ", "vi": "thiết bị, máy móc" },
+          { "w": "措置", "r": "そち", "hv": "THỐ TRÍ", "vi": "biện pháp" },
+          { "w": "処置", "r": "しょち", "hv": "XỬ TRÍ", "vi": "xử lý, sơ cứu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "装 luôn có trường âm: 装置(そうち), 服装(ふくそう), 包装(ほうそう). Đừng nhầm với 措置(そち)."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "この店の客は女性が80%を<u>占める</u>。",
+      "options": ["しめる", "つめる", "せめる", "うめる"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Khách của cửa hàng này thì nữ giới chiếm 80%.",
+        "why": "占める đọc là しめる (CHIẾM) = chiếm (tỉ lệ, vị trí). Cấu trúc 「～を占める」 rất hay dùng với phần trăm.",
+        "options": [
+          "しめる → 占める: chiếm. ĐÚNG.",
+          "つめる → 詰める: nhồi, nhét. Sai.",
+          "せめる → 責める: trách móc / 攻める: tấn công. Sai.",
+          "うめる → 埋める: chôn, lấp. Sai."
+        ],
+        "vocab": [
+          { "w": "占める", "r": "しめる", "hv": "CHIẾM", "vi": "chiếm (tỉ lệ, vị trí)" },
+          { "w": "詰める", "r": "つめる", "hv": "CẬT", "vi": "nhồi, nhét" },
+          { "w": "埋める", "r": "うめる", "hv": "MAI", "vi": "chôn, lấp đầy" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "占う(うらなう) = bói toán cũng dùng chữ 占. 独占(どくせん) = độc chiếm."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "間違って、大事なメールを<u>削除</u>してしまった。",
+      "options": ["しょうじ", "しょうじょ", "さくじ", "さくじょ"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi đã lỡ tay xóa mất email quan trọng.",
+        "why": "削除 đọc là さくじょ (TƯỚC TRỪ) = xóa bỏ. 削 = さく, 除 = じょ (như 掃除 そうじ là ngoại lệ).",
+        "options": [
+          "しょうじ → không phải cách đọc của 削除 (しょうじ = 障子: cửa giấy). Sai.",
+          "しょうじょ → 少女: thiếu nữ. Sai.",
+          "さくじ → không có từ này. Sai.",
+          "さくじょ → 削除: xóa. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "削除", "r": "さくじょ", "hv": "TƯỚC TRỪ", "vi": "xóa bỏ" },
+          { "w": "間違う", "r": "まちがう", "hv": "GIAN VI", "vi": "nhầm, sai" },
+          { "w": "削る", "r": "けずる", "hv": "TƯỚC", "vi": "gọt, cắt giảm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "除 thường đọc じょ: 除外(じょがい), 解除(かいじょ); riêng 掃除 đọc そうじ."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "今回の国際会議では人口問題が議論の<u>焦点</u>になった。",
+      "options": ["しょうてん", "しゅうてん", "じょうてん", "じゅうてん"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tại hội nghị quốc tế lần này, vấn đề dân số đã trở thành tiêu điểm của cuộc thảo luận.",
+        "why": "焦点 đọc là しょうてん (TIÊU ĐIỂM) = trọng tâm, tiêu điểm. 焦 = しょう (không đục).",
+        "options": [
+          "しょうてん → 焦点: tiêu điểm. ĐÚNG.",
+          "しゅうてん → 終点: ga cuối. Sai.",
+          "じょうてん → không có từ này. Sai.",
+          "じゅうてん → 重点: trọng điểm. Sai (nghĩa gần nhưng là chữ khác)."
+        ],
+        "vocab": [
+          { "w": "焦点", "r": "しょうてん", "hv": "TIÊU ĐIỂM", "vi": "tiêu điểm, trọng tâm" },
+          { "w": "議論", "r": "ぎろん", "hv": "NGHỊ LUẬN", "vi": "thảo luận, tranh luận" },
+          { "w": "焦る", "r": "あせる", "hv": "TIÊU", "vi": "sốt ruột, vội vàng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "焦げる(こげる) = cháy khét, 焦る(あせる) = sốt ruột; âm On là しょう."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "最近は、「就職活動」を<u>略して</u>「就活」と言うことがある。",
+      "options": ["やくして", "かくして", "りゃくして", "きゃくして"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Gần đây, người ta hay gọi tắt 「就職活動」 (hoạt động tìm việc) là 「就活」.",
+        "why": "略す đọc là りゃくす (LƯỢC) = viết tắt, lược bớt. 略して = りゃくして.",
+        "options": [
+          "やくして → 訳して: dịch / 約して: hẹn. Sai.",
+          "かくして → 隠して: giấu. Sai.",
+          "りゃくして → 略して: viết tắt. ĐÚNG.",
+          "きゃくして → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "略す", "r": "りゃくす", "hv": "LƯỢC", "vi": "viết tắt, lược bớt" },
+          { "w": "省略", "r": "しょうりゃく", "hv": "TỈNH LƯỢC", "vi": "lược bỏ" },
+          { "w": "就職活動", "r": "しゅうしょくかつどう", "hv": "TỰU CHỨC HOẠT ĐỘNG", "vi": "hoạt động tìm việc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "略 = りゃく: 省略(しょうりゃく), 略語(りゃくご) = từ viết tắt."
+      }
+    }
+  ]
+}

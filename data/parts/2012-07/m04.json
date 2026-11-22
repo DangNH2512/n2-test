@@ -1,0 +1,190 @@
+{
+  "exam": "2012-07",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "子どもが遊んだあとは、おもちゃが（　　）いる。",
+      "options": ["飛び越えて", "散らかって", "見わたして", "落ち込んで"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Sau khi bọn trẻ chơi xong, đồ chơi vương vãi khắp nơi.",
+        "why": "散らかる (TÁN) = bừa bộn, vương vãi (tự động từ). 「おもちゃが散らかっている」 = đồ chơi bị bày bừa.",
+        "options": [
+          "飛び越えて → 飛び越える: nhảy qua. Sai.",
+          "散らかって → 散らかる: bừa bộn, vương vãi. ĐÚNG.",
+          "見わたして → 見渡す: nhìn bao quát. Sai.",
+          "落ち込んで → 落ち込む: buồn chán, suy sụp. Sai."
+        ],
+        "vocab": [
+          { "w": "散らかる", "r": "ちらかる", "hv": "TÁN", "vi": "bừa bộn, vương vãi" },
+          { "w": "散らかす", "r": "ちらかす", "hv": "TÁN", "vi": "bày bừa (tha động từ)" },
+          { "w": "見渡す", "r": "みわたす", "hv": "KIẾN ĐỘ", "vi": "nhìn bao quát" },
+          { "w": "落ち込む", "r": "おちこむ", "hv": "LẠC", "vi": "suy sụp, buồn chán" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "部屋が散らかっている (phòng bừa bộn) ⇔ 部屋を片付ける (dọn phòng)."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "田中選手はサッカーの日本代表に選ばれたが、けがを理由に代表を（　　）した。",
+      "options": ["避難", "逃避", "退場", "辞退"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Cầu thủ Tanaka đã được chọn vào đội tuyển Nhật Bản nhưng đã từ chối (rút lui) vì chấn thương.",
+        "why": "辞退(じたい) = từ chối, khước từ (một vị trí, quyền lợi được trao). 「代表を辞退する」 = từ chối vị trí đội tuyển.",
+        "options": [
+          "避難 → ひなん: lánh nạn. Sai.",
+          "逃避 → とうひ: trốn tránh (hiện thực). Sai.",
+          "退場 → たいじょう: rời sân, rời khỏi hội trường. Sai (không đi với 代表を).",
+          "辞退 → じたい: từ chối, rút lui. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "辞退", "r": "じたい", "hv": "TỪ THOÁI", "vi": "từ chối, khước từ" },
+          { "w": "代表", "r": "だいひょう", "hv": "ĐẠI BIỂU", "vi": "đại diện, đội tuyển" },
+          { "w": "退場", "r": "たいじょう", "hv": "THOÁI TRƯỜNG", "vi": "rời sân" },
+          { "w": "避難", "r": "ひなん", "hv": "TỊ NẠN", "vi": "lánh nạn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Hay gặp: 出場を辞退する, 受賞を辞退する, 内定を辞退する."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "今回の調査で（　　）結果は、今後のサービス向上に生かしていきたい。",
+      "options": ["にぎった", "はさんだ", "得た", "込めた"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Kết quả thu được từ cuộc khảo sát lần này, chúng tôi muốn tận dụng vào việc nâng cao dịch vụ sau này.",
+        "why": "結果を得る(える) = thu được kết quả. 「調査で得た結果」 = kết quả thu được qua khảo sát.",
+        "options": [
+          "にぎった → 握る: nắm chặt. Sai.",
+          "はさんだ → 挟む: kẹp. Sai.",
+          "得た → 得る: đạt được, thu được. ĐÚNG.",
+          "込めた → 込める: dồn (tâm huyết) vào. Sai."
+        ],
+        "vocab": [
+          { "w": "得る", "r": "える", "hv": "ĐẮC", "vi": "đạt được, thu được" },
+          { "w": "向上", "r": "こうじょう", "hv": "HƯỚNG THƯỢNG", "vi": "nâng cao, cải thiện" },
+          { "w": "生かす", "r": "いかす", "hv": "SINH", "vi": "tận dụng, phát huy" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "心を込める = dồn hết tâm huyết; 結果/情報/許可を得る = nhận được."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "大きな荷物を（　　）いたので、携帯電話に出られなかった。",
+      "options": ["だいて", "いだいて", "かかえて", "だきしめて"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vì đang ôm đồ đạc lớn nên tôi không thể nghe điện thoại.",
+        "why": "抱える(かかえる) = ôm, mang (vật lớn) bằng hai tay/trong vòng tay. 「荷物を抱える」 là kết hợp tự nhiên.",
+        "options": [
+          "だいて → 抱く: ôm (người, con vật) vào lòng. Không dùng cho hành lý. Sai.",
+          "いだいて → 抱く(いだく): ôm ấp (hy vọng, nghi ngờ) – trừu tượng. Sai.",
+          "かかえて → 抱える: ôm, khuân. ĐÚNG.",
+          "だきしめて → 抱きしめる: ôm chặt (người). Sai."
+        ],
+        "vocab": [
+          { "w": "抱える", "r": "かかえる", "hv": "BÃO", "vi": "ôm, khuân; gánh (vấn đề)" },
+          { "w": "抱く", "r": "だく／いだく", "hv": "BÃO", "vi": "ôm (người) / ôm ấp (tình cảm)" },
+          { "w": "荷物", "r": "にもつ", "hv": "HÀ VẬT", "vi": "hành lý, đồ đạc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "抱える còn dùng nghĩa bóng: 問題を抱える = ôm vấn đề, gặp khó khăn."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "法律が（　　）されて、申請方法が以前とは大幅に変わりました。",
+      "options": ["改正", "改造", "転換", "交換"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Luật đã được sửa đổi nên cách nộp đơn đã thay đổi nhiều so với trước.",
+        "why": "改正(かいせい) = sửa đổi (luật, quy định) cho đúng/phù hợp hơn. 「法律を改正する」 là kết hợp cố định.",
+        "options": [
+          "改正 → sửa đổi luật, quy định. ĐÚNG.",
+          "改造 → かいぞう: cải tạo (nhà, máy móc). Sai.",
+          "転換 → てんかん: chuyển đổi (phương hướng, khí sắc). Sai.",
+          "交換 → こうかん: trao đổi, đổi. Sai."
+        ],
+        "vocab": [
+          { "w": "改正", "r": "かいせい", "hv": "CẢI CHÍNH", "vi": "sửa đổi (luật)" },
+          { "w": "申請", "r": "しんせい", "hv": "THÂN THỈNH", "vi": "xin phép, nộp đơn" },
+          { "w": "大幅", "r": "おおはば", "hv": "ĐẠI PHÚC", "vi": "lớn, đáng kể" },
+          { "w": "改造", "r": "かいぞう", "hv": "CẢI TẠO", "vi": "cải tạo" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "法律・規則・ダイヤ(lịch tàu) → 改正; 建物・車 → 改造."
+      }
+    },
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "読書に（　　）なっていて、友達との約束の時間を忘れていた。",
+      "options": ["好調に", "夢中に", "頑固に", "強引に"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi mải mê đọc sách đến nỗi quên mất giờ hẹn với bạn.",
+        "why": "「～に夢中になる」 = say mê, mải mê ~ đến quên mọi thứ. Phù hợp với việc quên giờ hẹn.",
+        "options": [
+          "好調に → こうちょう: thuận lợi, phong độ tốt. Sai.",
+          "夢中に → むちゅう: say mê. ĐÚNG.",
+          "頑固に → がんこ: cứng đầu, ương bướng. Sai.",
+          "強引に → ごういん: cưỡng ép, ép buộc. Sai."
+        ],
+        "vocab": [
+          { "w": "夢中", "r": "むちゅう", "hv": "MỘNG TRUNG", "vi": "say mê, mải mê" },
+          { "w": "頑固", "r": "がんこ", "hv": "NGOAN CỐ", "vi": "cứng đầu" },
+          { "w": "強引", "r": "ごういん", "hv": "CƯỜNG DẪN", "vi": "cưỡng ép" },
+          { "w": "好調", "r": "こうちょう", "hv": "HẢO ĐIỀU", "vi": "thuận lợi, phong độ tốt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Mẫu cố định: N に夢中になる (ゲームに夢中になる)."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "目が覚めたが、まだ時間が早かったので、しばらくベッドで（　　）していた。",
+      "options": ["ごろごろ", "ぶらぶら", "ゆらゆら", "うろうろ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đã tỉnh giấc nhưng vì còn sớm nên nằm lăn lóc trên giường một lúc.",
+        "why": "ごろごろする = nằm ườn, lăn lóc không làm gì (ở nhà, trên giường).",
+        "options": [
+          "ごろごろ → nằm ườn, lăn qua lăn lại. ĐÚNG.",
+          "ぶらぶら → đi dạo lang thang; ăn không ngồi rồi. Sai (không dùng 'trên giường').",
+          "ゆらゆら → đung đưa, lắc lư nhẹ. Sai.",
+          "うろうろ → đi tới đi lui, lảng vảng. Sai."
+        ],
+        "vocab": [
+          { "w": "ごろごろ", "r": "ごろごろ", "hv": "", "vi": "nằm ườn, lăn lóc" },
+          { "w": "ぶらぶら", "r": "ぶらぶら", "hv": "", "vi": "đi lang thang, nhàn rỗi" },
+          { "w": "うろうろ", "r": "うろうろ", "hv": "", "vi": "lảng vảng, đi tới đi lui" },
+          { "w": "目が覚める", "r": "めがさめる", "hv": "", "vi": "tỉnh giấc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "休みの日は家でごろごろする = ngày nghỉ nằm ườn ở nhà."
+      }
+    }
+  ]
+}

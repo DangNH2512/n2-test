@@ -1,0 +1,135 @@
+{
+  "exam": "2019-12",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "この仕事はとても<u>ハード</u>だ。",
+      "options": ["楽しい", "簡単だ", "大変だ", "新しい"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Công việc này rất vất vả (nặng nhọc).",
+        "why": "ハード (hard) = vất vả, khắc nghiệt, nặng nhọc ≈ 大変だ.",
+        "options": [
+          "楽しい → vui. Sai.",
+          "簡単だ → đơn giản (ngược nghĩa). Sai.",
+          "大変だ → vất vả, khó khăn. ĐÚNG.",
+          "新しい → mới. Sai."
+        ],
+        "vocab": [
+          { "w": "ハード", "r": "ハード", "hv": "", "vi": "vất vả, nặng nhọc (hard)" },
+          { "w": "大変", "r": "たいへん", "hv": "ĐẠI BIẾN", "vi": "vất vả, gay go" },
+          { "w": "簡単", "r": "かんたん", "hv": "GIẢN ĐƠN", "vi": "đơn giản" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ハードな仕事/スケジュール = công việc/lịch trình dày đặc, vất vả."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "その話を聞いて<u>動揺</u>した。",
+      "options": ["うれしくなった", "不安になった", "不満に思った", "面白いと思った"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Nghe chuyện đó tôi đã bị dao động (bất an).",
+        "why": "動揺する = tâm lý bị xáo động, mất bình tĩnh, lo lắng ≈ 不安になった.",
+        "options": [
+          "うれしくなった → trở nên vui. Sai.",
+          "不安になった → trở nên bất an, lo lắng. ĐÚNG.",
+          "不満に思った → thấy bất mãn. Sai.",
+          "面白いと思った → thấy thú vị. Sai."
+        ],
+        "vocab": [
+          { "w": "動揺", "r": "どうよう", "hv": "ĐỘNG DAO", "vi": "dao động, xáo động tâm lý" },
+          { "w": "不安", "r": "ふあん", "hv": "BẤT AN", "vi": "bất an, lo lắng" },
+          { "w": "不満", "r": "ふまん", "hv": "BẤT MÃN", "vi": "bất mãn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đừng nhầm 動揺 (どうよう: dao động) với 童謡 (どうよう: đồng dao)."
+      }
+    },
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "早く<u>引き返した</u>ほうがいい。",
+      "options": ["払った", "直した", "戻った", "答えた"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nên sớm quay lại (quay đầu trở về) thì hơn.",
+        "why": "引き返す = quay trở lại (nơi xuất phát, giữa đường) ≈ 戻る.",
+        "options": [
+          "払った → trả tiền. Sai.",
+          "直した → sửa. Sai.",
+          "戻った → quay lại. ĐÚNG.",
+          "答えた → trả lời. Sai."
+        ],
+        "vocab": [
+          { "w": "引き返す", "r": "ひきかえす", "hv": "DẪN PHẢN", "vi": "quay trở lại" },
+          { "w": "戻る", "r": "もどる", "hv": "LỆ", "vi": "quay lại, trở về" },
+          { "w": "直す", "r": "なおす", "hv": "TRỰC", "vi": "sửa chữa" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "引き返す thường dùng khi đang đi giữa chừng thì quay đầu: 天気が悪くなったので山から引き返した."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "機能を<u>一層</u>強化したい。",
+      "options": ["すぐに", "少し", "できるだけ", "もっと"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi muốn tăng cường chức năng hơn nữa.",
+        "why": "一層 (いっそう) = hơn nữa, càng thêm ≈ もっと／さらに.",
+        "options": [
+          "すぐに → ngay lập tức. Sai.",
+          "少し → một chút. Sai.",
+          "できるだけ → trong khả năng có thể. Sai.",
+          "もっと → hơn nữa. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "一層", "r": "いっそう", "hv": "NHẤT TẦNG", "vi": "hơn nữa, càng thêm" },
+          { "w": "機能", "r": "きのう", "hv": "CƠ NĂNG", "vi": "chức năng" },
+          { "w": "強化", "r": "きょうか", "hv": "CƯỜNG HÓA", "vi": "tăng cường" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhóm đồng nghĩa: 一層 ＝ さらに ＝ もっと ＝ より一層."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "急にひどい頭痛がしてきたので、<u>かかりつけ</u>の病院に行った。",
+      "options": ["いつも行く", "休日も開いている", "近くの", "専門の"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Vì đột nhiên bị đau đầu dữ dội nên tôi đã đến bệnh viện quen (nơi tôi vẫn hay khám).",
+        "why": "かかりつけ(の医者/病院) = bác sĩ/phòng khám mình thường xuyên khám, quen thuộc ≈ いつも行く.",
+        "options": [
+          "いつも行く → nơi vẫn thường đến. ĐÚNG.",
+          "休日も開いている → mở cửa cả ngày nghỉ. Sai.",
+          "近くの → ở gần. Sai (かかりつけ không nhất thiết ở gần).",
+          "専門の → chuyên khoa. Sai."
+        ],
+        "vocab": [
+          { "w": "かかりつけ", "r": "かかりつけ", "hv": "", "vi": "(bác sĩ, bệnh viện) quen, thường khám" },
+          { "w": "頭痛", "r": "ずつう", "hv": "ĐẦU THỐNG", "vi": "đau đầu" },
+          { "w": "専門", "r": "せんもん", "hv": "CHUYÊN MÔN", "vi": "chuyên môn, chuyên khoa" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "かかりつけ ← 医者にかかる (đi khám bác sĩ) + 付ける (thói quen) → nơi quen khám."
+      }
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "exam": "2012-12",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（1）から（3）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn trung bình (1)–(3) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "従来（注1）の会議では、一番地位の高い人が自動的に司会ないし（注2）議長の役もする傾向があった。\n（中略）\n「いい会議」をもつためには十分な準備が必要である。トップにそんな時間があるはずはない。したがって、自分で準備をして会議を運営するよりも、他の人に任せる選択をすべきである。トップは、あまりたくさんのことをやりすぎてはいけない。全部をやろうとすることは、すべてがうまく運べないことにつながりかねないから。しかし、自分が一番情報をもっている場合が多いので、最初の段階で他の出席者に必要な情報を伝える義務はある。また、決定されたことを受け入れるためには、自分も積極的に参加して言うべきことは言っておく必要がある。トップの姿勢次第で、他の出席者は積極的に参加することもあれば、本音（注3）を言えずにただそこに座っているだけで、かつ（注4）不満を心の中にしまい込んでおく参加の仕方になってしまう場合もある。その意味でトップがどのように参加するかは、会議の成否（注5）を決める決定的な（注6）要因の一つである。\nあとは、進行役に任せることが大切で、基本的には、トップの存在感が薄いほど他の出席者は積極的に参加する。その方が普段は聞けないたくさんの意見やアイディアを聞くチャンスを得られることにもなるし、会議に参加して本当によかったと誰もが思えるようになるのである。\n（吉田新一郎『会議の技法』による）\n（注1）従来：今まで\n（注2）ないし：または\n（注3）本音：本当に思っていること\n（注4）かつ：そのうえ\n（注5）成否：うまくいくかいかないか\n（注6）決定的な：ここでは、重要な"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "1959年は板ガラス製造において記念すべき年である。この年、ある画期的（注1）な板ガラス製造法の実用化に成功した。この製造法の発明から実用化までは、苦難の道であり7年の年月がかかったが、この方法によって、表面に輝きがあり、平らでゆがみのない（注2）板ガラスを連続的に低コストで作ることができるようになったのである。\nガラスが窓に使われ始めたのは今から2000年以上前のことで、初期の板ガラスは、分厚く、泡を多く含み、表面に傷がたくさんある粗末な品質のものだった。4世紀ごろになると、表面に輝きがある薄い板ガラスの製造法が発明されたが、作れる板ガラスの大きさには限りがあった。その後、より大きな板ガラスの製造法も発明されたが、この製造法においてもゆがみをなくすことはできなかった。それだけでなく①<u>後戻りをしてしまった点</u>もある。溶かしたガラスを手作業で平らにしたため、表面に輝きがなかったのである。磨くことで輝きを出すことは可能だったが、特別な技術が必要で、手間も費用もかかった。\nこのように、板ガラスの歴史を通じて多くの製造法が発明されたが、いずれもどこかに問題点を抱えていた。それらが一気に解決され、高品質の板ガラスを大量生産することが可能になったのが1959年なのである。1960年代の日本は自動車の普及が進み、同時に安全性の向上が求められていた時期である。②<u>この成功</u>があって初めて、これらの需要にこたえることが可能だったと言えるだろう。\n（注1）画期的：今までと大きく異なる、新しい\n（注2）ゆがみのない：ここでは、凸凹のない"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "数年前、家を引っ越した。50年住み慣れた小さな家だったが、いざ引っ越しとなると、使っていない道具がごろごろ出てきて、あらためてものの多さにびっくりした。道具にしろ、本にしろずいぶん多量に所有していて、これを使いこなし（注1）、読みつくす（注2）には多量の時間がかかる。あと何年生きられるだろうと人生を逆算してみて、①<u>この物量はムダだなぁ</u>と引っ越しのトラックの助手席で考えた。\n私は世間の人よりはものの所有欲が強いとは思っていない。むしろものをもたないほうと思っているが、それでもものが多過ぎるのである。\n昔、「預かりものの思想」と言った人がいる。人はぽつんと生まれて、ぷつんと消えていく。家や土地、道具にしても、いくら自分の所有だと力んでみても、死んでしまえばもっていけない。いずれは世の中に返していかなければならない。このわずかな人生の時間の中で、②<u>それ</u>を楽しむしかないのだ。空気や水と同じように、土地も家も道具も、あらゆる諸物は世の中から預かって、生きている間だけ借りているのだという考えだった。\nたしかに、私たちはものへの所有欲が強い。車をもつ、家をもつ、高級ブランド品をもつ、携帯電話をもつ、コンピューターをもつ、所有することで満足感を得ている。しかし、所有欲をふくらませるには、どこかで限界があるだろう。\n「預かりものの思想」は、そういう物欲にかられる（注3）私たちに冷水をかける思想だった。\n（野外活動研究会『目からウロコの日常物観察――無用物から転用物まで』による）\n（注1）使いこなす：ここでは、すべて使う\n（注2）読みつくす：すべて読む\n（注3）物欲にかられる：物欲を抑えられなくなる"
+    }
+  ],
+  "questions": [
+    {
+      "num": 60,
+      "passage": "p1",
+      "stem": "一番地位の高い人が会議で議長役をすることについて、筆者はどのように考えているか。",
+      "options": [
+        "他の出席者にも議長役を経験させるために、自分ではしない方がよい。",
+        "会議の出席者に必要な情報を伝えるためには、自分でした方がよい。",
+        "出席者の中で一番情報をもっているため、自分でした方がよい。",
+        "会議のスムーズな運営のためには、自分ではしない方がよい。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Về việc người có địa vị cao nhất làm chủ tọa cuộc họp, tác giả nghĩ thế nào? → Để cuộc họp vận hành trơn tru, không nên tự mình làm.",
+        "why": "Họp tốt cần chuẩn bị kỹ, người đứng đầu không có thời gian → nên giao cho người khác; làm hết mọi việc dễ dẫn đến mọi thứ không suôn sẻ → không tự làm chủ tọa để cuộc họp vận hành tốt.",
+        "options": [
+          "Để người khác 'có kinh nghiệm làm chủ tọa' → bài không nêu lý do này. Sai.",
+          "Truyền thông tin là nghĩa vụ của top, nhưng không cần làm chủ tọa. Sai.",
+          "Có nhiều thông tin nhất → chỉ là lý do để truyền đạt thông tin ban đầu, không phải để làm chủ tọa. Sai.",
+          "Để vận hành trơn tru, không nên tự làm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "議長", "r": "ぎちょう", "hv": "NGHỊ TRƯỞNG", "vi": "chủ tọa" },
+          { "w": "司会", "r": "しかい", "hv": "TƯ HỘI", "vi": "người dẫn chương trình, chủ trì" },
+          { "w": "運営", "r": "うんえい", "hv": "VẬN DOANH", "vi": "điều hành, vận hành" },
+          { "w": "〜かねない", "r": "かねない", "hv": "", "vi": "có thể dẫn đến (điều xấu)" }
+        ],
+        "grammar": {
+          "pattern": "〜かねない",
+          "meaning": "có khả năng (điều xấu) xảy ra",
+          "form": "Vます(bỏ ます) + かねない",
+          "example": "そんな運転をしたら、事故を起こしかねない。"
+        },
+        "evidence": "自分で準備をして会議を運営するよりも、他の人に任せる選択をすべきである。…全部をやろうとすることは、すべてがうまく運べないことにつながりかねないから。",
+        "tip": "Gặp したがって／〜べきである → đó là chủ kiến tác giả."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p1",
+      "stem": "会議中にトップがしなければならないことは何か。",
+      "options": [
+        "必要な情報を先に伝えて、自分の考えを述べること。",
+        "参加者が不満をもたないよう、十分情報を伝えること。",
+        "多くのアイディアを提案して、参加者の意見を求めること。",
+        "他の出席者が積極的に参加できるよう、発言を避けること。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Trong cuộc họp, người đứng đầu phải làm gì? → Truyền đạt trước thông tin cần thiết và nêu ý kiến của mình.",
+        "why": "Bài nêu 2 việc: (1) ở giai đoạn đầu có nghĩa vụ truyền thông tin cần thiết cho người dự; (2) để chấp nhận quyết định, bản thân cũng phải tham gia tích cực và nói điều cần nói → phương án 1.",
+        "options": [
+          "Truyền trước thông tin cần thiết + nêu ý kiến. ĐÚNG.",
+          "'Để không ai bất mãn' → bất mãn liên quan đến thái độ của top, không phải lượng thông tin. Sai.",
+          "Đề xuất nhiều ý tưởng → bài nói nghe ý tưởng của người khác, không phải top đề xuất. Sai.",
+          "Tránh phát biểu → bài nói 言うべきことは言っておく必要がある. Sai."
+        ],
+        "vocab": [
+          { "w": "義務", "r": "ぎむ", "hv": "NGHĨA VỤ", "vi": "nghĩa vụ" },
+          { "w": "段階", "r": "だんかい", "hv": "ĐOẠN GIAI", "vi": "giai đoạn" },
+          { "w": "積極的", "r": "せっきょくてき", "hv": "TÍCH CỰC ĐÍCH", "vi": "tích cực" }
+        ],
+        "grammar": {
+          "pattern": "〜べきことは〜ておく",
+          "meaning": "điều nên ~ thì ~ sẵn",
+          "form": "Vる + べき + N",
+          "example": "言うべきことははっきり言っておいたほうがいい。"
+        },
+        "evidence": "最初の段階で他の出席者に必要な情報を伝える義務はある。また、決定されたことを受け入れるためには、自分も積極的に参加して言うべきことは言っておく必要がある。",
+        "tip": "Bẫy phương án 4: 存在感が薄い (ít nổi bật) ≠ 発言を避ける (không phát biểu)."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p1",
+      "stem": "トップ以外の会議の出席者が本当によかったと思えるのは、どのようなときか。",
+      "options": [
+        "進行役の運営が上手で発言しやすかったとき。",
+        "発言の機会が多く、各自の意見が認められたとき。",
+        "発言する人が増え、さまざまな意見が聞けたとき。",
+        "トップが黙って出席者の意見を受け入れてくれたとき。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Những người dự họp ngoài người đứng đầu cảm thấy 'thật tốt' khi nào? → Khi nhiều người phát biểu và được nghe nhiều ý kiến đa dạng.",
+        "why": "Top càng mờ nhạt thì người khác càng tham gia tích cực → có cơ hội nghe nhiều ý kiến, ý tưởng mà thường ngày không nghe được → ai cũng thấy tham gia họp thật tốt.",
+        "options": [
+          "Người điều phối giỏi → bài không đánh giá năng lực người điều phối. Sai.",
+          "Ý kiến của từng người được công nhận → bài không nói. Sai.",
+          "Nhiều người phát biểu, nghe được nhiều ý kiến. ĐÚNG.",
+          "Top im lặng chấp nhận ý kiến → bài nói top vẫn phải nói điều cần nói. Sai."
+        ],
+        "vocab": [
+          { "w": "進行役", "r": "しんこうやく", "hv": "TIẾN HÀNH DỊCH", "vi": "người điều phối" },
+          { "w": "存在感", "r": "そんざいかん", "hv": "TỒN TẠI CẢM", "vi": "sự hiện diện, độ nổi bật" },
+          { "w": "〜ほど", "r": "ほど", "hv": "", "vi": "càng ~ càng" }
+        ],
+        "grammar": {
+          "pattern": "〜ほど",
+          "meaning": "càng ~ thì càng",
+          "form": "Vる/Aい/Naな + ほど",
+          "example": "練習すればするほど、上手になる。"
+        },
+        "evidence": "基本的には、トップの存在感が薄いほど他の出席者は積極的に参加する。その方が普段は聞けないたくさんの意見やアイディアを聞くチャンスを得られることにもなるし、会議に参加して本当によかったと誰もが思えるようになるのである。",
+        "tip": null
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p2",
+      "stem": "①<u>後戻りをしてしまった点</u>とあるが、それはどんな点か。",
+      "options": [
+        "板ガラスの大きさが限られるようになった点。",
+        "板ガラスの表面の輝きがなくなった点。",
+        "薄い板ガラスが作れなくなった点。",
+        "割れやすい板ガラスになった点。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "'Điểm bị thụt lùi' là điểm nào? → Bề mặt kính tấm mất đi độ bóng.",
+        "why": "Thế kỷ 4 đã làm được kính có bề mặt bóng; phương pháp sau làm được tấm lớn hơn nhưng vì dàn phẳng thủy tinh nóng chảy bằng tay nên bề mặt KHÔNG bóng → thụt lùi so với trước.",
+        "options": [
+          "Kích thước bị giới hạn → đó là nhược điểm của phương pháp thế kỷ 4, phương pháp sau đã làm được tấm lớn. Sai.",
+          "Bề mặt mất độ bóng. ĐÚNG.",
+          "Không làm được kính mỏng → bài không nói. Sai.",
+          "Kính dễ vỡ → bài không nói. Sai."
+        ],
+        "vocab": [
+          { "w": "後戻り", "r": "あともどり", "hv": "HẬU LỆ", "vi": "thụt lùi, quay lại" },
+          { "w": "輝き", "r": "かがやき", "hv": "HUY", "vi": "độ sáng bóng, ánh sáng" },
+          { "w": "磨く", "r": "みがく", "hv": "MA", "vi": "đánh bóng, mài" },
+          { "w": "ゆがみ", "r": "ゆがみ", "hv": "", "vi": "độ cong vênh, méo" }
+        ],
+        "grammar": null,
+        "evidence": "それだけでなく後戻りをしてしまった点もある。溶かしたガラスを手作業で平らにしたため、表面に輝きがなかったのである。",
+        "tip": "Câu ngay sau phần gạch chân (〜のである) thường là lời giải thích."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p2",
+      "stem": "②<u>この成功</u>は何を指すか。",
+      "options": [
+        "質の良い板ガラスの大量生産が可能になったこと",
+        "板ガラスの質が高まり利用法が多様になったこと",
+        "板ガラスの大量生産が可能になって普及が進んだこと",
+        "安全性の高い板ガラスを製造する方法が発明されたこと"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "'Thành công này' chỉ điều gì? → Việc sản xuất hàng loạt kính tấm chất lượng tốt đã trở nên khả thi.",
+        "why": "Câu ngay trước: các vấn đề được giải quyết một lượt, việc sản xuất hàng loạt kính tấm chất lượng cao trở nên khả thi vào năm 1959 → この成功 = điều đó.",
+        "options": [
+          "Sản xuất hàng loạt kính chất lượng tốt trở nên khả thi. ĐÚNG.",
+          "Cách sử dụng đa dạng hơn → bài không nói. Sai.",
+          "'Phổ cập tiến triển' → bài không nói kính được phổ cập; thiếu yếu tố 'chất lượng cao'. Sai.",
+          "'Phát minh' phương pháp kính an toàn → thành công là 'thực dụng hóa', và không nói kính an toàn. Sai."
+        ],
+        "vocab": [
+          { "w": "大量生産", "r": "たいりょうせいさん", "hv": "ĐẠI LƯỢNG SINH SẢN", "vi": "sản xuất hàng loạt" },
+          { "w": "需要", "r": "じゅよう", "hv": "NHU YẾU", "vi": "nhu cầu" },
+          { "w": "一気に", "r": "いっきに", "hv": "NHẤT KHÍ", "vi": "một lèo, một lượt" },
+          { "w": "実用化", "r": "じつようか", "hv": "THỰC DỤNG HÓA", "vi": "đưa vào ứng dụng thực tế" }
+        ],
+        "grammar": {
+          "pattern": "〜て初めて",
+          "meaning": "phải ~ thì mới",
+          "form": "Vて + 初めて",
+          "example": "病気になって初めて、健康のありがたさがわかった。"
+        },
+        "evidence": "それらが一気に解決され、高品質の板ガラスを大量生産することが可能になったのが1959年なのである。",
+        "tip": "この〜 → tìm nội dung ở câu ngay trước."
+      }
+    },
+    {
+      "num": 65,
+      "passage": "p2",
+      "stem": "1959年を記念すべき年と、筆者が述べているのはなぜか。",
+      "options": [
+        "窓に使用できる板ガラスの製造法が初めて実用化されたから。",
+        "板ガラスの表面を磨いて輝きを出す技術の開発に成功したから。",
+        "それまでの問題を解決し、板ガラスの製造に初めて成功したから。",
+        "それまでの問題をすべて解決する板ガラスの製造法が実用化されたから。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vì sao tác giả nói năm 1959 là năm đáng ghi nhớ? → Vì phương pháp sản xuất kính tấm giải quyết được tất cả các vấn đề trước đó đã được đưa vào thực tế.",
+        "why": "Năm 1959 'thực dụng hóa thành công' phương pháp đột phá; các phương pháp trước đều có vấn đề, và chúng được giải quyết một lượt (一気に解決) vào năm 1959 → phương án 4.",
+        "options": [
+          "Kính dùng cho cửa sổ đã có từ hơn 2000 năm trước, không phải lần đầu. Sai.",
+          "Đánh bóng bề mặt là kỹ thuật cũ tốn kém, không phải thành tựu 1959. Sai.",
+          "'Lần đầu sản xuất kính tấm thành công' → kính tấm đã có từ lâu. Sai.",
+          "Phương pháp giải quyết mọi vấn đề trước đó được thực dụng hóa. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "記念", "r": "きねん", "hv": "KỶ NIỆM", "vi": "kỷ niệm, ghi nhớ" },
+          { "w": "画期的", "r": "かっきてき", "hv": "HOẠCH KỲ ĐÍCH", "vi": "mang tính bước ngoặt" },
+          { "w": "苦難", "r": "くなん", "hv": "KHỔ NẠN", "vi": "gian khổ" }
+        ],
+        "grammar": {
+          "pattern": "〜べき＋N",
+          "meaning": "N đáng để ~",
+          "form": "Vる + べき + N（する→すべき）",
+          "example": "これは記念すべき第一歩だ。"
+        },
+        "evidence": "この年、ある画期的な板ガラス製造法の実用化に成功した。…いずれもどこかに問題点を抱えていた。それらが一気に解決され、高品質の板ガラスを大量生産することが可能になったのが1959年なのである。",
+        "tip": "Bẫy 初めて: kính tấm không phải mới có; cái mới là phương pháp giải quyết TẤT CẢ vấn đề."
+      }
+    },
+    {
+      "num": 66,
+      "passage": "p3",
+      "stem": "①<u>この物量はムダだなぁ</u>とあるが、筆者はなぜそう考えたのか。",
+      "options": [
+        "残された時間ですべてを利用することができないから。",
+        "整理のために人生の貴重な時間が奪われるから。",
+        "使っていない道具も一緒に運ばなければならないから。",
+        "使わなくなったものがたくさんあるから。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Vì sao tác giả nghĩ 'lượng đồ đạc này thật lãng phí'? → Vì với thời gian còn lại, không thể dùng hết mọi thứ.",
+        "why": "Dùng hết đồ, đọc hết sách cần rất nhiều thời gian; tác giả tính ngược 'còn sống được mấy năm nữa' → không thể dùng hết trong quãng đời còn lại → lãng phí.",
+        "options": [
+          "Thời gian còn lại không đủ dùng hết mọi thứ. ĐÚNG.",
+          "Thời gian bị lấy đi để 'sắp xếp' → bài không nói. Sai.",
+          "Phải chở cả đồ không dùng → chỉ là bối cảnh, không phải lý do. Sai.",
+          "Có nhiều đồ không dùng nữa → là sự thật phát hiện ra, nhưng lý do 'lãng phí' gắn với việc tính ngược thời gian sống. Sai."
+        ],
+        "vocab": [
+          { "w": "逆算", "r": "ぎゃくさん", "hv": "NGHỊCH TOÁN", "vi": "tính ngược" },
+          { "w": "所有", "r": "しょゆう", "hv": "SỞ HỮU", "vi": "sở hữu" },
+          { "w": "使いこなす", "r": "つかいこなす", "hv": "SỬ", "vi": "sử dụng thành thạo / dùng hết" },
+          { "w": "〜にしろ〜にしろ", "r": "にしろ", "hv": "", "vi": "dù là ~ hay ~" }
+        ],
+        "grammar": {
+          "pattern": "〜にしろ〜にしろ",
+          "meaning": "dù là ~ hay ~",
+          "form": "N1 にしろ N2 にしろ",
+          "example": "肉にしろ魚にしろ、新鮮なものがいい。"
+        },
+        "evidence": "これを使いこなし、読みつくすには多量の時間がかかる。あと何年生きられるだろうと人生を逆算してみて、この物量はムダだなぁと引っ越しのトラックの助手席で考えた。",
+        "tip": null
+      }
+    },
+    {
+      "num": 67,
+      "passage": "p3",
+      "stem": "②<u>それ</u>とは何を指すか。",
+      "options": ["世の中", "ものの貸し借り", "所有しているもの", "わずかな人生の時間"],
+      "answer": 3,
+      "explanation": {
+        "translation": "'Nó' chỉ điều gì? → Những thứ mình đang sở hữu.",
+        "why": "Ngữ cảnh: nhà, đất, đồ đạc dù khẳng định là của mình thì chết cũng không mang theo được, rồi phải trả lại cho đời. Vậy trong quãng đời ngắn ngủi, chỉ còn cách tận hưởng 'chúng' (những thứ đang sở hữu).",
+        "options": [
+          "Thế gian → là nơi phải trả đồ về, không phải thứ để tận hưởng. Sai.",
+          "Việc cho mượn – đi mượn đồ → không được nhắc. Sai.",
+          "Những thứ đang sở hữu (nhà, đất, đồ đạc). ĐÚNG.",
+          "Thời gian đời người ngắn ngủi → nằm ngay trước それ nhưng là khung thời gian (〜の中で), không phải đối tượng tận hưởng. Sai."
+        ],
+        "vocab": [
+          { "w": "預かる", "r": "あずかる", "hv": "DỰ", "vi": "nhận giữ hộ" },
+          { "w": "力む", "r": "りきむ", "hv": "LỰC", "vi": "gồng mình, khăng khăng" },
+          { "w": "世の中", "r": "よのなか", "hv": "THẾ TRUNG", "vi": "thế gian, xã hội" }
+        ],
+        "grammar": {
+          "pattern": "〜しかない",
+          "meaning": "chỉ còn cách ~",
+          "form": "Vる + しかない",
+          "example": "終電がないから、歩いて帰るしかない。"
+        },
+        "evidence": "家や土地、道具にしても、いくら自分の所有だと力んでみても、死んでしまえばもっていけない。いずれは世の中に返していかなければならない。このわずかな人生の時間の中で、それを楽しむしかないのだ。",
+        "tip": "Bẫy: từ đứng sát ngay trước それ (わずかな人生の時間) chưa chắc là đáp án — thử thay vào câu xem có hợp nghĩa không."
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p3",
+      "stem": "「預かりものの思想」では、ものをどのように考えているか。",
+      "options": [
+        "生きている間にすべて返さなければならない。",
+        "生きている間だけ世の中から借りている。",
+        "所有していてもいつかは消えてしまう。",
+        "所有するより借りたほうがいい。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo 'tư tưởng đồ giữ hộ', đồ vật được nhìn nhận thế nào? → Là thứ mượn từ thế gian chỉ trong thời gian còn sống.",
+        "why": "Bài kết luận tư tưởng này: mọi vật như đất, nhà, đồ dùng đều là nhận giữ từ thế gian, chỉ mượn trong lúc còn sống.",
+        "options": [
+          "Phải trả hết TRONG lúc còn sống → bài nói 'chết thì không mang theo được', trả lại về sau (いずれは). Sai.",
+          "Chỉ mượn từ thế gian khi còn sống. ĐÚNG.",
+          "Đồ vật rồi sẽ biến mất → người mới là 'biến mất' (ぷつんと消えていく), không phải đồ. Sai.",
+          "Đi mượn tốt hơn sở hữu → bài không so sánh như vậy. Sai."
+        ],
+        "vocab": [
+          { "w": "思想", "r": "しそう", "hv": "TƯ TƯỞNG", "vi": "tư tưởng" },
+          { "w": "諸物", "r": "しょぶつ", "hv": "CHƯ VẬT", "vi": "mọi vật" },
+          { "w": "物欲", "r": "ぶつよく", "hv": "VẬT DỤC", "vi": "lòng ham muốn vật chất" },
+          { "w": "冷水をかける", "r": "れいすいをかける", "hv": "LÃNH THỦY", "vi": "dội gáo nước lạnh" }
+        ],
+        "grammar": null,
+        "evidence": "空気や水と同じように、土地も家も道具も、あらゆる諸物は世の中から預かって、生きている間だけ借りているのだという考えだった。",
+        "tip": null
+      }
+    }
+  ]
+}

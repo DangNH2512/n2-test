@@ -1,0 +1,248 @@
+{
+  "exam": "2012-07",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các phương án thành câu đúng và chọn phương án nằm ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "「わたし、辛いものを食べると、＿＿＿ ＿＿＿ ★ ＿＿＿せきが出るんです。」",
+      "options": [
+        "ほど",
+        "必ず",
+        "いい",
+        "といって"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "\"Tôi hễ ăn đồ cay là gần như chắc chắn bị ho.\" – Câu đúng: 辛いものを食べると、必ずといっていいほどせきが出るんです。",
+        "why": "Cụm cố định 「必ずといっていいほど」 = có thể nói là luôn luôn, hầu như lúc nào cũng. Thứ tự: 必ず(2) → といって(4) → いい(3) → ほど(1). Vị trí ★ (ô thứ 3) là いい (3).",
+        "options": [
+          "ほど → vị trí 4 (nối với せきが出る).",
+          "必ず → vị trí 1.",
+          "いい → vị trí 3 (★). ĐÚNG.",
+          "といって → vị trí 2."
+        ],
+        "vocab": [
+          {
+            "w": "辛い",
+            "r": "からい",
+            "hv": "TÂN",
+            "vi": "cay"
+          },
+          {
+            "w": "せき",
+            "r": "せき",
+            "hv": "",
+            "vi": "cơn ho (咳)"
+          }
+        ],
+        "grammar": {
+          "pattern": "～といっていいほど",
+          "meaning": "có thể nói là ~ (gần như hoàn toàn)",
+          "form": "N／副詞 + といっていいほど",
+          "example": "彼は毎日といっていいほどこの店に来る。"
+        },
+        "evidence": null,
+        "tip": "必ず＋といって＋いい＋ほど không tách rời; nhớ cả cụm như một từ: 'hầu như lúc nào cũng'."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "（学校の正門で）\nA「みんないますか。」\nB「田中さんがいません。」\nA「授業のあと＿＿＿ ＿＿＿ ★ ＿＿＿のかな。」",
+      "options": [
+        "なっていたのに",
+        "一人で行っちゃった",
+        "ここで待ち合わせて",
+        "一緒に行くことに"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "(Ở cổng trường) A: \"Mọi người có đủ không?\" B: \"Không thấy Tanaka.\" A: \"Đã hẹn sau giờ học gặp ở đây rồi cùng đi, vậy mà cậu ấy đi một mình rồi à?\" – Câu đúng: 授業のあとここで待ち合わせて一緒に行くことになっていたのに一人で行っちゃったのかな。",
+        "why": "「～ことになっている」 = đã được quyết định/hẹn là ~. Thứ tự: ここで待ち合わせて(3) → 一緒に行くことに(4) → なっていたのに(1) → 一人で行っちゃった(2) + のかな. ★ ở ô thứ 3 là なっていたのに (1).",
+        "options": [
+          "なっていたのに → vị trí 3 (★). ĐÚNG.",
+          "一人で行っちゃった → vị trí 4 (nối với のかな).",
+          "ここで待ち合わせて → vị trí 1.",
+          "一緒に行くことに → vị trí 2."
+        ],
+        "vocab": [
+          {
+            "w": "正門",
+            "r": "せいもん",
+            "hv": "CHÍNH MÔN",
+            "vi": "cổng chính"
+          },
+          {
+            "w": "待ち合わせる",
+            "r": "まちあわせる",
+            "hv": "ĐÃI HỢP",
+            "vi": "hẹn gặp"
+          }
+        ],
+        "grammar": {
+          "pattern": "～ことになっている",
+          "meaning": "đã được quyết định / theo dự định là ~",
+          "form": "Vる + ことになっている",
+          "example": "明日は駅で待ち合わせることになっている。"
+        },
+        "evidence": null,
+        "tip": "ことに + なっていた là cặp không tách rời; のかな chỉ nối được với câu hoàn chỉnh (行っちゃった)."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "A「あ、今から行く博物館、一週間前に予約してないと入れないってガイドブックに書いてあるよ。」\nB「え、そうなの？困ったなあ。」\nA「行く＿＿＿ ＿＿＿ ★ ＿＿＿みようか。」",
+      "options": [
+        "行って",
+        "だけ",
+        "交渉して",
+        "入れてもらえないか"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "A: \"Ơ, sách hướng dẫn ghi là bảo tàng sắp tới phải đặt trước 1 tuần mới vào được đấy.\" B: \"Hả, thật à? Gay nhỉ.\" A: \"Cứ đi thử đã, rồi thương lượng xem họ có cho vào không nhé.\" – Câu đúng: 行くだけ行って入れてもらえないか交渉してみようか。",
+        "why": "Mẫu 「VるだけVて」 = cứ làm ~ thử đã (dù kết quả chưa chắc). Thứ tự: だけ(2) → 行って(1) → 入れてもらえないか(4) → 交渉して(3) + みようか. ★ ở ô thứ 3 là 入れてもらえないか (4).",
+        "options": [
+          "行って → vị trí 2.",
+          "だけ → vị trí 1 (ngay sau 行く).",
+          "交渉して → vị trí 4 (nối với みようか).",
+          "入れてもらえないか → vị trí 3 (★). ĐÚNG."
+        ],
+        "vocab": [
+          {
+            "w": "博物館",
+            "r": "はくぶつかん",
+            "hv": "BÁC VẬT QUÁN",
+            "vi": "bảo tàng"
+          },
+          {
+            "w": "交渉",
+            "r": "こうしょう",
+            "hv": "GIAO THIỆP",
+            "vi": "thương lượng, đàm phán"
+          },
+          {
+            "w": "予約",
+            "r": "よやく",
+            "hv": "DỰ ƯỚC",
+            "vi": "đặt trước"
+          }
+        ],
+        "grammar": {
+          "pattern": "VるだけVて",
+          "meaning": "cứ làm ~ đã (dù kết quả chưa biết thế nào)",
+          "form": "Vる + だけ + Vて（cùng một động từ）",
+          "example": "だめかもしれないけど、頼むだけ頼んでみよう。"
+        },
+        "evidence": null,
+        "tip": "～か交渉してみる: 'thử thương lượng xem có ~ không' – mệnh đề nghi vấn ～か đứng trước động từ 交渉する."
+      }
+    },
+    {
+      "num": 48,
+      "passage": null,
+      "stem": "（電話で）\nA「すみません、来週の2時からの会議ですが、その時間、別の用件が入ってしまいまして…。もしそちらのご都合が＿＿＿ ＿＿＿ ★ ＿＿＿、いかがでしょうか。」\nB「こちらは大丈夫ですよ。」",
+      "options": [
+        "ありがたいんですが",
+        "変更していただけると",
+        "4時以降に",
+        "よろしければ"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Qua điện thoại) A: \"Xin lỗi, về cuộc họp lúc 2 giờ tuần sau, giờ đó tôi lại có việc khác mất rồi... Nếu bên anh tiện thì tôi rất biết ơn nếu được đổi sang sau 4 giờ, anh thấy sao ạ?\" B: \"Bên tôi không sao.\" – Câu đúng: ご都合がよろしければ4時以降に変更していただけるとありがたいんですが、いかがでしょうか。",
+        "why": "ご都合がよろしければ (nếu tiện) → 4時以降に (sang sau 4 giờ) → 変更していただけると (nếu được đổi giúp) → ありがたいんですが (thì tôi rất biết ơn). Thứ tự 4-3-2-1, ★ ở ô 3 là 変更していただけると (2).",
+        "options": [
+          "ありがたいんですが → vị trí 4.",
+          "変更していただけると → vị trí 3 (★). ĐÚNG.",
+          "4時以降に → vị trí 2.",
+          "よろしければ → vị trí 1 (nối với ご都合が)."
+        ],
+        "vocab": [
+          {
+            "w": "都合",
+            "r": "つごう",
+            "hv": "ĐÔ HỢP",
+            "vi": "sự thuận tiện, hoàn cảnh"
+          },
+          {
+            "w": "用件",
+            "r": "ようけん",
+            "hv": "DỤNG KIỆN",
+            "vi": "việc cần làm"
+          },
+          {
+            "w": "以降",
+            "r": "いこう",
+            "hv": "DĨ GIÁNG",
+            "vi": "từ ~ trở đi"
+          }
+        ],
+        "grammar": {
+          "pattern": "～ていただけるとありがたいんですが",
+          "meaning": "nếu được ~ giúp thì tôi rất biết ơn (nhờ vả lịch sự)",
+          "form": "Vて + いただけると + ありがたい（です）が",
+          "example": "明日までにお返事いただけるとありがたいんですが。"
+        },
+        "evidence": null,
+        "tip": "ご都合がよろしければ là cụm cố định mở đầu lời nhờ."
+      }
+    },
+    {
+      "num": 49,
+      "passage": null,
+      "stem": "このコンサートの警備には、警備員＿＿＿ ＿＿＿ ★ ＿＿＿十分です。",
+      "options": [
+        "いれば",
+        "も",
+        "が",
+        "20人"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Việc bảo vệ cho buổi hòa nhạc này, chỉ cần có tới 20 nhân viên bảo vệ là đủ. – Câu đúng: 警備員が20人もいれば十分です。",
+        "why": "「Số lượng + も + いれば十分」 = có đến ~ là đủ. Thứ tự: が(3) → 20人(4) → も(2) → いれば(1). ★ ở ô 3 là も (2).",
+        "options": [
+          "いれば → vị trí 4 (nối với 十分です).",
+          "も → vị trí 3 (★). ĐÚNG.",
+          "が → vị trí 1 (sau 警備員).",
+          "20人 → vị trí 2."
+        ],
+        "vocab": [
+          {
+            "w": "警備",
+            "r": "けいび",
+            "hv": "CẢNH BỊ",
+            "vi": "bảo vệ, canh gác"
+          },
+          {
+            "w": "警備員",
+            "r": "けいびいん",
+            "hv": "CẢNH BỊ VIÊN",
+            "vi": "nhân viên bảo vệ"
+          },
+          {
+            "w": "十分",
+            "r": "じゅうぶん",
+            "hv": "THẬP PHÂN",
+            "vi": "đủ"
+          }
+        ],
+        "grammar": {
+          "pattern": "数量 + も + ～ば十分だ",
+          "meaning": "chỉ cần ~ (số lượng) là đủ",
+          "form": "Nが + 数量 + も + Vば + 十分だ",
+          "example": "この仕事なら、3日もあれば十分です。"
+        },
+        "evidence": null,
+        "tip": "も đặt sau số lượng để nhấn mạnh 'nhiều đến mức đó'."
+      }
+    }
+  ]
+}

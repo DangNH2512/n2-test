@@ -1,0 +1,138 @@
+{
+  "exam": "2010-07",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "これからも様々な国との<u>相互</u>理解を深めていこうと思う。",
+      "options": ["しょうご", "しょうごう", "そうご", "そうごう"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Từ nay về sau tôi cũng muốn làm sâu sắc thêm sự hiểu biết lẫn nhau với nhiều quốc gia.",
+        "why": "相互 đọc là そうご (TƯƠNG HỖ) = lẫn nhau, qua lại. 相 trong từ ghép này đọc そう (không phải しょう), 互 đọc ご, không kéo dài thành ごう.",
+        "options": [
+          "しょうご → 正午: chính ngọ, 12 giờ trưa. Sai.",
+          "しょうごう → 称号: danh hiệu / 照合: đối chiếu. Sai.",
+          "そうご → 相互: lẫn nhau. ĐÚNG.",
+          "そうごう → 総合: tổng hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "相互", "r": "そうご", "hv": "TƯƠNG HỖ", "vi": "lẫn nhau, qua lại" },
+          { "w": "理解", "r": "りかい", "hv": "LÝ GIẢI", "vi": "sự hiểu biết" },
+          { "w": "深める", "r": "ふかめる", "hv": "THÂM", "vi": "làm sâu sắc thêm" },
+          { "w": "総合", "r": "そうごう", "hv": "TỔNG HỢP", "vi": "tổng hợp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "相互(そうご) ≠ 総合(そうごう): chú ý trường âm. 相 còn đọc しょう trong 首相(しゅしょう)."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "この料理は<u>辛くて</u>食べられない。",
+      "options": ["からくて", "くさくて", "にがくて", "しぶくて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Món này cay quá nên tôi không ăn được.",
+        "why": "辛い đọc là からい (TÂN) = cay. (辛い cũng đọc つらい = khổ sở, nhưng không có trong lựa chọn.)",
+        "options": [
+          "からくて → 辛くて: cay. ĐÚNG.",
+          "くさくて → 臭くて: hôi, có mùi khó chịu. Sai.",
+          "にがくて → 苦くて: đắng. Sai.",
+          "しぶくて → 渋くて: chát. Sai."
+        ],
+        "vocab": [
+          { "w": "辛い", "r": "からい / つらい", "hv": "TÂN", "vi": "cay / khổ sở, vất vả" },
+          { "w": "臭い", "r": "くさい", "hv": "XÚ", "vi": "hôi, thối" },
+          { "w": "苦い", "r": "にがい", "hv": "KHỔ", "vi": "đắng" },
+          { "w": "渋い", "r": "しぶい", "hv": "SÁP", "vi": "chát; trầm, sâu lắng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhóm vị giác: 甘い(あまい) ngọt, 辛い(からい) cay, 苦い(にがい) đắng, 酸っぱい(すっぱい) chua, 渋い(しぶい) chát."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "晴れている日は、この山頂からすばらしい<u>景色</u>が見える。",
+      "options": ["けいしき", "けしき", "けいいろ", "けいろ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Vào ngày nắng, từ đỉnh núi này có thể nhìn thấy phong cảnh tuyệt đẹp.",
+        "why": "景色 là cách đọc đặc biệt: けしき (CẢNH SẮC) = phong cảnh. 景 đọc rút gọn thành け, 色 đọc しき.",
+        "options": [
+          "けいしき → 形式: hình thức. Sai.",
+          "けしき → 景色: phong cảnh. ĐÚNG.",
+          "けいいろ → không có từ này. Sai.",
+          "けいろ → 経路: lộ trình, đường đi. Sai."
+        ],
+        "vocab": [
+          { "w": "景色", "r": "けしき", "hv": "CẢNH SẮC", "vi": "phong cảnh" },
+          { "w": "山頂", "r": "さんちょう", "hv": "SƠN ĐỈNH", "vi": "đỉnh núi" },
+          { "w": "形式", "r": "けいしき", "hv": "HÌNH THỨC", "vi": "hình thức" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "景色(けしき) là cách đọc ngoại lệ; so sánh 景気(けいき) kinh tế, 風景(ふうけい) phong cảnh."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "このお金は、何かあったときに<u>備えて</u>残しておこう。",
+      "options": ["ととのえて", "たくわえて", "かかえて", "そなえて"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Số tiền này hãy để dành phòng khi có chuyện gì xảy ra.",
+        "why": "備える đọc là そなえる (BỊ) = chuẩn bị, phòng bị. Mẫu ～に備えて = để phòng ～.",
+        "options": [
+          "ととのえて → 整えて/調えて: sắp xếp, chỉnh đốn. Sai.",
+          "たくわえて → 蓄えて: tích trữ, dành dụm. Sai (nghĩa gần nhưng chữ khác).",
+          "かかえて → 抱えて: ôm, mang (gánh nặng). Sai.",
+          "そなえて → 備えて: phòng bị. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "備える", "r": "そなえる", "hv": "BỊ", "vi": "chuẩn bị, phòng bị" },
+          { "w": "蓄える", "r": "たくわえる", "hv": "SÚC", "vi": "tích trữ, để dành" },
+          { "w": "抱える", "r": "かかえる", "hv": "BÃO", "vi": "ôm, gánh vác" },
+          { "w": "整える", "r": "ととのえる", "hv": "CHỈNH", "vi": "sắp xếp gọn gàng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "備 = BỊ trong 準備(じゅんび). 備える ⇒ そなえる."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "今から、<u>防災</u>訓練を行います。",
+      "options": ["ぼうえん", "ぼうさい", "ほうえん", "ほうさい"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Bây giờ chúng ta sẽ tiến hành diễn tập phòng chống thiên tai.",
+        "why": "防災 đọc là ぼうさい (PHÒNG TAI) = phòng chống thiên tai. 防 đọc ぼう (âm đục), 災 đọc さい.",
+        "options": [
+          "ぼうえん → 望遠: nhìn xa (望遠鏡 kính viễn vọng). Sai.",
+          "ぼうさい → 防災: phòng chống thiên tai. ĐÚNG.",
+          "ほうえん → không phải cách đọc của 防災. Sai.",
+          "ほうさい → 防 không đọc ほう. Sai."
+        ],
+        "vocab": [
+          { "w": "防災", "r": "ぼうさい", "hv": "PHÒNG TAI", "vi": "phòng chống thiên tai" },
+          { "w": "訓練", "r": "くんれん", "hv": "HUẤN LUYỆN", "vi": "huấn luyện, diễn tập" },
+          { "w": "災害", "r": "さいがい", "hv": "TAI HẠI", "vi": "thảm họa, thiên tai" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "防 luôn đọc ぼう: 予防(よぼう), 防止(ぼうし), 消防(しょうぼう)."
+      }
+    }
+  ]
+}

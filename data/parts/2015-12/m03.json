@@ -1,0 +1,143 @@
+{
+  "exam": "2015-12",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ (tiền tố/hậu tố) thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "試合会場には、各チームの応援（　　）も来ている。",
+      "options": ["党", "団", "集", "族"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tại địa điểm thi đấu, đoàn cổ vũ của các đội cũng đã đến.",
+        "why": "応援団 (おうえんだん) = đội/đoàn cổ vũ. 〜団 chỉ một nhóm người tập hợp có tổ chức: 応援団, 選手団, 楽団.",
+        "options": [
+          "党 (とう) → đảng: 政党, 野党. Không đi với 応援. Sai.",
+          "団 (だん) → đoàn, nhóm: 応援団. ĐÚNG.",
+          "集 (しゅう) → tuyển tập: 作品集, 問題集. Sai.",
+          "族 (ぞく) → tộc, nhóm người có lối sống chung: 家族, 暴走族. Sai."
+        ],
+        "vocab": [
+          { "w": "応援団", "r": "おうえんだん", "hv": "ỨNG VIỆN ĐOÀN", "vi": "đoàn cổ vũ" },
+          { "w": "試合", "r": "しあい", "hv": "THÍ HỢP", "vi": "trận đấu" },
+          { "w": "選手団", "r": "せんしゅだん", "hv": "TUYỂN THỦ ĐOÀN", "vi": "đoàn vận động viên" },
+          { "w": "各", "r": "かく", "hv": "CÁC", "vi": "mỗi, các" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜団: 応援団・選手団・調査団・観光団 (nhóm người cùng mục đích)."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "その計画は自然環境に（　　）影響を与えかねない。",
+      "options": ["陰", "劣", "危", "悪"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Kế hoạch đó có thể gây ảnh hưởng xấu đến môi trường tự nhiên.",
+        "why": "悪影響 (あくえいきょう) = ảnh hưởng xấu. Tiền tố 悪〜 (ÁC) gắn trước danh từ để mang nghĩa \"xấu\": 悪影響, 悪条件, 悪循環.",
+        "options": [
+          "陰 (いん/かげ) → bóng râm, ngầm. Không tạo từ với 影響. Sai.",
+          "劣 (れつ) → kém: 劣等, 劣化. Không có 劣影響. Sai.",
+          "危 (き) → nguy hiểm: 危険. Không có 危影響. Sai.",
+          "悪 (あく) → xấu: 悪影響. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "悪影響", "r": "あくえいきょう", "hv": "ÁC ẢNH HƯỞNG", "vi": "ảnh hưởng xấu" },
+          { "w": "自然環境", "r": "しぜんかんきょう", "hv": "TỰ NHIÊN HOÀN CẢNH", "vi": "môi trường tự nhiên" },
+          { "w": "悪循環", "r": "あくじゅんかん", "hv": "ÁC TUẦN HOÀN", "vi": "vòng luẩn quẩn" }
+        ],
+        "grammar": {
+          "pattern": "～かねない",
+          "meaning": "có thể sẽ (dẫn đến điều xấu)",
+          "form": "Vます(bỏ ます) + かねない",
+          "example": "無理をすると病気になりかねない。"
+        },
+        "evidence": null,
+        "tip": "悪〜 (đọc あく): 悪影響・悪条件・悪天候・悪循環."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "今回の実験の成功（　　）は高いと言われている。",
+      "options": ["倍", "割", "比", "率"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Người ta nói tỷ lệ thành công của thí nghiệm lần này là cao.",
+        "why": "成功率 (せいこうりつ) = tỷ lệ thành công. Hậu tố 〜率 (りつ) = tỷ lệ: 成功率, 合格率, 出席率. Đi với 高い/低い.",
+        "options": [
+          "倍 (ばい) → lần, gấp: 3倍. Không có 成功倍. Sai.",
+          "割 (わり) → 1/10 (割合 = tỷ lệ), nhưng không dùng 成功割. Sai.",
+          "比 (ひ) → tỉ số, so sánh: 男女比. Không dùng 成功比. Sai.",
+          "率 (りつ) → tỷ lệ: 成功率. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "成功率", "r": "せいこうりつ", "hv": "THÀNH CÔNG SUẤT", "vi": "tỷ lệ thành công" },
+          { "w": "実験", "r": "じっけん", "hv": "THỰC NGHIỆM", "vi": "thí nghiệm" },
+          { "w": "合格率", "r": "ごうかくりつ", "hv": "HỢP CÁCH SUẤT", "vi": "tỷ lệ đỗ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "率 có 2 âm: りつ khi là \"tỷ lệ\" (成功率, 効率 こうりつ, 確率 かくりつ) và そつ (率直 そっちょく – thẳng thắn, 軽率 けいそつ – khinh suất)."
+      }
+    },
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "彼の話はあまりに現実（　　）していて、誰も同意しなかった。",
+      "options": ["抜け", "落ち", "離れ", "逃げ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Câu chuyện của anh ấy quá xa rời thực tế nên không ai đồng ý.",
+        "why": "現実離れ (げんじつばなれ) = xa rời thực tế. 〜離れ = rời xa, tách khỏi: 現実離れ, 親離れ, 活字離れ. 現実離れしている = phi thực tế.",
+        "options": [
+          "抜け → 〜抜け: thiếu, sót (間抜け = ngốc). Không có 現実抜け. Sai.",
+          "落ち → 〜落ち: rơi, sa sút. Không có 現実落ち. Sai.",
+          "離れ → 現実離れ: xa rời thực tế. ĐÚNG.",
+          "逃げ → 〜逃げ: bỏ chạy (夜逃げ = trốn đêm). Không có 現実逃げ (nói 現実逃避). Sai."
+        ],
+        "vocab": [
+          { "w": "現実離れ", "r": "げんじつばなれ", "hv": "HIỆN THỰC LY", "vi": "xa rời thực tế" },
+          { "w": "同意", "r": "どうい", "hv": "ĐỒNG Ý", "vi": "đồng ý" },
+          { "w": "現実逃避", "r": "げんじつとうひ", "hv": "HIỆN THỰC ĐÀO TỴ", "vi": "trốn tránh thực tế" },
+          { "w": "活字離れ", "r": "かつじばなれ", "hv": "HOẠT TỰ LY", "vi": "xu hướng ít đọc sách báo" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜離れ còn gặp trong đọc hiểu: 若者の車離れ, 科学離れ (ngay trong bài đọc 問題11 của đề này)."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "この辺りはヨーロッパ（　　）の家が多くて、日本だとは思えない。",
+      "options": ["風", "状", "態", "類"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Khu này có nhiều ngôi nhà kiểu châu Âu, không thể nghĩ đây là Nhật Bản.",
+        "why": "ヨーロッパ風 (ふう) = theo phong cách châu Âu. Hậu tố 〜風 = kiểu, phong cách: 和風, 洋風, 中華風.",
+        "options": [
+          "風 (ふう) → kiểu, phong cách: ヨーロッパ風. ĐÚNG.",
+          "状 (じょう) → hình dạng, trạng thái: 液状, 円状. Sai.",
+          "態 (たい) → trạng thái: 状態. Không làm hậu tố kiểu này. Sai.",
+          "類 (るい) → loại: 魚類, 書類. Sai."
+        ],
+        "vocab": [
+          { "w": "〜風", "r": "ふう", "hv": "PHONG", "vi": "kiểu, phong cách ~" },
+          { "w": "辺り", "r": "あたり", "hv": "BIÊN", "vi": "vùng lân cận, quanh đây" },
+          { "w": "和風", "r": "わふう", "hv": "HÒA PHONG", "vi": "kiểu Nhật" },
+          { "w": "洋風", "r": "ようふう", "hv": "DƯƠNG PHONG", "vi": "kiểu phương Tây" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Địa danh/quốc gia + 風 = phong cách nơi đó: イタリア風パスタ, 京都風の庭."
+      }
+    }
+  ]
+}

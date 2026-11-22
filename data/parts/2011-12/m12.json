@@ -1,0 +1,75 @@
+{
+  "exam": "2011-12",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B rồi chọn câu trả lời đúng nhất (đọc so sánh).",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "100メートルを速く走るためには最高速度を長く維持すればよいわけだが、世界トップクラスの選手でもそんなことは不可能である。そのため、加速、最高速度の維持、減速というそれぞれの段階に合った走り方をコントロールすることが大切だ。\nまず、スタートから60メートル付近までは上半身を前に倒すようにして一気に加速する。そして最高速度に達したら残りの距離はできるだけそのペースを守る。しかし、ゴールが近くなったら無理な動きにならないように力を抜いて走る。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "足を速く動かすことは加速の必要条件ではあるが、体力の消耗が激しいため、意識しすぎると後半のスピードが落ちてしまい、よい記録が出にくい。\nスタート時は足を前に出す気持ちで走り出し、加速している間は歩幅を広げることを意識して最高速度に達するまで走る。その後はスピードが落ちてきても、それまでのペースを意識することで減速が抑えられる。ゴール直前では決して余計な力は使わず、走り抜けるイメージでゴールする。どんな選手でも減速は避けられないが、それをどれだけ最小限に抑えられるかで勝負が決まると言ってもいい。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 69,
+      "passage": "AB",
+      "stem": "AとBの意見が一致しているのはどれか。",
+      "options": ["スタート時の姿勢について", "走っている時の足の使い方について", "加速した時の走り方について", "ゴール直前の力の使い方について"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Ý kiến của A và B trùng nhau ở điểm nào? → Về cách dùng sức ngay trước đích.",
+        "why": "A: gần đích thì thả lỏng sức (力を抜いて走る). B: ngay trước đích tuyệt đối không dùng sức thừa (余計な力は使わず). → Cả hai đều nói: gần đích không dồn sức.",
+        "options": [
+          "A: nghiêng thân trên về trước; B: chạy với cảm giác đưa chân ra trước – khác nhau. Sai.",
+          "Chỉ B nói về cách dùng chân (sải bước, đưa chân); A không nói. Sai.",
+          "A: tăng tốc một mạch, nghiêng người; B: chú ý mở rộng sải chân – khác nhau. Sai.",
+          "Cả hai: gần đích không dùng sức thừa. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "維持", "r": "いじ", "hv": "DUY TRÌ", "vi": "duy trì" },
+          { "w": "加速", "r": "かそく", "hv": "GIA TỐC", "vi": "tăng tốc" },
+          { "w": "減速", "r": "げんそく", "hv": "GIẢM TỐC", "vi": "giảm tốc" },
+          { "w": "力を抜く", "r": "ちからをぬく", "hv": "LỰC BẠT", "vi": "thả lỏng sức" },
+          { "w": "余計", "r": "よけい", "hv": "DƯ KẾ", "vi": "thừa, không cần thiết" }
+        ],
+        "grammar": null,
+        "evidence": "A：ゴールが近くなったら無理な動きにならないように力を抜いて走る。／B：ゴール直前では決して余計な力は使わず、走り抜けるイメージでゴールする。",
+        "tip": "So sánh từng giai đoạn (xuất phát – tăng tốc – duy trì – về đích) trong cả hai bài."
+      }
+    },
+    {
+      "num": 70,
+      "passage": "AB",
+      "stem": "AとBは、100メートルを速く走るためには、どのようなことが大切だと述べているか。",
+      "options": ["AもBも、スタート時から一気に加速することが大切だと述べている。", "AもBも、最初から最後まで歩幅を意識して走ることが大切だと述べている。", "Aは走り方を調節することが大切だと述べ、Bは後半にどれだけスピードが落ちないようにできるかが大切だと述べている。", "Aは最後まで最高速度を保ち続けることが大切だと述べ、Bは最後まで体力を消耗させないことが大切だと述べている。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "A và B nói điều gì là quan trọng để chạy nhanh 100m? → A nói quan trọng là điều chỉnh cách chạy; B nói quan trọng là làm sao để tốc độ ở nửa sau không giảm nhiều.",
+        "why": "A: quan trọng là kiểm soát cách chạy phù hợp với từng giai đoạn (段階に合った走り方をコントロールする). B: không tránh được giảm tốc, nhưng giảm được tối thiểu bao nhiêu sẽ quyết định thắng thua.",
+        "options": [
+          "B không nói tăng tốc một mạch từ đầu; B cảnh báo chú trọng chân nhanh quá sẽ hụt sức. Sai.",
+          "A không nhắc sải chân; B chỉ nói sải chân trong giai đoạn tăng tốc, không phải từ đầu đến cuối. Sai.",
+          "A: điều chỉnh cách chạy; B: hạn chế giảm tốc ở nửa sau. ĐÚNG.",
+          "A nói việc duy trì tốc độ tối đa đến cuối là không thể. Sai."
+        ],
+        "vocab": [
+          { "w": "段階", "r": "だんかい", "hv": "ĐOẠN GIAI", "vi": "giai đoạn" },
+          { "w": "消耗", "r": "しょうもう", "hv": "TIÊU HAO", "vi": "tiêu hao" },
+          { "w": "歩幅", "r": "ほはば", "hv": "BỘ PHÚC", "vi": "sải bước" },
+          { "w": "最小限", "r": "さいしょうげん", "hv": "TỐI TIỂU HẠN", "vi": "mức tối thiểu" },
+          { "w": "勝負", "r": "しょうぶ", "hv": "THẮNG PHỤ", "vi": "thắng thua" }
+        ],
+        "grammar": { "pattern": "〜と言ってもいい", "meaning": "có thể nói là ~", "form": "普通形＋と言ってもいい", "example": "これは彼の人生を変えた本と言ってもいい。" },
+        "evidence": "A：加速、最高速度の維持、減速というそれぞれの段階に合った走り方をコントロールすることが大切だ。／B：どんな選手でも減速は避けられないが、それをどれだけ最小限に抑えられるかで勝負が決まると言ってもいい。",
+        "tip": "Ý chính của mỗi bài thường ở câu có 大切だ／〜と言ってもいい."
+      }
+    }
+  ]
+}

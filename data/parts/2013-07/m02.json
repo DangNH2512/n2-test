@@ -1,0 +1,139 @@
+{
+  "exam": "2013-07",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết Kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "食費をこれ以上<u>けずる</u>ことはできない。",
+      "options": ["縮る", "減る", "略る", "削る"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Không thể cắt giảm tiền ăn hơn nữa.",
+        "why": "けずる viết là 削る (TƯỚC) = gọt, cắt giảm (chi phí, ngân sách). Các chữ còn lại hoặc đọc khác hoặc không tồn tại với okurigana る.",
+        "options": [
+          "縮る → không tồn tại; 縮 dùng trong 縮む (ちぢむ: co lại). Sai.",
+          "減る → へる: giảm (tự động từ), không đọc けずる. Sai.",
+          "略る → không tồn tại; 略 như 省略 (しょうりゃく). Sai.",
+          "削る → けずる: gọt, cắt giảm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "削る", "r": "けずる", "hv": "TƯỚC", "vi": "gọt, cắt giảm" },
+          { "w": "食費", "r": "しょくひ", "hv": "THỰC PHÍ", "vi": "tiền ăn" },
+          { "w": "削減", "r": "さくげん", "hv": "TƯỚC GIẢM", "vi": "cắt giảm" },
+          { "w": "縮む", "r": "ちぢむ", "hv": "SÚC", "vi": "co lại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "削 (けずる/さく): 削減 = cắt giảm, 削除 (さくじょ) = xóa."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "今学期の<u>こうぎ</u>は来週までです。",
+      "options": ["構義", "講議", "講義", "構議"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Bài giảng của học kỳ này kéo dài đến tuần sau.",
+        "why": "こうぎ (bài giảng) viết là 講義 (GIẢNG NGHĨA): 講 = giảng (bộ ngôn 言), 義 = nghĩa.",
+        "options": [
+          "構義 → 構 (CẤU: cấu tạo) sai chữ. Sai.",
+          "講議 → 議 (NGHỊ: thảo luận) sai chữ. Sai.",
+          "講義 → bài giảng. ĐÚNG.",
+          "構議 → sai cả hai chữ. Sai."
+        ],
+        "vocab": [
+          { "w": "講義", "r": "こうぎ", "hv": "GIẢNG NGHĨA", "vi": "bài giảng (đại học)" },
+          { "w": "学期", "r": "がっき", "hv": "HỌC KỲ", "vi": "học kỳ" },
+          { "w": "会議", "r": "かいぎ", "hv": "HỘI NGHỊ", "vi": "cuộc họp" },
+          { "w": "構造", "r": "こうぞう", "hv": "CẤU TẠO", "vi": "cấu trúc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "講 (bộ ngôn: nói, giảng) ≠ 構 (bộ mộc: xây dựng). 義 (nghĩa) ≠ 議 (bàn bạc)."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "いつのまにか看板が<u>かたむいて</u>いた。",
+      "options": ["傾いて", "頃いて", "倒いて", "到いて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Không biết từ lúc nào tấm biển hiệu đã bị nghiêng.",
+        "why": "かたむく viết là 傾く (KHUYNH) = nghiêng. Chữ 傾 có bộ nhân đứng 亻 bên trái chữ 頃.",
+        "options": [
+          "傾いて → 傾く: nghiêng. ĐÚNG.",
+          "頃いて → 頃 (ころ: khoảng thời gian) không có động từ này. Sai.",
+          "倒いて → 倒 dùng trong 倒れる (たおれる: đổ). Sai.",
+          "到いて → 到 dùng trong 到着 (とうちゃく). Sai."
+        ],
+        "vocab": [
+          { "w": "傾く", "r": "かたむく", "hv": "KHUYNH", "vi": "nghiêng" },
+          { "w": "看板", "r": "かんばん", "hv": "KHÁN BẢN", "vi": "biển hiệu" },
+          { "w": "傾向", "r": "けいこう", "hv": "KHUYNH HƯỚNG", "vi": "khuynh hướng" },
+          { "w": "倒れる", "r": "たおれる", "hv": "ĐẢO", "vi": "đổ, ngã" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "傾 = 亻 + 頃. Nhớ: 傾向 (けいこう) khuynh hướng."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "自分に与えられた役割をしっかり<u>はたす</u>つもりだ。",
+      "options": ["果たす", "務たす", "担たす", "任たす"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi định hoàn thành thật tốt vai trò được giao cho mình.",
+        "why": "はたす viết là 果たす (QUẢ) = hoàn thành, làm tròn (vai trò, trách nhiệm, lời hứa). Cụm cố định: 役割を果たす.",
+        "options": [
+          "果たす → hoàn thành, làm tròn. ĐÚNG.",
+          "務たす → không tồn tại; 務 dùng trong 務める (つとめる). Sai.",
+          "担たす → không tồn tại; 担 dùng trong 担う (になう). Sai.",
+          "任たす → không tồn tại; 任 dùng trong 任せる (まかせる). Sai."
+        ],
+        "vocab": [
+          { "w": "果たす", "r": "はたす", "hv": "QUẢ", "vi": "hoàn thành, làm tròn" },
+          { "w": "役割", "r": "やくわり", "hv": "DỊCH CÁT", "vi": "vai trò" },
+          { "w": "与える", "r": "あたえる", "hv": "DỮ", "vi": "cho, trao" },
+          { "w": "務める", "r": "つとめる", "hv": "VỤ", "vi": "đảm nhiệm (chức vụ)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "役割を果たす / 責任を果たす / 約束を果たす: các collocation hay gặp."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "今度は田中さんも<u>しょうたい</u>するつもりです。",
+      "options": ["招待", "招介", "紹介", "紹待"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Lần này tôi định mời cả anh Tanaka nữa.",
+        "why": "しょうたい (mời) viết là 招待 (CHIÊU ĐÃI). 招 (bộ thủ 扌) = vẫy gọi, 待 = đợi, tiếp đón.",
+        "options": [
+          "招待 → しょうたい: mời. ĐÚNG.",
+          "招介 → không có từ này. Sai.",
+          "紹介 → しょうかい: giới thiệu, đọc khác. Sai.",
+          "紹待 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "招待", "r": "しょうたい", "hv": "CHIÊU ĐÃI", "vi": "mời (dự tiệc, sự kiện)" },
+          { "w": "紹介", "r": "しょうかい", "hv": "THIỆU GIỚI", "vi": "giới thiệu" },
+          { "w": "招く", "r": "まねく", "hv": "CHIÊU", "vi": "mời, vẫy gọi; gây ra" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "招 (bộ tay 扌: vẫy tay mời) ≠ 紹 (bộ mịch 糸, chỉ dùng trong 紹介)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "exam": "2026-07",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の(1)から(5)の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn từ (1) đến (5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "　名文（注1）を書くためには豊富な語彙（注2）があったほうがいいかといえば、そうでもありません。あまり聞かない言葉をわざわざ使わなくても、自分の気持ちや考え、状況を読み手に伝えることは十分にできます。変に凝った言葉を使うと、かえって伝わりません。\n　たとえば、「悲しい」を表す二字熟語には「悲痛」「哀痛」「痛惜」などがあります。でも、ことさら（注3）に「悲痛の思い」などと言わなくても、「本当に悲しい」で通じるなら、それで十分です。\n（注1）名文：優れた文章\n（注2）語彙：ここでは、言葉\n（注3）ことさら：わざわざ"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、ある引っ越しセンターに届いたメールである。\n\nやまの引っ越しセンター\n東地区ご担当　水川様\n\n先日お願いした引っ越しについてご相談があります。\n実は友人からテレビを譲ってもらえることになりました。\n引っ越しの日に、引っ越し先と同じ町にある友人宅に寄ってもらい、そこからテレビを引っ越し先に運んでもらいたいと思っています。その場合、料金はどうなりますでしょうか。\nなお、テレビのチャンネルの設定などは不要です。再度見積もりを作成していただけないでしょうか。\nお返事お待ちしています。よろしくお願いします。\n\n森村正太"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "　人は、目の前の人が、嬉しそうな表情をしていると、ついその表情を写し取ってしまう。表情というのは不思議なもので、出力にも入力にも使える。つまり、嬉しいから嬉しい表情をするわけだが、嬉しい表情になってしまうと、嬉しい時に脳に起こる神経信号（注1）が誘発される（注2）のである。目の前の人の笑顔につられて（注3）、つい笑ってしまうと、脳の緊張も解ける。人間なら、そんな経験、山ほどしているはずだ。\n（注1）神経信号：神経細胞が刺激を受けると発生する電気信号\n（注2）誘発される：ここでは、生じる\n（注3）つられる：ここでは、誘われる"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "北川農業大学　応用生命科学部\n教授　青山友菜先生\n\n先日は、来月出版予定の『果物の不思議』に掲載する図表20点についてご意見をいただき、ありがとうございました。\nご指示のあった追加のグラフ1点が出来上がりましたので、添付いたします。ご確認をお願いします。\nまた、誤りのあった図表5点は現在修正中です。今週中にお送りする予定ですので、ご確認いただき、再度修正の必要なところがありましたらご連絡ください。\n以上、よろしくお願い申し上げます。\n\nAGR出版　編集部\n川波　敬一"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "　私たちには、責任を果たすために、他者を頼らなければならないときがある。そしてそれは責任から逃れる（注）ことではない。仕事・家事・育児を抱え込み、壊れそうになりながら日々を生き抜いている人は、その責任を果たすために、他者の手を借りるべきなのだ。それは恥ずかしいことではない。責任の主体として、誇り高く、胸を張って生きるべきである。\n（注）逃れる：逃げる"
+    }
+  ],
+  "questions": [
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "優れた文章を書くときの言葉について、筆者はどのように考えているか。",
+      "options": [
+        "気持ちや考えを伝えるときに使える言葉をたくさん知っていたほうがいい。",
+        "伝えたい内容に応じて、異なる種類の言葉を使い分けたほうがいい。",
+        "難しい言葉を無理に使うのではなく、日常でよく使われる言葉を使えばいい。",
+        "二字熟語は完全に避けるのではなく、必要に応じて使えばいい。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về từ ngữ khi viết một bài văn hay, tác giả nghĩ thế nào? → Không cần cố dùng từ khó, chỉ cần dùng những từ thường dùng hằng ngày.",
+        "why": "Tác giả nói không cần cố dùng từ ít nghe (あまり聞かない言葉をわざわざ使わなくても), dùng từ cầu kỳ còn phản tác dụng; chỉ cần nói 「本当に悲しい」 là đủ → dùng từ thông dụng là được.",
+        "options": [
+          "Sai: tác giả phủ định ngay câu đầu ('豊富な語彙があったほうがいいかといえば、そうでもありません').",
+          "Sai: bài không bàn về việc dùng phân biệt nhiều loại từ theo nội dung.",
+          "ĐÚNG: không cố dùng từ khó, dùng từ thông thường là đủ.",
+          "Sai: bài không nói về việc dùng 二字熟語 khi cần; chỉ lấy làm ví dụ cho từ cầu kỳ không cần thiết."
+        ],
+        "vocab": [
+          { "w": "語彙", "r": "ごい", "hv": "NGỮ VỰNG", "vi": "vốn từ" },
+          { "w": "豊富", "r": "ほうふ", "hv": "PHONG PHÚ", "vi": "phong phú" },
+          { "w": "凝る", "r": "こる", "hv": "NGƯNG", "vi": "cầu kỳ, kỹ lưỡng quá mức" },
+          { "w": "かえって", "r": "かえって", "hv": "", "vi": "ngược lại, trái lại" }
+        ],
+        "grammar": {
+          "pattern": "～かといえば、そうでもない",
+          "meaning": "nếu hỏi có phải ~ không thì cũng không hẳn",
+          "form": "普通形＋かといえば、そうでもない",
+          "example": "高い店がおいしいかといえば、そうでもない。"
+        },
+        "evidence": "あまり聞かない言葉をわざわざ使わなくても、自分の気持ちや考え、状況を読み手に伝えることは十分にできます。変に凝った言葉を使うと、かえって伝わりません。",
+        "tip": "Câu mở đầu dạng 「～かといえば、そうでもありません」 thường chứa luận điểm phủ định — đáp án ngược với vế trước."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p2",
+      "stem": "このメールで伝えたいことは何か。",
+      "options": [
+        "今使っているテレビを友人の家に運んでほしいので、見積もりを作り直してほしい。",
+        "友人の家にあるテレビを運んでほしいので、見積もりを作り直してほしい。",
+        "友人の家にあるテレビを運び、チャンネルの設定もしてほしいので、見積もりを作り直してほしい。",
+        "テレビのチャンネルの設定は頼まないことにしたので、見積もりも作り直してほしい。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều email này muốn truyền đạt là gì? → Muốn nhờ chở chiếc TV ở nhà bạn nên muốn làm lại báo giá.",
+        "why": "Người viết được bạn cho TV, muốn công ty ghé nhà bạn lấy TV chở đến nhà mới, và nhờ làm lại báo giá. Không cần cài kênh.",
+        "options": [
+          "Sai: không phải chở TV đang dùng đến nhà bạn, mà chở TV từ nhà bạn đến nhà mới.",
+          "ĐÚNG: chở TV ở nhà bạn + làm lại báo giá.",
+          "Sai: email nói rõ 「チャンネルの設定などは不要です」.",
+          "Sai: không phải 'quyết định hủy' việc cài kênh; vốn dĩ không cần, lý do làm lại báo giá là thêm việc chở TV."
+        ],
+        "vocab": [
+          { "w": "譲る", "r": "ゆずる", "hv": "NHƯỢNG", "vi": "nhường, cho lại" },
+          { "w": "見積もり", "r": "みつもり", "hv": "KIẾN TÍCH", "vi": "báo giá, ước tính" },
+          { "w": "不要", "r": "ふよう", "hv": "BẤT YẾU", "vi": "không cần" },
+          { "w": "寄る", "r": "よる", "hv": "KÝ", "vi": "ghé qua" }
+        ],
+        "grammar": null,
+        "evidence": "引っ越しの日に、引っ越し先と同じ町にある友人宅に寄ってもらい、そこからテレビを引っ越し先に運んでもらいたいと思っています。…再度見積もりを作成していただけないでしょうか。",
+        "tip": "なお、～ là thông tin bổ sung; ý chính của email nằm ở yêu cầu (～ていただけないでしょうか)."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p3",
+      "stem": "筆者によると、人は相手の嬉しそうな表情を見るとどうなるか。",
+      "options": [
+        "相手の表情から嬉しい感情を読み取り、同じ感情が起きる。",
+        "相手の表情によって脳の緊張が解かれ、自然に笑顔になる。",
+        "無意識に相手と同じ表情になり、嬉しい感情を共有しようとする。",
+        "無意識に嬉しい表情になり、その結果として嬉しい感情が起きる。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, khi nhìn nét mặt vui vẻ của người khác thì con người sẽ thế nào? → Vô thức có nét mặt vui, và kết quả là cảm xúc vui xuất hiện.",
+        "why": "Trình tự trong bài: thấy người khác vui → 'つい' bắt chước nét mặt (vô thức) → khi có nét mặt vui thì tín hiệu thần kinh của niềm vui được kích hoạt trong não (= cảm xúc vui sinh ra). Đúng thứ tự: nét mặt trước, cảm xúc sau.",
+        "options": [
+          "Sai: không phải 'đọc cảm xúc rồi sinh cảm xúc'; bài nói nét mặt được bắt chước trước.",
+          "Sai: đảo thứ tự – bài nói cười theo rồi não mới hết căng thẳng, không phải ngược lại.",
+          "Sai: không có ý 'cố gắng chia sẻ cảm xúc'.",
+          "ĐÚNG: vô thức có nét mặt vui → kết quả sinh ra cảm xúc vui."
+        ],
+        "vocab": [
+          { "w": "表情", "r": "ひょうじょう", "hv": "BIỂU TÌNH", "vi": "nét mặt" },
+          { "w": "写し取る", "r": "うつしとる", "hv": "TẢ THỦ", "vi": "sao chép lại, bắt chước" },
+          { "w": "誘発", "r": "ゆうはつ", "hv": "DỤ PHÁT", "vi": "gây ra, kích phát" },
+          { "w": "緊張", "r": "きんちょう", "hv": "KHẨN TRƯƠNG", "vi": "căng thẳng" }
+        ],
+        "grammar": null,
+        "evidence": "目の前の人が、嬉しそうな表情をしていると、ついその表情を写し取ってしまう。…嬉しい表情になってしまうと、嬉しい時に脳に起こる神経信号が誘発されるのである。",
+        "tip": "つい～てしまう = vô tình, không kiểm soát được → tương ứng 無意識に trong đáp án."
+      }
+    },
+    {
+      "num": 55,
+      "passage": "p4",
+      "stem": "このメールを受け取ったあとで、青山さんがまずしなければならないことは何か。",
+      "options": [
+        "新しいグラフを作成する。",
+        "新しく作成されたグラフを確認する。",
+        "誤りのあった図表の修正を確認する。",
+        "誤りのあった図表を再度修正する。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Sau khi nhận email này, việc cô Aoyama phải làm trước tiên là gì? → Kiểm tra biểu đồ mới được tạo.",
+        "why": "Biểu đồ bổ sung đã làm xong và được đính kèm, nhờ kiểm tra (ご確認をお願いします). 5 bảng biểu bị lỗi vẫn đang sửa, trong tuần mới gửi → việc đầu tiên là kiểm tra biểu đồ mới.",
+        "options": [
+          "Sai: biểu đồ do nhà xuất bản làm, đã xong rồi.",
+          "ĐÚNG: kiểm tra biểu đồ mới được đính kèm.",
+          "Sai: các bảng sửa lỗi chưa được gửi (今週中にお送りする予定).",
+          "Sai: việc sửa do bên xuất bản làm; cô Aoyama chỉ kiểm tra."
+        ],
+        "vocab": [
+          { "w": "掲載", "r": "けいさい", "hv": "YẾT TẢI", "vi": "đăng (sách, báo)" },
+          { "w": "添付", "r": "てんぷ", "hv": "THIÊM PHÓ", "vi": "đính kèm" },
+          { "w": "誤り", "r": "あやまり", "hv": "NGỘ", "vi": "lỗi, sai sót" },
+          { "w": "修正", "r": "しゅうせい", "hv": "TU CHÍNH", "vi": "sửa chữa, chỉnh sửa" }
+        ],
+        "grammar": null,
+        "evidence": "ご指示のあった追加のグラフ1点が出来上がりましたので、添付いたします。ご確認をお願いします。",
+        "tip": "Câu hỏi 'まず' → tìm việc có thể làm ngay; việc 'dự định trong tuần' là bước sau."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p5",
+      "stem": "筆者が言いたいことは何か。",
+      "options": [
+        "自分の責任を果たすために他者を頼ることを、恥ずかしいと思う必要はない。",
+        "多くのことを抱え込んでいるときは、他者に責任を果たしてもらえばいい。",
+        "他者を頼ることより、自分の責任が果たせないことのほうが恥ずかしいことである。",
+        "他者に頼らず自分の責任を果たすことができたら、誇りを持つべきである。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều tác giả muốn nói là gì? → Không cần phải xấu hổ khi nhờ cậy người khác để hoàn thành trách nhiệm của mình.",
+        "why": "Tác giả khẳng định nhờ người khác để làm tròn trách nhiệm không phải là trốn trách nhiệm, 'それは恥ずかしいことではない', hãy ưỡn ngực tự hào mà sống.",
+        "options": [
+          "ĐÚNG: nhờ người khác để làm tròn trách nhiệm thì không cần xấu hổ.",
+          "Sai: không phải để người khác làm tròn trách nhiệm thay; mình vẫn là chủ thể trách nhiệm (責任の主体).",
+          "Sai: bài không so sánh mức độ xấu hổ.",
+          "Sai: ngược ý – tác giả khuyến khích nhờ người khác."
+        ],
+        "vocab": [
+          { "w": "責任を果たす", "r": "せきにんをはたす", "hv": "TRÁCH NHIỆM QUẢ", "vi": "làm tròn trách nhiệm" },
+          { "w": "頼る", "r": "たよる", "hv": "LẠI", "vi": "dựa vào, nhờ cậy" },
+          { "w": "抱え込む", "r": "かかえこむ", "hv": "BÃO", "vi": "ôm đồm, gánh hết" },
+          { "w": "胸を張る", "r": "むねをはる", "hv": "HUNG TRƯƠNG", "vi": "ưỡn ngực, tự hào" }
+        ],
+        "grammar": {
+          "pattern": "～べきだ",
+          "meaning": "nên ~, phải ~ (quan điểm mạnh của người viết)",
+          "form": "Vる＋べきだ（する→すべきだ）",
+          "example": "困ったときは人に相談するべきだ。"
+        },
+        "evidence": "その責任を果たすために、他者の手を借りるべきなのだ。それは恥ずかしいことではない。",
+        "tip": "Đáp án 2 là bẫy: 'nhờ giúp' ≠ 'đẩy trách nhiệm cho người khác'."
+      }
+    }
+  ]
+}

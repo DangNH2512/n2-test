@@ -1,0 +1,70 @@
+{
+  "exam": "2021-12",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "右のページは、あるスーパーマーケットの宅配サービスの案内である。下の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Trang bên là thông tin hướng dẫn dịch vụ giao hàng tận nhà của một siêu thị. Chọn câu trả lời đúng nhất cho các câu hỏi bên dưới.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "スーパー森下の宅配サービス",
+      "text": "スーパー森下の宅配サービス\n\nスーパー森下の会員（一般会員、シニア会員）のお客様が、スーパー森下でお買い求めになった常温の商品を、ご自宅まで配達いたします。ご利用を希望されるお客様は、1階サービスカウンターまでお越しください。\n＊ 冷蔵・冷凍の商品は宅配サービスの対象外です。\n＊ 専用の箱（縦35cm×横50cm×高さ30cm）で配達いたします。\n\n一般会員：お買い物の合計金額3,000円以上で、ご利用になれます。\nシニア会員：お買い物の合計金額1,000円ごとに、1箱ご利用になれます。\n・一般会員、シニア会員ともに送ることができるのは3箱までです。\n・お買い物の合計金額（宅配サービス対象外の物も含む）が、上の表の金額未満の場合、宅配サービスはご利用になれません。\n\n【配達対象地域】\n中区：岩長町全域、緑町全域、花森町1丁目～5丁目\n北区：朝春町全域、千京町3丁目～6丁目\n南区：平川町1丁目～3丁目\n\n【配達受付と配達時間】\n開店（午前10時）から正午まで：[A]当日午後1時～5時　[B]当日午後5時～9時\n正午から午後4時まで：[A]当日午後5時～9時　[B]翌日の午前9時～正午\n午後4時から閉店（午後10時）まで：[A]翌日の午前9時～正午　[B]翌日の午後1時～9時\n・配達時間は、[A][B]どちらかの時間が選べます。\n\n【ご利用方法】\n1　レジでご精算の後、配達をご希望の商品を1階サービスカウンターにお持ちください。\n2　専用の箱に配達をご希望の商品を入れ、会員カードとレシートを見せ、配達受付をしてください。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 70,
+      "passage": "p1",
+      "stem": "次の4人は、スーパー森下で買い物を終えたところで、買った商品を自宅まで届けてほしいと考えている。この中で、店の宅配サービスを利用できるのは誰か。\n\n名前｜住所｜会員の種類｜買い物の合計金額｜送る商品の量\nリーさん｜南区平川町2丁目｜非会員｜5,232円｜3箱分\n川口さん｜中区緑町4丁目｜一般会員｜2,546円｜2箱分\nハリスさん｜北区千京町1丁目｜シニア会員｜2,179円｜1箱分\n高橋さん｜北区朝春町5丁目｜シニア会員｜1,630円｜1箱分",
+      "options": ["リーさん", "川口さん", "ハリスさん", "高橋さん"],
+      "answer": 4,
+      "explanation": {
+        "translation": "4 người sau vừa mua sắm xong ở siêu thị Morishita và muốn được giao hàng đã mua về nhà. Trong số này, ai có thể dùng dịch vụ giao hàng? → Anh/chị Takahashi.",
+        "why": "Điều kiện: (1) là hội viên; (2) hội viên thường: tổng tiền ≥ 3.000 yên; hội viên cao tuổi: cứ 1.000 yên được 1 thùng; (3) tối đa 3 thùng; (4) ở khu vực giao hàng. Takahashi: hội viên cao tuổi, 1.630 yên → được 1 thùng, gửi 1 thùng; 朝春町 thuộc 'toàn khu' (全域) → đủ điều kiện.",
+        "options": [
+          "Lee → không phải hội viên (非会員). Sai.",
+          "Kawaguchi → hội viên thường nhưng chỉ 2.546 yên < 3.000 yên. Sai.",
+          "Harris → tiền đủ (2.179 yên → 2 thùng), nhưng 千京町 chỉ giao 3〜6丁目, còn Harris ở 1丁目. Sai.",
+          "Takahashi → hội viên cao tuổi, 1.630 yên đủ 1 thùng, 朝春町全域 trong khu vực giao. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "宅配", "r": "たくはい", "hv": "TRẠCH PHỐI", "vi": "giao hàng tận nhà" },
+          { "w": "会員", "r": "かいいん", "hv": "HỘI VIÊN", "vi": "hội viên" },
+          { "w": "合計金額", "r": "ごうけいきんがく", "hv": "HỢP KẾ KIM NGẠCH", "vi": "tổng số tiền" },
+          { "w": "全域", "r": "ぜんいき", "hv": "TOÀN VỰC", "vi": "toàn bộ khu vực" },
+          { "w": "未満", "r": "みまん", "hv": "VỊ MÃN", "vi": "chưa đến, dưới (không bao gồm)" }
+        ],
+        "grammar": null,
+        "evidence": "一般会員：お買い物の合計金額3,000円以上で、ご利用になれます。シニア会員：お買い物の合計金額1,000円ごとに、1箱ご利用になれます。／北区：朝春町全域、千京町3丁目～6丁目",
+        "tip": "Dạng bài tra cứu: kiểm tra lần lượt từng điều kiện (hội viên → tiền → số thùng → khu vực) và loại dần."
+      }
+    },
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "加山さんは一般会員で、この宅配サービスが利用可能である。今日、水などの常温の商品と冷凍食品を買うつもりである。明日の午前中に商品を届けてもらいたい。送れるのは何で、受付は何時から何時までに済ませなければならないか。",
+      "options": ["常温の商品で、午前10時から午後4時までに済ませる。", "常温の商品で、正午から午後10時までに済ませる。", "常温の商品と冷凍の商品で、午前10時から午後4時までに済ませる。", "常温の商品と冷凍の商品で、正午から午後10時までに済ませる。"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh/chị Kayama là hội viên thường, có thể dùng dịch vụ. Hôm nay định mua hàng nhiệt độ thường như nước và đồ đông lạnh, muốn được giao vào buổi sáng ngày mai. Gửi được gì và phải đăng ký trong khoảng thời gian nào? → Hàng nhiệt độ thường, đăng ký từ 12 giờ trưa đến 10 giờ tối.",
+        "why": "Đồ lạnh/đông lạnh không thuộc đối tượng giao (冷蔵・冷凍の商品は対象外) → chỉ gửi được hàng nhiệt độ thường. Khung 'sáng hôm sau 9 giờ–12 giờ trưa' có ở: đăng ký 正午～午後4時 (lựa chọn [B]) và 午後4時～閉店午後10時 (lựa chọn [A]) → phải đăng ký trong khoảng 12 giờ trưa – 10 giờ tối.",
+        "options": [
+          "Hàng thường, 10 giờ sáng–4 giờ chiều → đăng ký 10 giờ–12 giờ trưa thì chỉ giao trong ngày. Sai.",
+          "Hàng thường, 12 giờ trưa–10 giờ tối → đúng cả loại hàng lẫn giờ. ĐÚNG.",
+          "Thường + đông lạnh, 10 giờ–4 giờ → đồ đông lạnh không gửi được, giờ cũng sai. Sai.",
+          "Thường + đông lạnh, 12 giờ–10 giờ tối → giờ đúng nhưng đồ đông lạnh không gửi được. Sai."
+        ],
+        "vocab": [
+          { "w": "常温", "r": "じょうおん", "hv": "THƯỜNG ÔN", "vi": "nhiệt độ thường" },
+          { "w": "冷凍食品", "r": "れいとうしょくひん", "hv": "LÃNH ĐÔNG THỰC PHẨM", "vi": "thực phẩm đông lạnh" },
+          { "w": "対象外", "r": "たいしょうがい", "hv": "ĐỐI TƯỢNG NGOẠI", "vi": "ngoài đối tượng" },
+          { "w": "翌日", "r": "よくじつ", "hv": "DỰC NHẬT", "vi": "ngày hôm sau" },
+          { "w": "受付", "r": "うけつけ", "hv": "THỤ PHÓ", "vi": "tiếp nhận, đăng ký" }
+        ],
+        "grammar": null,
+        "evidence": "＊ 冷蔵・冷凍の商品は宅配サービスの対象外です。／正午から午後4時まで：[B]翌日の午前9時～正午／午後4時から閉店（午後10時）まで：[A]翌日の午前9時～正午",
+        "tip": "Bảng giờ có 2 lựa chọn [A][B] — đừng chỉ nhìn cột [A]."
+      }
+    }
+  ]
+}

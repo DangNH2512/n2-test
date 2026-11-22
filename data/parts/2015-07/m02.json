@@ -1,0 +1,140 @@
+{
+  "exam": "2015-07",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết Kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "Ａ地点からＢ地点までの<u>きょり</u>を測った。",
+      "options": ["距離", "距理", "拒離", "拒理"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đã đo khoảng cách từ điểm A đến điểm B.",
+        "why": "きょり viết là 距離 (CỰ LY) = khoảng cách. 距 (bộ 足) là cự ly, 離 (はなれる) là rời xa.",
+        "options": [
+          "距離 → khoảng cách. ĐÚNG.",
+          "距理 → không có từ này (理 = lý lẽ). Sai.",
+          "拒離 → không có từ này (拒 = cự tuyệt, 拒否). Sai.",
+          "拒理 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "距離", "r": "きょり", "hv": "CỰ LY", "vi": "khoảng cách" },
+          { "w": "地点", "r": "ちてん", "hv": "ĐỊA ĐIỂM", "vi": "địa điểm, điểm" },
+          { "w": "測る", "r": "はかる", "hv": "TRẮC", "vi": "đo (độ dài, khoảng cách)" },
+          { "w": "拒否", "r": "きょひ", "hv": "CỰ PHỦ", "vi": "từ chối, bác bỏ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "距 có bộ 足 (chân, đi lại → khoảng cách); 拒 có bộ 扌(tay → đẩy ra, từ chối)."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "<u>おどろかせて</u>しまって、すみません。",
+      "options": ["怖かせて", "焦かせて", "驚かせて", "騒かせて"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Xin lỗi vì đã làm bạn giật mình.",
+        "why": "おどろかせる là thể sai khiến của 驚く (おどろく, KINH) = ngạc nhiên, giật mình → 驚かせる = làm cho ngạc nhiên.",
+        "options": [
+          "怖かせて → 怖 đọc こわい (sợ), không có 怖かせる. Sai.",
+          "焦かせて → 焦 đọc あせる (vội)/こげる (cháy), không đọc おどろ. Sai.",
+          "驚かせて → làm ngạc nhiên. ĐÚNG.",
+          "騒かせて → 騒 đọc さわぐ (làm ồn), không đọc おどろ. Sai."
+        ],
+        "vocab": [
+          { "w": "驚く", "r": "おどろく", "hv": "KINH", "vi": "ngạc nhiên, giật mình" },
+          { "w": "怖い", "r": "こわい", "hv": "BỐ", "vi": "sợ, đáng sợ" },
+          { "w": "焦る", "r": "あせる", "hv": "TIÊU", "vi": "sốt ruột, vội vàng" },
+          { "w": "騒ぐ", "r": "さわぐ", "hv": "TAO", "vi": "làm ồn, náo loạn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "驚 có bộ 馬 (ngựa) ở dưới: ngựa giật mình hoảng sợ."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "森さんは塾の<u>こうし</u>をしています。",
+      "options": ["構師", "構士", "講師", "講士"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh Mori đang làm giảng viên ở trường luyện thi.",
+        "why": "こうし (người giảng dạy) viết là 講師 (GIẢNG SƯ). 講 = giảng (講義, 講演), 師 = thầy (教師, 医師).",
+        "options": [
+          "構師 → 構 = cấu (構造), sai chữ. Sai.",
+          "構士 → không có từ này. Sai.",
+          "講師 → giảng viên. ĐÚNG.",
+          "講士 → 士 dùng cho 弁護士, 消防士…, không dùng trong từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "講師", "r": "こうし", "hv": "GIẢNG SƯ", "vi": "giảng viên, người dạy" },
+          { "w": "塾", "r": "じゅく", "hv": "THỤC", "vi": "trường luyện thi, lớp học thêm" },
+          { "w": "講義", "r": "こうぎ", "hv": "GIẢNG NGHĨA", "vi": "bài giảng" },
+          { "w": "構造", "r": "こうぞう", "hv": "CẤU TẠO", "vi": "cấu trúc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "講 có bộ 言 (lời nói → giảng giải); 構 có bộ 木 (gỗ → cấu trúc, xây dựng)."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "今日もまだ<u>うで</u>に痛みがあります。",
+      "options": ["腹", "胸", "腰", "腕"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hôm nay cánh tay tôi vẫn còn đau.",
+        "why": "うで viết là 腕 (OẢN) = cánh tay. Các chữ còn lại đều là bộ phận cơ thể nhưng đọc khác.",
+        "options": [
+          "腹 → はら: bụng. Sai.",
+          "胸 → むね: ngực. Sai.",
+          "腰 → こし: lưng dưới, hông. Sai.",
+          "腕 → うで: cánh tay. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "腕", "r": "うで", "hv": "OẢN", "vi": "cánh tay; tay nghề" },
+          { "w": "腹", "r": "はら", "hv": "PHÚC", "vi": "bụng" },
+          { "w": "胸", "r": "むね", "hv": "HUNG", "vi": "ngực" },
+          { "w": "腰", "r": "こし", "hv": "YÊU", "vi": "thắt lưng, hông" },
+          { "w": "痛み", "r": "いたみ", "hv": "THỐNG", "vi": "cơn đau" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "腕 còn nghĩa tay nghề: 腕がいい (giỏi nghề), 腕時計 (đồng hồ đeo tay)."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "姉はたくさんの友達に<u>めぐまれて</u>いる。",
+      "options": ["恵まれて", "善まれて", "幸まれて", "喜まれて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Chị tôi may mắn có rất nhiều bạn bè.",
+        "why": "めぐまれる viết là 恵まれる (HUỆ) = được ban cho, may mắn có được. Nに恵まれる = may mắn có ~.",
+        "options": [
+          "恵まれて → được ưu ái, may mắn có. ĐÚNG.",
+          "善まれて → 善 đọc よい/ぜん, không có 善まれる. Sai.",
+          "幸まれて → 幸 đọc しあわせ/さいわい, không có 幸まれる. Sai.",
+          "喜まれて → 喜 đọc よろこぶ, không có 喜まれる. Sai."
+        ],
+        "vocab": [
+          { "w": "恵まれる", "r": "めぐまれる", "hv": "HUỆ", "vi": "được ban cho, may mắn có" },
+          { "w": "恵み", "r": "めぐみ", "hv": "HUỆ", "vi": "ân huệ, sự ban phát" },
+          { "w": "幸い", "r": "さいわい", "hv": "HẠNH", "vi": "may mắn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm hay gặp: 天気に恵まれる (gặp thời tiết đẹp), 才能に恵まれる (có tài năng thiên phú)."
+      }
+    }
+  ]
+}

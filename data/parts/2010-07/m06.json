@@ -1,0 +1,165 @@
+{
+  "exam": "2010-07",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn câu sử dụng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "取材",
+      "options": [
+        "学期末試験の範囲を友達に<u>取材</u>しました。",
+        "デパートに買い物に行く前に、営業時間を<u>取材</u>しておこう。",
+        "インターネットは、簡単に地図を<u>取材</u>できるので便利です。",
+        "あの選手の練習の様子を<u>取材</u>したときは、とても緊張しました。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Lúc tôi đi lấy tin (phỏng vấn, đưa tin) về buổi tập của vận động viên đó, tôi đã rất căng thẳng.",
+        "why": "取材(しゅざい) = thu thập tư liệu, lấy tin để viết bài/đưa tin (báo chí, truyền hình). Chỉ câu 4 là bối cảnh báo chí đi lấy tin về vận động viên.",
+        "options": [
+          "Hỏi bạn phạm vi thi cuối kỳ → phải dùng 聞きました/尋ねました. Sai.",
+          "Tìm hiểu giờ mở cửa → phải dùng 調べておこう. Sai.",
+          "Tra bản đồ dễ dàng → phải dùng 調べる/見る. Sai.",
+          "Lấy tin về buổi tập của vận động viên → 取材. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "取材", "r": "しゅざい", "hv": "THỦ TÀI", "vi": "lấy tin, thu thập tư liệu (báo chí)" },
+          { "w": "様子", "r": "ようす", "hv": "DẠNG TỬ", "vi": "tình hình, dáng vẻ" },
+          { "w": "緊張", "r": "きんちょう", "hv": "KHẨN TRƯƠNG", "vi": "căng thẳng, hồi hộp" },
+          { "w": "範囲", "r": "はんい", "hv": "PHẠM VI", "vi": "phạm vi" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "取材 gắn với phóng viên, nhà văn: 記者が事件を取材する."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "きっかけ",
+      "options": [
+        "季節の<u>きっかけ</u>は風邪をひきやすい。",
+        "友人に写真をほめられたのが<u>きっかけ</u>で、本格的に勉強を始めた。",
+        "その意見に反対する<u>きっかけ</u>は、主観的すぎるからだ。",
+        "今回は時間がないので、次の<u>きっかけ</u>に訪れようと思う。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Việc được bạn khen ảnh chụp đã trở thành cái cớ (động lực ban đầu) để tôi bắt đầu học (nhiếp ảnh) một cách bài bản.",
+        "why": "きっかけ = cơ duyên, cái cớ, sự kiện khởi đầu dẫn tới việc gì. Mẫu ～がきっかけで = nhờ/do ～ mà bắt đầu …. Câu 2 dùng đúng.",
+        "options": [
+          "Giao mùa dễ bị cảm → phải là 季節の変わり目. Sai.",
+          "Được khen ảnh → bắt đầu học nghiêm túc: ～がきっかけで. ĐÚNG.",
+          "Lý do phản đối → phải dùng 理由. Sai.",
+          "Lần sau sẽ ghé thăm → phải dùng 次の機会に. Sai."
+        ],
+        "vocab": [
+          { "w": "きっかけ", "r": "きっかけ", "hv": "", "vi": "cơ duyên, cái cớ khởi đầu" },
+          { "w": "本格的", "r": "ほんかくてき", "hv": "BẢN CÁCH ĐÍCH", "vi": "chính thức, bài bản" },
+          { "w": "変わり目", "r": "かわりめ", "hv": "BIẾN MỤC", "vi": "lúc chuyển giao" },
+          { "w": "機会", "r": "きかい", "hv": "CƠ HỘI", "vi": "cơ hội, dịp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "きっかけ = chuyện xảy ra trước, mở đầu cho một thay đổi; 機会 = dịp/cơ hội làm gì."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "深刻",
+      "options": [
+        "彼は動物に対して<u>深刻</u>な愛情を持っている。",
+        "家族との時間を<u>深刻</u>に過ごしている。",
+        "彼は<u>深刻</u>な悩みをかかえているようだ。",
+        "テストが近いので、<u>深刻</u>に勉強した。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Có vẻ anh ấy đang ôm một nỗi phiền muộn nghiêm trọng.",
+        "why": "深刻(しんこく) = nghiêm trọng, trầm trọng (vấn đề, tình trạng xấu). 深刻な悩み/問題/状況 là kết hợp tự nhiên.",
+        "options": [
+          "Tình yêu sâu sắc với động vật → phải là 深い愛情. Sai.",
+          "Trải qua thời gian với gia đình → nên là 大切に過ごす. Sai.",
+          "Nỗi phiền muộn nghiêm trọng → 深刻な悩み. ĐÚNG.",
+          "Học chăm chỉ vì sắp thi → phải là 真剣に/熱心に勉強した. Sai."
+        ],
+        "vocab": [
+          { "w": "深刻", "r": "しんこく", "hv": "THÂM KHẮC", "vi": "nghiêm trọng" },
+          { "w": "悩み", "r": "なやみ", "hv": "NÃO", "vi": "nỗi phiền muộn" },
+          { "w": "抱える", "r": "かかえる", "hv": "BÃO", "vi": "ôm, gánh (vấn đề)" },
+          { "w": "真剣", "r": "しんけん", "hv": "CHÂN KIẾM", "vi": "nghiêm túc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "深刻 chỉ dùng cho tình trạng xấu; “nghiêm túc” học hành là 真剣."
+      }
+    },
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "続出",
+      "options": [
+        "満員電車から乗客が<u>続出</u>してきた。",
+        "暑さのせいで気分が悪くなる人が<u>続出</u>した。",
+        "最近は、天気の悪い日が<u>続出</u>している。",
+        "薬で治ったと思っていた風邪が<u>続出</u>した。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Vì trời nóng mà người bị mệt (khó chịu) xuất hiện liên tiếp.",
+        "why": "続出(ぞくしゅつ) = (sự việc, người cùng loại) liên tiếp xuất hiện, xảy ra nối tiếp nhau. Câu 2: nhiều người lần lượt bị mệt.",
+        "options": [
+          "Hành khách tuôn ra khỏi tàu → nên dùng 次々と降りてきた. Sai.",
+          "Người bị mệt vì nóng xuất hiện liên tiếp → 続出. ĐÚNG.",
+          "Ngày thời tiết xấu kéo dài → phải dùng 続いている. Sai.",
+          "Cảm tưởng khỏi lại tái phát → phải dùng 再発した/ぶり返した. Sai."
+        ],
+        "vocab": [
+          { "w": "続出", "r": "ぞくしゅつ", "hv": "TỤC XUẤT", "vi": "xuất hiện liên tiếp" },
+          { "w": "満員", "r": "まんいん", "hv": "MÃN VIÊN", "vi": "chật kín người" },
+          { "w": "再発", "r": "さいはつ", "hv": "TÁI PHÁT", "vi": "tái phát" },
+          { "w": "乗客", "r": "じょうきゃく", "hv": "THỪA KHÁCH", "vi": "hành khách" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "続出 thường đi với nhiều người/sự việc: 被害者が続出, 失敗が続出."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "外見",
+      "options": [
+        "人を<u>外見</u>で判断するのはよくないことだ。",
+        "窓の<u>外見</u>をペンキで白く塗った。",
+        "月の<u>外見</u>はでこぼこしている。",
+        "母は怒っている<u>外見</u>だった。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Đánh giá con người qua vẻ bề ngoài là không tốt.",
+        "why": "外見(がいけん) = vẻ bề ngoài (thường nói về người hoặc vật nhìn từ ngoài). 人を外見で判断する là cách dùng chuẩn.",
+        "options": [
+          "外見 → vẻ ngoài của con người. ĐÚNG.",
+          "Sơn mặt ngoài cửa sổ → phải dùng 外側(そとがわ). Sai.",
+          "Bề mặt mặt trăng gồ ghề → phải dùng 表面(ひょうめん). Sai.",
+          "Mẹ trông có vẻ đang giận → phải dùng 様子(ようす). Sai."
+        ],
+        "vocab": [
+          { "w": "外見", "r": "がいけん", "hv": "NGOẠI KIẾN", "vi": "vẻ bề ngoài" },
+          { "w": "判断", "r": "はんだん", "hv": "PHÁN ĐOÁN", "vi": "phán đoán, đánh giá" },
+          { "w": "外側", "r": "そとがわ", "hv": "NGOẠI TRẮC", "vi": "phía ngoài" },
+          { "w": "表面", "r": "ひょうめん", "hv": "BIỂU DIỆN", "vi": "bề mặt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "外見 = 見た目 (vẻ ngoài); 外側 = mặt ngoài (vị trí vật lý)."
+      }
+    }
+  ]
+}

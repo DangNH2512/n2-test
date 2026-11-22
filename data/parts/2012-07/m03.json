@@ -1,0 +1,135 @@
+{
+  "exam": "2012-07",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ (tiền tố/hậu tố) thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "その事件の犯人は、ビジネスマン（　　）の男だったらしい。",
+      "options": ["状", "式", "風", "流"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nghe nói thủ phạm vụ án đó là một người đàn ông trông giống dân văn phòng.",
+        "why": "Danh từ + 風(ふう) = có vẻ, trông giống như ~ (về bề ngoài). ビジネスマン風の男 = người đàn ông trông như doanh nhân.",
+        "options": [
+          "状(じょう) → dạng, hình dạng: 液状, 円状. Sai.",
+          "式(しき) → kiểu, phương thức: 日本式, 自動式. Sai.",
+          "風(ふう) → có vẻ, trông như ~. ĐÚNG.",
+          "流(りゅう) → phong cách, lối riêng của ai: 自己流, 日本流. Sai."
+        ],
+        "vocab": [
+          { "w": "～風", "r": "～ふう", "hv": "PHONG", "vi": "trông như ~, kiểu ~" },
+          { "w": "犯人", "r": "はんにん", "hv": "PHẠM NHÂN", "vi": "thủ phạm" },
+          { "w": "事件", "r": "じけん", "hv": "SỰ KIỆN", "vi": "vụ án, sự việc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "学生風, サラリーマン風, 和風(わふう) = kiểu Nhật."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "今はまだ（　　）採用だが、いずれ本採用になるはずだ。",
+      "options": ["副", "短", "仮", "半"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Bây giờ vẫn chỉ là tuyển dụng tạm thời, nhưng sớm muộn gì cũng sẽ được tuyển chính thức.",
+        "why": "仮(かり) + danh từ = tạm thời, tạm. 仮採用 (tuyển dụng tạm) đối lập với 本採用 (tuyển chính thức).",
+        "options": [
+          "副(ふく) → phó, phụ: 副社長, 副作用. Sai.",
+          "短(たん) → ngắn: 短期間. Sai.",
+          "仮(かり) → tạm thời: 仮採用, 仮免許. ĐÚNG.",
+          "半(はん) → một nửa: 半年. Sai."
+        ],
+        "vocab": [
+          { "w": "仮採用", "r": "かりさいよう", "hv": "GIẢ THẢI DỤNG", "vi": "tuyển dụng tạm thời" },
+          { "w": "本採用", "r": "ほんさいよう", "hv": "BẢN THẢI DỤNG", "vi": "tuyển dụng chính thức" },
+          { "w": "いずれ", "r": "いずれ", "hv": "", "vi": "sớm muộn gì, một ngày nào đó" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "仮 + N: 仮免許(かりめんきょ) bằng lái tạm, 仮名(かめい) tên giả."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "ここは国際（　　）の豊かな都市として知られている。",
+      "options": ["質", "香", "気", "色"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nơi đây được biết đến là một thành phố đậm màu sắc quốc tế.",
+        "why": "国際色(こくさいしょく) = màu sắc quốc tế, tính quốc tế. Cụm cố định 「国際色豊か」.",
+        "options": [
+          "質 → 国際質: không có từ này. Sai.",
+          "香 → 国際香: không có. Sai.",
+          "気 → 国際気: không có. Sai.",
+          "色(しょく) → 国際色: màu sắc quốc tế. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "国際色", "r": "こくさいしょく", "hv": "QUỐC TẾ SẮC", "vi": "màu sắc/tính chất quốc tế" },
+          { "w": "豊か", "r": "ゆたか", "hv": "PHONG", "vi": "phong phú, giàu có" },
+          { "w": "都市", "r": "とし", "hv": "ĐÔ THỊ", "vi": "thành phố" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "～色(しょく) = sắc thái: 地方色(ちほうしょく) màu sắc địa phương, 政治色 màu sắc chính trị."
+      }
+    },
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "レポートの課題で、（　　）外国の教育事情を調べて、違いを表にまとめた。",
+      "options": ["数", "多", "総", "諸"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Trong bài tập báo cáo, tôi đã tìm hiểu tình hình giáo dục của các nước ngoài và tổng hợp những khác biệt thành bảng.",
+        "why": "諸(しょ) + danh từ = các, nhiều ~. 諸外国(しょがいこく) = các nước ngoài.",
+        "options": [
+          "数(すう) → vài, mấy: 数人, 数年. Không đi với 外国. Sai.",
+          "多(た) → nhiều: 多目的. Không nói 多外国. Sai.",
+          "総(そう) → tổng, toàn bộ: 総人口. Sai.",
+          "諸(しょ) → các: 諸外国, 諸問題. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "諸外国", "r": "しょがいこく", "hv": "CHƯ NGOẠI QUỐC", "vi": "các nước ngoài" },
+          { "w": "課題", "r": "かだい", "hv": "KHÓA ĐỀ", "vi": "bài tập, vấn đề cần giải quyết" },
+          { "w": "事情", "r": "じじょう", "hv": "SỰ TÌNH", "vi": "tình hình, hoàn cảnh" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "諸 = CHƯ (chư vị): 諸国, 諸問題, 諸君."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "A社は、（　　）価格の商品で市場の拡大を狙っている。",
+      "options": ["低", "安", "小", "下"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Công ty A đang nhắm đến việc mở rộng thị trường bằng các sản phẩm giá thấp.",
+        "why": "低価格(ていかかく) = giá thấp, giá rẻ. Với 価格 dùng 低/高 (低価格・高価格).",
+        "options": [
+          "低(てい) → 低価格: giá thấp. ĐÚNG.",
+          "安 → 安価格: không dùng (nói 安価 あんか). Sai.",
+          "小 → 小価格: không có. Sai.",
+          "下 → 下価格: không có. Sai."
+        ],
+        "vocab": [
+          { "w": "低価格", "r": "ていかかく", "hv": "ĐÊ GIÁ CÁCH", "vi": "giá thấp" },
+          { "w": "拡大", "r": "かくだい", "hv": "KHUẾCH ĐẠI", "vi": "mở rộng" },
+          { "w": "狙う", "r": "ねらう", "hv": "THƯ", "vi": "nhắm vào, nhắm tới" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "低 + N: 低価格, 低温(ていおん), 低収入(ていしゅうにゅう)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "exam": "2023-07",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống (theo ngữ cảnh).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "彼は本当は優しい人なのに、無口なせいで、冷たい人だとよく（　　）される。",
+      "options": ["観測", "誤解", "決意", "承認"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh ấy thực ra là người hiền lành, vậy mà vì ít nói nên hay bị hiểu lầm là người lạnh lùng.",
+        "why": "本当は優しい ↔ 冷たい人だと思われる → hiểu sai sự thật = 誤解 (ごかい). Cấu trúc ～と誤解される = bị hiểu lầm là ~.",
+        "options": [
+          "観測 → かんそく: quan trắc (thời tiết, thiên văn). Sai.",
+          "誤解 → ごかい: hiểu lầm. ĐÚNG.",
+          "決意 → けつい: quyết tâm. Sai.",
+          "承認 → しょうにん: phê duyệt, công nhận. Sai."
+        ],
+        "vocab": [
+          { "w": "誤解", "r": "ごかい", "hv": "NGỘ GIẢI", "vi": "hiểu lầm" },
+          { "w": "無口", "r": "むくち", "hv": "VÔ KHẨU", "vi": "ít nói" },
+          { "w": "観測", "r": "かんそく", "hv": "QUAN TRẮC", "vi": "quan sát, đo đạc" },
+          { "w": "決意", "r": "けつい", "hv": "QUYẾT Ý", "vi": "quyết tâm" },
+          { "w": "承認", "r": "しょうにん", "hv": "THỪA NHẬN", "vi": "phê duyệt, chấp thuận" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Dấu hiệu: のに (trái ngược) + せいで (nguyên nhân xấu) → kết quả tiêu cực là \"bị hiểu lầm\"."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "新製品の売れ行きが（　　）なので、生産量を増やすことにした。",
+      "options": ["温厚", "円満", "好調", "適切"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vì sản phẩm mới bán chạy (tình hình tiêu thụ tốt) nên đã quyết định tăng sản lượng.",
+        "why": "売れ行きが好調 = bán chạy, tình hình kinh doanh thuận lợi. 好調 (こうちょう) dùng cho tình trạng/tiến triển của việc kinh doanh, sức khỏe, phong độ.",
+        "options": [
+          "温厚 → おんこう: ôn hòa, hiền hậu (tính cách người). Sai.",
+          "円満 → えんまん: êm ấm, hòa thuận (gia đình, quan hệ). Sai.",
+          "好調 → こうちょう: thuận lợi, tốt đẹp. ĐÚNG.",
+          "適切 → てきせつ: thích đáng, phù hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "好調", "r": "こうちょう", "hv": "HẢO ĐIỀU", "vi": "thuận lợi, phong độ tốt" },
+          { "w": "売れ行き", "r": "うれゆき", "hv": "MẠI HÀNH", "vi": "tình hình tiêu thụ" },
+          { "w": "生産量", "r": "せいさんりょう", "hv": "SINH SẢN LƯỢNG", "vi": "sản lượng" },
+          { "w": "温厚", "r": "おんこう", "hv": "ÔN HẬU", "vi": "ôn hòa, hiền hậu" },
+          { "w": "円満", "r": "えんまん", "hv": "VIÊN MÃN", "vi": "êm ấm, viên mãn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Trái nghĩa: 不調 (ふちょう: trục trặc, phong độ kém). Cụm hay gặp: 売れ行きが好調／好調な滑り出し."
+      }
+    },
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "彼は、どんな仕事でもミス一つなく期日までに仕上げてくれるので、本当に（　　）部下だと思う。",
+      "options": ["頼もしい", "たくましい", "輝かしい", "親しい"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Anh ấy làm việc gì cũng hoàn thành trước hạn mà không sai sót gì, nên tôi nghĩ anh ấy thật sự là cấp dưới đáng tin cậy.",
+        "why": "Làm việc chính xác, đúng hạn → có thể giao phó, trông cậy được = 頼もしい (たのもしい).",
+        "options": [
+          "頼もしい → đáng tin cậy, có thể trông cậy. ĐÚNG.",
+          "たくましい → 逞しい: vạm vỡ, mạnh mẽ, kiên cường (thể chất/tinh thần). Sai.",
+          "輝かしい → かがやかしい: rực rỡ, vẻ vang (thành tích). Sai.",
+          "親しい → したしい: thân thiết. Sai."
+        ],
+        "vocab": [
+          { "w": "頼もしい", "r": "たのもしい", "hv": "LẠI", "vi": "đáng tin cậy" },
+          { "w": "期日", "r": "きじつ", "hv": "KỲ NHẬT", "vi": "ngày hạn" },
+          { "w": "仕上げる", "r": "しあげる", "hv": "SĨ THƯỢNG", "vi": "hoàn thành" },
+          { "w": "部下", "r": "ぶか", "hv": "BỘ HẠ", "vi": "cấp dưới" },
+          { "w": "輝かしい", "r": "かがやかしい", "hv": "HUY", "vi": "rực rỡ, vẻ vang" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "頼もしい ← 頼む (nhờ) → người có thể nhờ cậy được. たくましい thiên về sức mạnh, không phải độ tin cậy công việc."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "食費を（　　）するために、なるべく外食をしないようにしている。",
+      "options": ["減量", "省略", "短縮", "節約"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Để tiết kiệm tiền ăn, tôi cố gắng hạn chế ăn ngoài.",
+        "why": "食費 (tiền ăn) là chi phí → giảm chi tiêu = 節約 (せつやく). 減量 chỉ giảm khối lượng/cân nặng, không dùng cho tiền.",
+        "options": [
+          "減量 → げんりょう: giảm cân, giảm lượng. Sai.",
+          "省略 → しょうりゃく: lược bỏ, viết tắt. Sai.",
+          "短縮 → たんしゅく: rút ngắn (thời gian, khoảng cách). Sai.",
+          "節約 → せつやく: tiết kiệm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "節約", "r": "せつやく", "hv": "TIẾT ƯỚC", "vi": "tiết kiệm" },
+          { "w": "食費", "r": "しょくひ", "hv": "THỰC PHÍ", "vi": "tiền ăn" },
+          { "w": "外食", "r": "がいしょく", "hv": "NGOẠI THỰC", "vi": "ăn ngoài" },
+          { "w": "短縮", "r": "たんしゅく", "hv": "ĐOẢN SÚC", "vi": "rút ngắn" },
+          { "w": "省略", "r": "しょうりゃく", "hv": "TỈNH LƯỢC", "vi": "lược bỏ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Kết hợp: 時間を短縮／説明を省略／体重を減量／お金・電気・水を節約."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "簡単にお金がもうかるというような話に、すぐ（　　）のはやめたほうがいい。",
+      "options": ["駆け込む", "触れ合う", "寄りかかる", "飛びつく"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Không nên vội vàng chộp lấy (bị cuốn theo) những lời mời kiểu \"kiếm tiền dễ dàng\".",
+        "why": "～に飛びつく = lao vào, vồ lấy ngay (một lời mời, món hời) mà không suy nghĩ. Đi với 話に・すぐ rất tự nhiên.",
+        "options": [
+          "駆け込む → かけこむ: chạy ùa vào (駅に駆け込む). Sai.",
+          "触れ合う → ふれあう: tiếp xúc, giao lưu với nhau. Sai.",
+          "寄りかかる → よりかかる: dựa vào (tường); ỷ lại. Sai.",
+          "飛びつく → とびつく: vồ lấy, chộp lấy ngay. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "飛びつく", "r": "とびつく", "hv": "PHI", "vi": "vồ lấy, chộp ngay" },
+          { "w": "儲かる", "r": "もうかる", "hv": "TRỮ", "vi": "có lãi, kiếm được tiền" },
+          { "w": "駆け込む", "r": "かけこむ", "hv": "KHU", "vi": "chạy ùa vào" },
+          { "w": "寄りかかる", "r": "よりかかる", "hv": "KÝ", "vi": "dựa vào" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nghĩa bóng: うまい話に飛びつく = chộp ngay món hời. 寄りかかる cũng có nghĩa bóng \"ỷ lại\" nhưng đi với người (親に寄りかかる)."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "やりたい仕事内容の（　　）があったので、早速応募することにした。",
+      "options": ["催促", "入社", "求人", "収集"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Có tin tuyển dụng với nội dung công việc tôi muốn làm, nên tôi quyết định nộp đơn ngay.",
+        "why": "求人 (きゅうじん) = tuyển người, tin tuyển dụng. Có 求人 → 応募 (ứng tuyển) là mạch logic.",
+        "options": [
+          "催促 → さいそく: thúc giục. Sai.",
+          "入社 → にゅうしゃ: vào công ty – xảy ra sau khi ứng tuyển. Sai.",
+          "求人 → きゅうじん: tuyển dụng. ĐÚNG.",
+          "収集 → しゅうしゅう: thu thập, sưu tầm. Sai."
+        ],
+        "vocab": [
+          { "w": "求人", "r": "きゅうじん", "hv": "CẦU NHÂN", "vi": "tuyển người" },
+          { "w": "応募", "r": "おうぼ", "hv": "ỨNG MỘ", "vi": "ứng tuyển, đăng ký" },
+          { "w": "早速", "r": "さっそく", "hv": "TẢO TỐC", "vi": "ngay lập tức" },
+          { "w": "催促", "r": "さいそく", "hv": "THÔI XÚC", "vi": "thúc giục" },
+          { "w": "収集", "r": "しゅうしゅう", "hv": "THU TẬP", "vi": "thu thập" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "求人 (công ty tìm người) ↔ 求職 (きゅうしょく: người tìm việc)."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "友達だと思っていたのに、私のいないところで（　　）と私の悪口を言っていたなんてひどい。",
+      "options": ["うとうと", "こそこそ", "ぶるぶる", "じろじろ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi tưởng là bạn bè, vậy mà lại lén lút nói xấu tôi sau lưng, thật quá đáng.",
+        "why": "こそこそ = lén lút, vụng trộm (làm gì đó để người khác không biết). 私のいないところで + 悪口 → lén lút nói xấu.",
+        "options": [
+          "うとうと → ngủ gà ngủ gật. Sai.",
+          "こそこそ → lén lút. ĐÚNG.",
+          "ぶるぶる → run lẩy bẩy (vì lạnh, sợ). Sai.",
+          "じろじろ → nhìn chằm chằm. Sai."
+        ],
+        "vocab": [
+          { "w": "こそこそ", "r": "こそこそ", "hv": "", "vi": "lén lút, vụng trộm" },
+          { "w": "悪口", "r": "わるくち", "hv": "ÁC KHẨU", "vi": "lời nói xấu" },
+          { "w": "うとうと", "r": "うとうと", "hv": "", "vi": "ngủ gà gật" },
+          { "w": "じろじろ", "r": "じろじろ", "hv": "", "vi": "nhìn chằm chằm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đề gốc (bản đánh máy) ghi nhầm 「無口」, đúng phải là 「悪口を言う」. こそこそ hay đi với 隠れる・話す・逃げる."
+      }
+    }
+  ]
+}

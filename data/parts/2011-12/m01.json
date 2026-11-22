@@ -1,0 +1,136 @@
+{
+  "exam": "2011-12",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "この大学は<u>地元</u>の学生が多い。",
+      "options": ["ちげん", "ちもと", "じけん", "じもと"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Trường đại học này có nhiều sinh viên người địa phương.",
+        "why": "地元 đọc là じもと (ĐỊA NGUYÊN) = địa phương, quê nhà, vùng sở tại. Ở từ này 地 đọc じ (không phải ち) và 元 đọc âm Kun もと.",
+        "options": [
+          "ちげん → không có từ này. Sai.",
+          "ちもと → 地 không đọc ち trong từ này. Sai.",
+          "じけん → 事件: sự kiện, vụ án. Sai.",
+          "じもと → 地元: địa phương. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "地元", "r": "じもと", "hv": "ĐỊA NGUYÊN", "vi": "địa phương, quê nhà" },
+          { "w": "地震", "r": "じしん", "hv": "ĐỊA CHẤN", "vi": "động đất" },
+          { "w": "事件", "r": "じけん", "hv": "SỰ KIỆN", "vi": "vụ việc, vụ án" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "地 đọc じ trong 地元・地震・地面 (じめん); đọc ち trong 地図・地下・地球."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "両国経済的に<u>密接</u>な関係にある。",
+      "options": ["ひっせつ", "みつせつ", "みっせつ", "ひつせつ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hai nước có quan hệ mật thiết về mặt kinh tế.",
+        "why": "密接 đọc là みっせつ (MẬT TIẾP) = mật thiết, gắn bó chặt chẽ. 密 (みつ) + 接 (せつ) → つ biến thành âm ngắt っ: みっせつ.",
+        "options": [
+          "ひっせつ → 密 không đọc ひ. Sai.",
+          "みつせつ → thiếu biến âm っ. Sai.",
+          "みっせつ → 密接: mật thiết. ĐÚNG.",
+          "ひつせつ → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "密接", "r": "みっせつ", "hv": "MẬT TIẾP", "vi": "mật thiết, chặt chẽ" },
+          { "w": "両国", "r": "りょうこく", "hv": "LƯỠNG QUỐC", "vi": "hai nước" },
+          { "w": "秘密", "r": "ひみつ", "hv": "BÍ MẬT", "vi": "bí mật" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đừng nhầm 密 (みつ) với 秘 (ひ) trong 秘密 ひみつ. つ + せ → っせ: 密接, 密室 みっしつ."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "野菜にはビタミンが<u>豊富</u>に含まれている。",
+      "options": ["のうふ", "ほうふう", "ほうふ", "のうふう"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Rau chứa nhiều (phong phú) vitamin.",
+        "why": "豊富 đọc là ほうふ (PHONG PHÚ) = dồi dào, phong phú. 豊 âm On ほう, 富 âm On ふ (không kéo dài thành ふう).",
+        "options": [
+          "のうふ → 農夫: nông dân. Sai.",
+          "ほうふう → 富 không đọc ふう. Sai.",
+          "ほうふ → 豊富: phong phú. ĐÚNG.",
+          "のうふう → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "豊富", "r": "ほうふ", "hv": "PHONG PHÚ", "vi": "dồi dào, phong phú" },
+          { "w": "含む", "r": "ふくむ", "hv": "HÀM", "vi": "chứa, bao gồm" },
+          { "w": "豊か", "r": "ゆたか", "hv": "PHONG", "vi": "giàu có, phong phú" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "富 thường đọc ふ (豊富, 貧富 ひんぷ); đọc ふう chỉ ở vài từ như 富貴."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "実力が足りないところは、努力で<u>補いたい</u>。",
+      "options": ["やしないたい", "すくいたい", "かばいたい", "おぎないたい"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Những chỗ còn thiếu về thực lực, tôi muốn bù đắp bằng nỗ lực.",
+        "why": "補う đọc là おぎなう (BỔ) = bù đắp, bổ sung phần thiếu. Thiếu thực lực → bù bằng nỗ lực.",
+        "options": [
+          "やしないたい → 養う: nuôi dưỡng. Sai.",
+          "すくいたい → 救う: cứu giúp. Sai.",
+          "かばいたい → 庇う: bao che, che chở. Sai.",
+          "おぎないたい → 補う: bù đắp. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "補う", "r": "おぎなう", "hv": "BỔ", "vi": "bù đắp, bổ sung" },
+          { "w": "実力", "r": "じつりょく", "hv": "THỰC LỰC", "vi": "thực lực" },
+          { "w": "努力", "r": "どりょく", "hv": "NỖ LỰC", "vi": "nỗ lực" },
+          { "w": "補足", "r": "ほそく", "hv": "BỔ TÚC", "vi": "bổ sung (thông tin)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "補 âm On ほ: 補足・補助 (ほじょ)・候補 (こうほ); âm Kun おぎな(う)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "みなさんの<u>率直</u>な考えを聞かせてください。",
+      "options": ["そつじき", "りつじき", "そっちょく", "りっちょく"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Xin hãy cho tôi nghe suy nghĩ thẳng thắn của mọi người.",
+        "why": "率直 đọc là そっちょく (SUẤT TRỰC) = thẳng thắn. 率 đọc そつ, 直 đọc ちょく → そつ+ちょく biến âm thành そっちょく.",
+        "options": [
+          "そつじき → 直 không đọc じき trong từ này. Sai.",
+          "りつじき → không có từ này. Sai.",
+          "そっちょく → 率直: thẳng thắn. ĐÚNG.",
+          "りっちょく → 率 đọc りつ khi nghĩa là \"tỉ lệ\" (確率), không dùng ở đây. Sai."
+        ],
+        "vocab": [
+          { "w": "率直", "r": "そっちょく", "hv": "SUẤT TRỰC", "vi": "thẳng thắn, bộc trực" },
+          { "w": "確率", "r": "かくりつ", "hv": "XÁC SUẤT", "vi": "xác suất" },
+          { "w": "正直", "r": "しょうじき", "hv": "CHÍNH TRỰC", "vi": "thật thà" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "率: そつ (率直, 引率 いんそつ) – りつ (確率, 比率 ひりつ). 直: ちょく (率直) – じき (正直)."
+      }
+    }
+  ]
+}

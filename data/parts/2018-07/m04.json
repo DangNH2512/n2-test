@@ -1,0 +1,185 @@
+{
+  "exam": "2018-07",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống theo ngữ cảnh.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "昨日の試合では実力を（　　）できず、一試合目で負けてしまった。",
+      "options": ["表現", "明示", "公開", "発揮"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Trong trận đấu hôm qua tôi không phát huy được thực lực và đã thua ngay trận đầu.",
+        "why": "実力を発揮する = phát huy thực lực. 発揮 (はっき) đi với 力・能力・実力・才能.",
+        "options": [
+          "表現 (ひょうげん) → biểu hiện, diễn đạt (cảm xúc, ý nghĩ). Sai.",
+          "明示 (めいじ) → nêu rõ, chỉ rõ. Sai.",
+          "公開 (こうかい) → công khai, công bố. Sai.",
+          "発揮 (はっき) → phát huy. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "発揮", "r": "はっき", "hv": "PHÁT HUY", "vi": "phát huy" },
+          { "w": "実力", "r": "じつりょく", "hv": "THỰC LỰC", "vi": "thực lực" },
+          { "w": "試合", "r": "しあい", "hv": "THÍ HỢP", "vi": "trận đấu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Collocation cố định: 実力／能力／才能を発揮する."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "料理本を見ながら、自分の好みに合うように味付けを（　　）する。",
+      "options": ["コメント", "デザイン", "アレンジ", "ケア"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vừa xem sách nấu ăn vừa biến tấu cách nêm nếm cho hợp khẩu vị của mình.",
+        "why": "アレンジする = điều chỉnh, biến tấu (arrange) cho phù hợp. 味付けをアレンジする = biến tấu gia vị.",
+        "options": [
+          "コメント → bình luận. Sai.",
+          "デザイン → thiết kế. Sai.",
+          "アレンジ → biến tấu, điều chỉnh. ĐÚNG.",
+          "ケア → chăm sóc. Sai."
+        ],
+        "vocab": [
+          { "w": "アレンジ", "r": "アレンジ", "hv": "", "vi": "biến tấu, sắp xếp lại" },
+          { "w": "味付け", "r": "あじつけ", "hv": "VỊ PHÓ", "vi": "nêm nếm, gia vị" },
+          { "w": "好み", "r": "このみ", "hv": "HẢO", "vi": "sở thích, khẩu vị" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "あの人が描く絵には、ほかの人の絵にはない（　　）の雰囲気がある。",
+      "options": ["専属", "独特", "限定", "孤立"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tranh người đó vẽ có bầu không khí độc đáo mà tranh của người khác không có.",
+        "why": "独特 (どくとく) = độc đáo, riêng biệt chỉ có ở người/vật đó. 独特の雰囲気 = bầu không khí đặc trưng riêng.",
+        "options": [
+          "専属 (せんぞく) → độc quyền, chuyên thuộc (専属モデル). Sai.",
+          "独特 (どくとく) → độc đáo, đặc trưng riêng. ĐÚNG.",
+          "限定 (げんてい) → giới hạn (限定品). Sai.",
+          "孤立 (こりつ) → cô lập. Sai."
+        ],
+        "vocab": [
+          { "w": "独特", "r": "どくとく", "hv": "ĐỘC ĐẶC", "vi": "độc đáo, đặc trưng riêng" },
+          { "w": "雰囲気", "r": "ふんいき", "hv": "PHÂN VI KHÍ", "vi": "bầu không khí" },
+          { "w": "描く", "r": "えがく", "hv": "MIÊU", "vi": "vẽ, miêu tả" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ほかにはない → dấu hiệu chọn 独特."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "父は、どんなに忙しい時でも、朝の運動を（　　）。",
+      "options": ["空けない", "離さない", "奪わない", "欠かさない"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Bố tôi dù bận đến đâu cũng không bỏ buổi tập thể dục buổi sáng.",
+        "why": "〜を欠かさない (かかさない) = không bỏ sót, đều đặn làm. 運動を欠かさない = không bao giờ bỏ tập.",
+        "options": [
+          "空けない (あけない) → không để trống. Sai.",
+          "離さない (はなさない) → không rời ra, không buông. Sai.",
+          "奪わない (うばわない) → không cướp đoạt. Sai.",
+          "欠かさない (かかさない) → không bỏ (đều đặn). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "欠かす", "r": "かかす", "hv": "KHIẾM", "vi": "bỏ sót, thiếu (thường dùng phủ định)" },
+          { "w": "欠かせない", "r": "かかせない", "hv": "KHIẾM", "vi": "không thể thiếu" },
+          { "w": "奪う", "r": "うばう", "hv": "ĐOẠT", "vi": "cướp đoạt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "どんなに忙しくても〜を欠かさない là mẫu câu rất hay gặp."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "クイズの答えがわからなくて（　　）答えたのに、正解だった。",
+      "options": ["でたらめに", "わがままに", "ぎざぎざに", "ごちゃごちゃに"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Không biết đáp án câu đố nên trả lời bừa, vậy mà lại đúng.",
+        "why": "でたらめに = bừa bãi, tùy tiện, không có căn cứ. わからなくて…答えたのに正解 → trả lời bừa mà vẫn đúng.",
+        "options": [
+          "でたらめに → bừa, tùy tiện. ĐÚNG.",
+          "わがままに → ích kỷ, bướng bỉnh. Sai.",
+          "ぎざぎざに → lởm chởm, răng cưa. Sai.",
+          "ごちゃごちゃに → lộn xộn, bừa bộn (đồ vật). Sai."
+        ],
+        "vocab": [
+          { "w": "でたらめ", "r": "でたらめ", "hv": "", "vi": "bừa bãi, vô căn cứ" },
+          { "w": "正解", "r": "せいかい", "hv": "CHÍNH GIẢI", "vi": "đáp án đúng" },
+          { "w": "わがまま", "r": "わがまま", "hv": "", "vi": "ích kỷ, bướng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ごちゃごちゃ dùng cho đồ vật lộn xộn; でたらめ dùng cho lời nói/hành động không căn cứ."
+      }
+    },
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "昨夜はこの冬で一番の寒さとなり、最低気温はマイナス20度に（　　）。",
+      "options": ["減った", "達した", "通じた", "沈んだ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Đêm qua là đêm lạnh nhất mùa đông này, nhiệt độ thấp nhất đã xuống tới âm 20 độ.",
+        "why": "〜に達する (たっする) = đạt tới, chạm mức (số liệu). マイナス20度に達した = chạm mức -20 độ.",
+        "options": [
+          "減った (へった) → giảm (số lượng); không dùng 〜に減る với mức nhiệt. Sai.",
+          "達した (たっした) → đạt tới. ĐÚNG.",
+          "通じた (つうじた) → thông, hiểu được. Sai.",
+          "沈んだ (しずんだ) → chìm. Sai."
+        ],
+        "vocab": [
+          { "w": "達する", "r": "たっする", "hv": "ĐẠT", "vi": "đạt tới, chạm mức" },
+          { "w": "最低気温", "r": "さいていきおん", "hv": "TỐI ĐÊ KHÍ ÔN", "vi": "nhiệt độ thấp nhất" },
+          { "w": "沈む", "r": "しずむ", "hv": "TRẦM", "vi": "chìm, lặn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Con số + に達する: 目標に達する, 100万人に達する."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "来月の結婚式に向けて準備が（　　）進んでいる。",
+      "options": ["着々と", "慎重に", "いちいち", "ぐんぐん"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Việc chuẩn bị cho đám cưới tháng sau đang tiến triển đều đặn, suôn sẻ.",
+        "why": "着々と (ちゃくちゃくと) = từng bước, đều đặn, suôn sẻ (tiến triển công việc theo kế hoạch). Đi rất tự nhiên với 準備が進む.",
+        "options": [
+          "着々と → đều đặn, từng bước. ĐÚNG.",
+          "慎重に (しんちょうに) → thận trọng: chủ ngữ phải là người làm, không hợp với 準備が進む. Sai.",
+          "いちいち → từng cái một (thường mang ý phiền). Sai.",
+          "ぐんぐん → vùn vụt (tăng trưởng, lớn nhanh). Sai."
+        ],
+        "vocab": [
+          { "w": "着々と", "r": "ちゃくちゃくと", "hv": "TRƯỚC TRƯỚC", "vi": "đều đặn, từng bước" },
+          { "w": "慎重", "r": "しんちょう", "hv": "THẬN TRỌNG", "vi": "thận trọng" },
+          { "w": "〜に向けて", "r": "〜にむけて", "hv": "HƯỚNG", "vi": "hướng tới" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ぐんぐん dùng cho tốc độ/độ cao tăng mạnh (背がぐんぐん伸びる)."
+      }
+    }
+  ]
+}

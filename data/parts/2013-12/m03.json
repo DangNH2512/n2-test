@@ -1,0 +1,137 @@
+{
+  "exam": "2013-12",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống (tiền tố/hậu tố, từ ghép).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "書類に記入ミスがあったので、直してから（　　）提出するように言われた。",
+      "options": ["改", "次", "再", "復"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vì giấy tờ có lỗi điền sai nên tôi được bảo là sửa rồi nộp lại.",
+        "why": "再 (さい – TÁI) là tiền tố 'lại lần nữa': 再提出 (さいていしゅつ) = nộp lại. Hợp với ngữ cảnh sửa xong nộp lần 2.",
+        "options": [
+          "改 → 改〜 không làm tiền tố với 提出 (chỉ có 改正, 改善… là từ ghép riêng). Sai.",
+          "次 → 次〜 = kế tiếp (次回, 次世代); 次提出 không có. Sai.",
+          "再 → 再提出: nộp lại. ĐÚNG.",
+          "復 → 復〜 = khôi phục, trở lại (復習, 復活); không ghép với 提出. Sai."
+        ],
+        "vocab": [
+          { "w": "再提出", "r": "さいていしゅつ", "hv": "TÁI ĐỀ XUẤT", "vi": "nộp lại" },
+          { "w": "書類", "r": "しょるい", "hv": "THƯ LOẠI", "vi": "giấy tờ, hồ sơ" },
+          { "w": "記入", "r": "きにゅう", "hv": "KÝ NHẬP", "vi": "điền vào (mẫu đơn)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "再 + động danh từ: 再確認, 再試験, 再放送, 再出発 – đều mang nghĩa 'làm lại lần nữa'."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "３時１０分東京駅（　　）の新幹線に乗る予定です。",
+      "options": ["始", "発", "出", "離"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi định đi chuyến Shinkansen xuất phát từ ga Tokyo lúc 3 giờ 10 phút.",
+        "why": "Hậu tố 〜発 (はつ – PHÁT) = khởi hành từ (giờ/nơi): 東京駅発 = xuất phát từ ga Tokyo. Đối lại là 〜着 (đến).",
+        "options": [
+          "始 → 始発 là 'chuyến đầu tiên', không làm hậu tố sau tên ga như thế này. Sai.",
+          "発 → 〜発: khởi hành từ. ĐÚNG.",
+          "出 → không dùng 東京駅出. Sai.",
+          "離 → không dùng làm hậu tố chỉ nơi xuất phát. Sai."
+        ],
+        "vocab": [
+          { "w": "〜発", "r": "〜はつ", "hv": "PHÁT", "vi": "khởi hành từ…" },
+          { "w": "〜着", "r": "〜ちゃく", "hv": "TRƯỚC", "vi": "đến (nơi/giờ)…" },
+          { "w": "新幹線", "r": "しんかんせん", "hv": "TÂN CÁN TUYẾN", "vi": "tàu cao tốc Shinkansen" },
+          { "w": "予定", "r": "よてい", "hv": "DỰ ĐỊNH", "vi": "dự định, kế hoạch" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bảng giờ tàu: 東京発 10:00 → 大阪着 12:30. Cặp 発/着 hay xuất hiện ở 問題3."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "歌謡曲からクラシックまで、音楽（　　）に興味があります。",
+      "options": ["共同", "全面", "共通", "全般"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Từ nhạc đại chúng đến nhạc cổ điển, tôi quan tâm đến âm nhạc nói chung (mọi thể loại).",
+        "why": "〜全般 (ぜんぱん – TOÀN BAN) = toàn bộ lĩnh vực, nói chung. 'Từ … đến …' liệt kê bao quát → 音楽全般.",
+        "options": [
+          "共同 → cùng nhau, chung (共同研究). Không đi sau danh từ lĩnh vực. Sai.",
+          "全面 → toàn diện, mọi mặt (全面的に協力); 音楽全面 không tự nhiên. Sai.",
+          "共通 → điểm chung (共通点). Sai.",
+          "全般 → toàn bộ, nói chung. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "全般", "r": "ぜんぱん", "hv": "TOÀN BAN", "vi": "toàn bộ, nói chung" },
+          { "w": "歌謡曲", "r": "かようきょく", "hv": "CA DAO KHÚC", "vi": "nhạc đại chúng (pop Nhật)" },
+          { "w": "興味", "r": "きょうみ", "hv": "HỨNG VỊ", "vi": "hứng thú, quan tâm" },
+          { "w": "全面", "r": "ぜんめん", "hv": "TOÀN DIỆN", "vi": "toàn diện, mọi mặt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "N + 全般: スポーツ全般, 家事全般, 経済全般 = mọi thứ thuộc N."
+      }
+    },
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "会長候補の中では北川氏が（　　）有力だと言われている。",
+      "options": ["特", "最", "項", "極"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Trong số các ứng viên chủ tịch, ông Kitagawa được cho là có triển vọng nhất.",
+        "why": "最 (さい – TỐI) là tiền tố 'nhất': 最有力 (さいゆうりょく) = có thế mạnh/triển vọng nhất. 'Trong số các ứng viên' → so sánh nhất.",
+        "options": [
+          "特 → 特〜 (特大, 特急); 特有力 không có. Sai.",
+          "最 → 最有力: mạnh nhất, triển vọng nhất. ĐÚNG.",
+          "項 → 項 = điều mục, không làm tiền tố. Sai.",
+          "極 → 極〜 = cực (極小, 極秘); 極有力 không có. Sai."
+        ],
+        "vocab": [
+          { "w": "最有力", "r": "さいゆうりょく", "hv": "TỐI HỮU LỰC", "vi": "có thế mạnh / triển vọng nhất" },
+          { "w": "候補", "r": "こうほ", "hv": "HẬU BỔ", "vi": "ứng viên, ứng cử viên" },
+          { "w": "会長", "r": "かいちょう", "hv": "HỘI TRƯỞNG", "vi": "chủ tịch (hội, tập đoàn)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "最 + N/Na: 最先端, 最優秀, 最年少, 最有力 – nghĩa 'nhất'."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "宿題を夏休み（　　）に出さなければならない。",
+      "options": ["明け", "閉め", "分け", "止め"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Phải nộp bài tập ngay sau khi kết thúc kỳ nghỉ hè.",
+        "why": "〜明け (あけ) = ngay sau khi (một khoảng thời gian) kết thúc: 夏休み明け = ngay sau kỳ nghỉ hè (khi đi học lại).",
+        "options": [
+          "明け → 夏休み明け: ngay sau kỳ nghỉ hè. ĐÚNG.",
+          "閉め → đóng (cửa); không làm hậu tố thời gian. Sai.",
+          "分け → chia; 引き分け (hòa) nhưng không ghép với 夏休み. Sai.",
+          "止め → dừng; không dùng như vậy. Sai."
+        ],
+        "vocab": [
+          { "w": "〜明け", "r": "〜あけ", "hv": "MINH", "vi": "ngay sau khi (giai đoạn) kết thúc" },
+          { "w": "連休明け", "r": "れんきゅうあけ", "hv": "LIÊN HƯU MINH", "vi": "sau kỳ nghỉ dài" },
+          { "w": "宿題", "r": "しゅくだい", "hv": "TÚC ĐỀ", "vi": "bài tập về nhà" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Hay gặp: 夏休み明け, 連休明け, 梅雨明け (hết mùa mưa), 年明け (đầu năm mới)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "exam": "2024-12",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "山本さんは<u>優秀</u>な社員だ。",
+      "options": ["ゆしゅう", "ゆうしゅ", "ゆしゅ", "ゆうしゅう"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh Yamamoto là một nhân viên xuất sắc.",
+        "why": "優秀 đọc là ゆうしゅう (ƯU TÚ) = ưu tú, xuất sắc. Cả hai chữ đều có trường âm: 優 = ゆう, 秀 = しゅう.",
+        "options": [
+          "ゆしゅう → thiếu trường âm ở 優 (ゆう). Sai.",
+          "ゆうしゅ → thiếu trường âm ở 秀 (しゅう). Sai.",
+          "ゆしゅ → thiếu cả hai trường âm. Sai.",
+          "ゆうしゅう → 優秀: ưu tú, xuất sắc. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "優秀", "r": "ゆうしゅう", "hv": "ƯU TÚ", "vi": "ưu tú, xuất sắc" },
+          { "w": "社員", "r": "しゃいん", "hv": "XÃ VIÊN", "vi": "nhân viên công ty" },
+          { "w": "優勝", "r": "ゆうしょう", "hv": "ƯU THẮNG", "vi": "vô địch" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy trường âm: 優 luôn là ゆう (優勝・優先), 秀 luôn là しゅう. Người Việt hay đọc thiếu う."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "そんなことを言われたら、私も<u>迷った</u>に違いない。",
+      "options": ["あやまった", "あせった", "まよった", "うたがって"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nếu bị nói như thế thì chắc chắn tôi cũng đã phân vân (do dự) rồi.",
+        "why": "迷う đọc là まよう (MÊ) = phân vân, lưỡng lự; lạc đường (道に迷う). Thể quá khứ: 迷った → まよった.",
+        "options": [
+          "あやまった → 謝った: xin lỗi / 誤った: nhầm lẫn. Sai.",
+          "あせった → 焦った: sốt ruột, cuống. Sai.",
+          "まよった → 迷った: phân vân, lưỡng lự. ĐÚNG.",
+          "うたがって → 疑って: nghi ngờ (lại còn là thể て, không khớp 〜た). Sai."
+        ],
+        "vocab": [
+          { "w": "迷う", "r": "まよう", "hv": "MÊ", "vi": "phân vân, do dự; lạc (đường)" },
+          { "w": "迷惑", "r": "めいわく", "hv": "MÊ HOẶC", "vi": "phiền hà" },
+          { "w": "焦る", "r": "あせる", "hv": "TIÊU", "vi": "sốt ruột, cuống quýt" },
+          { "w": "疑う", "r": "うたがう", "hv": "NGHI", "vi": "nghi ngờ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "迷: âm Kun まよ(う), âm On めい (迷惑・迷子 まいご là ngoại lệ)."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "今から行うのは<u>背骨</u>を伸ばす体操です。",
+      "options": ["せこう", "せほね", "せごう", "せぼね"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Bài thể dục chúng ta làm bây giờ là bài kéo giãn xương sống.",
+        "why": "背骨 đọc là せぼね (BỐI CỐT) = xương sống. Đây là từ đọc âm Kun: 背(せ) + 骨(ほね); khi ghép, ほ bị biến âm đục thành ぼ (連濁).",
+        "options": [
+          "せこう → đọc 骨 theo kiểu On sai (On của 骨 là こつ). Sai.",
+          "せほね → quên biến âm đục ほ→ぼ. Sai.",
+          "せごう → không có từ này. Sai.",
+          "せぼね → 背骨: xương sống. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "背骨", "r": "せぼね", "hv": "BỐI CỐT", "vi": "xương sống" },
+          { "w": "骨", "r": "ほね", "hv": "CỐT", "vi": "xương" },
+          { "w": "体操", "r": "たいそう", "hv": "THỂ THAO", "vi": "thể dục" },
+          { "w": "伸ばす", "r": "のばす", "hv": "THÂN", "vi": "kéo dài, duỗi" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Từ ghép Kun-Kun hay có 連濁: 背+骨 → せぼね, 本+棚 → ほんだな."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "すぐに<u>実践</u>できるとは思っていなかった。",
+      "options": ["じっせん", "じっけん", "じっぜん", "じっげん"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi không nghĩ là có thể thực hành (áp dụng vào thực tế) ngay được.",
+        "why": "実践 đọc là じっせん (THỰC TIỄN) = thực hành, đưa vào thực tế. 践 đọc せん (không đục), 実 thành じっ do âm ngắt.",
+        "options": [
+          "じっせん → 実践: thực hành, thực tiễn. ĐÚNG.",
+          "じっけん → 実験: thí nghiệm. Sai.",
+          "じっぜん → sai, 践 không bị đục. Sai.",
+          "じっげん → không có từ này (gần với 実現 じつげん: thực hiện). Sai."
+        ],
+        "vocab": [
+          { "w": "実践", "r": "じっせん", "hv": "THỰC TIỄN", "vi": "thực hành, áp dụng vào thực tế" },
+          { "w": "実験", "r": "じっけん", "hv": "THỰC NGHIỆM", "vi": "thí nghiệm" },
+          { "w": "実現", "r": "じつげん", "hv": "THỰC HIỆN", "vi": "hiện thực hóa" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "践 có bộ 足 (chân) → bước chân vào làm thật = thực tiễn. Phân biệt 実践 (thực hành) và 実験 (thí nghiệm)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "彼はコンサートで派手な<u>衣装</u>を着ていた。",
+      "options": ["いそう", "いしょう", "いじょう", "いぞう"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh ấy đã mặc bộ trang phục lòe loẹt tại buổi hòa nhạc.",
+        "why": "衣装 đọc là いしょう (Y TRANG) = trang phục (biểu diễn). 装 có hai âm On そう và しょう; trong 衣装 đọc là しょう.",
+        "options": [
+          "いそう → 装 đọc そう ở 服装・装置, nhưng 衣装 thì là しょう. Sai.",
+          "いしょう → 衣装: trang phục. ĐÚNG.",
+          "いじょう → 以上/異常: trở lên / bất thường. Sai.",
+          "いぞう → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "衣装", "r": "いしょう", "hv": "Y TRANG", "vi": "trang phục (biểu diễn, lễ hội)" },
+          { "w": "派手", "r": "はで", "hv": "PHÁI THỦ", "vi": "lòe loẹt, sặc sỡ" },
+          { "w": "服装", "r": "ふくそう", "hv": "PHỤC TRANG", "vi": "trang phục, cách ăn mặc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "装: しょう trong 衣装; そう trong 服装・包装・装置. Hai từ dễ lẫn nhất đề thi."
+      }
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "exam": "2023-12",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の(1)から(4)の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc 4 đoạn văn trung bình (1)–(4) rồi chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "以下は、ある将棋のプロが書いた文章である。\n\n将棋の世界には、「不調も三年続けば実力」という言葉があります。\n自分自身が「自分には実力があるが、今は調子が悪いだけだ」と考えていたとしても、三年も結果を出せなければ、それが本人の持っている実力である、という結構シビアな(注1)言葉です。\n仮に、不調の原因が現在の能力、実力であれば、自分の努力や練習が足りないということなので、頑張ってスキル(注2)や能力を上げ、実力をつければいいということになります。新しい戦法を勉強するなど懸命に努力をして、基本的な力を身につけるしかありません。\nしかし、どのような物事でも、今日一生懸命やったからといって、明日すぐに結果が出るということはありません。やっていることは間違っていないし、方向性も正しい。それでも成果が出ていないときこそが、「不調」ということになります。\n<u>そのようなとき</u>は、まず気分を変えることです。どうしてもモチベーション(注3)が下がりやすくなっているので、気分転換を図る(注4)。つまり、何かを変えてみればいいということになります。これは本当に何でもいいのです。\nただし、調子は悪いので、いきなり大きなことではなく、小さなことから始めるのが良いでしょう。\nたとえば、今までの生活習慣を変えてみる。早起きをしてみる、新しい趣味を始めてみる。あるいは服装を変えて、気持ちを切り替える。何でも良いのですが、生活の中にメリハリ(注5)をつけて、気持ちが行き詰まらないように、落ちないようにするのです。\n\n(注1) シビアな：厳しい\n(注2) スキル：ここでは、技術\n(注3) モチベーション：やる気\n(注4) 図る：ここでは、する\n(注5) メリハリ：ここでは、変化"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "ナスやトマトは人間が栽培するときも、何日間か水を与えず、そのあと、たっぷりの水を与える栽培方法がとられることがあります。水を断つ(注1)のですから、その時期と期間を間違えば、植物は枯れてしまいます。でもこれは、①<u>根の性質</u>を考えると、納得できる理論です。\n成長する芽生えは、毎日、水をたっぷりと与えられると、根をあまり発達させません。根を発達させなくても、水が十分に得られるからです。逆に、水が不足すると、植物は水を求めて根を張り(注2)めぐらせます。何日間も水が与えられないと、植物は根を強く長く張りめぐらせるのです。\n根を強く長く張りめぐらせた植物に、水が与えられると、この根が水をいっせいに吸収します。\n(中略)\n「多くの水が一気に吸収されて、果実が大きくなると、果実が水っぽくなって、甘みや旨みが少ない果実になるのではないか」との心配があるかもわかりません。\nしかし、②<u>心配はいりません</u>。根が水を吸収する力が強くなると、養分(注3)もよく吸収され、葉が大きく展開し、光合成(注4)が十分にできます。だから、甘みや旨みのもとになる物質も多くつくられるのです。\n\n(注1) 断つ：ここでは、与えるのをやめる\n(注2) 張りめぐらせる：広く張る\n(注3) 養分：栄養となる成分\n(注4) 光合成：ここでは、植物が光を使って栄養となる成分をつくり出すこと"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "以下は、今の若い人について書かれた文章である。\n\n大勢の前で意見を述べるのは誰でも緊張する。うまく伝えられるかどうかと思う不安はあるから気後れする(注1)人もいる。それは、いつの時代も変わらないと思う。ただ、私たちの場合は、うまく話せないからと尻込みする(注2)者はいたが、自分の考えを言うことを嫌がる者はあまりいなかった。というのは、仲間との議論はみんながやっていたからだろう。\n私は別に議論がいいと言っているわけではない。ただ、自分が感じることや考えることを言って、友だちの意見を聞くことは、自分の考えを確かなものにしていくためには欠かせないと思うので、議論という言い方をしているだけなのである。\nところが、今は中高生に限らず若い人全体の中に、まったくと言っていいほど議論がない。違いを主張するのは相手に自分を理解してほしいと思うからで、仲のいい関係であればあるほど自然なことなのだが、それを主張しなくなっている。\n以前、若い人を取材して、なぜ言わないのかと訊いた(注3)ときの返事は、「人にはそれぞれ考え方があるのだから、とやかく(注4)言うことはできない」というものだった。これは、あたかも(注5)相手を尊重している「個人主義」のように聞こえるが、気のおけない(注6)はずの親しい友だちに対してもやっているのは不自然である。\n本当は、「自分の言うことに反対されて傷つくのがいやだから、相手の言うことにも反対しないわけ」で、<結局、友だちに合わせているのは、友だちのことを思っているからではない。自分がかわいいのであり、傷つきたくないからなのだ>ということだろう。\n\n(注1) 気後れする：消極的になる\n(注2) 尻込みする：ここでは、不安になってやろうとしない\n(注3) 訊く：尋ねる\n(注4) とやかく：良いとか悪いとか\n(注5) あたかも：まるで\n(注6) 気のおけない：気をつかう必要がない"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "何かを決定するときに、人はその決定を裏付けるような条件を求めたくなるものです。「確実に儲かるとわかった時点で商売をしよう」「独立が成功する目算(注1)が立った時点で会社を辞めよう」というように、成功するための条件が揃ったら決断しよう、動き出そう、と考えるものです。\nしかし、現実には自分が知りたいと思うことを全部知ることはできませんし、必要だと思う条件が完全に揃うことは絶対にありません。\n欲しいと思っている情報や必要だと思っている条件が整わないうちに、動き始めなければならないのが決断の常な(注2)のです。\n決断ができる人は<u>それ</u>をわきまえていて(注3)、条件が不足していることを自覚し(注4)ながらきちんと決めていきます。この「条件不足を自覚しながら決断する」というのが大事なところなのです。\n一方、決断のできない人に限って、条件が整わないことを言い訳にしたがる。たとえ十分な条件が揃っていても、まだあれこれと不足の条件を並べ立てようとします。\n常に条件が不足する中で決断するコツの一つは目標を持つことです。「自分が何をしたいのか」「どうなりたいのか」「どうありたいのか」というビジョン(注5)を持つのです。目標を設定し、そこに向かう方向性をいつも意識していれば、条件が不足していても決断ができるはずです。\n\n(注1) 目算が立つ：見通しがつく\n(注2) 〜の常だ：ここでは、〜というものだ\n(注3) わきまえている：わかっている\n(注4) 自覚する：ここでは、自分で認める\n(注5) ビジョン：将来のイメージ"
+    }
+  ],
+  "questions": [
+    {
+      "num": 57,
+      "passage": "p1",
+      "stem": "<u>そのようなとき</u>とはどのようなときか。",
+      "options": [
+        "努力や練習が不足して、結果が出ていないとき",
+        "どのような結果を出せばいいか分からないとき",
+        "実力があっても、結果につながらないとき",
+        "やるべきことをやっても、結果につながらないとき"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "\"Lúc như vậy\" là lúc như thế nào? → Lúc đã làm những việc cần làm mà vẫn không ra kết quả.",
+        "why": "そのようなとき chỉ câu ngay trước: việc đang làm không sai, phương hướng cũng đúng, vậy mà vẫn chưa có thành quả – đó mới là \"phong độ kém\" (不調).",
+        "options": [
+          "Thiếu nỗ lực, luyện tập → đó là vấn đề thực lực, cách xử lý là luyện thêm (đoạn trước). Sai.",
+          "Không biết nên đạt kết quả nào → không được nhắc. Sai.",
+          "Có thực lực nhưng không ra kết quả → bài không nói \"có thực lực\", mà nói \"làm đúng, hướng đúng\". Bẫy từ câu nói của người chơi. Sai.",
+          "Làm đúng việc cần làm mà vẫn không ra kết quả. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "不調", "r": "ふちょう", "hv": "BẤT ĐIỀU", "vi": "phong độ kém, trục trặc" },
+          { "w": "成果", "r": "せいか", "hv": "THÀNH QUẢ", "vi": "thành quả" },
+          { "w": "方向性", "r": "ほうこうせい", "hv": "PHƯƠNG HƯỚNG TÍNH", "vi": "phương hướng" },
+          { "w": "懸命", "r": "けんめい", "hv": "HUYỀN MỆNH", "vi": "hết sức, chăm chỉ" }
+        ],
+        "grammar": {
+          "pattern": "～ときこそ",
+          "meaning": "chính lúc ~",
+          "form": "N／V普通形 + ときこそ",
+          "example": "困ったときこそ、笑顔を忘れないようにしよう。"
+        },
+        "evidence": "やっていることは間違っていないし、方向性も正しい。それでも成果が出ていないときこそが、「不調」ということになります。",
+        "tip": "Từ chỉ thị (その～) → đáp án thường nằm ngay câu liền trước."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p1",
+      "stem": "筆者によると、不調のときはどうすればいいか。",
+      "options": [
+        "原因を考えて新しいやり方を取り入れる。",
+        "結果がすぐに出ることから始める。",
+        "気分が変わるようなことをする。",
+        "生活を大きく変化させる。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Theo tác giả, khi phong độ kém thì nên làm gì? → Làm những việc giúp thay đổi tâm trạng.",
+        "why": "Tác giả: lúc phong độ kém thì trước hết hãy thay đổi tâm trạng, thử thay đổi một điều gì đó (dậy sớm, sở thích mới, đổi trang phục…).",
+        "options": [
+          "Tìm nguyên nhân, áp dụng cách mới → đó là khi thiếu thực lực (học chiến thuật mới). Sai.",
+          "Bắt đầu từ việc ra kết quả ngay → bài nói \"bắt đầu từ việc nhỏ\", không phải việc ra kết quả nhanh. Sai.",
+          "Làm việc giúp thay đổi tâm trạng. ĐÚNG.",
+          "Thay đổi lớn cuộc sống → bài nói いきなり大きなことではなく、小さなことから. Sai."
+        ],
+        "vocab": [
+          { "w": "気分転換", "r": "きぶんてんかん", "hv": "KHÍ PHÂN CHUYỂN HOÁN", "vi": "thay đổi tâm trạng, giải khuây" },
+          { "w": "切り替える", "r": "きりかえる", "hv": "THIẾT THẾ", "vi": "chuyển đổi" },
+          { "w": "行き詰まる", "r": "いきづまる", "hv": "HÀNH CẬT", "vi": "bế tắc" },
+          { "w": "いきなり", "r": "いきなり", "hv": "", "vi": "đột ngột, ngay lập tức" }
+        ],
+        "grammar": null,
+        "evidence": "そのようなときは、まず気分を変えることです。…気分転換を図る。つまり、何かを変えてみればいいということになります。",
+        "tip": "Bẫy lựa chọn 4: \"lớn\" ngược với 小さなことから始める."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p2",
+      "stem": "①<u>根の性質</u>について、筆者の説明に合うのはどれか。",
+      "options": [
+        "芽生えのとき何日も水を与えないでおくと、よく発達し水を吸収するようになる。",
+        "芽生えのとき水が不足すると、そのあと水を与えても吸収しなくなる。",
+        "水を毎日適度に与え続けていると、強く長く張り水を吸収しやすくなる。",
+        "根が発達したあと水を与えない期間があると、さらに強く長くなる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về \"tính chất của rễ\", điều nào phù hợp với giải thích của tác giả? → Nếu lúc cây non không cho nước nhiều ngày, rễ sẽ phát triển tốt và hút nước.",
+        "why": "Cây non được tưới đầy đủ thì rễ ít phát triển; thiếu nước nhiều ngày thì rễ vươn dài và khỏe để tìm nước; khi được tưới lại thì rễ ấy hút nước một lượt.",
+        "options": [
+          "Không tưới nhiều ngày lúc cây non → rễ phát triển, hút nước. ĐÚNG.",
+          "Thiếu nước rồi sẽ không hút nước nữa → ngược lại, rễ hút nước いっせいに. Sai.",
+          "Tưới đều mỗi ngày → rễ khỏe, dài → ngược: tưới đủ thì rễ ít phát triển. Sai.",
+          "Sau khi rễ phát triển, không tưới thì rễ càng dài → bài không nói giai đoạn này. Sai."
+        ],
+        "vocab": [
+          { "w": "芽生え", "r": "めばえ", "hv": "NHA SINH", "vi": "mầm, cây non" },
+          { "w": "根", "r": "ね", "hv": "CĂN", "vi": "rễ" },
+          { "w": "吸収", "r": "きゅうしゅう", "hv": "HẤP THU", "vi": "hấp thụ" },
+          { "w": "発達", "r": "はったつ", "hv": "PHÁT ĐẠT", "vi": "phát triển" },
+          { "w": "栽培", "r": "さいばい", "hv": "TÀI BỒI", "vi": "trồng trọt" }
+        ],
+        "grammar": null,
+        "evidence": "何日間も水が与えられないと、植物は根を強く長く張りめぐらせるのです。根を強く長く張りめぐらせた植物に、水が与えられると、この根が水をいっせいに吸収します。",
+        "tip": "Ghép 2 ý ở 2 đoạn liền nhau: thiếu nước → rễ dài; rồi tưới → hút nước mạnh."
+      }
+    },
+    {
+      "num": 60,
+      "passage": "p2",
+      "stem": "②<u>心配はいりません</u>とあるが、なぜか。",
+      "options": [
+        "根から吸収された水で、果実が甘みや旨みのもとをつくるから。",
+        "葉が水を吸収し、果実に甘みや旨みのもとを送るから",
+        "果実が大きくなれば、甘みや旨みを蓄えることができるから。",
+        "大きくなった葉が、光を使って甘みや旨みのもとをつくるから。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả nói \"không cần lo lắng\", tại sao? → Vì những chiếc lá lớn lên sử dụng ánh sáng để tạo ra nguồn gốc của vị ngọt, vị ngon.",
+        "why": "Rễ hút mạnh → hút nhiều dưỡng chất → lá xòe to → quang hợp đầy đủ → tạo nhiều chất là nguồn gốc vị ngọt, vị umami. Quang hợp = cây dùng ánh sáng tạo chất dinh dưỡng (chú thích 4).",
+        "options": [
+          "Quả tạo vị ngọt bằng nước từ rễ → chủ thể tạo là lá (quang hợp), không phải quả. Sai.",
+          "Lá hút nước → rễ mới hút nước. Sai.",
+          "Quả to thì tích được vị ngọt → bài không nói vậy. Sai.",
+          "Lá lớn dùng ánh sáng tạo ra nguồn vị ngọt. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "光合成", "r": "こうごうせい", "hv": "QUANG HỢP THÀNH", "vi": "quang hợp" },
+          { "w": "養分", "r": "ようぶん", "hv": "DƯỠNG PHÂN", "vi": "chất dinh dưỡng" },
+          { "w": "旨み", "r": "うまみ", "hv": "CHỈ", "vi": "vị ngon, vị umami" },
+          { "w": "展開", "r": "てんかい", "hv": "TRIỂN KHAI", "vi": "mở rộng, xòe ra" }
+        ],
+        "grammar": null,
+        "evidence": "根が水を吸収する力が強くなると、養分もよく吸収され、葉が大きく展開し、光合成が十分にできます。だから、甘みや旨みのもとになる物質も多くつくられるのです。",
+        "tip": "Đọc kỹ chú thích (注4): 光合成 = dùng ánh sáng tạo chất dinh dưỡng → khớp \"光を使って\" ở lựa chọn 4."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p3",
+      "stem": "大勢の前で自分の意見を述べることについて、筆者たちの場合はどうだったか。",
+      "options": [
+        "仲間との議論より緊張するので、嫌いな人が多かった。",
+        "仲間との議論に慣れていたので、発言を避ける人は少なかった。",
+        "仲間との議論を多くしていたので、みんな積極的に意見を言った。",
+        "仲間との議論をあまりしなかったので、うまく意見を言える人が少なかった。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Về việc phát biểu ý kiến trước đông người, thế hệ của tác giả thì như thế nào? → Vì đã quen tranh luận với bạn bè nên ít người né tránh phát biểu.",
+        "why": "Thời tác giả: có người rụt rè vì nói không giỏi, nhưng ít người ghét nói ra suy nghĩ của mình, vì ai cũng tranh luận với bạn bè.",
+        "options": [
+          "Nhiều người ghét → ngược với 嫌がる者はあまりいなかった. Sai.",
+          "Quen tranh luận → ít người né tránh phát biểu. ĐÚNG.",
+          "\"Tất cả\" đều tích cực → vẫn có người 尻込みする. Quá tuyệt đối. Sai.",
+          "Ít tranh luận → ngược với みんながやっていた. Sai."
+        ],
+        "vocab": [
+          { "w": "議論", "r": "ぎろん", "hv": "NGHỊ LUẬN", "vi": "tranh luận, thảo luận" },
+          { "w": "気後れする", "r": "きおくれする", "hv": "KHÍ HẬU", "vi": "rụt rè, nhút nhát" },
+          { "w": "尻込みする", "r": "しりごみする", "hv": "KHÀO", "vi": "chùn bước, ngần ngại" },
+          { "w": "嫌がる", "r": "いやがる", "hv": "HIỀM", "vi": "tỏ ra ghét, không muốn" }
+        ],
+        "grammar": {
+          "pattern": "というのは～からだ",
+          "meaning": "sở dĩ như vậy là vì ~",
+          "form": "というのは + 普通形 + からだ",
+          "example": "最近疲れやすい。というのは、毎晩遅くまで仕事をしているからだ。"
+        },
+        "evidence": "ただ、私たちの場合は、うまく話せないからと尻込みする者はいたが、自分の考えを言うことを嫌がる者はあまりいなかった。というのは、仲間との議論はみんながやっていたからだろう。",
+        "tip": "Bẫy \"みんな\" (lựa chọn 3): bài có nói vẫn có người rụt rè → không phải tất cả."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p3",
+      "stem": "今の若い人たちが議論をしない理由として、筆者の考えに合うのはどれか",
+      "options": [
+        "人の考えを聞いても、自分の考えは変わらないと思うから",
+        "自分が何か言うことで相手を傷つけたくないから",
+        "自分の考えに反対されて、いやな思いをしたくないから",
+        "自分の考えを相手に理解してもらうことは難しいと思うから"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Lý do người trẻ ngày nay không tranh luận, theo suy nghĩ của tác giả là gì? → Vì không muốn bị phản đối ý kiến và cảm thấy khó chịu.",
+        "why": "Tác giả cho rằng thực chất là: ghét bị tổn thương khi ý kiến mình bị phản đối, nên cũng không phản đối người khác; chiều theo bạn không phải vì nghĩ cho bạn mà vì không muốn mình bị tổn thương.",
+        "options": [
+          "Nghe ý người khác cũng không đổi ý mình → không được nói. Sai.",
+          "Không muốn làm tổn thương đối phương → tác giả phủ nhận: 友だちのことを思っているからではない. Bẫy. Sai.",
+          "Không muốn bị phản đối và thấy khó chịu (bị tổn thương). ĐÚNG.",
+          "Khó để người khác hiểu mình → không được nói. Sai."
+        ],
+        "vocab": [
+          { "w": "傷つく", "r": "きずつく", "hv": "THƯƠNG", "vi": "bị tổn thương" },
+          { "w": "尊重", "r": "そんちょう", "hv": "TÔN TRỌNG", "vi": "tôn trọng" },
+          { "w": "個人主義", "r": "こじんしゅぎ", "hv": "CÁ NHÂN CHỦ NGHĨA", "vi": "chủ nghĩa cá nhân" },
+          { "w": "主張", "r": "しゅちょう", "hv": "CHỦ TRƯƠNG", "vi": "khẳng định, chủ trương" },
+          { "w": "取材", "r": "しゅざい", "hv": "THỦ TÀI", "vi": "lấy tin, phỏng vấn" }
+        ],
+        "grammar": {
+          "pattern": "～のではない。…からなのだ",
+          "meaning": "không phải vì ~ mà là vì …",
+          "form": "～からではない。…からなのだ",
+          "example": "勉強しないのは、嫌いだからではない。時間がないからなのだ。"
+        },
+        "evidence": "本当は、「自分の言うことに反対されて傷つくのがいやだから、相手の言うことにも反対しないわけ」で、<結局、友だちに合わせているのは、友だちのことを思っているからではない。自分がかわいいのであり、傷つきたくないからなのだ>ということだろう。",
+        "tip": "Câu bắt đầu bằng 本当は… thường là quan điểm thật của tác giả."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p4",
+      "stem": "<u>それ</u>とあるが、どういうことか。",
+      "options": [
+        "必要な条件が十分に揃ってから、動き始めたほうがいいこと",
+        "必要な条件が何かわかってから、動き始めたほうがいいこと",
+        "必要な条件が何かわからなくても、動き始めなければならないこと",
+        "必要な条件が揃わなくても、動き始めなければならないこと"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "\"Điều đó\" nghĩa là gì? → Dù các điều kiện cần thiết chưa đầy đủ cũng phải bắt đầu hành động.",
+        "why": "それ chỉ câu ngay trước: \"phải bắt đầu hành động khi thông tin/điều kiện cần thiết chưa được chuẩn bị đầy đủ – đó là lẽ thường của quyết đoán\". Người quyết đoán hiểu điều này.",
+        "options": [
+          "Đợi đủ điều kiện rồi mới hành động → ngược ý tác giả. Sai.",
+          "Biết rõ điều kiện cần là gì rồi mới hành động → sai. Sai.",
+          "Không biết điều kiện cần là gì → bài nói điều kiện \"chưa đủ\", không phải \"không biết là gì\". Sai.",
+          "Điều kiện chưa đủ vẫn phải bắt đầu hành động. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "決断", "r": "けつだん", "hv": "QUYẾT ĐOÁN", "vi": "quyết định dứt khoát" },
+          { "w": "揃う", "r": "そろう", "hv": "TIỄN", "vi": "đầy đủ, tề tựu" },
+          { "w": "整う", "r": "ととのう", "hv": "CHỈNH", "vi": "được chuẩn bị đầy đủ" },
+          { "w": "わきまえる", "r": "わきまえる", "hv": "", "vi": "hiểu rõ, biết điều" },
+          { "w": "裏付ける", "r": "うらづける", "hv": "LÝ PHÓ", "vi": "chứng minh, củng cố" }
+        ],
+        "grammar": {
+          "pattern": "～ないうちに",
+          "meaning": "trong khi chưa ~",
+          "form": "Vない + うちに",
+          "example": "暗くならないうちに、帰りましょう。"
+        },
+        "evidence": "欲しいと思っている情報や必要だと思っている条件が整わないうちに、動き始めなければならないのが決断の常なのです。決断ができる人はそれをわきまえていて、…",
+        "tip": "整わない (chưa đầy đủ) = 揃わない. Bẫy lựa chọn 3: 何かわからない (không biết là gì) khác với 揃わない."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p4",
+      "stem": "筆者は決断するためには、何が必要だと述べているか。",
+      "options": [
+        "不足している条件は何か、考えること",
+        "状況に応じて、目標を変えていくこと",
+        "自分の目標を明確に定めて、忘れずにいること",
+        "目標が自分に合っているか、常に意識すること"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tác giả nói để quyết đoán thì cần điều gì? → Xác định rõ mục tiêu của bản thân và không quên nó.",
+        "why": "Bí quyết: có mục tiêu (vision) rõ ràng; đặt mục tiêu và luôn ý thức phương hướng hướng tới nó thì dù thiếu điều kiện vẫn quyết định được.",
+        "options": [
+          "Suy nghĩ điều kiện nào còn thiếu → đó là kiểu người không quyết đoán (liệt kê điều kiện thiếu). Sai.",
+          "Thay đổi mục tiêu theo tình huống → không được nói. Sai.",
+          "Xác định rõ mục tiêu và luôn ghi nhớ. ĐÚNG.",
+          "Luôn ý thức mục tiêu có hợp với mình không → bài nói ý thức \"phương hướng hướng tới mục tiêu\", không phải sự phù hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "目標", "r": "もくひょう", "hv": "MỤC TIÊU", "vi": "mục tiêu" },
+          { "w": "設定", "r": "せってい", "hv": "THIẾT ĐỊNH", "vi": "thiết lập, đặt ra" },
+          { "w": "意識する", "r": "いしきする", "hv": "Ý THỨC", "vi": "ý thức" },
+          { "w": "明確", "r": "めいかく", "hv": "MINH XÁC", "vi": "rõ ràng" },
+          { "w": "コツ", "r": "コツ", "hv": "", "vi": "bí quyết, mẹo" }
+        ],
+        "grammar": {
+          "pattern": "～に限って",
+          "meaning": "riêng ~ thì lại (thường tiêu cực, trái kỳ vọng)",
+          "form": "N + に限って",
+          "example": "急いでいる日に限って、電車が遅れる。"
+        },
+        "evidence": "常に条件が不足する中で決断するコツの一つは目標を持つことです。…目標を設定し、そこに向かう方向性をいつも意識していれば、条件が不足していても決断ができるはずです。",
+        "tip": "Đáp án đúng thường là cách diễn đạt lại: 目標を設定し…いつも意識 = 明確に定めて、忘れずにいる."
+      }
+    }
+  ]
+}

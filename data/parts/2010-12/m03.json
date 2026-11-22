@@ -1,0 +1,135 @@
+{
+  "exam": "2010-12",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ (tiền tố/hậu tố) thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "昨日の試合は、私たちのチームが２（　　）１で勝った。",
+      "options": ["反", "比", "差", "対"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Trận đấu hôm qua, đội chúng tôi đã thắng với tỉ số 2–1.",
+        "why": "Tỉ số trận đấu đọc là 「A対B」 (たい, ĐỐI): ２対１ = 2 đối 1.",
+        "options": [
+          "反 (はん): phản, ngược (反対・反比例). Sai.",
+          "比 (ひ): tỉ lệ (比率). Không dùng cho tỉ số trận đấu. Sai.",
+          "差 (さ): chênh lệch (１点差 = cách biệt 1 điểm), không đặt giữa hai số. Sai.",
+          "対 (たい): đối, tỉ số A–B. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "対", "r": "たい", "hv": "ĐỐI", "vi": "đối (tỉ số A–B)" },
+          { "w": "試合", "r": "しあい", "hv": "THÍ HỢP", "vi": "trận đấu" },
+          { "w": "点差", "r": "てんさ", "hv": "ĐIỂM SAI", "vi": "cách biệt điểm số" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "２対１で勝つ = thắng 2–1; １点差で勝つ = thắng cách biệt 1 điểm."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "１年前のテレビドラマが、来週から（　　）放送される。",
+      "options": ["改", "再", "更", "復"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Bộ phim truyền hình từ 1 năm trước sẽ được phát sóng lại từ tuần sau.",
+        "why": "再 (さい, TÁI) = lại lần nữa. 再放送 (さいほうそう) = phát sóng lại.",
+        "options": [
+          "改 (かい): cải, sửa đổi (改正・改札). Không có 改放送. Sai.",
+          "再 (さい): tái, lại. 再放送 = phát lại. ĐÚNG.",
+          "更 (こう): canh, thay mới (更新・変更). Sai.",
+          "復 (ふく): phục, khôi phục/lặp lại (復習・回復). Không có 復放送. Sai."
+        ],
+        "vocab": [
+          { "w": "再放送", "r": "さいほうそう", "hv": "TÁI PHÓNG TỐNG", "vi": "phát sóng lại" },
+          { "w": "再開", "r": "さいかい", "hv": "TÁI KHAI", "vi": "mở lại, tiếp tục lại" },
+          { "w": "再利用", "r": "さいりよう", "hv": "TÁI LỢI DỤNG", "vi": "tái sử dụng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "再 + danh động từ: 再放送・再開発・再確認・再提出 (lặp lại hành động)."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "このレストランは予約（　　）です。",
+      "options": ["則", "法", "制", "系"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nhà hàng này hoạt động theo chế độ đặt chỗ trước.",
+        "why": "制 (せい, CHẾ) = chế độ, hệ thống. 予約制 = theo chế độ đặt trước (phải đặt mới vào được).",
+        "options": [
+          "則 (そく): tắc, quy tắc (規則・原則). Sai.",
+          "法 (ほう): pháp, phương pháp/luật (方法・文法). Không có 予約法. Sai.",
+          "制 (せい): chế độ. 予約制 = chế độ đặt trước. ĐÚNG.",
+          "系 (けい): hệ, dòng (理系・文系). Sai."
+        ],
+        "vocab": [
+          { "w": "予約制", "r": "よやくせい", "hv": "DỰ ƯỚC CHẾ", "vi": "chế độ đặt chỗ trước" },
+          { "w": "会員制", "r": "かいいんせい", "hv": "HỘI VIÊN CHẾ", "vi": "chế độ hội viên" },
+          { "w": "制度", "r": "せいど", "hv": "CHẾ ĐỘ", "vi": "chế độ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "～制: 予約制・会員制・二交代制・定員制 (hình thức/chế độ vận hành)."
+      }
+    },
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "この大学は就職（　　）が高い。",
+      "options": ["率", "割", "度", "倍"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Trường đại học này có tỉ lệ có việc làm cao.",
+        "why": "率 (りつ, SUẤT) = tỉ lệ. 就職率 = tỉ lệ sinh viên tìm được việc. 率が高い = tỉ lệ cao.",
+        "options": [
+          "率 (りつ): tỉ lệ. 就職率. ĐÚNG.",
+          "割 (わり): 10% (３割 = 30%), đi sau con số, không gắn sau 就職. Sai.",
+          "度 (ど): độ, mức độ (知名度・満足度). Không có 就職度. Sai.",
+          "倍 (ばい): lần (２倍). Sai."
+        ],
+        "vocab": [
+          { "w": "就職率", "r": "しゅうしょくりつ", "hv": "TỰU CHỨC SUẤT", "vi": "tỉ lệ có việc làm" },
+          { "w": "合格率", "r": "ごうかくりつ", "hv": "HỢP CÁCH SUẤT", "vi": "tỉ lệ đỗ" },
+          { "w": "倍率", "r": "ばいりつ", "hv": "BỘI SUẤT", "vi": "tỉ lệ chọi; độ phóng đại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "率 = りつ khi nghĩa là ‘tỉ lệ’ (就職率・確率・効率); = そつ khi nghĩa là ‘dẫn dắt/thẳng thắn’ (引率 いんそつ, 率直 そっちょく)."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "今は（　　）制度からの移行時期だ。",
+      "options": ["先", "旧", "昔", "元"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hiện nay là thời kỳ chuyển tiếp từ chế độ cũ (sang chế độ mới).",
+        "why": "旧 (きゅう, CỰU) = cũ, trước đây; gắn trước danh từ chỉ chế độ/tổ chức: 旧制度 = chế độ cũ (đối lập 新制度).",
+        "options": [
+          "先 (せん): trước (先月・先日), chỉ thời gian gần nhất, không nói 先制度. Sai.",
+          "旧 (きゅう): cũ. 旧制度. ĐÚNG.",
+          "昔 (むかし): ngày xưa, là danh từ độc lập, không làm tiền tố. Sai.",
+          "元 (もと): cựu, nguyên (元社長 = cựu giám đốc), dùng cho người/chức vụ. Sai."
+        ],
+        "vocab": [
+          { "w": "旧制度", "r": "きゅうせいど", "hv": "CỰU CHẾ ĐỘ", "vi": "chế độ cũ" },
+          { "w": "移行", "r": "いこう", "hv": "DI HÀNH", "vi": "chuyển đổi, chuyển sang" },
+          { "w": "時期", "r": "じき", "hv": "THỜI KỲ", "vi": "thời kỳ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "旧 ↔ 新: 旧制度/新制度, 旧型/新型, 旧姓 (họ cũ trước khi kết hôn)."
+      }
+    }
+  ]
+}

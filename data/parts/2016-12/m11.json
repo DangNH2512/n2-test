@@ -1,0 +1,333 @@
+{
+  "exam": "2016-12",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（1）から（3）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc 3 đoạn văn trung bình (1)–(3) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "日本ではよく、「若者はもっと個性を発揮すべきだ」とか、「個性を磨くべきだ」などと言われます。けれど私は、そういう言葉にはあまり意味がないと思っています。\nまた、日本では「個性」という言葉が主に人の外観に関して使われることにも、私は違和感（注1）を持っています。たとえば、「個性的なファッション、個性的なヘアスタイル」は、「人がアッと驚くような奇抜な（注2）スタイル」であることが多いでしょう。\n（中略）\nこのように考えると、「個性＝人より目立つこと」と、多くの人が錯覚（注3）しているのではないかと思います。\nでも、根本的なことを言ってしまえば、この世に生まれた人間は一人残らず全員、それぞれの個性を持っています。だから、誰かに「磨きなさい」と命令されて、義務のように磨く必要などないのです。\nあなたが生まれ持った個性は、明らかにあなただけのものです。世界中に、あなたと同じ個性を持つ人など誰一人としていないのですから、「他の人はどうかな？」とキョロキョロすることは不必要だし、他人の真似をする必要もありません。真似しようとしても真似できないのが、個性というものなのです。\nあなた自身が「楽しい、面白い、不思議だ、ワクワクする、ドキドキする」と感じ、心から求めているものを優先すれば、それでいいのです。「磨く」とか「発揮する」などと意識しなくても、自分が本当に好きなもの、興味があることに気持ちが向かっていけば、自分の世界がどんどん広がっていく。それが<u>本当の意味で「個性を磨く」</u>ということです。\n（今北純一『自分力を高める』による）\n（注1）違和感：ここでは、なにか違うという感じ\n（注2）奇抜な：珍しくて目立っている\n（注3）錯覚する：勘違いする"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "「話し言葉」の最も重要な特徴は、声を使うところにあるのではなく、聞き手が目の前にいるというところにあります。話し手と聞き手は、親しい関係の場合もあれば、初対面の人、行きずり（注1）の人の場合もありますが、少なくとも両者は、そこがどんな場所で、どんな状況であるかについて、一定の共通認識（注2）を持っています。同時に、相手がどういう人であるかについても、ある程度はわかります。\n（中略）\nところが「書き言葉」になると、たとえ親しい相手への手紙でも、あちこちで説明が必要になります。自分しか読まないはずの覚え書きでも、時間がたつと書かれた状況がわからなくなりますから、「あとで読み返すかもしれない自分」への最低限の配慮（注3）はしておかなくてはなりません。説明するというのは、「自分には言葉にしなくてもわかっていること」を、わざわざ言葉にする作業ですから、とてもやっかいです。でも、そこがきちんとできていないと、<u>誤解が生じて</u>取り返しのつかない（注4）結果になることもありえます。面とむかって（注5）の話なら、相手が気を悪くすれば急いで謝ることもできますが、手紙だと、怒らせたことに気づかないまま関係が切れる恐れすらあるのです。\nですから、「書き言葉」においては、文字の読み書きという知識に加えて、自分が書いたものを読む相手がどんな情報を必要としているかを推測する（注6）力、そして、その情報を、どんな言い方、どんな順序で提供すれば、わかってもらいやすく、誤解が生じにくいかを考える力が、いかに（注7）大きな意味を持つかが分かっていただけると思います。\n（脇明子『読む力が未来をひらく―小学生への読書支援』による）\n（注1）行きずりの人：たまたま出会った人\n（注2）認識：理解\n（注3）配慮：気配り\n（注4）取り返しのつかない：もとに戻せば大変な\n（注5）面とむかって：対面して\n（注6）推測する：ここでは、想像する\n（注7）いかに：どんなに"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "従来（注1）、旅行業にとって顧客（注2）を喜ばせることは難しくなかった。自分の行ったことがないところに行きたい、見たことがないものを見たい、食べたことのないものを食べたいというのが主なニーズであったし、長い休みの存在自体が旅行の動機になり得たからだ。だから参加者の多くは、そこに行って、そこそこ（注3）の観光ができれば、十分に満足した。旅行会社は、価格を抑えるために人々を大量に効率良く（注4）送客すればよかった。北海道や沖縄、グアムやハワイ、アジアのリゾート地…場所の魅力を繰り返し伝えて刺激し続ければそれでよかった。\nしかし、そうして多くの人がさまざまな場所に出掛けるようになると、今度はただ行くだけでは満足しなくなる。目的が必要になる。行ってどうするのか、何ができるのかという目的が重要になる。\n（中略）\nこの流れは現在も続いており、旅の動機づけとしては重要な視点となっている。ただ、残念ながらそういうことをマス（注5）としてとらえることが、価値観の多様化のなかで難しくなってきている。個々の目的を一つに束ねてマスの企画にすることが難しいのだ。ブームが発生しづらくなっている状況と原因は同じであろう。\n（近藤康生『なぜ、人は旅に出るのか』による）\n（注1）従来：これまで\n（注2）顧客：客\n（注3）そこそこの：まあまあの\n（注4）効率良く：ここでは、経費や時間をかけずに\n（注5）マス：集団"
+    }
+  ],
+  "questions": [
+    {
+      "num": 60,
+      "passage": "p1",
+      "stem": "日本人が使う「個性」という言葉について、筆者はどのように述べているか。",
+      "options": [
+        "本来の意味とは違う使い方がされている。",
+        "意味がないと思っている人が多い。",
+        "主に若者に対して使われている。",
+        "人によって使い方がさまざまだ。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tác giả nói gì về từ \"cá tính\" mà người Nhật dùng? → Nó đang được dùng theo cách khác với nghĩa vốn có.",
+        "why": "Tác giả thấy 違和感 vì ở Nhật \"cá tính\" chủ yếu dùng cho vẻ ngoài, và nhiều người 錯覚 (nhầm tưởng) rằng cá tính = nổi bật hơn người. Còn cá tính thực sự là thứ ai sinh ra cũng có → người Nhật dùng khác nghĩa gốc.",
+        "options": [
+          "Dùng khác với nghĩa vốn có. ĐÚNG.",
+          "Chính tác giả mới nghĩ những lời như \"phát huy cá tính\" là vô nghĩa; không nói \"nhiều người\" nghĩ vậy. Sai.",
+          "Câu \"若者はもっと個性を発揮すべきだ\" chỉ là ví dụ; không nói từ này chủ yếu dùng cho giới trẻ. Sai.",
+          "Ngược lại, tác giả nói phần lớn mọi người dùng cùng một kiểu (cho vẻ ngoài). Sai."
+        ],
+        "vocab": [
+          { "w": "個性", "r": "こせい", "hv": "CÁ TÍNH", "vi": "cá tính" },
+          { "w": "違和感", "r": "いわかん", "hv": "VI HÒA CẢM", "vi": "cảm giác không ổn, lạc lõng" },
+          { "w": "外観", "r": "がいかん", "hv": "NGOẠI QUAN", "vi": "vẻ bề ngoài" },
+          { "w": "錯覚", "r": "さっかく", "hv": "THÁC GIÁC", "vi": "ảo giác, nhầm tưởng" }
+        ],
+        "grammar": null,
+        "evidence": "日本では「個性」という言葉が主に人の外観に関して使われることにも、私は違和感を持っています。…「個性＝人より目立つこと」と、多くの人が錯覚しているのではないかと思います。",
+        "tip": "錯覚・勘違い・違和感 là tín hiệu tác giả cho rằng cách hiểu phổ biến là sai."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p1",
+      "stem": "個性について、筆者の考えに合うものはどれか。",
+      "options": [
+        "他人には理解できないものである。",
+        "人より目立つことで発揮できるものである。",
+        "人間なら誰でも持っているものである。",
+        "ファッションを通して主張できるものである。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về cá tính, điều nào phù hợp với suy nghĩ của tác giả? → Là thứ mà con người ai cũng có.",
+        "why": "Tác giả: \"Mọi con người sinh ra trên đời, không sót một ai, đều có cá tính riêng\" (一人残らず全員、それぞれの個性を持っています).",
+        "options": [
+          "Tác giả nói cá tính không thể bắt chước, chứ không nói người khác không hiểu được. Sai.",
+          "Đây là cách hiểu sai (錯覚) mà tác giả phê phán. Sai.",
+          "Ai cũng có cá tính. ĐÚNG.",
+          "Tác giả phê phán việc gắn cá tính với thời trang/vẻ ngoài. Sai."
+        ],
+        "vocab": [
+          { "w": "一人残らず", "r": "ひとりのこらず", "hv": "NHẤT NHÂN TÀN", "vi": "không sót một ai" },
+          { "w": "根本的", "r": "こんぽんてき", "hv": "CĂN BẢN ĐÍCH", "vi": "căn bản, gốc rễ" },
+          { "w": "生まれ持つ", "r": "うまれもつ", "hv": "SINH TRÌ", "vi": "có từ khi sinh ra" },
+          { "w": "真似", "r": "まね", "hv": "CHÂN TỰ", "vi": "bắt chước" }
+        ],
+        "grammar": {
+          "pattern": "〜など〜ない",
+          "meaning": "(nhấn mạnh phủ định, coi nhẹ) chẳng cần ~ gì cả",
+          "form": "N / V辞書形 + 必要など + ない",
+          "example": "心配する必要などない。"
+        },
+        "evidence": "この世に生まれた人間は一人残らず全員、それぞれの個性を持っています。",
+        "tip": "でも、根本的なことを言ってしまえば… = câu chuyển ý dẫn vào quan điểm chính của tác giả."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p1",
+      "stem": "筆者によると、<u>本当の意味で「個性を磨く」</u>とはどのようなことか。",
+      "options": [
+        "自分の心に従って、関心があることを追い求めること",
+        "自分が好きかどうかより、個性的に見られるかどうかを優先すること",
+        "周囲の意見を参考に、無理なく自分の世界を広げること",
+        "どんな物事にも、楽しさや面白さを見つける努力をすること"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, \"mài giũa cá tính theo đúng nghĩa\" là gì? → Là làm theo trái tim mình, theo đuổi những điều mình quan tâm.",
+        "why": "Ngay trước それが: ưu tiên điều mình thật lòng mong muốn, hướng tâm trí vào thứ mình thích/quan tâm → thế giới của mình mở rộng. Đáp án 1 tóm đúng ý.",
+        "options": [
+          "Theo trái tim, theo đuổi điều mình quan tâm. ĐÚNG.",
+          "Ngược ý: tác giả ưu tiên điều mình thích, không phải trông có cá tính. Sai.",
+          "Tác giả nói không cần nhìn ngó người khác (キョロキョロ不必要), không phải tham khảo ý kiến xung quanh. Sai.",
+          "Không nói phải cố tìm niềm vui trong mọi việc; chỉ nói hướng đến điều mình thật sự thích. Sai."
+        ],
+        "vocab": [
+          { "w": "優先", "r": "ゆうせん", "hv": "ƯU TIÊN", "vi": "ưu tiên" },
+          { "w": "磨く", "r": "みがく", "hv": "MA", "vi": "mài giũa, đánh bóng" },
+          { "w": "発揮", "r": "はっき", "hv": "PHÁT HUY", "vi": "phát huy" },
+          { "w": "追い求める", "r": "おいもとめる", "hv": "TRUY CẦU", "vi": "theo đuổi" }
+        ],
+        "grammar": null,
+        "evidence": "自分が本当に好きなもの、興味があることに気持ちが向かっていけば、自分の世界がどんどん広がっていく。それが本当の意味で「個性を磨く」ということです。",
+        "tip": "Câu hỏi về cụm gạch chân bắt đầu bằng それが… → đáp án nằm ngay câu trước."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p2",
+      "stem": "筆者によると、「話し言葉」の重要な特徴とは何か。",
+      "options": [
+        "話し手と聞き手が声を使って情報を共有するところ",
+        "話し手と聞き手の関係が多様であるところ",
+        "話し手が聞き手との親しさによって表現を使い分けるところ",
+        "話し手が聞き手と場面を共有するところ"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, đặc điểm quan trọng của \"văn nói\" là gì? → Ở chỗ người nói và người nghe cùng chia sẻ bối cảnh.",
+        "why": "Đặc điểm quan trọng nhất: người nghe ở ngay trước mặt; hai bên có nhận thức chung về \"đây là nơi nào, tình huống ra sao\" → cùng chia sẻ bối cảnh (場面を共有).",
+        "options": [
+          "Tác giả phủ định: đặc điểm không nằm ở việc dùng giọng nói (声を使うところにあるのではなく). Sai.",
+          "Quan hệ đa dạng (thân/không quen) chỉ được nhắc thoáng qua, không phải đặc điểm quan trọng. Sai.",
+          "Bài không nói về việc đổi cách nói theo mức thân thiết. Sai.",
+          "Cùng chia sẻ bối cảnh (nơi chốn, tình huống). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "特徴", "r": "とくちょう", "hv": "ĐẶC TRƯNG", "vi": "đặc điểm" },
+          { "w": "共通認識", "r": "きょうつうにんしき", "hv": "CỘNG THÔNG NHẬN THỨC", "vi": "nhận thức chung" },
+          { "w": "行きずり", "r": "いきずり", "hv": "HÀNH", "vi": "tình cờ gặp" },
+          { "w": "場面", "r": "ばめん", "hv": "TRƯỜNG DIỆN", "vi": "bối cảnh, cảnh" }
+        ],
+        "grammar": {
+          "pattern": "〜もあれば、〜もある",
+          "meaning": "có khi ~, cũng có khi ~",
+          "form": "N の場合もあれば、N の場合もある",
+          "example": "うまくいく日もあれば、失敗する日もある。"
+        },
+        "evidence": "少なくとも両者は、そこがどんな場所で、どんな状況であるかについて、一定の共通認識を持っています。",
+        "tip": "〜のではなく、〜にあります: ý chính nằm ở vế sau; vế trước (声を使う) là bẫy đáp án 1."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p2",
+      "stem": "<u>誤解が生じて</u>とあるが、どのような時に誤解が生じるのか。",
+      "options": [
+        "読み手に必要な情報を十分に説明していない時",
+        "読み手が理解していることを再び説明してしまった時",
+        "自分のために書いたものを相手に送ってしまった時",
+        "気を悪くした相手にきちんと謝らなかった時"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "\"Phát sinh hiểu lầm\" — hiểu lầm phát sinh khi nào? → Khi không giải thích đầy đủ thông tin cần thiết cho người đọc.",
+        "why": "そこがきちんとできていないと誤解が生じて… — \"そこ\" chỉ việc giải thích (đem điều mình hiểu mà không cần nói thành lời viết ra). Không làm đủ việc giải thích → hiểu lầm.",
+        "options": [
+          "Không giải thích đủ thông tin người đọc cần. ĐÚNG.",
+          "Bài không nói giải thích lại điều người đọc đã hiểu gây hiểu lầm. Sai.",
+          "Việc ghi chép cho bản thân chỉ là ví dụ về việc cần giải thích, không phải chuyện gửi nhầm. Sai.",
+          "Việc xin lỗi được nhắc khi so sánh với nói trực tiếp, không phải nguyên nhân gây hiểu lầm. Sai."
+        ],
+        "vocab": [
+          { "w": "誤解", "r": "ごかい", "hv": "NGỘ GIẢI", "vi": "hiểu lầm" },
+          { "w": "生じる", "r": "しょうじる", "hv": "SINH", "vi": "phát sinh" },
+          { "w": "配慮", "r": "はいりょ", "hv": "PHỐI LỰ", "vi": "quan tâm, chu đáo" },
+          { "w": "やっかい", "r": "やっかい", "hv": "", "vi": "phiền toái, rắc rối" }
+        ],
+        "grammar": null,
+        "evidence": "説明するというのは、「自分には言葉にしなくてもわかっていること」を、わざわざ言葉にする作業ですから、とてもやっかいです。でも、そこがきちんとできていないと、誤解が生じて取り返しのつかない結果になることもありえます。",
+        "tip": "Tìm từ chỉ thị (そこ) ngay trước cụm gạch chân và xác định nó chỉ gì."
+      }
+    },
+    {
+      "num": 65,
+      "passage": "p2",
+      "stem": "「書き言葉」について、筆者の考えに合うのはどれか。",
+      "options": [
+        "相手がどのような情報を必要としているのかを調べることが大切だ。",
+        "何をどのように書けば相手が理解できるかを考えることが大切だ。",
+        "言い方や順序よりも文字と言葉の正確さを優先させたほうがいい。",
+        "読み書きの知識よりも書く内容を重視したほうがいい。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Về \"văn viết\", điều nào phù hợp với suy nghĩ của tác giả? → Điều quan trọng là suy nghĩ viết gì và viết thế nào thì người đọc hiểu được.",
+        "why": "Đoạn cuối: ngoài kiến thức đọc viết, cần năng lực \"đoán\" người đọc cần thông tin gì, và \"suy nghĩ\" cung cấp nó bằng cách nói, thứ tự nào để dễ hiểu → \"viết gì, viết thế nào\" = đáp án 2.",
+        "options": [
+          "Bài nói 推測する (đoán, tưởng tượng) chứ không phải 調べる (điều tra). Sai.",
+          "Suy nghĩ viết gì, viết thế nào để người đọc hiểu. ĐÚNG.",
+          "Ngược ý: tác giả coi trọng cách nói và thứ tự. Sai.",
+          "Tác giả nói \"thêm vào\" kiến thức đọc viết (に加えて), không nói coi nhẹ nó. Sai."
+        ],
+        "vocab": [
+          { "w": "推測", "r": "すいそく", "hv": "SUY TRẮC", "vi": "suy đoán" },
+          { "w": "順序", "r": "じゅんじょ", "hv": "THUẬN TỰ", "vi": "thứ tự" },
+          { "w": "提供", "r": "ていきょう", "hv": "ĐỀ CUNG", "vi": "cung cấp" }
+        ],
+        "grammar": {
+          "pattern": "〜に加えて",
+          "meaning": "thêm vào ~, ngoài ~ ra còn",
+          "form": "N + に加えて",
+          "example": "雨に加えて、風も強くなってきた。"
+        },
+        "evidence": "自分が書いたものを読む相手がどんな情報を必要としているかを推測する力、そして、その情報を、どんな言い方、どんな順序で提供すれば、わかってもらいやすく、誤解が生じにくいかを考える力が、いかに大きな意味を持つかが分かっていただけると思います。",
+        "tip": "Bẫy đổi động từ: 推測する (đoán) ≠ 調べる (tra cứu)."
+      }
+    },
+    {
+      "num": 66,
+      "passage": "p3",
+      "stem": "筆者によると、これまでの旅はどのようなものだったか。",
+      "options": [
+        "高くても遠い場所でのんびり過ごせればよかった。",
+        "経験したことのないことができればよかった。",
+        "気に入った場所に繰り返し行ければよかった。",
+        "近くて安い場所に短期間に行ければよかった。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo tác giả, những chuyến du lịch trước đây như thế nào? → Chỉ cần làm được những điều chưa từng trải nghiệm là đủ.",
+        "why": "Nhu cầu chính trước đây: muốn đến nơi chưa từng đến, xem điều chưa từng thấy, ăn món chưa từng ăn → \"làm được điều chưa từng trải qua\" là thỏa mãn.",
+        "options": [
+          "Bài không nói \"đắt cũng được\" hay \"thư giãn ở nơi xa\"; ngược lại công ty giữ giá rẻ. Sai.",
+          "Làm được điều chưa từng trải qua. ĐÚNG.",
+          "繰り返し trong bài là công ty \"lặp đi lặp lại\" quảng bá sức hút địa điểm, không phải khách đi lại nơi yêu thích. Sai.",
+          "Bài không nói \"gần\" và \"ngắn ngày\"; lại nhắc kỳ nghỉ dài là động cơ đi du lịch. Sai."
+        ],
+        "vocab": [
+          { "w": "従来", "r": "じゅうらい", "hv": "TÒNG LAI", "vi": "trước đến nay" },
+          { "w": "顧客", "r": "こきゃく", "hv": "CỐ KHÁCH", "vi": "khách hàng" },
+          { "w": "動機", "r": "どうき", "hv": "ĐỘNG CƠ", "vi": "động cơ" },
+          { "w": "そこそこ", "r": "そこそこ", "hv": "", "vi": "tàm tạm, kha khá" }
+        ],
+        "grammar": {
+          "pattern": "〜ばよかった（〜ばそれでよかった）",
+          "meaning": "chỉ cần ~ là đủ (trước đây)",
+          "form": "Vば + よかった",
+          "example": "昔は安ければ売れた。品質は二の次でよかった。"
+        },
+        "evidence": "自分の行ったことがないところに行きたい、見たことがないものを見たい、食べたことのないものを食べたいというのが主なニーズであった",
+        "tip": "Bẫy từ lặp: 繰り返し có trong bài nhưng chủ thể khác (công ty quảng bá)."
+      }
+    },
+    {
+      "num": 67,
+      "passage": "p3",
+      "stem": "筆者によると、客は旅で何を重視するようになってきたか。",
+      "options": [
+        "一回の旅行でさまざまな場所へ行けるかどうか",
+        "観光するだけで満足できるかどうか",
+        "行ってしたいことができるかどうか",
+        "新しい場所へ行けるかどうか"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Theo tác giả, khách hàng dần coi trọng điều gì khi đi du lịch? → Có làm được điều mình muốn làm khi đến đó hay không.",
+        "why": "Khi nhiều người đã đi nhiều nơi, \"chỉ đi thôi\" không còn đủ; cần mục đích: \"đến đó để làm gì, làm được gì\" → đáp án 3.",
+        "options": [
+          "Bài không nói đi nhiều nơi trong một chuyến. Sai.",
+          "Ngược ý: chỉ tham quan/chỉ đi thì không còn thỏa mãn. Sai.",
+          "Có làm được điều muốn làm khi đến đó không. ĐÚNG.",
+          "Đến nơi mới là nhu cầu của thời trước (従来), không phải xu hướng mới. Sai."
+        ],
+        "vocab": [
+          { "w": "重視", "r": "じゅうし", "hv": "TRỌNG THỊ", "vi": "coi trọng" },
+          { "w": "目的", "r": "もくてき", "hv": "MỤC ĐÍCH", "vi": "mục đích" },
+          { "w": "満足", "r": "まんぞく", "hv": "MÃN TÚC", "vi": "thỏa mãn, hài lòng" }
+        ],
+        "grammar": {
+          "pattern": "〜だけでは〜ない",
+          "meaning": "chỉ ~ thôi thì không (đủ) ~",
+          "form": "V辞書形 + だけでは + Vない",
+          "example": "読むだけでは覚えられない。"
+        },
+        "evidence": "今度はただ行くだけでは満足しなくなる。目的が必要になる。行ってどうするのか、何ができるのかという目的が重要になる。",
+        "tip": "しかし ở đầu đoạn 2 → chuyển từ \"trước đây\" sang \"bây giờ\"."
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p3",
+      "stem": "筆者によると、旅行会社が難しいと感じている点は何か。",
+      "options": [
+        "個々のニーズに合った団体旅行を考え出すこと",
+        "魅力を感じてもらえる場所を探し続けること",
+        "旅行に行こうという気持ちにさせること",
+        "価格を抑えた団体旅行を企画すること"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, điểm mà công ty du lịch thấy khó là gì? → Nghĩ ra những tour đoàn phù hợp với nhu cầu của từng người.",
+        "why": "Giá trị quan đa dạng → khó gom các mục đích riêng lẻ thành một kế hoạch cho tập thể (マス=集団). Tức là khó tạo tour đoàn đáp ứng nhu cầu cá nhân.",
+        "options": [
+          "Tạo tour đoàn hợp với nhu cầu từng người. ĐÚNG.",
+          "Việc quảng bá sức hút địa điểm là cách làm trước đây (dễ), không phải cái khó. Sai.",
+          "Bài nói động cơ du lịch (目的) vẫn là góc nhìn quan trọng, không nói khó khơi gợi mong muốn đi. Sai.",
+          "Giữ giá rẻ là chuyện trước đây công ty làm được dễ dàng. Sai."
+        ],
+        "vocab": [
+          { "w": "束ねる", "r": "たばねる", "hv": "THÚC", "vi": "bó lại, gom lại" },
+          { "w": "多様化", "r": "たようか", "hv": "ĐA DẠNG HÓA", "vi": "đa dạng hóa" },
+          { "w": "企画", "r": "きかく", "hv": "XÍ HOẠCH", "vi": "kế hoạch, dự án" },
+          { "w": "団体旅行", "r": "だんたいりょこう", "hv": "ĐOÀN THỂ LỮ HÀNH", "vi": "du lịch theo đoàn" }
+        ],
+        "grammar": {
+          "pattern": "Vます + づらい",
+          "meaning": "khó ~",
+          "form": "V(ます形 bỏ ます) + づらい",
+          "example": "この靴は歩きづらい。"
+        },
+        "evidence": "個々の目的を一つに束ねてマスの企画にすることが難しいのだ。",
+        "tip": "Diễn đạt lại: マス=集団=団体; 個々の目的=個々のニーズ."
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "n2-luyen-de",
+  "version": "1.0.0",
+  "private": true,
+  "description": "JLPT N2 practice web app (local) — SQLite + vanilla JS, no npm dependencies",
+  "engines": { "node": ">=22.5" },
+  "scripts": {
+    "start": "node --no-warnings server.js",
+    "build:db": "node --no-warnings scripts/build-db.js",
+    "mazii": "node --no-warnings scripts/enrich-mazii.js",
+    "validate": "python3 scripts/validate_parts.py all",
+    "setup": "npm run build:db && npm run mazii"
+  }
+}

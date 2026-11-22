@@ -1,0 +1,104 @@
+{
+  "exam": "2012-07",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn sau và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "これは僕の個人的な意見だが、「悩み」と無縁の幸せは存在しないと思う。ものづくりでも「悩み」はとても重要で、悩みをどう解決するか、どう昇華(注1)させるかが、作った成果、物の存在感や主張に直結する。\nその観点で言うと、最近の日本の製品には「悩み」が見えない。悩みに取り組まずに切り捨ててしまうからだと思う。日本人は「シンプル」に強いあこがれを持っているが、いつの頃からか「要素が少なくて単純なことがシンプルだ」という誤った思い込みを抱いてしまっている。だから<u>重要なもの</u>を切り捨ててしまって平気なのだ。\nそういう思いつきと勢いだけで作られた商品を「チューインガム商品」と僕は呼ぶ。作られたものが薄っぺらで、すぐに味がなくなって捨てられるからだ。\n日本人の多くは「日本文化の神髄(注2)はシンプルさだ」と思っているようだが、僕は完全には同意できない。日本文化にはいろいろな相反(注3)する要素が複雑に絡みあって、それらを生かしたまま歴史の中で洗練された結果、一見シンプルに見えているだけなのだ。その深い部分を理解できずに、切り捨てて単純化したものを簡単に製品にしているから味が出てこない。\n日本文化と同様に、切り捨てではなく洗練によってシンプルに見えるものは、ヨーロッパのブランド商品などにもよくある。内在していた相反する要素がうまく噛み合って(注4)いるから、シンプルに見えるだけなのだ。\n要素が少なくて単純なものと、洗練によってシンプルに見えるものを比較すると、内包されている複雑さが全然違う。しかも後者には、作った人たちのいろいろな悩みも見える。最初のうちはうまく隠されていて見えないが、使っているうちに「あ、こうやって悩んで、それでその結果こういう処理をして、それでこの製品ができてきたのか」ということがわかってくる。だから奥が深い商品が生まれ、使っていても色んな側面が次々と現れてくるので飽きが来ないのだ。\n悩みを避けて切り捨てた「もの」や「ひと」には、そういう面白みが存在しない。\n（奥山清行『ムーンショットデザイン幸福論』による）\n(注1) 昇華する：一段と高度なものにする\n(注2) 神髄：中心となる本来の性質\n(注3) 相反する：互いに対立する\n(注4) 噛み合う：ここでは、ぴったり合う"
+    }
+  ],
+  "questions": [
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "ここでの<u>重要なもの</u>とは何か。",
+      "options": ["悩み", "思い込み", "シンプルさ", "強いあこがれ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "「Thứ quan trọng」 ở đây là gì? → Nỗi trăn trở (悩み).",
+        "why": "Ngay trước đó: 'sản phẩm Nhật gần đây không thấy 悩み, vì không đối mặt với nó mà cắt bỏ đi'. Câu chứa 重要なもの lặp lại ý 'cắt bỏ' (切り捨てて) → thứ bị cắt bỏ chính là 悩み, mà đoạn 1 đã khẳng định 「悩み」はとても重要.",
+        "options": [
+          "悩み → thứ bị cắt bỏ, được tác giả coi là rất quan trọng. ĐÚNG.",
+          "思い込み → định kiến sai lầm, là NGUYÊN NHÂN khiến cắt bỏ, không phải thứ bị cắt. Sai.",
+          "シンプルさ → thứ người Nhật theo đuổi, không bị cắt bỏ. Sai.",
+          "強いあこがれ → sự khao khát (sự đơn giản), không bị cắt bỏ. Sai."
+        ],
+        "vocab": [
+          { "w": "悩み", "r": "なやみ", "hv": "NÃO", "vi": "nỗi trăn trở, phiền muộn" },
+          { "w": "切り捨てる", "r": "きりすてる", "hv": "THIẾT XÁ", "vi": "cắt bỏ, gạt bỏ" },
+          { "w": "思い込み", "r": "おもいこみ", "hv": "TƯ", "vi": "định kiến, sự tin chắc (sai)" },
+          { "w": "平気", "r": "へいき", "hv": "BÌNH KHÍ", "vi": "thản nhiên, không bận tâm" }
+        ],
+        "grammar": null,
+        "evidence": "最近の日本の製品には「悩み」が見えない。悩みに取り組まずに切り捨ててしまうからだと思う。…だから重要なものを切り捨ててしまって平気なのだ。",
+        "tip": "Tìm động từ lặp lại (切り捨てる) để xác định đối tượng được nói đến."
+      }
+    },
+    {
+      "num": 72,
+      "passage": "p1",
+      "stem": "筆者は、日本文化をどのようなものだと考えているか。",
+      "options": ["単純に見えて実は複雑なもの", "単純であるが飽きが来ないもの", "要素が少なくシンプルなもの", "洗練されていないが深い味があるもの"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tác giả nghĩ văn hóa Nhật là thứ như thế nào? → Thứ trông đơn giản nhưng thực ra phức tạp.",
+        "why": "Tác giả: văn hóa Nhật có nhiều yếu tố đối lập đan xen phức tạp, được tinh luyện qua lịch sử nên 'thoạt nhìn chỉ trông có vẻ đơn giản' (一見シンプルに見えているだけ).",
+        "options": [
+          "Trông đơn giản, thực chất phức tạp. ĐÚNG.",
+          "Tác giả nói nó KHÔNG thực sự đơn giản. Sai.",
+          "Đây là quan niệm sai của 'nhiều người Nhật' mà tác giả không đồng ý. Sai.",
+          "Văn hóa Nhật ĐÃ được tinh luyện (洗練された). Sai."
+        ],
+        "vocab": [
+          { "w": "洗練", "r": "せんれん", "hv": "TẨY LUYỆN", "vi": "tinh luyện, tinh tế" },
+          { "w": "相反する", "r": "あいはんする", "hv": "TƯƠNG PHẢN", "vi": "đối lập nhau" },
+          { "w": "絡みあう", "r": "からみあう", "hv": "LẠC", "vi": "đan xen, quấn vào nhau" },
+          { "w": "一見", "r": "いっけん", "hv": "NHẤT KIẾN", "vi": "thoạt nhìn" }
+        ],
+        "grammar": {
+          "pattern": "～だけなのだ",
+          "meaning": "chỉ là ~ mà thôi (thực chất không phải vậy)",
+          "form": "Thể thường + だけなのだ",
+          "example": "怒っているように見えるだけなのだ。"
+        },
+        "evidence": "日本文化にはいろいろな相反する要素が複雑に絡みあって、それらを生かしたまま歴史の中で洗練された結果、一見シンプルに見えているだけなのだ。",
+        "tip": "一見～だけ = thoạt nhìn thì ~ nhưng thật ra không phải."
+      }
+    },
+    {
+      "num": 73,
+      "passage": "p1",
+      "stem": "ものづくりについて、筆者はどのようなことが必要だと言いたいのか。",
+      "options": [
+        "できるだけ作り方を複雑にしていくこと",
+        "あまり悩まずにシンプルさを求めていくこと",
+        "深く考えながら対立する要素をうまく合わせていくこと",
+        "迷いながらも複雑に絡みあった要素をうまく切り捨てていくこと"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tác giả muốn nói điều gì là cần thiết trong việc chế tạo sản phẩm? → Vừa suy nghĩ sâu sắc vừa kết hợp khéo léo những yếu tố đối lập.",
+        "why": "Tác giả đề cao sản phẩm 'trông đơn giản nhờ tinh luyện': các yếu tố đối lập bên trong ăn khớp với nhau (噛み合う), và thấy được sự trăn trở (悩み) của người làm. Tức là cần trăn trở, suy nghĩ sâu và hòa hợp các yếu tố đối lập, không cắt bỏ.",
+        "options": [
+          "Không phải làm phức tạp cách làm; mục tiêu là sự đơn giản nhờ tinh luyện. Sai.",
+          "Ngược ý: tác giả phê phán việc né tránh 悩み. Sai.",
+          "Suy nghĩ sâu, kết hợp khéo các yếu tố đối lập. ĐÚNG.",
+          "'Cắt bỏ' chính là điều tác giả phê phán. Sai."
+        ],
+        "vocab": [
+          { "w": "ものづくり", "r": "ものづくり", "hv": "", "vi": "chế tạo, sản xuất (sản phẩm)" },
+          { "w": "対立", "r": "たいりつ", "hv": "ĐỐI LẬP", "vi": "đối lập" },
+          { "w": "噛み合う", "r": "かみあう", "hv": "GIẢO HỢP", "vi": "ăn khớp" },
+          { "w": "昇華", "r": "しょうか", "hv": "THĂNG HOA", "vi": "thăng hoa, nâng lên tầm cao hơn" }
+        ],
+        "grammar": null,
+        "evidence": "内在していた相反する要素がうまく噛み合っているから、シンプルに見えるだけなのだ。／悩みを避けて切り捨てた「もの」や「ひと」には、そういう面白みが存在しない。",
+        "tip": "Đáp án có từ 切り捨てる hoặc 悩まずに → gần như chắc chắn sai trong bài này."
+      }
+    }
+  ]
+}

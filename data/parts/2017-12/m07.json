@@ -1,0 +1,371 @@
+{
+  "exam": "2017-12",
+  "mondai": 7,
+  "section": "grammar",
+  "instruction": "次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn phương án đúng nhất điền vào chỗ trống (ngữ pháp).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 33,
+      "passage": null,
+      "stem": "（大学のホームページで）\nABC大学の法学部には、六つのゼミがあります。ゼミでの活動（　　）、物事を論理的に考える力を身につけることができます。",
+      "options": ["とは", "にも", "にとって", "を通して"],
+      "answer": 4,
+      "explanation": {
+        "translation": "(Trên trang web trường đại học) Khoa Luật của Đại học ABC có sáu nhóm seminar. Thông qua hoạt động ở seminar, bạn có thể rèn được khả năng suy nghĩ sự việc một cách logic.",
+        "why": "〜を通して = thông qua ~ (phương tiện, quá trình để đạt được điều gì). Hoạt động seminar là phương tiện để có được năng lực tư duy logic.",
+        "options": [
+          "とは → định nghĩa \"~ nghĩa là\". Sai.",
+          "にも → \"cũng ở/với ~\", không thể hiện phương tiện. Sai.",
+          "にとって → \"đối với ~\" (lập trường người đánh giá). Sai.",
+          "を通して → thông qua ~. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "法学部", "r": "ほうがくぶ", "hv": "PHÁP HỌC BỘ", "vi": "khoa Luật" },
+          { "w": "ゼミ", "r": "ゼミ", "hv": "", "vi": "nhóm seminar, lớp chuyên đề" },
+          { "w": "論理的", "r": "ろんりてき", "hv": "LUẬN LÝ ĐÍCH", "vi": "logic, có lập luận" },
+          { "w": "身につける", "r": "みにつける", "hv": "THÂN", "vi": "trang bị, học được (kỹ năng)" }
+        ],
+        "grammar": {
+          "pattern": "〜を通して／〜を通じて",
+          "meaning": "thông qua ~ (phương tiện, trung gian); suốt ~ (thời gian)",
+          "form": "N + を通して",
+          "example": "ボランティア活動を通して、多くの友人ができた。"
+        },
+        "evidence": null,
+        "tip": "〜を通して có 2 nghĩa: phương tiện (経験を通して) và suốt thời gian (一年を通して)."
+      }
+    },
+    {
+      "num": 34,
+      "passage": null,
+      "stem": "（会社で）\nA「ねえ、昨日できたパンフレットってどこにある？」\nB「えっと、どこだろう。」\nC「ああ、（　　）、あの棚の中にあるよ。」",
+      "options": ["パンフレットなら", "パンフレットでも", "パンフレットについて", "パンフレットのことで"],
+      "answer": 1,
+      "explanation": {
+        "translation": "(Ở công ty) A: \"Này, tập brochure làm xong hôm qua để ở đâu nhỉ?\" B: \"Ờ, ở đâu nhỉ.\" C: \"À, brochure thì ở trong cái kệ kia đấy.\"",
+        "why": "N + なら dùng để tiếp nhận chủ đề người kia vừa nhắc đến rồi đưa thông tin: \"Nếu là (nói về) ~ thì…\". C lấy lại chủ đề \"パンフレット\" của A rồi trả lời vị trí.",
+        "options": [
+          "パンフレットなら → \"(nếu nói về) brochure thì…\". ĐÚNG.",
+          "パンフレットでも → \"ngay cả brochure\", không hợp. Sai.",
+          "パンフレットについて → \"về brochure\" – phải đi với động từ nói/viết (について話す). Sai.",
+          "パンフレットのことで → \"về chuyện brochure\" – dùng khi muốn trao đổi, bàn bạc (〜のことで相談が…). Sai."
+        ],
+        "vocab": [
+          { "w": "パンフレット", "r": "パンフレット", "hv": "", "vi": "tờ rơi, brochure" },
+          { "w": "棚", "r": "たな", "hv": "BẰNG", "vi": "kệ, giá" }
+        ],
+        "grammar": {
+          "pattern": "N + なら",
+          "meaning": "nếu là ~ thì (tiếp nhận chủ đề người khác nêu ra, rồi đưa ý kiến/thông tin)",
+          "form": "N／V普通形 + なら",
+          "example": "A「鈴木さん、いますか。」B「鈴木さんなら、会議室にいますよ。」"
+        },
+        "evidence": null,
+        "tip": "Thấy hội thoại kiểu \"X ở đâu?\" → trả lời \"Xなら〜\" là mẫu kinh điển."
+      }
+    },
+    {
+      "num": 35,
+      "passage": null,
+      "stem": "（テレビ番組で）\n司会「森さん、第五回X文学賞受賞おめでとうございます。今のお気持ちはいかがですか。」\n森「ありがとうございます。（　　）受賞できるとは思わなかったので、すごくうれしいです。」",
+      "options": ["たとえ", "まさか", "せめて", "かりに"],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Chương trình TV) MC: \"Chị Mori, chúc mừng chị đã nhận giải văn học X lần thứ 5. Cảm xúc của chị lúc này thế nào?\" Mori: \"Cảm ơn. Tôi không hề nghĩ là mình lại có thể đoạt giải, nên vui lắm ạ.\"",
+        "why": "まさか〜とは思わなかった = không ngờ lại ~ (điều tưởng như không thể xảy ra). まさか đi với phủ định/ngạc nhiên.",
+        "options": [
+          "たとえ → \"dù cho\", đi với 〜ても. Sai.",
+          "まさか → \"không thể ngờ\", đi với 〜とは思わなかった. ĐÚNG.",
+          "せめて → \"ít nhất thì\", đi với mong muốn (せめて〜たい). Sai.",
+          "かりに (仮に) → \"giả sử\", đi với 〜としたら／ても. Sai."
+        ],
+        "vocab": [
+          { "w": "受賞", "r": "じゅしょう", "hv": "THỤ THƯỞNG", "vi": "nhận giải" },
+          { "w": "司会", "r": "しかい", "hv": "TƯ HỘI", "vi": "MC, người dẫn chương trình" },
+          { "w": "文学賞", "r": "ぶんがくしょう", "hv": "VĂN HỌC THƯỞNG", "vi": "giải thưởng văn học" }
+        ],
+        "grammar": {
+          "pattern": "まさか〜とは思わなかった",
+          "meaning": "không ngờ là ~, không thể tin là ~",
+          "form": "まさか + 普通形 + とは思わなかった",
+          "example": "まさか彼が優勝するとは思わなかった。"
+        },
+        "evidence": null,
+        "tip": "Phó từ đi cặp: たとえ〜ても / まさか〜ない・とは / せめて〜たい・だけでも / かりに〜としたら."
+      }
+    },
+    {
+      "num": 36,
+      "passage": null,
+      "stem": "毎朝体操を（　　）、硬かった体が柔らかくなった。",
+      "options": ["続けるうちに", "続けるからには", "続けるとすると", "続けるかというと"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Trong lúc tiếp tục tập thể dục mỗi sáng, cơ thể vốn cứng đờ của tôi đã trở nên mềm dẻo.",
+        "why": "〜うちに = trong lúc đang ~ thì (thay đổi xảy ra một cách tự nhiên). Sự thay đổi \"cứng → mềm\" diễn ra trong quá trình tiếp tục tập.",
+        "options": [
+          "続けるうちに → trong khi tiếp tục thì (biến đổi). ĐÚNG.",
+          "続けるからには → \"một khi đã tiếp tục thì phải…\" (quyết tâm, nghĩa vụ). Sai.",
+          "続けるとすると → \"giả sử tiếp tục thì…\" (giả định). Sai.",
+          "続けるかというと → \"nói là có tiếp tục không thì…\" (phủ định kỳ vọng). Sai."
+        ],
+        "vocab": [
+          { "w": "体操", "r": "たいそう", "hv": "THỂ THAO", "vi": "thể dục" },
+          { "w": "硬い", "r": "かたい", "hv": "NGẠNH", "vi": "cứng" },
+          { "w": "柔らかい", "r": "やわらかい", "hv": "NHU", "vi": "mềm" }
+        ],
+        "grammar": {
+          "pattern": "〜うちに",
+          "meaning": "trong lúc ~ thì (đã xảy ra thay đổi lúc nào không hay)",
+          "form": "V辞書形／Vている／Vない + うちに",
+          "example": "話しているうちに、彼のことが好きになった。"
+        },
+        "evidence": null,
+        "tip": "〜うちに + vế sau là biến đổi (〜ようになった／〜くなった) → dấu hiệu nhận biết."
+      }
+    },
+    {
+      "num": 37,
+      "passage": null,
+      "stem": "囲碁・将棋クラブに入って半年、初めは（　　）が、最近少しずつ勝てるようになってきた。",
+      "options": ["負けてばかりだった", "負けたばかりだった", "負けるところだった", "負けているところだった"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Vào câu lạc bộ cờ vây – cờ shogi được nửa năm, lúc đầu toàn thua, nhưng gần đây đã dần dần thắng được.",
+        "why": "Vてばかりいる／Vてばかりだ = toàn là ~, chỉ toàn ~ (lặp lại nhiều lần). Đối lập với \"gần đây dần thắng được\".",
+        "options": [
+          "負けてばかりだった → lúc trước toàn thua. ĐÚNG.",
+          "負けたばかりだった → \"vừa mới thua\" (Vたばかり = vừa mới). Sai.",
+          "負けるところだった → \"suýt thua\". Sai.",
+          "負けているところだった → \"đang trong lúc thua\". Sai."
+        ],
+        "vocab": [
+          { "w": "囲碁", "r": "いご", "hv": "VI KỲ", "vi": "cờ vây" },
+          { "w": "将棋", "r": "しょうぎ", "hv": "TƯỚNG KỲ", "vi": "cờ shogi (cờ tướng Nhật)" },
+          { "w": "負ける", "r": "まける", "hv": "PHỤ", "vi": "thua" }
+        ],
+        "grammar": {
+          "pattern": "Vてばかりいる／Vてばかりだ",
+          "meaning": "toàn ~, chỉ toàn ~ (thường mang ý chê/không hài lòng)",
+          "form": "Vて + ばかりいる／ばかりだ",
+          "example": "弟は遊んでばかりいて、全然勉強しない。"
+        },
+        "evidence": null,
+        "tip": "Vてばかり (toàn là) ≠ Vたばかり (vừa mới) ≠ Vるところだった (suýt nữa)."
+      }
+    },
+    {
+      "num": 38,
+      "passage": null,
+      "stem": "政府の発表によると、景気は回復しつつある（　　）が、そうした実感はない。",
+      "options": ["つもりだ", "おかげだ", "ということだ", "というものだ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Theo thông báo của chính phủ thì nghe nói nền kinh tế đang dần hồi phục, nhưng tôi không có cảm nhận thực tế như vậy.",
+        "why": "〜によると〜ということだ = theo ~ thì nghe nói ~ (truyền đạt lại thông tin). Đi cặp với によると.",
+        "options": [
+          "つもりだ → dự định / cứ tưởng là. Sai.",
+          "おかげだ → \"là nhờ ~\". Sai.",
+          "ということだ → nghe nói là (truyền đạt). ĐÚNG.",
+          "というものだ → \"đó chính là ~\" (nhận định bản chất). Sai."
+        ],
+        "vocab": [
+          { "w": "景気", "r": "けいき", "hv": "CẢNH KHÍ", "vi": "tình hình kinh tế" },
+          { "w": "回復", "r": "かいふく", "hv": "HỒI PHỤC", "vi": "hồi phục" },
+          { "w": "実感", "r": "じっかん", "hv": "THỰC CẢM", "vi": "cảm nhận thực tế" },
+          { "w": "政府", "r": "せいふ", "hv": "CHÍNH PHỦ", "vi": "chính phủ" }
+        ],
+        "grammar": {
+          "pattern": "〜によると〜ということだ",
+          "meaning": "theo ~ thì nghe nói là ~ (truyền đạt thông tin)",
+          "form": "普通形 + ということだ",
+          "example": "天気予報によると、明日は雪が降るということだ。"
+        },
+        "evidence": null,
+        "tip": "Ngoài ra trong câu: Vつつある = đang dần dần ~ (回復しつつある)."
+      }
+    },
+    {
+      "num": 39,
+      "passage": null,
+      "stem": "客「すみません、『山の中で』っていう本を探しているんですけど。」\n店員「はい、新刊コーナーに（　　）。ご案内します。」",
+      "options": ["いたします", "おります", "ございます", "なさい"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Khách: \"Xin lỗi, tôi đang tìm cuốn sách tên là 'Trong núi'.\" Nhân viên: \"Vâng, có ở góc sách mới ạ. Để tôi dẫn quý khách đến.\"",
+        "why": "ございます là thể lịch sự của あります (sự tồn tại của đồ vật). Quyển sách (vật) ở góc sách mới → 新刊コーナーにございます.",
+        "options": [
+          "いたします → khiêm nhường của します. Sai.",
+          "おります → khiêm nhường của います (người/động vật). Sách là vật nên không dùng. Sai.",
+          "ございます → lịch sự của あります. ĐÚNG.",
+          "なさい → mệnh lệnh \"hãy ~\". Sai."
+        ],
+        "vocab": [
+          { "w": "新刊", "r": "しんかん", "hv": "TÂN SAN", "vi": "sách mới xuất bản" },
+          { "w": "案内", "r": "あんない", "hv": "ÁN NỘI", "vi": "hướng dẫn, dẫn đường" }
+        ],
+        "grammar": {
+          "pattern": "〜にございます",
+          "meaning": "có ở ~ (thể lịch sự của 〜にあります)",
+          "form": "N(địa điểm) + に + ございます",
+          "example": "お手洗いは2階にございます。"
+        },
+        "evidence": null,
+        "tip": "Vật: あります → ございます. Người: います → おります (khiêm)/いらっしゃいます (kính)."
+      }
+    },
+    {
+      "num": 40,
+      "passage": null,
+      "stem": "先生「田中さん、この問題をどうやって（　　）、みんなの前で説明してください。」\n田中「はい、わかりました。」",
+      "options": ["解いたか", "解いたのを", "解いたとは", "解いたことも"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Thầy giáo: \"Tanaka, em hãy giải thích trước cả lớp xem em đã giải bài này bằng cách nào.\" Tanaka: \"Vâng, em hiểu rồi.\"",
+        "why": "Câu hỏi lồng có từ để hỏi (どうやって) + 〜か: \"どうやって解いたか\" làm tân ngữ cho 説明する.",
+        "options": [
+          "解いたか → câu hỏi lồng \"đã giải thế nào\". ĐÚNG.",
+          "解いたのを → \"việc đã giải\", không đi được với từ hỏi どうやって. Sai.",
+          "解いたとは → \"mà lại giải được\" (ngạc nhiên)/định nghĩa. Sai.",
+          "解いたことも → \"cả việc đã giải\", không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "解く", "r": "とく", "hv": "GIẢI", "vi": "giải (bài toán)" },
+          { "w": "説明", "r": "せつめい", "hv": "THUYẾT MINH", "vi": "giải thích" }
+        ],
+        "grammar": {
+          "pattern": "từ để hỏi + 普通形 + か",
+          "meaning": "câu hỏi lồng (… thế nào / ai / cái gì …)",
+          "form": "疑問詞 + V普通形 + か + V(説明する／わかる／教える…)",
+          "example": "どこで財布をなくしたか、覚えていない。"
+        },
+        "evidence": null,
+        "tip": "Có từ hỏi (どう・なぜ・いつ…) → đuôi lồng là 〜か; không có từ hỏi → 〜かどうか."
+      }
+    },
+    {
+      "num": 41,
+      "passage": null,
+      "stem": "先生「皆さん、海や川に落ちてしまったときは、無理に（　　）、仰向けになって、浮かんで助けを待つことが大切です。」",
+      "options": ["泳げなくなると", "泳ごうとしないので", "泳げなくなって", "泳ごうとしないで"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Thầy giáo: \"Các em, khi lỡ rơi xuống biển hay sông, điều quan trọng là đừng cố bơi, hãy nằm ngửa, nổi lên và chờ cứu.\"",
+        "why": "Vないで = không làm ~ mà (làm việc khác). Vようとする = định/cố gắng làm. → 無理に泳ごうとしないで、仰向けになって… = đừng cố bơi mà hãy nằm ngửa.",
+        "options": [
+          "泳げなくなると → \"hễ không bơi được nữa thì\". Không hợp với 無理に. Sai.",
+          "泳ごうとしないので → \"vì không định bơi nên\" – quan hệ nhân quả sai. Sai.",
+          "泳げなくなって → \"trở nên không bơi được\". Sai.",
+          "泳ごうとしないで → đừng cố bơi mà (thay vào đó)…. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "無理に", "r": "むりに", "hv": "VÔ LÝ", "vi": "gượng ép, cố quá sức" },
+          { "w": "仰向け", "r": "あおむけ", "hv": "NGƯỠNG HƯỚNG", "vi": "nằm ngửa" },
+          { "w": "浮かぶ", "r": "うかぶ", "hv": "PHÙ", "vi": "nổi lên" },
+          { "w": "助け", "r": "たすけ", "hv": "TRỢ", "vi": "sự cứu giúp" }
+        ],
+        "grammar": {
+          "pattern": "Vようとしないで",
+          "meaning": "đừng cố ~ mà (hãy làm việc khác)",
+          "form": "V意向形 + とする → ようとしないで",
+          "example": "一人で全部やろうとしないで、周りの人に頼みなさい。"
+        },
+        "evidence": null,
+        "tip": "Vないで、〜 = thay vì ~ thì làm…; 無理に thường đi với Vようとする."
+      }
+    },
+    {
+      "num": 42,
+      "passage": null,
+      "stem": "春子「えりちゃん、みかん、好き？」\nえり「うん、好きだけど。なんで？」\n春子「親戚がたくさん送ってきてくれたんだけど、一人じゃ食べ切れなくて。よかったら、少し（　　）？」\nえり「いいの？ありがとう。」",
+      "options": ["あげない", "くれない", "もらってくれない", "もらってもらわない"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Haruko: \"Eri ơi, cậu thích quýt không?\" Eri: \"Ừ, thích chứ. Sao thế?\" Haruko: \"Họ hàng gửi cho nhiều quá, một mình mình ăn không hết. Nếu được thì cậu nhận giúp mình một ít được không?\" Eri: \"Thật hả? Cảm ơn nhé.\"",
+        "why": "もらってくれない？ = \"(cậu) nhận giúp mình được không?\". Người nói muốn Eri NHẬN quýt (もらう) và coi đó là ân huệ cho mình (〜てくれる). Cách nói khéo khi cho đồ.",
+        "options": [
+          "あげない → \"(mình) không cho đâu\"/\"cho nhé?\" – chủ thể sai, nghe như từ chối. Sai.",
+          "くれない → \"cậu cho mình được không?\" – ngược hướng (Haruko xin quýt). Sai.",
+          "もらってくれない → cậu nhận giúp mình nhé? ĐÚNG.",
+          "もらってもらわない → cấu trúc không tự nhiên, sai. Sai."
+        ],
+        "vocab": [
+          { "w": "親戚", "r": "しんせき", "hv": "THÂN THÍCH", "vi": "họ hàng" },
+          { "w": "食べ切れる", "r": "たべきれる", "hv": "THỰC THIẾT", "vi": "ăn hết được" },
+          { "w": "みかん", "r": "みかん", "hv": "", "vi": "quả quýt" }
+        ],
+        "grammar": {
+          "pattern": "Vてくれない？",
+          "meaning": "nhờ người nghe làm gì cho mình (thân mật): ~ giúp mình được không?",
+          "form": "Vて + くれない？",
+          "example": "これ、余っちゃったから、もらってくれない？"
+        },
+        "evidence": null,
+        "tip": "Muốn cho đồ mà không áp đặt → もらってくれない？／もらってくれる？ (lịch sự hơn あげる)."
+      }
+    },
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "（夕食時に）\n妻「ねえ、このスープ、レシピ通りに作ったんだけど、どう？味、薄くない？もう少し塩を（　　）。」\n夫「ううん、ちょうどいいよ。」",
+      "options": ["入れたことはよかったね", "入れたからよかったなあ", "入れたほうがよかったかな", "入れたところがよかったよね"],
+      "answer": 3,
+      "explanation": {
+        "translation": "(Bữa tối) Vợ: \"Này, món súp này em làm đúng theo công thức đó, thấy sao? Vị có nhạt không? Có lẽ nên cho thêm chút muối nhỉ?\" Chồng: \"Không, vừa rồi.\"",
+        "why": "Vたほうがよかった = lẽ ra nên ~ (hối tiếc/băn khoăn về việc chưa làm). Thêm かな thể hiện tự hỏi. Chồng trả lời \"không, vừa rồi\" → khớp.",
+        "options": [
+          "入れたことはよかったね → \"việc đã cho vào là tốt nhỉ\" – nhưng chưa cho thêm muối. Sai.",
+          "入れたからよかったなあ → \"vì đã cho vào nên tốt quá\". Sai.",
+          "入れたほうがよかったかな → lẽ ra nên cho thêm nhỉ? ĐÚNG.",
+          "入れたところがよかったよね → vô nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "レシピ通り", "r": "レシピどおり", "hv": "THÔNG", "vi": "đúng theo công thức" },
+          { "w": "薄い", "r": "うすい", "hv": "BẠC", "vi": "nhạt; mỏng" },
+          { "w": "塩", "r": "しお", "hv": "DIÊM", "vi": "muối" }
+        ],
+        "grammar": {
+          "pattern": "Vたほうがよかった（かな）",
+          "meaning": "lẽ ra nên ~ (tiếc nuối, băn khoăn)",
+          "form": "Vた + ほうがよかった",
+          "example": "もっと早く出発したほうがよかったかな。"
+        },
+        "evidence": null,
+        "tip": "Câu trả lời ううん、ちょうどいいよ phủ định ý \"thiếu muối\" → người vợ đang hỏi có nên thêm muối không."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "高校野球全国大会を前に、X高校野球部の南豊選手は「監督やコーチが私たち一人一人に毎日熱心に指導を（　　）。監督やコーチのためにも、優勝したいです。」と決意を述べた。",
+      "options": ["いらっしゃいました", "してくださいました", "まいりました", "していただきました"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Trước giải bóng chày toàn quốc cấp THPT, cầu thủ Minami Yutaka của đội bóng chày trường X đã bày tỏ quyết tâm: \"Huấn luyện viên và các HLV phụ đã tận tình chỉ dạy từng người chúng em mỗi ngày. Vì các thầy nữa, em muốn vô địch.\"",
+        "why": "Chủ ngữ là 監督やコーチが (người trên) làm việc chỉ đạo cho chúng em → dùng kính ngữ của 〜てくれる: 〜てくださる. 指導をしてくださいました.",
+        "options": [
+          "いらっしゃいました → kính ngữ của いる/来る/行く; 指導をいらっしゃる sai. Sai.",
+          "してくださいました → (thầy) đã làm cho chúng em. Chủ ngữ là thầy (が). ĐÚNG.",
+          "まいりました → khiêm nhường của 行く/来る. Sai.",
+          "していただきました → chủ ngữ phải là \"chúng em\" (私たちは監督に〜していただいた). Ở đây chủ ngữ là 監督が. Sai."
+        ],
+        "vocab": [
+          { "w": "監督", "r": "かんとく", "hv": "GIÁM ĐỐC", "vi": "huấn luyện viên trưởng; đạo diễn" },
+          { "w": "指導", "r": "しどう", "hv": "CHỈ ĐẠO", "vi": "chỉ đạo, hướng dẫn" },
+          { "w": "熱心", "r": "ねっしん", "hv": "NHIỆT TÂM", "vi": "nhiệt tình" },
+          { "w": "決意", "r": "けつい", "hv": "QUYẾT Ý", "vi": "quyết tâm" }
+        ],
+        "grammar": {
+          "pattern": "（目上）が Vてくださる",
+          "meaning": "người trên làm gì đó cho mình (kính ngữ của 〜てくれる)",
+          "form": "Nが + Vて + くださる",
+          "example": "先生が丁寧に説明してくださいました。"
+        },
+        "evidence": null,
+        "tip": "Xem trợ từ: 先生が〜てくださる / 先生に〜ていただく. Ở đây có 監督やコーチが → くださる."
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "exam": "2025-07",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "昨夜、家の近くで<u>妙な</u>事件が起こった。",
+      "options": ["恐ろしい", "不思議な", "悲しい", "重大な"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tối qua, gần nhà tôi đã xảy ra một vụ việc kỳ lạ.",
+        "why": "妙な (みょうな, DIỆU) = kỳ lạ, khác thường, khó hiểu ≈ 不思議な (kỳ lạ, khó giải thích).",
+        "options": [
+          "恐ろしい → đáng sợ. Sai.",
+          "不思議な → kỳ lạ, khó hiểu. ĐÚNG.",
+          "悲しい → buồn. Sai.",
+          "重大な → nghiêm trọng, trọng đại. Sai."
+        ],
+        "vocab": [
+          { "w": "妙な", "r": "みょうな", "hv": "DIỆU", "vi": "kỳ lạ, khác thường" },
+          { "w": "不思議", "r": "ふしぎ", "hv": "BẤT TƯ NGHỊ", "vi": "kỳ lạ, bí ẩn" },
+          { "w": "重大", "r": "じゅうだい", "hv": "TRỌNG ĐẠI", "vi": "nghiêm trọng" },
+          { "w": "恐ろしい", "r": "おそろしい", "hv": "KHỦNG", "vi": "đáng sợ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "妙な ≈ 変な ≈ 不思議な ≈ おかしな (lạ)."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "鈴木さんは<u>相当</u>迷っているらしい。",
+      "options": ["いろいろ", "まだ", "やっぱり", "かなり"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Có vẻ anh Suzuki đang khá phân vân (do dự).",
+        "why": "相当 (そうとう, TƯƠNG ĐƯƠNG) dùng như phó từ = khá, rất, đáng kể ≈ かなり.",
+        "options": [
+          "いろいろ → nhiều thứ, đủ kiểu. Sai.",
+          "まだ → vẫn còn. Sai.",
+          "やっぱり → quả nhiên, rốt cuộc. Sai.",
+          "かなり → khá, tương đối nhiều. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "相当", "r": "そうとう", "hv": "TƯƠNG ĐƯƠNG", "vi": "khá, đáng kể; tương đương" },
+          { "w": "迷う", "r": "まよう", "hv": "MÊ", "vi": "phân vân; lạc đường" },
+          { "w": "かなり", "r": "かなり", "hv": "", "vi": "khá, tương đối" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Phó từ chỉ mức độ cao: 相当・かなり・ずいぶん・だいぶ."
+      }
+    },
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "教室が<u>やかましくて</u>、勉強に集中できない。",
+      "options": ["うるさくて", "汚くて", "暑くて", "暗くて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Lớp học ồn ào quá nên tôi không thể tập trung học.",
+        "why": "やかましい = ồn ào, om sòm (cũng có nghĩa khó tính, hay càm ràm) ≈ うるさい.",
+        "options": [
+          "うるさくて → ồn ào. ĐÚNG.",
+          "汚くて → bẩn. Sai.",
+          "暑くて → nóng. Sai.",
+          "暗くて → tối. Sai."
+        ],
+        "vocab": [
+          { "w": "やかましい", "r": "やかましい", "hv": "", "vi": "ồn ào; khó tính, hay càm ràm" },
+          { "w": "うるさい", "r": "うるさい", "hv": "", "vi": "ồn ào; phiền phức" },
+          { "w": "集中する", "r": "しゅうちゅうする", "hv": "TẬP TRUNG", "vi": "tập trung" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "やかましい và うるさい đều có 2 nghĩa: ồn ào / khó tính (口やかましい = hay càm ràm)."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "中山さんは<u>帰省して</u>います。",
+      "options": ["出張から戻って", "部屋に戻って", "ふるさとに戻って", "休暇から戻って"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh Nakayama đang về quê.",
+        "why": "帰省 (きせい, QUY TỈNH) = về quê thăm nhà (thường dịp nghỉ lễ) ≈ ふるさとに戻る.",
+        "options": [
+          "出張から戻って → trở về từ chuyến công tác. Sai.",
+          "部屋に戻って → trở về phòng. Sai.",
+          "ふるさとに戻って → trở về quê hương. ĐÚNG.",
+          "休暇から戻って → trở lại sau kỳ nghỉ. Sai."
+        ],
+        "vocab": [
+          { "w": "帰省", "r": "きせい", "hv": "QUY TỈNH", "vi": "về quê" },
+          { "w": "ふるさと", "r": "ふるさと", "hv": "", "vi": "quê hương (故郷)" },
+          { "w": "出張", "r": "しゅっちょう", "hv": "XUẤT TRƯƠNG", "vi": "đi công tác" },
+          { "w": "休暇", "r": "きゅうか", "hv": "HƯU HẠ", "vi": "kỳ nghỉ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "帰省ラッシュ = cảnh đông đúc khi mọi người về quê dịp lễ (お盆, 正月)."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "林さんは、<u>いきなり</u>振り向いた。",
+      "options": ["やっと", "一度", "突然", "ゆっくり"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh Hayashi đột nhiên quay đầu lại.",
+        "why": "いきなり = đột ngột, bất thình lình, không báo trước ≈ 突然 (とつぜん).",
+        "options": [
+          "やっと → cuối cùng thì, mãi mới. Sai.",
+          "一度 → một lần. Sai.",
+          "突然 → đột nhiên. ĐÚNG.",
+          "ゆっくり → chậm rãi. Sai."
+        ],
+        "vocab": [
+          { "w": "いきなり", "r": "いきなり", "hv": "", "vi": "đột ngột, bất thình lình" },
+          { "w": "突然", "r": "とつぜん", "hv": "ĐỘT NHIÊN", "vi": "đột nhiên" },
+          { "w": "振り向く", "r": "ふりむく", "hv": "CHẤN HƯỚNG", "vi": "quay đầu lại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhóm đồng nghĩa 'đột nhiên': いきなり・突然・急に・不意に."
+      }
+    }
+  ]
+}

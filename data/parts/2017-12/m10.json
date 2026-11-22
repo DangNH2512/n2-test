@@ -1,0 +1,334 @@
+{
+  "exam": "2017-12",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（1）から（5）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn ngắn (1)–(5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi (đoạn văn ngắn).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "以下は、ある山の案内である。\n\n秋森山\n\n秋森山は高さ約600メートルで、頂上まで約４キロメートルの緩やかな登山道が続いています。途中、動物の姿に見える犬岩や猿岩、舞台のように大きく平らな岩もあり、おもしろい形の岩を探しながら登る楽しさがあります。登山道では、四季を通じてさまざまな植物を楽しめるほか、春から初夏にかけては多くの野鳥を観察することもできます。秋の紅葉は格別で、山全体に鮮やかな景色が広がります。そのため、この時期には多くの登山客が訪れています。"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "しばしば作文にはお手本のようなものが示されることがありますが、私は、これはナンセンス（注）だと思います。文章の形式的なことならばともかく、内容にまで触れて、このように「書くべき」とか、このように書けば評価されるというマニュアルは大敵です。なぜなら、マニュアルには、あなたにしか書けないことをすべて否定してしまうことにつながる可能性があるからです。自分に見えるもの、少しでも人とは違って見えるもの、それにこだわりましょう。\n\n（注）ナンセンス：意味がないこと"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "以下は、ある学生寮の掲示板に掲示された文書である。\n\n2017年12月1日\n寮生各位\n学生寮管理室\n\n年末のごみの収集について\n\n年内のごみの収集は、12月27日（水）が最終日となります。\n大掃除や引越し等で多量のごみを出す場合は、22日（金）までに管理室までご連絡ください。\nまた、大型ごみを捨てる場合は、各自で市の清掃局へ収集の申し込みが必要です。収集日は清掃局から指定されますので、管理室にもお知らせください。なお、年内収集の申し込みは18日（月）が締め切りとのことです。\nご協力をよろしくお願いします。"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "いいアイディアが出ると、すぐに実行しないと気がすまない私は、もちろん、成功の可能性が高いと予測して実行に移すのだが、そのときに失敗の可能性を考えていないわけではない。人間のすることに失敗はつきもの（注1）で、トラブルに巻き込まれる（注2）こともあるから、ときにはどうしても避けられない形で失敗が訪れる。経営の現場でより重要なのは、その失敗をいかに（注3）うまく処理できるかということである。あらかじめ失敗を想定（注4）しているからこそ、適切な処理も可能となる。\n\n（注1）つきもの：ここでは、避けられないもの\n（注2）トラブルに巻き込まれる：トラブルに遭う\n（注3）いかに：どのように\n（注4）想定する：ここでは、起こるものとして考える"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "自動車で旅して歩くことを、鉄道の旅よりも良いと感じる所以（注1）は、いつ出発してもいいし、どこでどれだけ立ち止まってもいいということである。鉄道の車窓から、あ、良い風景！と感心（注2）したとて、それは一瞬のうちに後方に流れ去って実際にその場所に立ってそれを味わうことは事実上不可能である。だから鉄道の車窓の風景は一種の「幻（注3）」だと言ってもよい。しかし、名も無き道を、ゆっくりとドライブして、その行く先々に発見する風景は、自在（注4）に立ち止まり、そして一日でも眺めていることができる。\n\n（注1）所以：理由\n（注2）感心したとて：感心したとしても\n（注3）幻：あるように見えて、実際には存在しないもの\n（注4）自在に：自由に"
+    }
+  ],
+  "questions": [
+    {
+      "num": 55,
+      "passage": "p1",
+      "stem": "この案内から、秋森山についてどんなことがわかるか。",
+      "options": [
+        "高さ600メートルの山の頂上に大きく平らな岩がある。",
+        "登山をしながら、いろいろな形の岩を見ることができる。",
+        "四季それぞれに異なる野鳥を観察することができる。",
+        "登山道が緩やかなため、いつも多くの登山客が訪れている。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Từ bản hướng dẫn này, có thể biết điều gì về núi Akimori? → Vừa leo núi vừa có thể ngắm những tảng đá có nhiều hình dạng khác nhau.",
+        "why": "Bài viết: dọc đường (途中) có đá Chó, đá Khỉ trông như hình con vật, tảng đá lớn bằng phẳng như sân khấu, và \"có niềm vui vừa leo vừa tìm những tảng đá hình thù thú vị\" → vừa leo vừa ngắm được nhiều loại đá.",
+        "options": [
+          "Tảng đá lớn bằng phẳng nằm 途中 (dọc đường lên núi), không phải ở 頂上 (đỉnh). Sai.",
+          "Vừa leo vừa ngắm được đá nhiều hình dạng (犬岩・猿岩・平らな岩). ĐÚNG.",
+          "Chim hoang dã chỉ quan sát được 春から初夏にかけて (từ xuân đến đầu hè); \"bốn mùa\" là nói về 植物 (thực vật). Sai.",
+          "Khách đông vào mùa thu (この時期) vì lá đỏ đẹp, không phải \"lúc nào cũng đông\" vì đường thoai thoải. Sai."
+        ],
+        "vocab": [
+          {
+            "w": "頂上",
+            "r": "ちょうじょう",
+            "hv": "ĐỈNH THƯỢNG",
+            "vi": "đỉnh núi"
+          },
+          {
+            "w": "緩やか",
+            "r": "ゆるやか",
+            "hv": "HOÃN",
+            "vi": "thoai thoải, thong thả"
+          },
+          {
+            "w": "途中",
+            "r": "とちゅう",
+            "hv": "ĐỒ TRUNG",
+            "vi": "giữa đường, dọc đường"
+          },
+          {
+            "w": "平ら",
+            "r": "たいら",
+            "hv": "BÌNH",
+            "vi": "bằng phẳng"
+          },
+          {
+            "w": "格別",
+            "r": "かくべつ",
+            "hv": "CÁCH BIỆT",
+            "vi": "đặc biệt, khác thường"
+          }
+        ],
+        "grammar": {
+          "pattern": "〜を通じて",
+          "meaning": "suốt ~ (trong cả khoảng thời gian)",
+          "form": "N(thời gian) + を通じて",
+          "example": "この地域は一年を通じて暖かい。"
+        },
+        "evidence": "途中、動物の姿に見える犬岩や猿岩、舞台のように大きく平らな岩もあり、おもしろい形の岩を探しながら登る楽しさがあります。",
+        "tip": "Bẫy thường gặp: ghép sai thông tin – 途中 ↔ 頂上, 四季を通じて gắn với 植物 chứ không phải 野鳥."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p2",
+      "stem": "お手本のようなものによって、作文はどのようになる可能性があるか。",
+      "options": [
+        "誰からも高い評価を得られやすくなる。",
+        "文章の形式にこだわりすぎたものになる。",
+        "自分の視点や主張がわかりやすくなる。",
+        "自分にしか書けないことが書けなくなる。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Do những thứ như bài mẫu, bài văn có khả năng trở nên thế nào? → Không viết được những điều chỉ mình mới viết được.",
+        "why": "Tác giả nói sổ tay/bài mẫu \"có khả năng dẫn đến việc phủ định toàn bộ những điều chỉ bạn mới viết được\" → bài văn mất đi nét riêng, không viết được điều của riêng mình.",
+        "options": [
+          "Bài mẫu hướng dẫn \"viết thế này thì được đánh giá cao\" nhưng tác giả phản đối, không nói bài văn sẽ được đánh giá cao. Sai.",
+          "Tác giả còn chấp nhận hình thức (形式的なことならばともかく); vấn đề là can thiệp vào nội dung. Sai.",
+          "Ngược lại – bài mẫu làm mất đi góc nhìn riêng. Sai.",
+          "Không viết được điều chỉ mình mới viết được. ĐÚNG."
+        ],
+        "vocab": [
+          {
+            "w": "お手本",
+            "r": "おてほん",
+            "hv": "THỦ BẢN",
+            "vi": "bài mẫu, hình mẫu"
+          },
+          {
+            "w": "大敵",
+            "r": "たいてき",
+            "hv": "ĐẠI ĐỊCH",
+            "vi": "kẻ thù lớn"
+          },
+          {
+            "w": "否定",
+            "r": "ひてい",
+            "hv": "PHỦ ĐỊNH",
+            "vi": "phủ định"
+          },
+          {
+            "w": "こだわる",
+            "r": "こだわる",
+            "hv": "",
+            "vi": "chú trọng, câu nệ, theo đuổi"
+          }
+        ],
+        "grammar": {
+          "pattern": "〜ならばともかく",
+          "meaning": "nếu là ~ thì còn được (chứ…)",
+          "form": "N + ならばともかく／はともかく",
+          "example": "週末ならともかく、平日に旅行は無理だ。"
+        },
+        "evidence": "なぜなら、マニュアルには、あなたにしか書けないことをすべて否定してしまうことにつながる可能性があるからです。",
+        "tip": "Câu hỏi có từ 可能性 → tìm câu có 可能性 trong bài (〜につながる可能性がある)."
+      }
+    },
+    {
+      "num": 57,
+      "passage": "p3",
+      "stem": "年内に大型ごみを捨てたい寮生は、どうするように言われているか。",
+      "options": [
+        "12月18日までに清掃局の収集を申し込み、収集日を管理室に連絡する。",
+        "12月18日までに管理室に連絡し、年内の収集が可能かどうか確認する。",
+        "12月22日までに清掃局に収集を申し込み、収集日がいつか確認する。",
+        "12月22日までに管理室に連絡し、清掃局への収集申し込みを依頼する。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Sinh viên ký túc xá muốn vứt rác cỡ lớn trong năm được yêu cầu làm gì? → Đăng ký thu gom với Cục vệ sinh trước ngày 18/12, rồi báo ngày thu gom cho phòng quản lý.",
+        "why": "Rác cỡ lớn: mỗi người tự đăng ký với 清掃局 của thành phố; hạn đăng ký thu gom trong năm là ngày 18 (thứ Hai); ngày thu gom do Cục chỉ định → báo cho phòng quản lý.",
+        "options": [
+          "Trước 18/12 tự đăng ký với 清掃局, rồi báo ngày thu gom cho phòng quản lý. ĐÚNG.",
+          "Không phải liên lạc phòng quản lý để hỏi; phải tự đăng ký với Cục. Sai.",
+          "Ngày 22 là hạn báo phòng quản lý cho rác số lượng lớn (大掃除・引越し), không phải hạn đăng ký rác cỡ lớn. Sai.",
+          "Phải tự đăng ký (各自で), không nhờ phòng quản lý; ngày 22 cũng sai. Sai."
+        ],
+        "vocab": [
+          {
+            "w": "大型ごみ",
+            "r": "おおがたごみ",
+            "hv": "ĐẠI HÌNH",
+            "vi": "rác cỡ lớn (đồ đạc to)"
+          },
+          {
+            "w": "清掃局",
+            "r": "せいそうきょく",
+            "hv": "THANH TẢO CỤC",
+            "vi": "cục vệ sinh môi trường"
+          },
+          {
+            "w": "各自",
+            "r": "かくじ",
+            "hv": "CÁC TỰ",
+            "vi": "mỗi người tự"
+          },
+          {
+            "w": "締め切り",
+            "r": "しめきり",
+            "hv": "ĐẾ THIẾT",
+            "vi": "hạn chót"
+          },
+          {
+            "w": "指定",
+            "r": "してい",
+            "hv": "CHỈ ĐỊNH",
+            "vi": "chỉ định"
+          }
+        ],
+        "grammar": {
+          "pattern": "〜とのことです",
+          "meaning": "nghe nói là ~ (truyền đạt lại thông tin)",
+          "form": "普通形 + とのことです",
+          "example": "部長は少し遅れるとのことです。"
+        },
+        "evidence": "また、大型ごみを捨てる場合は、各自で市の清掃局へ収集の申し込みが必要です。収集日は清掃局から指定されますので、管理室にもお知らせください。なお、年内収集の申し込みは18日（月）が締め切りとのことです。",
+        "tip": "Thông báo có nhiều mốc ngày (27, 22, 18) – xác định đúng mốc nào gắn với loại rác nào."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p4",
+      "stem": "経営の現場における失敗について、筆者はどのように述べているか。",
+      "options": [
+        "いいアイディアは、すぐに実行しないと失敗する。",
+        "失敗は、予測できれば避けることが可能である。",
+        "失敗の可能性を考えておけば、うまく対応できる。",
+        "失敗を適切に処理するには、失敗の経験が役に立つ。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về thất bại trong thực tế kinh doanh, tác giả nói gì? → Nếu đã tính trước khả năng thất bại thì có thể ứng phó tốt.",
+        "why": "Câu cuối: \"Chính vì đã giả định trước thất bại nên mới có thể xử lý thích hợp\" = tính trước khả năng thất bại → ứng phó tốt.",
+        "options": [
+          "Tác giả chỉ nói bản thân \"không làm ngay thì không chịu được\", không nói không làm ngay thì thất bại. Sai.",
+          "Bài nói có những thất bại どうしても避けられない (không tránh được). Sai.",
+          "Tính trước khả năng thất bại → ứng phó tốt. ĐÚNG.",
+          "Bài không nhắc đến kinh nghiệm thất bại. Sai."
+        ],
+        "vocab": [
+          {
+            "w": "経営",
+            "r": "けいえい",
+            "hv": "KINH DOANH",
+            "vi": "kinh doanh, quản lý"
+          },
+          {
+            "w": "想定",
+            "r": "そうてい",
+            "hv": "TƯỞNG ĐỊNH",
+            "vi": "giả định, dự tính trước"
+          },
+          {
+            "w": "あらかじめ",
+            "r": "あらかじめ",
+            "hv": "",
+            "vi": "trước, sẵn"
+          },
+          {
+            "w": "処理",
+            "r": "しょり",
+            "hv": "XỬ LÝ",
+            "vi": "xử lý"
+          }
+        ],
+        "grammar": {
+          "pattern": "〜からこそ",
+          "meaning": "chính vì ~ nên (nhấn mạnh lý do)",
+          "form": "普通形 + からこそ",
+          "example": "あなたのことを思うからこそ、厳しく言うのです。"
+        },
+        "evidence": "経営の現場でより重要なのは、その失敗をいかにうまく処理できるかということである。あらかじめ失敗を想定しているからこそ、適切な処理も可能となる。",
+        "tip": "Ý chính thường nằm ở câu cuối có 〜からこそ / より重要なのは."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p5",
+      "stem": "筆者は自動車の旅のどのような点がいいと思っているか。",
+      "options": [
+        "人が行かない道を行って、誰も見たことのない風景を発見できる点",
+        "好きなときに好きなだけ立ち止まって風景を眺められる点",
+        "見たいと思っていた風景を遠回りせずに見に行ける点",
+        "窓の外に流れる美しい風景を眺められる点"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tác giả cho rằng du lịch bằng ô tô tốt ở điểm nào? → Có thể dừng lại bất cứ lúc nào, bao lâu tùy thích để ngắm cảnh.",
+        "why": "Lý do tác giả thích đi ô tô hơn tàu: \"khởi hành lúc nào cũng được, dừng ở đâu bao lâu cũng được\"; với cảnh phát hiện trên đường có thể \"tự do dừng lại và ngắm cả ngày\".",
+        "options": [
+          "名も無き道 = con đường vô danh, không phải \"nơi không ai đi\", và không nói \"cảnh chưa ai thấy\". Sai.",
+          "Dừng lại lúc nào, bao lâu tùy ý để ngắm cảnh. ĐÚNG.",
+          "Bài không nói về việc đi thẳng không vòng vèo. Sai.",
+          "Cảnh trôi qua cửa sổ là đặc điểm của tàu hỏa (bị coi là 幻). Sai."
+        ],
+        "vocab": [
+          {
+            "w": "所以",
+            "r": "ゆえん",
+            "hv": "SỞ DĨ",
+            "vi": "lý do"
+          },
+          {
+            "w": "車窓",
+            "r": "しゃそう",
+            "hv": "XA SONG",
+            "vi": "cửa sổ tàu/xe"
+          },
+          {
+            "w": "幻",
+            "r": "まぼろし",
+            "hv": "HUYỄN",
+            "vi": "ảo ảnh"
+          },
+          {
+            "w": "眺める",
+            "r": "ながめる",
+            "hv": "THIẾU",
+            "vi": "ngắm nhìn"
+          },
+          {
+            "w": "自在",
+            "r": "じざい",
+            "hv": "TỰ TẠI",
+            "vi": "tự do, tùy ý"
+          }
+        ],
+        "grammar": {
+          "pattern": "〜たとて",
+          "meaning": "dù có ~ đi nữa (văn viết, = 〜たとしても)",
+          "form": "Vた + とて",
+          "example": "今から急いだとて、間に合わないだろう。"
+        },
+        "evidence": "自動車で旅して歩くことを、鉄道の旅よりも良いと感じる所以は、いつ出発してもいいし、どこでどれだけ立ち止まってもいいということである。",
+        "tip": "Phương án 4 là bẫy: \"cảnh ngoài cửa sổ\" là của tàu hỏa."
+      }
+    }
+  ]
+}

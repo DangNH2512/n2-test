@@ -1,0 +1,138 @@
+{
+  "exam": "2025-12",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết Kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "「デジタルカメラ」を<u>りゃくして</u>「デジカメ」という。",
+      "options": ["縮して", "省して", "略して", "簡して"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Người ta viết tắt \"digital camera\" thành \"dejikame\".",
+        "why": "りゃくす viết là 略す (LƯỢC) = viết tắt, giản lược. Các chữ còn lại không đọc りゃく.",
+        "options": [
+          "縮して → 縮 (SÚC) đọc しゅく／ちぢむ: co lại. Không có 縮す. Sai.",
+          "省して → 省 (TỈNH) đọc しょう／はぶく: lược bỏ (省く はぶく). Sai.",
+          "略して → 略す (りゃくす): viết tắt, nói tắt. ĐÚNG.",
+          "簡して → 簡 (GIẢN) đọc かん (簡単). Không có 簡す. Sai."
+        ],
+        "vocab": [
+          { "w": "略す", "r": "りゃくす", "hv": "LƯỢC", "vi": "viết tắt, lược bớt" },
+          { "w": "省略", "r": "しょうりゃく", "hv": "TỈNH LƯỢC", "vi": "lược bỏ, tỉnh lược" },
+          { "w": "短縮", "r": "たんしゅく", "hv": "ĐOẢN SÚC", "vi": "rút ngắn" },
+          { "w": "省く", "r": "はぶく", "hv": "TỈNH", "vi": "bỏ bớt, giản lược" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "略 cũng có trong 略語 (りゃくご: từ viết tắt), 戦略 (せんりゃく: chiến lược)."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "暑いので、日陰で<u>すずんだ</u>。",
+      "options": ["快んだ", "冷んだ", "清んだ", "涼んだ"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vì trời nóng nên tôi đã hóng mát dưới bóng râm.",
+        "why": "すずむ viết là 涼む (LƯƠNG) = hóng mát. Cùng chữ với 涼しい (すずしい: mát mẻ).",
+        "options": [
+          "快んだ → 快 (KHOÁI) đọc かい／こころよい. Sai.",
+          "冷んだ → 冷 (LÃNH) đọc つめたい／ひえる／さめる. Sai.",
+          "清んだ → 清 (THANH) đọc せい／きよい (清い: trong sạch), không đọc すずむ. Sai.",
+          "涼んだ → 涼む (すずむ): hóng mát. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "涼む", "r": "すずむ", "hv": "LƯƠNG", "vi": "hóng mát, nghỉ mát" },
+          { "w": "涼しい", "r": "すずしい", "hv": "LƯƠNG", "vi": "mát mẻ" },
+          { "w": "日陰", "r": "ひかげ", "hv": "NHẬT ÂM", "vi": "bóng râm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "涼 có bộ 氵(nước) → nước làm mát. Đừng nhầm với 冷 (lạnh)."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "来年からサービスを<u>かくじゅう</u>することになった。",
+      "options": ["拡張", "拡充", "各充", "各張"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Đã quyết định mở rộng (bổ sung) dịch vụ từ năm sau.",
+        "why": "かくじゅう = 拡充 (KHUẾCH SUNG): mở rộng và làm đầy đủ thêm. 拡 = かく, 充 = じゅう.",
+        "options": [
+          "拡張 → かくちょう: mở rộng (quy mô, đường xá). Đọc khác. Sai.",
+          "拡充 → かくじゅう: mở rộng, tăng cường. ĐÚNG.",
+          "各充 → 各 (CÁC) đọc かく nhưng nghĩa \"mỗi\"; không có từ này. Sai.",
+          "各張 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "拡充", "r": "かくじゅう", "hv": "KHUẾCH SUNG", "vi": "mở rộng, bổ sung cho đầy đủ" },
+          { "w": "拡張", "r": "かくちょう", "hv": "KHUẾCH TRƯƠNG", "vi": "mở rộng" },
+          { "w": "充実", "r": "じゅうじつ", "hv": "SUNG THỰC", "vi": "đầy đủ, phong phú" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "充 = じゅう (充電 じゅうでん, 充分 じゅうぶん); 張 = ちょう. Nghe じゅう → chọn 充."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "私はあの人たちに<u>すくわれました</u>。",
+      "options": ["嫌われました", "敬われました", "疑われました", "救われました"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi đã được những người đó cứu giúp.",
+        "why": "すくう viết là 救う (CỨU) = cứu giúp. Thể bị động 救われる = được cứu.",
+        "options": [
+          "嫌われました → きらわれました: bị ghét. Sai.",
+          "敬われました → うやまわれました: được kính trọng. Sai.",
+          "疑われました → うたがわれました: bị nghi ngờ. Sai.",
+          "救われました → すくわれました: được cứu. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "救う", "r": "すくう", "hv": "CỨU", "vi": "cứu, giúp đỡ" },
+          { "w": "救急車", "r": "きゅうきゅうしゃ", "hv": "CỨU CẤP XA", "vi": "xe cứu thương" },
+          { "w": "敬う", "r": "うやまう", "hv": "KÍNH", "vi": "kính trọng" },
+          { "w": "疑う", "r": "うたがう", "hv": "NGHI", "vi": "nghi ngờ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "救 âm On きゅう (救助 きゅうじょ: cứu hộ)."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "犯人はすでに国外に逃亡した可能性が<u>のうこう</u>だ。",
+      "options": ["濃厚", "農厚", "濃高", "農高"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Khả năng thủ phạm đã bỏ trốn ra nước ngoài là rất cao.",
+        "why": "のうこう = 濃厚 (NỒNG HẬU): đậm đặc; (khả năng, nghi ngờ) rất cao, rõ rệt. 濃 = のう (濃い こい), 厚 = こう (厚い あつい).",
+        "options": [
+          "濃厚 → のうこう: đậm đặc, rất có khả năng. ĐÚNG.",
+          "農厚 → 農 (NÔNG: nông nghiệp) sai chữ. Sai.",
+          "濃高 → 高 đọc こう nhưng không có từ này. Sai.",
+          "農高 → viết tắt 農業高校 (trường THPT nông nghiệp), không hợp nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "濃厚", "r": "のうこう", "hv": "NỒNG HẬU", "vi": "đậm đặc; khả năng rất cao" },
+          { "w": "犯人", "r": "はんにん", "hv": "PHẠM NHÂN", "vi": "thủ phạm" },
+          { "w": "逃亡", "r": "とうぼう", "hv": "ĐÀO VONG", "vi": "bỏ trốn" },
+          { "w": "可能性", "r": "かのうせい", "hv": "KHẢ NĂNG TÍNH", "vi": "khả năng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm cố định: 可能性が濃厚だ／疑いが濃厚だ = khả năng/nghi ngờ rất lớn. 濃 có bộ 氵, 農 thì không."
+      }
+    }
+  ]
+}

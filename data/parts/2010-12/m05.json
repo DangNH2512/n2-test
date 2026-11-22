@@ -1,0 +1,137 @@
+{
+  "exam": "2010-12",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "あまり<u>勝手な</u>ことは言わないでください。",
+      "options": ["わがままな", "うるさい", "消極的な", "情けない"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Xin đừng nói những điều quá tùy tiện (ích kỷ) như thế.",
+        "why": "勝手な (かってな, THẮNG THỦ) = tùy tiện, chỉ nghĩ cho bản thân, không quan tâm người khác ≈ わがままな (ích kỷ, ngang bướng).",
+        "options": [
+          "わがままな: ích kỷ, đòi theo ý mình. ĐÚNG.",
+          "うるさい: ồn ào; lắm điều, khó tính. Sai.",
+          "消極的な (しょうきょくてきな): tiêu cực, thụ động. Sai.",
+          "情けない (なさけない): thảm hại, đáng xấu hổ. Sai."
+        ],
+        "vocab": [
+          { "w": "勝手", "r": "かって", "hv": "THẮNG THỦ", "vi": "tùy tiện, tự ý" },
+          { "w": "我儘", "r": "わがまま", "hv": "NGÃ TẪN", "vi": "ích kỷ, ngang bướng" },
+          { "w": "消極的", "r": "しょうきょくてき", "hv": "TIÊU CỰC ĐÍCH", "vi": "thụ động, tiêu cực" },
+          { "w": "情けない", "r": "なさけない", "hv": "TÌNH", "vi": "thảm hại, đáng hổ thẹn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "勝手に + V = tự ý làm (không xin phép): 勝手に使わないで."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "あの人は<u>たびたび</u>夜遅くに電話をかけてくる。",
+      "options": ["たまに", "何度も", "たいてい", "突然"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Người đó nhiều lần gọi điện đến vào đêm khuya.",
+        "why": "たびたび (度々) = nhiều lần, thường xuyên (lặp đi lặp lại) ≈ 何度も.",
+        "options": [
+          "たまに: thỉnh thoảng (tần suất thấp) — ngược nghĩa. Sai.",
+          "何度も (なんども): nhiều lần. ĐÚNG.",
+          "たいてい: thường thì, phần lớn. Sai.",
+          "突然 (とつぜん): đột nhiên. Sai."
+        ],
+        "vocab": [
+          { "w": "度々", "r": "たびたび", "hv": "ĐỘ ĐỘ", "vi": "nhiều lần, thường xuyên" },
+          { "w": "何度も", "r": "なんども", "hv": "HÀ ĐỘ", "vi": "nhiều lần" },
+          { "w": "突然", "r": "とつぜん", "hv": "ĐỘT NHIÊN", "vi": "đột nhiên" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Các từ đồng nghĩa: たびたび ≈ しばしば ≈ しょっちゅう ≈ 何度も."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "この靴は<u>ぶかぶか</u>だ。",
+      "options": ["とても重い", "とても小さい", "とても軽い", "とても大きい"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đôi giày này rộng thùng thình (quá to).",
+        "why": "ぶかぶか = (quần áo, giày) rộng lùng thùng, to hơn cỡ người mặc ≈ とても大きい.",
+        "options": [
+          "とても重い: rất nặng. Sai.",
+          "とても小さい: rất chật/nhỏ — ngược nghĩa (= きつい). Sai.",
+          "とても軽い: rất nhẹ. Sai.",
+          "とても大きい: rất to (rộng). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "ぶかぶか", "r": "ぶかぶか", "hv": "", "vi": "rộng thùng thình" },
+          { "w": "きつい", "r": "きつい", "hv": "", "vi": "chật; vất vả" },
+          { "w": "靴", "r": "くつ", "hv": "NGOA", "vi": "giày" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cặp đối: ぶかぶか (rộng) ↔ きつい／きちきち (chật); ぴったり = vừa khít."
+      }
+    },
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "同じ分野の専門家でも、立場によって<u>見解</u>が異なる。",
+      "options": ["教え方", "調べ方", "考え方", "決め方"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Dù là chuyên gia cùng lĩnh vực, quan điểm cũng khác nhau tùy theo lập trường.",
+        "why": "見解 (けんかい, KIẾN GIẢI) = quan điểm, cách nhìn nhận/đánh giá về một vấn đề ≈ 考え方 (cách nghĩ).",
+        "options": [
+          "教え方: cách dạy. Sai.",
+          "調べ方: cách điều tra. Sai.",
+          "考え方: cách nghĩ, quan điểm. ĐÚNG.",
+          "決め方: cách quyết định. Sai."
+        ],
+        "vocab": [
+          { "w": "見解", "r": "けんかい", "hv": "KIẾN GIẢI", "vi": "quan điểm, kiến giải" },
+          { "w": "分野", "r": "ぶんや", "hv": "PHÂN DÃ", "vi": "lĩnh vực" },
+          { "w": "立場", "r": "たちば", "hv": "LẬP TRƯỜNG", "vi": "lập trường, vị trí" },
+          { "w": "異なる", "r": "ことなる", "hv": "DỊ", "vi": "khác nhau" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "見解 ≈ 意見・考え・見方. Cụm hay gặp: 見解の相違 (khác biệt quan điểm)."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "先週、車を<u>レンタル</u>した。",
+      "options": ["修理した", "借りた", "検査した", "買った"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tuần trước tôi đã thuê xe ô tô.",
+        "why": "レンタル (rental) = thuê (trả tiền để mượn dùng một thời gian) ≈ 借りた.",
+        "options": [
+          "修理した (しゅうりした): đã sửa. Sai.",
+          "借りた (かりた): đã mượn/thuê. ĐÚNG.",
+          "検査した (けんさした): đã kiểm tra. Sai.",
+          "買った (かった): đã mua. Sai."
+        ],
+        "vocab": [
+          { "w": "レンタル", "r": "レンタル", "hv": "", "vi": "thuê (rental)" },
+          { "w": "借りる", "r": "かりる", "hv": "TÁ", "vi": "mượn, thuê" },
+          { "w": "修理", "r": "しゅうり", "hv": "TU LÝ", "vi": "sửa chữa" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "レンタカー = xe cho thuê; リース = thuê dài hạn."
+      }
+    }
+  ]
+}

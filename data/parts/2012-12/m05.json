@@ -1,0 +1,135 @@
+{
+  "exam": "2012-12",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "ちょっと<u>追加したい</u>データがあります。",
+      "options": ["たしたい", "なおしたい", "のせたい", "しらべたい"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Có một ít dữ liệu tôi muốn bổ sung thêm.",
+        "why": "追加する (ついか) = thêm vào, bổ sung = 足す (たす: cộng thêm, thêm vào).",
+        "options": [
+          "たしたい → 足す: thêm vào. ĐÚNG.",
+          "なおしたい → 直す: sửa lại. Sai.",
+          "のせたい → 載せる: đăng, đưa lên (báo, web). Sai.",
+          "しらべたい → 調べる: điều tra, tra cứu. Sai."
+        ],
+        "vocab": [
+          { "w": "追加", "r": "ついか", "hv": "TRUY GIA", "vi": "bổ sung, thêm vào" },
+          { "w": "足す", "r": "たす", "hv": "TÚC", "vi": "thêm, cộng vào" },
+          { "w": "載せる", "r": "のせる", "hv": "TẢI", "vi": "đăng, đưa lên" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "追加注文 = gọi thêm món; 付け足す/付け加える cũng ≈ 追加する."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "その国も今の時期は<u>そうとう</u>暑いだろう。",
+      "options": ["たぶん", "どうせ", "やはり", "かなり"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nước đó vào thời điểm này chắc cũng khá là nóng.",
+        "why": "相当 (そうとう) khi làm phó từ = khá, khá là, đáng kể = かなり. (Từ phỏng đoán là だろう ở cuối câu, không phải そうとう.)",
+        "options": [
+          "たぶん → có lẽ (phỏng đoán). Sai — phỏng đoán đã do だろう đảm nhận.",
+          "どうせ → đằng nào thì cũng (cam chịu). Sai.",
+          "やはり → quả nhiên, rốt cuộc vẫn. Sai.",
+          "かなり → khá, tương đối nhiều. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "相当", "r": "そうとう", "hv": "TƯƠNG ĐƯƠNG", "vi": "khá, đáng kể; tương đương" },
+          { "w": "かなり", "r": "かなり", "hv": "", "vi": "khá, tương đối" },
+          { "w": "時期", "r": "じき", "hv": "THỜI KỲ", "vi": "thời kỳ, thời điểm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhóm 'khá/rất' hay ra ở 問題5: そうとう・かなり・ずいぶん・だいぶ."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "少しの間、<u>じっとしていて</u>ください。",
+      "options": ["見ないで", "話さないで", "使わないで", "動かないで"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Xin hãy đứng yên (không cử động) một lúc.",
+        "why": "じっとする = đứng yên, giữ nguyên không nhúc nhích = 動かないで.",
+        "options": [
+          "見ないで → đừng nhìn. Sai (じっと見る là 'nhìn chằm chằm', khác じっとする).",
+          "話さないで → đừng nói. Sai.",
+          "使わないで → đừng dùng. Sai.",
+          "動かないで → đừng cử động. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "じっとする", "r": "じっとする", "hv": "", "vi": "đứng yên, không nhúc nhích" },
+          { "w": "じっと見る", "r": "じっとみる", "hv": "", "vi": "nhìn chằm chằm" },
+          { "w": "動く", "r": "うごく", "hv": "ĐỘNG", "vi": "cử động, di chuyển" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "じっと + する/している = giữ yên; じっと + 見る/待つ/我慢する = chăm chú, kiên nhẫn."
+      }
+    },
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "<u>あやまった</u>情報が流れてしまったようだ。",
+      "options": ["古い", "正しくない", "秘密の", "必要のない"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Có vẻ như thông tin sai lệch đã bị lan truyền.",
+        "why": "誤った (あやまった) = sai, nhầm lẫn = 正しくない. 誤る là 'sai sót', không phải 謝る (xin lỗi).",
+        "options": [
+          "古い → cũ. Sai.",
+          "正しくない → không đúng, sai. ĐÚNG.",
+          "秘密の → bí mật. Sai.",
+          "必要のない → không cần thiết. Sai."
+        ],
+        "vocab": [
+          { "w": "誤る", "r": "あやまる", "hv": "NGỘ", "vi": "sai, nhầm" },
+          { "w": "謝る", "r": "あやまる", "hv": "TẠ", "vi": "xin lỗi (đồng âm)" },
+          { "w": "情報", "r": "じょうほう", "hv": "TÌNH BÁO", "vi": "thông tin" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "誤 = 誤解 (ごかい: hiểu lầm), 誤字 (chữ sai). あやまった + danh từ gần như luôn là 誤った (sai)."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "ちょっと手が<u>かさかさしている</u>。",
+      "options": ["汚れている", "冷えている", "しびれている", "乾燥している"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tay hơi bị khô ráp.",
+        "why": "かさかさ = khô ráp, thiếu ẩm (da, lá khô) = 乾燥している.",
+        "options": [
+          "汚れている → bẩn. Sai.",
+          "冷えている → bị lạnh. Sai.",
+          "しびれている → bị tê. Sai.",
+          "乾燥している → khô (thiếu độ ẩm). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "かさかさ", "r": "かさかさ", "hv": "", "vi": "khô ráp" },
+          { "w": "乾燥", "r": "かんそう", "hv": "CAN TÁO", "vi": "khô, khô hanh" },
+          { "w": "しびれる", "r": "しびれる", "hv": "", "vi": "tê (chân tay)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bản PDF in gạch chân lệch (\"手がか<u>さかさ…</u>\"), đã sửa thành 手が<u>かさかさしている</u>. Đối lập: すべすべ (mịn màng), べたべた (dính nhớp)."
+      }
+    }
+  ]
+}

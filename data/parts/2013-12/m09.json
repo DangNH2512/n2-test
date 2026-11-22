@@ -1,0 +1,166 @@
+{
+  "exam": "2013-12",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、（50）から（54）の中に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án thích hợp nhất cho các chỗ trống (50)–(54).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "ポケットティッシュ",
+      "text": "以下は、留学生が書いた文章である。\n\nポケットティッシュ\n\n今日も新宿駅前でティッシュをもらった。小さな袋の中に１０枚ほどのティッシュが入っていて、ポケットなどに入れて持ち歩けるポケットティッシュだ。\n新宿や渋谷などの大きな駅を出て少し歩くと、ポケットティッシュを配っている人にあちこちで（50）。彼らが配るのは、ティッシュでもあり広告でもある。受け取るティッシュの袋には、旅行会社の名前が印刷されていたり、美容院や居酒屋の広告の紙が入っていたりする。最初は無料で配っているとは知らなかったので、渡されたときは驚いた。\nティッシュペーパーが日本で使われるようになったのは、１９５０年代。その十数年後、（51）が広告宣伝用に配るためのポケットティッシュを開発した。そして、１９７０年ごろにそれを道で配り始めた会社があり、それ以来、ポケットティッシュを道で配ることが定着していったらしい。\n確かに、ポケットティッシュは優れた宣伝グッズだ。まず、道で直接配るから、歩いている人の性別・年齢を見て、渡すことができる。個人情報を集めなくても、宣伝したい相手に宣伝できる効果的な（52）。また、ティッシュなら実用的で、ちらしだけよりも受け取ってもらいやすいし、使うたびに広告を見てもらえるという利点もある。\n（53）、私はポケットティッシュの広告を見て行動を起こしたことはない。もらう広告には全く興味がないが、無料だからついもらってしまい、たまっていく一方だ。だから、帰国したら友達に配りたい。日本文化の一つとして（54）。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["出会う", "出会ったのか", "出会うこともあった", "出会うはずだった"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Ra khỏi các ga lớn như Shinjuku, Shibuya đi bộ một chút là gặp người phát khăn giấy bỏ túi ở khắp nơi.",
+        "why": "Câu mô tả hiện tượng thường xuyên, mang tính quy luật: 〜と、…に出会う (cứ … là gặp). Dùng thể từ điển (hiện tại) cho sự thật chung, và あちこちで (khắp nơi) cho thấy đây là chuyện hiển nhiên.",
+        "options": [
+          "出会う → (cứ đi là) gặp – sự thật chung. ĐÚNG.",
+          "出会ったのか → câu hỏi/nghi vấn, không hợp văn miêu tả. Sai.",
+          "出会うこともあった → 'cũng có lúc đã gặp' – quá khứ, tần suất thấp, mâu thuẫn với あちこちで. Sai.",
+          "出会うはずだった → 'lẽ ra đã gặp' – không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "配る", "r": "くばる", "hv": "PHỐI", "vi": "phát, phân phát" },
+          { "w": "出会う", "r": "であう", "hv": "XUẤT HỘI", "vi": "gặp, bắt gặp" },
+          { "w": "あちこち", "r": "あちこち", "hv": "", "vi": "khắp nơi, đây đó" }
+        ],
+        "grammar": {
+          "pattern": "Aと、B（thể từ điển）",
+          "meaning": "hễ/cứ A là B (kết quả tất yếu, thói quen)",
+          "form": "Vる＋と、Vる",
+          "example": "春になると、桜が咲く。(Cứ đến xuân là hoa anh đào nở.)"
+        },
+        "evidence": null,
+        "tip": "Văn miêu tả hiện tượng thường ngày → thể hiện tại đơn giản."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["その会社", "ある会社", "彼らの会社", "こういう会社"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Khoảng mười mấy năm sau đó, một công ty nọ đã phát triển loại khăn giấy bỏ túi để phát cho mục đích quảng cáo.",
+        "why": "Công ty này chưa được nhắc đến trước đó, người viết cũng không nêu tên → dùng ある会社 (một công ty nọ). Các từ chỉ định その/彼らの/こういう đòi hỏi đối tượng đã xuất hiện.",
+        "options": [
+          "その会社 → 'công ty đó' – chưa có công ty nào được nhắc trước. Sai.",
+          "ある会社 → một công ty nọ (giới thiệu đối tượng mới). ĐÚNG.",
+          "彼らの会社 → 'công ty của họ' – 彼ら (người phát khăn) không liên quan đến việc phát minh. Sai.",
+          "こういう会社 → 'loại công ty như thế này' – không có gì để chỉ. Sai."
+        ],
+        "vocab": [
+          { "w": "開発", "r": "かいはつ", "hv": "KHAI PHÁT", "vi": "phát triển, nghiên cứu chế tạo" },
+          { "w": "広告宣伝", "r": "こうこくせんでん", "hv": "QUẢNG CÁO TUYÊN TRUYỀN", "vi": "quảng cáo, quảng bá" },
+          { "w": "定着", "r": "ていちゃく", "hv": "ĐỊNH TRƯỚC", "vi": "bám rễ, trở nên phổ biến" }
+        ],
+        "grammar": {
+          "pattern": "ある＋N",
+          "meaning": "một … nọ (giới thiệu đối tượng không xác định)",
+          "form": "ある＋N（ある日、ある人、ある会社）",
+          "example": "ある日、ある人から手紙が届いた。(Một ngày nọ, có lá thư từ một người nọ gửi đến.)"
+        },
+        "evidence": null,
+        "tip": "Câu sau cũng dùng 'それを道で配り始めた会社があり' → cách nói không xác định, nhất quán với ある会社."
+      }
+    },
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "（52）に入るもの",
+      "options": ["方法にするべきだ", "方法だと言える", "方法になりかねない", "方法があるに違いない"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Có thể nói đây là phương pháp hiệu quả, quảng cáo được đến đúng đối tượng mong muốn mà không cần thu thập thông tin cá nhân.",
+        "why": "Đoạn này đang đánh giá tích cực (確かに、優れた宣伝グッズだ。まず…). Câu kết luận đánh giá → 〜と言える (có thể nói là).",
+        "options": [
+          "方法にするべきだ → 'nên biến thành phương pháp' – lời khuyên, không hợp. Sai.",
+          "方法だと言える → có thể nói là phương pháp (hiệu quả). ĐÚNG.",
+          "方法になりかねない → 'có nguy cơ trở thành' – dùng cho kết quả xấu, mâu thuẫn với 効果的. Sai.",
+          "方法があるに違いない → 'chắc chắn có phương pháp' – không khớp chủ đề (ティッシュ chính là phương pháp). Sai."
+        ],
+        "vocab": [
+          { "w": "効果的", "r": "こうかてき", "hv": "HIỆU QUẢ ĐÍCH", "vi": "hiệu quả" },
+          { "w": "個人情報", "r": "こじんじょうほう", "hv": "CÁ NHÂN TÌNH BÁO", "vi": "thông tin cá nhân" },
+          { "w": "性別", "r": "せいべつ", "hv": "TÍNH BIỆT", "vi": "giới tính" }
+        ],
+        "grammar": {
+          "pattern": "～と言える",
+          "meaning": "có thể nói là …",
+          "form": "N(だ) / thể thường＋と言える",
+          "example": "これは日本の代表的な料理だと言える。(Có thể nói đây là món ăn tiêu biểu của Nhật.)"
+        },
+        "evidence": null,
+        "tip": "〜かねない luôn mang sắc thái tiêu cực → loại ngay khi có 効果的."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p1",
+      "stem": "（53）に入るもの",
+      "options": ["むしろ", "要するに", "したがって", "とはいえ"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tuy vậy, tôi chưa từng hành động gì vì xem quảng cáo trên khăn giấy bỏ túi.",
+        "why": "Đoạn trước khen khăn giấy là công cụ quảng cáo hiệu quả; câu sau lại nói bản thân chưa từng hành động vì nó → quan hệ nghịch: とはいえ (tuy nói vậy nhưng).",
+        "options": [
+          "むしろ → 'trái lại, đúng hơn là' (so sánh chọn lựa). Sai.",
+          "要するに → 'tóm lại'. Sai.",
+          "したがって → 'do đó' (thuận). Sai.",
+          "とはいえ → tuy vậy, dù nói thế. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "とはいえ", "r": "とはいえ", "hv": "", "vi": "tuy nói vậy, tuy nhiên" },
+          { "w": "行動を起こす", "r": "こうどうをおこす", "hv": "HÀNH ĐỘNG KHỞI", "vi": "hành động" },
+          { "w": "〜一方だ", "r": "〜いっぽうだ", "hv": "NHẤT PHƯƠNG", "vi": "ngày càng …, cứ thế …" }
+        ],
+        "grammar": {
+          "pattern": "とはいえ",
+          "meaning": "tuy nói là vậy nhưng (thừa nhận ý trước rồi nêu ý trái ngược)",
+          "form": "Câu A。とはいえ、câu B.",
+          "example": "春になった。とはいえ、まだ寒い日が続く。(Đã sang xuân. Tuy vậy vẫn còn những ngày lạnh.)"
+        },
+        "evidence": null,
+        "tip": "Đoạn trước: 確かに〜 (đúng là…) → đoạn sau thường mở đầu bằng từ nghịch: しかし / とはいえ / だが."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p1",
+      "stem": "（54）に入るもの",
+      "options": ["紹介されたわけだ", "ご紹介したからだ", "紹介しようと思う", "紹介されるのだと思う"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vì vậy, khi về nước tôi muốn đem phát cho bạn bè. Tôi định giới thiệu nó như một nét văn hóa Nhật Bản.",
+        "why": "Câu trước nói dự định (帰国したら友達に配りたい) → câu tiếp nối ý định của người viết: 紹介しようと思う (định giới thiệu). Chủ thể là 'tôi', thể ý chí.",
+        "options": [
+          "紹介されたわけだ → 'thì ra là đã được giới thiệu' – bị động, quá khứ. Sai.",
+          "ご紹介したからだ → 'là vì đã giới thiệu' – quá khứ, giải thích lý do, không hợp. Sai.",
+          "紹介しようと思う → định giới thiệu. ĐÚNG.",
+          "紹介されるのだと思う → 'nghĩ là sẽ được giới thiệu' – bị động, chủ thể sai. Sai."
+        ],
+        "vocab": [
+          { "w": "紹介", "r": "しょうかい", "hv": "THIỆU GIỚI", "vi": "giới thiệu" },
+          { "w": "帰国", "r": "きこく", "hv": "QUY QUỐC", "vi": "về nước" },
+          { "w": "日本文化", "r": "にほんぶんか", "hv": "NHẬT BẢN VĂN HÓA", "vi": "văn hóa Nhật Bản" }
+        ],
+        "grammar": {
+          "pattern": "V(意向形)＋と思う",
+          "meaning": "định, dự định làm …",
+          "form": "Vよう／Vおう＋と思う",
+          "example": "来年は日本へ留学しようと思う。(Năm sau tôi định đi du học Nhật.)"
+        },
+        "evidence": null,
+        "tip": "Câu kết bài luận của người viết thường nêu ý định/cảm nghĩ của chính mình → thể ý chí chủ động."
+      }
+    }
+  ]
+}

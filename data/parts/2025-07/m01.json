@@ -1,0 +1,136 @@
+{
+  "exam": "2025-07",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "素晴らしい<u>才能</u>を発揮した。",
+      "options": ["ぜいのう", "ざいのう", "せいのう", "さいのう"],
+      "answer": 4,
+      "explanation": {
+        "translation": "(Anh ấy) đã phát huy tài năng tuyệt vời.",
+        "why": "才能 đọc là さいのう (TÀI NĂNG) = tài năng. 才 âm On là さい (âm trong), không biến thành ざい; 能 là のう.",
+        "options": [
+          "ぜいのう → không có từ này. Sai.",
+          "ざいのう → không có từ này (nhầm 才 thành ざい như 材/財 ざい). Sai.",
+          "せいのう → 性能: tính năng (máy móc). Sai.",
+          "さいのう → 才能: tài năng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "才能", "r": "さいのう", "hv": "TÀI NĂNG", "vi": "tài năng" },
+          { "w": "発揮する", "r": "はっきする", "hv": "PHÁT HUY", "vi": "phát huy" },
+          { "w": "性能", "r": "せいのう", "hv": "TÍNH NĂNG", "vi": "tính năng, hiệu suất" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "才 (さい) khác 材/財 (ざい): 材料 ざいりょう, 財産 ざいさん, nhưng 才能 さいのう, 天才 てんさい."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "<u>辛い</u>食べ物は好きではありません。",
+      "options": ["あまい", "からい", "にがい", "しぶい"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi không thích đồ ăn cay.",
+        "why": "辛い (TÂN) đọc là からい = cay (cũng đọc つらい = khổ sở). Với 食べ物 thì nghĩa là cay → からい.",
+        "options": [
+          "あまい → 甘い: ngọt. Sai.",
+          "からい → 辛い: cay. ĐÚNG.",
+          "にがい → 苦い: đắng. Sai.",
+          "しぶい → 渋い: chát. Sai."
+        ],
+        "vocab": [
+          { "w": "辛い", "r": "からい／つらい", "hv": "TÂN", "vi": "cay / vất vả, khổ sở" },
+          { "w": "甘い", "r": "あまい", "hv": "CAM", "vi": "ngọt" },
+          { "w": "苦い", "r": "にがい", "hv": "KHỔ", "vi": "đắng" },
+          { "w": "渋い", "r": "しぶい", "hv": "SÁP", "vi": "chát; trầm, sang" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "辛い có 2 cách đọc: からい (vị cay) và つらい (đau khổ). Xem ngữ cảnh: đồ ăn → からい."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "私の友人は<u>刑事</u>です。",
+      "options": ["けんじ", "かんじ", "けいじ", "かいじ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Bạn tôi là cảnh sát hình sự.",
+        "why": "刑事 đọc là けいじ (HÌNH SỰ) = cảnh sát hình sự, thám tử. 刑 âm On là けい (như 刑法 けいほう), 事 là じ.",
+        "options": [
+          "けんじ → 検事: công tố viên. Sai.",
+          "かんじ → 感じ/幹事: cảm giác / người phụ trách. Sai.",
+          "けいじ → 刑事: cảnh sát hình sự. ĐÚNG.",
+          "かいじ → 海事: việc hàng hải. Sai."
+        ],
+        "vocab": [
+          { "w": "刑事", "r": "けいじ", "hv": "HÌNH SỰ", "vi": "cảnh sát hình sự, thám tử" },
+          { "w": "検事", "r": "けんじ", "hv": "KIỂM SỰ", "vi": "công tố viên" },
+          { "w": "友人", "r": "ゆうじん", "hv": "HỮU NHÂN", "vi": "bạn bè" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "刑 (けい) có trường âm い; đừng nhầm với 検 (けん)."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "毎朝6時に<u>起床</u>して、少し運動をしている。",
+      "options": ["きしょう", "ぎしょう", "きしょ", "ぎしょ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Mỗi sáng tôi thức dậy lúc 6 giờ và vận động một chút.",
+        "why": "起床 đọc là きしょう (KHỞI SÀNG) = thức dậy, ra khỏi giường. 起 = き (âm trong), 床 âm On = しょう (có trường âm う).",
+        "options": [
+          "きしょう → 起床: thức dậy. ĐÚNG.",
+          "ぎしょう → 偽証: khai man; 起 không đọc ぎ. Sai.",
+          "きしょ → thiếu trường âm; không có từ này. Sai.",
+          "ぎしょ → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "起床", "r": "きしょう", "hv": "KHỞI SÀNG", "vi": "thức dậy" },
+          { "w": "床", "r": "ゆか／とこ／しょう", "hv": "SÀNG", "vi": "sàn nhà; giường" },
+          { "w": "運動", "r": "うんどう", "hv": "VẬN ĐỘNG", "vi": "vận động, tập thể dục" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cặp từ trái nghĩa: 起床 きしょう (thức dậy) ↔ 就寝 しゅうしん (đi ngủ)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "夕方になって、ようやく風が<u>収まった</u>。",
+      "options": ["さだまった", "しずまった", "おさまった", "やすまった"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đến chiều tối thì cuối cùng gió cũng đã lặng.",
+        "why": "収まる đọc là おさまる (THU) = lắng xuống, dịu đi (gió, cơn đau, tranh chấp...). 風が収まる = gió lặng.",
+        "options": [
+          "さだまった → 定まった: được xác định, ổn định. Sai.",
+          "しずまった → 静まった/鎮まった: trở nên yên tĩnh; không viết bằng 収. Sai.",
+          "おさまった → 収まった: lắng xuống, dịu đi. ĐÚNG.",
+          "やすまった → 休まった: được nghỉ ngơi. Sai."
+        ],
+        "vocab": [
+          { "w": "収まる", "r": "おさまる", "hv": "THU", "vi": "lắng xuống, dịu đi; nằm gọn trong" },
+          { "w": "ようやく", "r": "ようやく", "hv": "", "vi": "cuối cùng thì, mãi mới" },
+          { "w": "静まる", "r": "しずまる", "hv": "TĨNH", "vi": "trở nên yên lặng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "おさまる có nhiều chữ: 収まる (lắng, gọn), 治まる (yên, khỏi đau), 納まる (được nộp), 修まる (tu dưỡng)."
+      }
+    }
+  ]
+}

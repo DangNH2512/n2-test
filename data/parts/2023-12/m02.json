@@ -1,0 +1,140 @@
+{
+  "exam": "2023-12",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết Kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "お金の<u>かんり</u>は、きちんとしてください。",
+      "options": ["管利", "官理", "管理", "官利"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hãy quản lý tiền bạc cho cẩn thận.",
+        "why": "かんり = 管理 (QUẢN LÝ). 管 (ống, quản) có bộ trúc ⺮; 理 (lý, xử lý) có bộ ngọc 王. 官 là \"quan\" (quan chức), 利 là \"lợi\".",
+        "options": [
+          "管利 → 利 (lợi ích) sai, không có từ này. Sai.",
+          "官理 → 官 (quan chức) sai, không có từ này. Sai.",
+          "管理 → quản lý. ĐÚNG.",
+          "官利 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "管理", "r": "かんり", "hv": "QUẢN LÝ", "vi": "quản lý" },
+          { "w": "管", "r": "くだ", "hv": "QUẢN", "vi": "ống" },
+          { "w": "官僚", "r": "かんりょう", "hv": "QUAN LIÊU", "vi": "quan chức" },
+          { "w": "利益", "r": "りえき", "hv": "LỢI ÍCH", "vi": "lợi nhuận, lợi ích" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "管 (bộ trúc ⺮) = ống, quản lý: 管理・保管・血管. 官 (không có ⺮) = quan: 警官・官庁."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "今日から2週間の<u>けんしゅう</u>を行います。",
+      "options": ["演習", "研習", "研修", "演修"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Từ hôm nay chúng tôi sẽ tiến hành khóa đào tạo kéo dài 2 tuần.",
+        "why": "けんしゅう = 研修 (NGHIÊN TU) = đào tạo, tu nghiệp. 研 = けん (mài giũa), 修 = しゅう (tu dưỡng, học). 習 cũng đọc しゅう nhưng không ghép với 研.",
+        "options": [
+          "演習 → えんしゅう: diễn tập, bài tập thực hành. Sai.",
+          "研習 → không có từ này. Sai.",
+          "研修 → けんしゅう: đào tạo, tu nghiệp. ĐÚNG.",
+          "演修 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "研修", "r": "けんしゅう", "hv": "NGHIÊN TU", "vi": "đào tạo, tu nghiệp" },
+          { "w": "演習", "r": "えんしゅう", "hv": "DIỄN TẬP", "vi": "diễn tập, thực hành" },
+          { "w": "研究", "r": "けんきゅう", "hv": "NGHIÊN CỨU", "vi": "nghiên cứu" },
+          { "w": "修理", "r": "しゅうり", "hv": "TU LÝ", "vi": "sửa chữa" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "研修生 (けんしゅうせい) = tu nghiệp sinh. Bẫy: 演習 cũng đọc …しゅう nhưng đầu là えん."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "社会は<u>たえず</u>変化している。",
+      "options": ["完えず", "絶えず", "停えず", "滞えず"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Xã hội không ngừng thay đổi.",
+        "why": "たえず = 絶えず (TUYỆT) = không ngừng, liên tục. Gốc từ 絶える (たえる – dứt, ngừng) + ず (phủ định) → \"không dứt\".",
+        "options": [
+          "完えず → 完 (hoàn) không có âm Kun たえる. Sai.",
+          "絶えず → không ngừng, liên tục. ĐÚNG.",
+          "停えず → 停 (đình – dừng) đọc てい, không có たえる. Sai.",
+          "滞えず → 滞 (trệ) đọc とどこおる, không phải たえる. Sai."
+        ],
+        "vocab": [
+          { "w": "絶えず", "r": "たえず", "hv": "TUYỆT", "vi": "không ngừng, liên tục" },
+          { "w": "絶える", "r": "たえる", "hv": "TUYỆT", "vi": "dứt, tắt, tuyệt" },
+          { "w": "絶対", "r": "ぜったい", "hv": "TUYỆT ĐỐI", "vi": "tuyệt đối" },
+          { "w": "変化", "r": "へんか", "hv": "BIẾN HÓA", "vi": "thay đổi, biến đổi" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Phân biệt 絶える (dứt) với 耐える (chịu đựng) – cùng đọc たえる. たえず luôn viết 絶えず."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "選挙で誰に<u>とうひょう</u>するかまだ決めていない。",
+      "options": ["投票", "当票", "投標", "当標"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi vẫn chưa quyết định sẽ bỏ phiếu cho ai trong cuộc bầu cử.",
+        "why": "とうひょう = 投票 (ĐẦU PHIẾU) = bỏ phiếu. 投 = ném, bỏ vào; 票 = lá phiếu. 当 (đương) và 標 (tiêu – mục tiêu, dấu hiệu) sai.",
+        "options": [
+          "投票 → bỏ phiếu. ĐÚNG.",
+          "当票 → 当 (đương – trúng, thích đáng) sai. Sai.",
+          "投標 → 標 (tiêu – mốc, dấu) không phải lá phiếu. Sai.",
+          "当標 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "投票", "r": "とうひょう", "hv": "ĐẦU PHIẾU", "vi": "bỏ phiếu" },
+          { "w": "選挙", "r": "せんきょ", "hv": "TUYỂN CỬ", "vi": "bầu cử" },
+          { "w": "投げる", "r": "なげる", "hv": "ĐẦU", "vi": "ném" },
+          { "w": "目標", "r": "もくひょう", "hv": "MỤC TIÊU", "vi": "mục tiêu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "票 (phiếu) vs 標 (tiêu – có thêm bộ 木): 投票 bỏ phiếu, 目標 mục tiêu, 標識 biển báo."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "中島さんは何かを<u>かかえて</u>部屋に入ってきた。",
+      "options": ["押えて", "捕えて", "握えて", "抱えて"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh/chị Nakajima ôm thứ gì đó đi vào phòng.",
+        "why": "かかえる = 抱える (BÃO) = ôm (trong tay), gánh vác (vấn đề). 抱 còn đọc だく (抱く – ôm).",
+        "options": [
+          "押えて → 押さえる (おさえる): ấn giữ. Sai.",
+          "捕えて → 捕らえる (とらえる): bắt giữ. Sai.",
+          "握えて → 握る (にぎる): nắm chặt; không có \"握える\". Sai.",
+          "抱えて → 抱える: ôm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "抱える", "r": "かかえる", "hv": "BÃO", "vi": "ôm; mang (vấn đề, gánh nặng)" },
+          { "w": "抱く", "r": "だく", "hv": "BÃO", "vi": "ôm, bế" },
+          { "w": "押さえる", "r": "おさえる", "hv": "ÁP", "vi": "ấn giữ, kìm lại" },
+          { "w": "捕らえる", "r": "とらえる", "hv": "BỘ", "vi": "bắt, nắm bắt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "問題を抱える = ôm (gánh) vấn đề. 頭を抱える = ôm đầu (bối rối)."
+      }
+    }
+  ]
+}

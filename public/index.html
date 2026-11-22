@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>N2 Luyện Đề</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%23c2410c'/><text x='32' y='44' font-size='32' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='700'>N2</text></svg>">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#/"><span class="brand-mark">N2</span><span class="brand-text">Luyện Đề JLPT</span></a>
+    <nav class="nav">
+      <a href="#/" data-nav="home">Đề thi</a>
+      <a href="#/wrong" data-nav="wrong">Câu sai</a>
+      <a href="#/flags" data-nav="flags">Đánh dấu</a>
+      <a href="#/vocab" data-nav="vocab">Từ vựng</a>
+      <a href="#/stats" data-nav="stats">Thống kê</a>
+    </nav>
+    <div class="tools">
+      <button class="icon-btn" id="font-dec" title="Chữ nhỏ hơn">A−</button>
+      <button class="icon-btn" id="font-inc" title="Chữ to hơn">A+</button>
+      <button class="icon-btn" id="theme-toggle" title="Đổi giao diện sáng/tối">◐</button>
+    </div>
+  </header>
+  <main id="app" class="app"><div class="loading">Đang tải…</div></main>
+  <div id="modal-root"></div>
+  <script src="/app.js" type="module"></script>
+</body>
+</html>

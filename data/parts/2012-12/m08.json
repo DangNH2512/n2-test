@@ -1,0 +1,160 @@
+{
+  "exam": "2012-12",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các phương án thành câu đúng và chọn phương án nằm ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "A「あ、飲み物がなくなってしまいましたね。」\nB「じゃあ、私がちょっとコンビニに＿＿＿ ＿＿＿ ＿★＿ ＿＿＿いてください。」\nA「私もいっしょに買いに行きますよ。」",
+      "options": ["きますから", "行って", "待って", "買って"],
+      "answer": 1,
+      "explanation": {
+        "translation": "A: \"À, hết đồ uống rồi nhỉ.\" — B: \"Vậy để tôi chạy ra cửa hàng tiện lợi mua về, anh cứ đợi ở đây nhé.\" — A: \"Tôi cũng đi mua cùng.\"",
+        "why": "Thứ tự đúng: コンビニに［2 行って］［4 買って］［1 きますから★］［3 待って］いてください. Vて＋きます = đi làm gì rồi quay lại (行って買ってきます); 〜から、待っていてください. ★ ở vị trí 3 → きますから.",
+        "options": [
+          "きますから → vị trí 3 (買ってきますから), ★. ĐÚNG.",
+          "行って → vị trí 1, nối sau コンビニに. Không phải ★.",
+          "待って → vị trí 4, nối với いてください (待っていてください). Không phải ★.",
+          "買って → vị trí 2 (行って買って). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "飲み物", "r": "のみもの", "hv": "ẨM VẬT", "vi": "đồ uống" },
+          { "w": "コンビニ", "r": "コンビニ", "hv": "", "vi": "cửa hàng tiện lợi" }
+        ],
+        "grammar": {
+          "pattern": "Vてくる",
+          "meaning": "đi làm V rồi quay lại",
+          "form": "Vて + くる",
+          "example": "ちょっと切手を買ってきます。"
+        },
+        "evidence": null,
+        "tip": "Mẹo: いてください chỉ có thể đi sau 待って → điền vị trí 4 trước, rồi xếp ngược lên."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "この計画をこのまま＿＿＿ ＿＿＿ ＿★＿ ＿＿＿だろう。",
+      "options": ["必要がある", "いずれにしても", "早急に結論を出す", "進めるかやめるか"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Dù tiếp tục kế hoạch này như hiện tại hay dừng lại, thì đằng nào cũng cần phải đưa ra kết luận gấp.",
+        "why": "Thứ tự đúng: このまま［4 進めるかやめるか］［2 いずれにしても］［3 早急に結論を出す★］［1 必要がある］だろう. このまま進める (tiếp tục như vậy); 〜か〜か、いずれにしても = dù A hay B thì đằng nào cũng; 〜する必要があるだろう. ★ ở vị trí 3.",
+        "options": [
+          "必要がある → vị trí 4, đứng trước だろう. Không phải ★.",
+          "いずれにしても → vị trí 2, sau 進めるかやめるか. Không phải ★.",
+          "早急に結論を出す → vị trí 3, ★. ĐÚNG.",
+          "進めるかやめるか → vị trí 1, nối sau このまま. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "いずれにしても", "r": "いずれにしても", "hv": "", "vi": "dù sao đi nữa, đằng nào cũng" },
+          { "w": "早急", "r": "さっきゅう／そうきゅう", "hv": "TẢO CẤP", "vi": "gấp, khẩn trương" },
+          { "w": "結論", "r": "けつろん", "hv": "KẾT LUẬN", "vi": "kết luận" }
+        ],
+        "grammar": {
+          "pattern": "〜か〜か、いずれにしても",
+          "meaning": "dù ~ hay ~, thì đằng nào cũng",
+          "form": "Vるか Vるか、いずれにしても …",
+          "example": "行くか行かないか、いずれにしても明日までに返事をください。"
+        },
+        "evidence": null,
+        "tip": "必要がある + だろう chắc chắn ở cuối; このまま + 進める tự nhiên nhất ở đầu."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "来週の登山の持ち物について質問があります。配られたプリントに、ビニール袋を持参＿＿＿ ＿＿＿ ＿★＿ ＿＿＿足りるのでしょうか。",
+      "options": ["ありますが", "だいたい何枚ぐらい", "のことと", "用意すれば"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi có câu hỏi về đồ mang theo cho chuyến leo núi tuần sau. Trong tờ giấy được phát có ghi 'mang theo túi ni-lông', vậy chuẩn bị khoảng bao nhiêu cái thì đủ ạ?",
+        "why": "Thứ tự đúng: 持参［3 のことと］［1 ありますが］［2 だいたい何枚ぐらい★］［4 用意すれば］足りるのでしょうか. 持参のこと = hãy mang theo (chỉ thị); 〜とありますが = có ghi là ~; 何枚ぐらい用意すれば足りる = chuẩn bị bao nhiêu cái thì đủ. ★ ở vị trí 3.",
+        "options": [
+          "ありますが → vị trí 2 (〜とありますが). Không phải ★.",
+          "だいたい何枚ぐらい → vị trí 3, ★. ĐÚNG.",
+          "のことと → vị trí 1, nối sau 持参 (持参のこと). Không phải ★.",
+          "用意すれば → vị trí 4, nối với 足りる (〜ば足りる). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "持参", "r": "じさん", "hv": "TRÌ THAM", "vi": "mang theo" },
+          { "w": "登山", "r": "とざん", "hv": "ĐĂNG SƠN", "vi": "leo núi" },
+          { "w": "足りる", "r": "たりる", "hv": "TÚC", "vi": "đủ" }
+        ],
+        "grammar": {
+          "pattern": "〜こと（指示）／〜とある",
+          "meaning": "Vること = hãy V (chỉ thị trong văn bản); 〜とある = có ghi là ~",
+          "form": "N(する動詞)のこと ／ 引用 + とある",
+          "example": "掲示板に「午後3時集合のこと」とあります。"
+        },
+        "evidence": null,
+        "tip": "持参 + のこと là cách viết chỉ thị trong thông báo; 〜とありますが = 'có ghi … nhưng'."
+      }
+    },
+    {
+      "num": 48,
+      "passage": null,
+      "stem": "何か目的があって＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ということがよくある。",
+      "options": ["何をしにいったのか", "忘れてしまう", "はずなのに", "その場所に行った"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Thường có chuyện là rõ ràng đã đến chỗ đó vì có mục đích gì đó, vậy mà lại quên mất mình đến để làm gì.",
+        "why": "Thứ tự đúng: 目的があって［4 その場所に行った］［3 はずなのに］［1 何をしにいったのか★］［2 忘れてしまう］ということがよくある. 〜たはずなのに = lẽ ra là ~ vậy mà; 何をしに行ったのか忘れてしまう = quên mất đi để làm gì. ★ ở vị trí 3.",
+        "options": [
+          "何をしにいったのか → vị trí 3, ★. ĐÚNG.",
+          "忘れてしまう → vị trí 4, đứng trước ということ. Không phải ★.",
+          "はずなのに → vị trí 2 (行ったはずなのに). Không phải ★.",
+          "その場所に行った → vị trí 1, nối sau 目的があって. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "目的", "r": "もくてき", "hv": "MỤC ĐÍCH", "vi": "mục đích" },
+          { "w": "〜しに行く", "r": "しにいく", "hv": "", "vi": "đi để làm ~" }
+        ],
+        "grammar": {
+          "pattern": "〜はずなのに",
+          "meaning": "lẽ ra (chắc chắn) là ~ vậy mà",
+          "form": "V thể thường + はずなのに",
+          "example": "ちゃんと鍵をかけたはずなのに、開いていた。"
+        },
+        "evidence": null,
+        "tip": "Câu hỏi lồng 何を〜のか thường đứng trước động từ như 忘れる・わからない・覚えていない."
+      }
+    },
+    {
+      "num": 49,
+      "passage": null,
+      "stem": "日本の食卓に＿＿＿ ＿＿＿ ＿★＿ ＿＿＿大豆だが、日本国内で作られているものはわずかで、その多くを海外からの輸入に頼っているという。",
+      "options": ["欠かせない", "原料となる", "調味料の", "みそやしょうゆといった"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đậu nành — nguyên liệu của các loại gia vị như miso, xì dầu vốn không thể thiếu trên bàn ăn Nhật — nhưng lượng sản xuất trong nước rất ít, nghe nói phần lớn phải dựa vào nhập khẩu.",
+        "why": "Thứ tự đúng: 食卓に［1 欠かせない］［4 みそやしょうゆといった］［3 調味料の★］［2 原料となる］大豆. 〜に欠かせない = không thể thiếu đối với ~; AやBといったN = N như A, B; 調味料の原料となる大豆 = đậu nành làm nguyên liệu cho gia vị. ★ ở vị trí 3.",
+        "options": [
+          "欠かせない → vị trí 1 (食卓に欠かせない). Không phải ★.",
+          "原料となる → vị trí 4, bổ nghĩa cho 大豆. Không phải ★.",
+          "調味料の → vị trí 3, ★. ĐÚNG.",
+          "みそやしょうゆといった → vị trí 2, bổ nghĩa cho 調味料. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "欠かせない", "r": "かかせない", "hv": "KHIẾM", "vi": "không thể thiếu" },
+          { "w": "調味料", "r": "ちょうみりょう", "hv": "ĐIỀU VỊ LIỆU", "vi": "gia vị" },
+          { "w": "原料", "r": "げんりょう", "hv": "NGUYÊN LIỆU", "vi": "nguyên liệu" },
+          { "w": "大豆", "r": "だいず", "hv": "ĐẠI ĐẬU", "vi": "đậu nành" },
+          { "w": "輸入", "r": "ゆにゅう", "hv": "THÂU NHẬP", "vi": "nhập khẩu" }
+        ],
+        "grammar": {
+          "pattern": "AやBといったN",
+          "meaning": "N như là A, B (nêu ví dụ)",
+          "form": "N1 や N2 といった + N",
+          "example": "テニスやゴルフといったスポーツが好きだ。"
+        },
+        "evidence": null,
+        "tip": "〜に欠かせない đi với 食卓に ngay sau; 〜といった luôn đứng trước danh từ khái quát (調味料). (Bản PDF thiếu に trong 輸入に頼っている, đã bổ sung.)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "exam": "2016-07",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "下の内容は留学生寮の入居者の募集案内である。下の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc thông báo tuyển người vào ở ký túc xá du học sinh và chọn câu trả lời đúng nhất.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "留学生寮 入居者応募案内",
+      "text": "留学生寮　入居者応募案内\n本協会では、下記のとおり来年度の入居者を募集します。\n\n1. 募集対象者：2017年4月に東京都及びその周辺の大学の学部に在籍する留学生。\n2. 募集している部屋（寮名／部屋の種類／1ヶ月の寮費／設備）\n・さくら寮：一人用／20000円／8階建て、各室に風呂トイレあり\n・ふじ寮：一人用／28000円、家族用（四人まで）／48000円*／6階建て、駐車場あり、各室に風呂トイレあり\n・すみれ寮：一人用／15,000円*、二人用／10,000円*／3階建て、各室に風呂トイレあり\n・つばき寮：一人用／8000円／3階建て、各室に風呂トイレなし\n注意（1）*がついている場合、寮費には光熱費が含まれません。\n　　（2）すみれ寮二人用の部屋の寮費は、一人当たりの金額です。\n3. 入居可能期間：学部の標準修業年限まで（最長入居期間は、1年生なら4年、2年生なら3年、3年生なら2年、4年生なら1年までです。）\n4. 入居開始日：2017年3月25日から（さくら寮のみ建築中のため4月15日から）\n5. 応募方法：必要な書類を郵送または持参してください。（海外在住者はEメールでの提出も可）\n6. 応募期間：2017年2月1日～2月20日（必着）　☆持参の場合は20日17時まで\n7. 応募先：東丘国際交流協会 留学生寮入居者募集係\n8. 必要書類：①申請書（本ホームページからダウンロード可能）\n　②大学の在学証明書（入学予定者は合格通知書）のコピー\n　③パスポート「写真およびパスポート番号のページ」のコピー（入学予定者のみ）\n　Eメール提出の場合、②、③は画像データを添付してください。\n9. 結果通知：本協会の基準に基づき選考を行い、2017年2月28日にEメールで通知します。\n\n東丘国際交流協会 留学生寮入居者募集係　〒199-0001 東丘市南区591\n電話/FAX：021-159-7620　Eメール：nyukyo-bosyu@higashiokahigashioka-kokusai.jp"
+    }
+  ],
+  "questions": [
+    {
+      "num": 74,
+      "passage": "p1",
+      "stem": "ジエゴさんは東京の大学の3年生である。2017年4月から寮に入居したいと思い、自分の希望をメモにまとめたが、ジエゴさんの希望に合う寮はどれか。\n<u>ジエゴさんのメモ</u>\n・寮費は3万円以下のところがいい。\n・寮費に光熱費が含まれているところがいい。\n・1人用で、トイレと風呂がある部屋がいい。\n・4月3日までに引っ越したい。",
+      "options": ["さくら寮のみ", "さくら寮、ふじ寮", "ふじ寮のみ", "ふじ寮、すみれ寮"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh Diego là sinh viên năm 3 một trường đại học ở Tokyo. Anh muốn vào ở ký túc xá từ tháng 4/2017 và đã ghi lại nguyện vọng. Ký túc xá nào phù hợp? → Chỉ có Fuji.",
+        "why": "Lọc từng điều kiện: ≤30.000 yên, đã gồm tiền điện nước (không có dấu *), phòng 1 người có toilet + bồn tắm, dọn vào trước 3/4. Sakura bắt đầu nhận từ 15/4 → loại. Sumire phòng 1 người có * (chưa gồm điện nước) → loại. Tsubaki không có toilet/bồn tắm → loại. Fuji phòng 1 người 28.000 yên, không *, có toilet + bồn tắm, nhận từ 25/3 → ĐẠT.",
+        "options": [
+          "Sakura: chỉ vào ở được từ 15/4 (đang xây) → không kịp 3/4. Sai.",
+          "Có Sakura nên sai (lý do như trên). Sai.",
+          "Chỉ Fuji thỏa mãn tất cả điều kiện. ĐÚNG.",
+          "Sumire: 15.000円* → chưa bao gồm tiền điện nước. Sai."
+        ],
+        "vocab": [
+          { "w": "寮費", "r": "りょうひ", "hv": "LIÊU PHÍ", "vi": "tiền ký túc xá" },
+          { "w": "光熱費", "r": "こうねつひ", "hv": "QUANG NHIỆT PHÍ", "vi": "tiền điện, ga, nước" },
+          { "w": "入居", "r": "にゅうきょ", "hv": "NHẬP CƯ", "vi": "dọn vào ở" },
+          { "w": "建築中", "r": "けんちくちゅう", "hv": "KIẾN TRÚC TRUNG", "vi": "đang xây dựng" }
+        ],
+        "grammar": null,
+        "evidence": "注意（1）*がついている場合、寮費には光熱費が含まれません。／4. 入居開始日：2017年3月25日から（さくら寮のみ建築中のため4月15日から）",
+        "tip": "Dạng tra cứu thông tin: lập bảng loại trừ từng điều kiện, đặc biệt chú ý dấu * và chú thích nhỏ."
+      }
+    },
+    {
+      "num": 75,
+      "passage": "p1",
+      "stem": "ベップさんは2017年4月から日本に留学し、東京の大学に入学予定である。ベップさんは2017年の3月に来日する予定だ。ベップさんに可能な応募方法はどれか。",
+      "options": [
+        "2月20日の17時までに、申請書と、合格通知書のコピーのみを持参する。",
+        "2月20日必着で、申請書と、合格通知書コピーのみを郵送する。",
+        "2月20日必着で、申請書と、合格通知書・パスポートの各コピーをFAXする。",
+        "2月20日必着で、申請書と、合格通知書・パスポートの各データをEメールで送る。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh Bep sẽ sang Nhật du học từ tháng 4/2017 và dự định nhập học một trường đại học ở Tokyo; anh sẽ đến Nhật vào tháng 3/2017. Cách ứng tuyển nào khả thi với anh? → Gửi qua email đơn đăng ký và dữ liệu (ảnh) giấy báo trúng tuyển, hộ chiếu trước 20/2.",
+        "why": "Anh Bep đang ở nước ngoài trong thời gian ứng tuyển (tháng 2) → được phép nộp qua email. Là người sắp nhập học nên cần ① đơn, ② bản sao giấy báo trúng tuyển, ③ bản sao hộ chiếu; khi nộp email thì ②③ gửi dạng file ảnh.",
+        "options": [
+          "Tháng 2 anh còn ở nước ngoài, không thể mang trực tiếp; lại thiếu bản sao hộ chiếu. Sai.",
+          "Thiếu bản sao hộ chiếu (bắt buộc với người sắp nhập học). Sai.",
+          "Không chấp nhận nộp bằng FAX (chỉ bưu điện, trực tiếp, email). Sai.",
+          "Email kèm dữ liệu giấy báo trúng tuyển + hộ chiếu. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "応募", "r": "おうぼ", "hv": "ỨNG MỘ", "vi": "ứng tuyển, đăng ký" },
+          { "w": "持参", "r": "じさん", "hv": "TRÌ THAM", "vi": "mang đến trực tiếp" },
+          { "w": "必着", "r": "ひっちゃく", "hv": "TẤT TRƯỚC", "vi": "phải đến nơi (trước hạn)" },
+          { "w": "合格通知書", "r": "ごうかくつうちしょ", "hv": "HỢP CÁCH THÔNG TRI THƯ", "vi": "giấy báo trúng tuyển" },
+          { "w": "海外在住者", "r": "かいがいざいじゅうしゃ", "hv": "HẢI NGOẠI TẠI TRÚ GIẢ", "vi": "người sống ở nước ngoài" }
+        ],
+        "grammar": null,
+        "evidence": "5. 応募方法：必要な書類を郵送または持参してください。（海外在住者はEメールでの提出も可）／③パスポート「写真およびパスポート番号のページ」のコピー（入学予定者のみ）／Eメール提出の場合、②、③は画像データを添付してください。",
+        "tip": "FAX chỉ xuất hiện ở số điện thoại liên hệ – không phải phương thức nộp hồ sơ. Bẫy hay gặp!"
+      }
+    }
+  ]
+}

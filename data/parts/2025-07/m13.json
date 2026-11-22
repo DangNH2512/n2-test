@@ -1,0 +1,114 @@
+{
+  "exam": "2025-07",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn sau và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "以下は、数学を学ぶ人に向けて書かれた文章である。",
+      "text": "　よく①<u>「分かる」とは「分ける」ことだ</u>と言われます。みなさんの頭の中に沢山のラベルがつけられた「箱」があるとイメージしてみてください。みなさんは郵便局員のように入ってくる情報に対して、これはこっちの箱、これはこっちの箱と仕分けをしていきます。新しい情報を頭の中のしかるべき（注1）「箱」に入れることが「分かる」ことであり、どの箱にいれるべきかを的確にガイドしてくれる説明がいわゆる「分かりやすい説明」というわけです。\n　しかし、もしやってきた情報が、みなさんにとって新しい概念（注2）であったらどうでしょう。それはみなさんの持っているどの箱にも分類できないようなものです。「分けられない」のですから「分からない」、その「分からない」状態でいることに私達は我慢できなくなってしまうのですね。そんなとき、その概念を手近な箱に無理やり押し込んでくれる説明があると、それを「分かりやすい」と感じてしまいがちです。でもそれはみなさんを安心させるためのその場しのぎの（注3）説明、確かに分かったつもりにはなれるでしょうが、誤った箱に入れられた情報は二度と顧みられる（注4）ことはなく、本質的な（注5）理解からは永遠に遠ざかったままになってしまいます。②<u>これ</u>が「分かりやすさ」のとても危険な落とし穴なのです。\n　学習においてとても大切な姿勢は何か、それは「分からないを分からないものとして一旦受け入れるということ」だと僕は思うのです。言ってみれば「分からない」というラベルのついた「箱」を作り、行き場のない情報はひとまずそこに放り込んでおくということです。もちろんそれは少し居心地が悪いことかもしれません。でもその違和感（注6）をうまく飼いならし（注7）ながら、ときどきは箱の中をチラチラと眺めながら先に進んでいくと、不思議なもので「分からない」の箱にいれておいたいくつかの情報が結びつき、きちんと意味を持ちはじめる日がくるのです。頭の中にその概念をおさめる新しい「箱」が立ち上がる。これが真の「エウレカ（分かったぞ！）」の瞬間です。「分からない」は学びの障害物ではありません。むしろ学びにおいてなくてはならない重要な通過点なのです。\n（注1）しかるべき：適切な\n（注2）概念：ここでは、意味内容\n（注3）その場しのぎの：とりあえずの\n（注4）顧みる：振り返る\n（注5）本質的な：ここでは、本当の\n（注6）違和感：何か違うという感覚\n（注7）飼いならす：ここでは、受け入れる"
+    }
+  ],
+  "questions": [
+    {
+      "num": 67,
+      "passage": "p1",
+      "stem": "なぜ①<u>「分かる」とは「分ける」ことだ</u>と言われるのか。",
+      "options": [
+        "「分かる」とは、新しい情報を頭の中にある知識と関連づけて分類することだから。",
+        "「分かる」とは、新しい情報と頭の中にある知識との違いを明らかにすることだから。",
+        "「分かる」とは、新しい情報を頭の中に入れるものと入れないものに分けることだから。",
+        "「分かる」とは、新しい情報をどう分類すべきかを教えてくれる説明を選ぶことだから。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Vì sao người ta nói 'hiểu' là 'phân chia'? → Vì 'hiểu' là liên kết thông tin mới với kiến thức có sẵn trong đầu rồi phân loại nó.",
+        "why": "Trong đầu có nhiều 'hộp' có nhãn (= kiến thức đã có); 'hiểu' là bỏ thông tin mới vào đúng hộp thích hợp – tức là gắn với kiến thức có sẵn và phân loại → đáp án 1.",
+        "options": [
+          "Liên kết với kiến thức sẵn có và phân loại. ĐÚNG.",
+          "Không phải làm rõ 'sự khác biệt' giữa thông tin mới và kiến thức cũ. Sai.",
+          "Không phải chia thành 'cho vào' và 'không cho vào'; mọi thông tin đều được phân vào hộp. Sai.",
+          "Lời giải thích chỉ là 'người hướng dẫn'; 'hiểu' không phải là việc chọn lời giải thích. Sai."
+        ],
+        "vocab": [
+          { "w": "仕分け", "r": "しわけ", "hv": "SĨ PHÂN", "vi": "phân loại, sắp xếp" },
+          { "w": "しかるべき", "r": "しかるべき", "hv": "", "vi": "thích đáng, phù hợp" },
+          { "w": "的確", "r": "てきかく", "hv": "ĐÍCH XÁC", "vi": "chính xác, đúng đắn" },
+          { "w": "分類する", "r": "ぶんるいする", "hv": "PHÂN LOẠI", "vi": "phân loại" }
+        ],
+        "grammar": null,
+        "evidence": "新しい情報を頭の中のしかるべき「箱」に入れることが「分かる」ことであり、どの箱にいれるべきかを的確にガイドしてくれる説明がいわゆる「分かりやすい説明」というわけです。",
+        "tip": "Ẩn dụ: 'hộp có nhãn' = kiến thức sẵn có trong đầu."
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p1",
+      "stem": "②<u>これ</u>とは何か。",
+      "options": [
+        "どの箱に入れればよいか分からず、結局どの箱にも入れられないこと",
+        "適切な箱に入れたか誤った箱に入れたか、分からなくなってしまうこと",
+        "誤った箱に入れたと分かっていても、気になってしまうこと",
+        "誤った箱に入れたのに、適切な箱に入れたつもりになって忘れてしまうこと"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "'Điều này' là gì? → Dù đã bỏ vào sai hộp nhưng lại tưởng là đã bỏ đúng hộp rồi quên luôn.",
+        "why": "Câu ngay trước: lời giải thích tạm bợ khiến ta 'tưởng là đã hiểu' (分かったつもり), thông tin bị bỏ nhầm hộp thì không bao giờ được xem lại (二度と顧みられることはなく), mãi xa rời hiểu biết thực sự. これ chỉ toàn bộ tình trạng đó → đáp án 4.",
+        "options": [
+          "Thông tin vẫn bị nhét vào hộp gần nhất, không phải 'không cho vào hộp nào'. Sai.",
+          "Không nói là không biết đúng hay sai hộp; vấn đề là tưởng mình đúng. Sai.",
+          "Ngược lại: người ta không bận tâm, không xem lại. Sai.",
+          "Nhầm hộp nhưng tưởng đúng rồi quên đi. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "押し込む", "r": "おしこむ", "hv": "ÁP", "vi": "nhét vào, ấn vào" },
+          { "w": "その場しのぎ", "r": "そのばしのぎ", "hv": "", "vi": "tạm bợ, chữa cháy" },
+          { "w": "顧みる", "r": "かえりみる", "hv": "CỐ", "vi": "nhìn lại, ngoảnh lại" },
+          { "w": "落とし穴", "r": "おとしあな", "hv": "LẠC HUYỆT", "vi": "cạm bẫy" }
+        ],
+        "grammar": {
+          "pattern": "～がちだ",
+          "meaning": "hay, dễ có xu hướng ~ (thường là điều không tốt)",
+          "form": "Vます／N ＋ がちだ",
+          "example": "冬は風邪をひきがちだ。"
+        },
+        "evidence": "確かに分かったつもりにはなれるでしょうが、誤った箱に入れられた情報は二度と顧みられることはなく、本質的な理解からは永遠に遠ざかったままになってしまいます。②これが「分かりやすさ」のとても危険な落とし穴なのです。",
+        "tip": "Câu hỏi chỉ thị từ (これ/それ): đọc kỹ câu ngay trước."
+      }
+    },
+    {
+      "num": 69,
+      "passage": "p1",
+      "stem": "筆者が言いたいことは何か。",
+      "options": [
+        "「分からない」点が分かるようになることが学習だ。",
+        "「分からない」点が多くあるほうが、よい学習につながる。",
+        "学習においては、「分からない」状態を大切にする態度が重要だ。",
+        "学習においては、「分からない」状態から抜け出せるまで考えたほうがいい。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tác giả muốn nói gì? → Trong học tập, thái độ trân trọng trạng thái 'chưa hiểu' là quan trọng.",
+        "why": "Tác giả: thái độ quan trọng nhất là 'chấp nhận cái chưa hiểu như là cái chưa hiểu', tạo hộp 'chưa hiểu' và chung sống với nó; 'chưa hiểu' không phải chướng ngại mà là điểm đi qua không thể thiếu → đáp án 3.",
+        "options": [
+          "Quá chung chung; tác giả nhấn mạnh thái độ chấp nhận cái chưa hiểu, không định nghĩa học tập như vậy. Sai.",
+          "Không nói càng nhiều điểm chưa hiểu càng tốt. Sai.",
+          "Trân trọng trạng thái 'chưa hiểu'. ĐÚNG.",
+          "Ngược ý: tác giả khuyên tạm để đó và tiếp tục đi tiếp, không phải nghĩ đến khi thoát ra. Sai."
+        ],
+        "vocab": [
+          { "w": "一旦", "r": "いったん", "hv": "NHẤT ĐÁN", "vi": "tạm thời, một khi" },
+          { "w": "受け入れる", "r": "うけいれる", "hv": "THỤ NHẬP", "vi": "chấp nhận, tiếp nhận" },
+          { "w": "居心地", "r": "いごこち", "hv": "CƯ TÂM ĐỊA", "vi": "cảm giác khi ở (dễ chịu/khó chịu)" },
+          { "w": "通過点", "r": "つうかてん", "hv": "THÔNG QUÁ ĐIỂM", "vi": "điểm đi qua, chặng đường" }
+        ],
+        "grammar": null,
+        "evidence": "学習においてとても大切な姿勢は何か、それは「分からないを分からないものとして一旦受け入れるということ」だと僕は思うのです。…「分からない」は学びの障害物ではありません。むしろ学びにおいてなくてはならない重要な通過点なのです。",
+        "tip": "Câu hỏi ý chính: tìm câu có 「～だと僕は思う」 và câu kết đoạn cuối."
+      }
+    }
+  ]
+}

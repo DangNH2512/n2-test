@@ -1,0 +1,135 @@
+{
+  "exam": "2011-07",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết Kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "ハトは平和の<u>しょうちょう</u>だと言われている。",
+      "options": ["像徴", "象微", "象徴", "像微"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Người ta nói chim bồ câu là biểu tượng của hòa bình.",
+        "why": "しょうちょう = 象徴 (TƯỢNG TRƯNG) = biểu tượng. Phải dùng 象 (không có bộ nhân 亻) và 徴 (TRƯNG), không phải 微 (VI = nhỏ).",
+        "options": [
+          "像徴 → 像 (TƯỢNG = bức tượng, hình ảnh) sai chữ. Sai.",
+          "象微 → 微 (VI) sai chữ, 微 là nhỏ bé. Sai.",
+          "象徴 → biểu tượng, tượng trưng. ĐÚNG.",
+          "像微 → sai cả hai chữ. Sai."
+        ],
+        "vocab": [
+          { "w": "象徴", "r": "しょうちょう", "hv": "TƯỢNG TRƯNG", "vi": "biểu tượng, tượng trưng" },
+          { "w": "平和", "r": "へいわ", "hv": "BÌNH HÒA", "vi": "hòa bình" },
+          { "w": "特徴", "r": "とくちょう", "hv": "ĐẶC TRƯNG", "vi": "đặc trưng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "徴 (TRƯNG) và 微 (VI) chỉ khác phần giữa: 徴 có 王 bên dưới. 特徴・象徴 đều dùng 徴."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "退院しても、しばらくの間、<u>はげしい</u>運動はしないでください。",
+      "options": ["険しい", "激しい", "暴しい", "極しい"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Dù đã xuất viện, trong một thời gian hãy đừng vận động mạnh.",
+        "why": "はげしい = 激しい (KÍCH) = dữ dội, mạnh mẽ. 激しい運動 = vận động mạnh.",
+        "options": [
+          "険しい → けわしい: dốc đứng, hiểm trở; nghiêm nghị. Sai.",
+          "激しい → はげしい: dữ dội, mãnh liệt. ĐÚNG.",
+          "暴しい → không có từ này (暴れる あばれる = quậy phá). Sai.",
+          "極しい → không có từ này (極めて きわめて = cực kỳ). Sai."
+        ],
+        "vocab": [
+          { "w": "激しい", "r": "はげしい", "hv": "KÍCH", "vi": "dữ dội, mãnh liệt" },
+          { "w": "険しい", "r": "けわしい", "hv": "HIỂM", "vi": "hiểm trở, dốc" },
+          { "w": "退院", "r": "たいいん", "hv": "THOÁI VIỆN", "vi": "xuất viện" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "激 còn trong 感激 (かんげき: cảm kích), 刺激 (しげき: kích thích)."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "携帯電話に友達の電話番号を<u>とうろく</u>した。",
+      "options": ["登録", "登緑", "答録", "答緑"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đã lưu (đăng ký) số điện thoại của bạn vào điện thoại di động.",
+        "why": "とうろく = 登録 (ĐĂNG LỤC) = đăng ký, lưu lại. 録 (LỤC = ghi chép) có bộ kim 金; 緑 (LỤC = màu xanh lá) có bộ mịch 糸.",
+        "options": [
+          "登録 → đăng ký, lưu. ĐÚNG.",
+          "登緑 → 緑 (みどり: màu xanh) sai chữ. Sai.",
+          "答録 → 答 (ĐÁP: trả lời) sai chữ. Sai.",
+          "答緑 → sai cả hai chữ. Sai."
+        ],
+        "vocab": [
+          { "w": "登録", "r": "とうろく", "hv": "ĐĂNG LỤC", "vi": "đăng ký, lưu lại" },
+          { "w": "記録", "r": "きろく", "hv": "KÝ LỤC", "vi": "ghi chép, kỷ lục" },
+          { "w": "携帯電話", "r": "けいたいでんわ", "hv": "HUỀ ĐỚI ĐIỆN THOẠI", "vi": "điện thoại di động" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Ghi chép (録音、記録) dùng bộ 金; màu xanh (緑) dùng bộ 糸."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "岡田さんを話題の映画に<u>さそった</u>。",
+      "options": ["招った", "勧った", "請った", "誘った"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi đã rủ anh Okada đi xem bộ phim đang gây chú ý.",
+        "why": "さそう = 誘う (DỤ) = rủ rê, mời. Thể た: 誘った.",
+        "options": [
+          "招った → 招く đọc まねく (mời, chiêu đãi), không đọc さそう. Sai.",
+          "勧った → 勧める đọc すすめる (khuyên). Sai.",
+          "請った → 請う đọc こう (thỉnh cầu). Sai.",
+          "誘った → さそった: đã rủ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "誘う", "r": "さそう", "hv": "DỤ", "vi": "rủ, mời" },
+          { "w": "招く", "r": "まねく", "hv": "CHIÊU", "vi": "mời, chiêu đãi; gây ra" },
+          { "w": "話題", "r": "わだい", "hv": "THOẠI ĐỀ", "vi": "chủ đề bàn tán, đang hot" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "誘 (DỤ) có bộ ngôn 言 – rủ rê bằng lời nói. 勧誘 (かんゆう) = mời chào."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "待ち合わせの時間を6時に<u>へんこう</u>してもらった。",
+      "options": ["変改", "変更", "変換", "変替"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi đã nhờ (đối phương) đổi giờ hẹn gặp sang 6 giờ.",
+        "why": "へんこう = 変更 (BIẾN CANH) = thay đổi (kế hoạch, thời gian). 更 đọc こう.",
+        "options": [
+          "変改 → không phải từ thông dụng (改 đọc かい). Sai.",
+          "変更 → へんこう: thay đổi. ĐÚNG.",
+          "変換 → へんかん: chuyển đổi (ví dụ chuyển kana sang kanji). Sai.",
+          "変替 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "変更", "r": "へんこう", "hv": "BIẾN CANH", "vi": "thay đổi" },
+          { "w": "変換", "r": "へんかん", "hv": "BIẾN HOÁN", "vi": "chuyển đổi" },
+          { "w": "待ち合わせ", "r": "まちあわせ", "hv": "", "vi": "hẹn gặp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "更 = こう: 更新 (こうしん: gia hạn, cập nhật), 更に (さらに: hơn nữa)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "exam": "2022-07",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "その当時の<u>記憶</u>があまりない。",
+      "options": ["きりょく", "きよく", "きろく", "きおく"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi không còn nhiều ký ức về thời đó.",
+        "why": "記憶 đọc là きおく (KÝ ỨC) = ký ức, trí nhớ. 憶 chỉ có âm On là おく (giống 億 おく).",
+        "options": [
+          "きりょく → 気力: khí lực, sức lực tinh thần. Sai.",
+          "きよく → không có từ phù hợp nghĩa. Sai.",
+          "きろく → 記録: ghi chép, kỷ lục. Sai (bẫy cùng chữ 記).",
+          "きおく → 記憶: ký ức, trí nhớ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "記憶", "r": "きおく", "hv": "KÝ ỨC", "vi": "ký ức, trí nhớ" },
+          { "w": "当時", "r": "とうじ", "hv": "ĐƯƠNG THỜI", "vi": "thời đó, lúc bấy giờ" },
+          { "w": "記録", "r": "きろく", "hv": "KÝ LỤC", "vi": "ghi chép, kỷ lục" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "憶・億・臆 đều đọc おく (cùng phần âm 意). 記憶力 = きおくりょく (trí nhớ)."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "前田さんがそんなに<u>偉い</u>人だとは知りませんでした。",
+      "options": ["かしこい", "えらい", "すごい", "するどい"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi không biết anh Maeda lại là người vĩ đại / có địa vị cao như vậy.",
+        "why": "偉い đọc là えらい (VĨ) = vĩ đại, giỏi giang, có địa vị cao.",
+        "options": [
+          "かしこい → 賢い: thông minh, khôn ngoan. Sai.",
+          "えらい → 偉い: vĩ đại, có địa vị. ĐÚNG.",
+          "すごい → 凄い: ghê gớm, tuyệt vời. Sai.",
+          "するどい → 鋭い: sắc bén, nhạy bén. Sai."
+        ],
+        "vocab": [
+          { "w": "偉い", "r": "えらい", "hv": "VĨ", "vi": "vĩ đại, giỏi, có địa vị cao" },
+          { "w": "偉大", "r": "いだい", "hv": "VĨ ĐẠI", "vi": "vĩ đại" },
+          { "w": "賢い", "r": "かしこい", "hv": "HIỀN", "vi": "thông minh, khôn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "偉: âm Kun えら(い), âm On い (偉大 いだい, 偉人 いじん)."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "私が仕事の話を始めたら、<u>途端に</u>西田さんの機嫌が悪くなった。",
+      "options": ["とたんに", "とうたんに", "たんとに", "たんとうに"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Ngay khi tôi bắt đầu nói chuyện công việc, tâm trạng của anh Nishida liền trở nên tệ đi.",
+        "why": "途端に đọc là とたんに (ĐỒ ĐOAN) = ngay khi, vừa mới… thì. 途 đọc と (ngắn, không kéo dài), 端 đọc たん.",
+        "options": [
+          "とたんに → 途端に: ngay lúc đó. ĐÚNG.",
+          "とうたんに → kéo dài sai âm と thành とう. Sai.",
+          "たんとに → đảo thứ tự âm. Sai.",
+          "たんとうに → 担当 (たんとう: phụ trách) — bẫy âm. Sai."
+        ],
+        "vocab": [
+          { "w": "途端に", "r": "とたんに", "hv": "ĐỒ ĐOAN", "vi": "ngay khi, vừa lúc" },
+          { "w": "機嫌", "r": "きげん", "hv": "CƠ HIỀM", "vi": "tâm trạng, tâm tính" },
+          { "w": "途中", "r": "とちゅう", "hv": "ĐỒ TRUNG", "vi": "giữa chừng, dọc đường" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Mẫu ngữ pháp Vた途端（に）= vừa mới V thì (điều bất ngờ) xảy ra. 途 luôn đọc と ngắn: 途中, 途端, 前途."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "スピーチ大会の司会を<u>務める</u>。",
+      "options": ["まとめる", "やめる", "さだめる", "つとめる"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đảm nhận vai trò dẫn chương trình cho cuộc thi hùng biện.",
+        "why": "務める đọc là つとめる (VỤ) = đảm nhận (vai trò, chức vụ). ～を務める: 司会を務める, 議長を務める.",
+        "options": [
+          "まとめる → 纏める: tổng hợp, gom lại. Sai.",
+          "やめる → 辞める/止める: nghỉ, bỏ. Sai.",
+          "さだめる → 定める: quy định, xác định. Sai.",
+          "つとめる → 務める: đảm nhận vai trò. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "務める", "r": "つとめる", "hv": "VỤ", "vi": "đảm nhận (vai trò)" },
+          { "w": "司会", "r": "しかい", "hv": "TƯ HỘI", "vi": "dẫn chương trình, chủ trì" },
+          { "w": "勤める", "r": "つとめる", "hv": "CẦN", "vi": "làm việc (ở công ty)" },
+          { "w": "努める", "r": "つとめる", "hv": "NỖ", "vi": "nỗ lực" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "3 chữ cùng đọc つとめる: 務める (vai trò), 勤める (làm việc ở đâu đó), 努める (nỗ lực)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "これは特別な<u>素材</u>で作られているそうだ。",
+      "options": ["そうざい", "しょうざい", "そざい", "しょざい"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nghe nói cái này được làm từ chất liệu đặc biệt.",
+        "why": "素材 đọc là そざい (TỐ TÀI) = chất liệu, nguyên liệu. 素 đọc そ (ngắn), 材 đọc ざい.",
+        "options": [
+          "そうざい → 惣菜: món ăn làm sẵn. Sai.",
+          "しょうざい → không có từ phù hợp. Sai.",
+          "そざい → 素材: chất liệu. ĐÚNG.",
+          "しょざい → 所在: chỗ ở, vị trí. Sai."
+        ],
+        "vocab": [
+          { "w": "素材", "r": "そざい", "hv": "TỐ TÀI", "vi": "chất liệu, nguyên liệu" },
+          { "w": "材料", "r": "ざいりょう", "hv": "TÀI LIỆU", "vi": "nguyên liệu, vật liệu" },
+          { "w": "素直", "r": "すなお", "hv": "TỐ TRỰC", "vi": "ngoan, thật thà" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "素 có 2 âm: そ (素材, 要素, 酸素) và す (素直, 素顔). Không bao giờ kéo dài thành そう."
+      }
+    }
+  ]
+}

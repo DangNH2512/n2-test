@@ -1,0 +1,165 @@
+{
+  "exam": "2010-12",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn câu dùng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "はずす",
+      "options": [
+        "歯医者で虫歯を<u>はずして</u>もらった。",
+        "腕時計を<u>はずして</u>、机の上に置いた。",
+        "家に入る前に、靴の汚れを<u>はずした</u>。",
+        "食事の後、テーブルから皿を<u>はずした</u>。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi tháo đồng hồ đeo tay ra và đặt lên bàn.",
+        "why": "外す (はずす) = tháo ra, gỡ ra thứ đang gắn/đeo (đồng hồ, kính, cúc áo, nhẫn). 腕時計を外す là cách dùng chuẩn.",
+        "options": [
+          "Nhổ răng sâu phải là 虫歯を抜いて (ぬいて) もらった. Sai.",
+          "腕時計を外す: tháo đồng hồ. ĐÚNG.",
+          "Làm sạch vết bẩn phải là 汚れを落とした (おとした). Sai.",
+          "Dọn đĩa khỏi bàn phải là 皿を下げた／片付けた. Sai."
+        ],
+        "vocab": [
+          { "w": "外す", "r": "はずす", "hv": "NGOẠI", "vi": "tháo ra, gỡ ra; vắng mặt (席を外す)" },
+          { "w": "腕時計", "r": "うでどけい", "hv": "OẢN THỜI KẾ", "vi": "đồng hồ đeo tay" },
+          { "w": "抜く", "r": "ぬく", "hv": "BẠT", "vi": "nhổ, rút ra" },
+          { "w": "汚れ", "r": "よごれ", "hv": "Ô", "vi": "vết bẩn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "外す còn dùng: 眼鏡を外す (tháo kính), 席を外す (rời chỗ một lát), 予想が外れる (đoán sai)."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "普及",
+      "options": [
+        "携帯電話は急速に<u>普及</u>してきている。",
+        "今、若者の間ではこんなうわさが<u>普及</u>している。",
+        "この病気は人から人へ<u>普及</u>する可能性がある。",
+        "あの大臣の発言は国際問題にまで<u>普及</u>した。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điện thoại di động đang phổ cập nhanh chóng.",
+        "why": "普及 (ふきゅう, PHỔ CẬP) = (sản phẩm, công nghệ, kiến thức) lan rộng ra toàn xã hội, được nhiều người sử dụng. 携帯電話が普及する là ví dụ điển hình.",
+        "options": [
+          "Điện thoại di động phổ cập nhanh. ĐÚNG.",
+          "Tin đồn lan ra phải dùng うわさが広まっている／流れている. Sai.",
+          "Bệnh lây từ người sang người phải là 感染する／うつる. Sai.",
+          "Phát ngôn lan đến thành vấn đề quốc tế phải là 発展した／波及した. Sai."
+        ],
+        "vocab": [
+          { "w": "普及", "r": "ふきゅう", "hv": "PHỔ CẬP", "vi": "phổ cập, phổ biến rộng rãi" },
+          { "w": "急速", "r": "きゅうそく", "hv": "CẤP TỐC", "vi": "nhanh chóng" },
+          { "w": "感染", "r": "かんせん", "hv": "CẢM NHIỄM", "vi": "lây nhiễm" },
+          { "w": "波及", "r": "はきゅう", "hv": "BA CẬP", "vi": "lan tỏa ảnh hưởng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "普及 dùng cho thứ ‘có ích được nhiều người dùng’: パソコン・インターネット・技術が普及する."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "注目",
+      "options": [
+        "きれいな眺めに<u>注目</u>して、時間がたつのを忘れた。",
+        "寝不足で<u>注目</u>が足りないと、仕事でミスが多くなる。",
+        "来月の選挙の結果が<u>注目</u>されている。",
+        "この問題を別の<u>注目</u>から見てみよう。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Kết quả cuộc bầu cử tháng sau đang được chú ý.",
+        "why": "注目 (ちゅうもく, CHÚ MỤC) = sự chú ý, quan tâm của nhiều người. ～が注目される = được (dư luận) chú ý.",
+        "options": [
+          "Ngắm cảnh đẹp đến quên thời gian phải là 眺めに見とれて (みとれて). Sai.",
+          "Thiếu tập trung phải là 注意力／集中力が足りない. Sai.",
+          "Kết quả bầu cử được chú ý. ĐÚNG.",
+          "Nhìn từ góc độ khác phải là 別の観点／視点から. Sai."
+        ],
+        "vocab": [
+          { "w": "注目", "r": "ちゅうもく", "hv": "CHÚ MỤC", "vi": "chú ý, quan tâm" },
+          { "w": "選挙", "r": "せんきょ", "hv": "TUYỂN CỬ", "vi": "bầu cử" },
+          { "w": "見とれる", "r": "みとれる", "hv": "KIẾN", "vi": "ngắm say mê" },
+          { "w": "観点", "r": "かんてん", "hv": "QUAN ĐIỂM", "vi": "góc nhìn, quan điểm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "注目を集める = thu hút sự chú ý; 注意 = cẩn thận, lưu ý (khác 注目)."
+      }
+    },
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "ふさわしい",
+      "options": [
+        "中川さんの指摘は、いつも<u>ふさわしい</u>です。",
+        "彼は責任感が強く、この仕事のリーダーに<u>ふさわしい</u>。",
+        "私に<u>ふさわしい</u>サイズの帽子がやっと見つかった。",
+        "私、あの人とは性格が<u>ふさわしい</u>んです。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh ấy có tinh thần trách nhiệm cao, xứng đáng làm trưởng nhóm của công việc này.",
+        "why": "ふさわしい (相応しい) = xứng đáng, phù hợp với tư cách/vị trí/hoàn cảnh. 「AはBにふさわしい」 = A xứng với B.",
+        "options": [
+          "Lời chỉ ra chính xác phải là 的確だ／適切だ. Sai.",
+          "Xứng đáng làm leader. ĐÚNG.",
+          "Kích cỡ vừa với tôi phải là ぴったりの／合う サイズ. Sai.",
+          "Hợp tính nhau phải là 性格が合う. Sai."
+        ],
+        "vocab": [
+          { "w": "相応しい", "r": "ふさわしい", "hv": "TƯƠNG ỨNG", "vi": "xứng đáng, phù hợp" },
+          { "w": "責任感", "r": "せきにんかん", "hv": "TRÁCH NHIỆM CẢM", "vi": "tinh thần trách nhiệm" },
+          { "w": "指摘", "r": "してき", "hv": "CHỈ TRÍCH", "vi": "chỉ ra (lỗi, vấn đề)" },
+          { "w": "的確", "r": "てきかく", "hv": "ĐÍCH XÁC", "vi": "chính xác, đúng trọng tâm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ふさわしい nói về ‘tư cách/giá trị phù hợp’ (人物・服装・場所), không dùng cho kích cỡ vật lý."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "保つ",
+      "options": [
+        "山田さんは、いつも約束の時間を<u>保つ</u>人です。",
+        "一人で全部食べないで、私の分も<u>保って</u>おいてください。",
+        "あとで捨てるので、ごみはそのまま<u>保って</u>おいていいですよ。",
+        "健康を<u>保つ</u>ためには、バランスのいい食事と運動が大切だ。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Để giữ gìn sức khỏe, ăn uống cân bằng và vận động là quan trọng.",
+        "why": "保つ (たもつ, BẢO) = duy trì, giữ một trạng thái không đổi (健康・温度・秩序・距離を保つ).",
+        "options": [
+          "Giữ đúng giờ hẹn phải là 約束の時間を守る (まもる). Sai.",
+          "Để phần cho tôi phải là 私の分も残して／取っておいて. Sai.",
+          "Cứ để rác nguyên đó phải là そのまま置いておいて／にしておいて. Sai.",
+          "健康を保つ: duy trì sức khỏe. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "保つ", "r": "たもつ", "hv": "BẢO", "vi": "duy trì, giữ gìn (trạng thái)" },
+          { "w": "守る", "r": "まもる", "hv": "THỦ", "vi": "giữ (lời hứa, quy tắc); bảo vệ" },
+          { "w": "残す", "r": "のこす", "hv": "TÀN", "vi": "để lại" },
+          { "w": "健康", "r": "けんこう", "hv": "KIỆN KHANG", "vi": "sức khỏe" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "保つ + trạng thái (健康・若さ・一定の温度・距離); 守る + quy tắc/lời hứa (約束・時間・ルール)."
+      }
+    }
+  ]
+}

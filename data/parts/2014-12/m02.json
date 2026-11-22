@@ -1,0 +1,139 @@
+{
+  "exam": "2014-12",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết Kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "<u>くわしい</u>ことは、あとで担当の先生に聞いてください。",
+      "options": ["許しい", "詳しい", "討しい", "評しい"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Chi tiết thì lát nữa hãy hỏi giáo viên phụ trách.",
+        "why": "くわしい viết là 詳しい (TƯỜNG) = chi tiết, tỉ mỉ. 4 chữ đều có bộ 言 nhưng chỉ 詳 mang nghĩa 'tường tận'.",
+        "options": [
+          "許しい → 許 (HỨA): 許す (ゆるす) = cho phép. Không có 許しい. Sai.",
+          "詳しい → くわしい: chi tiết, tường tận. ĐÚNG.",
+          "討しい → 討 (THẢO): 検討 (けんとう) = xem xét. Sai.",
+          "評しい → 評 (BÌNH): 評価 (ひょうか) = đánh giá. Sai."
+        ],
+        "vocab": [
+          { "w": "詳しい", "r": "くわしい", "hv": "TƯỜNG", "vi": "chi tiết, tỉ mỉ; am hiểu" },
+          { "w": "担当", "r": "たんとう", "hv": "ĐẢM ĐƯƠNG", "vi": "phụ trách" },
+          { "w": "詳細", "r": "しょうさい", "hv": "TƯỜNG TẾ", "vi": "chi tiết" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "詳 = 言 + 羊: nói cặn kẽ → tường tận. 詳細 (しょうさい) là âm On."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "兄は学費の<u>えんじょ</u>を受けて大学に通いました。",
+      "options": ["補助", "援財", "補財", "援助"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh trai tôi nhận được hỗ trợ học phí để đi học đại học.",
+        "why": "えんじょ viết là 援助 (VIỆN TRỢ) = viện trợ, giúp đỡ. 援 = えん, 助 = じょ.",
+        "options": [
+          "補助 → đọc ほじょ (BỔ TRỢ): trợ cấp, bổ trợ. Nghĩa gần nhưng cách đọc khác. Sai.",
+          "援財 → không có từ này (財 = ざい). Sai.",
+          "補財 → không có từ này. Sai.",
+          "援助 → えんじょ: viện trợ, giúp đỡ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "援助", "r": "えんじょ", "hv": "VIỆN TRỢ", "vi": "viện trợ, hỗ trợ" },
+          { "w": "補助", "r": "ほじょ", "hv": "BỔ TRỢ", "vi": "trợ cấp, phụ trợ" },
+          { "w": "学費", "r": "がくひ", "hv": "HỌC PHÍ", "vi": "học phí" },
+          { "w": "応援", "r": "おうえん", "hv": "ỨNG VIỆN", "vi": "cổ vũ, ủng hộ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "援 có trong 応援 (おうえん). 補助 cũng là từ thật — hãy kiểm tra cách đọc, không chỉ nghĩa."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "物を入れすぎて袋が<u>やぶれて</u>しまった。",
+      "options": ["被れて", "割れて", "破れて", "削れて"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Cho quá nhiều đồ vào nên cái túi bị rách mất rồi.",
+        "why": "やぶれる viết là 破れる (PHÁ) = rách, thủng (giấy, vải, túi).",
+        "options": [
+          "被れて → 被 (BỊ): 被る (かぶる) = đội; かぶれる = bị dị ứng da. Sai.",
+          "割れて → 割れる (われる): vỡ (kính, bát). Sai.",
+          "破れて → 破れる (やぶれる): rách. ĐÚNG.",
+          "削れて → 削れる (けずれる): bị gọt, bị mài mòn. Sai."
+        ],
+        "vocab": [
+          { "w": "破れる", "r": "やぶれる", "hv": "PHÁ", "vi": "rách, thủng" },
+          { "w": "袋", "r": "ふくろ", "hv": "ĐẠI", "vi": "cái túi" },
+          { "w": "割れる", "r": "われる", "hv": "CÁT", "vi": "vỡ, nứt" },
+          { "w": "削る", "r": "けずる", "hv": "TƯỚC", "vi": "gọt, cắt giảm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "破れる: vật mềm bị rách (giấy, vải). 割れる: vật cứng bị vỡ (kính, trứng)."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "これは少し<u>めんどう</u>な仕事ですね。",
+      "options": ["面到", "免倒", "面倒", "免到"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đây là một công việc hơi phiền phức nhỉ.",
+        "why": "めんどう viết là 面倒 (DIỆN ĐẢO) = phiền phức, rắc rối. 面 = めん (mặt), 倒 = とう→どう (đổ).",
+        "options": [
+          "面到 → 到 (ĐÁO) như 到着 (とうちゃく). Sai.",
+          "免倒 → 免 (MIỄN) như 免許 (めんきょ). Sai.",
+          "面倒 → めんどう: phiền phức. ĐÚNG.",
+          "免到 → sai cả hai chữ. Sai."
+        ],
+        "vocab": [
+          { "w": "面倒", "r": "めんどう", "hv": "DIỆN ĐẢO", "vi": "phiền phức, rắc rối" },
+          { "w": "倒れる", "r": "たおれる", "hv": "ĐẢO", "vi": "đổ, ngã" },
+          { "w": "免許", "r": "めんきょ", "hv": "MIỄN HỨA", "vi": "giấy phép" },
+          { "w": "到着", "r": "とうちゃく", "hv": "ĐÁO TRƯỚC", "vi": "đến nơi" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "倒 có bộ 亻 (người) → người ngã. 到 không có bộ 亻. 面倒を見る = chăm sóc."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "家に帰る途中、手帳を<u>ひろった</u>。",
+      "options": ["拾った", "採った", "捨った", "授った"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Trên đường về nhà, tôi đã nhặt được một cuốn sổ tay.",
+        "why": "ひろう viết là 拾う (THẬP) = nhặt, lượm.",
+        "options": [
+          "拾った → 拾う (ひろう): nhặt. ĐÚNG.",
+          "採った → 採る (とる): hái, thu thập; tuyển dụng. Sai.",
+          "捨った → 捨 (XẢ) đọc すてる = vứt bỏ, không có 捨う. Sai.",
+          "授った → 授 (THỤ): 授ける (さずける) = ban tặng. Sai."
+        ],
+        "vocab": [
+          { "w": "拾う", "r": "ひろう", "hv": "THẬP", "vi": "nhặt, lượm" },
+          { "w": "捨てる", "r": "すてる", "hv": "XẢ", "vi": "vứt bỏ" },
+          { "w": "手帳", "r": "てちょう", "hv": "THỦ TRƯƠNG", "vi": "sổ tay" },
+          { "w": "途中", "r": "とちゅう", "hv": "ĐỒ TRUNG", "vi": "giữa đường, giữa chừng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "拾 (nhặt) và 捨 (vứt) trái nghĩa, hình dạng gần giống: 拾 có 合, 捨 có 舎."
+      }
+    }
+  ]
+}

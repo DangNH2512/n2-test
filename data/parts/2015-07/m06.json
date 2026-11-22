@@ -1,0 +1,164 @@
+{
+  "exam": "2015-07",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn câu sử dụng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "温暖",
+      "options": [
+        "佐藤さんはいつも厳しいが、本当はとても<u>温暖</u>な性格の人だ。",
+        "冷めるとおいしくないので、なるべく<u>温暖</u>なうちに召し上がってください。",
+        "この地方は<u>温暖</u>で暮らしやすく、野菜や果物などの農産物も豊富だ。",
+        "エアコンをつけたら、部屋の中が<u>温暖</u>になって眠くなってきた。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vùng này khí hậu ấm áp, dễ sống, nông sản như rau và trái cây cũng phong phú.",
+        "why": "温暖 (おんだん) = ôn hòa, ấm áp, chỉ dùng cho KHÍ HẬU của một vùng/trái đất (温暖な気候, 地球温暖化). Câu 3 nói về khí hậu của một địa phương → đúng.",
+        "options": [
+          "Tính cách hiền hòa → phải dùng 温厚 (おんこう) hoặc 穏やか. Sai.",
+          "Đồ ăn còn ấm → phải dùng 温かい (あたたかい). Sai.",
+          "Khí hậu của vùng ấm áp. ĐÚNG.",
+          "Phòng ấm lên nhờ điều hòa → phải dùng 暖かく (あたたかく). Sai."
+        ],
+        "vocab": [
+          { "w": "温暖", "r": "おんだん", "hv": "ÔN NOÃN", "vi": "ấm áp, ôn hòa (khí hậu)" },
+          { "w": "温暖化", "r": "おんだんか", "hv": "ÔN NOÃN HÓA", "vi": "sự nóng lên (toàn cầu)" },
+          { "w": "温厚", "r": "おんこう", "hv": "ÔN HẬU", "vi": "hiền hậu, ôn hòa (tính cách)" },
+          { "w": "農産物", "r": "のうさんぶつ", "hv": "NÔNG SẢN VẬT", "vi": "nông sản" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "温暖 chỉ dùng cho 気候/地方. Đồ ăn: 温かい; không khí/phòng: 暖かい; tính cách: 温厚."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "振り向く",
+      "options": [
+        "だれかに後ろから呼ばれたので<u>振り向い</u>たら、課長だった。",
+        "道を渡るときは、左右を<u>振り向い</u>て車が来ないことを確認しよう。",
+        "だれかが空を指さしたので、近くにいた人たちが一斉に上を<u>振り向い</u>た。",
+        "森さんは私を見ると、恥ずかしそうに下を<u>振り向い</u>たまま顔を上げなかった。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Có ai đó gọi từ phía sau nên tôi quay lại, hóa ra là trưởng phòng.",
+        "why": "振り向く (ふりむく) = quay đầu/quay người lại nhìn VỀ PHÍA SAU. Câu 1: bị gọi từ sau lưng → quay lại → đúng.",
+        "options": [
+          "Bị gọi từ phía sau rồi quay lại. ĐÚNG.",
+          "Nhìn trái phải khi qua đường → 左右を見て / 確認して. Sai.",
+          "Nhìn lên trời → 見上げた. Sai.",
+          "Cúi mặt xuống vì ngại → うつむいた / 下を向いた. Sai."
+        ],
+        "vocab": [
+          { "w": "振り向く", "r": "ふりむく", "hv": "CHẤN HƯỚNG", "vi": "quay lại nhìn (phía sau)" },
+          { "w": "見上げる", "r": "みあげる", "hv": "KIẾN THƯỢNG", "vi": "nhìn lên" },
+          { "w": "うつむく", "r": "うつむく", "hv": "", "vi": "cúi đầu, cúi mặt" },
+          { "w": "一斉に", "r": "いっせいに", "hv": "NHẤT TỀ", "vi": "đồng loạt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "振り向く luôn hàm ý hướng về phía sau; hướng lên/xuống/trái phải dùng 見る/向く."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "用途",
+      "options": [
+        "新しい趣味を始めるため、時間の<u>用途</u>を工夫することにした。",
+        "会社での私の<u>用途</u>は、新入社員の指導をすることだ。",
+        "鈴木さんの才能は、多くの<u>用途</u>に生かされるだろう。",
+        "本来の<u>用途</u>ではないが、この容器は花瓶にしてもいいと思う。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tuy không phải mục đích sử dụng vốn có, nhưng tôi nghĩ có thể dùng cái hộp này làm bình hoa.",
+        "why": "用途 (ようと) = công dụng, mục đích sử dụng của ĐỒ VẬT. Câu 4: cái hộp (容器) có công dụng ban đầu khác, nay dùng làm bình hoa → đúng.",
+        "options": [
+          "Cách sử dụng thời gian → 時間の使い方. Sai.",
+          "Vai trò của tôi ở công ty → 役割 / 仕事. Sai.",
+          "Tài năng được phát huy ở nhiều lĩnh vực → 分野 / 場面. Sai.",
+          "Công dụng vốn có của cái hộp. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "用途", "r": "ようと", "hv": "DỤNG ĐỒ", "vi": "công dụng, mục đích sử dụng" },
+          { "w": "本来", "r": "ほんらい", "hv": "BẢN LAI", "vi": "vốn dĩ, ban đầu" },
+          { "w": "容器", "r": "ようき", "hv": "DUNG KHÍ", "vi": "đồ chứa, hộp đựng" },
+          { "w": "役割", "r": "やくわり", "hv": "DỊCH CÁT", "vi": "vai trò" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "用途 chỉ dùng cho vật; người dùng 役割, thời gian dùng 使い方."
+      }
+    },
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "甘やかす",
+      "options": [
+        "今年のA社の就職試験は、昨年より内容が<u>甘やかされ</u>ている。",
+        "林さんは、ずっと親に<u>甘やかされ</u>て育ったせいか、わがままで困る。",
+        "ひどくなったら大変だから、風邪を<u>甘やかされ</u>ないほうがいいですよ。",
+        "今日は、いつもより多めに砂糖を入れて、コーヒーを<u>甘やかした</u>。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh Hayashi có lẽ vì được bố mẹ nuông chiều suốt từ bé nên rất ích kỷ, thật phiền.",
+        "why": "甘やかす (あまやかす) = nuông chiều, chiều chuộng (người, nhất là trẻ con). 親に甘やかされて育つ = lớn lên trong sự nuông chiều của bố mẹ → đúng.",
+        "options": [
+          "Đề thi dễ hơn → 易しくなって / 甘くなって. Sai.",
+          "Được bố mẹ nuông chiều. ĐÚNG.",
+          "Đừng coi thường cảm cúm → 風邪を甘く見ない. Sai.",
+          "Làm cà phê ngọt hơn → コーヒーを甘くした. Sai."
+        ],
+        "vocab": [
+          { "w": "甘やかす", "r": "あまやかす", "hv": "CAM", "vi": "nuông chiều" },
+          { "w": "わがまま", "r": "わがまま", "hv": "", "vi": "ích kỷ, bướng bỉnh" },
+          { "w": "甘く見る", "r": "あまくみる", "hv": "CAM KIẾN", "vi": "coi thường, xem nhẹ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "甘やかす chỉ dùng với người (con cái, bản thân: 自分を甘やかす)."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "行方",
+      "options": [
+        "この写真の二人は事件に関係があるらしいが、まだ<u>行方</u>が分からない。",
+        "慌てていたので、<u>行方</u>を確かめずにバスに乗ってしまった。",
+        "交差点を右に曲がると、<u>行方</u>に黒い高層ビルが見えた。",
+        "日曜日の私の<u>行方</u>はいつも決まっていて、近くの喫茶店か図書館だ。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hai người trong bức ảnh này có vẻ liên quan đến vụ án nhưng vẫn chưa rõ tung tích.",
+        "why": "行方 (ゆくえ) = tung tích, nơi một người/vật đã đi đến mà không ai biết. 行方が分からない / 行方不明 = mất tích → câu 1 đúng.",
+        "options": [
+          "Tung tích của hai người chưa rõ. ĐÚNG.",
+          "Kiểm tra điểm đến của xe buýt → 行き先 (いきさき). Sai.",
+          "Phía trước mặt thấy tòa nhà → 前方 / 正面. Sai.",
+          "Nơi tôi thường đến vào chủ nhật → 行き先. Sai."
+        ],
+        "vocab": [
+          { "w": "行方", "r": "ゆくえ", "hv": "HÀNH PHƯƠNG", "vi": "tung tích, hành tung" },
+          { "w": "行方不明", "r": "ゆくえふめい", "hv": "HÀNH PHƯƠNG BẤT MINH", "vi": "mất tích" },
+          { "w": "行き先", "r": "いきさき", "hv": "HÀNH TIÊN", "vi": "điểm đến, nơi đi" },
+          { "w": "事件", "r": "じけん", "hv": "SỰ KIỆN", "vi": "vụ án, sự vụ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "行方 đọc đặc biệt ゆくえ. Biết rõ điểm đến → 行き先; không biết đi đâu mất → 行方."
+      }
+    }
+  ]
+}

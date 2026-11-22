@@ -1,0 +1,85 @@
+{
+  "exam": "2026-07",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ (tiền tố/hậu tố) thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "（　　）グループから代表者１名を選出してください。",
+      "options": ["部", "毎", "個", "各"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hãy chọn ra 1 người đại diện từ mỗi nhóm.",
+        "why": "各 (かく, CÁC) là tiền tố = mỗi, từng (mỗi cái trong nhóm). 各グループ = từng nhóm. Đây là cách nói cố định: 各国, 各自, 各グループ.",
+        "options": [
+          "部 → ぶ: bộ phận; không làm tiền tố đứng trước danh từ kiểu này. Sai.",
+          "毎 → まい: mỗi (dùng cho thời gian: 毎日, 毎週), không dùng 毎グループ. Sai.",
+          "個 → こ: cá nhân, cái (個人, 個室); 個グループ không tồn tại. Sai.",
+          "各 → かく: mỗi, các. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "各", "r": "かく", "hv": "CÁC", "vi": "mỗi, các" },
+          { "w": "代表者", "r": "だいひょうしゃ", "hv": "ĐẠI BIỂU GIẢ", "vi": "người đại diện" },
+          { "w": "選出", "r": "せんしゅつ", "hv": "TUYỂN XUẤT", "vi": "bầu chọn, chọn ra" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "毎 đi với đơn vị thời gian/lần (毎朝, 毎回); 各 đi với tổ chức, nơi chốn, người (各国, 各部署, 各自)."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "私の国は大統領（　　）を採用している。",
+      "options": ["法", "制", "則", "律"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Nước tôi áp dụng chế độ tổng thống.",
+        "why": "～制 (せい, CHẾ) là hậu tố = chế độ, hệ thống: 大統領制 (chế độ tổng thống), 会員制, 予約制.",
+        "options": [
+          "法 → ほう: luật, phương pháp (文法, 方法). 大統領法 không phải chế độ. Sai.",
+          "制 → せい: chế độ. ĐÚNG.",
+          "則 → そく: quy tắc (規則, 原則). Sai.",
+          "律 → りつ: luật (法律, 規律). Sai."
+        ],
+        "vocab": [
+          { "w": "～制", "r": "せい", "hv": "CHẾ", "vi": "chế độ, hệ thống ~" },
+          { "w": "大統領", "r": "だいとうりょう", "hv": "ĐẠI THỐNG LĨNH", "vi": "tổng thống" },
+          { "w": "採用", "r": "さいよう", "hv": "THÁI DỤNG", "vi": "áp dụng; tuyển dụng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Các từ ～制 hay gặp: 会員制 (chế độ hội viên), 予約制 (đặt trước), 二交代制 (hai ca)."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "卵（　　）のきれいな石を見つけました。",
+      "options": ["感", "同", "大", "近"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi đã tìm thấy một viên đá đẹp cỡ quả trứng.",
+        "why": "Danh từ + 大 (だい, ĐẠI) = có kích thước cỡ ~: 卵大 (to bằng quả trứng), 実物大 (kích thước thật), はがき大.",
+        "options": [
+          "感 → かん: cảm giác (高級感, 安心感). 卵感 không có nghĩa. Sai.",
+          "同 → どう: cùng (đứng trước: 同時). Sai.",
+          "大 → だい: cỡ, kích thước bằng ~. ĐÚNG.",
+          "近 → きん: gần (đứng trước: 近年). Sai."
+        ],
+        "vocab": [
+          { "w": "～大", "r": "だい", "hv": "ĐẠI", "vi": "cỡ bằng ~" },
+          { "w": "卵", "r": "たまご", "hv": "NOÃN", "vi": "trứng" },
+          { "w": "実物大", "r": "じつぶつだい", "hv": "THỰC VẬT ĐẠI", "vi": "kích thước thật" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Gặp 'Danh từ đồ vật + （　）' mô tả kích cỡ → nghĩ ngay đến ～大."
+      }
+    }
+  ]
+}

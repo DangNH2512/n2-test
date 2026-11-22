@@ -1,0 +1,140 @@
+{
+  "exam": "2017-12",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết Kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "私は大学院に<u>ざいせき</u>している。",
+      "options": ["採籍", "在簿", "在籍", "採簿"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi đang theo học (có tên trong danh sách) ở trường cao học.",
+        "why": "ざいせき = 在籍 (TẠI TỊCH): có tên trong sổ, đang là thành viên của trường/tổ chức. 在 = ở, tồn tại; 籍 = sổ hộ tịch, danh sách.",
+        "options": [
+          "採籍 → 採 (THẢI – さい: hái, tuyển) sai chữ. Sai.",
+          "在簿 → 簿 (BẠ – ぼ: sổ sách) đọc ぼ, không phải せき. Sai.",
+          "在籍 → đang có tên, đang theo học/làm. ĐÚNG.",
+          "採簿 → cả hai chữ đều sai. Sai."
+        ],
+        "vocab": [
+          { "w": "在籍", "r": "ざいせき", "hv": "TẠI TỊCH", "vi": "đang theo học, có tên trong danh sách" },
+          { "w": "国籍", "r": "こくせき", "hv": "QUỐC TỊCH", "vi": "quốc tịch" },
+          { "w": "名簿", "r": "めいぼ", "hv": "DANH BẠ", "vi": "danh sách tên" },
+          { "w": "大学院", "r": "だいがくいん", "hv": "ĐẠI HỌC VIỆN", "vi": "trường sau đại học, cao học" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "籍 (せき) có bộ 竹 ở trên: 国籍, 戸籍, 書籍. 簿 (ぼ) cũng bộ 竹 nhưng đọc ぼ: 名簿, 帳簿."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "ここでは、係員の指示に<u>したがって</u>ください。",
+      "options": ["沿って", "従って", "伴って", "頼って"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Ở đây, xin hãy làm theo chỉ dẫn của nhân viên phụ trách.",
+        "why": "したがう = 従う (TÒNG): tuân theo, làm theo. 指示に従う = làm theo chỉ thị.",
+        "options": [
+          "沿って → 沿う (そう): men theo, dọc theo (川に沿って). Sai.",
+          "従って → 従う (したがう): tuân theo. ĐÚNG.",
+          "伴って → 伴う (ともなう): kèm theo, đi cùng. Sai.",
+          "頼って → 頼る (たよる): dựa vào, nhờ cậy. Sai."
+        ],
+        "vocab": [
+          { "w": "従う", "r": "したがう", "hv": "TÒNG", "vi": "tuân theo, làm theo" },
+          { "w": "指示", "r": "しじ", "hv": "CHỈ THỊ", "vi": "chỉ thị, hướng dẫn" },
+          { "w": "沿う", "r": "そう", "hv": "DUYÊN", "vi": "men theo, dọc theo" },
+          { "w": "伴う", "r": "ともなう", "hv": "BẠN", "vi": "kèm theo, đi cùng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cả 4 chữ đều có thể đi với 〜に + て: に沿って / に従って / に伴って / に頼って – nhớ nghĩa để phân biệt."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "この国は<u>ふくし</u>が充実している。",
+      "options": ["副仕", "副祉", "福仕", "福祉"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đất nước này có phúc lợi xã hội đầy đủ.",
+        "why": "ふくし = 福祉 (PHÚC CHỈ): phúc lợi (xã hội). 福 (phúc) bộ 示 (ネ), 祉 cũng bộ ネ.",
+        "options": [
+          "副仕 → 副 (PHÓ – phụ) và 仕 (SĨ – làm việc) đều sai. Sai.",
+          "副祉 → 副 sai (副 = phó, phụ). Sai.",
+          "福仕 → 仕 sai. Sai.",
+          "福祉 → phúc lợi. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "福祉", "r": "ふくし", "hv": "PHÚC CHỈ", "vi": "phúc lợi xã hội" },
+          { "w": "充実", "r": "じゅうじつ", "hv": "SUNG THỰC", "vi": "đầy đủ, phong phú" },
+          { "w": "副", "r": "ふく", "hv": "PHÓ", "vi": "phó, phụ (副社長)" },
+          { "w": "幸福", "r": "こうふく", "hv": "HẠNH PHÚC", "vi": "hạnh phúc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cả 福 và 祉 đều có bộ ネ (thần, điều tốt lành) → liên quan đến phúc, may mắn."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "<u>りょうしゅうしょ</u>を発行してもらった。",
+      "options": ["領収書", "了収書", "領修書", "了修書"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đã được xuất cho hóa đơn (biên lai).",
+        "why": "りょうしゅうしょ = 領収書 (LĨNH THU THƯ): biên lai, hóa đơn nhận tiền. 領 = nhận, 収 = thu.",
+        "options": [
+          "領収書 → biên lai, hóa đơn. ĐÚNG.",
+          "了収書 → 了 (LIỄU – hoàn tất, 終了) sai chữ. Sai.",
+          "領修書 → 修 (TU – しゅう: sửa, tu học) sai chữ. Sai.",
+          "了修書 → cả hai chữ sai. Sai."
+        ],
+        "vocab": [
+          { "w": "領収書", "r": "りょうしゅうしょ", "hv": "LĨNH THU THƯ", "vi": "biên lai, hóa đơn" },
+          { "w": "発行", "r": "はっこう", "hv": "PHÁT HÀNH", "vi": "phát hành, cấp" },
+          { "w": "修理", "r": "しゅうり", "hv": "TU LÝ", "vi": "sửa chữa" },
+          { "w": "終了", "r": "しゅうりょう", "hv": "CHUNG LIỄU", "vi": "kết thúc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "収 (thu – nhận vào) ≠ 修 (tu – sửa, học). 収入 (thu nhập), 回収 (thu hồi)."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "全力で走ったので、息が<u>あらく</u>なった。",
+      "options": ["暴く", "激く", "荒く", "雑く"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vì đã chạy hết sức nên hơi thở trở nên gấp gáp (dồn dập).",
+        "why": "あらい (thô, mạnh, dữ dội) viết 荒い (HOANG). 息が荒い = thở hổn hển, gấp gáp. Dạng phó từ: 荒く.",
+        "options": [
+          "暴く → đọc あばく (vạch trần), không phải あらく. Sai.",
+          "激く → không có cách viết này (激しい = はげしい). Sai.",
+          "荒く → 荒い: thô bạo, dữ dội, gấp. ĐÚNG.",
+          "雑く → không có cách viết này (雑 = ざつ: cẩu thả). Sai."
+        ],
+        "vocab": [
+          { "w": "荒い", "r": "あらい", "hv": "HOANG", "vi": "dữ dội, thô bạo, gấp (hơi thở, sóng)" },
+          { "w": "粗い", "r": "あらい", "hv": "THÔ", "vi": "thô, không mịn, sơ sài" },
+          { "w": "全力", "r": "ぜんりょく", "hv": "TOÀN LỰC", "vi": "hết sức" },
+          { "w": "息", "r": "いき", "hv": "TỨC", "vi": "hơi thở" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "荒い (mạnh, dữ: 波が荒い, 息が荒い, 金遣いが荒い) ≠ 粗い (thô ráp, không mịn: 目が粗い)."
+      }
+    }
+  ]
+}

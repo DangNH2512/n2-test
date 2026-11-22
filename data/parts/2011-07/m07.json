@@ -1,0 +1,363 @@
+{
+  "exam": "2011-07",
+  "mondai": 7,
+  "section": "grammar",
+  "instruction": "次の文の（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn phương án thích hợp nhất để điền vào chỗ trống trong câu.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 33,
+      "passage": null,
+      "stem": "A「もう無理だよ、私には5キロなんて走れないよ。」\nB「まだ500メートルだよ。なんでそうやってすぐ、もうだめ（　　）言うの。」",
+      "options": ["を", "は", "とか", "とは"],
+      "answer": 3,
+      "explanation": {
+        "translation": "A: Hết nổi rồi, tôi không chạy nổi 5km đâu. B: Mới có 500m thôi mà. Sao cứ hở ra là nói nào là 'hết nổi rồi' vậy?",
+        "why": "～とか言う dùng để trích dẫn lời nói một cách không chính xác/khái quát, thường mang ý phê phán: 'cứ nói kiểu như…'. もうだめ là lời trích dẫn nên cần trợ từ trích dẫn; とか phù hợp nhất.",
+        "options": [
+          "を: không dùng を để trích dẫn lời nói. Sai.",
+          "は: もうだめは言う không tự nhiên. Sai.",
+          "とか: もうだめとか言う = cứ nói những câu kiểu 'hết nổi rồi'. ĐÚNG.",
+          "とは: ～とは dùng để định nghĩa hoặc bày tỏ ngạc nhiên (～とは驚いた), không đi với なんで…言うの. Sai."
+        ],
+        "vocab": [
+          { "w": "無理", "r": "むり", "hv": "VÔ LÝ", "vi": "không thể, quá sức" },
+          { "w": "だめ", "r": "だめ", "hv": "", "vi": "không được, hết cách" }
+        ],
+        "grammar": {
+          "pattern": "～とか言う",
+          "meaning": "nói kiểu như ～ (trích dẫn không chính xác, hàm ý chê trách/không chắc)",
+          "form": "câu trích dẫn + とか（言う／聞いた）",
+          "example": "彼はいつも忙しいとか言って、手伝ってくれない。"
+        },
+        "evidence": null,
+        "tip": "なんで～の？ là câu trách móc → とか mang sắc thái 'nói kiểu như thế' rất hợp."
+      }
+    },
+    {
+      "num": 34,
+      "passage": null,
+      "stem": "あれこれ悩んだ（　　）、ABC大学を志望校に決めた。",
+      "options": ["さきに", "すえに", "ところに", "とおりに"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Sau khi trăn trở đủ điều, cuối cùng tôi đã quyết định chọn trường đại học ABC làm nguyện vọng.",
+        "why": "Vた＋末に = sau một quá trình dài (đắn đo, nỗ lực…), cuối cùng thì… あれこれ悩んだ末に決めた là cách dùng điển hình.",
+        "options": [
+          "さきに: trước (先に), không nối với Vた theo nghĩa này. Sai.",
+          "すえに: 悩んだ末に = sau khi trăn trở mãi. ĐÚNG.",
+          "ところに: đúng lúc đang… thì (có việc khác xảy ra). Sai.",
+          "とおりに: theo đúng như… (言ったとおりに). Sai."
+        ],
+        "vocab": [
+          { "w": "悩む", "r": "なやむ", "hv": "NÃO", "vi": "trăn trở, phiền muộn" },
+          { "w": "志望校", "r": "しぼうこう", "hv": "CHÍ VỌNG HIỆU", "vi": "trường nguyện vọng" },
+          { "w": "あれこれ", "r": "あれこれ", "hv": "", "vi": "đủ thứ, này nọ" }
+        ],
+        "grammar": {
+          "pattern": "～末（に）",
+          "meaning": "sau khi (trải qua quá trình dài/vất vả) ～, cuối cùng thì",
+          "form": "Vた／Nの＋末（に）",
+          "example": "長い話し合いの末に、ようやく結論が出た。"
+        },
+        "evidence": null,
+        "tip": "Gặp 悩んだ／考えた／苦労した＋（　）→ nghĩ ngay đến 末に."
+      }
+    },
+    {
+      "num": 35,
+      "passage": null,
+      "stem": "プリンターの調子が悪くなり、製造会社に電話で問い合わせたら、向こうの担当者に、あれこれ質問に答え（　　）あげく、対応できないと言われた。",
+      "options": ["させた", "させられる", "させる", "させられた"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Máy in bị trục trặc, tôi gọi điện hỏi công ty sản xuất thì bị nhân viên phụ trách bắt trả lời đủ thứ câu hỏi, rốt cuộc lại bị bảo là không xử lý được.",
+        "why": "Người nói bị nhân viên (担当者に) bắt trả lời câu hỏi → dùng thể sai khiến bị động 答えさせられる. あげく đi sau Vた → 答えさせられたあげく.",
+        "options": [
+          "させた: thể sai khiến (tôi bắt người khác trả lời) – sai chủ thể. Sai.",
+          "させられる: đúng thể nhưng あげく phải đi với Vた. Sai.",
+          "させる: sai chủ thể và sai thì. Sai.",
+          "させられた: 答えさせられたあげく = sau khi bị bắt trả lời, rốt cuộc… ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "問い合わせる", "r": "といあわせる", "hv": "VẤN HỢP", "vi": "hỏi, liên hệ hỏi" },
+          { "w": "担当者", "r": "たんとうしゃ", "hv": "ĐẢM ĐƯƠNG GIẢ", "vi": "người phụ trách" },
+          { "w": "対応", "r": "たいおう", "hv": "ĐỐI ỨNG", "vi": "xử lý, đối ứng" }
+        ],
+        "grammar": {
+          "pattern": "～たあげく（に）",
+          "meaning": "sau khi ～ (rất nhiều, vất vả) thì rốt cuộc (kết quả xấu)",
+          "form": "Vた／Nの＋あげく",
+          "example": "さんざん迷ったあげく、何も買わずに帰った。"
+        },
+        "evidence": null,
+        "tip": "Nhận biết: 'Nに＋…させられる' = bị N bắt làm. あげく luôn đi sau thể た."
+      }
+    },
+    {
+      "num": 36,
+      "passage": null,
+      "stem": "面倒だが、やはりこの仕事は断れない。引き受ける（　　）。",
+      "options": ["までもあるまい", "こともない", "はずもない", "しかあるまい"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Phiền phức thật, nhưng quả nhiên không thể từ chối công việc này. Chỉ còn cách nhận thôi.",
+        "why": "Vる＋しかあるまい = しかないだろう: không còn cách nào khác ngoài… Vì 'không thể từ chối' nên 'đành phải nhận'.",
+        "options": [
+          "までもあるまい: không cần phải đến mức ～ (ngược nghĩa). Sai.",
+          "こともない: không cần phải ～. Sai.",
+          "はずもない: không lý nào ～. Sai.",
+          "しかあるまい: chỉ còn cách ～ thôi. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "面倒", "r": "めんどう", "hv": "DIỆN ĐẢO", "vi": "phiền phức" },
+          { "w": "断る", "r": "ことわる", "hv": "ĐOẠN", "vi": "từ chối" },
+          { "w": "引き受ける", "r": "ひきうける", "hv": "DẪN THỤ", "vi": "nhận (việc), đảm nhận" }
+        ],
+        "grammar": {
+          "pattern": "～しかあるまい",
+          "meaning": "chỉ còn cách ～ (= しかないだろう), dạng văn viết",
+          "form": "Vる＋しかあるまい",
+          "example": "電車が止まっているなら、歩いて帰るしかあるまい。"
+        },
+        "evidence": null,
+        "tip": "まい = ないだろう (phủ định suy đoán). しか～まい = しか～ない."
+      }
+    },
+    {
+      "num": 37,
+      "passage": null,
+      "stem": "山田監督の、「私、山田は、50年ぶりにふるさとに戻って（　　）。」というあいさつに、会場からは大きな拍手が起こった。",
+      "options": ["まいりました", "いらっしゃいました", "うかがいました", "おいでになりました"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Trước lời chào của đạo diễn Yamada: 'Tôi, Yamada, sau 50 năm đã trở về quê hương', cả hội trường vang lên tràng pháo tay lớn.",
+        "why": "Chủ ngữ là chính người nói (私) → dùng khiêm nhường ngữ. ～てまいりました là khiêm nhường của ～てきました (戻ってきました).",
+        "options": [
+          "まいりました: khiêm nhường ngữ của 来た／行った. ĐÚNG.",
+          "いらっしゃいました: tôn kính ngữ – không dùng cho bản thân. Sai.",
+          "うかがいました: khiêm nhường của 訪ねる／聞く, chỉ dùng khi hướng tới người được tôn trọng; không hợp với ～て戻ってくる. Sai.",
+          "おいでになりました: tôn kính ngữ – không dùng cho bản thân. Sai."
+        ],
+        "vocab": [
+          { "w": "監督", "r": "かんとく", "hv": "GIÁM ĐỐC", "vi": "đạo diễn, huấn luyện viên" },
+          { "w": "ふるさと", "r": "ふるさと", "hv": "", "vi": "quê hương" },
+          { "w": "拍手", "r": "はくしゅ", "hv": "PHÁCH THỦ", "vi": "vỗ tay" }
+        ],
+        "grammar": {
+          "pattern": "～てまいる（参る）",
+          "meaning": "khiêm nhường ngữ của ～てくる／～ていく",
+          "form": "Vて＋まいります",
+          "example": "これからも努力してまいります。"
+        },
+        "evidence": null,
+        "tip": "Chủ ngữ là 'tôi' → loại ngay tôn kính ngữ (いらっしゃる、おいでになる)."
+      }
+    },
+    {
+      "num": 38,
+      "passage": null,
+      "stem": "彼女の絵は、国内より（　　）海外での評価が高い。",
+      "options": ["まさか", "たとえ", "むしろ", "かりに"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tranh của cô ấy, so với trong nước thì đúng hơn là được đánh giá cao ở nước ngoài.",
+        "why": "AよりむしろB = so với A thì B đúng hơn / B hơn. Mẫu so sánh cố định.",
+        "options": [
+          "まさか: lẽ nào, không thể ngờ. Sai.",
+          "たとえ: dù cho (たとえ～ても). Sai.",
+          "むしろ: ngược lại, đúng hơn là. ĐÚNG.",
+          "かりに: giả sử (仮に～としたら). Sai."
+        ],
+        "vocab": [
+          { "w": "評価", "r": "ひょうか", "hv": "BÌNH GIÁ", "vi": "đánh giá" },
+          { "w": "国内", "r": "こくない", "hv": "QUỐC NỘI", "vi": "trong nước" }
+        ],
+        "grammar": {
+          "pattern": "AよりむしろB",
+          "meaning": "so với A thì B hơn / nói đúng hơn là B",
+          "form": "N／V より むしろ ～",
+          "example": "この仕事は若い人よりむしろ経験者に向いている。"
+        },
+        "evidence": null,
+        "tip": "Thấy ～より ở trước → むしろ rất hay xuất hiện."
+      }
+    },
+    {
+      "num": 39,
+      "passage": null,
+      "stem": "今年も卒業生を送り出した。次に会うときには、彼らも立派な大人に（　　）。",
+      "options": ["なるだろう", "なっただろう", "なっているだろう", "なっていただろう"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Năm nay cũng đã tiễn các học sinh tốt nghiệp. Lần tới gặp lại, chắc các em đã trở thành những người lớn đàng hoàng rồi.",
+        "why": "Tại thời điểm tương lai (次に会うとき), sự biến đổi 'trở thành người lớn' đã hoàn tất và trạng thái đang tiếp diễn → ～ているだろう.",
+        "options": [
+          "なるだろう: sẽ trở thành – chỉ hành động thay đổi, không diễn tả trạng thái đã thành tại lúc gặp. Sai.",
+          "なっただろう: suy đoán chuyện quá khứ. Sai.",
+          "なっているだろう: (lúc đó) chắc hẳn đã trở thành. ĐÚNG.",
+          "なっていただろう: giả định quá khứ. Sai."
+        ],
+        "vocab": [
+          { "w": "卒業生", "r": "そつぎょうせい", "hv": "TỐT NGHIỆP SINH", "vi": "học sinh tốt nghiệp" },
+          { "w": "送り出す", "r": "おくりだす", "hv": "TỐNG XUẤT", "vi": "tiễn đưa (ra đời)" },
+          { "w": "立派", "r": "りっぱ", "hv": "LẬP PHÁI", "vi": "đàng hoàng, xuất sắc" }
+        ],
+        "grammar": {
+          "pattern": "～ているだろう",
+          "meaning": "(vào thời điểm tương lai) chắc hẳn đã ở trạng thái ～",
+          "form": "Vて＋いるだろう",
+          "example": "10年後には、この町もすっかり変わっているだろう。"
+        },
+        "evidence": null,
+        "tip": "Mốc tương lai + kết quả đã hoàn thành → ～ている (trạng thái kết quả)."
+      }
+    },
+    {
+      "num": 40,
+      "passage": null,
+      "stem": "毎日（　　）どちらでもいいことばかりを日記に書いているのだが、それがストレス解消になっている。",
+      "options": ["書くとも書かないとも", "書いたか書かなかったか", "書いても書かなくても", "書くとか書かないとか"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Ngày nào tôi cũng chỉ viết vào nhật ký những chuyện viết hay không viết cũng chẳng sao, nhưng việc đó lại giúp tôi giải tỏa căng thẳng.",
+        "why": "～ても～なくても、どちらでもいい = dù làm hay không làm thì cũng được. 書いても書かなくてもどちらでもいいこと = chuyện viết hay không viết cũng như nhau.",
+        "options": [
+          "書くとも書かないとも: dùng trong 'không nói rõ là viết hay không' (～とも～とも言わない). Sai.",
+          "書いたか書かなかったか: đã viết hay chưa (dùng với わからない／覚えていない). Sai.",
+          "書いても書かなくても: dù viết hay không viết. ĐÚNG.",
+          "書くとか書かないとか: nào là viết, nào là không viết (liệt kê lời nói). Sai."
+        ],
+        "vocab": [
+          { "w": "日記", "r": "にっき", "hv": "NHẬT KÝ", "vi": "nhật ký" },
+          { "w": "解消", "r": "かいしょう", "hv": "GIẢI TIÊU", "vi": "giải tỏa, xóa bỏ" }
+        ],
+        "grammar": {
+          "pattern": "～ても～なくても",
+          "meaning": "dù ～ hay không ～ (kết quả như nhau)",
+          "form": "Vても＋Vなくても",
+          "example": "行っても行かなくても、結果は同じだ。"
+        },
+        "evidence": null,
+        "tip": "どちらでもいい ở sau là dấu hiệu chọn cấu trúc 'dù A hay không A'."
+      }
+    },
+    {
+      "num": 41,
+      "passage": null,
+      "stem": "顔を洗うときには、せっけんを（　　）、さっと洗うのが肌にはよい。",
+      "options": ["使いすぎずに", "使うにすぎず", "使うにすぎなく", "使いすぎもなくて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Khi rửa mặt, không dùng quá nhiều xà phòng mà rửa nhanh gọn thì tốt cho da.",
+        "why": "Vます＋すぎる = quá mức; ～ずに = mà không… → 使いすぎずに = không dùng quá nhiều mà…",
+        "options": [
+          "使いすぎずに: không dùng quá nhiều. ĐÚNG.",
+          "使うにすぎず: ～にすぎない = chỉ là ～ thôi, nghĩa không hợp. Sai.",
+          "使うにすぎなく: sai cả nghĩa lẫn hình thức. Sai.",
+          "使いすぎもなくて: không có dạng này. Sai."
+        ],
+        "vocab": [
+          { "w": "せっけん", "r": "せっけん", "hv": "", "vi": "xà phòng" },
+          { "w": "さっと", "r": "さっと", "hv": "", "vi": "nhanh gọn, thoáng qua" },
+          { "w": "肌", "r": "はだ", "hv": "CƠ", "vi": "da" }
+        ],
+        "grammar": {
+          "pattern": "Vすぎずに",
+          "meaning": "không ～ quá mức mà…",
+          "form": "Vます(bỏ ます)＋すぎ＋ずに",
+          "example": "食べすぎずに、腹八分目でやめよう。"
+        },
+        "evidence": null,
+        "tip": "Bẫy: ～にすぎない (chỉ là) khác hoàn toàn ～すぎる (quá)."
+      }
+    },
+    {
+      "num": 42,
+      "passage": null,
+      "stem": "留学するまで、私は自分が見ている世界がすべてだと思っていた。実はそれが世界のほんの小さな一部分（　　）気付いていなかった。",
+      "options": ["でないことにしか", "でしかないことに", "にないことでしか", "にしかないことで"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Cho đến khi du học, tôi đã nghĩ thế giới mình thấy là tất cả. Tôi đã không nhận ra rằng thật ra đó chỉ là một phần rất nhỏ của thế giới.",
+        "why": "Nでしかない = chỉ là N (nhấn mạnh sự nhỏ bé). ～ことに気付く = nhận ra việc ～. Ghép lại: 一部分でしかないことに気付いていなかった.",
+        "options": [
+          "でないことにしか: 'chỉ nhận ra việc không phải là…' – nghĩa lệch. Sai.",
+          "でしかないことに: (nhận ra) việc chỉ là… ĐÚNG.",
+          "にないことでしか: sai trợ từ (cần ～に気付く). Sai.",
+          "にしかないことで: sai trợ từ và nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "気付く", "r": "きづく", "hv": "KHÍ PHÓ", "vi": "nhận ra" },
+          { "w": "一部分", "r": "いちぶぶん", "hv": "NHẤT BỘ PHẬN", "vi": "một phần" },
+          { "w": "留学", "r": "りゅうがく", "hv": "LƯU HỌC", "vi": "du học" }
+        ],
+        "grammar": {
+          "pattern": "～でしかない",
+          "meaning": "chẳng qua chỉ là ～",
+          "form": "N＋でしかない",
+          "example": "それは言い訳でしかない。"
+        },
+        "evidence": null,
+        "tip": "気付く luôn đi với trợ từ に → loại đáp án kết thúc bằng で."
+      }
+    },
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "（会社で）\nA「あれ？あそこにいるの、山田さんかな。」\nB「山田さんは出張中だよ。今ここに（　　）。」",
+      "options": ["いないわけじゃないよ", "いるわけないじゃない", "いたわけじゃないよ", "いなかったわけじゃない"],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Ở công ty) A: Ơ? Người ở đằng kia là anh Yamada à? B: Anh Yamada đang đi công tác mà. Làm gì có chuyện bây giờ anh ấy ở đây chứ.",
+        "why": "～わけ（が）ない = không có lý nào. ～じゃない（か） ở cuối là cách nói nhấn mạnh 'còn gì nữa'. Đang đi công tác → không thể có mặt ở đây.",
+        "options": [
+          "いないわけじゃないよ: không phải là không có mặt (= có thể có mặt). Ngược nghĩa. Sai.",
+          "いるわけないじゃない: làm gì có chuyện ở đây. ĐÚNG.",
+          "いたわけじゃないよ: không phải là đã có mặt – sai thì và nghĩa. Sai.",
+          "いなかったわけじゃない: không phải là đã không có mặt. Sai."
+        ],
+        "vocab": [
+          { "w": "出張中", "r": "しゅっちょうちゅう", "hv": "XUẤT TRƯƠNG TRUNG", "vi": "đang đi công tác" }
+        ],
+        "grammar": {
+          "pattern": "～わけ（が）ない",
+          "meaning": "không thể nào, làm gì có chuyện ～",
+          "form": "V普通形／Aい／Naな＋わけがない",
+          "example": "あんなに練習したんだから、負けるわけがない。"
+        },
+        "evidence": null,
+        "tip": "Phân biệt: ～わけがない (không thể) vs ～わけではない (không hẳn là)."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "A「このタレント、最近よくテレビで見るね。」\nB「ほんと。この人を見ない日はない（　　）よね。」",
+      "options": ["と言ってもいいぐらいだ", "と言ったらいいだけだ", "と言ってもいいからだ", "と言ったらいいことだ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "A: Người nổi tiếng này dạo này hay thấy trên TV nhỉ. B: Đúng thế. Có thể nói là chẳng ngày nào không thấy người này.",
+        "why": "～と言ってもいいぐらいだ = có thể nói là ～ (mức độ đến thế). Diễn tả mức độ xuất hiện dày đặc.",
+        "options": [
+          "と言ってもいいぐらいだ: đến mức có thể nói là. ĐÚNG.",
+          "と言ったらいいだけだ: chỉ cần nói là được – nghĩa không hợp. Sai.",
+          "と言ってもいいからだ: vì có thể nói… – không có lý do nào ở đây. Sai.",
+          "と言ったらいいことだ: cách nói không tự nhiên. Sai."
+        ],
+        "vocab": [
+          { "w": "タレント", "r": "タレント", "hv": "", "vi": "người nổi tiếng trên TV" }
+        ],
+        "grammar": {
+          "pattern": "～と言ってもいい（ぐらいだ）",
+          "meaning": "có thể nói là ～ (đến mức đó)",
+          "form": "普通形＋と言ってもいい（ぐらいだ）",
+          "example": "彼はこのチームの心臓だと言ってもいいぐらいだ。"
+        },
+        "evidence": null,
+        "tip": "ぐらいだ／ほどだ diễn tả mức độ → hợp với cách nói phóng đại 'không ngày nào không thấy'."
+      }
+    }
+  ]
+}

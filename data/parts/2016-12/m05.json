@@ -1,0 +1,135 @@
+{
+  "exam": "2016-12",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "高橋さんはとても<u>愉快な</u>人だ。",
+      "options": ["面白い", "おしゃれな", "親切な", "かわいい"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Anh/chị Takahashi là người rất vui tính.",
+        "why": "愉快な (ゆかいな, DU KHOÁI) = vui vẻ, thú vị, khiến người khác vui → gần nghĩa nhất với 面白い (thú vị, vui).",
+        "options": [
+          "面白い → thú vị, vui. ĐÚNG.",
+          "おしゃれな → sành điệu, ăn mặc đẹp. Sai.",
+          "親切な → tốt bụng. Sai.",
+          "かわいい → dễ thương. Sai."
+        ],
+        "vocab": [
+          { "w": "愉快", "r": "ゆかい", "hv": "DU KHOÁI", "vi": "vui vẻ, thú vị" },
+          { "w": "不愉快", "r": "ふゆかい", "hv": "BẤT DU KHOÁI", "vi": "khó chịu" },
+          { "w": "面白い", "r": "おもしろい", "hv": "DIỆN BẠCH", "vi": "thú vị, vui" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "愉快な人 = người vui tính, hài hước; 不愉快 = khó chịu, bực mình."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "それは確かに<u>やむをえない</u>ことだと思う。",
+      "options": ["もったいない", "なさけない", "つまらない", "しかたない"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi nghĩ đó quả thật là điều không thể tránh khỏi.",
+        "why": "やむをえない (止むを得ない) = bất đắc dĩ, không còn cách nào khác → đồng nghĩa しかたない.",
+        "options": [
+          "もったいない → lãng phí, tiếc. Sai.",
+          "なさけない → 情けない: đáng xấu hổ, thảm hại. Sai.",
+          "つまらない → chán, nhạt nhẽo. Sai.",
+          "しかたない → đành chịu, không còn cách nào. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "やむを得ない", "r": "やむをえない", "hv": "ĐẮC", "vi": "bất đắc dĩ, không tránh được" },
+          { "w": "仕方ない", "r": "しかたない", "hv": "SĨ PHƯƠNG", "vi": "đành chịu" },
+          { "w": "情けない", "r": "なさけない", "hv": "TÌNH", "vi": "thảm hại, đáng xấu hổ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhóm đồng nghĩa: やむを得ない ≈ しかたない ≈ しようがない ≈ 〜ざるを得ない."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "少し<u>息抜きした</u>ほうがいいよ。",
+      "options": ["待って", "急いだ", "休んだ", "働いた"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Bạn nên nghỉ xả hơi một chút đi.",
+        "why": "息抜きする (いきぬきする) = nghỉ ngơi xả hơi, thư giãn giữa lúc làm việc → gần nghĩa 休む.",
+        "options": [
+          "待って → chờ đợi. Sai.",
+          "急いだ → vội vàng. Sai.",
+          "休んだ → nghỉ ngơi. ĐÚNG.",
+          "働いた → làm việc (ngược nghĩa). Sai."
+        ],
+        "vocab": [
+          { "w": "息抜き", "r": "いきぬき", "hv": "TỨC BẠT", "vi": "nghỉ xả hơi" },
+          { "w": "一休み", "r": "ひとやすみ", "hv": "NHẤT HƯU", "vi": "nghỉ một lát" },
+          { "w": "気分転換", "r": "きぶんてんかん", "hv": "KHÍ PHÂN CHUYỂN HOÁN", "vi": "thay đổi không khí" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "息 (hơi thở) + 抜く (rút ra) → thở ra một hơi = nghỉ xả hơi."
+      }
+    },
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "今日はとても<u>ついていた</u>。",
+      "options": ["気分が悪かった", "運が悪かった", "気分がよかった", "運がよかった"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hôm nay tôi rất may mắn.",
+        "why": "ついている (付いている) dùng trong văn nói = gặp may, hên. ついていない = xui xẻo.",
+        "options": [
+          "気分が悪かった → tâm trạng tệ. Sai.",
+          "運が悪かった → xui xẻo (nghĩa của ついていない). Sai.",
+          "気分がよかった → tâm trạng tốt; ついている nói về vận may chứ không phải tâm trạng. Sai.",
+          "運がよかった → may mắn. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "ついている", "r": "ついている", "hv": "", "vi": "gặp may, hên" },
+          { "w": "運", "r": "うん", "hv": "VẬN", "vi": "vận may" },
+          { "w": "気分", "r": "きぶん", "hv": "KHÍ PHÂN", "vi": "tâm trạng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy: 気分 vs 運. ついている = 運がいい; ついてない = 運が悪い."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "私は<u>つねに</u>言葉遣いに気をつけている。",
+      "options": ["当然", "いつも", "特に", "できるだけ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi luôn luôn chú ý đến cách dùng từ.",
+        "why": "つねに (常に, THƯỜNG) = luôn luôn, lúc nào cũng → đồng nghĩa いつも.",
+        "options": [
+          "当然 → とうぜん: đương nhiên. Sai.",
+          "いつも → luôn luôn. ĐÚNG.",
+          "特に → とくに: đặc biệt là. Sai.",
+          "できるだけ → càng nhiều càng tốt, cố hết sức. Sai."
+        ],
+        "vocab": [
+          { "w": "常に", "r": "つねに", "hv": "THƯỜNG", "vi": "luôn luôn" },
+          { "w": "言葉遣い", "r": "ことばづかい", "hv": "NGÔN DIỆP KHIỂN", "vi": "cách dùng từ, ăn nói" },
+          { "w": "当然", "r": "とうぜん", "hv": "ĐƯƠNG NHIÊN", "vi": "đương nhiên" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "常に ≈ いつも ≈ 絶えず; 常識 (じょうしき) cũng dùng chữ 常."
+      }
+    }
+  ]
+}

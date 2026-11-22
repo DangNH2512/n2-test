@@ -1,0 +1,140 @@
+{
+  "exam": "2022-12",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết Kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "彼にはお金持ちになりたいという<u>よく</u>がない。",
+      "options": ["欲", "望", "求", "情"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Anh ấy không có ham muốn trở thành người giàu.",
+        "why": "よく viết là 欲 (DỤC) = lòng ham muốn, dục vọng. 欲がない = không ham muốn, vô dục.",
+        "options": [
+          "欲 → よく: ham muốn. ĐÚNG.",
+          "望 → のぞみ / ぼう: mong ước (không đọc よく). Sai.",
+          "求 → きゅう / もとめる: yêu cầu, tìm kiếm. Sai.",
+          "情 → じょう / なさけ: tình cảm. Sai."
+        ],
+        "vocab": [
+          { "w": "欲", "r": "よく", "hv": "DỤC", "vi": "lòng ham muốn" },
+          { "w": "欲しい", "r": "ほしい", "hv": "DỤC", "vi": "muốn có" },
+          { "w": "金持ち", "r": "かねもち", "hv": "KIM TRÌ", "vi": "người giàu" },
+          { "w": "望み", "r": "のぞみ", "hv": "VỌNG", "vi": "mong ước" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "欲 = よく (食欲 しょくよく: sự thèm ăn, 意欲 いよく: ý chí, động lực)."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "私の職業は、<u>はいゆう</u>です。",
+      "options": ["非憂", "非優", "俳憂", "俳優"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nghề nghiệp của tôi là diễn viên.",
+        "why": "はいゆう viết là 俳優 (BÀI ƯU) = diễn viên. 俳 (はい) có bộ nhân đứng 亻 chỉ người, 優 (ゆう) cũng có bộ 亻.",
+        "options": [
+          "非憂 → 非 (PHI) đọc ひ, 憂 (ƯU: lo âu). Sai.",
+          "非優 → 非 đọc ひ, không phải はい. Sai.",
+          "俳憂 → 憂 nghĩa là lo buồn, không dùng cho diễn viên. Sai.",
+          "俳優 → はいゆう: diễn viên. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "俳優", "r": "はいゆう", "hv": "BÀI ƯU", "vi": "diễn viên" },
+          { "w": "職業", "r": "しょくぎょう", "hv": "CHỨC NGHIỆP", "vi": "nghề nghiệp" },
+          { "w": "優しい", "r": "やさしい", "hv": "ƯU", "vi": "hiền lành, dịu dàng" },
+          { "w": "憂鬱", "r": "ゆううつ", "hv": "ƯU UẤT", "vi": "u uất, buồn chán" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "優 (có 亻) = ưu tú, diễn viên; 憂 (không có 亻) = lo buồn. Nghề của người → có bộ nhân."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "中山さんは、家族と<u>はなれて</u>、一人で暮らしているらしい。",
+      "options": ["逃れて", "別れて", "離れて", "避けて"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nghe nói anh Nakayama sống xa gia đình, sống một mình.",
+        "why": "はなれる viết là 離れる (LY) = rời xa, cách xa. 家族と離れて暮らす = sống xa gia đình.",
+        "options": [
+          "逃れて → のがれて: thoát khỏi, trốn tránh. Sai.",
+          "別れて → わかれて: chia tay, chia ly. Sai.",
+          "離れて → はなれて: rời xa, cách xa. ĐÚNG.",
+          "避けて → さけて: tránh né. Sai."
+        ],
+        "vocab": [
+          { "w": "離れる", "r": "はなれる", "hv": "LY", "vi": "rời xa, cách xa" },
+          { "w": "暮らす", "r": "くらす", "hv": "MỘ", "vi": "sinh sống" },
+          { "w": "別れる", "r": "わかれる", "hv": "BIỆT", "vi": "chia tay" },
+          { "w": "逃れる", "r": "のがれる", "hv": "ĐÀO", "vi": "thoát khỏi" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "離 = LY (距離 きょり: khoảng cách, 離婚 りこん: ly hôn)."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "病院で医師の<u>しんだん</u>を受ける。",
+      "options": ["身断", "診断", "身談", "診談"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Được bác sĩ chẩn đoán ở bệnh viện.",
+        "why": "しんだん viết là 診断 (CHẨN ĐOÁN). 診 (しん) có bộ ngôn 言 = khám bệnh; 断 (だん) = phán đoán.",
+        "options": [
+          "身断 → 身 (THÂN) không mang nghĩa khám bệnh. Sai.",
+          "診断 → しんだん: chẩn đoán. ĐÚNG.",
+          "身談 → không có từ này. Sai.",
+          "診談 → 談 (ĐÀM) là nói chuyện, không phải phán đoán. Sai."
+        ],
+        "vocab": [
+          { "w": "診断", "r": "しんだん", "hv": "CHẨN ĐOÁN", "vi": "chẩn đoán" },
+          { "w": "医師", "r": "いし", "hv": "Y SƯ", "vi": "bác sĩ" },
+          { "w": "診察", "r": "しんさつ", "hv": "CHẨN SÁT", "vi": "khám bệnh" },
+          { "w": "判断", "r": "はんだん", "hv": "PHÁN ĐOÁN", "vi": "phán đoán" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "診 = khám (診察・診断・健康診断). 断 = đoán/cắt (判断・決断)."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "AとBは、大きさが<u>ひとしい</u>。",
+      "options": ["並しい", "等しい", "似しい", "比しい"],
+      "answer": 2,
+      "explanation": {
+        "translation": "A và B có kích thước bằng nhau.",
+        "why": "ひとしい viết là 等しい (ĐẲNG) = bằng nhau, ngang nhau. 等 âm On là とう (平等 びょうどう).",
+        "options": [
+          "並しい → không có; 並 đọc なみ / ならぶ (xếp hàng). Sai.",
+          "等しい → ひとしい: bằng nhau. ĐÚNG.",
+          "似しい → không có; 似 đọc にる (giống). Sai.",
+          "比しい → không có; 比 đọc くらべる (so sánh). Sai."
+        ],
+        "vocab": [
+          { "w": "等しい", "r": "ひとしい", "hv": "ĐẲNG", "vi": "bằng nhau, ngang nhau" },
+          { "w": "平等", "r": "びょうどう", "hv": "BÌNH ĐẲNG", "vi": "bình đẳng" },
+          { "w": "大きさ", "r": "おおきさ", "hv": "ĐẠI", "vi": "kích thước" },
+          { "w": "比べる", "r": "くらべる", "hv": "TỶ", "vi": "so sánh" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Ba phương án sai đều là chữ có nghĩa gần (xếp/giống/so) nhưng không có dạng ～しい."
+      }
+    }
+  ]
+}

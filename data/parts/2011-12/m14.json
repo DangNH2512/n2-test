@@ -1,0 +1,68 @@
+{
+  "exam": "2011-12",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "下は、歴史博物館の見学申し込み案内である。下の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Dưới đây là thông báo hướng dẫn đăng ký tham quan bảo tàng lịch sử. Chọn câu trả lời đúng nhất (tìm kiếm thông tin).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "松川歴史博物館別館　見学申し込み案内",
+      "text": "松川歴史博物館別館\n見学申し込み案内\n\n松川歴史博物館別館では、明治時代の政治家の別荘を別館として公開しています。別館では係員による歴史的な背景の説明を聞きながら、ゆっくり見学していただけます。\n\n1．見学について\n・見学は無料ですが、事前の申し込みが必要です。\n・別館の見学ができるのは、小学生以上の方に限ります。小学生は、大人と一緒に入場してください。\n・見学はツアーのみで、自由見学は受け付けていません。ツアーは係員が日本語でご案内しますが、各国語版の音声ガイドを無料で貸し出します。\n・見学休止日：①土曜日、日曜日、国民の祝日、年末年始（12月28日〜翌年1月4日）　②博物館の休館日\n・見学開始時間：午前9時、10時、11時／午後2時、3時、4時（見学時間約40分）\n・当日は結果通知の葉書または身分を証明するものを持参してください。\n\n2．申込み\n・申し込みは以下の方法（郵送）でお願いします。受付日順に処理して、定員に達したら締め切りとなります。\n・はがき1通で申し込める人数は、4人までです。\n・5人以上での見学を希望される場合は、4人以下のグループに分けてお申し込みください。ただし、同じ時間に見学できるとはかぎりませんので、ご了承ください。\n\n【方法】\nはがきに以下の項目を記入して郵送してください。結果は、はがきでお知らせします。\n・代表者の氏名（ふりがな）、郵便番号、住所、電話番号。\n・見学希望日、時間（第1希望から第3希望までお書きください。）\n・代表者を含む参加者全員の氏名（ふりがな）。\n\n【申し込み期間】\n見学希望日の3ヵ月前の月の1日から希望日の1ヵ月前の日まで（期間中必着）\n（例）5月10日希望の場合…2月1日〜4月10日\n※注意：見学日は申し込み状況などによりご希望に添えない場合があります。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 74,
+      "passage": "p1",
+      "stem": "留学生のリーさんは、友人と一緒に6人でこの別館を見学したいと考えている。6人1組で一緒に申し込むことはできるか。また、6人が同じ時間に一緒に見学することは可能か。",
+      "options": ["6人1組で申し込むことが可能で、同じ時間に一緒に見学することができる。", "6人1組で申し込むことはできるが、同じ時間に一緒に見学できるとは限らない。", "2組に分けて申し込む必要があり、同じ時間に一緒に見学できない可能性もある。", "3組に分けて申し込まなければならず、同じ時間に一緒に見学することはできない。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Du học sinh Lee muốn cùng bạn bè tham quan bảo tàng phụ này, tổng 6 người. Có thể đăng ký cả 6 người một nhóm không? Và 6 người có thể tham quan cùng giờ không? → Phải chia làm 2 nhóm để đăng ký, và có khả năng không được tham quan cùng giờ.",
+        "why": "Một bưu thiếp tối đa 4 người; từ 5 người trở lên phải chia thành nhóm ≤ 4 người → 6 người = 2 nhóm (vd 4+2 hoặc 3+3). Nhưng không đảm bảo được cùng giờ (同じ時間に見学できるとはかぎりません).",
+        "options": [
+          "Không thể đăng ký 6 người một nhóm. Sai.",
+          "Không thể đăng ký 6 người một nhóm. Sai.",
+          "Chia 2 nhóm, có thể không cùng giờ. ĐÚNG.",
+          "Không bắt buộc 3 nhóm, và cũng không phải \"chắc chắn không thể\" cùng giờ. Sai."
+        ],
+        "vocab": [
+          { "w": "見学", "r": "けんがく", "hv": "KIẾN HỌC", "vi": "tham quan (học hỏi)" },
+          { "w": "別館", "r": "べっかん", "hv": "BIỆT QUÁN", "vi": "tòa nhà phụ" },
+          { "w": "了承", "r": "りょうしょう", "hv": "LIỄU THỪA", "vi": "thông cảm, chấp thuận" },
+          { "w": "定員", "r": "ていいん", "hv": "ĐỊNH VIÊN", "vi": "số người tối đa" }
+        ],
+        "grammar": { "pattern": "〜とはかぎらない", "meaning": "không hẳn là ~, chưa chắc ~", "form": "普通形＋とはかぎらない", "example": "高い店がおいしいとはかぎらない。" },
+        "evidence": "はがき1通で申し込める人数は、4人までです。5人以上での見学を希望される場合は、4人以下のグループに分けてお申し込みください。ただし、同じ時間に見学できるとはかぎりませんので、ご了承ください。",
+        "tip": "とはかぎらない = có thể không → khớp với \"可能性もある\", không phải \"できない\"."
+      }
+    },
+    {
+      "num": 75,
+      "passage": "p1",
+      "stem": "中学生の田中さんは古い建物に興味があるので、この別館をぜひ見学したいと考えている。田中さんが見学当日に必ずしなければならないことは何か。",
+      "options": ["大人と一緒に行く", "見学の前に料金を支払う", "別館見学ツアーに参加する", "結果通知のはがきを持参する"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Học sinh cấp 2 Tanaka thích các tòa nhà cổ nên rất muốn tham quan tòa nhà phụ này. Việc Tanaka nhất định phải làm vào ngày tham quan là gì? → Tham gia tour tham quan tòa nhà phụ.",
+        "why": "Tham quan chỉ theo tour, không nhận tham quan tự do → bắt buộc tham gia tour. Các điều kiện khác không bắt buộc với Tanaka.",
+        "options": [
+          "Chỉ học sinh tiểu học mới phải đi cùng người lớn; Tanaka là học sinh cấp 2. Sai.",
+          "Tham quan miễn phí. Sai.",
+          "Chỉ tham quan theo tour → bắt buộc. ĐÚNG.",
+          "Mang bưu thiếp kết quả HOẶC giấy tờ tùy thân – không bắt buộc riêng bưu thiếp. Sai."
+        ],
+        "vocab": [
+          { "w": "持参", "r": "じさん", "hv": "TRÌ THAM", "vi": "mang theo" },
+          { "w": "身分", "r": "みぶん", "hv": "THÂN PHẬN", "vi": "thân phận, danh tính" },
+          { "w": "結果通知", "r": "けっかつうち", "hv": "KẾT QUẢ THÔNG TRI", "vi": "thông báo kết quả" },
+          { "w": "中学生", "r": "ちゅうがくせい", "hv": "TRUNG HỌC SINH", "vi": "học sinh cấp 2" }
+        ],
+        "grammar": { "pattern": "〜に限る／〜のみ", "meaning": "chỉ giới hạn ở ~", "form": "N＋に限る／N＋のみ", "example": "参加は会員に限ります。" },
+        "evidence": "見学はツアーのみで、自由見学は受け付けていません。",
+        "tip": "Chú ý từ または (hoặc) → không phải điều kiện bắt buộc riêng lẻ."
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "exam": "2012-12",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn dài (chủ đề lập luận) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "自分の能力や適性と、実際に就いている職業や希望する職業、あるいは生き方が必要とする能力や適性との間のギャップに悩むというのは、①<u>よくあること</u>です。むしろピッタリ一致しているとか、能力・適性が十分あるとかいうケースのほうが稀でしょう。\nもともと能力とか適性というのは、とてもつかみどころのないものであり、また経験によりたえず引き出されたり磨かれたりしていくものです。運動面の能力や適性は比較的はっきり表面にあらわれるし、素質の影響が強いと思われますが、知的側面や社会的側面の能力や適性は自分自身でもなかなかわからないし、また経験によって伸びていく可能性も十分あります。\n実は、能力や適性がないという自分観も、努力する一歩を踏み出すことのできない②<u>自分に対する言い訳</u>として用いられている面があります。仕事がうまくいかない人が自分にはどうもこの仕事の適性がないと嘆いたり、今の仕事が向いてないと言いつつ転職への覚悟ができない人が、自分には能力がないからどんな仕事に替わってもどうせダメなんだと自嘲（注1）気味に言ったりするのをよく耳にします。このような言い方も、今ひとつ頑張りきれない自分や、思いきって仕事を替えてみる勇気のない自分に対する弁解（注2）だったりするのです。\n自分は能力がない、適性がない、自分には無理だなどと萎縮（注3）している人は、それは勝手な思い込みにすぎないのではないか、意欲や行動力の乏しさに対する弁解にすぎないのではないか、と自らに問いかけてみるべきでしょう。能力や適性というのは、昨日までなかったのに、気持ちを入れ替えたからといって突然高まるなどということは考えにくいものです。しかし、意欲や行動力なら、気持ちを入れ替えることで突然高まるということは十分ありえることです。\nゆえに（注4）自分自身の不遇（注5）な職場生活や充実感の乏しい仕事内容の原因が、能力や適性の不足でなく意欲や行動力の不足であることが明らかになれば、「どうせ自分には無理だ」といった後ろ向きの姿勢から、「やるだけやってみるか」といった前向きの姿勢に転じることもできるはずです。\n（榎本博明『社会人のための「本当の自分」づくり』による）\n（注1）自嘲：自分をつまらない、だめな人間だと思うこと\n（注2）弁解：言い訳\n（注3）萎縮している：自信をなくして消極的になっている\n（注4）ゆえに：だから\n（注5）不遇な：恵まれない"
+    }
+  ],
+  "questions": [
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "①<u>よくあること</u>とあるが、どういうことがあるのか。",
+      "options": [
+        "自分の仕事や生き方に必要な能力や適性は何かと悩むこと。",
+        "自分の仕事や生き方と自分の能力や適性が合っていないと思うこと。",
+        "自分の持っている能力や適性が何かわからないと悩むこと。",
+        "自分の持っている能力や適性を伸ばしていくのが難しいと思うこと。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "'Chuyện thường gặp' là chuyện gì? → Nghĩ rằng công việc, lối sống của mình và năng lực, tố chất của mình không phù hợp với nhau.",
+        "why": "よくあること chỉ việc 'trăn trở về khoảng cách (ギャップ) giữa năng lực/tố chất của bản thân và năng lực/tố chất mà nghề nghiệp, lối sống đòi hỏi' = cảm thấy không khớp nhau → phương án 2.",
+        "options": [
+          "Trăn trở 'năng lực cần thiết là gì' → bài nói về khoảng cách, không phải không biết cần gì. Sai.",
+          "Nghĩ rằng công việc/lối sống và năng lực mình không khớp. ĐÚNG.",
+          "Không biết năng lực mình là gì → có nhắc ở đoạn 2 nhưng không phải nội dung của よくあること. Sai.",
+          "Khó phát triển năng lực → không phải nội dung gạch chân. Sai."
+        ],
+        "vocab": [
+          { "w": "適性", "r": "てきせい", "hv": "THÍCH TÍNH", "vi": "tố chất phù hợp, năng khiếu" },
+          { "w": "一致", "r": "いっち", "hv": "NHẤT TRÍ", "vi": "khớp, nhất trí" },
+          { "w": "稀", "r": "まれ", "hv": "HY", "vi": "hiếm" },
+          { "w": "悩む", "r": "なやむ", "hv": "NÃO", "vi": "trăn trở, phiền não" }
+        ],
+        "grammar": null,
+        "evidence": "自分の能力や適性と、実際に就いている職業や希望する職業、あるいは生き方が必要とする能力や適性との間のギャップに悩むというのは、よくあることです。むしろピッタリ一致しているとか…いうケースのほうが稀でしょう。",
+        "tip": "ギャップ = không khớp; câu sau 'khớp hoàn toàn mới là hiếm' xác nhận ý này."
+      }
+    },
+    {
+      "num": 72,
+      "passage": "p1",
+      "stem": "②<u>自分に対する言い訳</u>の例として、最も近いものはどれか。",
+      "options": [
+        "人前で話すのが苦手なのは、自分はもともとおとなしいからだ。",
+        "人前で話すのが苦手なのは、学校で話し方を習わなかったからだ。",
+        "人前で話すのが苦手なのは、そういう機会があまりなかったからだ。",
+        "人前で話すのが苦手なのは、しゃべりすぎはよくないと言われたからだ。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Ví dụ gần nhất với 'lời bào chữa cho bản thân' là gì? → Mình kém nói trước đám đông là vì vốn dĩ mình trầm tính.",
+        "why": "'Lời bào chữa' trong bài là cho rằng mình 'không có năng lực/tố chất' (yếu tố bẩm sinh, không đổi được) để khỏi phải nỗ lực. もともとおとなしい (bẩm sinh đã trầm tính) chính là đổ lỗi cho tố chất vốn có.",
+        "options": [
+          "Vốn dĩ trầm tính → đổ cho tố chất bẩm sinh, né tránh nỗ lực. ĐÚNG.",
+          "Không được học cách nói ở trường → đổ cho hoàn cảnh giáo dục, không phải 'không có năng lực'. Sai.",
+          "Ít có cơ hội → đổ cho thiếu kinh nghiệm (bài nói năng lực có thể phát triển qua kinh nghiệm). Sai.",
+          "Bị dặn nói nhiều không tốt → đổ cho người khác. Sai."
+        ],
+        "vocab": [
+          { "w": "言い訳", "r": "いいわけ", "hv": "NGÔN DỊCH", "vi": "lời bào chữa" },
+          { "w": "弁解", "r": "べんかい", "hv": "BIỆN GIẢI", "vi": "biện minh" },
+          { "w": "苦手", "r": "にがて", "hv": "KHỔ THỦ", "vi": "kém, không giỏi" },
+          { "w": "もともと", "r": "もともと", "hv": "", "vi": "vốn dĩ, từ đầu" }
+        ],
+        "grammar": null,
+        "evidence": "能力や適性がないという自分観も、努力する一歩を踏み出すことのできない自分に対する言い訳として用いられている面があります。",
+        "tip": "Lời bào chữa = 'tôi vốn không có năng lực/tố chất' → chọn phương án quy cho bản tính vốn có."
+      }
+    },
+    {
+      "num": 73,
+      "passage": "p1",
+      "stem": "筆者がこの文章で言いたいことは何か。",
+      "options": [
+        "変わらないと思われがちな能力や適性も考え方によって変わるものだ。",
+        "考え方を変えるよりも自分の能力や適性を理解することが重要だ。",
+        "能力や適性よりも意欲や行動力に目を向けるという姿勢が大切だ。",
+        "能力や適性がなくても意欲や行動力があれば何でもうまくいくものだ。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều tác giả muốn nói là gì? → Thái độ hướng sự chú ý vào ý chí và khả năng hành động hơn là năng lực, tố chất mới quan trọng.",
+        "why": "Năng lực/tố chất khó tăng đột ngột, nhưng ý chí và khả năng hành động có thể tăng ngay khi đổi tâm thế. Nếu nhận ra nguyên nhân là thiếu ý chí/hành động chứ không phải thiếu năng lực, ta có thể chuyển sang thái độ tích cực → phương án 3.",
+        "options": [
+          "Năng lực thay đổi theo cách nghĩ → bài nói năng lực KHÔNG đột nhiên tăng dù đổi tâm thế. Sai.",
+          "Hiểu năng lực mình quan trọng hơn đổi cách nghĩ → ngược với bài. Sai.",
+          "Chú ý đến ý chí, khả năng hành động hơn là năng lực. ĐÚNG.",
+          "'Cái gì cũng suôn sẻ' → phóng đại, bài chỉ nói có thể chuyển sang thái độ tích cực. Sai."
+        ],
+        "vocab": [
+          { "w": "意欲", "r": "いよく", "hv": "Ý DỤC", "vi": "ý chí, động lực" },
+          { "w": "行動力", "r": "こうどうりょく", "hv": "HÀNH ĐỘNG LỰC", "vi": "khả năng hành động" },
+          { "w": "前向き", "r": "まえむき", "hv": "TIỀN HƯỚNG", "vi": "tích cực, hướng về phía trước" },
+          { "w": "思い込み", "r": "おもいこみ", "hv": "TƯ VÀO", "vi": "định kiến, tin chắc chủ quan" }
+        ],
+        "grammar": {
+          "pattern": "〜にすぎない",
+          "meaning": "chỉ là ~, không hơn",
+          "form": "N / V thể thường + にすぎない",
+          "example": "それは噂にすぎない。"
+        },
+        "evidence": "能力や適性というのは…気持ちを入れ替えたからといって突然高まるなどということは考えにくいものです。しかし、意欲や行動力なら、気持ちを入れ替えることで突然高まるということは十分ありえることです。",
+        "tip": "Đoạn kết bắt đầu bằng ゆえに (vì vậy) → kết luận của tác giả."
+      }
+    }
+  ]
+}

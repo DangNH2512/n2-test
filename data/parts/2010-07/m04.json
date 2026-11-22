@@ -1,0 +1,192 @@
+{
+  "exam": "2010-07",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "今週は忙しかったから、週末は家で（　　）テレビを見ていた。",
+      "options": ["のろのろ", "のんびり", "ぐるぐる", "ぐっすり"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tuần này bận rộn nên cuối tuần tôi ở nhà thong thả xem tivi.",
+        "why": "のんびり = thong thả, thư thái, không vội vàng – hợp với ngữ cảnh nghỉ ngơi sau tuần bận rộn.",
+        "options": [
+          "のろのろ → chậm chạp, lề mề (dùng cho chuyển động: のろのろ歩く). Sai.",
+          "のんびり → thong thả, thư giãn. ĐÚNG.",
+          "ぐるぐる → xoay vòng vòng. Sai.",
+          "ぐっすり → (ngủ) say, ngon giấc: ぐっすり眠る. Sai."
+        ],
+        "vocab": [
+          { "w": "のんびり", "r": "のんびり", "hv": "", "vi": "thong thả, thư thái" },
+          { "w": "のろのろ", "r": "のろのろ", "hv": "", "vi": "chậm chạp, lề mề" },
+          { "w": "ぐっすり", "r": "ぐっすり", "hv": "", "vi": "(ngủ) say sưa" },
+          { "w": "ぐるぐる", "r": "ぐるぐる", "hv": "", "vi": "quay vòng vòng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ぐっすり chỉ đi với 眠る/寝る; のろのろ chỉ tốc độ chậm (xe, người đi)."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "マラソンでは周りの人にあわせようとしないで、（　　）で走るといい。",
+      "options": ["テクニック", "フレッシュ", "アプローチ", "マイペース"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Trong chạy marathon, đừng cố theo người xung quanh mà nên chạy theo nhịp độ của riêng mình.",
+        "why": "Đối lập với 周りの人にあわせる (theo người khác) là マイペース (my pace) = nhịp độ của bản thân. マイペースで走る là cách nói tự nhiên.",
+        "options": [
+          "テクニック → kỹ thuật. Không đi với “で走る” theo nghĩa này. Sai.",
+          "フレッシュ → tươi mới. Sai.",
+          "アプローチ → tiếp cận. Sai.",
+          "マイペース → theo nhịp của riêng mình. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "マイペース", "r": "マイペース", "hv": "", "vi": "theo nhịp độ riêng" },
+          { "w": "周り", "r": "まわり", "hv": "CHU", "vi": "xung quanh" },
+          { "w": "合わせる", "r": "あわせる", "hv": "HỢP", "vi": "làm cho khớp, theo kịp" },
+          { "w": "アプローチ", "r": "アプローチ", "hv": "", "vi": "cách tiếp cận" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "マイペースな人 = người làm việc theo nhịp riêng, không bị người khác chi phối."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "あの店はサービスがいいと（　　）だ。",
+      "options": ["評判", "評価", "診断", "決断"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Cửa hàng đó nổi tiếng (được đồn) là phục vụ tốt.",
+        "why": "～と評判だ = mọi người đồn/khen rằng ～, có tiếng là ～. 評判 chỉ lời đánh giá lan truyền trong dư luận.",
+        "options": [
+          "評判 → ひょうばん: tiếng tăm, lời đồn. ĐÚNG.",
+          "評価 → ひょうか: đánh giá (hành động đánh giá; ～を評価する). “～と評価だ” không tự nhiên. Sai.",
+          "診断 → しんだん: chẩn đoán. Sai.",
+          "決断 → けつだん: quyết đoán, quyết định dứt khoát. Sai."
+        ],
+        "vocab": [
+          { "w": "評判", "r": "ひょうばん", "hv": "BÌNH PHÁN", "vi": "tiếng tăm, lời đồn" },
+          { "w": "評価", "r": "ひょうか", "hv": "BÌNH GIÁ", "vi": "đánh giá" },
+          { "w": "診断", "r": "しんだん", "hv": "CHẨN ĐOÁN", "vi": "chẩn đoán" },
+          { "w": "決断", "r": "けつだん", "hv": "QUYẾT ĐOÁN", "vi": "quyết đoán" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "評判がいい/悪い, ～と評判の店 (quán nổi tiếng ~)."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "彼女とは久しぶりに会ったので、何時間話しても話が（　　）。",
+      "options": ["枯れない", "限らない", "尽きない", "衰えない"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Lâu lắm mới gặp cô ấy nên nói chuyện bao nhiêu tiếng cũng không hết chuyện.",
+        "why": "話が尽きない = chuyện nói mãi không hết. 尽きる(つきる) = cạn, hết.",
+        "options": [
+          "枯れない → 枯れる: (cây) khô héo. Sai.",
+          "限らない → 限る: giới hạn; ～とは限らない = không hẳn là. Sai.",
+          "尽きない → 尽きる: cạn kiệt. 話が尽きない = nói mãi không hết. ĐÚNG.",
+          "衰えない → 衰える: suy yếu (sức khỏe, thế lực). Sai."
+        ],
+        "vocab": [
+          { "w": "尽きる", "r": "つきる", "hv": "TẬN", "vi": "cạn, hết" },
+          { "w": "枯れる", "r": "かれる", "hv": "KHÔ", "vi": "khô héo" },
+          { "w": "衰える", "r": "おとろえる", "hv": "SUY", "vi": "suy yếu" },
+          { "w": "久しぶり", "r": "ひさしぶり", "hv": "CỬU", "vi": "lâu lắm mới" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm cố định: 話が尽きない, 力が尽きる, 運が尽きる."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "練習の成果が（　　）できれば、きっと優勝できるだろう。",
+      "options": ["発揮", "発生", "発行", "発明"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nếu phát huy được thành quả luyện tập thì chắc chắn sẽ vô địch.",
+        "why": "発揮(はっき) = phát huy (năng lực, sức mạnh, thành quả). Kết hợp cố định: 実力を発揮する, 成果を発揮する.",
+        "options": [
+          "発揮 → phát huy. ĐÚNG.",
+          "発生 → はっせい: phát sinh (sự cố, thiên tai). Sai.",
+          "発行 → はっこう: phát hành (báo, vé). Sai.",
+          "発明 → はつめい: phát minh. Sai."
+        ],
+        "vocab": [
+          { "w": "発揮", "r": "はっき", "hv": "PHÁT HUY", "vi": "phát huy" },
+          { "w": "成果", "r": "せいか", "hv": "THÀNH QUẢ", "vi": "thành quả" },
+          { "w": "優勝", "r": "ゆうしょう", "hv": "ƯU THẮNG", "vi": "vô địch" },
+          { "w": "発生", "r": "はっせい", "hv": "PHÁT SINH", "vi": "phát sinh, xảy ra" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "力・能力・実力・成果 + を発揮する."
+      }
+    },
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "この表現は（　　）でわかりにくい。",
+      "options": ["軟弱", "質素", "あいまい", "ささやか"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Cách diễn đạt này mơ hồ nên khó hiểu.",
+        "why": "あいまい(曖昧) = mơ hồ, không rõ ràng → dẫn tới わかりにくい (khó hiểu). Hợp logic nhân quả.",
+        "options": [
+          "軟弱 → なんじゃく: yếu mềm, nhu nhược. Sai.",
+          "質素 → しっそ: giản dị, đạm bạc (lối sống). Sai.",
+          "あいまい → mơ hồ, không rõ ràng. ĐÚNG.",
+          "ささやか → nhỏ bé, khiêm tốn (ささやかな贈り物). Sai."
+        ],
+        "vocab": [
+          { "w": "曖昧", "r": "あいまい", "hv": "ÁI MUỘI", "vi": "mơ hồ, nhập nhằng" },
+          { "w": "表現", "r": "ひょうげん", "hv": "BIỂU HIỆN", "vi": "cách diễn đạt" },
+          { "w": "質素", "r": "しっそ", "hv": "CHẤT TỐ", "vi": "giản dị, đạm bạc" },
+          { "w": "軟弱", "r": "なんじゃく", "hv": "NHUYỄN NHƯỢC", "vi": "yếu đuối, nhu nhược" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "あいまい ⇔ 明確(めいかく) rõ ràng."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "この切符は、明日まで（　　）です。",
+      "options": ["利点", "権利", "効用", "有効"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vé này có hiệu lực đến ngày mai.",
+        "why": "有効(ゆうこう) = có hiệu lực, còn giá trị sử dụng. ～まで有効 là cách nói chuẩn cho vé, thẻ, hợp đồng.",
+        "options": [
+          "利点 → りてん: ưu điểm, lợi thế. Sai.",
+          "権利 → けんり: quyền lợi. Sai.",
+          "効用 → こうよう: công dụng, hiệu dụng. Sai.",
+          "有効 → ゆうこう: có hiệu lực. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "有効", "r": "ゆうこう", "hv": "HỮU HIỆU", "vi": "có hiệu lực, hữu hiệu" },
+          { "w": "有効期限", "r": "ゆうこうきげん", "hv": "HỮU HIỆU KỲ HẠN", "vi": "thời hạn hiệu lực" },
+          { "w": "利点", "r": "りてん", "hv": "LỢI ĐIỂM", "vi": "ưu điểm" },
+          { "w": "効用", "r": "こうよう", "hv": "HIỆU DỤNG", "vi": "công dụng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "有効 ⇔ 無効(むこう) vô hiệu."
+      }
+    }
+  ]
+}

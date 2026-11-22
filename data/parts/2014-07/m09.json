@@ -1,0 +1,156 @@
+{
+  "exam": "2014-07",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、 50 から 54 の中に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài để chọn phương án thích hợp nhất cho các chỗ trống từ 50 đến 54.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "以下は、ある雑誌に寄せられた質問と、質問に対する回答である。\n\n田舎にキャンプに行ったとき、夜空には無数の星があり、本当にきれいでした。毎晩あんな空が見たいと思っても、私の街では月しか見えません。都会で星は見られないのでしょうか。（東京・14歳女子）\n\n回答\n都会で星が見えないのは、夜の街の照明が空気中のちりなどに当たって起こる「光害」という公害によるものです。「『光害』と言われても、夜は照明なしで生活できないから、都会で星を見るのはあきらめよう」とあなたは（50）。\nしかし、あきらめる前に少し考えてみてください。照明の登場で夜も明るくなり、人々の生活は安全で便利になりましたが、都会の夜の明るさは必要以上だと思いませんか。また、（51）を受けているのは人間だけです。昼は明るく、夜は暗いという自然のリズムがくずれ、植物や動物に大きな影響を与えています。\n夜、照明を使わなければ、光害はなくなります。（52）、東京のような大都会で夜にまったく照明を使わずに生活するのは現実的に不可能です。そこで、照明を目的に合わせて適切に使うことが、光害対策として重要になります。すでに現在、環境省が定めた光害対策の方針の下、道を照らすなら上方向に光がもれないようにするなどの取り組みが（53）。\n私たちも不要な照明はすぐに消すなど、常に適切な量の光を使おうと意識して行動していく必要があります。時間はかかるかもしれませんが、あなたの街でもキャンプの夜に見たような星が見られるように（54）。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["思うかもしれません", "思ってはいけません", "思わねばなりません", "思わなくてもいいです"],
+      "answer": 1,
+      "explanation": {
+        "translation": "'Dù có nói là ô nhiễm ánh sáng thì ban đêm cũng không thể sống thiếu đèn, nên thôi đành từ bỏ việc ngắm sao ở thành phố' — có lẽ bạn sẽ nghĩ như vậy.",
+        "why": "Người trả lời đoán trước suy nghĩ của người hỏi rồi phản bác ở câu sau 「しかし、あきらめる前に少し考えてみてください」. Vì vậy cần cách nói phỏng đoán nhẹ nhàng: 思うかもしれません (có lẽ bạn sẽ nghĩ).",
+        "options": [
+          "思うかもしれません → có lẽ bạn sẽ nghĩ — dẫn vào しかし phản bác. ĐÚNG.",
+          "思ってはいけません → không được nghĩ — cấm đoán, quá mạnh và không khớp với しかし sau đó. Sai.",
+          "思わねばなりません → phải nghĩ như thế — trái với ý khuyên đừng bỏ cuộc. Sai.",
+          "思わなくてもいいです → không cần nghĩ — không tự nhiên, không nối với しかし. Sai."
+        ],
+        "vocab": [
+          { "w": "光害", "r": "こうがい", "hv": "QUANG HẠI", "vi": "ô nhiễm ánh sáng" },
+          { "w": "照明", "r": "しょうめい", "hv": "CHIẾU MINH", "vi": "đèn chiếu sáng" },
+          { "w": "公害", "r": "こうがい", "hv": "CÔNG HẠI", "vi": "ô nhiễm môi trường" }
+        ],
+        "grammar": {
+          "pattern": "～かもしれません。しかし…",
+          "meaning": "có lẽ ~. Tuy nhiên… (đưa ra ý kiến giả định rồi phản bác)",
+          "form": "V thể thường + かもしれません",
+          "example": "無理だと思うかもしれません。しかし、やってみる価値はあります。"
+        },
+        "evidence": "「…都会で星を見るのはあきらめよう」とあなたは（50）。しかし、あきらめる前に少し考えてみてください。",
+        "tip": "Chỗ trống đứng ngay trước しかし → thường là ý được nêu ra để phản bác."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["どちらも影響", "あのような害", "こちらの照明", "その恩恵"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hơn nữa, người được hưởng lợi ích đó (của đèn chiếu sáng) chỉ có con người.",
+        "why": "Câu trước nói nhờ đèn chiếu sáng mà cuộc sống con người an toàn, tiện lợi (= lợi ích). Câu sau nói thực vật, động vật lại bị ảnh hưởng xấu. Vậy 'chỉ con người được hưởng lợi ích đó' → その恩恵 (その chỉ lợi ích của đèn).",
+        "options": [
+          "どちらも影響 → 'cả hai đều ảnh hưởng' — không hợp với 人間だけ. Sai.",
+          "あのような害 → 'tác hại như thế' — nhưng chính động thực vật mới chịu hại, không phải chỉ con người. Sai.",
+          "こちらの照明 → 'đèn bên này' — không hợp với ～を受ける. Sai.",
+          "その恩恵 → lợi ích đó. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "恩恵", "r": "おんけい", "hv": "ÂN HUỆ", "vi": "ơn huệ, lợi ích" },
+          { "w": "影響を与える", "r": "えいきょうをあたえる", "hv": "ẢNH HƯỞNG DỮ", "vi": "gây ảnh hưởng" },
+          { "w": "崩れる", "r": "くずれる", "hv": "BĂNG", "vi": "sụp đổ, bị phá vỡ" }
+        ],
+        "grammar": null,
+        "evidence": "照明の登場で夜も明るくなり、人々の生活は安全で便利になりました…また、（51）を受けているのは人間だけです。…植物や動物に大きな影響を与えています。",
+        "tip": "恩恵を受ける (hưởng lợi) ↔ 被害を受ける (chịu thiệt hại)."
+      }
+    },
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "（52）に入るもの",
+      "options": ["つまり", "とはいえ", "ところで", "しかも"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Ban đêm nếu không dùng đèn thì ô nhiễm ánh sáng sẽ mất. Tuy nói vậy, nhưng ở thành phố lớn như Tokyo, sống mà hoàn toàn không dùng đèn vào ban đêm là điều không thể trên thực tế.",
+        "why": "Câu trước: không dùng đèn thì hết ô nhiễm (lý thuyết). Câu sau: nhưng thực tế không thể. Hai vế trái chiều kiểu 'tuy nói thế nhưng' → とはいえ.",
+        "options": [
+          "つまり → tức là (diễn giải lại) — không có quan hệ trái chiều. Sai.",
+          "とはいえ → tuy nói vậy nhưng. ĐÚNG.",
+          "ところで → nhân tiện, chuyển chủ đề. Sai.",
+          "しかも → hơn nữa (bổ sung cùng chiều). Sai."
+        ],
+        "vocab": [
+          { "w": "とはいえ", "r": "とはいえ", "hv": "", "vi": "tuy nói vậy nhưng" },
+          { "w": "現実的", "r": "げんじつてき", "hv": "HIỆN THỰC ĐÍCH", "vi": "mang tính thực tế" },
+          { "w": "不可能", "r": "ふかのう", "hv": "BẤT KHẢ NĂNG", "vi": "không thể" }
+        ],
+        "grammar": {
+          "pattern": "とはいえ",
+          "meaning": "tuy nói là vậy nhưng (thừa nhận vế trước rồi nêu thực tế ngược lại)",
+          "form": "Câu A。とはいえ、câu B。",
+          "example": "春になった。とはいえ、まだ寒い日が続いている。"
+        },
+        "evidence": "夜、照明を使わなければ、光害はなくなります。（52）、東京のような大都会で夜にまったく照明を使わずに生活するのは現実的に不可能です。",
+        "tip": "とはいえ ≈ そうはいっても ≈ しかし."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p1",
+      "stem": "（53）に入るもの",
+      "options": ["行われるためです", "行われています", "行われるという点です", "行われているとします"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hiện nay, theo phương châm chống ô nhiễm ánh sáng do Bộ Môi trường đề ra, đã có những nỗ lực đang được thực hiện như khi chiếu sáng đường thì làm sao cho ánh sáng không lọt lên phía trên.",
+        "why": "すでに現在 (hiện nay đã) → diễn tả việc đang diễn ra trên thực tế: 取り組みが行われています.",
+        "options": [
+          "行われるためです → 'là vì được thực hiện' — câu không nêu lý do. Sai.",
+          "行われています → đang được thực hiện. ĐÚNG.",
+          "行われるという点です → 'là ở điểm được thực hiện' — không có chủ đề 'điểm' nào trước đó. Sai.",
+          "行われているとします → 'giả sử là đang được thực hiện' — giả định, mâu thuẫn với すでに現在. Sai."
+        ],
+        "vocab": [
+          { "w": "取り組み", "r": "とりくみ", "hv": "THỦ TỔ", "vi": "nỗ lực, biện pháp triển khai" },
+          { "w": "環境省", "r": "かんきょうしょう", "hv": "HOÀN CẢNH TỈNH", "vi": "Bộ Môi trường" },
+          { "w": "方針", "r": "ほうしん", "hv": "PHƯƠNG CHÂM", "vi": "phương châm, đường lối" },
+          { "w": "漏れる", "r": "もれる", "hv": "LẬU", "vi": "rò rỉ, lọt ra" }
+        ],
+        "grammar": null,
+        "evidence": "すでに現在、環境省が定めた光害対策の方針の下、道を照らすなら上方向に光がもれないようにするなどの取り組みが（53）。",
+        "tip": "すでに／現在 là tín hiệu thì hiện tại tiếp diễn (～ている)."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p1",
+      "stem": "（54）に入るもの",
+      "options": ["なると言えるでしょうか", "なっているとよかったのです", "なるといいですね", "なってほしかったのでしょう"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Có thể sẽ mất thời gian, nhưng mong là ở thành phố của bạn cũng sẽ ngắm được những vì sao như đêm cắm trại nhé.",
+        "why": "Câu kết của thư trả lời, hướng tới tương lai và gửi lời chúc/hy vọng tới người hỏi → なるといいですね (mong là sẽ ~).",
+        "options": [
+          "なると言えるでしょうか → 'liệu có thể nói là sẽ ~ không?' — nghi vấn, phủ định ngầm. Sai.",
+          "なっているとよかったのです → 'giá mà đã ~' — tiếc nuối quá khứ. Sai.",
+          "なるといいですね → mong là sẽ ~. ĐÚNG.",
+          "なってほしかったのでしょう → 'có lẽ đã muốn ~' — quá khứ, phỏng đoán. Sai."
+        ],
+        "vocab": [
+          { "w": "適切", "r": "てきせつ", "hv": "THÍCH THIẾT", "vi": "thích hợp" },
+          { "w": "意識する", "r": "いしきする", "hv": "Ý THỨC", "vi": "có ý thức, để ý" }
+        ],
+        "grammar": {
+          "pattern": "～といいですね",
+          "meaning": "mong là ~, nếu ~ thì tốt nhỉ (hy vọng cho tương lai)",
+          "form": "Vる + といいですね",
+          "example": "明日、晴れるといいですね。"
+        },
+        "evidence": "時間はかかるかもしれませんが、あなたの街でもキャンプの夜に見たような星が見られるように（54）。",
+        "tip": "Câu kết thư/khuyên nhủ thường là lời chúc hướng tương lai."
+      }
+    }
+  ]
+}

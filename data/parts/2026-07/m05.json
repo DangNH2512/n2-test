@@ -1,0 +1,137 @@
+{
+  "exam": "2026-07",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ/cụm từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "質問があったので、<u>メーカー</u>に問い合わせた。",
+      "options": ["製品を輸入した会社", "製品を売った店", "製品を修理した店", "製品を作った会社"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vì có câu hỏi nên tôi đã liên hệ hỏi nhà sản xuất.",
+        "why": "メーカー (maker) = nhà sản xuất, công ty làm ra sản phẩm = 製品を作った会社.",
+        "options": [
+          "製品を輸入した会社 → công ty nhập khẩu sản phẩm (輸入業者). Sai.",
+          "製品を売った店 → cửa hàng bán sản phẩm (販売店). Sai.",
+          "製品を修理した店 → cửa hàng sửa chữa. Sai.",
+          "製品を作った会社 → công ty làm ra sản phẩm = nhà sản xuất. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "メーカー", "r": "メーカー", "hv": "", "vi": "nhà sản xuất" },
+          { "w": "問い合わせる", "r": "といあわせる", "hv": "VẤN HỢP", "vi": "hỏi, liên hệ hỏi thông tin" },
+          { "w": "製品", "r": "せいひん", "hv": "CHẾ PHẨM", "vi": "sản phẩm (chế tạo)" },
+          { "w": "輸入", "r": "ゆにゅう", "hv": "THÂU NHẬP", "vi": "nhập khẩu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "メーカー ≈ 製造元 (せいぞうもと); cửa hàng bán lẻ là 販売店."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "今あなたの国で、<u>はやって</u>いるものは何ですか。",
+      "options": ["制限して", "増加して", "流行して", "発展して"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hiện nay ở nước bạn, thứ gì đang thịnh hành (đang hot)?",
+        "why": "はやる (流行る) = thịnh hành, đang mốt = 流行する (りゅうこう). Chính chữ Hán 流行る cũng đọc là はやる.",
+        "options": [
+          "制限して → せいげん: hạn chế. Sai.",
+          "増加して → ぞうか: tăng lên (số lượng). Sai.",
+          "流行して → りゅうこう: thịnh hành, lưu hành. ĐÚNG.",
+          "発展して → はってん: phát triển. Sai."
+        ],
+        "vocab": [
+          { "w": "流行る", "r": "はやる", "hv": "LƯU HÀNH", "vi": "thịnh hành, phổ biến; (bệnh) lan" },
+          { "w": "流行", "r": "りゅうこう", "hv": "LƯU HÀNH", "vi": "sự thịnh hành, mốt" },
+          { "w": "制限", "r": "せいげん", "hv": "CHẾ HẠN", "vi": "hạn chế" },
+          { "w": "発展", "r": "はってん", "hv": "PHÁT TRIỂN", "vi": "phát triển" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "インフルエンザがはやっている = cúm đang lan rộng (cũng dùng はやる)."
+      }
+    },
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "ここでは、商品を<u>一括</u>して管理している。",
+      "options": ["細かく分けて", "箱に入れて", "しばらくの間", "全部いっしょにして"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Ở đây, hàng hóa được quản lý gộp chung tất cả lại.",
+        "why": "一括 (いっかつ, NHẤT QUÁT) = gộp tất cả làm một = 全部いっしょにして. Ví dụ: 一括払い (trả một lần).",
+        "options": [
+          "細かく分けて → chia nhỏ ra (trái nghĩa). Sai.",
+          "箱に入れて → bỏ vào hộp. Sai.",
+          "しばらくの間 → trong một thời gian. Sai.",
+          "全部いっしょにして → gộp tất cả lại. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "一括", "r": "いっかつ", "hv": "NHẤT QUÁT", "vi": "gộp chung, tổng hợp một lần" },
+          { "w": "管理", "r": "かんり", "hv": "QUẢN LÝ", "vi": "quản lý" },
+          { "w": "一括払い", "r": "いっかつばらい", "hv": "NHẤT QUÁT PHẤT", "vi": "trả một lần" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "一括払い (trả 1 lần) ⇔ 分割払い (ぶんかつばらい: trả góp)."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "先週、<u>思いがけない</u>出来事があった。",
+      "options": ["信じられない", "予想していなかった", "忘れられない", "経験したことがない"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tuần trước đã có một chuyện bất ngờ xảy ra.",
+        "why": "思いがけない = không ngờ tới, bất ngờ = 予想していなかった (không dự đoán trước).",
+        "options": [
+          "信じられない → không thể tin được (mức độ ngạc nhiên mạnh hơn, khác nghĩa). Sai.",
+          "予想していなかった → không lường trước. ĐÚNG.",
+          "忘れられない → không thể quên. Sai.",
+          "経験したことがない → chưa từng trải qua. Sai."
+        ],
+        "vocab": [
+          { "w": "思いがけない", "r": "おもいがけない", "hv": "", "vi": "bất ngờ, không ngờ tới" },
+          { "w": "予想", "r": "よそう", "hv": "DỰ TƯỞNG", "vi": "dự đoán" },
+          { "w": "出来事", "r": "できごと", "hv": "XUẤT LAI SỰ", "vi": "sự việc, chuyện xảy ra" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đồng nghĩa: 意外な (いがいな), 予想外の (よそうがいの)."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "次の目標に向かって、これから<u>いっそう</u>努力しようと思います。",
+      "options": ["もっと", "できるだけ", "しっかり", "いつも"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hướng tới mục tiêu tiếp theo, từ giờ tôi định sẽ nỗ lực hơn nữa.",
+        "why": "いっそう (一層) = hơn nữa, càng thêm = もっと. Diễn tả mức độ tăng thêm so với trước.",
+        "options": [
+          "もっと → hơn nữa. ĐÚNG.",
+          "できるだけ → hết mức có thể. Sai.",
+          "しっかり → chắc chắn, nghiêm túc. Sai.",
+          "いつも → luôn luôn. Sai."
+        ],
+        "vocab": [
+          { "w": "一層", "r": "いっそう", "hv": "NHẤT TẦNG", "vi": "hơn nữa, càng thêm" },
+          { "w": "目標", "r": "もくひょう", "hv": "MỤC TIÊU", "vi": "mục tiêu" },
+          { "w": "努力", "r": "どりょく", "hv": "NỖ LỰC", "vi": "nỗ lực" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đồng nghĩa với いっそう: さらに, ますます, より一層."
+      }
+    }
+  ]
+}

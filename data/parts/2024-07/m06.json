@@ -1,0 +1,164 @@
+{
+  "exam": "2024-07",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn câu sử dụng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "共有",
+      "options": [
+        "市民ボランティアの<u>共有</u>で、留学生のスピーチコンテストが行われた。",
+        "大学と企業が<u>共有</u>で新しい技術の研究を行っている。",
+        "これらの事件には、発生場所に<u>共有</u>の特徴があることが分かった。",
+        "結婚してから購入した物は、夫婦の<u>共有</u>の財産になる。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đáp án 4: Những thứ mua sau khi kết hôn sẽ trở thành tài sản chung của hai vợ chồng.",
+        "why": "共有 (きょうゆう) = cùng sở hữu, dùng chung (tài sản, thông tin). 夫婦の共有の財産 = tài sản thuộc sở hữu chung của vợ chồng.",
+        "options": [
+          "Phải dùng 協力 (きょうりょく – hợp tác/giúp sức): 市民ボランティアの協力で. Sai.",
+          "Phải dùng 共同 (きょうどう – cùng làm): 大学と企業が共同で研究. Sai.",
+          "Phải dùng 共通 (きょうつう – điểm chung): 共通の特徴. Sai.",
+          "夫婦の共有の財産: tài sản chung của vợ chồng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "共有", "r": "きょうゆう", "hv": "CỘNG HỮU", "vi": "sở hữu chung, chia sẻ" },
+          { "w": "共同", "r": "きょうどう", "hv": "CỘNG ĐỒNG", "vi": "cùng nhau (làm), chung" },
+          { "w": "共通", "r": "きょうつう", "hv": "CỘNG THÔNG", "vi": "chung, giống nhau" },
+          { "w": "財産", "r": "ざいさん", "hv": "TÀI SẢN", "vi": "tài sản" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "共有 = cùng CÓ (情報を共有する); 共同 = cùng LÀM; 共通 = cùng GIỐNG."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "鋭い",
+      "options": [
+        "動物たちが自然界で生きていくためには、<u>鋭い</u>感覚が必要だ。",
+        "弟は記憶が<u>鋭くて</u>、本に載っているたくさんの国名や国旗をすぐに覚えた。",
+        "赤ちゃんの肌は<u>鋭い</u>から、少しの刺激で赤くなってしまう。",
+        "運動の能力が<u>鋭い</u>人は、どんなスポーツでもすぐに上達する。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Đáp án 1: Để động vật sống được trong thế giới tự nhiên thì cần có giác quan nhạy bén.",
+        "why": "鋭い (するどい) = sắc, nhọn; (giác quan, trực giác, ánh mắt) nhạy bén. 鋭い感覚／鋭い勘 là kết hợp tự nhiên.",
+        "options": [
+          "鋭い感覚: giác quan nhạy bén. ĐÚNG.",
+          "Trí nhớ phải nói 記憶力がいい, không nói 記憶が鋭い. Sai.",
+          "Da trẻ em phải là 敏感 (びんかん – nhạy cảm) hoặc 弱い. Sai.",
+          "Năng lực vận động phải là 高い／優れている (運動神経がいい). Sai."
+        ],
+        "vocab": [
+          { "w": "鋭い", "r": "するどい", "hv": "DUỆ", "vi": "sắc, nhọn; nhạy bén" },
+          { "w": "感覚", "r": "かんかく", "hv": "CẢM GIÁC", "vi": "giác quan, cảm giác" },
+          { "w": "敏感", "r": "びんかん", "hv": "MẪN CẢM", "vi": "nhạy cảm" },
+          { "w": "上達", "r": "じょうたつ", "hv": "THƯỢNG ĐẠT", "vi": "tiến bộ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Collocation: 鋭いナイフ, 鋭い目つき, 鋭い質問, 勘が鋭い."
+      }
+    },
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "はきはき",
+      "options": [
+        "よく眠ったので、今日は頭が<u>はきはき</u>としている。",
+        "ビルの屋上から、遠くの山が<u>はきはき</u>と見える。",
+        "その学生は、聞かれたことに<u>はきはき</u>と答えた。",
+        "ミスの原因を<u>はきはき</u>とさせるために、調査が行われた。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đáp án 3: Sinh viên đó trả lời rõ ràng, mạch lạc những gì được hỏi.",
+        "why": "はきはき = (nói năng, thái độ) rõ ràng, dứt khoát, hoạt bát. Thường đi với 答える・話す.",
+        "options": [
+          "Đầu óc tỉnh táo phải là すっきり. Sai.",
+          "Nhìn thấy rõ phải là はっきり. Sai.",
+          "はきはきと答えた: trả lời rõ ràng, dứt khoát. ĐÚNG.",
+          "Làm rõ nguyên nhân phải là はっきりさせる／明らかにする. Sai."
+        ],
+        "vocab": [
+          { "w": "はきはき", "r": "はきはき", "hv": "", "vi": "rõ ràng, dứt khoát (lời nói, thái độ)" },
+          { "w": "はっきり", "r": "はっきり", "hv": "", "vi": "rõ ràng (nhìn, nghe, sự thật)" },
+          { "w": "すっきり", "r": "すっきり", "hv": "", "vi": "sảng khoái, nhẹ nhõm, gọn gàng" },
+          { "w": "屋上", "r": "おくじょう", "hv": "ỐC THƯỢNG", "vi": "sân thượng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "はきはき chỉ dùng cho cách nói/thái độ của người; はっきり dùng rộng hơn."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "鑑賞",
+      "options": [
+        "学校の授業で、工場へ行って自動車を組み立てる様子を<u>鑑賞した</u>。",
+        "週末、市のコンサートホールでクラシック音楽を<u>鑑賞した</u>。",
+        "資料を読んで、自然を守るための国の活動について<u>鑑賞した</u>。",
+        "レストランで、素材の良さを生かした料理を舌でじっくり<u>鑑賞した</u>。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Đáp án 2: Cuối tuần, tôi đã thưởng thức nhạc cổ điển ở phòng hòa nhạc của thành phố.",
+        "why": "鑑賞 (かんしょう) = thưởng thức tác phẩm nghệ thuật (âm nhạc, phim, tranh). 音楽鑑賞 là cách dùng chuẩn.",
+        "options": [
+          "Đi xem nhà máy lắp ráp phải là 見学 (けんがく – tham quan học tập). Sai.",
+          "クラシック音楽を鑑賞した: thưởng thức nhạc cổ điển. ĐÚNG.",
+          "Đọc tài liệu tìm hiểu phải là 調べた／学習した. Sai.",
+          "Thưởng thức món ăn phải là 味わった. Sai."
+        ],
+        "vocab": [
+          { "w": "鑑賞", "r": "かんしょう", "hv": "GIÁM THƯỞNG", "vi": "thưởng thức (nghệ thuật)" },
+          { "w": "見学", "r": "けんがく", "hv": "KIẾN HỌC", "vi": "tham quan học hỏi" },
+          { "w": "味わう", "r": "あじわう", "hv": "VỊ", "vi": "nếm, thưởng thức (món ăn)" },
+          { "w": "組み立てる", "r": "くみたてる", "hv": "TỔ LẬP", "vi": "lắp ráp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đừng nhầm 鑑賞 (thưởng thức nghệ thuật) với 観賞 (ngắm cảnh, cá cảnh) và 感傷 (đa cảm) – đều đọc かんしょう."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "着々",
+      "options": [
+        "ベランダが<u>着々</u>と古くなって危険なので、修理を決めた。",
+        "ゲームに夢中になっていたら、時間が<u>着々</u>とたっていた。",
+        "来週のパーティーの準備は<u>着々</u>と進んでいるようだ。",
+        "夕方になって、外は<u>着々</u>と涼しくなってきている。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đáp án 3: Việc chuẩn bị cho bữa tiệc tuần sau có vẻ đang tiến triển đều đặn.",
+        "why": "着々 (ちゃくちゃく) = (công việc, kế hoạch) tiến triển từng bước, đều đặn, vững chắc. Thường đi với 進む・準備.",
+        "options": [
+          "Cũ dần theo thời gian phải là だんだん／年々. Sai.",
+          "Thời gian trôi lúc nào không hay phải là いつの間にか. Sai.",
+          "準備は着々と進んでいる: chuẩn bị tiến triển đều đặn. ĐÚNG.",
+          "Trời mát dần phải là だんだん／次第に. Sai."
+        ],
+        "vocab": [
+          { "w": "着々", "r": "ちゃくちゃく", "hv": "TRƯỚC TRƯỚC", "vi": "đều đặn, từng bước vững chắc" },
+          { "w": "準備", "r": "じゅんび", "hv": "CHUẨN BỊ", "vi": "chuẩn bị" },
+          { "w": "夢中", "r": "むちゅう", "hv": "MỘNG TRUNG", "vi": "say mê, mải mê" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "着々 chỉ dùng cho việc con người tiến hành có mục tiêu (工事・準備・計画が着々と進む), không dùng cho thay đổi tự nhiên."
+      }
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "exam": "2010-12",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（1）から（5）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(5) rồi chọn câu trả lời đúng nhất cho mỗi câu hỏi (đoạn văn ngắn).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "森はいつも独特な香りに包まれ、さわやかに感じられるが、それは<u>ある物質</u>の効果によるものだ。その物質は、木々が動けない体を守るために自ら作り出すもので、木につく虫や細菌（注）の増加を防いだり、落ち葉や枯れ木が腐ったときなどに生じる嫌なにおいを消したりする働きを持っている。さらにその物質には、人間の神経を安静させる効果もあるという。私たちが森林に入るとリラックスした気分になるのは、このためだ。\n\n（注）細菌：非常に小さくて目に見えない生物"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "「練習のための練習」が行われているというチームがたくさんあります。練習は本番の試合のために存在すべきものです。本番で最高の実力を発揮させるためにすることを、練習と呼びます。すなわち、休養することが試合にとって、今、最もするべきことだとすれば、休養こそ勝つための練習といえるときがあるのです。休養はサボることではなく、時として練習なのです。\n\n（辻秀一『スラムダンク勝利学』による）"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "大手ハンバーガー店が今月16日から30日まで、新商品がまずかったら全額返金するというキャンペーン（注）を実施する。通信販売などでは、注文した商品が気に入らなければその代金を客に返金するという保証制度は一般的だが、ハンバーガー店のような外食産業では非常に珍しい試みだ。味への自信を示すことが目的で、全国で一斉に行われる。返金は当日限りで、期間中１人１回のみ、それから商品を半分以上食べていないことが条件だ。\n\n（注）キャンペーン：ここでは、販売方法"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "以下は、ある会社が新商品の発表会で来場者に渡した案内である。\n\nご案内\n\n本日は東西インテリア新作ベッド発表会にご来場くださり、まことにありがとうございます。\n商品購入（注1）をご希望のお客様は、受付でお渡ししたご来場者カードに商品番号をご記入いただき、販売スタッフにお渡しください。販売スタッフがお届け先やご希望日をお伺いし、その後、お会計となります。なお、その際に会員証を提示（注2）されますと５%割引とさせていただきます。\n何かご不明な点がございましたら、お気軽に販売スタッフにお声をおかけください。\n\n（注1）購入：買うこと\n（注2）提示する：見せる"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "会社勤めの生活は楽だった。\n楽しくはないが、楽だった。\nずっと一人で生きてきた後で、集団に入ってみると、その居心地のよさ、安楽さに驚くのである。一人の時は、朝目覚めて寝るまで「何をすべきか」という判断、決定を自分でしなければならない。つまり、それを「自由」というのだが、実力のないものには自由は重すぎる。一日中、選択と決断をし、その結果を自分一人で引き受けねばならない。\n\n（野田知佑『旅へ―新・放浪記１』による）"
+    }
+  ],
+  "questions": [
+    {
+      "num": 55,
+      "passage": "p1",
+      "stem": "<u>ある物質</u>の働きについて、この文章からわかることは何か。",
+      "options": ["人間の持つ嫌なにおいを防ぐ。", "人々の気持ちを落ち着かせる。", "落ち葉や枯れ木を腐りにくくする。", "木々がもともと持っているにおいを消す。"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Về tác dụng của ‘một chất nọ’, điều có thể biết từ bài là gì? → Làm tâm trạng con người dịu lại.",
+        "why": "Bài viết nói chất này có tác dụng 人間の神経を安静させる (làm thần kinh con người bình ổn) → vào rừng thấy thư giãn. ‘Làm thư thái thần kinh’ = 気持ちを落ち着かせる.",
+        "options": [
+          "Chất này khử mùi khó chịu sinh ra khi lá rụng/cây khô mục, không phải mùi của con người. Sai.",
+          "Làm tâm trạng con người dịu lại (= 神経を安静させる). ĐÚNG.",
+          "Bài không nói làm lá/cây khó mục; chỉ nói khử mùi khi chúng mục. Sai.",
+          "Chất này tạo ra mùi hương của rừng, không phải khử mùi vốn có của cây. Sai."
+        ],
+        "vocab": [
+          { "w": "物質", "r": "ぶっしつ", "hv": "VẬT CHẤT", "vi": "chất, vật chất" },
+          { "w": "安静", "r": "あんせい", "hv": "AN TĨNH", "vi": "yên tĩnh, nghỉ ngơi" },
+          { "w": "神経", "r": "しんけい", "hv": "THẦN KINH", "vi": "thần kinh" },
+          { "w": "腐る", "r": "くさる", "hv": "HỦ", "vi": "thối, mục" }
+        ],
+        "grammar": null,
+        "evidence": "さらにその物質には、人間の神経を安静させる効果もあるという。私たちが森林に入るとリラックスした気分になるのは、このためだ。",
+        "tip": "Bẫy: lựa chọn ghép sai đối tượng (mùi của lá mục ≠ mùi của người; khử mùi ≠ làm khó mục)."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p2",
+      "stem": "筆者は、試合で実力を出すために何が大事だと述べているか。",
+      "options": ["「練習のための練習」をすること。", "練習でも最高の力を出すこと。", "必要であれば休養を取ること。", "試合の前に休養を取ること。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Theo tác giả, để phát huy thực lực trong trận đấu, điều gì là quan trọng? → Nghỉ ngơi nếu cần thiết.",
+        "why": "Tác giả: luyện tập là để phát huy tốt nhất trong trận đấu; nếu nghỉ ngơi là việc cần làm nhất lúc này (だとすれば) thì nghỉ ngơi chính là luyện tập. Điều kiện ‘nếu cần’ → 必要であれば休養を取る.",
+        "options": [
+          "Tác giả phê phán ‘luyện tập vì luyện tập’. Sai.",
+          "Bài nói phát huy tối đa ở TRẬN ĐẤU, không phải ở buổi tập. Sai.",
+          "Nghỉ ngơi khi cần thiết. ĐÚNG.",
+          "Bài không nói lúc nào cũng nghỉ trước trận; chỉ là ‘khi’ nghỉ là cần thiết (時として). Sai."
+        ],
+        "vocab": [
+          { "w": "休養", "r": "きゅうよう", "hv": "HƯU DƯỠNG", "vi": "nghỉ ngơi, tĩnh dưỡng" },
+          { "w": "本番", "r": "ほんばん", "hv": "BẢN PHIÊN", "vi": "lúc thật sự, buổi chính thức" },
+          { "w": "発揮", "r": "はっき", "hv": "PHÁT HUY", "vi": "phát huy" },
+          { "w": "時として", "r": "ときとして", "hv": "THỜI", "vi": "đôi khi" }
+        ],
+        "grammar": {
+          "pattern": "～とすれば",
+          "meaning": "nếu giả định là ~ thì",
+          "form": "普通形＋とすれば",
+          "example": "それが本当だとすれば、大変なことだ。"
+        },
+        "evidence": "休養することが試合にとって、今、最もするべきことだとすれば、休養こそ勝つための練習といえるときがあるのです。休養はサボることではなく、時として練習なのです。",
+        "tip": "Phương án 4 quá tuyệt đối (‘trước trận thì nghỉ’); bài chỉ nói ‘khi cần’ (だとすれば・時として)."
+      }
+    },
+    {
+      "num": 57,
+      "passage": "p3",
+      "stem": "大手ハンバーガー店が今月16日から実施するのは次のどれか。",
+      "options": ["新商品がまずければいつでも全額返金する。", "どの商品でもまずければ条件付きで全額返金する。", "新商品の味が気に入らなければ、条件付きで全額返金する。", "どの商品でも味が気に入らなければ１回だけ全額返金する。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều mà chuỗi hamburger lớn thực hiện từ ngày 16 tháng này là gì? → Nếu không thích vị của sản phẩm mới thì hoàn lại toàn bộ tiền có điều kiện.",
+        "why": "Chỉ áp dụng cho 新商品, và có điều kiện: chỉ trong ngày, mỗi người 1 lần, chưa ăn quá nửa → ‘新商品・条件付き’.",
+        "options": [
+          "Sai ‘いつでも’: chỉ từ 16–30 và hoàn trong ngày. Sai.",
+          "Sai ‘どの商品でも’: chỉ sản phẩm mới. Sai.",
+          "Sản phẩm mới + có điều kiện. ĐÚNG.",
+          "Sai ‘どの商品でも’, và điều kiện không chỉ là 1 lần. Sai."
+        ],
+        "vocab": [
+          { "w": "全額返金", "r": "ぜんがくへんきん", "hv": "TOÀN NGẠCH PHẢN KIM", "vi": "hoàn lại toàn bộ tiền" },
+          { "w": "実施", "r": "じっし", "hv": "THỰC THI", "vi": "thực hiện, tiến hành" },
+          { "w": "外食産業", "r": "がいしょくさんぎょう", "hv": "NGOẠI THỰC SẢN NGHIỆP", "vi": "ngành ăn uống bên ngoài" },
+          { "w": "当日限り", "r": "とうじつかぎり", "hv": "ĐƯƠNG NHẬT HẠN", "vi": "chỉ trong ngày hôm đó" }
+        ],
+        "grammar": null,
+        "evidence": "新商品がまずかったら全額返金するというキャンペーンを実施する。…返金は当日限りで、期間中１人１回のみ、それから商品を半分以上食べていないことが条件だ。",
+        "tip": "Loại câu ‘nội dung thông báo’: đối chiếu từng chi tiết — đối tượng (新商品), thời gian, điều kiện."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p4",
+      "stem": "商品を買いたい場合はどうすればいいか。",
+      "options": [
+        "来場者カードに商品番号とお届け先および希望日を記入して販売スタッフに渡した後、代金を支払う。",
+        "来場者カードに商品番号と配達希望日を記入して販売スタッフに渡し、商品が自宅に届いたときに代金を支払う。",
+        "商品番号と希望日など書いた来場者カードを販売スタッフに渡し、商品を届けてもらった後で代金を支払う。",
+        "商品番号を書いた来場者カードを販売スタッフに渡して配達日などを確認した後、代金を支払う。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nếu muốn mua sản phẩm thì phải làm thế nào? → Đưa thẻ khách tham dự có ghi mã sản phẩm cho nhân viên, xác nhận ngày giao hàng v.v. rồi thanh toán.",
+        "why": "Quy trình: (1) chỉ ghi MÃ SẢN PHẨM lên thẻ → (2) đưa nhân viên → (3) nhân viên HỎI địa chỉ giao và ngày mong muốn → (4) thanh toán ngay sau đó (その後、お会計).",
+        "options": [
+          "Khách không tự ghi địa chỉ, ngày giao lên thẻ; nhân viên hỏi. Sai.",
+          "Không tự ghi ngày giao, và thanh toán tại chỗ chứ không phải khi hàng đến. Sai.",
+          "Không ghi ngày mong muốn; thanh toán trước khi giao hàng. Sai.",
+          "Ghi mã → đưa nhân viên → xác nhận ngày giao → trả tiền. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "来場者", "r": "らいじょうしゃ", "hv": "LAI TRƯỜNG GIẢ", "vi": "khách đến dự" },
+          { "w": "記入", "r": "きにゅう", "hv": "KÝ NHẬP", "vi": "ghi vào, điền" },
+          { "w": "お届け先", "r": "おとどけさき", "hv": "GIỚI TIÊN", "vi": "địa chỉ giao hàng" },
+          { "w": "会計", "r": "かいけい", "hv": "HỘI KẾ", "vi": "thanh toán, tính tiền" }
+        ],
+        "grammar": null,
+        "evidence": "ご来場者カードに商品番号をご記入いただき、販売スタッフにお渡しください。販売スタッフがお届け先やご希望日をお伺いし、その後、お会計となります。",
+        "tip": "Chú ý AI làm việc gì: khách chỉ ghi 商品番号; お伺いする (hỏi) là việc của nhân viên."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p5",
+      "stem": "筆者によると、なぜ会社勤めが楽だったのか。",
+      "options": ["実力があれば、自由にできる部分もあるから。", "周囲の協力が得られれば、時間を自由に使えるから。", "自分の能力に適したしごとが与えられ無理がないから。", "自分一人で決めることも責任を取ることもしなくて済むから。"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, tại sao đi làm công ty lại nhàn? → Vì không phải tự mình quyết định và cũng không phải tự chịu trách nhiệm.",
+        "why": "Tác giả so sánh: khi một mình phải tự phán đoán, quyết định mọi việc và tự gánh kết quả (自分一人で引き受けねばならない) → ở công ty thì không phải vậy → nhàn.",
+        "options": [
+          "Bài nói người không có thực lực thì tự do là quá nặng, không nói ‘có thực lực thì được tự do’ ở công ty. Sai.",
+          "Không nhắc đến sự hợp tác của người xung quanh. Sai.",
+          "Không nhắc công việc phù hợp năng lực. Sai.",
+          "Không phải tự quyết và tự chịu trách nhiệm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "会社勤め", "r": "かいしゃづとめ", "hv": "HỘI XÃ CẦN", "vi": "làm việc ở công ty" },
+          { "w": "居心地", "r": "いごこち", "hv": "CƯ TÂM ĐỊA", "vi": "cảm giác dễ chịu khi ở đâu đó" },
+          { "w": "決断", "r": "けつだん", "hv": "QUYẾT ĐOÁN", "vi": "quyết đoán, quyết định" },
+          { "w": "引き受ける", "r": "ひきうける", "hv": "DẪN THỤ", "vi": "đảm nhận, gánh vác" }
+        ],
+        "grammar": {
+          "pattern": "～ねばならない",
+          "meaning": "phải ~ (văn viết của なければならない)",
+          "form": "Vない(bỏ ない)＋ねばならない (する→せねば)",
+          "example": "約束は守らねばならない。"
+        },
+        "evidence": "一人の時は、朝目覚めて寝るまで「何をすべきか」という判断、決定を自分でしなければならない。…一日中、選択と決断をし、その結果を自分一人で引き受けねばならない。",
+        "tip": "Câu hỏi ‘tại sao A’ nhưng bài chỉ mô tả ‘không A’ (khi một mình) → suy ngược lại."
+      }
+    }
+  ]
+}

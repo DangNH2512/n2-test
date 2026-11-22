@@ -1,0 +1,141 @@
+{
+  "exam": "2011-12",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、50から54の中に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án đúng nhất cho các ô 50–54.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "日本の家の寿命",
+      "text": "以下は、雑誌のコラムである。\n\n日本の家の寿命\n\nもし家を建てるなら、どんな家がいいですか。もちろん長く住める家がいいですよね。日本で町を見渡してみると、頑丈そうな建物が並んでいます。ところが、ある調査によると日本の家の平均寿命は、英国77年、米国55年に比べて短く30年ほどだそうです。（50）結果になったのでしょうか。\n原因の一つに、戦後の日本の特殊な住宅事情があるようです。第二次世界大戦後、日本では、家不足が深刻だったため、質より量を優先させて家が作られました。しかし、経済が成長して生活に余裕が生まれると、人々はより質の高い家を求めるようになります。そこで、それまでの家は次々に（51）そうです。その結果、町には、今のような頑丈そうな質の高い住宅が立ち並ぶことになったのです。\nまた、日本人の住宅観も原因として（52）。日本には、家はそこに住む家族に合わせて建てるという考え方があります。たとえば、将来子供が生まれ、家族が増えることを考えて建てた家も、子供が成人して独立してしまうと、夫婦二人だけの生活には合わなくなります。そのため、年をとった夫婦のために住むのに適した家へと建て替えるのです。そんなふうに家族の形が変わったとき、今まで住んでいた家を建て替えることも少なくないそうです。\n（53）、日本では家を建て替えることが多いために、家の平均寿命が短いという調査結果になったのだと思います。平均寿命30年というのは、30年で壊れてしまうという意味ではないのです。もし皆さんが、自分のために、家族のために、日本で家を建てるなら…。どんな（54）"
+    }
+  ],
+  "questions": [
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["なぜこのような", "なぜあのような", "果たしてどのような", "はたしてそのような"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tại sao lại ra kết quả như thế này?",
+        "why": "Câu trước vừa nêu kết quả điều tra (tuổi thọ nhà Nhật chỉ khoảng 30 năm). Người viết đặt câu hỏi về nguyên nhân → cần なぜ; chỉ thông tin vừa nêu trong bài bằng この → なぜこのような結果. Đoạn sau trả lời bằng 原因の一つに….",
+        "options": [
+          "なぜこのような → \"tại sao lại như thế này\" – hỏi nguyên nhân của kết quả vừa nêu. ĐÚNG.",
+          "なぜあのような → あの chỉ điều cả hai cùng biết/xa trong ký ức, không chỉ nội dung vừa viết. Sai.",
+          "果たしてどのような → \"rốt cuộc là kết quả thế nào?\" – nhưng kết quả đã nêu rồi. Sai.",
+          "はたしてそのような → \"liệu có thật ra kết quả như thế?\" – nghi ngờ kết quả, không khớp mạch hỏi nguyên nhân. Sai."
+        ],
+        "vocab": [
+          { "w": "寿命", "r": "じゅみょう", "hv": "THỌ MỆNH", "vi": "tuổi thọ" },
+          { "w": "頑丈", "r": "がんじょう", "hv": "NGOAN TRƯỢNG", "vi": "chắc chắn, kiên cố" },
+          { "w": "見渡す", "r": "みわたす", "hv": "KIẾN ĐỘ", "vi": "nhìn bao quát" },
+          { "w": "果たして", "r": "はたして", "hv": "QUẢ", "vi": "rốt cuộc, liệu có thật" }
+        ],
+        "grammar": { "pattern": "なぜこのような〜のでしょうか", "meaning": "tại sao lại ~ như thế này? (đặt vấn đề)", "form": "なぜ＋このような＋N＋になったのでしょうか", "example": "なぜこのような事故が起きたのでしょうか。" },
+        "evidence": "日本の家の平均寿命は、英国77年、米国55年に比べて短く30年ほどだそうです。（50）結果になったのでしょうか。原因の一つに、…",
+        "tip": "Câu hỏi đặt vấn đề → đoạn sau trả lời bằng 原因 → chọn なぜ."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["建て替えていく", "建て替えさせていた", "建て替えさせられていた", "建て替えられていった"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vì vậy, những ngôi nhà trước đó nghe nói đã lần lượt bị xây lại.",
+        "why": "Chủ ngữ là それまでの家 (vật) → cần bị động 建て替えられる. 〜ていった diễn tả sự thay đổi tiếp diễn dần theo thời gian quá khứ, hợp với 次々に; そうです (truyền đạt) đi sau thể thường quá khứ.",
+        "options": [
+          "建て替えていく → chủ động (nhà tự xây lại?) và thì hiện tại, không hợp. Sai.",
+          "建て替えさせていた → sai khiến – không có người bị sai khiến. Sai.",
+          "建て替えさせられていた → sai khiến bị động – chủ ngữ là nhà nên vô lý. Sai.",
+          "建て替えられていった → (nhà) lần lượt bị xây lại. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "建て替える", "r": "たてかえる", "hv": "KIẾN THẾ", "vi": "xây lại (phá cũ, xây mới)" },
+          { "w": "次々に", "r": "つぎつぎに", "hv": "THỨ", "vi": "lần lượt" },
+          { "w": "余裕", "r": "よゆう", "hv": "DƯ DỤ", "vi": "dư dả" },
+          { "w": "優先", "r": "ゆうせん", "hv": "ƯU TIÊN", "vi": "ưu tiên" }
+        ],
+        "grammar": { "pattern": "Vられて＋いった", "meaning": "(bị) ~ dần dần (thay đổi tiến triển trong quá khứ)", "form": "V受身て形＋いく／いった", "example": "古い建物は次々に壊されていった。" },
+        "evidence": "そこで、それまでの家は次々に（51）そうです。",
+        "tip": "Chủ ngữ là vật → ưu tiên thể bị động. Bản PDF in phương án 3 thiếu chữ cuối (「建て替えさせられてい」), đã bổ sung thành 〜ていた."
+      }
+    },
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "（52）に入るもの",
+      "options": ["思われます", "わかります", "考えられます", "調べられます"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Ngoài ra, quan niệm về nhà ở của người Nhật cũng có thể được xem là một nguyên nhân.",
+        "why": "〜として考えられる = có thể được xem là ~ (nêu khả năng một cách khách quan). Cụm として kết hợp tự nhiên với 考えられる, và người viết chỉ đang suy luận nguyên nhân.",
+        "options": [
+          "思われます → 思う không đi với として như vậy (〜として思われる không tự nhiên); thường dùng 〜と思われる. Sai.",
+          "わかります → khẳng định chắc chắn \"biết rõ\", quá mạnh; cũng không đi với として. Sai.",
+          "考えられます → có thể được xem là (nguyên nhân). ĐÚNG.",
+          "調べられます → có thể điều tra – sai nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "住宅観", "r": "じゅうたくかん", "hv": "TRÚ TRẠCH QUAN", "vi": "quan niệm về nhà ở" },
+          { "w": "原因", "r": "げんいん", "hv": "NGUYÊN NHÂN", "vi": "nguyên nhân" },
+          { "w": "独立", "r": "どくりつ", "hv": "ĐỘC LẬP", "vi": "tự lập, ra ở riêng" }
+        ],
+        "grammar": { "pattern": "〜として考えられる", "meaning": "có thể được xem là ~", "form": "N＋として考えられる", "example": "事故の原因として、運転手の不注意が考えられる。" },
+        "evidence": "また、日本人の住宅観も原因として（52）。",
+        "tip": "Mẫu cố định: 原因として〜が考えられる."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p1",
+      "stem": "（53）に入るもの",
+      "options": ["ところで", "つまり", "なぜなら", "もちろん"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tóm lại, vì ở Nhật người ta hay xây lại nhà nên kết quả điều tra mới cho thấy tuổi thọ trung bình của nhà ngắn.",
+        "why": "Đoạn cuối tổng kết hai nguyên nhân đã nêu (xây lại sau chiến tranh + xây lại theo gia đình) → dùng つまり (tóm lại, nói cách khác).",
+        "options": [
+          "ところで → nhân tiện, chuyển chủ đề. Sai.",
+          "つまり → tóm lại. ĐÚNG.",
+          "なぜなら → bởi vì (phải kết thúc bằng 〜からだ). Sai.",
+          "もちろん → tất nhiên. Sai."
+        ],
+        "vocab": [
+          { "w": "つまり", "r": "つまり", "hv": "", "vi": "tóm lại, tức là" },
+          { "w": "調査結果", "r": "ちょうさけっか", "hv": "ĐIỀU TRA KẾT QUẢ", "vi": "kết quả điều tra" }
+        ],
+        "grammar": { "pattern": "つまり", "meaning": "tóm lại, nói cách khác (tổng kết)", "form": "câu trước。つまり、câu tổng kết", "example": "彼は母の兄、つまり私のおじだ。" },
+        "evidence": "（53）、日本では家を建て替えることが多いために、家の平均寿命が短いという調査結果になったのだと思います。",
+        "tip": "Đoạn kết + 〜のだと思います → thường là từ tổng kết つまり／このように."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p1",
+      "stem": "（54）に入るもの",
+      "options": ["家を建てたのですか", "家に住めたのですか", "家を建てますか", "家に住めますか"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nếu các bạn xây nhà ở Nhật, vì bản thân, vì gia đình… Bạn sẽ xây ngôi nhà như thế nào?",
+        "why": "Câu trước là giả định tương lai: もし皆さんが…家を建てるなら… → câu hỏi phải ở thể hiện tại/tương lai về việc xây nhà: どんな家を建てますか. Cũng khớp câu mở đầu もし家を建てるなら、どんな家がいいですか.",
+        "options": [
+          "家を建てたのですか → quá khứ, mâu thuẫn với giả định もし〜なら. Sai.",
+          "家に住めたのですか → quá khứ + khả năng, không hợp. Sai.",
+          "家を建てますか → sẽ xây nhà thế nào. ĐÚNG.",
+          "家に住めますか → \"có thể sống ở nhà thế nào\" – lệch với chủ đề 建てるなら. Sai."
+        ],
+        "vocab": [
+          { "w": "建てる", "r": "たてる", "hv": "KIẾN", "vi": "xây dựng" },
+          { "w": "皆さん", "r": "みなさん", "hv": "GIAI", "vi": "mọi người, các bạn" }
+        ],
+        "grammar": null,
+        "evidence": "もし皆さんが、自分のために、家族のために、日本で家を建てるなら…。どんな（54）",
+        "tip": "Câu kết thường lặp lại câu mở đầu: もし家を建てるなら、どんな家がいいですか."
+      }
+    }
+  ]
+}

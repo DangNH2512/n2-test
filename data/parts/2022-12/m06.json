@@ -1,0 +1,165 @@
+{
+  "exam": "2022-12",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn câu sử dụng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "頑固",
+      "options": [
+        "木村さんはとても<u>頑固</u>で、自分の考えを変えない。",
+        "瓶のふたが<u>頑固</u>で、いくら力を入れても開かない。",
+        "兄は体が<u>頑固</u>なので、風邪をほとんどひかない。",
+        "相手チームの守りがとても<u>頑固</u>で、点を取れない。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Anh Kimura rất cứng đầu, không chịu thay đổi suy nghĩ của mình.",
+        "why": "頑固 (がんこ: NGOAN CỐ) = cứng đầu, bảo thủ — chỉ tính cách con người, không thay đổi ý kiến. Câu 1 dùng đúng.",
+        "options": [
+          "Anh Kimura cứng đầu, không đổi ý. ĐÚNG.",
+          "Nắp chai chặt → phải dùng 固い／きつい (ふたが固い). Sai.",
+          "Cơ thể khỏe → phải dùng 丈夫 (体が丈夫). Sai.",
+          "Hàng phòng thủ vững chắc → phải dùng 堅い (守りが堅い). Sai."
+        ],
+        "vocab": [
+          { "w": "頑固", "r": "がんこ", "hv": "NGOAN CỐ", "vi": "cứng đầu, bảo thủ" },
+          { "w": "丈夫", "r": "じょうぶ", "hv": "TRƯỢNG PHU", "vi": "khỏe mạnh, bền" },
+          { "w": "瓶", "r": "びん", "hv": "BÌNH", "vi": "chai, lọ" },
+          { "w": "守り", "r": "まもり", "hv": "THỦ", "vi": "sự phòng thủ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "頑固 chỉ dùng cho người (tính cách) hoặc vết bẩn khó tẩy (頑固な汚れ)."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "打ち合わせ",
+      "options": [
+        "本日11時から、来月の講演会の<u>打ち合わせ</u>を行います。",
+        "高校生のころはよく、親友と互いの悩みの<u>打ち合わせ</u>をしました。",
+        "ホテルに電話をして、眼鏡の忘れ物がないか<u>打ち合わせ</u>をしました。",
+        "実験の後、失敗の原因について<u>打ち合わせ</u>を行いました。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Từ 11 giờ hôm nay, chúng ta sẽ họp bàn bạc trước về buổi diễn thuyết tháng sau.",
+        "why": "打ち合わせ (うちあわせ) = cuộc họp trao đổi, bàn bạc trước để chuẩn bị cho một công việc/sự kiện sắp tới. Câu 1 bàn trước cho buổi diễn thuyết → đúng.",
+        "options": [
+          "Họp chuẩn bị cho buổi diễn thuyết tháng sau. ĐÚNG.",
+          "Tâm sự nỗi lo với bạn thân → 相談. Sai.",
+          "Gọi điện hỏi khách sạn về đồ để quên → 問い合わせ. Sai.",
+          "Thảo luận nguyên nhân thất bại (việc đã qua) → 話し合い／検討. Sai."
+        ],
+        "vocab": [
+          { "w": "打ち合わせ", "r": "うちあわせ", "hv": "ĐẢ HỢP", "vi": "họp bàn bạc trước" },
+          { "w": "講演会", "r": "こうえんかい", "hv": "GIẢNG DIỄN HỘI", "vi": "buổi diễn thuyết" },
+          { "w": "問い合わせ", "r": "といあわせ", "hv": "VẤN HỢP", "vi": "hỏi thăm, liên hệ hỏi" },
+          { "w": "悩み", "r": "なやみ", "hv": "NÃO", "vi": "nỗi lo, phiền muộn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "打ち合わせ hướng tới việc sắp làm; 問い合わせ = hỏi để biết thông tin."
+      }
+    },
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "中断",
+      "options": [
+        "急に仕事が入ってしまい、レストランの予約を<u>中断した</u>。",
+        "部屋のカーテンを閉めて、太陽の光を<u>中断した</u>。",
+        "雨が強くなってきたので、やむまで試合を<u>中断した</u>。",
+        "今日は用事があるため、友人からの誘いを<u>中断した</u>。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vì mưa to lên nên trận đấu đã tạm dừng cho đến khi tạnh.",
+        "why": "中断 (ちゅうだん: TRUNG ĐOẠN) = tạm dừng giữa chừng một việc đang diễn ra (và sẽ tiếp tục sau). Trận đấu đang diễn ra bị dừng do mưa → đúng.",
+        "options": [
+          "Hủy đặt bàn → 取り消した／キャンセルした. Sai.",
+          "Chặn ánh sáng mặt trời → 遮った (さえぎった). Sai.",
+          "Tạm dừng trận đấu cho đến khi tạnh mưa. ĐÚNG.",
+          "Từ chối lời mời → 断った (ことわった). Sai."
+        ],
+        "vocab": [
+          { "w": "中断", "r": "ちゅうだん", "hv": "TRUNG ĐOẠN", "vi": "gián đoạn, tạm dừng" },
+          { "w": "遮る", "r": "さえぎる", "hv": "GIÀ", "vi": "che chắn, ngăn" },
+          { "w": "断る", "r": "ことわる", "hv": "ĐOẠN", "vi": "từ chối" },
+          { "w": "誘い", "r": "さそい", "hv": "DỤ", "vi": "lời mời" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "中断 phải là việc ĐANG diễn ra rồi dừng giữa chừng."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "ベテラン",
+      "options": [
+        "あの<u>ベテラン</u>の電車は、今まで多くのお客さんを乗せてきた。",
+        "大野先生は、この学校で昔から教えている<u>ベテラン</u>の先生だ。",
+        "この<u>ベテラン</u>の時計は、もう生産していないので貴重だ。",
+        "ここは、私が生まれる前からある<u>ベテラン</u>のレストランだ。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Thầy Ōno là giáo viên kỳ cựu đã dạy ở trường này từ lâu.",
+        "why": "ベテラン (veteran) = người lão luyện, giàu kinh nghiệm trong nghề. Chỉ dùng cho NGƯỜI → câu 2 đúng.",
+        "options": [
+          "Tàu điện cũ → 古い電車. Sai (vật, không dùng ベテラン).",
+          "Giáo viên kỳ cựu. ĐÚNG.",
+          "Đồng hồ cũ/cổ → 古い時計. Sai.",
+          "Nhà hàng lâu đời → 老舗 (しにせ) / 古くからある. Sai."
+        ],
+        "vocab": [
+          { "w": "ベテラン", "r": "べてらん", "hv": "", "vi": "người kỳ cựu, lão luyện" },
+          { "w": "貴重", "r": "きちょう", "hv": "QUÝ TRỌNG", "vi": "quý giá" },
+          { "w": "生産", "r": "せいさん", "hv": "SINH SẢN", "vi": "sản xuất" },
+          { "w": "老舗", "r": "しにせ", "hv": "LÃO PHỐ", "vi": "cửa hàng lâu đời" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ベテラン chỉ người; vật cũ thì dùng 古い／年代物."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "荒れる",
+      "options": [
+        "この靴は10年履き続けているから、かなり<u>荒れて</u>いる。",
+        "入院で仕事を休んでいたので、営業成績は<u>荒れて</u>しまった。",
+        "冷蔵庫に入れておいたのに、りんごが<u>荒れて</u>しまった。",
+        "今日は海が<u>荒れて</u>いて、船で釣りに行くことはできない。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hôm nay biển động nên không thể đi câu cá bằng thuyền.",
+        "why": "荒れる (あれる: HOANG) = (thời tiết, biển) dữ dội, động; (da) sần sùi; (đất) hoang tàn. 海が荒れる = biển động → câu 4 đúng.",
+        "options": [
+          "Giày đi 10 năm → 傷んでいる／古くなっている. Sai.",
+          "Thành tích kinh doanh giảm → 落ちて／下がって. Sai.",
+          "Táo bị hỏng → 傷んで／腐って. Sai.",
+          "Biển động, không đi câu được. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "荒れる", "r": "あれる", "hv": "HOANG", "vi": "dữ dội, động (biển); sần sùi (da)" },
+          { "w": "釣り", "r": "つり", "hv": "ĐIẾU", "vi": "câu cá" },
+          { "w": "営業成績", "r": "えいぎょうせいせき", "hv": "DOANH NGHIỆP THÀNH TÍCH", "vi": "thành tích kinh doanh" },
+          { "w": "傷む", "r": "いたむ", "hv": "THƯƠNG", "vi": "hư hỏng (đồ vật, thực phẩm)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Collocation: 海が荒れる・天気が荒れる・肌が荒れる (肌荒れ)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "exam": "2021-12",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn sau và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "（注1）ネットワークにつながったコンピューターには「オフライン状態」と「オンライン状態」があります。オフライン状態のコンピューターは、外部と（注2）交信せずに、すでにインプットされている情報やソフトウェアを用いて作業しています。一方、オンライン状態のコンピューターは、インターネットなどで外部と交信しながら新しい情報やソフトウェアを取り入れながら作業します。人間にもまた、オフライン状態とオンライン状態があるようです。オフライン状態はいわば日常生活で、あまり新しいことを取り入れることはありませんが、オンライン状態では新しい情報を取り入れて、自分の行動や思考を変えていきます。\nぼくの場合、旅行に出ると自然にオンライン状態になります。いま住んでいる日本にいても当然、オンライン状態になることがありますが、旅に出れば、どちらを向いても新しい情報がたくさんあるので自然にオンラインになるのです。\n動物は皆、（注3）本能にもとづいて習慣的に行動します。人間もまた動物で、強い習慣性があります。そして、習慣的なことに対しては、毎日の生活で疑問に感じることなどありません。しかし旅に出ると、非日常的な環境に放り出されます。そうすると、自分がいままであたりまえにやっていたことに疑問を抱くきっかけが生まれます。日々、あたりまえのようにやっていたことにも別なやり方があることに気づくのです。それがオフラインからオンラインになることにつながります。旅先でなら、自分とは違うことをしている人を見て、単に「こいつらは変だ」とか「おかしい」と思うのではなく、「この国の人は皆こういうようにやっているようだから、（注4）一理あるんじゃないか」と考えることができ、（注5）ひいては「自分でもやってみようじゃないか」となります。そして、こういった経験を通して自分のそれまでのやり方、人生を考え直すことになるのです。（中略）\n「灯台下暗し」という諺があります。『広辞苑』によると「灯台（燭台）の直下はあかりが暗いように、（注6）手近の事情はかえってわかりにくいものである」とあります。ふだんの環境にあって自分の人生を考え直したり、おさらいしたりしようと思っても、それは難しいのです。だから、ちょっと離れて自分のことを考えるために旅に出るのです。\n\n（注1）ネットワーク：ここでは、インターネットなど\n（注2）交信する：通信し合う\n（注3）本能：生まれつき持っている性質\n（注4）一理ある：もっともな理由がある\n（注5）ひいては：さらに\n（注6）手近の：身近な"
+    }
+  ],
+  "questions": [
+    {
+      "num": 67,
+      "passage": "p1",
+      "stem": "筆者によると、人間の「オフライン状態」とはどういう状態か。",
+      "options": ["他人と交流したいと思わない。", "コンピューターをあまり使わない。", "新しいことをすることは少ない。", "日常生活の中でしか新しいことを探さない。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Theo tác giả, 'trạng thái offline' của con người là trạng thái như thế nào? → Ít khi làm điều mới.",
+        "why": "Tác giả định nghĩa: 'trạng thái offline có thể nói là sinh hoạt thường ngày, không mấy khi tiếp nhận điều mới' (あまり新しいことを取り入れることはありません).",
+        "options": [
+          "Không muốn giao lưu với người khác → bài không nói về giao lưu. Sai.",
+          "Ít dùng máy tính → máy tính chỉ là phép so sánh. Sai.",
+          "Ít khi làm/tiếp nhận điều mới → = あまり新しいことを取り入れることはない. ĐÚNG.",
+          "Chỉ tìm điều mới trong sinh hoạt thường ngày → bài không nói vậy; offline là hầu như không tiếp nhận cái mới. Sai."
+        ],
+        "vocab": [
+          { "w": "状態", "r": "じょうたい", "hv": "TRẠNG THÁI", "vi": "trạng thái" },
+          { "w": "取り入れる", "r": "とりいれる", "hv": "", "vi": "tiếp nhận, đưa vào" },
+          { "w": "いわば", "r": "いわば", "hv": "", "vi": "có thể nói là" },
+          { "w": "交信", "r": "こうしん", "hv": "GIAO TÍN", "vi": "liên lạc, giao tiếp (tín hiệu)" }
+        ],
+        "grammar": null,
+        "evidence": "オフライン状態はいわば日常生活で、あまり新しいことを取り入れることはありませんが、オンライン状態では新しい情報を取り入れて、自分の行動や思考を変えていきます。",
+        "tip": null
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p1",
+      "stem": "筆者によると、人間は旅に出るとどうなるか。",
+      "options": ["自分とは違うやり方があることに気づく。", "自分とは違うことをしている人を批判する。", "自分のやり方が自分に合っているとわかる。", "毎日の生活で感じた疑問を解決できる。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, khi đi du lịch con người sẽ ra sao? → Nhận ra có cách làm khác với mình.",
+        "why": "Khi đi du lịch, ta bị đặt vào môi trường phi thường nhật, bắt đầu nghi vấn về những việc vẫn làm, và 'nhận ra rằng những việc hằng ngày cũng có cách làm khác' (別なやり方があることに気づく).",
+        "options": [
+          "Nhận ra có cách làm khác → khớp nguyên văn. ĐÚNG.",
+          "Phê phán người làm khác mình → ngược lại, bài nói không chỉ nghĩ 'họ kỳ lạ' mà thấy 'có lý'. Sai.",
+          "Biết cách làm của mình hợp với mình → bài nói ta xem xét lại cách làm của mình. Sai.",
+          "Giải quyết được nghi vấn hằng ngày → bài nói hằng ngày ta không có nghi vấn; du lịch mới tạo nghi vấn. Sai."
+        ],
+        "vocab": [
+          { "w": "非日常的", "r": "ひにちじょうてき", "hv": "PHI NHẬT THƯỜNG ĐÍCH", "vi": "khác thường ngày" },
+          { "w": "疑問を抱く", "r": "ぎもんをいだく", "hv": "", "vi": "nảy sinh nghi vấn" },
+          { "w": "気づく", "r": "きづく", "hv": "", "vi": "nhận ra" },
+          { "w": "批判", "r": "ひはん", "hv": "PHÊ PHÁN", "vi": "phê phán" }
+        ],
+        "grammar": null,
+        "evidence": "日々、あたりまえのようにやっていたことにも別なやり方があることに気づくのです。",
+        "tip": null
+      }
+    },
+    {
+      "num": 69,
+      "passage": "p1",
+      "stem": "旅について、筆者の考えに合うのはどれか。",
+      "options": ["自分の知識を広げるために、旅をするといい。", "忙しい日常生活を忘れるために、旅は必要だ。", "旅によって、自分の人生を見つめ直すことができる。", "旅をたくさんすれば、自分の人生を変えることができる。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả về du lịch? → Nhờ du lịch có thể nhìn lại cuộc đời mình.",
+        "why": "Tác giả: qua trải nghiệm du lịch ta xem xét lại cách làm, cuộc đời mình; ở môi trường quen thuộc thì khó nhìn lại (灯台下暗し), nên 'đi du lịch để rời xa một chút mà suy nghĩ về bản thân'.",
+        "options": [
+          "Du lịch để mở rộng kiến thức → bài nhấn mạnh việc nhìn lại bản thân, không phải tích lũy kiến thức. Sai.",
+          "Du lịch để quên cuộc sống bận rộn → không được nhắc đến. Sai.",
+          "Du lịch giúp nhìn lại cuộc đời mình → = 人生を考え直す. ĐÚNG.",
+          "Du lịch nhiều thì thay đổi được cuộc đời → bài nói 'xem xét lại', không khẳng định 'đi nhiều sẽ thay đổi được'. Sai."
+        ],
+        "vocab": [
+          { "w": "考え直す", "r": "かんがえなおす", "hv": "", "vi": "suy nghĩ lại, xem xét lại" },
+          { "w": "見つめ直す", "r": "みつめなおす", "hv": "", "vi": "nhìn lại" },
+          { "w": "灯台下暗し", "r": "とうだいもとくらし", "hv": "ĐĂNG ĐÀI HẠ ÁM", "vi": "dưới chân đèn thì tối (gần quá lại không thấy)" },
+          { "w": "諺", "r": "ことわざ", "hv": "NGẠN", "vi": "tục ngữ" }
+        ],
+        "grammar": null,
+        "evidence": "そして、こういった経験を通して自分のそれまでのやり方、人生を考え直すことになるのです。／だから、ちょっと離れて自分のことを考えるために旅に出るのです。",
+        "tip": "Câu hỏi quan điểm tác giả → đọc kỹ đoạn cuối (thường có だから・のです)."
+      }
+    }
+  ]
+}

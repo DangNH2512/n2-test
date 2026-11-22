@@ -1,0 +1,87 @@
+{
+  "exam": "2012-07",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "AとBの両方を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc cả hai đoạn A và B, rồi chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "逃げたくなるほどつらいことがあっても、逃げられない人がいる。スピードや効率性(注1)ばかりを求められ、自己責任が声高(注2)に問われる現代社会に、とことん追い詰められ(注3)ながらも、過剰なまでに踏ん張り(注4)続けている人がいる。\nそういう人たちは、「耐える」「踏ん張る」という選択肢のほかに、「逃げる」という選択肢を持っておくことも大切だと思う。\nどうしようもない時には、逃げればいい。\nいつもいつも逃げてばかりいては、どうにもならないけれど、逃げるというカードを1枚だけ持っておいてもいいのではないか。\n（河合　日経ビジネスONLINE\n<http://business.nikkeibp.co.jp/article/manage/20110215/218446/?P=4&rt=nocnt> 2011年3月7日取得による）\n(注1) 効率性：ここでは、一定の時間に水準の高い多くの仕事ができること\n(注2) 声高に：声を大きくして\n(注3) とことん追い詰められる：逃げる道のないところまで追われる\n(注4) 踏ん張る：ここでは、我慢する"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "「逃げることは負けることだ」「逃げることは恥だ」という考え方がある。一方、現代は「自分の好きなように生きる」ことが許され、「逃げる」ことも否定されなくなってきた。そのため、仕事などで壁にぶつかったとき、自分の選んだ生き方は正しかったのか、もうやめた方がいいのではないかと迷い、今自分が置かれている道から逃げたいと思う人も増えている。\n「逃げたい」と思う人はそこでよく考えてほしい。「逃げる」ことが解決の道なのだろうかと。どんな仕事も大変なときはあり、時が解決してくれることもある。逃げたいと思ったときこそ、その気持ちとしっかり向き合うことが大切だ。それでも逃げることが正しいと確信したなら、逃げることは負けることではなくなる。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 69,
+      "passage": "AB",
+      "stem": "AとBの文章で共通して述べられていることは何か。",
+      "options": ["どんな仕事でも逃げたいと思うことがある。", "つらいと思ったら迷わず逃げても構わない。", "逃げることは必ずしも悪いことではない。", "逃げるという選択をすれば楽な生き方ができる。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều mà cả A và B cùng nói là gì? → Chạy trốn không hẳn là điều xấu.",
+        "why": "A: 'khi không còn cách nào khác thì cứ chạy trốn', nên giữ lá bài 'chạy trốn'. B: nếu đã suy nghĩ kỹ và tin chạy trốn là đúng thì 'chạy trốn không còn là thua cuộc'. Cả hai đều thừa nhận chạy trốn có thể chấp nhận được.",
+        "options": [
+          "B có ý 'công việc nào cũng có lúc vất vả', nhưng A không nói vậy. Sai.",
+          "B khuyên suy nghĩ kỹ chứ không phải 'chạy ngay không do dự'. Sai.",
+          "Chạy trốn không nhất thiết là xấu. ĐÚNG.",
+          "Không bài nào nói chạy trốn giúp sống nhàn. Sai."
+        ],
+        "vocab": [
+          { "w": "選択肢", "r": "せんたくし", "hv": "TUYỂN TRẠCH CHI", "vi": "lựa chọn" },
+          { "w": "踏ん張る", "r": "ふんばる", "hv": "ĐẠP TRƯƠNG", "vi": "gắng gượng, chịu đựng" },
+          { "w": "恥", "r": "はじ", "hv": "SỈ", "vi": "nỗi xấu hổ" },
+          { "w": "確信", "r": "かくしん", "hv": "XÁC TÍN", "vi": "tin chắc" }
+        ],
+        "grammar": {
+          "pattern": "必ずしも～ない",
+          "meaning": "không hẳn, không nhất thiết",
+          "form": "必ずしも + thể phủ định",
+          "example": "高いものが必ずしもいいとは限らない。"
+        },
+        "evidence": "A：どうしようもない時には、逃げればいい。／B：それでも逃げることが正しいと確信したなら、逃げることは負けることではなくなる。",
+        "tip": null
+      }
+    },
+    {
+      "num": 70,
+      "passage": "AB",
+      "stem": "逃げたいと思うことについて、AとBはどのように述べているか。",
+      "options": [
+        "Aは逃げる決断を急がないほうがよいと述べ、Bは逃げることは負けることだと自分に言い聞かせたほうがよいと述べている。",
+        "Aはとてもつらいときなどには逃げてもよいと述べ、Bは悩みが解決できないなら逃げてもよいと述べている。",
+        "Aはいつでも逃げるという選択をしたほうがよいと述べ、Bは逃げたくなったときこそ自分の将来をよく考えるとよいと述べている。",
+        "Aは逃げたいという気持ちを持ってもよいと述べ、Bは逃げたいと思っている自分の気持ちをよく見つめた方がよいと述べている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "A và B nói gì về việc muốn chạy trốn? → A nói có thể mang ý nghĩ muốn chạy trốn (giữ lá bài chạy trốn); B nói nên nhìn kỹ vào cảm xúc muốn chạy trốn của mình.",
+        "why": "A: nên có lựa chọn 'chạy trốn' bên cạnh 'chịu đựng' = được phép nghĩ đến việc chạy trốn. B: 'chính lúc muốn chạy trốn, cần đối diện nghiêm túc với cảm xúc đó' = nhìn kỹ cảm xúc của mình.",
+        "options": [
+          "A không nói 'đừng vội quyết định'; B không bảo tự nhủ 'chạy trốn là thua'. Sai.",
+          "B không nói 'không giải quyết được thì cứ chạy'; B nói phải suy nghĩ, đối diện. Sai.",
+          "A nói 'luôn luôn chạy trốn thì không được', không phải 'lúc nào cũng nên chọn chạy'. Sai.",
+          "A: được phép có ý muốn chạy trốn; B: nhìn kỹ cảm xúc đó. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "向き合う", "r": "むきあう", "hv": "HƯỚNG HỢP", "vi": "đối diện" },
+          { "w": "見つめる", "r": "みつめる", "hv": "KIẾN", "vi": "nhìn chăm chú" },
+          { "w": "言い聞かせる", "r": "いいきかせる", "hv": "", "vi": "tự nhủ, khuyên bảo" }
+        ],
+        "grammar": {
+          "pattern": "～ときこそ",
+          "meaning": "chính lúc ~",
+          "form": "Vた／Vる + ときこそ",
+          "example": "苦しいときこそ、笑顔を忘れないで。"
+        },
+        "evidence": "A：「逃げる」という選択肢を持っておくことも大切だと思う。／B：逃げたいと思ったときこそ、その気持ちとしっかり向き合うことが大切だ。",
+        "tip": "向き合う ≒ 見つめる: tìm từ đồng nghĩa giữa bài và đáp án."
+      }
+    }
+  ]
+}

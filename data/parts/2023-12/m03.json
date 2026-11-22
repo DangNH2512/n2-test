@@ -1,0 +1,88 @@
+{
+  "exam": "2023-12",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ (tiền tố/hậu tố, từ ghép) đúng nhất điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "彼は兄に対抗（　　）を持っているようだ。",
+      "options": ["心", "欲", "願", "熱"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Có vẻ cậu ấy mang tâm lý ganh đua với anh trai.",
+        "why": "対抗心 (たいこうしん – ĐỐI KHÁNG TÂM) = tinh thần cạnh tranh, muốn hơn người khác. ～心 gắn sau danh từ chỉ trạng thái tâm lý: 好奇心, 競争心, 向上心.",
+        "options": [
+          "心 → 対抗心: tâm lý ganh đua. ĐÚNG.",
+          "欲 → ～欲: ham muốn (食欲, 意欲, 物欲); không có 対抗欲. Sai.",
+          "願 → ～願: nguyện vọng (志願, 念願); không ghép với 対抗. Sai.",
+          "熱 → ～熱: sự cuồng nhiệt (教育熱, サッカー熱); không có 対抗熱. Sai."
+        ],
+        "vocab": [
+          { "w": "対抗心", "r": "たいこうしん", "hv": "ĐỐI KHÁNG TÂM", "vi": "tâm lý ganh đua, muốn hơn" },
+          { "w": "対抗", "r": "たいこう", "hv": "ĐỐI KHÁNG", "vi": "đối đầu, cạnh tranh" },
+          { "w": "好奇心", "r": "こうきしん", "hv": "HIẾU KỲ TÂM", "vi": "tính tò mò" },
+          { "w": "向上心", "r": "こうじょうしん", "hv": "HƯỚNG THƯỢNG TÂM", "vi": "ý chí cầu tiến" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm cố định: 対抗心を持つ／燃やす (nuôi/thổi bùng tinh thần ganh đua)."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "引っ越しのための（　　）手続きをしなければならない。",
+      "options": ["総", "複", "多", "諸"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi phải làm các thủ tục khác nhau cho việc chuyển nhà.",
+        "why": "諸手続き (しょてつづき – CHƯ THỦ TỤC) = các loại thủ tục. 諸～ = \"các, nhiều loại ~\" (諸問題, 諸外国, 諸費用).",
+        "options": [
+          "総 → 総～: tổng (総選挙, 総人口); không dùng với 手続き. Sai.",
+          "複 → 複～: phức, kép (複数); không phải tiền tố đứng trước 手続き. Sai.",
+          "多 → 多～: nhiều (多目的, 多機能); không có 多手続き. Sai.",
+          "諸 → 諸手続き: các thủ tục. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "諸手続き", "r": "しょてつづき", "hv": "CHƯ THỦ TỤC", "vi": "các loại thủ tục" },
+          { "w": "手続き", "r": "てつづき", "hv": "THỦ TỤC", "vi": "thủ tục" },
+          { "w": "諸問題", "r": "しょもんだい", "hv": "CHƯ VẤN ĐỀ", "vi": "các vấn đề" },
+          { "w": "引っ越し", "r": "ひっこし", "hv": "DẪN VIỆT", "vi": "chuyển nhà" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "諸 (chư – \"chư vị\") = các, nhiều: 諸国 しょこく, 諸君 しょくん, 諸経費 しょけいひ."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "買い物をしている二人（　　）にインタビューをしました。",
+      "options": ["出かけ", "連れ", "会い", "集まり"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi đã phỏng vấn một nhóm hai người đi cùng nhau đang mua sắm.",
+        "why": "Số người + 連れ (づれ) = nhóm ~ người đi cùng nhau: 二人連れ (ふたりづれ), 親子連れ (bố mẹ dắt con), 家族連れ (cả gia đình).",
+        "options": [
+          "出かけ → không ghép sau số người. Sai.",
+          "連れ → 二人連れ: hai người đi cùng nhau. ĐÚNG.",
+          "会い → không có \"二人会い\". Sai.",
+          "集まり → 集まり là \"buổi tụ tập\", không gắn sau 二人. Sai."
+        ],
+        "vocab": [
+          { "w": "二人連れ", "r": "ふたりづれ", "hv": "NHỊ NHÂN LIÊN", "vi": "hai người đi cùng nhau" },
+          { "w": "家族連れ", "r": "かぞくづれ", "hv": "GIA TỘC LIÊN", "vi": "đi cả gia đình" },
+          { "w": "子連れ", "r": "こづれ", "hv": "TỬ LIÊN", "vi": "dắt theo con" },
+          { "w": "連れる", "r": "つれる", "hv": "LIÊN", "vi": "dẫn theo, dắt theo" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "連れ khi làm hậu tố đọc đục づれ (連濁)."
+      }
+    }
+  ]
+}

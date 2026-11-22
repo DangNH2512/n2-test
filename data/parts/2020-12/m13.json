@@ -1,0 +1,124 @@
+{
+  "exam": "2020-12",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn sau và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "以下は、カウンセラーに相談することについて書かれた文章である。\n\n人からよく相談される人というのは、じっくり相手の話に耳を傾けてくれる人であるはずだ。相談者は、答をすぐに出してほしいのではなく、まずはじっくり話を聞いてほしいのだ。語りたいのだ。\n相談に行って、親切にもこちらに代わって即座に答を出してくれる人がいたとして、それは助かったと素直にその回答を採用するほど、僕たちは単純素朴ではない。だいいち、本人がいくら考えてもわからない難問に対して、事情もよくわからない他人からそんなに簡単に答を出されてはたまらない。\nだからといって、人に話すことが役に立たないというのではない。いや、むしろ大いに役立つのである。あんなに悩んでいたのに、いろいろ迷うばかりでどうにも答が出なかったのに、人に話してみたら案外簡単に建設的な(注1)解決策が見つかった。そんなことも珍しくない。（中略）\nそうしたケースでは、悩みや迷いを話した相手が答を出してくれたわけではない。相手に事情がわかるように話して聞かせているうちに、これまでと違った視点からの回答がふと思い浮かんだのである。これまでいくら考えても思い浮かばなかったことが、別の構図(注2)のもとに突然浮かび上がってくる。迷いが吹っ切れる(注3)瞬間というのも、そのようにして訪れるのだろう。\nでは、そうした別の構図をもたらす(注4)新たな視点は、いったいどこからやってくるのか。それは、語り合いの中からというしかない。聞き手がいることで、聞き手にわかるように事情や自分の悩める思いを説明しようとする。聞き手がわかってくれないことには話が進まないので、聞き手に理解してもらうにはどう説明するのがよいかを工夫しながら話すことになる。\nそこで意識されるのが、聞き手の理解の枠組み(注5)、つまり聞き手がものごとを理解するのに主として用いている枠組みである。聞き手の理解の枠組みを意識しながら、事情を説明し、自分の悩める思いを説明しているうちに、自分の理解の枠組みと聞き手の理解の枠組みが交錯(注6)しつつ融合し(注7)、そこに自分ひとりで考えていたときとは違った視点がもたらされる。そんな感じなのではないだろうか。\nその新たな視点を採用してみると、これまでの経験も違った意味をもってくる。目の前の現実の見え方も一変する。\n\n(注1) 建設的な：ここでは、よりよい\n(注2) 構図：ここでは、とらえ方\n(注3) 吹っ切れる：消えてなくなる\n(注4) もたらす：ここでは、生み出す\n(注5) 枠組み：ここでは、方法\n(注6) 交錯する：交差する\n(注7) 融合する：一つになる"
+    }
+  ],
+  "questions": [
+    {
+      "num": 68,
+      "passage": "p1",
+      "stem": "筆者によると、相談者が最初に聞き手に求めることは何か。",
+      "options": [
+        "時間をかけて、ただ話を聞いてくれること",
+        "悩むような難問ではないと言ってくれること",
+        "話しやすい雰囲気を作ってくれること",
+        "話を聞いて、解決策を一緒に考えてくれること"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, điều người đi tư vấn mong muốn ở người nghe trước tiên là gì? → Dành thời gian và chỉ lắng nghe câu chuyện.",
+        "why": "「相談者は、答をすぐに出してほしいのではなく、まずはじっくり話を聞いてほしいのだ」. まずは = trước tiên; じっくり = từ tốn, dành thời gian.",
+        "options": [
+          "Dành thời gian, chỉ lắng nghe. ĐÚNG.",
+          "Nói rằng đó không phải vấn đề khó → không có trong bài. Sai.",
+          "Tạo bầu không khí dễ nói chuyện → bài không nhắc. Sai.",
+          "Lắng nghe và cùng nghĩ giải pháp → người đi tư vấn không muốn được đưa ra câu trả lời. Sai."
+        ],
+        "vocab": [
+          { "w": "相談者", "r": "そうだんしゃ", "hv": "TƯƠNG ĐÀM GIẢ", "vi": "người đến xin tư vấn" },
+          { "w": "じっくり", "r": "じっくり", "hv": "", "vi": "từ tốn, kỹ lưỡng" },
+          { "w": "耳を傾ける", "r": "みみをかたむける", "hv": "", "vi": "lắng tai nghe" },
+          { "w": "即座に", "r": "そくざに", "hv": "TỨC TỌA", "vi": "ngay lập tức" }
+        ],
+        "grammar": {
+          "pattern": "～のではなく、～",
+          "meaning": "không phải là ~ mà là ~",
+          "form": "普通形＋のではなく",
+          "example": "答えを知りたいのではなく、話を聞いてほしいのだ。"
+        },
+        "evidence": "相談者は、答をすぐに出してほしいのではなく、まずはじっくり話を聞いてほしいのだ。語りたいのだ。",
+        "tip": null
+      }
+    },
+    {
+      "num": 69,
+      "passage": "p1",
+      "stem": "筆者によると、語り合いの中で相談者はどのように話そうとするか。",
+      "options": [
+        "聞き手が関心を持つように、工夫しながら話す。",
+        "聞き手が知りたいと思っていることを中心に話す。",
+        "聞き手がわかるように、事情や悩みをできるだけ詳しく話す。",
+        "聞き手が理解できるように、説明のしかたを考えながら話す。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, trong cuộc trò chuyện người đi tư vấn cố gắng nói như thế nào? → Vừa nói vừa suy nghĩ cách giải thích để người nghe có thể hiểu.",
+        "why": "「聞き手に理解してもらうにはどう説明するのがよいかを工夫しながら話すことになる」 → nghĩ cách giải thích sao cho người nghe hiểu.",
+        "options": [
+          "Để người nghe 「quan tâm」 → bài nói để người nghe 「hiểu」. Sai.",
+          "Tập trung vào điều người nghe muốn biết → không có. Sai.",
+          "Kể sự tình 「càng chi tiết càng tốt」 → bài nhấn mạnh 「cách giải thích」, không phải độ chi tiết. Sai.",
+          "Vừa nói vừa nghĩ cách giải thích để người nghe hiểu. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "語り合い", "r": "かたりあい", "hv": "NGỮ HỢP", "vi": "sự trò chuyện với nhau" },
+          { "w": "聞き手", "r": "ききて", "hv": "", "vi": "người nghe" },
+          { "w": "工夫", "r": "くふう", "hv": "CÔNG PHU", "vi": "tìm tòi, nghĩ cách" },
+          { "w": "事情", "r": "じじょう", "hv": "SỰ TÌNH", "vi": "hoàn cảnh, sự tình" }
+        ],
+        "grammar": {
+          "pattern": "～ないことには",
+          "meaning": "nếu không ~ thì (không thể ~)",
+          "form": "Vない＋ことには",
+          "example": "実際に見ないことには、何とも言えない。"
+        },
+        "evidence": "聞き手がわかってくれないことには話が進まないので、聞き手に理解してもらうにはどう説明するのがよいかを工夫しながら話すことになる。",
+        "tip": "Đáp án 3 nghe hợp lý nhưng thêm 「できるだけ詳しく」 không có trong bài."
+      }
+    },
+    {
+      "num": 70,
+      "passage": "p1",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "語り合いによって、それまで気づかなかった視点が得られる。",
+        "語り合っているうちに、聞き手の視点で考えられるようになる。",
+        "違う経験をした人に相談すれば、現実の見え方も変わる。",
+        "自分の視点を大切にして語ることで、悩みの解決につながる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Nhờ trò chuyện với nhau mà có được góc nhìn trước đó chưa nhận ra.",
+        "why": "Góc nhìn mới đến 「語り合いの中から」: khi khung hiểu biết của mình và của người nghe giao nhau và hòa làm một, ta có 「自分ひとりで考えていたときとは違った視点」.",
+        "options": [
+          "Nhờ trò chuyện có được góc nhìn chưa từng nhận ra. ĐÚNG.",
+          "Trở nên suy nghĩ theo góc nhìn của người nghe → bài nói hai khung 「融合」 tạo góc nhìn mới, không phải chuyển hẳn sang góc nhìn người nghe. Sai.",
+          "Tư vấn với người có trải nghiệm khác → bài không nói về kinh nghiệm của người nghe. Sai.",
+          "Coi trọng góc nhìn của bản thân → ngược lại, cần góc nhìn khác. Sai."
+        ],
+        "vocab": [
+          { "w": "視点", "r": "してん", "hv": "THỊ ĐIỂM", "vi": "góc nhìn, quan điểm" },
+          { "w": "枠組み", "r": "わくぐみ", "hv": "KHUNG TỔ", "vi": "khung, khuôn khổ" },
+          { "w": "融合", "r": "ゆうごう", "hv": "DUNG HỢP", "vi": "dung hợp, hòa làm một" },
+          { "w": "一変", "r": "いっぺん", "hv": "NHẤT BIẾN", "vi": "thay đổi hoàn toàn" }
+        ],
+        "grammar": {
+          "pattern": "～しつつ",
+          "meaning": "vừa ~ vừa ~; trong khi ~",
+          "form": "Vます(bỏ ます)＋つつ",
+          "example": "音楽を聞きつつ、勉強する。"
+        },
+        "evidence": "自分の理解の枠組みと聞き手の理解の枠組みが交錯しつつ融合し、そこに自分ひとりで考えていたときとは違った視点がもたらされる。",
+        "tip": "Đáp án 2 bẫy: góc nhìn mới là sự 「融合」 của cả hai, không phải góc nhìn của người nghe."
+      }
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "exam": "2017-07",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các phương án thành câu đúng và chọn phương án đặt ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "良い＿＿＿ ★ ＿＿＿ ＿＿＿増加は期待できない。",
+      "options": ["その良さが", "客に伝わらなければ", "売り上げの", "商品やサービスであっても"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Dù là sản phẩm hay dịch vụ tốt, nếu cái tốt đó không truyền đạt được tới khách hàng thì không thể kỳ vọng doanh thu tăng.",
+        "why": "Câu hoàn chỉnh: 良い[4 商品やサービスであっても][1 その良さが★][2 客に伝わらなければ][3 売り上げの]増加は期待できない。Thứ tự 4-1-2-3, vị trí ★ (thứ 2) là 1.",
+        "options": [
+          "その良さが → vị trí 2 (★): chủ ngữ của 伝わる. ĐÚNG.",
+          "客に伝わらなければ → vị trí 3: điều kiện 'nếu không truyền tới khách'.",
+          "売り上げの → vị trí 4: bổ nghĩa cho 増加 (売り上げの増加).",
+          "商品やサービスであっても → vị trí 1: 良い + 商品 (tính từ bổ nghĩa danh từ)."
+        ],
+        "vocab": [
+          { "w": "売り上げ", "r": "うりあげ", "hv": "MẠI THƯỢNG", "vi": "doanh thu" },
+          { "w": "増加", "r": "ぞうか", "hv": "TĂNG GIA", "vi": "sự gia tăng" },
+          { "w": "伝わる", "r": "つたわる", "hv": "TRUYỀN", "vi": "được truyền đạt" },
+          { "w": "期待", "r": "きたい", "hv": "KỲ ĐÃI", "vi": "kỳ vọng" }
+        ],
+        "grammar": { "pattern": "～であっても", "meaning": "dù là ~ đi nữa", "form": "N + であっても", "example": "子どもであっても、ルールは守らなければならない。" },
+        "evidence": null,
+        "tip": "Mẹo: 良い cần một danh từ ngay sau → 商品; ～の cần danh từ sau → 売り上げの増加."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "先輩の家にはオルガンがある。5年前に＿＿＿ ★ ＿＿＿ ＿＿＿だと言っていた。",
+      "options": ["もらったときに", "一度弾いたきり", "海外に引っ越した", "友達からもらったもので"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nhà đàn anh có một cây đàn organ. Anh ấy nói đó là cây đàn nhận từ người bạn đã chuyển ra nước ngoài 5 năm trước, và từ lúc nhận đến giờ mới chỉ chơi đúng một lần.",
+        "why": "Câu hoàn chỉnh: 5年前に[3 海外に引っ越した][4 友達からもらったもので★][1 もらったときに][2 一度弾いたきり]だと言っていた。Thứ tự 3-4-1-2, ★ là 4.",
+        "options": [
+          "もらったときに → vị trí 3.",
+          "一度弾いたきり → vị trí 4: đứng trước だ.",
+          "海外に引っ越した → vị trí 1: bổ nghĩa cho 友達.",
+          "友達からもらったもので → vị trí 2 (★). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "弾く", "r": "ひく", "hv": "ĐÀN", "vi": "chơi (nhạc cụ)" },
+          { "w": "引っ越す", "r": "ひっこす", "hv": "DẪN VIỆT", "vi": "chuyển nhà" },
+          { "w": "先輩", "r": "せんぱい", "hv": "TIỀN BỐI", "vi": "đàn anh/chị" }
+        ],
+        "grammar": { "pattern": "Vた＋きり", "meaning": "chỉ ~ một lần rồi thôi (từ đó không ~ nữa)", "form": "Vた + きり(だ)", "example": "彼とは去年会ったきりだ。(Tôi chỉ gặp anh ấy năm ngoái rồi thôi.)" },
+        "evidence": null,
+        "tip": "～きりだ thường đứng cuối, ngay trước だ."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "雑誌か＿＿＿ ★ ＿＿＿ ＿＿＿人との出会いだとインタビューに答えていたのを見て、本当にそうだなと思った。",
+      "options": ["自分にとって", "何かで", "人生で一番大切なのは", "誰かが"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi thấy trên tạp chí hay đâu đó, có người trả lời phỏng vấn rằng đối với bản thân, điều quan trọng nhất trong đời là những cuộc gặp gỡ với con người, và tôi nghĩ quả thật là vậy.",
+        "why": "Câu hoàn chỉnh: 雑誌か[2 何かで][4 誰かが★][1 自分にとって][3 人生で一番大切なのは]人との出会いだと…。Thứ tự 2-4-1-3, ★ là 4.",
+        "options": [
+          "自分にとって → vị trí 3.",
+          "何かで → vị trí 1: 雑誌か何かで = trên tạp chí hay cái gì đó.",
+          "人生で一番大切なのは → vị trí 4: chủ đề của …は人との出会いだ.",
+          "誰かが → vị trí 2 (★): chủ ngữ của インタビューに答えていた. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "出会い", "r": "であい", "hv": "XUẤT HỘI", "vi": "cuộc gặp gỡ" },
+          { "w": "人生", "r": "じんせい", "hv": "NHÂN SINH", "vi": "cuộc đời" },
+          { "w": "答える", "r": "こたえる", "hv": "ĐÁP", "vi": "trả lời" }
+        ],
+        "grammar": { "pattern": "Nか何か", "meaning": "N hay cái gì đó (đại loại)", "form": "N + か何か", "example": "コーヒーか何か飲みませんか。" },
+        "evidence": null,
+        "tip": "雑誌か → gần như chắc chắn nối với 何かで."
+      }
+    },
+    {
+      "num": 48,
+      "passage": null,
+      "stem": "なかなか＿＿＿ ＿＿＿ ★ ＿＿＿行けることになった。",
+      "options": ["ようやく", "行けなかった", "レストランに", "予約がとれなくて"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Cuối cùng tôi cũng được đi nhà hàng mà mãi không đặt được chỗ nên chưa đi được.",
+        "why": "Câu hoàn chỉnh: なかなか[4 予約がとれなくて][2 行けなかった][3 レストランに★][1 ようやく]行けることになった。Thứ tự 4-2-3-1, ★ là 3.",
+        "options": [
+          "ようやく → vị trí 4: bổ nghĩa cho 行けることになった.",
+          "行けなかった → vị trí 2: bổ nghĩa cho レストラン.",
+          "レストランに → vị trí 3 (★). ĐÚNG.",
+          "予約がとれなくて → vị trí 1: なかなか～ない (mãi không ~)."
+        ],
+        "vocab": [
+          { "w": "予約", "r": "よやく", "hv": "DỰ ƯỚC", "vi": "đặt trước" },
+          { "w": "ようやく", "r": "ようやく", "hv": "", "vi": "cuối cùng thì, mãi mới" }
+        ],
+        "grammar": { "pattern": "なかなか～ない", "meaning": "mãi mà không ~", "form": "なかなか + Vない", "example": "バスがなかなか来ない。(Xe buýt mãi không đến.)" },
+        "evidence": null,
+        "tip": "なかなか ở đầu → tìm vế phủ định: 予約がとれなくて."
+      }
+    },
+    {
+      "num": 49,
+      "passage": null,
+      "stem": "なぜときどき駅ですれ違う＿＿＿ ＿＿＿ ★ ＿＿＿自分でもよくわからない。",
+      "options": ["だけの", "こんなに気になる", "のか", "彼女のことが"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tại sao tôi lại để ý nhiều đến cô gái chỉ thỉnh thoảng lướt qua ở nhà ga như vậy, chính tôi cũng không hiểu.",
+        "why": "Câu hoàn chỉnh: なぜときどき駅ですれ違う[1 だけの][4 彼女のことが][2 こんなに気になる★][3 のか]自分でもよくわからない。Thứ tự 1-4-2-3, ★ là 2.",
+        "options": [
+          "だけの → vị trí 1: すれ違うだけの彼女 = cô gái chỉ lướt qua.",
+          "こんなに気になる → vị trí 3 (★). ĐÚNG.",
+          "のか → vị trí 4: なぜ～のか (câu hỏi lồng).",
+          "彼女のことが → vị trí 2: ～が気になる."
+        ],
+        "vocab": [
+          { "w": "すれ違う", "r": "すれちがう", "hv": "VI", "vi": "đi lướt qua nhau" },
+          { "w": "気になる", "r": "きになる", "hv": "KHÍ", "vi": "để ý, bận tâm" }
+        ],
+        "grammar": { "pattern": "なぜ～のか", "meaning": "tại sao ~ (câu hỏi gián tiếp lồng trong câu)", "form": "なぜ + 普通形 + のか + わからない", "example": "なぜ彼が怒ったのかわからない。" },
+        "evidence": null,
+        "tip": "なぜ ở đầu → cuối cụm phải có のか."
+      }
+    }
+  ]
+}

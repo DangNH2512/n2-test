@@ -1,0 +1,138 @@
+{
+  "exam": "2017-07",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ (tiền tố/hậu tố) thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "４月中にご入会になると、（　　）年度の会費が無料になります。",
+      "options": ["発", "開", "頭", "初"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nếu đăng ký vào hội trong tháng 4, hội phí của năm đầu tiên sẽ được miễn phí.",
+        "why": "初年度 (しょねんど) = năm đầu tiên. Tiền tố 初～ (SƠ) = lần đầu, đầu tiên: 初年度・初対面・初公開.",
+        "options": [
+          "発 → dùng như hậu tố chỉ nơi xuất phát (東京発), không ghép với 年度. Sai.",
+          "開 → không tạo từ với 年度. Sai.",
+          "頭 → 年頭 (ねんとう: đầu năm) nhưng không có 頭年度. Sai.",
+          "初 → 初年度: năm đầu tiên. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "初年度", "r": "しょねんど", "hv": "SƠ NIÊN ĐỘ", "vi": "năm đầu tiên" },
+          { "w": "入会", "r": "にゅうかい", "hv": "NHẬP HỘI", "vi": "gia nhập hội" },
+          { "w": "会費", "r": "かいひ", "hv": "HỘI PHÍ", "vi": "hội phí" },
+          { "w": "初対面", "r": "しょたいめん", "hv": "SƠ ĐỐI DIỆN", "vi": "lần đầu gặp mặt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "初～ đọc しょ khi làm tiền tố Hán: 初年度・初日 (しょにち)・初対面."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "今の社長は、（　　）社長より 15 歳も若い。",
+      "options": ["先", "前", "作", "去"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Giám đốc hiện tại trẻ hơn giám đốc tiền nhiệm tới 15 tuổi.",
+        "why": "前社長 (ぜんしゃちょう) = giám đốc tiền nhiệm (người giữ chức ngay trước). Tiền tố 前～ (TIỀN) chỉ người/chức vụ trước đó: 前社長・前首相.",
+        "options": [
+          "先 → 先代 (thế hệ trước) nhưng không nói 先社長. Sai.",
+          "前 → 前社長: giám đốc tiền nhiệm. ĐÚNG.",
+          "作 → không phải tiền tố chỉ thời gian. Sai.",
+          "去 → chỉ dùng trong 去年 (năm ngoái), không ghép với 社長. Sai."
+        ],
+        "vocab": [
+          { "w": "前社長", "r": "ぜんしゃちょう", "hv": "TIỀN XÃ TRƯỞNG", "vi": "giám đốc tiền nhiệm" },
+          { "w": "元～", "r": "もと～", "hv": "NGUYÊN", "vi": "cựu ~ (từng là)" },
+          { "w": "前回", "r": "ぜんかい", "hv": "TIỀN HỒI", "vi": "lần trước" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "前社長 = người ngay trước; 元社長 = từng là giám đốc (không nhất thiết ngay trước)."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "ここは会員（　　）のスポーツクラブだ。",
+      "options": ["令", "制", "則", "形"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Đây là câu lạc bộ thể thao theo chế độ hội viên.",
+        "why": "会員制 (かいいんせい) = chế độ hội viên (chỉ hội viên mới dùng được). Hậu tố ～制 (CHẾ) = chế độ, hệ thống: 会員制・予約制・二学期制.",
+        "options": [
+          "令 → chỉ mệnh lệnh (命令), không làm hậu tố này. Sai.",
+          "制 → 会員制: chế độ hội viên. ĐÚNG.",
+          "則 → quy tắc (規則), không ghép 会員則. Sai.",
+          "形 → hình dạng (三角形), không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "会員制", "r": "かいいんせい", "hv": "HỘI VIÊN CHẾ", "vi": "chế độ hội viên" },
+          { "w": "予約制", "r": "よやくせい", "hv": "DỰ ƯỚC CHẾ", "vi": "chế độ đặt trước" },
+          { "w": "制度", "r": "せいど", "hv": "CHẾ ĐỘ", "vi": "chế độ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "～制 = 'theo chế độ ~': 完全予約制 (hoàn toàn đặt trước)."
+      }
+    },
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "休日の公園は家族（　　）でいっぱいだった。",
+      "options": ["込み", "付き", "伴い", "連れ"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Công viên vào ngày nghỉ đông nghịt những người đi cùng gia đình.",
+        "why": "家族連れ (かぞくづれ) = người đi cùng gia đình (cả nhà dắt nhau đi). Hậu tố ～連れ (LIÊN) = dẫn theo, đi cùng: 家族連れ・子ども連れ.",
+        "options": [
+          "込み → ～込み = bao gồm (税込み). Sai.",
+          "付き → ～付き = có kèm (朝食付き). Sai.",
+          "伴い → ～に伴い = cùng với, kéo theo (ngữ pháp), không làm hậu tố danh từ. Sai.",
+          "連れ → 家族連れ: người đi cùng gia đình. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "家族連れ", "r": "かぞくづれ", "hv": "GIA TỘC LIÊN", "vi": "người đi cùng gia đình" },
+          { "w": "子ども連れ", "r": "こどもづれ", "hv": "TỬ LIÊN", "vi": "người dẫn theo con nhỏ" },
+          { "w": "税込み", "r": "ぜいこみ", "hv": "THUẾ", "vi": "đã gồm thuế" },
+          { "w": "休日", "r": "きゅうじつ", "hv": "HƯU NHẬT", "vi": "ngày nghỉ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "連れ khi làm hậu tố đọc là づれ (biến âm)."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "前の席の人は石川さんのような気がするが、（　　）後ろからでは顔が見えない。",
+      "options": ["本", "正", "真", "完"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi có cảm giác người ngồi ghế trước là anh Ishikawa, nhưng từ ngay phía sau thì không thấy được mặt.",
+        "why": "真後ろ (まうしろ) = ngay phía sau, chính sau lưng. Tiền tố 真～ (CHÂN) = đúng, ngay, hoàn toàn: 真後ろ・真ん中・真上・真夜中.",
+        "options": [
+          "本 → 本物 (đồ thật), không ghép với 後ろ. Sai.",
+          "正 → 正面 (chính diện), không nói 正後ろ. Sai.",
+          "真 → 真後ろ: ngay phía sau. ĐÚNG.",
+          "完 → 完全 (hoàn toàn), không làm tiền tố này. Sai."
+        ],
+        "vocab": [
+          { "w": "真後ろ", "r": "まうしろ", "hv": "CHÂN HẬU", "vi": "ngay phía sau" },
+          { "w": "真上", "r": "まうえ", "hv": "CHÂN THƯỢNG", "vi": "ngay phía trên" },
+          { "w": "真夜中", "r": "まよなか", "hv": "CHÂN DẠ TRUNG", "vi": "nửa đêm" },
+          { "w": "気がする", "r": "きがする", "hv": "KHÍ", "vi": "có cảm giác" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "真～ (ま～) + từ chỉ vị trí/thời gian: 真正面・真上・真下・真冬."
+      }
+    }
+  ]
+}

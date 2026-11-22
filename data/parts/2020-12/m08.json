@@ -1,0 +1,163 @@
+{
+  "exam": "2020-12",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các vế cho đúng và chọn vế đặt ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "昨日、初めてパンを作ってみた。料理雑誌の ＿＿＿ ★ ＿＿＿ ＿＿＿ 、うまく膨らまなかった。",
+      "options": ["のに", "レシピに書いてある", "とおりに", "作った"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hôm qua lần đầu tiên tôi thử làm bánh mì. Dù đã làm đúng như công thức ghi trên tạp chí nấu ăn nhưng bánh không nở được.",
+        "why": "Thứ tự: 料理雑誌の［レシピに書いてある］［とおりに］［作った］［のに］、うまく膨らまなかった。(2-3-4-1). Vị trí ★ (thứ 2) là とおりに.",
+        "options": [
+          "のに → vị trí 4: 作ったのに (dù đã làm mà...), nối với vế trái kỳ vọng. Không phải ★.",
+          "レシピに書いてある → vị trí 1: đi sau 料理雑誌の. Không phải ★.",
+          "とおりに → vị trí 2 (★): 書いてあるとおりに = đúng như được ghi. ĐÚNG.",
+          "作った → vị trí 3: とおりに作った. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "膨らむ", "r": "ふくらむ", "hv": "BÀNH", "vi": "phồng lên, nở ra" },
+          { "w": "レシピ", "r": "レシピ", "hv": "", "vi": "công thức nấu ăn" },
+          { "w": "雑誌", "r": "ざっし", "hv": "TẠP CHÍ", "vi": "tạp chí" }
+        ],
+        "grammar": {
+          "pattern": "～とおりに / ～のに",
+          "meaning": "đúng như ~ / dù ~ vậy mà",
+          "form": "Vる・Vた＋とおりに；Nの＋とおりに / 普通形＋のに",
+          "example": "説明書に書いてあるとおりにやったのに、動かない。"
+        },
+        "evidence": null,
+        "tip": "Vế cuối 「うまく膨らまなかった」 là kết quả trái mong đợi → のに đứng ngay trước dấu phẩy."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "「10倍がゆ」とは ＿＿＿ ＿＿＿ ★ ＿＿＿ おかゆのことです。",
+      "options": ["作った", "水で", "10倍の", "米1に対して"],
+      "answer": 2,
+      "explanation": {
+        "translation": "「Cháo 10 lần」 là loại cháo nấu với lượng nước gấp 10 lần so với 1 phần gạo.",
+        "why": "Thứ tự: ［米1に対して］［10倍の］［水で］［作った］おかゆ (4-3-2-1). Vị trí ★ (thứ 3) là 水で.",
+        "options": [
+          "作った → vị trí 4: 作ったおかゆ (bổ nghĩa cho おかゆ). Không phải ★.",
+          "水で → vị trí 3 (★): nấu bằng nước. ĐÚNG.",
+          "10倍の → vị trí 2: 10倍の水 (nước gấp 10 lần). Không phải ★.",
+          "米1に対して → vị trí 1: so với 1 phần gạo. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "おかゆ", "r": "おかゆ", "hv": "", "vi": "cháo" },
+          { "w": "米", "r": "こめ", "hv": "MỄ", "vi": "gạo" },
+          { "w": "～倍", "r": "～ばい", "hv": "BỘI", "vi": "gấp ~ lần" }
+        ],
+        "grammar": {
+          "pattern": "～に対して",
+          "meaning": "so với ~, đối với ~ (tỉ lệ)",
+          "form": "N＋に対して",
+          "example": "学生10人に対して先生が1人いる。"
+        },
+        "evidence": null,
+        "tip": "Động từ 作った phải đứng ngay trước danh từ おかゆ."
+      }
+    },
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "私が就職した商社は大手の ＿＿＿ ＿＿＿ ★ ＿＿＿ 新人でも大きな仕事を任せてもらえるので、やりがいがある。",
+      "options": ["決して", "商社に比べると", "やる気があれば", "規模は大きくないが"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Công ty thương mại tôi vào làm, so với các công ty lớn thì quy mô hoàn toàn không lớn, nhưng nếu có nhiệt huyết thì dù là nhân viên mới cũng được giao việc lớn, nên rất đáng làm.",
+        "why": "Thứ tự: 大手の［商社に比べると］［決して］［規模は大きくないが］［やる気があれば］新人でも… (2-1-4-3). Vị trí ★ (thứ 3) là 規模は大きくないが.",
+        "options": [
+          "決して → vị trí 2: 決して～ない (hoàn toàn không). Không phải ★.",
+          "商社に比べると → vị trí 1: 大手の商社に比べると. Không phải ★.",
+          "やる気があれば → vị trí 4: nối với 新人でも大きな仕事を任せてもらえる. Không phải ★.",
+          "規模は大きくないが → vị trí 3 (★): đi với 決して～ない. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "商社", "r": "しょうしゃ", "hv": "THƯƠNG XÃ", "vi": "công ty thương mại" },
+          { "w": "大手", "r": "おおて", "hv": "ĐẠI THỦ", "vi": "công ty lớn" },
+          { "w": "規模", "r": "きぼ", "hv": "QUY MÔ", "vi": "quy mô" },
+          { "w": "任せる", "r": "まかせる", "hv": "NHIỆM", "vi": "giao phó" },
+          { "w": "やりがい", "r": "やりがい", "hv": "", "vi": "đáng làm, có ý nghĩa" }
+        ],
+        "grammar": {
+          "pattern": "決して～ない",
+          "meaning": "tuyệt đối không, hoàn toàn không",
+          "form": "決して＋V/A phủ định",
+          "example": "この仕事は決して簡単ではない。"
+        },
+        "evidence": null,
+        "tip": "決して luôn đi với phủ định → ghép với 大きくない."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "彼女は1970年代に活躍したジャズピアニストで、この人 ＿＿＿ ＿＿＿ ★ ＿＿＿ 大きな存在だった。",
+      "options": ["語れない", "日本のジャズは", "抜きには", "というほど"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Bà ấy là nghệ sĩ piano jazz hoạt động vào những năm 1970, một tồn tại lớn đến mức có thể nói không có người này thì không thể nói về nhạc jazz Nhật Bản.",
+        "why": "Thứ tự: この人［抜きには］［日本のジャズは］［語れない］［というほど］大きな存在だった (3-2-1-4). Vị trí ★ (thứ 3) là 語れない.",
+        "options": [
+          "語れない → vị trí 3 (★): ～抜きには語れない (không thể nói đến nếu thiếu ~). ĐÚNG.",
+          "日本のジャズは → vị trí 2: chủ đề của 語れない. Không phải ★.",
+          "抜きには → vị trí 1: この人抜きには. Không phải ★.",
+          "というほど → vị trí 4: bổ nghĩa cho 大きな存在. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "活躍", "r": "かつやく", "hv": "HOẠT DƯỢC", "vi": "hoạt động sôi nổi, tỏa sáng" },
+          { "w": "存在", "r": "そんざい", "hv": "TỒN TẠI", "vi": "sự tồn tại, nhân vật" },
+          { "w": "語る", "r": "かたる", "hv": "NGỮ", "vi": "kể, nói về" }
+        ],
+        "grammar": {
+          "pattern": "～抜きには～ない / ～というほど",
+          "meaning": "nếu không có ~ thì không thể ~ / đến mức nói rằng ~",
+          "form": "N＋抜きには＋Vない；普通形＋というほど",
+          "example": "彼抜きにはこのプロジェクトは成功しなかった。"
+        },
+        "evidence": null,
+        "tip": "～抜きには語れない là cụm cố định = ～を抜きにしては語れない."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "贈り物をするときは、自分の勝手な ＿＿＿ ＿＿＿ ★ ＿＿＿ 、相手の趣味や都合をよく考えて決めましょう。",
+      "options": ["思い込みだけで", "喜ばれるどころか", "迷惑をかけることもあるので", "品物を選ぶと"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Khi tặng quà, nếu chọn đồ chỉ dựa vào suy nghĩ chủ quan của bản thân thì không những không được vui mừng mà còn có khi gây phiền phức, vì vậy hãy cân nhắc kỹ sở thích và hoàn cảnh của người nhận rồi quyết định.",
+        "why": "Thứ tự: 勝手な［思い込みだけで］［品物を選ぶと］［喜ばれるどころか］［迷惑をかけることもあるので］、… (1-4-2-3). Vị trí ★ (thứ 3) là 喜ばれるどころか.",
+        "options": [
+          "思い込みだけで → vị trí 1: 勝手な思い込み. Không phải ★.",
+          "喜ばれるどころか → vị trí 3 (★): không những không được vui mà ngược lại... ĐÚNG.",
+          "迷惑をかけることもあるので → vị trí 4: đứng trước dấu phẩy, nêu lý do. Không phải ★.",
+          "品物を選ぶと → vị trí 2: nếu chọn đồ (điều kiện). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "思い込み", "r": "おもいこみ", "hv": "", "vi": "sự đinh ninh, suy nghĩ chủ quan" },
+          { "w": "勝手", "r": "かって", "hv": "THẮNG THỦ", "vi": "tùy tiện, chủ quan" },
+          { "w": "品物", "r": "しなもの", "hv": "PHẨM VẬT", "vi": "đồ vật, hàng hóa" },
+          { "w": "迷惑", "r": "めいわく", "hv": "MÊ HOẶC", "vi": "phiền phức" }
+        ],
+        "grammar": {
+          "pattern": "～どころか",
+          "meaning": "không những không ~ mà ngược lại còn ~",
+          "form": "V/A thể thường・N＋どころか",
+          "example": "薬を飲んだが、治るどころか悪くなった。"
+        },
+        "evidence": null,
+        "tip": "どころか thường đi với kết quả ngược lại → 喜ばれるどころか迷惑をかける."
+      }
+    }
+  ]
+}

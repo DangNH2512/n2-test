@@ -1,0 +1,135 @@
+{
+  "exam": "2012-12",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn tiền tố/hậu tố (từ ghép) thích hợp nhất điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "昨日、（　　）夜中に電話で起こされた。",
+      "options": ["正", "実", "本", "真"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hôm qua tôi bị đánh thức bởi điện thoại vào lúc nửa đêm khuya khoắt.",
+        "why": "真夜中 (まよなか) = giữa đêm, nửa đêm. Tiền tố 真 (ま) = đúng, chính giữa, hoàn toàn: 真夜中, 真ん中, 真っ白, 真冬.",
+        "options": [
+          "正 → 正 + 時間 (正午, 正面), không đi với 夜中. Sai.",
+          "実 → 実 + N (実社会, 実生活), không có 実夜中. Sai.",
+          "本 → 本 + N (本番, 本社), không có 本夜中. Sai.",
+          "真 → 真夜中: nửa đêm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "真夜中", "r": "まよなか", "hv": "CHÂN DẠ TRUNG", "vi": "nửa đêm, giữa đêm" },
+          { "w": "真冬", "r": "まふゆ", "hv": "CHÂN ĐÔNG", "vi": "giữa mùa đông" },
+          { "w": "起こす", "r": "おこす", "hv": "KHỞI", "vi": "đánh thức; gây ra" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "真 (ま) + danh từ thời gian/vị trí/màu sắc: 真夏, 真昼, 真正面, 真っ赤, 真っ暗."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "昨日の選挙の投票（　　）は非常に高かった。",
+      "options": ["割", "率", "値", "比"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tỷ lệ bỏ phiếu trong cuộc bầu cử hôm qua rất cao.",
+        "why": "投票率 (とうひょうりつ) = tỷ lệ cử tri đi bầu. Hậu tố 〜率 (りつ) = tỷ lệ: 合格率, 失業率, 視聴率.",
+        "options": [
+          "割 → 〜割 (わり): một phần mười (3割 = 30%), không ghép sau 投票. Sai.",
+          "率 → 投票率: tỷ lệ bỏ phiếu. ĐÚNG.",
+          "値 → 〜値 (ち/ね): giá trị (平均値, 数値). Sai.",
+          "比 → 〜比 (ひ): tỷ số so sánh (前年比). Sai."
+        ],
+        "vocab": [
+          { "w": "投票率", "r": "とうひょうりつ", "hv": "ĐẦU PHIẾU SUẤT", "vi": "tỷ lệ bỏ phiếu" },
+          { "w": "選挙", "r": "せんきょ", "hv": "TUYỂN CỬ", "vi": "bầu cử" },
+          { "w": "非常に", "r": "ひじょうに", "hv": "PHI THƯỜNG", "vi": "rất, cực kỳ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "率 nghĩa 'tỷ lệ' đọc りつ (確率, 効率, 倍率); nghĩa 'dẫn dắt/thẳng thắn' đọc そつ (引率 いんそつ, 率直 そっちょく)."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "この本棚の本は、作家名のアルファベット（　　）に並んでいます。",
+      "options": ["順", "番", "序", "位"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Sách trên giá này được xếp theo thứ tự bảng chữ cái tên tác giả.",
+        "why": "〜順 (じゅん) = theo thứ tự ~: アルファベット順, 五十音順, 年代順, 先着順. 〜順に並ぶ = xếp theo thứ tự.",
+        "options": [
+          "順 → アルファベット順: theo thứ tự ABC. ĐÚNG.",
+          "番 → 〜番 (ばん): số thứ ~ (3番), không dùng chỉ cách sắp xếp. Sai.",
+          "序 → 序 không làm hậu tố như vậy (順序 là từ ghép). Sai.",
+          "位 → 〜位 (い): hạng ~ (1位). Sai."
+        ],
+        "vocab": [
+          { "w": "〜順", "r": "じゅん", "hv": "THUẬN", "vi": "theo thứ tự ~" },
+          { "w": "本棚", "r": "ほんだな", "hv": "BẢN BẰNG", "vi": "giá sách" },
+          { "w": "並ぶ", "r": "ならぶ", "hv": "TỊNH", "vi": "xếp hàng, được xếp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Gặp 'xếp theo …' → 〜順に並べる/並ぶ."
+      }
+    },
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "外からあまり見えないように、この窓は（　　）透明のガラスにしてある。",
+      "options": ["弱", "中", "低", "半"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Để bên ngoài không nhìn thấy rõ, cửa sổ này được làm bằng kính bán trong suốt (mờ).",
+        "why": "半透明 (はんとうめい) = bán trong suốt, mờ mờ. Tiền tố 半 (はん) = một nửa, chưa hoàn toàn: 半透明, 半年, 半額.",
+        "options": [
+          "弱 → 弱 + N (弱気, 弱点), không có 弱透明. Sai.",
+          "中 → 中 + N (中学, 中古), không có 中透明. Sai.",
+          "低 → 低 + N (低温, 低価格), không có 低透明. Sai.",
+          "半 → 半透明: bán trong suốt. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "半透明", "r": "はんとうめい", "hv": "BÁN THẤU MINH", "vi": "bán trong suốt, mờ" },
+          { "w": "透明", "r": "とうめい", "hv": "THẤU MINH", "vi": "trong suốt" },
+          { "w": "窓", "r": "まど", "hv": "SONG", "vi": "cửa sổ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "半 + tính chất 'chưa trọn vẹn': 半透明, 半熟 (はんじゅく: lòng đào), 半人前."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "海外のホテルでも日本（　　）のサービスを取り入れるところが増えているらしい。",
+      "options": ["似", "流", "類", "法"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Nghe nói ngày càng có nhiều khách sạn ở nước ngoài áp dụng kiểu phục vụ theo phong cách Nhật.",
+        "why": "〜流 (りゅう) = phong cách, kiểu cách ~: 日本流, アメリカ流, 自己流. 日本流のサービス = dịch vụ kiểu Nhật.",
+        "options": [
+          "似 → không làm hậu tố như vậy (似る: giống). Sai.",
+          "流 → 日本流: kiểu Nhật. ĐÚNG.",
+          "類 → 〜類 (るい): loài, loại (魚類, 書類). Sai.",
+          "法 → 〜法 (ほう): phương pháp, luật (文法, 調理法), không nói 日本法のサービス. Sai."
+        ],
+        "vocab": [
+          { "w": "〜流", "r": "りゅう", "hv": "LƯU", "vi": "phong cách, kiểu ~" },
+          { "w": "取り入れる", "r": "とりいれる", "hv": "THỦ NHẬP", "vi": "tiếp thu, đưa vào áp dụng" },
+          { "w": "自己流", "r": "じこりゅう", "hv": "TỰ KỶ LƯU", "vi": "kiểu tự mình, tự phát" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Phân biệt: 〜式 (kiểu, hệ thống: 日本式) gần nghĩa 〜流; 〜風 (ふう: phong cách bề ngoài: 和風)."
+      }
+    }
+  ]
+}

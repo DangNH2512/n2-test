@@ -1,0 +1,154 @@
+{
+  "exam": "2010-12",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các phương án thành câu đúng và chọn phương án nằm ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "（テレビドラマを見ながら）\n弟「このドラマの犯人、誰だと思う？」\n兄「＿＿＿ ＿＿＿ ★ ＿＿＿と思うんだけど、ほかの人もみんな怪しいんだよなあ。」",
+      "options": ["中の", "じゃないか", "誰か", "三姉妹の"],
+      "answer": 3,
+      "explanation": {
+        "translation": "(Vừa xem phim vừa nói) Em: ‘Anh nghĩ hung thủ phim này là ai?’ Anh: ‘Anh nghĩ là một ai đó trong ba chị em, nhưng mà mấy người khác cũng đều đáng ngờ cả.’",
+        "why": "Thứ tự đúng: ［4 三姉妹の］［1 中の］［3 誰か★］［2 じゃないか］と思う. 「Nの中の誰か」 = một ai đó trong số N; 「～じゃないかと思う」 = tôi nghĩ có lẽ là ~. ★ ở vị trí 3 → 誰か.",
+        "options": [
+          "中の → vị trí 2 (三姉妹の中の). Không phải ★.",
+          "じゃないか → vị trí 4, đứng ngay trước と思う. Không phải ★.",
+          "誰か → vị trí 3, ★. ĐÚNG.",
+          "三姉妹の → vị trí 1. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "犯人", "r": "はんにん", "hv": "PHẠM NHÂN", "vi": "thủ phạm, hung thủ" },
+          { "w": "三姉妹", "r": "さんしまい", "hv": "TAM TỶ MUỘI", "vi": "ba chị em gái" },
+          { "w": "怪しい", "r": "あやしい", "hv": "QUÁI", "vi": "đáng ngờ, khả nghi" }
+        ],
+        "grammar": {
+          "pattern": "～じゃないかと思う",
+          "meaning": "tôi nghĩ có lẽ là ~ (phỏng đoán nhẹ)",
+          "form": "普通形 (N/Na bỏ だ) ＋じゃないか（ではないか）と思う",
+          "example": "明日は雨じゃないかと思う。(Tôi nghĩ mai có lẽ mưa.)"
+        },
+        "tip": "Gặp と思う ở cuối → mảnh じゃないか gần như chắc chắn đứng ngay trước."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "新しいパソコンが欲しいが、＿＿＿ ＿＿＿ ★ ＿＿＿、しばらく様子を見ようと思う。",
+      "options": ["悔しいから", "新しいのが出たりしたら", "今慌てて買って", "何カ月もしないうちに"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi muốn có máy tính mới, nhưng nếu bây giờ vội vàng mua rồi chưa được mấy tháng đã có mẫu mới ra thì sẽ tiếc lắm, nên tôi định chờ xem tình hình một thời gian.",
+        "why": "Thứ tự đúng: ［3 今慌てて買って］［4 何カ月もしないうちに］［2 新しいのが出たりしたら★］［1 悔しいから］、しばらく様子を見よう. Mạch: mua vội → chưa mấy tháng → mẫu mới ra → tiếc → nên chờ. ★ ở vị trí 3 → 新しいのが出たりしたら.",
+        "options": [
+          "悔しいから → vị trí 4, chỉ lý do ngay trước 、しばらく様子を見よう. Không phải ★.",
+          "新しいのが出たりしたら → vị trí 3, ★. ĐÚNG.",
+          "今慌てて買って → vị trí 1, nối ‘欲しいが、’. Không phải ★.",
+          "何カ月もしないうちに → vị trí 2 (chưa được mấy tháng). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "悔しい", "r": "くやしい", "hv": "HỐI", "vi": "tiếc nuối, cay cú" },
+          { "w": "慌てる", "r": "あわてる", "hv": "HOẢNG", "vi": "vội vàng, cuống" },
+          { "w": "様子を見る", "r": "ようすをみる", "hv": "DẠNG TỬ", "vi": "chờ xem tình hình" }
+        ],
+        "grammar": {
+          "pattern": "～ないうちに",
+          "meaning": "trong lúc chưa ~, chưa kịp ~ thì đã",
+          "form": "Vない＋うちに",
+          "example": "１週間もしないうちに、全部忘れてしまった。(Chưa được một tuần đã quên hết.)"
+        },
+        "tip": "Sắp theo trình tự nhân quả: hành động → thời gian → sự việc xảy ra → cảm xúc → kết luận."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "お互い感情的になっていると、＿＿＿ ＿＿＿ ★ ＿＿＿ものだ。",
+      "options": ["うまく", "冷静に話そう", "いかない", "としても"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Khi cả hai bên đang kích động, thì dù có định nói chuyện bình tĩnh cũng thường không suôn sẻ.",
+        "why": "Thứ tự đúng: ［2 冷静に話そう］［4 としても］［1 うまく★］［3 いかない］ものだ. 「Vよう＋としても」 = dù có định ~; 「うまくいかない」 = không suôn sẻ; 「～ものだ」 = lẽ thường là. ★ ở vị trí 3 → うまく.",
+        "options": [
+          "うまく → vị trí 3, ★. ĐÚNG.",
+          "冷静に話そう → vị trí 1. Không phải ★.",
+          "いかない → vị trí 4, trước ものだ. Không phải ★.",
+          "としても → vị trí 2 (話そうとしても). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "感情的", "r": "かんじょうてき", "hv": "CẢM TÌNH ĐÍCH", "vi": "theo cảm xúc, kích động" },
+          { "w": "冷静", "r": "れいせい", "hv": "LÃNH TĨNH", "vi": "bình tĩnh" },
+          { "w": "お互い", "r": "おたがい", "hv": "HỖ", "vi": "lẫn nhau, cả hai bên" }
+        ],
+        "grammar": {
+          "pattern": "Vよう（意向形）としても",
+          "meaning": "dù có định/cố ~ đi nữa (thì cũng không được)",
+          "form": "V意向形＋としても",
+          "example": "忘れようとしても、忘れられない。(Dù cố quên cũng không quên được.)"
+        },
+        "tip": "Cụm cố định: うまくいく／うまくいかない → hai mảnh này luôn đi liền nhau."
+      }
+    },
+    {
+      "num": 48,
+      "passage": null,
+      "stem": "彼がそんなことをする人間でないことは、あなたが＿＿＿ ＿＿＿ ★ ＿＿＿だ。",
+      "options": ["はず", "ご存じ", "いちばん", "の"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Việc anh ấy không phải loại người làm chuyện như thế thì chắc chắn anh/chị là người biết rõ nhất.",
+        "why": "Thứ tự đúng: あなたが［3 いちばん］［2 ご存じ］［4 の★］［1 はず］だ. 「ご存じ」 là danh từ tôn kính (= 知っている) → nối với はず cần の: ご存じのはずだ = hẳn là biết. ★ ở vị trí 3 → の.",
+        "options": [
+          "はず → vị trí 4, trước だ. Không phải ★.",
+          "ご存じ → vị trí 2 (いちばんご存じ). Không phải ★.",
+          "いちばん → vị trí 1, bổ nghĩa cho ご存じ. Không phải ★.",
+          "の → vị trí 3, ★ (ご存じのはず). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "ご存じ", "r": "ごぞんじ", "hv": "TỒN", "vi": "biết (tôn kính ngữ của 知っている)" },
+          { "w": "人間", "r": "にんげん", "hv": "NHÂN GIAN", "vi": "con người" }
+        ],
+        "grammar": {
+          "pattern": "Nのはずだ",
+          "meaning": "hẳn là, chắc chắn là ~ (suy luận có căn cứ)",
+          "form": "V普通形／Aい／Naな／Nの ＋はずだ",
+          "example": "この件は部長もご存じのはずです。(Việc này chắc trưởng phòng cũng biết.)"
+        },
+        "tip": "ご存じ hoạt động như danh từ: ご存じですか／ご存じの方／ご存じのはず."
+      }
+    },
+    {
+      "num": 49,
+      "passage": null,
+      "stem": "田中監督が選手たちに厳しくするのは、一度は優勝を＿＿＿ ＿＿＿ ★ ＿＿＿だ。",
+      "options": ["と", "経験させたい", "からこそ", "願う"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Huấn luyện viên Tanaka nghiêm khắc với các cầu thủ chính là vì ông mong muốn cho họ được trải nghiệm chức vô địch ít nhất một lần.",
+        "why": "Thứ tự đúng: 優勝を［2 経験させたい］［1 と］［4 願う★］［3 からこそ］だ. 「～と願う」 = mong rằng ~; 「～のは…からこそだ」 = chính vì … mà ~. ★ ở vị trí 3 → 願う.",
+        "options": [
+          "と → vị trí 2 (経験させたいと). Không phải ★.",
+          "経験させたい → vị trí 1, nhận tân ngữ 優勝を. Không phải ★.",
+          "からこそ → vị trí 4, trước だ. Không phải ★.",
+          "願う → vị trí 3, ★. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "監督", "r": "かんとく", "hv": "GIÁM ĐỐC", "vi": "huấn luyện viên, đạo diễn" },
+          { "w": "優勝", "r": "ゆうしょう", "hv": "ƯU THẮNG", "vi": "vô địch" },
+          { "w": "願う", "r": "ねがう", "hv": "NGUYỆN", "vi": "mong muốn, cầu mong" }
+        ],
+        "grammar": {
+          "pattern": "～のは…からこそだ",
+          "meaning": "sở dĩ ~ chính là vì …",
+          "form": "Aのは＋普通形＋からこそだ",
+          "example": "厳しく言うのは、あなたのことを思っているからこそだ。(Nói nghiêm khắc chính là vì nghĩ cho bạn.)"
+        },
+        "tip": "Đầu câu có ～のは → cuối câu thường là ～からだ／からこそだ (giải thích lý do)."
+      }
+    }
+  ]
+}

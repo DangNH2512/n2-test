@@ -1,0 +1,95 @@
+{
+  "exam": "2023-07",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B rồi chọn câu trả lời đúng nhất (đọc so sánh).",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "会社で働いていれば、部下に仕事を教える立場になることがあるだろう。そんなとき、私はできるだけ社内用語や専門用語を使わずに、誰が聞いても分かる言葉で説明するようにしている。教える側と教えられる側の知識や経験には大きな差があるからだ。\nいずれ覚えなければならないからと思って最初から難しい言葉を使って説明すると、仕事自体が難しいという印象を与え、部下が仕事を理解しようという意欲を失ってしまう。大切なのは、部下の能力に応じた教え方をすることではないだろうか。部下にとって分かりやすい言葉で仕事をしっかり理解させ、やる気を引き出すことは、上司の大事な役目だ。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "部下に仕事を教えるとき、多くの仕事を一気に教え込もうとする人がいる。早く仕事を覚えてほしいという気持ちは理解できるが、仕事を覚える側の負担を考えていないのは問題だ。仕事を正確に覚えてもらうには、部下がどんな知識や経験を持ち、何ができるのかを考えて教えることが大切だ。\n私が実践しているのは、仕事を一度に教えようとしないで、すぐに担当してもらう仕事に絞って教えることだ。教える内容を限定すれば、部下が難しいと感じることは時間をかけて説明したり、部下が得意なことは一人でやらせてみたりして、部下のレベルに合わせた内容やスピードで教えることができる。部下の立場に立って教えることが、確実に仕事を覚えてもらうための近道だ。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 65,
+      "passage": "AB",
+      "stem": "AとBは、それぞれ仕事をどのように教えていると述べているか。",
+      "options": [
+        "AもBも、難しい言葉を使わずに簡単な言葉で教えていると述べている。",
+        "AもBも、部下が担当する仕事と一緒に、関連する仕事も教えていると述べている。",
+        "Aは部下がすぐに覚えられる仕事を先に教えていると述べ、Bは仕事の内容を絞って教えていると述べている。",
+        "Aは部下が理解しやすい言葉を使って教えていると述べ、Bは部下が担当する仕事に限定して教えていると述べている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "A và B mỗi người nói mình dạy việc như thế nào? → A nói dạy bằng từ ngữ cấp dưới dễ hiểu, B nói chỉ giới hạn dạy công việc cấp dưới sẽ phụ trách.",
+        "why": "A: tránh thuật ngữ nội bộ/chuyên môn, giải thích bằng lời ai cũng hiểu. B: không dạy tất cả một lúc, chỉ tập trung vào việc cấp dưới sẽ phụ trách ngay.",
+        "options": [
+          "Chỉ A nói về \"không dùng từ khó\"; B không nhắc đến ngôn ngữ. Sai.",
+          "B nói ngược lại: chỉ dạy việc sắp phụ trách; A không nói gì về việc liên quan. Sai.",
+          "A không nói \"dạy trước việc dễ nhớ\"; vế về B thì đúng. Sai.",
+          "A: từ ngữ dễ hiểu; B: giới hạn ở việc sẽ phụ trách. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "部下", "r": "ぶか", "hv": "BỘ HẠ", "vi": "cấp dưới" },
+          { "w": "専門用語", "r": "せんもんようご", "hv": "CHUYÊN MÔN DỤNG NGỮ", "vi": "thuật ngữ chuyên môn" },
+          { "w": "一気に", "r": "いっきに", "hv": "NHẤT KHÍ", "vi": "một lèo, một lúc" },
+          { "w": "担当", "r": "たんとう", "hv": "ĐẢM ĐƯƠNG", "vi": "phụ trách" },
+          { "w": "限定", "r": "げんてい", "hv": "HẠN ĐỊNH", "vi": "giới hạn" }
+        ],
+        "grammar": {
+          "pattern": "～に絞る",
+          "meaning": "thu hẹp, tập trung vào ~",
+          "form": "N ＋ に絞る",
+          "example": "テーマを一つに絞って発表する。"
+        },
+        "evidence": "A：私はできるだけ社内用語や専門用語を使わずに、誰が聞いても分かる言葉で説明するようにしている。／B：私が実践しているのは、仕事を一度に教えようとしないで、すぐに担当してもらう仕事に絞って教えることだ。",
+        "tip": "Câu hỏi それぞれ → kiểm tra từng vế A và B riêng; chỉ cần một vế sai là loại."
+      }
+    },
+    {
+      "num": 66,
+      "passage": "AB",
+      "stem": "仕事を教える際に重要なこととして、AとBが共通して述べていることは何か。",
+      "options": [
+        "部下のやる気を引き出すこと",
+        "部下の長所を見つけて伸ばすこと",
+        "部下の能力に合わせて指導すること",
+        "部下とのよい関係を維持すること"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về điều quan trọng khi dạy việc, A và B cùng nói điều gì? → Hướng dẫn phù hợp với năng lực của cấp dưới.",
+        "why": "A: 大切なのは、部下の能力に応じた教え方をすること. B: 部下がどんな知識や経験を持ち、何ができるのかを考えて教えることが大切／部下のレベルに合わせた内容やスピードで教える → cả hai: dạy theo năng lực cấp dưới.",
+        "options": [
+          "Chỉ A nói khơi gợi động lực (やる気を引き出す). Sai.",
+          "B có cho cấp dưới tự làm việc sở trường, nhưng không nói \"phát hiện và phát huy sở trường\"; A không nói. Sai.",
+          "Dạy theo năng lực, trình độ của cấp dưới. ĐÚNG.",
+          "Không ai nói duy trì quan hệ tốt. Sai."
+        ],
+        "vocab": [
+          { "w": "能力", "r": "のうりょく", "hv": "NĂNG LỰC", "vi": "năng lực" },
+          { "w": "指導", "r": "しどう", "hv": "CHỈ ĐẠO", "vi": "hướng dẫn, chỉ đạo" },
+          { "w": "意欲", "r": "いよく", "hv": "Ý DỤC", "vi": "ý chí, động lực" },
+          { "w": "負担", "r": "ふたん", "hv": "PHỤ ĐẢM", "vi": "gánh nặng" },
+          { "w": "長所", "r": "ちょうしょ", "hv": "TRƯỜNG SỞ", "vi": "sở trường, ưu điểm" }
+        ],
+        "grammar": {
+          "pattern": "～に応じた",
+          "meaning": "phù hợp với, tương ứng với ~",
+          "form": "N ＋ に応じた ＋ N2",
+          "example": "年齢に応じた運動をしましょう。"
+        },
+        "evidence": "A：大切なのは、部下の能力に応じた教え方をすることではないだろうか。／B：部下がどんな知識や経験を持ち、何ができるのかを考えて教えることが大切だ。…部下のレベルに合わせた内容やスピードで教えることができる。",
+        "tip": "Từ khóa đồng nghĩa: 能力に応じた (A) ≈ レベルに合わせた (B) ≈ 能力に合わせて (đáp án)."
+      }
+    }
+  ]
+}

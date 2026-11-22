@@ -1,0 +1,136 @@
+{
+  "exam": "2010-12",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "今回のマラソン大会は、過去最大の<u>規模</u>で行われた。",
+      "options": ["きぼ", "ぎぼ", "きも", "ぎも"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Giải marathon lần này được tổ chức với quy mô lớn nhất từ trước đến nay.",
+        "why": "規模 đọc là きぼ (QUY MÔ) = quy mô. 規 đọc き (規則・規定), không đục thành ぎ; 模 ở đây đọc ぼ (như 模範 もはん thì đọc も, nhưng trong 規模 là ぼ).",
+        "options": [
+          "きぼ → 規模: quy mô. ĐÚNG.",
+          "ぎぼ → không có từ này (đục sai 規). Sai.",
+          "きも → 肝: gan; can đảm (肝試し). Sai.",
+          "ぎも → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "規模", "r": "きぼ", "hv": "QUY MÔ", "vi": "quy mô" },
+          { "w": "過去最大", "r": "かこさいだい", "hv": "QUÁ KHỨ TỐI ĐẠI", "vi": "lớn nhất từ trước tới nay" },
+          { "w": "規則", "r": "きそく", "hv": "QUY TẮC", "vi": "quy tắc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "模 có 2 âm: も (模型・模範) và ぼ (規模). Cụm hay gặp: 大規模 (だいきぼ) = quy mô lớn."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "異文化に<u>触れた</u>のがきっかけで、この仕事を始めた。",
+      "options": ["ふれた", "なれた", "めぐまれた", "あこがれた"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Việc được tiếp xúc với nền văn hóa khác là cơ duyên để tôi bắt đầu công việc này.",
+        "why": "触れる đọc là ふれる (XÚC) = chạm vào; tiếp xúc, trải nghiệm. 異文化に触れる = tiếp xúc với văn hóa khác, cụm rất hay dùng.",
+        "options": [
+          "ふれた → 触れた: chạm, tiếp xúc. ĐÚNG.",
+          "なれた → 慣れた: đã quen. Sai.",
+          "めぐまれた → 恵まれた: được ban cho, may mắn có. Sai.",
+          "あこがれた → 憧れた: ngưỡng mộ, khao khát. Sai."
+        ],
+        "vocab": [
+          { "w": "触れる", "r": "ふれる", "hv": "XÚC", "vi": "chạm vào, tiếp xúc" },
+          { "w": "異文化", "r": "いぶんか", "hv": "DỊ VĂN HÓA", "vi": "văn hóa khác (nước ngoài)" },
+          { "w": "恵まれる", "r": "めぐまれる", "hv": "HUỆ", "vi": "được ưu đãi, may mắn có" },
+          { "w": "憧れる", "r": "あこがれる", "hv": "SUNG", "vi": "ngưỡng mộ, mơ ước" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "触 còn đọc さわる (触る = sờ) và しょく (接触 せっしょく = tiếp xúc)."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "話し合いでは、少数意見も<u>尊重</u>しよう。",
+      "options": ["けいちょう", "けいじゅう", "そんちょう", "そんじゅう"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Trong buổi thảo luận, hãy tôn trọng cả ý kiến thiểu số.",
+        "why": "尊重 đọc là そんちょう (TÔN TRỌNG) = tôn trọng. 尊 = そん; 重 trong từ này đọc ちょう (giống 貴重 きちょう, 慎重 しんちょう), không phải じゅう.",
+        "options": [
+          "けいちょう → 傾聴: lắng nghe chăm chú (hoặc 慶弔: hiếu hỷ). Sai.",
+          "けいじゅう → không có từ này. Sai.",
+          "そんちょう → 尊重: tôn trọng. ĐÚNG.",
+          "そんじゅう → không có từ này (重 đọc sai). Sai."
+        ],
+        "vocab": [
+          { "w": "尊重", "r": "そんちょう", "hv": "TÔN TRỌNG", "vi": "tôn trọng" },
+          { "w": "少数意見", "r": "しょうすういけん", "hv": "THIỂU SỐ Ý KIẾN", "vi": "ý kiến thiểu số" },
+          { "w": "貴重", "r": "きちょう", "hv": "QUÝ TRỌNG", "vi": "quý giá" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "重 = ちょう trong 尊重・貴重・慎重・重宝; = じゅう trong 体重・重要・重大."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "けがの<u>治療</u>に2か月かかった。",
+      "options": ["じりょ", "ちりょ", "じりょう", "ちりょう"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Việc điều trị vết thương đã mất 2 tháng.",
+        "why": "治療 đọc là ちりょう (TRỊ LIỆU) = điều trị. 治 đọc ち trong 治療・治安; 療 luôn là りょう (trường âm).",
+        "options": [
+          "じりょ → sai cả 治 lẫn thiếu trường âm. Sai.",
+          "ちりょ → thiếu trường âm (療 = りょう). Sai.",
+          "じりょう → 治 đọc じ trong 政治・自治, không dùng trong 治療. Sai.",
+          "ちりょう → 治療: điều trị. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "治療", "r": "ちりょう", "hv": "TRỊ LIỆU", "vi": "điều trị, chữa trị" },
+          { "w": "政治", "r": "せいじ", "hv": "CHÍNH TRỊ", "vi": "chính trị" },
+          { "w": "医療", "r": "いりょう", "hv": "Y LIỆU", "vi": "y tế, chữa bệnh" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy trường âm: 療 (りょう) luôn có う. 治: ち (治療・治安) / じ (政治・退治)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "花屋の<u>隣</u>に空き地があります。",
+      "options": ["うら", "となり", "そば", "むかい"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Bên cạnh tiệm hoa có một khoảnh đất trống.",
+        "why": "隣 đọc là となり (LÂN) = bên cạnh, sát vách (liền kề nhau).",
+        "options": [
+          "うら → 裏: phía sau, mặt sau. Sai.",
+          "となり → 隣: bên cạnh, kế bên. ĐÚNG.",
+          "そば → 側・傍: gần, bên cạnh (không viết bằng 隣). Sai.",
+          "むかい → 向かい: phía đối diện. Sai."
+        ],
+        "vocab": [
+          { "w": "隣", "r": "となり", "hv": "LÂN", "vi": "bên cạnh, nhà bên" },
+          { "w": "空き地", "r": "あきち", "hv": "KHÔNG ĐỊA", "vi": "đất trống" },
+          { "w": "向かい", "r": "むかい", "hv": "HƯỚNG", "vi": "đối diện" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "隣 âm On là りん: 近隣 (きんりん) = vùng lân cận."
+      }
+    }
+  ]
+}

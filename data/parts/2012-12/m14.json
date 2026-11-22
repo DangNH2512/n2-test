@@ -1,0 +1,73 @@
+{
+  "exam": "2012-12",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "下は、ある冷蔵庫の取扱説明書の一部である。下の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc trích đoạn sách hướng dẫn sử dụng tủ lạnh và chọn câu trả lời đúng nhất (tìm thông tin).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "冷蔵庫の取扱説明書",
+      "text": "故障かな？\nこんなときは、まず次の点をお確かめください。\n\n【こんなとき：よく冷えない】\n・お確かめください：大量の食品を入れていませんか？ → こうしてください：食品はすき間をあけて収納してください。\n・お確かめください：温度設定が「弱」になっていませんか？ → こうしてください：温度設定を「中」か「強」にしてください。\n・お確かめください：冷蔵庫の周囲に熱を逃がすスペースがありますか？ → こうしてください：据え付けの位置をチェックしてください。\n\n【こんなとき：冷えすぎる、凍ってしまう】\n・お確かめください：温度設定が「強」になっていませんか？ → こうしてください：温度設定を「中」にしてください。\n・お確かめください：冷蔵庫がある場所の気温が5℃以下になっていませんか？ → こうしてください：温度設定を「弱」にしてください。\n\n【冷蔵庫の側面が熱くなることがある】\n冷蔵庫は、内部の熱を外側に出すことで、内部を冷やしています。それで、側面が熱くなることがあります。 → 異常に熱くならないか注意してください。そうでなければ心配ません。\n\n【揺れることがある】\n冷蔵庫が水平に設置されていますか。 → 冷蔵庫が水平に設置されているかどうか確認してください。水平になっていなかったら、左右の高さを調節してください。\n\n【においが気になる】\n・においの強い食品をそのまま収納したりしていませんか？ → ラップをかけるなどして収納してください。\n・内部にプラスチック部品を多く使用しているので、においがすることがあります。 → 冷えるまでお待ちください。プラスチックのにおいは庫内が冷えてくると少なくなります。\n\n【音が気になる】\n庫内の温度が高くなって、再び冷やし始めたときに音が出ることがあります。 → 冷えるまでお待ちください。十分冷えると音が小さくなります。\n\n●次のような場合はすぐに使用を中止し、点検をご依頼ください。\n・電源コードが異常に熱くなる。\n・電源コードに深いきずや変形がある。\n・何かが焦げるようなにおいがしたり、運転中に急に激しい振動がある。\n\nご不明な点はお買い上げの販売店、サービスセンターにお問い合わせください。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 74,
+      "passage": "p1",
+      "stem": "ジョージさんはこの冷蔵庫を使っているが、最近、中の食品があまり冷えない。ジョージさんが確認する必要がないことはどれか。",
+      "options": ["冷蔵庫の温度設定。", "冷蔵庫の中の食品の量。", "冷蔵庫の周囲のスペース。", "冷蔵庫がある場所の気温。"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh George đang dùng tủ lạnh này, gần đây thực phẩm bên trong không lạnh lắm. Điều anh George KHÔNG cần kiểm tra là gì? → Nhiệt độ không khí nơi đặt tủ lạnh.",
+        "why": "Mục 'よく冷えない' yêu cầu kiểm tra 3 điều: lượng thực phẩm, cài đặt nhiệt độ, khoảng trống quanh tủ. Nhiệt độ nơi đặt tủ (dưới 5℃) thuộc mục 'lạnh quá, bị đông đá' → không cần kiểm tra.",
+        "options": [
+          "Cài đặt nhiệt độ → có trong mục よく冷えない (có để 「弱」 không?). Cần kiểm tra.",
+          "Lượng thực phẩm → có trong mục よく冷えない. Cần kiểm tra.",
+          "Khoảng trống xung quanh → có trong mục よく冷えない. Cần kiểm tra.",
+          "Nhiệt độ nơi đặt tủ → thuộc mục 冷えすぎる・凍ってしまう. KHÔNG cần kiểm tra → ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "温度設定", "r": "おんどせってい", "hv": "ÔN ĐỘ THIẾT ĐỊNH", "vi": "cài đặt nhiệt độ" },
+          { "w": "収納", "r": "しゅうのう", "hv": "THU NẠP", "vi": "cất, xếp vào" },
+          { "w": "周囲", "r": "しゅうい", "hv": "CHU VI", "vi": "xung quanh" },
+          { "w": "据え付け", "r": "すえつけ", "hv": "CỨ PHÓ", "vi": "lắp đặt" }
+        ],
+        "grammar": null,
+        "evidence": "よく冷えない：大量の食品を入れていませんか？／温度設定が「弱」になっていませんか？／冷蔵庫の周囲に熱を逃がすスペースがありますか？　冷えすぎる、凍ってしまう：冷蔵庫がある場所の気温が5℃以下になっていませんか？",
+        "tip": "Câu hỏi 'không cần' (必要がない) → tìm phương án nằm ở mục khác."
+      }
+    },
+    {
+      "num": 75,
+      "passage": "p1",
+      "stem": "この冷蔵庫の使用中にすぐに使うのをやめて販売店などに故障かどうか調べてもらったほうがいいのは、次のうちのどれか。",
+      "options": [
+        "冷蔵庫から食品のにおいがもれてくる。",
+        "冷蔵庫の側面を触ると熱く感じる。",
+        "冷蔵庫が激しく振動することがある。",
+        "冷蔵庫から大きい音がすることがある。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Khi đang dùng tủ lạnh này, trường hợp nào nên ngừng sử dụng ngay và nhờ cửa hàng kiểm tra xem có hỏng không? → Tủ lạnh có lúc rung lắc dữ dội.",
+        "why": "Mục ● cuối: ngừng dùng ngay và yêu cầu kiểm tra khi dây điện nóng bất thường, dây bị trầy sâu/biến dạng, có mùi khét hoặc 運転中に急に激しい振動がある (rung mạnh đột ngột khi đang chạy) → phương án 3.",
+        "options": [
+          "Mùi thực phẩm → chỉ cần bọc màng lại (mục においが気になる). Sai.",
+          "Mặt bên nóng → bình thường, chỉ cần chú ý xem có nóng bất thường không. Sai.",
+          "Rung lắc dữ dội → thuộc mục phải ngừng dùng ngay. ĐÚNG.",
+          "Có tiếng ồn → chờ tủ lạnh đủ thì tiếng nhỏ lại (mục 音が気になる). Sai."
+        ],
+        "vocab": [
+          { "w": "振動", "r": "しんどう", "hv": "CHẤN ĐỘNG", "vi": "rung động, rung lắc" },
+          { "w": "点検", "r": "てんけん", "hv": "ĐIỂM KIỂM", "vi": "kiểm tra" },
+          { "w": "焦げる", "r": "こげる", "hv": "TIÊU", "vi": "cháy khét" },
+          { "w": "揺れる", "r": "ゆれる", "hv": "DAO", "vi": "lắc, rung" }
+        ],
+        "grammar": null,
+        "evidence": "次のような場合はすぐに使用を中止し、点検をご依頼ください。…何かが焦げるようなにおいがしたり、運転中に急に激しい振動がある。",
+        "tip": "Phân biệt 揺れる (lắc nhẹ do đặt không cân → tự chỉnh) với 激しい振動 (rung mạnh → ngừng dùng ngay)."
+      }
+    }
+  ]
+}

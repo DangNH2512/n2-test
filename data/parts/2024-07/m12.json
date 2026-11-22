@@ -1,0 +1,93 @@
+{
+  "exam": "2024-07",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B rồi chọn câu trả lời đúng nhất (đọc so sánh).",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "新しい商品を企画するとき、いいアイディアがなかなか思いつかないことがある。そんなとき、自分には才能がないからだと思い込み、自信をなくしてしまうのはよくない。アイディアは生まれつきの能力に関係なく、努力次第で誰でも生み出すことができる。\nアイディアは、情報の組み合わせによって生まれることがほとんどだ。そのため、日ごろから情報を集めておくことが有効だ。担当する商品に関連する情報だけを集めていると、似たようなアイディアばかりになってしまう。発想の幅を広げるには、関連する分野以外の情報も頭に入れておくほうがいい。ふだんから視野を広げてさまざまな情報を蓄積しておけば、必ずアイディアの役に立つはずだ。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "新しい商品を企画するには、これまでとは異なるアイディアが必要だ。現在流行している商品の情報を集めるだけでは、他社に勝つことはできないだろう。私はアイディアを生み出すために、一般的に考えられていることとは逆の発想をするようにしている。現在流行している商品が若者向けの物なら高齢者向けにできないかと考えたり、多機能の物なら機能を一つに絞れないかと考えたりするのである。\nアイディアは一部の才能がある人しか生み出せないものだという印象があるせいか、生み出し方を知ろうとしない人が多いと思う。才能がないからといってあきらめるのではなく、思い切って発想を転換してみれば、いいアイディアにつながっていく。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 65,
+      "passage": "AB",
+      "stem": "アイディアを生み出すことについて、AとBが共通して述べていることは何か。",
+      "options": [
+        "アイディアの生み出し方は、簡単に身につけることができる。",
+        "多くの情報を得ることで、アイディアを生み出しやすくなる。",
+        "特別な能力がなくても、アイディアを生み出すことができる。",
+        "発想のしかたを大きく変えなければ、アイディアは生み出せない。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về việc tạo ra ý tưởng, A và B cùng nói điều gì? → Dù không có năng lực đặc biệt vẫn có thể tạo ra ý tưởng.",
+        "why": "A: ý tưởng không liên quan năng lực bẩm sinh, ai cũng tạo ra được nhờ nỗ lực. B: đừng bỏ cuộc vì nghĩ mình không có tài, đổi cách nghĩ sẽ ra ý tưởng hay. → Cả hai: không cần tài năng đặc biệt.",
+        "options": [
+          "Không ai nói \"dễ dàng\" học được. Sai.",
+          "Chỉ A nói thu thập nhiều thông tin; B cho rằng chỉ thu thập thông tin hàng đang thịnh hành thì không đủ. Sai.",
+          "Cả A và B: không có tài năng đặc biệt vẫn tạo được ý tưởng. ĐÚNG.",
+          "Chỉ B nói đổi hướng suy nghĩ; A không nói vậy. Sai."
+        ],
+        "vocab": [
+          { "w": "企画", "r": "きかく", "hv": "XÍ HOẠCH", "vi": "lên kế hoạch, ý tưởng dự án" },
+          { "w": "才能", "r": "さいのう", "hv": "TÀI NĂNG", "vi": "tài năng" },
+          { "w": "生まれつき", "r": "うまれつき", "hv": "SINH", "vi": "bẩm sinh" },
+          { "w": "共通", "r": "きょうつう", "hv": "CỘNG THÔNG", "vi": "chung, điểm chung" }
+        ],
+        "grammar": {
+          "pattern": "〜次第で",
+          "meaning": "tùy thuộc vào ~",
+          "form": "N + 次第で",
+          "example": "努力次第で、誰でも上手になれる。"
+        },
+        "evidence": "A：アイディアは生まれつきの能力に関係なく、努力次第で誰でも生み出すことができる。／B：才能がないからといってあきらめるのではなく、思い切って発想を転換してみれば、いいアイディアにつながっていく。",
+        "tip": "Câu hỏi 共通 → loại các đáp án chỉ đúng với một bên."
+      }
+    },
+    {
+      "num": 66,
+      "passage": "AB",
+      "stem": "新しい商品を企画することについて、AとBはどのようなアドバイスをしているか。",
+      "options": [
+        "AもBも、いろいろな分野の情報をできるだけ多く集めるといいと述べている。",
+        "AもBも、流行している商品について詳しく調べるといいと述べている。",
+        "Aは関連する分野の他社の商品の情報を集めるといいと述べ、Bは流行に逆らった考え方をするといいと述べている。",
+        "Aは関連する分野だけでなく、ほかの分野の情報も得るといいと述べ、Bは普通とは反対のことを考えるといいと述べている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Về việc lên ý tưởng sản phẩm mới, A và B khuyên gì? → A khuyên nên thu thập thông tin không chỉ trong lĩnh vực liên quan mà cả lĩnh vực khác; B khuyên nên nghĩ ngược lại với thông thường.",
+        "why": "A: 「関連する分野以外の情報も頭に入れておくほうがいい」. B: 「一般的に考えられていることとは逆の発想をする」 → đáp án 4.",
+        "options": [
+          "B không khuyên thu thập nhiều thông tin. Sai.",
+          "B nói chỉ thu thập thông tin hàng thịnh hành thì không thắng được; A cũng không nói vậy. Sai.",
+          "A không nói thu thập thông tin hàng của công ty khác; B nghĩ ngược với \"quan niệm thông thường\", không phải \"chống lại trào lưu\". Sai.",
+          "A: cả lĩnh vực khác; B: nghĩ ngược thông thường. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "分野", "r": "ぶんや", "hv": "PHÂN DÃ", "vi": "lĩnh vực" },
+          { "w": "蓄積", "r": "ちくせき", "hv": "SÚC TÍCH", "vi": "tích lũy" },
+          { "w": "逆", "r": "ぎゃく", "hv": "NGHỊCH", "vi": "ngược lại" },
+          { "w": "転換", "r": "てんかん", "hv": "CHUYỂN HOÁN", "vi": "chuyển đổi" }
+        ],
+        "grammar": {
+          "pattern": "〜ほうがいい",
+          "meaning": "nên ~ thì hơn",
+          "form": "V辞書形／Vた + ほうがいい",
+          "example": "早く寝たほうがいい。"
+        },
+        "evidence": "A：発想の幅を広げるには、関連する分野以外の情報も頭に入れておくほうがいい。／B：私はアイディアを生み出すために、一般的に考えられていることとは逆の発想をするようにしている。",
+        "tip": "逆の発想 = 普通とは反対のことを考える (paraphrase)."
+      }
+    }
+  ]
+}

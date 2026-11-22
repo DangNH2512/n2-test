@@ -1,0 +1,215 @@
+{
+  "exam": "2020-12",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（１）から（５）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn từ (1) đến (5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "以下は、ペットとして犬を飼う人に向けて書かれた文章である。\n\n犬は、本能(注1)のままに動くことに喜びを感じます。獲物(注2)を探す、追いかける、取ってくるなどはその象徴的な行動です。しかし現代の人間社会では、このような行動はほとんど必要なくなってしまいました。その結果、「犬がしたいこと」と「飼い主がさせたいこと」との間に、<u>ギャップが生じる</u>ようになってきました。\n\n(注1) 本能：ここでは、生まれつき持っている性質\n(注2) 獲物：ここでは、食べるための動物"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "壁はともすれば(注1)行動の限界を決めてしまうネガティブな(注2)イメージをもたれていますが、実は人間が他の個体と関係を調整するための大変重要なエレメント(注3)だったのではないか、とぼくは考えています。\n壁があったから、人間は仲良く暮らしてこられたのだ。壁によって隔てられれば、心理的な距離ができますから、密度高く住むこともできて、移動する距離は少なくてすむ。会おうと思えば会えますし、会いたくなければ壁のうちにこもっていれば(注4)いい。\n\n(注1) ともすれば～もたれる：ここでは、～もたれることもある\n(注2) ネガティブな：ここでは、マイナスという意味\n(注3) エレメント：要素\n(注4) ～にこもっている：～から出ないでいる"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "以下は、ある会社で回覧された文書である。\n\n10月15日\n各課担当者各位\n総務課\n\n年始の挨拶状について\n\n取引先にお送りする年始の挨拶状につきまして、総務課から一括発送する相手先のリストを作成しました。添付の資料を各課でご確認のうえ、修正が必要な箇所があれば来週木曜（22日）までに総務課にご連絡ください。\nまた、そのほかに各課から直接送付したい相手先がある場合は、各課で発送をお願いします。必要分の挨拶状を配りますので、10月30日までにその数をお知らせください。12月初旬に各課に配る予定です。\n以上"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "研究者人口が増えれば、それだけ科学の進歩は速くなる。もちろん、重要な科学的成果があげられるかどうかは、研究の作業量に比例するものではない。運にも左右される偶然性の高いものだ。だが、様々な考えを持った多様な研究者が多数研究に従事する(注1)ことで、誰かが大発見をする確率が高くなる。多くの研究者が、多様な考えに基づいて研究することはこのうえなく(注2)重要だ。多数の研究者がひとつの考え方に沿って研究するというのでは、未来はないだろう。\n\n(注1) ～に従事する：ここでは、～を行う\n(注2) このうえなく：最も"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "もしつらい恋愛で苦しんだ人が、ある恋愛ものを読んで慰められたとすると、そのときのことというのは、あとあとまで、ずうっと覚えているものです。人生でそういう経験をもっている人はやっぱり幸いだと、私は思います。何も恋愛に限らないけれど、そのような深い体験をもっていると、こんどは『源氏物語』のような古典作品を読んでも、深く味わうことができる。そうやって人間の精神は大人になっていくんです。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "ギャップが生じるのはなぜか。",
+      "options": [
+        "犬の生まれつき持っている性質が、人間社会に合わせて変化したから。",
+        "犬がしたい行動は、現代の人間社会では必要ないことが多いから。",
+        "犬が喜びを感じる行動が、飼い主にはわからなくなったから。",
+        "飼い主がさせたい行動は、犬にはできないことが多いから。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tại sao lại nảy sinh khoảng cách? → Vì những hành động chó muốn làm thường không cần thiết trong xã hội loài người hiện đại.",
+        "why": "Chó vui khi hành động theo bản năng (tìm, đuổi, tha mồi), nhưng 「現代の人間社会では、このような行動はほとんど必要なくなってしまいました」. 「その結果」 nảy sinh khoảng cách giữa điều chó muốn và điều chủ muốn.",
+        "options": [
+          "Bản năng của chó thay đổi theo xã hội loài người → bài không nói bản năng thay đổi. Sai.",
+          "Hành động chó muốn làm không cần thiết trong xã hội hiện đại. ĐÚNG.",
+          "Chủ không hiểu hành động khiến chó vui → bài không nói. Sai.",
+          "Chó không làm được hành động chủ muốn → bài không nói. Sai."
+        ],
+        "vocab": [
+          { "w": "本能", "r": "ほんのう", "hv": "BẢN NĂNG", "vi": "bản năng" },
+          { "w": "獲物", "r": "えもの", "hv": "HOẠCH VẬT", "vi": "con mồi" },
+          { "w": "象徴的", "r": "しょうちょうてき", "hv": "TƯỢNG TRƯNG ĐÍCH", "vi": "mang tính tượng trưng" },
+          { "w": "生じる", "r": "しょうじる", "hv": "SINH", "vi": "nảy sinh, phát sinh" }
+        ],
+        "grammar": {
+          "pattern": "～のままに",
+          "meaning": "theo đúng như ~, cứ để nguyên ~",
+          "form": "Nの＋ままに",
+          "example": "心のままに生きる。"
+        },
+        "evidence": "しかし現代の人間社会では、このような行動はほとんど必要なくなってしまいました。その結果、「犬がしたいこと」と「飼い主がさせたいこと」との間に、ギャップが生じるようになってきました。",
+        "tip": "「その結果」 → nguyên nhân nằm ngay ở câu trước."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p2",
+      "stem": "筆者は、壁にはどのような役割があると考えているか。",
+      "options": [
+        "生きていくために必要な場所を確保する。",
+        "周りの人との心理的なつながりを切る。",
+        "周りの人との適度な距離を保つ。",
+        "人間の行動範囲を制限する。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tác giả nghĩ bức tường có vai trò gì? → Giữ khoảng cách vừa phải với những người xung quanh.",
+        "why": "Tường tạo ra 「心理的な距離」, nhờ đó con người sống gần nhau mà vẫn hòa thuận: muốn gặp thì gặp được, không muốn gặp thì ở trong tường. Tức là tường giúp điều chỉnh, giữ khoảng cách vừa phải.",
+        "options": [
+          "Đảm bảo nơi chốn cần thiết để sống → bài không nói. Sai.",
+          "Cắt đứt mối liên hệ tâm lý → sai, vẫn 「会おうと思えば会えます」. Sai.",
+          "Giữ khoảng cách vừa phải với người xung quanh. ĐÚNG.",
+          "Giới hạn phạm vi hành động → đó là 「hình ảnh tiêu cực」 mà tác giả phản bác. Sai."
+        ],
+        "vocab": [
+          { "w": "隔てる", "r": "へだてる", "hv": "CÁCH", "vi": "ngăn cách" },
+          { "w": "心理的", "r": "しんりてき", "hv": "TÂM LÝ ĐÍCH", "vi": "mang tính tâm lý" },
+          { "w": "密度", "r": "みつど", "hv": "MẬT ĐỘ", "vi": "mật độ" },
+          { "w": "適度", "r": "てきど", "hv": "THÍCH ĐỘ", "vi": "vừa phải" },
+          { "w": "調整", "r": "ちょうせい", "hv": "ĐIỀU CHỈNH", "vi": "điều chỉnh" }
+        ],
+        "grammar": null,
+        "evidence": "壁によって隔てられれば、心理的な距離ができますから、密度高く住むこともできて、移動する距離は少なくてすむ。会おうと思えば会えますし、会いたくなければ壁のうちにこもっていればいい。",
+        "tip": "Đáp án 4 là ý kiến phổ biến (ネガティブなイメージ) mà tác giả muốn phủ định bằng 「実は」."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p3",
+      "stem": "各課の担当者がしなければならないこととして合っているのはどれか。",
+      "options": [
+        "総務課から送付してほしい相手先のリストを作成し、22日までに総務課に出す。",
+        "総務課から送付する相手先のリストを確認し、修正があれば22日までに総務課に知らせる。",
+        "各課から直接送付する相手先のリストを作成し、30日までに総務課に出す。",
+        "各課から直接送付する相手先のリストを確認し、修正があれば30日までに総務課に知らせる。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều người phụ trách mỗi phòng phải làm là gì? → Kiểm tra danh sách đối tác do phòng Tổng vụ gửi, nếu có sửa thì báo cho phòng Tổng vụ trước ngày 22.",
+        "why": "Phòng Tổng vụ đã lập sẵn danh sách; các phòng chỉ cần 「ご確認のうえ、修正が必要な箇所があれば来週木曜（22日）までに総務課にご連絡ください」. Ngày 30 chỉ là hạn báo 「số lượng」 thiệp, không phải nộp danh sách.",
+        "options": [
+          "Tự lập danh sách → danh sách đã do Tổng vụ lập. Sai.",
+          "Kiểm tra danh sách của Tổng vụ, có sửa thì báo trước ngày 22. ĐÚNG.",
+          "Lập danh sách gửi trực tiếp, nộp trước ngày 30 → ngày 30 chỉ cần báo 「số lượng」. Sai.",
+          "Kiểm tra danh sách gửi trực tiếp, báo sửa trước ngày 30 → không có. Sai."
+        ],
+        "vocab": [
+          { "w": "挨拶状", "r": "あいさつじょう", "hv": "ẤP TẠT TRẠNG", "vi": "thiệp chúc, thư chào" },
+          { "w": "一括", "r": "いっかつ", "hv": "NHẤT QUÁT", "vi": "gộp lại một lần" },
+          { "w": "発送", "r": "はっそう", "hv": "PHÁT TỐNG", "vi": "gửi đi" },
+          { "w": "修正", "r": "しゅうせい", "hv": "TU CHÍNH", "vi": "chỉnh sửa" },
+          { "w": "取引先", "r": "とりひきさき", "hv": "THỦ DẪN TIÊN", "vi": "đối tác kinh doanh" }
+        ],
+        "grammar": {
+          "pattern": "～のうえ",
+          "meaning": "sau khi ~ (rồi mới làm việc tiếp theo)",
+          "form": "Nの＋うえ(で)",
+          "example": "内容をご確認のうえ、ご記入ください。"
+        },
+        "evidence": "添付の資料を各課でご確認のうえ、修正が必要な箇所があれば来週木曜（22日）までに総務課にご連絡ください。",
+        "tip": "Văn bản thông báo: chú ý từng mốc ngày gắn với việc gì."
+      }
+    },
+    {
+      "num": 55,
+      "passage": "p4",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "研究者が増加し考え方も多様化すれば、科学はより進歩する。",
+        "科学が進歩すればするほど研究者人口が増え、研究は多様化する。",
+        "一人一人の研究者が研究の作業量を増やせば、科学はより進歩する。",
+        "多数の研究者が、ひとつの考え方に沿って研究することが大発見につながる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Nếu số nhà nghiên cứu tăng và cách nghĩ cũng đa dạng thì khoa học sẽ tiến bộ hơn.",
+        "why": "Tác giả nói số nhà nghiên cứu tăng thì khoa học tiến nhanh, và nhiều nhà nghiên cứu với tư tưởng đa dạng làm tăng xác suất có phát minh lớn.",
+        "options": [
+          "Số nhà nghiên cứu tăng + cách nghĩ đa dạng → khoa học tiến bộ. ĐÚNG.",
+          "Đảo ngược nhân quả (khoa học tiến bộ → người tăng). Sai.",
+          "Thành quả 「研究の作業量に比例するものではない」. Sai.",
+          "Theo một cách nghĩ thì 「未来はないだろう」. Sai."
+        ],
+        "vocab": [
+          { "w": "成果", "r": "せいか", "hv": "THÀNH QUẢ", "vi": "thành quả" },
+          { "w": "比例", "r": "ひれい", "hv": "TỈ LỆ", "vi": "tỉ lệ thuận" },
+          { "w": "偶然性", "r": "ぐうぜんせい", "hv": "NGẪU NHIÊN TÍNH", "vi": "tính ngẫu nhiên" },
+          { "w": "確率", "r": "かくりつ", "hv": "XÁC SUẤT", "vi": "xác suất" },
+          { "w": "多様", "r": "たよう", "hv": "ĐA DẠNG", "vi": "đa dạng" }
+        ],
+        "grammar": {
+          "pattern": "～に沿って",
+          "meaning": "theo ~, men theo ~",
+          "form": "N＋に沿って",
+          "example": "マニュアルに沿って作業を進める。"
+        },
+        "evidence": "研究者人口が増えれば、それだけ科学の進歩は速くなる。…様々な考えを持った多様な研究者が多数研究に従事することで、誰かが大発見をする確率が高くなる。",
+        "tip": "Đáp án sai thường đảo nhân quả (2) hoặc lấy ý bị phủ định trong bài (3, 4)."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p5",
+      "stem": "筆者によると、人間の精神が大人になるには、何が必要か。",
+      "options": [
+        "つらい出来事を読書で慰められた経験",
+        "つらい恋愛をいつまでも忘れられない経験",
+        "苦しんでいる人を慰めた経験",
+        "古典作品をたくさん読んだ経験"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, để tinh thần con người trưởng thành cần điều gì? → Trải nghiệm được an ủi qua việc đọc sách khi gặp chuyện đau khổ.",
+        "why": "Tác giả nói người đau khổ vì tình yêu, đọc một tác phẩm và được an ủi thì là 「深い体験」 (không chỉ riêng tình yêu). Có trải nghiệm đó mới thưởng thức sâu sắc tác phẩm cổ điển, 「そうやって人間の精神は大人になっていく」.",
+        "options": [
+          "Trải nghiệm được an ủi qua đọc sách khi gặp chuyện khổ. ĐÚNG.",
+          "Không quên được mối tình đau khổ → cái đáng nhớ là lúc 「được an ủi」, không phải bản thân mối tình. Sai.",
+          "An ủi người khác → ngược lại, là bản thân được an ủi. Sai.",
+          "Đọc nhiều tác phẩm cổ điển → đọc cổ điển là kết quả, không phải điều kiện; bài không nói 「nhiều」. Sai."
+        ],
+        "vocab": [
+          { "w": "慰める", "r": "なぐさめる", "hv": "ÚY", "vi": "an ủi" },
+          { "w": "恋愛", "r": "れんあい", "hv": "LUYẾN ÁI", "vi": "tình yêu" },
+          { "w": "古典", "r": "こてん", "hv": "CỔ ĐIỂN", "vi": "cổ điển" },
+          { "w": "味わう", "r": "あじわう", "hv": "VỊ", "vi": "thưởng thức, nếm trải" },
+          { "w": "精神", "r": "せいしん", "hv": "TINH THẦN", "vi": "tinh thần" }
+        ],
+        "grammar": {
+          "pattern": "何も～に限らない",
+          "meaning": "không hẳn chỉ giới hạn ở ~",
+          "form": "何も＋N＋に限らない",
+          "example": "何も若者に限らず、誰でもスマホを使う。"
+        },
+        "evidence": "もしつらい恋愛で苦しんだ人が、ある恋愛ものを読んで慰められたとすると…何も恋愛に限らないけれど、そのような深い体験をもっていると、こんどは『源氏物語』のような古典作品を読んでも、深く味わうことができる。そうやって人間の精神は大人になっていくんです。",
+        "tip": "「何も恋愛に限らない」 → khái quát hóa thành 「つらい出来事」 ở đáp án 1."
+      }
+    }
+  ]
+}

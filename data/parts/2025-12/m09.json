@@ -1,0 +1,136 @@
+{
+  "exam": "2025-12",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、48から51の中に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài để chọn phương án đúng nhất cho các chỗ trống 48–51.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "目で味わう",
+      "text": "以下は、雑誌のコラムである。\n\n目で味わう\n\n「目で味わう」という言葉があります。もちろん、目で食べ物を食べるという意味ではありません。食べる前に目で見て料理の見た目を楽しむという意味です。しかし、「味わう」という言葉は普通、舌で料理の味を楽しむことを指します。目でも味を感じることはできるのでしょうか。\n色使いや盛り方など、料理の見た目がきれいだと食事の楽しみが増すという人も（ 48 ）。料理人たちも、塩や酢などを使って野菜の色を鮮やかに保ったり、料理に合う色や形の器を選んだりと、見た目を大切にしています。同じ料理でも、見た目がより良いもののほうがおいしそうに感じられます。\nでは、単に料理を見ておいしそうだと思うことを「味わう」と表現しているのでしょうか。（ 49 ）近年、料理の見た目が影響するのは食べる前だけではないことがわかってきました。ある研究で、食べ物の味は変えずに、色や器の種類などを変えて提供し、それぞれどんな味か評価させる実験が行われました。すると、全く同じ味のものを食べたにもかかわらず、味が異なると評価した人が多かったそうです。目から入る情報は、食べた時の味の感じ方（ 50 ）影響していたのです。このように科学的にも、実際に目で味わっているということが証明されつつあります。\n味を感じる仕組みは複雑で、見た目も大切な要素の一つです。それが感覚的に理解されていたからこそ、「目で味わう」と表現されるように（ 51 ）。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 48,
+      "passage": "p1",
+      "stem": "（48）に入るもの",
+      "options": ["多いとします", "多かったとします", "多いでしょう", "多かったでしょう"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Có lẽ cũng có nhiều người cho rằng nếu món ăn trông đẹp mắt (cách phối màu, cách bày) thì niềm vui ăn uống sẽ tăng lên.",
+        "why": "Người viết đang nêu một nhận định chung ở hiện tại, phỏng đoán nhẹ để đồng cảm với người đọc → 多いでしょう (chắc là nhiều). Không phải giả định (とします) và không phải chuyện quá khứ.",
+        "options": [
+          "多いとします → \"giả sử là nhiều\" — giả định, không hợp mạch văn. Sai.",
+          "多かったとします → giả định ở quá khứ. Sai.",
+          "多いでしょう → chắc là có nhiều người. ĐÚNG.",
+          "多かったでしょう → phỏng đoán quá khứ, trong khi đoạn văn nói về hiện tại (大切にしています, 感じられます). Sai."
+        ],
+        "vocab": [
+          { "w": "盛り方", "r": "もりかた", "hv": "THỊNH PHƯƠNG", "vi": "cách bày (món ăn)" },
+          { "w": "見た目", "r": "みため", "hv": "KIẾN MỤC", "vi": "vẻ bề ngoài" },
+          { "w": "増す", "r": "ます", "hv": "TĂNG", "vi": "tăng lên" }
+        ],
+        "grammar": {
+          "pattern": "～でしょう（phỏng đoán）",
+          "meaning": "có lẽ, chắc là ~",
+          "form": "普通形（Na/N bỏ だ）＋でしょう",
+          "example": "このやり方に賛成する人も多いでしょう。"
+        },
+        "evidence": "色使いや盛り方など、料理の見た目がきれいだと食事の楽しみが増すという人も（ 48 ）。",
+        "tip": "Các câu xung quanh đều ở hiện tại → loại đáp án quá khứ."
+      }
+    },
+    {
+      "num": 49,
+      "passage": "p1",
+      "stem": "（49）に入るもの",
+      "options": ["実は", "確かに", "しかも", "ところが"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Vậy thì có phải chỉ đơn giản nhìn món ăn và thấy ngon miệng mới được gọi là \"thưởng thức\"? Thực ra, gần đây người ta đã biết rằng vẻ ngoài của món ăn không chỉ ảnh hưởng trước khi ăn.",
+        "why": "Sau câu hỏi đặt vấn đề, tác giả đưa ra sự thật mới, bất ngờ (không chỉ trước khi ăn) → 実は (thực ra là) dùng để tiết lộ sự thật.",
+        "options": [
+          "実は → thực ra, sự thật là. ĐÚNG.",
+          "確かに → quả thực (đồng tình với ý trước) — nhưng ý sau lại phủ định câu hỏi, không phải đồng tình. Sai.",
+          "しかも → hơn nữa (bổ sung cùng chiều) — không có ý trước để bổ sung. Sai.",
+          "ところが → thế nhưng (kết quả trái dự đoán sau một sự việc) — không đi sau câu hỏi. Sai."
+        ],
+        "vocab": [
+          { "w": "単に", "r": "たんに", "hv": "ĐƠN", "vi": "đơn giản chỉ" },
+          { "w": "表現する", "r": "ひょうげんする", "hv": "BIỂU HIỆN", "vi": "diễn đạt" },
+          { "w": "影響", "r": "えいきょう", "hv": "ẢNH HƯỞNG", "vi": "ảnh hưởng" }
+        ],
+        "grammar": {
+          "pattern": "実は",
+          "meaning": "thực ra (tiết lộ sự thật ngoài dự đoán)",
+          "form": "実は、＋câu",
+          "example": "簡単そうに見えるが、実はとても難しい。"
+        },
+        "evidence": "では、単に料理を見ておいしそうだと思うことを「味わう」と表現しているのでしょうか。（ 49 ）近年、料理の見た目が影響するのは食べる前だけではないことがわかってきました。",
+        "tip": "Mẫu \"câu hỏi ～でしょうか。→ 実は…\" rất hay gặp trong 問題9."
+      }
+    },
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["にのみ", "にまで", "に限らず", "に比べて"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Thông tin đi vào qua mắt đã ảnh hưởng đến cả cách cảm nhận vị khi ăn.",
+        "why": "Trước đó: vẻ ngoài ảnh hưởng trước khi ăn (khiến trông ngon). Nay phát hiện ảnh hưởng lan tới cả cảm nhận vị khi ăn → にまで (đến cả ~, mở rộng phạm vi ngoài dự đoán).",
+        "options": [
+          "にのみ → chỉ đến ~ — trái ý \"không chỉ trước khi ăn\". Sai.",
+          "にまで → đến cả ~. ĐÚNG.",
+          "に限らず → không chỉ ~ (mà cả cái khác) — nhưng ý cần nói là ảnh hưởng tới chính cảm nhận vị. Sai.",
+          "に比べて → so với ~ — không có đối tượng so sánh. Sai."
+        ],
+        "vocab": [
+          { "w": "感じ方", "r": "かんじかた", "hv": "CẢM PHƯƠNG", "vi": "cách cảm nhận" },
+          { "w": "提供", "r": "ていきょう", "hv": "ĐỀ CUNG", "vi": "cung cấp, phục vụ" },
+          { "w": "評価", "r": "ひょうか", "hv": "BÌNH GIÁ", "vi": "đánh giá" }
+        ],
+        "grammar": {
+          "pattern": "N＋にまで",
+          "meaning": "đến cả N (vượt phạm vi bình thường)",
+          "form": "N＋に＋まで",
+          "example": "その噂は、隣の町にまで広がった。"
+        },
+        "evidence": "料理の見た目が影響するのは食べる前だけではないことがわかってきました。…目から入る情報は、食べた時の味の感じ方（ 50 ）影響していたのです。",
+        "tip": null
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["なったにすぎません", "なったはずがありません", "なったとはいえません", "なったのかもしれません"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Chính vì điều đó đã được hiểu một cách cảm tính nên có lẽ người ta mới bắt đầu diễn đạt là \"thưởng thức bằng mắt\".",
+        "why": "Câu kết đưa ra suy đoán về nguồn gốc của cách nói 目で味わう, dựa trên lý do からこそ → phỏng đoán mềm ～のかもしれません là phù hợp.",
+        "options": [
+          "なったにすぎません → chỉ đơn thuần là… — hạ thấp, không hợp với からこそ. Sai.",
+          "なったはずがありません → không lẽ nào lại… — phủ định, trái mạch văn. Sai.",
+          "なったとはいえません → không thể nói là… — phủ định, trái mạch văn. Sai.",
+          "なったのかもしれません → có lẽ đã trở nên… ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "仕組み", "r": "しくみ", "hv": "SĨ TỔ", "vi": "cơ chế" },
+          { "w": "要素", "r": "ようそ", "hv": "YẾU TỐ", "vi": "yếu tố" },
+          { "w": "感覚的", "r": "かんかくてき", "hv": "CẢM GIÁC ĐÍCH", "vi": "mang tính cảm giác, trực giác" }
+        ],
+        "grammar": {
+          "pattern": "～からこそ…のかもしれない",
+          "meaning": "chính vì ~ nên có lẽ…",
+          "form": "普通形＋からこそ、…普通形＋のかもしれない",
+          "example": "厳しい練習があったからこそ、優勝できたのかもしれない。"
+        },
+        "evidence": "それが感覚的に理解されていたからこそ、「目で味わう」と表現されるように（ 51 ）。",
+        "tip": "Câu kết của bài luận thường là phỏng đoán/ý kiến nhẹ nhàng (～のではないでしょうか／～のかもしれません)."
+      }
+    }
+  ]
+}

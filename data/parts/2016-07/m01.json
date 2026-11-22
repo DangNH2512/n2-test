@@ -1,0 +1,135 @@
+{
+  "exam": "2016-07",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "歯医者に行って虫歯の<u>治療</u>を受けた。",
+      "options": ["じりょ", "ちりょ", "じりょう", "ちりょう"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi đã đi nha sĩ và được điều trị răng sâu.",
+        "why": "治療 đọc là ちりょう (TRỊ LIỆU) = điều trị, chữa bệnh. 治 trong từ này đọc là ち (không phải じ), 療 đọc là りょう (trường âm う).",
+        "options": [
+          "じりょ → sai cả 治 (じ) lẫn thiếu trường âm của 療. Sai.",
+          "ちりょ → thiếu trường âm: 療 là りょう. Sai.",
+          "じりょう → 治 đọc じ trong 政治・退治, nhưng trong 治療 đọc ち. Sai.",
+          "ちりょう → 治療: điều trị. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "治療", "r": "ちりょう", "hv": "TRỊ LIỆU", "vi": "điều trị, chữa trị" },
+          { "w": "虫歯", "r": "むしば", "hv": "TRÙNG XỈ", "vi": "răng sâu" },
+          { "w": "歯医者", "r": "はいしゃ", "hv": "XỈ Y GIẢ", "vi": "nha sĩ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "治: ち (治療・治安) / じ (政治・退治). 療 luôn là りょう (医療・療養)."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "私たちはテストのたびに学年でトップを<u>競って</u>いた。",
+      "options": ["きそって", "ねらって", "あらそって", "うばって"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Mỗi lần kiểm tra, chúng tôi lại tranh nhau vị trí đứng đầu khối.",
+        "why": "競う đọc là きそう (CẠNH) = ganh đua, thi đua. Thể て là 競って → きそって.",
+        "options": [
+          "きそって → 競って: ganh đua. ĐÚNG. (PDF in nhầm thành きそっと)",
+          "ねらって → 狙って: nhắm vào. Sai.",
+          "あらそって → 争って: tranh giành (chữ 争, không phải 競). Sai.",
+          "うばって → 奪って: cướp đoạt. Sai."
+        ],
+        "vocab": [
+          { "w": "競う", "r": "きそう", "hv": "CẠNH", "vi": "ganh đua, thi đua" },
+          { "w": "争う", "r": "あらそう", "hv": "TRANH", "vi": "tranh giành, tranh chấp" },
+          { "w": "学年", "r": "がくねん", "hv": "HỌC NIÊN", "vi": "khối lớp, năm học" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "競 = きそう / 競争 (きょうそう). Đừng nhầm với 争う (あらそう) — nghĩa gần nhưng khác chữ."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "今月の雑誌に新しい映画の<u>批評</u>が掲載された。",
+      "options": ["ひびょう", "ひべい", "ひへい", "ひひょう"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Bài phê bình về bộ phim mới đã được đăng trên tạp chí tháng này.",
+        "why": "批評 đọc là ひひょう (PHÊ BÌNH) = phê bình, nhận xét. 評 đọc là ひょう (評価・評判), không biến âm thành びょう.",
+        "options": [
+          "ひびょう → không biến âm ở đây. Sai.",
+          "ひべい → không có từ này. Sai.",
+          "ひへい → 疲弊: kiệt quệ. Sai.",
+          "ひひょう → 批評: phê bình. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "批評", "r": "ひひょう", "hv": "PHÊ BÌNH", "vi": "phê bình, bình luận" },
+          { "w": "掲載", "r": "けいさい", "hv": "YẾT TẢI", "vi": "đăng (báo, tạp chí)" },
+          { "w": "雑誌", "r": "ざっし", "hv": "TẠP CHÍ", "vi": "tạp chí" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "評 = ひょう: 評価 (ひょうか), 評判 (ひょうばん), 批評 (ひひょう)."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "期日までに入学金を<u>納めた</u>。",
+      "options": ["さだめた", "ためた", "おさめた", "もとめた"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi đã nộp tiền nhập học trước kỳ hạn.",
+        "why": "納める đọc là おさめる (NẠP) = nộp (tiền, thuế, học phí). Đi với 入学金・税金・授業料.",
+        "options": [
+          "さだめた → 定めた: quy định. Sai.",
+          "ためた → 貯めた/溜めた: tích lũy. Sai.",
+          "おさめた → 納めた: nộp. ĐÚNG.",
+          "もとめた → 求めた: yêu cầu, tìm kiếm. Sai."
+        ],
+        "vocab": [
+          { "w": "納める", "r": "おさめる", "hv": "NẠP", "vi": "nộp (tiền, thuế)" },
+          { "w": "期日", "r": "きじつ", "hv": "KỲ NHẬT", "vi": "ngày hạn, kỳ hạn" },
+          { "w": "入学金", "r": "にゅうがくきん", "hv": "NHẬP HỌC KIM", "vi": "tiền nhập học" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "おさめる có 4 chữ: 納める (nộp), 収める (thu được), 治める (cai trị), 修める (tu dưỡng, học)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "A社の製品は他社のものより品質が<u>劣る</u>。",
+      "options": ["まける", "おとる", "へる", "おちる"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Sản phẩm của công ty A có chất lượng kém hơn của công ty khác.",
+        "why": "劣る đọc là おとる (LIỆT) = kém hơn, thua kém. Thường dùng mẫu AはBより劣る.",
+        "options": [
+          "まける → 負ける: thua (trận). Sai.",
+          "おとる → 劣る: kém hơn. ĐÚNG.",
+          "へる → 減る: giảm. Sai.",
+          "おちる → 落ちる: rơi, rớt. Sai."
+        ],
+        "vocab": [
+          { "w": "劣る", "r": "おとる", "hv": "LIỆT", "vi": "kém, thua kém" },
+          { "w": "品質", "r": "ひんしつ", "hv": "PHẨM CHẤT", "vi": "chất lượng" },
+          { "w": "製品", "r": "せいひん", "hv": "CHẾ PHẨM", "vi": "sản phẩm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "劣 (kém) ↔ 優 (ưu). 劣等感 (れっとうかん) = mặc cảm tự ti."
+      }
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "exam": "2013-07",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất điền vào chỗ trống (theo ngữ cảnh).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "駅前を歩いていたら、テレビのリポーターに突然（　　）インタビューを受けた。",
+      "options": ["聞き取られて", "呼び止められて", "問い合わせられて", "見分けられて"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Khi đang đi bộ trước nhà ga, tôi bất ngờ bị phóng viên truyền hình gọi giật lại và phỏng vấn.",
+        "why": "呼び止める = gọi ai đó đang đi để dừng lại. Bị phóng viên gọi lại trên đường rồi phỏng vấn → 呼び止められて (bị động).",
+        "options": [
+          "聞き取られて → 聞き取る: nghe hiểu, nghe ra. Sai.",
+          "呼び止められて → bị gọi dừng lại. ĐÚNG.",
+          "問い合わせられて → 問い合わせる: hỏi thăm, liên hệ hỏi thông tin. Sai.",
+          "見分けられて → 見分ける: phân biệt bằng mắt. Sai."
+        ],
+        "vocab": [
+          { "w": "呼び止める", "r": "よびとめる", "hv": "HÔ CHỈ", "vi": "gọi lại, gọi dừng lại" },
+          { "w": "突然", "r": "とつぜん", "hv": "ĐỘT NHIÊN", "vi": "đột nhiên" },
+          { "w": "問い合わせる", "r": "といあわせる", "hv": "VẤN HỢP", "vi": "hỏi, liên hệ hỏi" },
+          { "w": "見分ける", "r": "みわける", "hv": "KIẾN PHÂN", "vi": "phân biệt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "呼び止める = 呼ぶ (gọi) + 止める (dừng)."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "明日のハイキングは午前10時集合、午後4時（　　）の予定です。",
+      "options": ["解散", "解放", "退出", "退場"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Chuyến đi bộ đường dài ngày mai dự kiến tập trung lúc 10 giờ sáng, giải tán lúc 4 giờ chiều.",
+        "why": "解散 (かいさん) = giải tán (nhóm người kết thúc hoạt động). Cặp đối: 集合 (tập trung) ↔ 解散 (giải tán).",
+        "options": [
+          "解散 → giải tán. ĐÚNG.",
+          "解放 → かいほう: giải phóng (khỏi ràng buộc). Sai.",
+          "退出 → たいしゅつ: rời khỏi (phòng, nơi trang trọng). Sai.",
+          "退場 → たいじょう: rời sân khấu/hội trường. Sai."
+        ],
+        "vocab": [
+          { "w": "解散", "r": "かいさん", "hv": "GIẢI TÁN", "vi": "giải tán" },
+          { "w": "集合", "r": "しゅうごう", "hv": "TẬP HỢP", "vi": "tập trung" },
+          { "w": "解放", "r": "かいほう", "hv": "GIẢI PHÓNG", "vi": "giải phóng" },
+          { "w": "退場", "r": "たいじょう", "hv": "THOÁI TRƯỜNG", "vi": "rời khỏi hội trường/sân" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Lịch trình dã ngoại luôn có cặp 集合 ～ 解散."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "司会をしてくれる人がいると、話し合いが（　　）進む。",
+      "options": ["シンプルに", "スムーズに", "ソフトに", "クリアに"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Nếu có người làm chủ trì thì cuộc thảo luận sẽ diễn ra suôn sẻ.",
+        "why": "スムーズに進む = tiến triển suôn sẻ, trôi chảy. Đây là collocation tự nhiên với 進む.",
+        "options": [
+          "シンプルに → đơn giản; không đi với 進む để chỉ sự trôi chảy. Sai.",
+          "スムーズに → suôn sẻ, trôi chảy. ĐÚNG.",
+          "ソフトに → mềm mại, nhẹ nhàng. Sai.",
+          "クリアに → rõ ràng. Sai."
+        ],
+        "vocab": [
+          { "w": "スムーズ", "r": "すむーず", "hv": "", "vi": "suôn sẻ (smooth)" },
+          { "w": "司会", "r": "しかい", "hv": "TƯ HỘI", "vi": "người dẫn chương trình, chủ trì" },
+          { "w": "話し合い", "r": "はなしあい", "hv": "THOẠI HỢP", "vi": "cuộc thảo luận" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "スムーズに進む / スムーズに運ぶ: diễn ra trôi chảy."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "転校する日はクラスのみんなと分かれるのが（　　）、涙が止まらなかった。",
+      "options": ["にくくて", "つらくて", "痛ましくて", "重苦しくて"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Ngày chuyển trường, việc chia tay cả lớp thật đau lòng, nước mắt cứ chảy mãi.",
+        "why": "つらい = đau khổ, khó chịu đựng (về tinh thần). Chia tay bạn bè làm mình buồn đau → つらくて.",
+        "options": [
+          "にくくて → にくい đứng một mình là 憎い (đáng ghét); không hợp. Sai.",
+          "つらくて → 辛い: đau khổ, khó khăn chịu đựng. ĐÚNG.",
+          "痛ましくて → 痛ましい: thương tâm (dùng cho tai nạn, sự việc thảm thương người khác nhìn vào). Sai.",
+          "重苦しくて → 重苦しい: nặng nề, ngột ngạt (bầu không khí). Sai."
+        ],
+        "vocab": [
+          { "w": "辛い", "r": "つらい", "hv": "TÂN", "vi": "đau khổ, khó chịu đựng" },
+          { "w": "転校", "r": "てんこう", "hv": "CHUYỂN HIỆU", "vi": "chuyển trường" },
+          { "w": "痛ましい", "r": "いたましい", "hv": "THỐNG", "vi": "thương tâm, bi thảm" },
+          { "w": "重苦しい", "r": "おもくるしい", "hv": "TRỌNG KHỔ", "vi": "nặng nề, ngột ngạt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "痛ましい dùng để miêu tả sự việc (痛ましい事故), không dùng cho cảm xúc của chính mình."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "自分のやったことがきちんと評価されると、仕事への（　　）も高まる。",
+      "options": ["活気", "根気", "意図", "意欲"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Khi việc mình làm được đánh giá đúng mức, động lực (sự hăng hái) đối với công việc cũng tăng lên.",
+        "why": "意欲 (いよく) = ý chí, sự hăng hái muốn làm. 仕事への意欲が高まる là collocation chuẩn.",
+        "options": [
+          "活気 → かっき: sức sống, sự náo nhiệt (của nơi chốn). Sai.",
+          "根気 → こんき: sự kiên trì, nhẫn nại; không đi với への...高まる. Sai.",
+          "意図 → いと: ý đồ, chủ ý. Sai.",
+          "意欲 → động lực, hăng hái. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "意欲", "r": "いよく", "hv": "Ý DỤC", "vi": "ý chí, động lực, sự hăng hái" },
+          { "w": "評価", "r": "ひょうか", "hv": "BÌNH GIÁ", "vi": "đánh giá" },
+          { "w": "活気", "r": "かっき", "hv": "HOẠT KHÍ", "vi": "sức sống, náo nhiệt" },
+          { "w": "根気", "r": "こんき", "hv": "CĂN KHÍ", "vi": "kiên nhẫn, bền bỉ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "意欲が高まる / 意欲を失う / 学習意欲."
+      }
+    },
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "試験が近くなってきたので、アルバイトはやめて、勉強に（　　）することにした。",
+      "options": ["特定", "統一", "専念", "注目"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vì kỳ thi đã đến gần nên tôi quyết định nghỉ làm thêm để tập trung toàn lực vào việc học.",
+        "why": "～に専念する (せんねん) = chuyên tâm, dồn hết sức vào một việc. Bỏ làm thêm để chỉ học → 専念.",
+        "options": [
+          "特定 → とくてい: xác định cụ thể. Sai.",
+          "統一 → とういつ: thống nhất. Sai.",
+          "専念 → chuyên tâm. ĐÚNG.",
+          "注目 → ちゅうもく: chú ý, để mắt đến; không mang nghĩa dồn sức làm. Sai."
+        ],
+        "vocab": [
+          { "w": "専念", "r": "せんねん", "hv": "CHUYÊN NIỆM", "vi": "chuyên tâm" },
+          { "w": "特定", "r": "とくてい", "hv": "ĐẶC ĐỊNH", "vi": "xác định cụ thể" },
+          { "w": "統一", "r": "とういつ", "hv": "THỐNG NHẤT", "vi": "thống nhất" },
+          { "w": "注目", "r": "ちゅうもく", "hv": "CHÚ MỤC", "vi": "chú ý" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "～に専念する ≈ ～に集中する nhưng mạnh hơn: bỏ hết việc khác."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "卒業パーティーには、ちゃんとした（　　）で行ったほうがいいのかな。",
+      "options": ["様子", "容姿", "外見", "格好"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đến tiệc tốt nghiệp thì có lẽ nên ăn mặc chỉnh tề nhỉ.",
+        "why": "格好 (かっこう) = dáng vẻ, cách ăn mặc. ちゃんとした格好で行く = đi với trang phục chỉnh tề.",
+        "options": [
+          "様子 → ようす: tình trạng, dáng vẻ bề ngoài của sự việc. Sai.",
+          "容姿 → ようし: dung mạo (vẻ đẹp bẩm sinh), không thay đổi theo ý. Sai.",
+          "外見 → がいけん: bề ngoài; không dùng với ちゃんとした...で行く. Sai.",
+          "格好 → cách ăn mặc, bộ dạng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "格好", "r": "かっこう", "hv": "CÁCH HẢO", "vi": "dáng vẻ, cách ăn mặc" },
+          { "w": "容姿", "r": "ようし", "hv": "DUNG TƯ", "vi": "dung mạo" },
+          { "w": "外見", "r": "がいけん", "hv": "NGOẠI KIẾN", "vi": "vẻ bề ngoài" },
+          { "w": "様子", "r": "ようす", "hv": "DẠNG TỬ", "vi": "tình hình, vẻ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "格好 là cái mình chọn được (quần áo); 容姿 là cái bẩm sinh."
+      }
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "exam": "2022-07",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn câu sử dụng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "温厚",
+      "options": [
+        "<u>温厚</u>な伯父は、みんなから愛されている。",
+        "旅行中は、どこに行っても<u>温厚</u>な歓迎を受けてうれしかった。",
+        "今日は気温が下がるようなので、<u>温厚</u>なコートが必要だ。",
+        "雪の日には<u>温厚</u>なスープが飲みたくなる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Đáp án 1: Người bác hiền hậu được mọi người yêu quý.",
+        "why": "温厚 (おんこう) = ôn hòa, hiền hậu — chỉ dùng cho TÍNH CÁCH con người (温厚な人柄・温厚な性格).",
+        "options": [
+          "温厚な伯父: người bác hiền hậu. ĐÚNG.",
+          "Phải dùng 温かい (あたたかい) / 熱烈な: 温かい歓迎 (sự đón tiếp nồng hậu). Sai.",
+          "Phải dùng 厚い (あつい) / 暖かい: 厚いコート (áo khoác dày). Sai.",
+          "Phải dùng 温かい: 温かいスープ (súp nóng ấm). Sai."
+        ],
+        "vocab": [
+          { "w": "温厚", "r": "おんこう", "hv": "ÔN HẬU", "vi": "ôn hòa, hiền hậu (tính cách)" },
+          { "w": "伯父", "r": "おじ", "hv": "BÁ PHỤ", "vi": "bác (anh của bố/mẹ)" },
+          { "w": "歓迎", "r": "かんげい", "hv": "HOAN NGHÊNH", "vi": "chào đón" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy: thấy chữ 温 (ấm) và 厚 (dày) rồi gán cho áo, súp. Nhưng 温厚 chỉ dùng cho người."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "濁る",
+      "options": [
+        "外と室内の温度の差で窓が<u>濁っている</u>。",
+        "今日は空が雲で暗く<u>濁っている</u>。",
+        "しばらく洗っていないので、車が<u>濁っている</u>。",
+        "大雨で川の水が茶色く<u>濁っている</u>。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đáp án 4: Do mưa lớn, nước sông bị đục ngầu màu nâu.",
+        "why": "濁る (にごる) = (chất lỏng, không khí, âm thanh) bị vẩn đục, không trong. Dùng cho nước: 水が濁る.",
+        "options": [
+          "Kính cửa sổ mờ do chênh lệch nhiệt độ → phải dùng 曇る (くもる): 窓が曇っている. Sai.",
+          "Trời tối vì mây → 曇っている (trời âm u). Sai.",
+          "Xe lâu không rửa → 汚れている (よごれている: bẩn). Sai.",
+          "川の水が濁っている: nước sông bị đục. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "濁る", "r": "にごる", "hv": "TRỌC", "vi": "vẩn đục, đục" },
+          { "w": "曇る", "r": "くもる", "hv": "ĐÀM", "vi": "âm u; (kính) bị mờ" },
+          { "w": "汚れる", "r": "よごれる", "hv": "Ô", "vi": "bị bẩn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "濁る ↔ 澄む (すむ: trong). 濁音 (だくおん) = âm đục (が, ざ, だ, ば)."
+      }
+    },
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "世代",
+      "options": [
+        "野口さんはまだ20代なので、<u>世代</u>を取っているとはいえない。",
+        "先日のパーティーでは私と同じ<u>世代</u>の人がたくさんいて、話が盛り上がった。",
+        "青山さんは今は日本語の先生をしているが、実は英語の先生の<u>世代</u>の方が長い。",
+        "仕事を頑張るだけでなく、趣味も楽しんで、充実した<u>世代</u>を送りたい。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Đáp án 2: Ở bữa tiệc hôm trước có nhiều người cùng thế hệ với tôi nên câu chuyện rất sôi nổi.",
+        "why": "世代 (せだい) = thế hệ, lứa tuổi. 同じ世代の人 = người cùng thế hệ.",
+        "options": [
+          "Phải dùng 年 (とし): 年を取っている (có tuổi, già). Sai.",
+          "同じ世代の人: người cùng thế hệ. ĐÚNG.",
+          "Phải dùng 経験 / 期間 / 時代: 英語の先生だった期間の方が長い. Sai.",
+          "Phải dùng 人生 / 毎日 / 生活: 充実した人生を送りたい. Sai."
+        ],
+        "vocab": [
+          { "w": "世代", "r": "せだい", "hv": "THẾ ĐẠI", "vi": "thế hệ" },
+          { "w": "盛り上がる", "r": "もりあがる", "hv": "THỊNH THƯỢNG", "vi": "sôi nổi, hào hứng" },
+          { "w": "充実", "r": "じゅうじつ", "hv": "SUNG THỰC", "vi": "đầy đủ, phong phú" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "若い世代 (thế hệ trẻ), 世代交代 (thay thế hệ), 同世代 (cùng thế hệ)."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "普及",
+      "options": [
+        "よくないうわさが<u>普及</u>しているので、気をつけてください。",
+        "全員に飲み物が<u>普及</u>したようなので、森さんから乾杯のあいさつをお願いします。",
+        "最近は携帯電話が<u>普及</u>しているので、家に電話を置かない家庭もある。",
+        "先週からインフルエンザが<u>普及</u>していて、小学校が休みになっている。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đáp án 3: Gần đây điện thoại di động đã phổ biến nên cũng có gia đình không đặt điện thoại bàn ở nhà.",
+        "why": "普及 (ふきゅう) = (công nghệ, sản phẩm, kiến thức) được phổ cập rộng rãi trong xã hội. 携帯電話が普及する là cách dùng chuẩn.",
+        "options": [
+          "Tin đồn lan ra → 広まる (ひろまる) / 広がる. Sai.",
+          "Đồ uống được phát đủ cho mọi người → 行き渡る (いきわたる). Sai.",
+          "携帯電話が普及している: điện thoại di động phổ biến. ĐÚNG.",
+          "Dịch bệnh lan rộng → 流行する (りゅうこう) / はやる. Sai."
+        ],
+        "vocab": [
+          { "w": "普及", "r": "ふきゅう", "hv": "PHỔ CẬP", "vi": "phổ cập, phổ biến rộng rãi" },
+          { "w": "行き渡る", "r": "いきわたる", "hv": "HÀNH ĐỘ", "vi": "phân phát đến khắp, đủ cho mọi người" },
+          { "w": "流行", "r": "りゅうこう", "hv": "LƯU HÀNH", "vi": "thịnh hành; (bệnh) lây lan" },
+          { "w": "乾杯", "r": "かんぱい", "hv": "CAN BÔI", "vi": "cạn ly" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "普及 thường đi với sản phẩm/công nghệ: スマホ・インターネット・パソコンが普及する."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "生じる",
+      "options": [
+        "メールシステムに問題が<u>生じて</u>、メールが送れなくなった。",
+        "バターやチーズは牛乳から<u>生じる</u>。",
+        "昨日、姉に2番目の子どもが<u>生じた</u>。",
+        "いくら考えても、いいアイデアが<u>生じない</u>。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Đáp án 1: Hệ thống email phát sinh sự cố nên không gửi được email nữa.",
+        "why": "生じる (しょうじる) = phát sinh, nảy sinh (vấn đề, sai sót, thay đổi). 問題が生じる là collocation chuẩn.",
+        "options": [
+          "問題が生じて: phát sinh sự cố. ĐÚNG.",
+          "Bơ, phô mai được làm từ sữa → 作られる (つくられる). Sai.",
+          "Chị gái sinh con thứ hai → 生まれた (うまれた). Sai.",
+          "Ý tưởng hay không nảy ra → 浮かばない (うかばない). Sai."
+        ],
+        "vocab": [
+          { "w": "生じる", "r": "しょうじる", "hv": "SINH", "vi": "phát sinh, nảy sinh" },
+          { "w": "浮かぶ", "r": "うかぶ", "hv": "PHÙ", "vi": "nổi lên; (ý tưởng) nảy ra" },
+          { "w": "生まれる", "r": "うまれる", "hv": "SINH", "vi": "được sinh ra" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "生じる đi với danh từ trừu tượng tiêu cực/thay đổi: 問題・誤解・ずれ・変化が生じる."
+      }
+    }
+  ]
+}

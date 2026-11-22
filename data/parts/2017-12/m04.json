@@ -1,0 +1,192 @@
+{
+  "exam": "2017-12",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ đúng nhất điền vào chỗ trống (theo ngữ cảnh).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "健康のためには、栄養の（　　）がいい食事を取ることが大切だ。",
+      "options": ["バランス", "リズム", "ビタミン", "エネルギー"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Vì sức khỏe, việc ăn những bữa ăn cân bằng dinh dưỡng là quan trọng.",
+        "why": "栄養のバランスがいい = cân bằng dinh dưỡng tốt. Cụm cố định: バランスがいい／バランスが取れた食事.",
+        "options": [
+          "バランス (balance): sự cân bằng → 栄養のバランスがいい. ĐÚNG.",
+          "リズム (rhythm): nhịp điệu (生活のリズム). Sai.",
+          "ビタミン: vitamin – \"vitamin của dinh dưỡng tốt\" vô nghĩa. Sai.",
+          "エネルギー: năng lượng – không kết hợp với 栄養の〜がいい. Sai."
+        ],
+        "vocab": [
+          { "w": "栄養", "r": "えいよう", "hv": "VINH DƯỠNG", "vi": "dinh dưỡng" },
+          { "w": "バランス", "r": "バランス", "hv": "", "vi": "sự cân bằng" },
+          { "w": "健康", "r": "けんこう", "hv": "KIỆN KHANG", "vi": "sức khỏe" },
+          { "w": "食事を取る", "r": "しょくじをとる", "hv": "THỰC SỰ", "vi": "dùng bữa, ăn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Collocation: 栄養のバランス, 生活のリズム, ビタミンを取る, エネルギーを消費する."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "市役所には騒音などの迷惑行為に対する（　　）が寄せられる。",
+      "options": ["苦情", "悪意", "不便", "多難"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tòa thị chính nhận được những lời phàn nàn về các hành vi gây phiền hà như tiếng ồn.",
+        "why": "苦情 (くじょう) = lời phàn nàn, khiếu nại. Cụm cố định: 苦情が寄せられる (nhận được khiếu nại), 苦情を言う.",
+        "options": [
+          "苦情: lời phàn nàn, khiếu nại. ĐÚNG.",
+          "悪意 (あくい): ác ý – không \"được gửi đến\" (寄せられる). Sai.",
+          "不便 (ふべん): bất tiện – không hợp với 寄せられる. Sai.",
+          "多難 (たなん): nhiều gian nan (前途多難). Sai."
+        ],
+        "vocab": [
+          { "w": "苦情", "r": "くじょう", "hv": "KHỔ TÌNH", "vi": "lời phàn nàn, khiếu nại" },
+          { "w": "騒音", "r": "そうおん", "hv": "TAO ÂM", "vi": "tiếng ồn" },
+          { "w": "迷惑行為", "r": "めいわくこうい", "hv": "MÊ HOẶC HÀNH VI", "vi": "hành vi gây phiền" },
+          { "w": "寄せられる", "r": "よせられる", "hv": "KÝ", "vi": "được gửi đến (ý kiến, thư)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜が寄せられる thường đi với: 苦情・意見・質問・声 (ý kiến được gửi về)."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "ここは桜の（　　）で、春になると大勢の花見客が訪れる。",
+      "options": ["要所", "名所", "実地", "現場"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Nơi đây là địa danh nổi tiếng về hoa anh đào, cứ đến mùa xuân là rất đông khách ngắm hoa đến thăm.",
+        "why": "名所 (めいしょ) = danh lam, địa điểm nổi tiếng. 桜の名所 = nơi nổi tiếng ngắm hoa anh đào.",
+        "options": [
+          "要所 (ようしょ): vị trí trọng yếu, điểm quan trọng. Sai.",
+          "名所: nơi nổi tiếng → 桜の名所. ĐÚNG.",
+          "実地 (じっち): thực địa, thực tế (実地研修). Sai.",
+          "現場 (げんば): hiện trường, công trường. Sai."
+        ],
+        "vocab": [
+          { "w": "名所", "r": "めいしょ", "hv": "DANH SỞ", "vi": "danh thắng, nơi nổi tiếng" },
+          { "w": "花見客", "r": "はなみきゃく", "hv": "HOA KIẾN KHÁCH", "vi": "khách ngắm hoa" },
+          { "w": "訪れる", "r": "おとずれる", "hv": "PHỎNG", "vi": "đến thăm" },
+          { "w": "現場", "r": "げんば", "hv": "HIỆN TRƯỜNG", "vi": "hiện trường" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "名所 = 名 (nổi tiếng) + 所 (chỗ). Cũng gặp: 観光名所 (điểm du lịch nổi tiếng)."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "電車に遅れそうだったが、（　　）間に合って何とか乗れた。",
+      "options": ["ばったり", "ぐっすり", "ぎりぎり", "がらがら"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tưởng sắp trễ tàu, nhưng vừa sát nút kịp giờ nên cuối cùng cũng lên được.",
+        "why": "ぎりぎり = sát nút, vừa kịp giới hạn. ぎりぎり間に合う = kịp trong gang tấc. Hợp với 遅れそうだった và 何とか.",
+        "options": [
+          "ばったり: tình cờ gặp (ばったり会う); đổ sập. Sai.",
+          "ぐっすり: (ngủ) say. Sai.",
+          "ぎりぎり: sát nút → ぎりぎり間に合う. ĐÚNG.",
+          "がらがら: vắng tanh (電車ががらがら); tiếng lạch cạch. Sai."
+        ],
+        "vocab": [
+          { "w": "ぎりぎり", "r": "ぎりぎり", "hv": "", "vi": "sát nút, vừa đúng giới hạn" },
+          { "w": "間に合う", "r": "まにあう", "hv": "GIAN HỢP", "vi": "kịp giờ" },
+          { "w": "何とか", "r": "なんとか", "hv": "HÀ", "vi": "bằng cách nào đó, cuối cùng cũng" },
+          { "w": "ばったり", "r": "ばったり", "hv": "", "vi": "tình cờ (gặp)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Collocation: ばったり会う / ぐっすり眠る / ぎりぎり間に合う / がらがらに空いている."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "この資格を持っていると就職に（　　）になると聞いた。",
+      "options": ["先着", "優先", "強力", "有利"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi nghe nói có chứng chỉ này sẽ có lợi cho việc xin việc.",
+        "why": "有利 (ゆうり) = có lợi, thuận lợi. 〜に有利になる = trở nên có lợi cho ~. 就職に有利 là cụm rất thường gặp.",
+        "options": [
+          "先着 (せんちゃく): đến trước (先着順). Sai.",
+          "優先 (ゆうせん): ưu tiên – thường nói 〜を優先する, không nói 就職に優先になる. Sai.",
+          "強力 (きょうりょく): mạnh mẽ (強力な薬). Sai.",
+          "有利: có lợi → 就職に有利になる. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "有利", "r": "ゆうり", "hv": "HỮU LỢI", "vi": "có lợi, thuận lợi" },
+          { "w": "不利", "r": "ふり", "hv": "BẤT LỢI", "vi": "bất lợi" },
+          { "w": "資格", "r": "しかく", "hv": "TƯ CÁCH", "vi": "chứng chỉ, tư cách" },
+          { "w": "就職", "r": "しゅうしょく", "hv": "TỰU CHỨC", "vi": "xin việc, có việc làm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜に有利だ ↔ 〜に不利だ. Đừng nhầm 優先 (ưu tiên, động từ する)."
+      }
+    },
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "あの政治家は記者会見に元気な様子で現れて、病気だといううわさを（　　）。",
+      "options": ["入れ替えた", "打ち消した", "追い返した", "差し引いた"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Chính trị gia đó xuất hiện ở buổi họp báo với dáng vẻ khỏe mạnh, đã bác bỏ tin đồn rằng ông bị bệnh.",
+        "why": "打ち消す (うちけす) = phủ nhận, bác bỏ (tin đồn, lời nói). うわさを打ち消す = dập tắt/bác bỏ tin đồn.",
+        "options": [
+          "入れ替えた → 入れ替える: thay thế, đổi chỗ. Sai.",
+          "打ち消した → 打ち消す: phủ nhận, bác bỏ. ĐÚNG.",
+          "追い返した → 追い返す: đuổi về. Sai.",
+          "差し引いた → 差し引く: trừ đi, khấu trừ. Sai."
+        ],
+        "vocab": [
+          { "w": "打ち消す", "r": "うちけす", "hv": "ĐẢ TIÊU", "vi": "phủ nhận, bác bỏ" },
+          { "w": "うわさ（噂）", "r": "うわさ", "hv": "", "vi": "tin đồn" },
+          { "w": "記者会見", "r": "きしゃかいけん", "hv": "KÝ GIẢ HỘI KIẾN", "vi": "họp báo" },
+          { "w": "差し引く", "r": "さしひく", "hv": "SAI DẪN", "vi": "trừ đi, khấu trừ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "打ち消す: うわさ/疑い/不安を打ち消す. Trong ngữ pháp, 打ち消し = thể phủ định."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "買い物に行くのに財布を忘れてしまうとは、山口さんは本当に（　　）人だ。",
+      "options": ["たのもしい", "そうぞうしい", "あつかましい", "そそっかしい"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đi mua sắm mà lại quên ví, anh Yamaguchi đúng là người hậu đậu (đểnh đoảng).",
+        "why": "そそっかしい = hấp tấp, cẩu thả, hay sơ suất. Đi mua đồ mà quên ví → hành vi đoảng, thiếu cẩn thận.",
+        "options": [
+          "たのもしい (頼もしい): đáng tin cậy. Sai.",
+          "そうぞうしい (騒々しい): ồn ào. Sai.",
+          "あつかましい (厚かましい): trơ trẽn, mặt dày. Sai.",
+          "そそっかしい: hậu đậu, hấp tấp hay sơ suất. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "そそっかしい", "r": "そそっかしい", "hv": "", "vi": "hậu đậu, hấp tấp, đoảng" },
+          { "w": "頼もしい", "r": "たのもしい", "hv": "LẠI", "vi": "đáng tin cậy" },
+          { "w": "厚かましい", "r": "あつかましい", "hv": "HẬU", "vi": "trơ trẽn, mặt dày" },
+          { "w": "騒々しい", "r": "そうぞうしい", "hv": "TAO", "vi": "ồn ào" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜とは = \"mà lại ~ (thật bất ngờ)\" → câu sau là nhận xét về người đó."
+      }
+    }
+  ]
+}

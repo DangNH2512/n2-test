@@ -1,0 +1,72 @@
+{
+  "exam": "2015-12",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "下は、ある美術館のホームページに載っている体験教室の案内である。下の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Dưới đây là thông báo về lớp học trải nghiệm đăng trên trang web của một bảo tàng mỹ thuật. Chọn câu trả lời đúng nhất (tìm kiếm thông tin).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "南原ガラス美術館 体験教室のご案内",
+      "text": "南原ガラス美術館\n体験教室のご案内\n\n館内の体験教室で、ガラス作品作りが体験できます。ご来館の記念に、世界で一つだけの作品を作りませんか。教室はA～Dの4コースで、毎日2回ずつ開催しています。\n\n【A：コップに絵をつけよう（60分）】\n専用の機械を使い、ガラスのコップにオリジナルの絵や模様をつけます。\n費用：1,200円\n対象年齢：5歳以上\n予約：不要\n時間：①11:45～12:45　②15:00～16:00\n\n【B：ペンダントを作ろう（60分）】\nガラス棒を熱して溶かし、ガラス玉のペンダントを作ります。\n費用：1,600円\n対象年齢：10歳以上\n予約：不要\n時間：①11:15～12:15　②15:00～16:00\n※待ち時間：1時間\n\n【C：キーホルダーを作ろう（30分）】\nカラフルなガラスを並べ、熱で接着します（接着はスタッフが行います）。\n費用：1,400円\n対象年齢：5歳以上\n予約：必要\n時間：①11:00～11:30　②14:00～14:30\n※待ち時間：2時間\n\n【D：お皿を作ろう（30分）】\n熱で溶かしたガラスを延ばし、好きな形のお皿を作ります。\n費用：2,000円\n対象年齢：8歳以上\n予約：必要\n時間：①10:15～10:45　②13:30～14:00\n※待ち時間：2時間\n\n【参加方法】\n・予約が必要なコースは、3日前までにご予約ください。予約不要のコースは、当日、教室開始の5分前までにお集まりください。\n・参加費は、開始前に教室でお支払いいただきます。\n・小学生以下のお子様は保護者の方とご一緒にご参加ください。\n\n【注意】\n※待ち時間について\nB～Dのコースで製作した作品は、教室終了後、完全に冷めるまでお持ち帰りいただけません。当日のお持ち帰りをご希望の場合は、それぞれの持ち時間の間、館内を鑑賞しながらお待ちになることをお勧めします。翌日以降の受け取り、郵送も可能です。詳細はスタッフにお尋ねください。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 74,
+      "passage": "p1",
+      "stem": "マルコさんは、一週間後、10歳の子供と一緒に体験教室に参加したいと考えている。都合で午後1時までには美術館を出なければならないが、作った作品は当日持ち帰りたい。マルコさんが選べる教室はどれか。",
+      "options": ["Aのみ", "AとBとC", "AとCとD", "AとD"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh Marco muốn tham gia lớp trải nghiệm cùng con 10 tuổi sau một tuần nữa. Vì lý do riêng phải rời bảo tàng trước 1 giờ chiều, nhưng muốn mang tác phẩm về ngay trong ngày. Anh Marco có thể chọn lớp nào? → A và D.",
+        "why": "Điều kiện: kết thúc lớp + thời gian chờ ≤ 13:00 (một tuần sau nên đặt trước 3 ngày được; con 10 tuổi đủ tuổi mọi lớp). A: 11:45–12:45, không có thời gian chờ → 12:45 OK. B: 12:15 + chờ 1h = 13:15 ✗. C: 11:30 + 2h = 13:30 ✗. D (ca ①): 10:45 + 2h = 12:45 OK. → A và D.",
+        "options": [
+          "Sai: bỏ sót D (10:45 + 2 giờ chờ = 12:45, kịp).",
+          "Sai: B (13:15) và C (13:30) đều quá 13:00.",
+          "Sai: C xong + chờ là 13:30, quá 13:00.",
+          "Đúng: A (12:45) và D (12:45). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "待ち時間", "r": "まちじかん", "hv": "ĐÃI THỜI GIAN", "vi": "thời gian chờ" },
+          { "w": "持ち帰る", "r": "もちかえる", "hv": "TRÌ QUY", "vi": "mang về" },
+          { "w": "対象年齢", "r": "たいしょうねんれい", "hv": "ĐỐI TƯỢNG NIÊN LINH", "vi": "độ tuổi đối tượng" },
+          { "w": "冷める", "r": "さめる", "hv": "LÃNH", "vi": "nguội đi" }
+        ],
+        "grammar": null,
+        "evidence": "B～Dのコースで製作した作品は、教室終了後、完全に冷めるまでお持ち帰りいただけません。当日のお持ち帰りをご希望の場合は、それぞれの持ち時間の間、館内を鑑賞しながらお待ちになることをお勧めします。",
+        "tip": "Bảng thông tin: lập điều kiện rồi tính giờ kết thúc thật = giờ hết lớp + 待ち時間. A không có 待ち時間."
+      }
+    },
+    {
+      "num": 75,
+      "passage": "p1",
+      "stem": "大学生のユウさんは、明日の体験教室に参加したいと考えている。作る物は食器以外がいい。ユウさんの希望に合っていて、参加できる可能性がある教室はどれか。",
+      "options": ["Aのみ", "Bのみ", "AとD", "BとC"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Sinh viên đại học Yuu muốn tham gia lớp trải nghiệm vào ngày mai. Muốn làm thứ gì đó không phải bát đĩa. Lớp nào phù hợp nguyện vọng và có khả năng tham gia? → Chỉ B.",
+        "why": "Không phải đồ ăn uống: loại A (cốc) và D (đĩa) → còn B (mặt dây chuyền), C (móc khóa). C cần đặt trước 3 ngày → \"ngày mai\" không kịp. B không cần đặt trước → chỉ B.",
+        "options": [
+          "Sai: A là cốc (食器).",
+          "Đúng: B không cần đặt trước, không phải đồ ăn uống. ĐÚNG.",
+          "Sai: A (cốc) và D (đĩa) đều là 食器; D còn cần đặt trước.",
+          "Sai: C phải đặt trước 3 ngày, ngày mai không kịp."
+        ],
+        "vocab": [
+          { "w": "食器", "r": "しょっき", "hv": "THỰC KHÍ", "vi": "bát đĩa, đồ dùng ăn uống" },
+          { "w": "予約", "r": "よやく", "hv": "DỰ ƯỚC", "vi": "đặt trước" },
+          { "w": "可能性", "r": "かのうせい", "hv": "KHẢ NĂNG TÍNH", "vi": "khả năng" }
+        ],
+        "grammar": {
+          "pattern": "～以外",
+          "meaning": "ngoài ~, trừ ~",
+          "form": "N + 以外",
+          "example": "日曜日以外は毎日営業しています。"
+        },
+        "evidence": "予約が必要なコースは、3日前までにご予約ください。予約不要のコースは、当日、教室開始の5分前までにお集まりください。",
+        "tip": "\"明日\" + 予約：必要 (3日前まで) → loại ngay các lớp cần đặt trước."
+      }
+    }
+  ]
+}

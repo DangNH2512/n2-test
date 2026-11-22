@@ -1,0 +1,167 @@
+{
+  "exam": "2010-07",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、50 から 54 の中に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, suy nghĩ về nội dung tổng thể và chọn phương án phù hợp nhất cho các chỗ trống từ 50 đến 54.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "下の文章は雑誌のコラムです。",
+      "text": "テレビや雑誌では、よく「血液型性格判断」が取り上げられます。これは、血液型によって性格が決まっている、言い換えれば、血液型がわかれば大体の性格もわかるという（50）です。\nその血液型性格判断によると、人の性格は、A型、B型、O型、AB型の血液型ごとに決まっているのだそうです。しかし、この世界には何十億人もの人が（51-a）、人の性格をたった４種類に分類することが（51-b）。\n血液型は親から子への遺伝によって、４種類のうち、どの型になるかが決まります。つまり、（52-a）は生まれてから死ぬまで、変わることはほぼありません。一方、（52-b）はどうでしょうか。（52-c）に関して言えば、子どものときは我慢が苦手だった子が、成長とともに我慢できるようになるといったことも少なくないでしょう。\nまた、ある調査によると、自分の血液型がどんな性格かということを聞いて、知らないうちに自分の性格がその性格に近づいてしまっているということもあるそうです。「私はA型だから、こういう性格なんだ」という思い込みで、性格が作られている可能性も否定できないというのです。（53）、性格と血液型に関係はあると言えるかもしれませんが、それは血液型で性格が決まるということではありません。\nこう考えると、やはり、血液型によって性格がたった４種類に分けられるとは（54）。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["点", "もの", "場合", "結果"],
+      "answer": 2,
+      "explanation": {
+        "translation": "“…Đây là một thứ (quan niệm) cho rằng tính cách được quyết định bởi nhóm máu, nói cách khác, biết nhóm máu thì cũng biết đại khái tính cách.”",
+        "why": "Câu định nghĩa “これは～という（もの）です” = đây là thứ/kiểu (lý thuyết) cho rằng ～. もの dùng để giải thích bản chất của một khái niệm (血液型性格判断).",
+        "options": [
+          "点 → “điểm (khía cạnh)”. “これは～という点です” không phải câu định nghĩa. Sai.",
+          "もの → “thứ, cái (khái niệm)”: これは～というものです. ĐÚNG.",
+          "場合 → “trường hợp”. Sai.",
+          "結果 → “kết quả”. 血液型性格判断 không phải là kết quả. Sai."
+        ],
+        "vocab": [
+          { "w": "血液型", "r": "けつえきがた", "hv": "HUYẾT DỊCH HÌNH", "vi": "nhóm máu" },
+          { "w": "性格判断", "r": "せいかくはんだん", "hv": "TÍNH CÁCH PHÁN ĐOÁN", "vi": "đoán tính cách" },
+          { "w": "言い換えれば", "r": "いいかえれば", "hv": "", "vi": "nói cách khác" },
+          { "w": "取り上げる", "r": "とりあげる", "hv": "", "vi": "đưa lên, đề cập" }
+        ],
+        "grammar": {
+          "pattern": "～というものだ",
+          "meaning": "là thứ (khái niệm/bản chất) như là ～",
+          "form": "普通形 + というもの",
+          "example": "これは日本の伝統的な考え方というものです。"
+        },
+        "evidence": "これは、血液型によって性格が決まっている、言い換えれば、血液型がわかれば大体の性格もわかるという（50）です。",
+        "tip": null
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51-a）（51-b）に入るもの",
+      "options": [
+        "a いるわけですから／b できたのではないかと考えます",
+        "a いるわけですから／b できるのかと疑問に思います",
+        "a いるからこそ／b 疑問に思われなかったのです",
+        "a いるからこそ／b できなかったのだと考えられます"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "“Tuy nhiên, thế giới có tới mấy tỷ người, vậy nên tôi nghi ngờ liệu có thể phân loại tính cách con người chỉ thành 4 loại được hay không.”",
+        "why": "Câu bắt đầu bằng しかし → tác giả phản bác thuyết nhóm máu. Lý do: có hàng tỷ người (いるわけですから = vì có…), nên nghi ngờ chuyện chia thành 4 loại (できるのかと疑問に思います).",
+        "options": [
+          "b “tôi nghĩ có lẽ đã làm được” → ủng hộ, trái với しかし. Sai.",
+          "a vì có hàng tỷ người / b nghi ngờ liệu có thể phân loại. ĐÚNG.",
+          "b “đã không bị nghi ngờ” → không khớp lập luận phản bác. Sai.",
+          "からこそ (chính vì) + “đã không thể” → thì quá khứ và logic không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "分類", "r": "ぶんるい", "hv": "PHÂN LOẠI", "vi": "phân loại" },
+          { "w": "疑問", "r": "ぎもん", "hv": "NGHI VẤN", "vi": "nghi vấn, thắc mắc" },
+          { "w": "何十億", "r": "なんじゅうおく", "hv": "HÀ THẬP ỨC", "vi": "hàng tỷ" }
+        ],
+        "grammar": {
+          "pattern": "～わけですから",
+          "meaning": "vì (đương nhiên là) ～ nên",
+          "form": "普通形 + わけですから",
+          "example": "彼は10年も住んでいるわけですから、町に詳しいはずです。"
+        },
+        "evidence": "しかし、この世界には何十億人もの人が（51-a）、人の性格をたった４種類に分類することが（51-b）。",
+        "tip": "Từ たった (chỉ vẻn vẹn) báo hiệu tác giả hoài nghi."
+      }
+    },
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "（52-a）（52-b）（52-c）に入るもの",
+      "options": [
+        "a 性格／b 血液型／c 血液型",
+        "a 性格／b 血液型／c 性格",
+        "a 血液型／b 性格／c 性格",
+        "a 血液型／b 性格／c 血液型"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "“Tức là nhóm máu từ lúc sinh ra đến lúc chết hầu như không thay đổi. Mặt khác, tính cách thì sao? Nói về tính cách thì việc đứa trẻ hồi nhỏ không biết kiên nhẫn, lớn lên lại biết kiên nhẫn cũng không hiếm.”",
+        "why": "a: nhóm máu do di truyền → suốt đời không đổi → 血液型. b: 一方 (mặt khác) → đối lập → 性格. c: ví dụ về trẻ lớn lên biết kiên nhẫn là sự thay đổi tính cách → 性格.",
+        "options": [
+          "a 性格 sai: tính cách không phải thứ do di truyền và bất biến. Sai.",
+          "a 性格 sai (như trên). Sai.",
+          "a 血液型 / b 性格 / c 性格. ĐÚNG.",
+          "c 血液型 sai: ví dụ “biết kiên nhẫn” nói về tính cách. Sai."
+        ],
+        "vocab": [
+          { "w": "遺伝", "r": "いでん", "hv": "DI TRUYỀN", "vi": "di truyền" },
+          { "w": "我慢", "r": "がまん", "hv": "NGÃ MẠN", "vi": "chịu đựng, kiên nhẫn" },
+          { "w": "成長", "r": "せいちょう", "hv": "THÀNH TRƯỜNG", "vi": "trưởng thành" },
+          { "w": "一方", "r": "いっぽう", "hv": "NHẤT PHƯƠNG", "vi": "mặt khác" }
+        ],
+        "grammar": null,
+        "evidence": "血液型は親から子への遺伝によって、４種類のうち、どの型になるかが決まります。つまり、（52-a）は生まれてから死ぬまで、変わることはほぼありません。",
+        "tip": "つまり → nhắc lại ý trước (血液型); 一方 → chuyển sang đối tượng đối lập (性格)."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p1",
+      "stem": "（53）に入るもの",
+      "options": ["それが本当ならば", "それと比べても", "そうあるべきなので", "それが前提でなかったら"],
+      "answer": 1,
+      "explanation": {
+        "translation": "“Nếu điều đó là thật, thì có lẽ có thể nói tính cách và nhóm máu có liên quan, nhưng đó không có nghĩa là nhóm máu quyết định tính cách.”",
+        "why": "Đoạn trước nêu kết quả điều tra (tính cách bị “ám thị” theo nhóm máu) dưới dạng tin đồn (～そうです、～というのです). Tác giả giả định: nếu điều đó là thật thì (có thể nói) có liên quan… → それが本当ならば.",
+        "options": [
+          "それが本当ならば → nếu điều đó là thật. ĐÚNG.",
+          "それと比べても → dù so với điều đó. Không có gì để so sánh. Sai.",
+          "そうあるべきなので → vì nên như vậy. Sai nghĩa. Sai.",
+          "それが前提でなかったら → nếu đó không phải tiền đề. Ngược logic. Sai."
+        ],
+        "vocab": [
+          { "w": "思い込み", "r": "おもいこみ", "hv": "", "vi": "sự tin chắc (chủ quan), định kiến" },
+          { "w": "否定", "r": "ひてい", "hv": "PHỦ ĐỊNH", "vi": "phủ định" },
+          { "w": "可能性", "r": "かのうせい", "hv": "KHẢ NĂNG TÍNH", "vi": "khả năng" }
+        ],
+        "grammar": null,
+        "evidence": "「私はA型だから、こういう性格なんだ」という思い込みで、性格が作られている可能性も否定できないというのです。（53）、性格と血液型に関係はあると言えるかもしれませんが、…",
+        "tip": "～と言えるかもしれない đi với điều kiện giả định (～ならば)."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p1",
+      "stem": "（54）に入るもの",
+      "options": ["言われてこなかったのです", "言われていないのでしょう", "言えないことはないのです", "言えないのではないでしょうか"],
+      "answer": 4,
+      "explanation": {
+        "translation": "“Nghĩ như vậy thì quả nhiên không thể nói rằng tính cách được chia thành vỏn vẹn 4 loại theo nhóm máu, phải không?”",
+        "why": "Câu kết luận của tác giả (こう考えると、やはり) phản bác thuyết nhóm máu → cần ý “không thể nói” dưới dạng khẳng định mềm: 言えないのではないでしょうか.",
+        "options": [
+          "言われてこなかったのです → “đã không được nói từ trước” – nói về sự thật quá khứ, không phải kết luận. Sai.",
+          "言われていないのでしょう → “có lẽ chưa được nói” – không phải ý kiến của tác giả. Sai.",
+          "言えないことはないのです → “không phải là không thể nói” = có thể nói → ngược ý. Sai.",
+          "言えないのではないでしょうか → chẳng phải là không thể nói sao. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "やはり", "r": "やはり", "hv": "", "vi": "quả nhiên, rốt cuộc" },
+          { "w": "分ける", "r": "わける", "hv": "PHÂN", "vi": "chia, phân" }
+        ],
+        "grammar": {
+          "pattern": "～のではないでしょうか",
+          "meaning": "chẳng phải là ～ sao (nêu ý kiến một cách nhẹ nhàng)",
+          "form": "普通形 + のではないでしょうか",
+          "example": "もう少し考えたほうがいいのではないでしょうか。"
+        },
+        "evidence": "こう考えると、やはり、血液型によって性格がたった４種類に分けられるとは（54）。",
+        "tip": "ないことはない = phủ định kép = có thể (ngược với kết luận của bài)."
+      }
+    }
+  ]
+}

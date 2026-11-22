@@ -1,0 +1,133 @@
+{
+  "exam": "2019-07",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ/cụm từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "この辺りも<u>物騒になってきた</u>気がする。",
+      "options": ["きれいじゃなくなってきた", "うるさくなってきた", "安全じゃなくなってきた", "さびしくなってきた"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi có cảm giác khu vực này cũng đã trở nên kém an toàn.",
+        "why": "物騒 (ぶっそう) = nguy hiểm, mất an ninh (dễ xảy ra trộm cướp...). → 安全じゃなくなってきた.",
+        "options": [
+          "きれいじゃなくなってきた: trở nên không sạch đẹp. Sai.",
+          "うるさくなってきた: trở nên ồn ào. Sai.",
+          "安全じゃなくなってきた: trở nên không an toàn. ĐÚNG.",
+          "さびしくなってきた: trở nên vắng vẻ, buồn. Sai."
+        ],
+        "vocab": [
+          { "w": "物騒", "r": "ぶっそう", "hv": "VẬT TAO", "vi": "nguy hiểm, mất an ninh" },
+          { "w": "辺り", "r": "あたり", "hv": "BIÊN", "vi": "vùng, khu vực xung quanh" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "物騒な世の中 = xã hội bất an. Đừng nhầm với 騒がしい (ồn ào)."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "その話を聞いて<u>落ち込んだ</u>。",
+      "options": ["緊張した", "びっくりした", "がっかりした", "心配した"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nghe chuyện đó tôi thấy chán nản (suy sụp).",
+        "why": "落ち込む (おちこむ) = buồn chán, suy sụp tinh thần ≈ がっかりする (thất vọng, xuống tinh thần).",
+        "options": [
+          "緊張した (きんちょう): căng thẳng, hồi hộp. Sai.",
+          "びっくりした: ngạc nhiên, giật mình. Sai.",
+          "がっかりした: thất vọng, chán nản. ĐÚNG.",
+          "心配した (しんぱい): lo lắng. Sai."
+        ],
+        "vocab": [
+          { "w": "落ち込む", "r": "おちこむ", "hv": "LẠC NHẬP", "vi": "chán nản, suy sụp" },
+          { "w": "緊張", "r": "きんちょう", "hv": "KHẨN TRƯƠNG", "vi": "căng thẳng" },
+          { "w": "がっかり", "r": "がっかり", "hv": "", "vi": "thất vọng, nản lòng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đồng nghĩa khác: 気を落とす, 落胆する (らくたん)."
+      }
+    },
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "<u>精いっぱい</u>やったのに、あまり評価されなかった。",
+      "options": ["せっかく", "一生懸命", "いろいろ", "何度も"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi đã làm hết sức mình vậy mà không được đánh giá cao lắm.",
+        "why": "精いっぱい (せいいっぱい) = dốc hết sức ≈ 一生懸命 (いっしょうけんめい) = hết mình, chăm chỉ hết sức.",
+        "options": [
+          "せっかく: mất công, đã cất công. Sai.",
+          "一生懸命: hết sức mình. ĐÚNG.",
+          "いろいろ: đủ thứ, nhiều cách. Sai.",
+          "何度も: nhiều lần. Sai."
+        ],
+        "vocab": [
+          { "w": "精いっぱい", "r": "せいいっぱい", "hv": "TINH", "vi": "hết sức, dốc toàn lực" },
+          { "w": "一生懸命", "r": "いっしょうけんめい", "hv": "NHẤT SINH HUYỀN MỆNH", "vi": "hết mình, chăm chỉ" },
+          { "w": "評価", "r": "ひょうか", "hv": "BÌNH GIÁ", "vi": "đánh giá" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "せっかく cũng hay đi với のに, đây là bẫy: nghĩa của nó là “đã cất công” chứ không phải “hết sức”."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "その話を聞いて、みんな<u>同情した</u>。",
+      "options": ["しかたがないと思った", "うらやましいと思った", "なつかしいと思った", "かわいそうだと思った"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nghe câu chuyện đó, mọi người đều thấy thương cảm.",
+        "why": "同情する (どうじょう) = thông cảm, thương xót cho hoàn cảnh người khác ≈ かわいそうだと思う.",
+        "options": [
+          "しかたがないと思った: nghĩ là đành chịu. Sai.",
+          "うらやましいと思った: thấy ghen tị. Sai.",
+          "なつかしいと思った: thấy hoài niệm. Sai.",
+          "かわいそうだと思った: thấy tội nghiệp. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "同情", "r": "どうじょう", "hv": "ĐỒNG TÌNH", "vi": "thương cảm, cảm thông" },
+          { "w": "羨ましい", "r": "うらやましい", "hv": "TIỆN", "vi": "ghen tị, thèm muốn" },
+          { "w": "懐かしい", "r": "なつかしい", "hv": "HOÀI", "vi": "hoài niệm, nhớ nhung" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Lưu ý: 同情 trong tiếng Nhật là “thương cảm”, khác với “đồng tình” (đồng ý) trong tiếng Việt (= 賛成)."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "条件を<u>定める</u>必要がある。",
+      "options": ["決める", "伝える", "調べる", "合わせる"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Cần phải quy định (xác định) các điều kiện.",
+        "why": "定める (さだめる - ĐỊNH) = quy định, xác định ≈ 決める (quyết định, đặt ra).",
+        "options": [
+          "決める (きめる): quyết định, đặt ra. ĐÚNG.",
+          "伝える (つたえる): truyền đạt. Sai.",
+          "調べる (しらべる): tìm hiểu, điều tra. Sai.",
+          "合わせる (あわせる): khớp, điều chỉnh cho hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "定める", "r": "さだめる", "hv": "ĐỊNH", "vi": "quy định, xác định" },
+          { "w": "条件", "r": "じょうけん", "hv": "ĐIỀU KIỆN", "vi": "điều kiện" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "法律で定められている = được pháp luật quy định."
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "exam": "2012-12",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B rồi chọn câu trả lời đúng nhất (đọc so sánh).",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "旅は非日常の世界へ入っていくことであり、目的地をどこにするかが重視されることが多い。しかし、私はむしろ目的地に着くまでの過程を大切にしたいと思っている。その過程には思わぬ発見や驚きがあるだろうし、計画していなかった出来事に出会えるかもしれない。少し予定を変えて寄り道をすることによって、自分が想像していた以上の素晴らしい旅になる可能性が出てくる。たとえ目的地での滞在時間が削られても、そこに行くまでに出会う偶然を大切にすることが、旅全体を楽しくすることになると思う。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "交通機関が発達することで、人々の移動できる範囲は確実に広がっている。移動にかかる時間も、ひと昔前とは比較できないほど短縮されている。移動にかかる時間が短くなった分、目的地にゆっくり滞在できるようになったのは幸いである。旅の楽しみは、ふだんとは違う何かを見付けることであるから、目的地に少しでも長くいることができるようにしたいものだ。そうすることで、日々のあわただしい生活を忘れて、再び日常に戻るときのためのエネルギーを充電することができる。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 69,
+      "passage": "AB",
+      "stem": "AとBのどちらの文章にも触れられている内容はどれか。",
+      "options": ["旅の移動手段の発達", "旅における新しい発見", "旅の日常に与える影響", "旅における目的地の選択"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Nội dung được nhắc đến ở cả hai đoạn A và B là gì? → Những phát hiện mới trong chuyến đi.",
+        "why": "A: trên đường đi có 思わぬ発見や驚き (phát hiện, bất ngờ). B: niềm vui du lịch là ふだんとは違う何かを見付けること (tìm thấy điều khác thường ngày). → Cả hai đều nói đến 'phát hiện mới'.",
+        "options": [
+          "Sự phát triển phương tiện di chuyển → chỉ B nói. Sai.",
+          "Phát hiện mới trong chuyến đi → cả A và B. ĐÚNG.",
+          "Ảnh hưởng của du lịch đến cuộc sống thường ngày → chỉ B (nạp năng lượng để quay lại thường ngày). Sai.",
+          "Việc chọn điểm đến → chỉ A nhắc (目的地をどこにするかが重視される), B không bàn. Sai."
+        ],
+        "vocab": [
+          { "w": "非日常", "r": "ひにちじょう", "hv": "PHI NHẬT THƯỜNG", "vi": "phi thường nhật, khác ngày thường" },
+          { "w": "過程", "r": "かてい", "hv": "QUÁ TRÌNH", "vi": "quá trình" },
+          { "w": "寄り道", "r": "よりみち", "hv": "KÝ ĐẠO", "vi": "ghé qua dọc đường" },
+          { "w": "見付ける", "r": "みつける", "hv": "KIẾN PHÓ", "vi": "tìm thấy, phát hiện" }
+        ],
+        "grammar": null,
+        "evidence": "A：その過程には思わぬ発見や驚きがあるだろうし… / B：旅の楽しみは、ふだんとは違う何かを見付けることであるから…",
+        "tip": "Câu hỏi 'cả hai cùng nhắc' → loại phương án chỉ xuất hiện ở một bên; chú ý diễn đạt khác nhau (発見 ≈ 見付ける)."
+      }
+    },
+    {
+      "num": 70,
+      "passage": "AB",
+      "stem": "AとBがそれぞれ旅をするときに最も重視していることは何か。",
+      "options": [
+        "Aは目的地までの過程を重視し、Bは目的地に長くいられることを重視している。",
+        "Aは目的地をどこにするかを重視し、Bは移動時間を短くすることを重視している。",
+        "Aは滞在中の発見を重視し、Bは日常から離れられる場所を選ぶことを重視している。",
+        "Aは計画を立てることを重視し、Bは移動する範囲を広げることを重視している。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Khi đi du lịch, A và B mỗi người coi trọng điều gì nhất? → A coi trọng quá trình đến điểm đến, B coi trọng việc được ở lâu tại điểm đến.",
+        "why": "A: 目的地に着くまでの過程を大切にしたい. B: 目的地に少しでも長くいることができるようにしたい. → Phương án 1.",
+        "options": [
+          "A: quá trình đến nơi; B: ở lâu tại điểm đến. ĐÚNG.",
+          "A coi trọng việc chọn điểm đến → A nói ngược lại (むしろ過程を大切に). Sai.",
+          "A coi trọng phát hiện 'trong lúc lưu trú' → A coi trọng trên đường đi, chấp nhận giảm thời gian lưu trú. Sai.",
+          "A coi trọng lập kế hoạch → A trân trọng những điều ngoài kế hoạch. Sai."
+        ],
+        "vocab": [
+          { "w": "重視", "r": "じゅうし", "hv": "TRỌNG THỊ", "vi": "coi trọng" },
+          { "w": "滞在", "r": "たいざい", "hv": "TRỆ TẠI", "vi": "lưu trú" },
+          { "w": "短縮", "r": "たんしゅく", "hv": "ĐOẢN SÚC", "vi": "rút ngắn" },
+          { "w": "充電", "r": "じゅうでん", "hv": "SUNG ĐIỆN", "vi": "sạc, nạp (năng lượng)" }
+        ],
+        "grammar": {
+          "pattern": "たとえ〜ても",
+          "meaning": "cho dù ~ đi nữa",
+          "form": "たとえ + Vて/Aくて/Nで + も",
+          "example": "たとえ雨が降っても、出発します。"
+        },
+        "evidence": "A：私はむしろ目的地に着くまでの過程を大切にしたいと思っている。 / B：目的地に少しでも長くいることができるようにしたいものだ。",
+        "tip": "Tìm câu có 大切にしたい／〜したいものだ → đó là quan điểm chính của mỗi người."
+      }
+    }
+  ]
+}

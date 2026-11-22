@@ -1,0 +1,190 @@
+{
+  "exam": "2011-12",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ phù hợp nhất với ngữ cảnh để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "ストレスを（　　）するために、何かしていますか。",
+      "options": ["解消", "削除", "減量", "停止"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Bạn có làm gì để giải tỏa căng thẳng không?",
+        "why": "ストレスを解消する = giải tỏa stress (collocation cố định). 解消 = xóa bỏ, giải quyết một trạng thái tiêu cực (bất mãn, stress, lo âu).",
+        "options": [
+          "解消 → giải tỏa, xóa bỏ. ĐÚNG.",
+          "削除 → xóa (dữ liệu, câu chữ). Sai.",
+          "減量 → giảm cân, giảm lượng. Sai.",
+          "停止 → dừng hoạt động (máy móc, dịch vụ). Sai."
+        ],
+        "vocab": [
+          { "w": "解消", "r": "かいしょう", "hv": "GIẢI TIÊU", "vi": "giải tỏa, xóa bỏ" },
+          { "w": "削除", "r": "さくじょ", "hv": "TƯỚC TRỪ", "vi": "xóa bỏ (dữ liệu)" },
+          { "w": "減量", "r": "げんりょう", "hv": "GIẢM LƯỢNG", "vi": "giảm cân, giảm lượng" },
+          { "w": "停止", "r": "ていし", "hv": "ĐÌNH CHỈ", "vi": "dừng lại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ストレス解消, 不安を解消, 渋滞を解消 – 解消 đi với trạng thái xấu."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "生活習慣を（　　）してから、ほとんど病気をしなくなりました。",
+      "options": ["訂正", "変換", "整備", "改善"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Từ khi cải thiện thói quen sinh hoạt, tôi hầu như không còn bị ốm nữa.",
+        "why": "改善 = cải thiện, làm cho tốt hơn. 生活習慣を改善する là kết hợp tự nhiên; kết quả là ít ốm.",
+        "options": [
+          "訂正 → đính chính lỗi sai (chữ, số liệu). Sai.",
+          "変換 → chuyển đổi (kanji, dữ liệu, năng lượng). Sai.",
+          "整備 → bảo dưỡng, chỉnh trang (máy móc, đường sá). Sai.",
+          "改善 → cải thiện. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "改善", "r": "かいぜん", "hv": "CẢI THIỆN", "vi": "cải thiện" },
+          { "w": "習慣", "r": "しゅうかん", "hv": "TẬP QUÁN", "vi": "thói quen" },
+          { "w": "訂正", "r": "ていせい", "hv": "ĐÍNH CHÍNH", "vi": "sửa lỗi" },
+          { "w": "整備", "r": "せいび", "hv": "CHỈNH BỊ", "vi": "bảo dưỡng, chỉnh trang" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "生活習慣病 = bệnh do lối sống. 改善 đi với: 生活, 体質, 待遇, 関係."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "申し込みの締め切りは明日に（　　）いる。",
+      "options": ["迫って", "限って", "寄って", "至って"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hạn chót đăng ký đã cận kề vào ngày mai.",
+        "why": "〜に迫る = (thời hạn) đến gần, cận kề. 締め切りが明日に迫っている = hạn chót sắp tới, ngay ngày mai.",
+        "options": [
+          "迫って → 迫る: đến gần, cận kề. ĐÚNG.",
+          "限って → 〜に限って: riêng/chỉ ~ (lại…). Sai nghĩa.",
+          "寄って → 寄る: ghé vào, lại gần (vị trí). Sai.",
+          "至って → 至る: đạt đến, dẫn tới (今に至る). Sai."
+        ],
+        "vocab": [
+          { "w": "迫る", "r": "せまる", "hv": "BÁCH", "vi": "đến gần, cận kề; ép buộc" },
+          { "w": "締め切り", "r": "しめきり", "hv": "ĐẾ THIẾT", "vi": "hạn chót" },
+          { "w": "申し込み", "r": "もうしこみ", "hv": "THÂN", "vi": "đăng ký" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "期限が迫る, 危険が迫る, 試験が目前に迫る."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "日曜だから込んでいるかと思ったけど、（　　）すいているね。",
+      "options": ["たいして", "どうりで", "わりと", "よけい"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tưởng chủ nhật sẽ đông, nhưng hóa ra khá vắng nhỉ.",
+        "why": "わりと = tương đối, khá (so với dự đoán). Tưởng đông → thực tế khá vắng: わりとすいている.",
+        "options": [
+          "たいして → phải đi với phủ định (たいして〜ない: không ~ lắm). Sai.",
+          "どうりで → thảo nào (hiểu ra lý do). Không hợp. Sai.",
+          "わりと → khá, tương đối. ĐÚNG.",
+          "よけい → càng thêm, thừa (lại càng). Sai."
+        ],
+        "vocab": [
+          { "w": "わりと（割と）", "r": "わりと", "hv": "CÁT", "vi": "khá, tương đối" },
+          { "w": "込む", "r": "こむ", "hv": "", "vi": "đông đúc" },
+          { "w": "すく（空く）", "r": "すく", "hv": "KHÔNG", "vi": "vắng, trống" },
+          { "w": "どうりで", "r": "どうりで", "hv": "ĐẠO LÝ", "vi": "thảo nào" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "わりと = わりに = 比較的: khá hơn mình nghĩ."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "組織のトップに立つ人間は、広い（　　）を持つことが必要だ。",
+      "options": ["視界", "視野", "視線", "視察"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Người đứng đầu tổ chức cần có tầm nhìn rộng.",
+        "why": "広い視野を持つ = có tầm nhìn (cách nhìn nhận) rộng. 視野 vừa là tầm nhìn vật lý vừa là tầm nhìn tư duy.",
+        "options": [
+          "視界 → tầm mắt (vật lý: 視界が悪い = tầm nhìn kém do sương), không dùng cho tư duy. Sai.",
+          "視野 → tầm nhìn, tầm hiểu biết. ĐÚNG.",
+          "視線 → ánh mắt, hướng nhìn. Sai.",
+          "視察 → thị sát, khảo sát thực tế. Sai."
+        ],
+        "vocab": [
+          { "w": "視野", "r": "しや", "hv": "THỊ DÃ", "vi": "tầm nhìn" },
+          { "w": "視界", "r": "しかい", "hv": "THỊ GIỚI", "vi": "tầm mắt" },
+          { "w": "視線", "r": "しせん", "hv": "THỊ TUYẾN", "vi": "ánh mắt" },
+          { "w": "組織", "r": "そしき", "hv": "TỔ CHỨC", "vi": "tổ chức" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "視野が広い／狭い, 視野に入れる (đưa vào tầm xem xét)."
+      }
+    },
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "シャワーを浴びたら、体も気分も（　　）した。",
+      "options": ["さらさら", "きらきら", "さっぱり", "きっぱり"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tắm vòi sen xong, cả cơ thể lẫn tinh thần đều sảng khoái.",
+        "why": "さっぱりする = sạch sẽ, sảng khoái, nhẹ nhõm (sau khi tắm, cắt tóc…). Dùng được cho cả 体 và 気分.",
+        "options": [
+          "さらさら → khô ráo, mượt (tóc), chảy róc rách. Sai.",
+          "きらきら → lấp lánh. Sai.",
+          "さっぱり → sảng khoái, nhẹ nhõm. ĐÚNG.",
+          "きっぱり → dứt khoát (từ chối). Sai."
+        ],
+        "vocab": [
+          { "w": "さっぱり", "r": "さっぱり", "hv": "", "vi": "sảng khoái; (〜ない) hoàn toàn không" },
+          { "w": "浴びる", "r": "あびる", "hv": "DỤC", "vi": "tắm, dội" },
+          { "w": "きっぱり", "r": "きっぱり", "hv": "", "vi": "dứt khoát" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "さっぱりした味 = vị thanh nhẹ; さっぱりわからない = hoàn toàn không hiểu."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "この携帯電話にはいろいろな（　　）がついている。",
+      "options": ["効用", "才能", "機能", "効力"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Chiếc điện thoại này có nhiều chức năng.",
+        "why": "機能 = chức năng (của máy móc). 機能がついている = được trang bị chức năng.",
+        "options": [
+          "効用 → công dụng, tác dụng (thuốc, thảo dược). Sai.",
+          "才能 → tài năng (của người). Sai.",
+          "機能 → chức năng. ĐÚNG.",
+          "効力 → hiệu lực (pháp luật, thuốc). Sai."
+        ],
+        "vocab": [
+          { "w": "機能", "r": "きのう", "hv": "CƠ NĂNG", "vi": "chức năng" },
+          { "w": "効用", "r": "こうよう", "hv": "HIỆU DỤNG", "vi": "công dụng" },
+          { "w": "効力", "r": "こうりょく", "hv": "HIỆU LỰC", "vi": "hiệu lực" },
+          { "w": "携帯電話", "r": "けいたいでんわ", "hv": "HUỀ ĐỚI ĐIỆN THOẠI", "vi": "điện thoại di động" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "多機能 = đa chức năng; 機能的 = tiện dụng."
+      }
+    }
+  ]
+}

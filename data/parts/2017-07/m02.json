@@ -1,0 +1,137 @@
+{
+  "exam": "2017-07",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết Kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "今朝は寒くて、池が<u>こおった</u>。",
+      "options": ["凍った", "結った", "固った", "冷った"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Sáng nay lạnh nên cái ao đã đóng băng.",
+        "why": "こおる viết là 凍る (ĐỐNG) = đóng băng. 池が凍る = ao đóng băng.",
+        "options": [
+          "凍った → こおった: đóng băng. ĐÚNG.",
+          "結った → ゆった (結う: buộc, búi tóc). Sai.",
+          "固った → không có cách viết này (固まる かたまる: đông cứng). Sai.",
+          "冷った → không có cách viết này (冷える ひえる: lạnh đi). Sai."
+        ],
+        "vocab": [
+          { "w": "凍る", "r": "こおる", "hv": "ĐỐNG", "vi": "đóng băng" },
+          { "w": "冷凍", "r": "れいとう", "hv": "LÃNH ĐỐNG", "vi": "đông lạnh" },
+          { "w": "固まる", "r": "かたまる", "hv": "CỐ", "vi": "đông cứng, đông lại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "冷凍食品 (thực phẩm đông lạnh) giúp nhớ 凍 = băng giá."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "エネルギー問題についての<u>とうろん</u>が行われた。",
+      "options": ["党論", "討論", "討議", "党議"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Một cuộc thảo luận về vấn đề năng lượng đã được tổ chức.",
+        "why": "とうろん viết là 討論 (THẢO LUẬN) = tranh luận, thảo luận. 討 (とう) = thảo, bàn bạc; 論 (ろん) = luận.",
+        "options": [
+          "党論 → 党 (ĐẢNG) là đảng phái, không phù hợp nghĩa. Sai.",
+          "討論 → とうろん: thảo luận. ĐÚNG.",
+          "討議 → とうぎ: bàn bạc, thảo luận — nghĩa gần nhưng đọc là とうぎ, không phải とうろん. Sai.",
+          "党議 → とうぎ: nghị quyết của đảng. Sai."
+        ],
+        "vocab": [
+          { "w": "討論", "r": "とうろん", "hv": "THẢO LUẬN", "vi": "thảo luận, tranh luận" },
+          { "w": "討議", "r": "とうぎ", "hv": "THẢO NGHỊ", "vi": "bàn bạc, thảo luận" },
+          { "w": "政党", "r": "せいとう", "hv": "CHÍNH ĐẢNG", "vi": "đảng chính trị" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy: 討議 nghĩa gần nhưng đọc とうぎ. Luôn so cả âm đọc chứ không chỉ nghĩa."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "私たちの団体は、傷ついた動物を<u>すくう</u>活動をしています。",
+      "options": ["治う", "助う", "救う", "療う"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tổ chức của chúng tôi hoạt động cứu giúp các động vật bị thương.",
+        "why": "すくう viết là 救う (CỨU) = cứu, cứu giúp.",
+        "options": [
+          "治う → không tồn tại (治す なおす: chữa). Sai.",
+          "助う → không tồn tại (助ける たすける: giúp đỡ). Sai.",
+          "救う → すくう: cứu. ĐÚNG.",
+          "療う → không tồn tại (療 trong 治療 ちりょう). Sai."
+        ],
+        "vocab": [
+          { "w": "救う", "r": "すくう", "hv": "CỨU", "vi": "cứu, cứu giúp" },
+          { "w": "救急車", "r": "きゅうきゅうしゃ", "hv": "CỨU CẤP XA", "vi": "xe cấp cứu" },
+          { "w": "団体", "r": "だんたい", "hv": "ĐOÀN THỂ", "vi": "đoàn thể, tổ chức" },
+          { "w": "傷つく", "r": "きずつく", "hv": "THƯƠNG", "vi": "bị thương" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "救 xuất hiện trong 救急車・救助 — liên tưởng 'cứu'."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "CD の売れ行きは<u>こうちょう</u>だ。",
+      "options": ["好調", "快調", "好長", "快長"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Doanh số bán đĩa CD đang rất thuận lợi.",
+        "why": "こうちょう viết là 好調 (HẢO ĐIỀU) = thuận lợi, tốt đẹp. 好 = こう, 調 = ちょう.",
+        "options": [
+          "好調 → こうちょう: thuận lợi. ĐÚNG.",
+          "快調 → かいちょう: trơn tru, khỏe khoắn — đọc khác. Sai.",
+          "好長 → không có từ này. Sai.",
+          "快長 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "好調", "r": "こうちょう", "hv": "HẢO ĐIỀU", "vi": "thuận lợi, suôn sẻ" },
+          { "w": "不調", "r": "ふちょう", "hv": "BẤT ĐIỀU", "vi": "không thuận lợi, trục trặc" },
+          { "w": "快調", "r": "かいちょう", "hv": "KHOÁI ĐIỀU", "vi": "trơn tru, tốt" },
+          { "w": "売れ行き", "r": "うれゆき", "hv": "MẠI HÀNH", "vi": "tình hình bán hàng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "好調 ⇔ 不調. 快 đọc かい nên không thể là こう."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "この機械は<u>えいきゅう</u>に動くわけではない。",
+      "options": ["延久", "永遠", "永久", "延遠"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Cái máy này không phải sẽ chạy mãi mãi.",
+        "why": "えいきゅう viết là 永久 (VĨNH CỬU) = vĩnh cửu, mãi mãi. 永 = えい, 久 = きゅう.",
+        "options": [
+          "延久 → 延 đọc えん, không có từ này. Sai.",
+          "永遠 → えいえん: vĩnh viễn — nghĩa giống nhưng đọc えいえん. Sai.",
+          "永久 → えいきゅう: vĩnh cửu. ĐÚNG.",
+          "延遠 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "永久", "r": "えいきゅう", "hv": "VĨNH CỬU", "vi": "mãi mãi, vĩnh cửu" },
+          { "w": "永遠", "r": "えいえん", "hv": "VĨNH VIỄN", "vi": "vĩnh viễn" },
+          { "w": "延長", "r": "えんちょう", "hv": "DIÊN TRƯỜNG", "vi": "kéo dài" }
+        ],
+        "grammar": { "pattern": "～わけではない", "meaning": "không hẳn là, không phải là", "form": "V普通形 + わけではない", "example": "嫌いなわけではない。(Không phải là tôi ghét.)" },
+        "evidence": null,
+        "tip": "Bẫy: 永遠 cùng nghĩa nhưng đọc えいえん; きゅう phải là 久 (久しぶり)."
+      }
+    }
+  ]
+}

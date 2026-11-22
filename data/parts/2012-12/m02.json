@@ -1,0 +1,135 @@
+{
+  "exam": "2012-12",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết chữ Hán đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "夏になると、この島には多くの観光客が<u>おとずれる</u>。",
+      "options": ["往れる", "伺れる", "参れる", "訪れる"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Cứ đến mùa hè là có nhiều khách du lịch ghé thăm hòn đảo này.",
+        "why": "おとずれる viết là 訪れる (PHỎNG) = viếng thăm, ghé đến. 訪 cũng có trong 訪問 (ほうもん) và 訪ねる (たずねる).",
+        "options": [
+          "往れる → không có; 往 là VÃNG (往復 おうふく: khứ hồi). Sai.",
+          "伺れる → không có; 伺 đọc うかがう (khiêm nhường của 'hỏi/thăm'). Sai.",
+          "参れる → không có; 参 đọc まいる (khiêm nhường của 'đi/đến'). Sai.",
+          "訪れる → おとずれる: ghé thăm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "訪れる", "r": "おとずれる", "hv": "PHỎNG", "vi": "viếng thăm, ghé đến; (mùa) đến" },
+          { "w": "訪問", "r": "ほうもん", "hv": "PHỎNG VẤN", "vi": "thăm viếng" },
+          { "w": "観光客", "r": "かんこうきゃく", "hv": "QUAN QUANG KHÁCH", "vi": "khách du lịch" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "訪 có 2 âm Kun: 訪れる (おとずれる) và 訪ねる (たずねる) — đều mang nghĩa 'thăm'."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "今年はたくさんの野菜が<u>しゅうかく</u>できたそうだ。",
+      "options": ["集穫", "集得", "収穫", "収得"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nghe nói năm nay đã thu hoạch được nhiều rau.",
+        "why": "しゅうかく viết là 収穫 (THU HOẠCH) = thu hoạch (nông sản). しゅう ở đây là 収 (thu vào), かく là 穫 (bộ 禾 lúa).",
+        "options": [
+          "集穫 → 集 (TẬP: tập hợp) sai chữ. Sai.",
+          "集得 → không có từ này. Sai.",
+          "収穫 → しゅうかく: thu hoạch. ĐÚNG.",
+          "収得 → しゅうとく: thu được (ít dùng), 得 không đọc かく. Sai."
+        ],
+        "vocab": [
+          { "w": "収穫", "r": "しゅうかく", "hv": "THU HOẠCH", "vi": "thu hoạch" },
+          { "w": "獲得", "r": "かくとく", "hv": "HOẠCH ĐẮC", "vi": "giành được (bộ 犭)" },
+          { "w": "収入", "r": "しゅうにゅう", "hv": "THU NHẬP", "vi": "thu nhập" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "穫 (bộ 禾 lúa) = thu hoạch nông sản; 獲 (bộ 犭 thú) = săn bắt, giành được (獲得)."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "餌をあげたとたん、その犬がすごい<u>いきおい</u>で食べ始めたのでびっくりした。",
+      "options": ["乱い", "勢い", "荒い", "暴い"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Vừa cho ăn xong thì con chó đó bắt đầu ăn với khí thế dữ dội nên tôi giật cả mình.",
+        "why": "いきおい viết là 勢い (THẾ) = khí thế, đà, sức mạnh. すごい勢いで = với đà/khí thế ghê gớm.",
+        "options": [
+          "乱い → không có; 乱 đọc みだれる (rối loạn). Sai.",
+          "勢い → いきおい: khí thế, đà. ĐÚNG.",
+          "荒い → あらい: thô bạo, dữ dội (sóng). Sai.",
+          "暴い → không có; 暴 đọc あばれる (quậy phá). Sai."
+        ],
+        "vocab": [
+          { "w": "勢い", "r": "いきおい", "hv": "THẾ", "vi": "khí thế, đà" },
+          { "w": "餌", "r": "えさ", "hv": "NHĨ", "vi": "mồi, thức ăn cho động vật" },
+          { "w": "〜たとたん", "r": "たとたん", "hv": "", "vi": "vừa mới … thì liền" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "勢 âm On せい: 大勢 (おおぜい), 姿勢 (しせい), 情勢 (じょうせい)."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "<u>そしき</u>が大きくなると、運営も大変になる。",
+      "options": ["祖識", "組識", "組織", "祖織"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Khi tổ chức trở nên lớn thì việc vận hành cũng vất vả hơn.",
+        "why": "そしき viết là 組織 (TỔ CHỨC). 組 (bộ 糸) = kết lại; 織 (bộ 糸) = dệt. Cả hai đều bộ mịch 糸.",
+        "options": [
+          "祖識 → 祖 (TỔ: tổ tiên) + 識 (THỨC: nhận thức). Sai.",
+          "組識 → 識 (bộ 言) sai, phải là 織 (bộ 糸). Sai.",
+          "組織 → そしき: tổ chức. ĐÚNG.",
+          "祖織 → 祖 sai chữ. Sai."
+        ],
+        "vocab": [
+          { "w": "組織", "r": "そしき", "hv": "TỔ CHỨC", "vi": "tổ chức" },
+          { "w": "運営", "r": "うんえい", "hv": "VẬN DOANH", "vi": "vận hành, điều hành" },
+          { "w": "知識", "r": "ちしき", "hv": "TRI THỨC", "vi": "kiến thức (識 bộ 言)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "織 (bộ 糸 sợi) = dệt → 組織; 識 (bộ 言 lời) = biết → 知識・意識. Dễ nhầm vì cùng đọc しき."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "町の<u>いたるところ</u>に花が植えられている。",
+      "options": ["至るところ", "及るところ", "減るところ", "総るところ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Khắp nơi trong thị trấn đều được trồng hoa.",
+        "why": "いたるところ viết là 至る所 / 至るところ (CHÍ) = khắp nơi, mọi chỗ. 至る = đạt tới, đi đến.",
+        "options": [
+          "至るところ → いたるところ: khắp nơi. ĐÚNG.",
+          "及るところ → không có; 及 đọc およぶ (lan tới). Sai.",
+          "減るところ → へるところ: chỗ giảm đi. Sai.",
+          "総るところ → không có; 総 là TỔNG. Sai."
+        ],
+        "vocab": [
+          { "w": "至る所", "r": "いたるところ", "hv": "CHÍ SỞ", "vi": "khắp nơi" },
+          { "w": "至る", "r": "いたる", "hv": "CHÍ", "vi": "đi đến, đạt tới" },
+          { "w": "植える", "r": "うえる", "hv": "THỰC", "vi": "trồng (cây)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Mẫu liên quan: 〜に至るまで (cho đến cả ~), 至急 (しきゅう: khẩn cấp)."
+      }
+    }
+  ]
+}

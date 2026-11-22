@@ -1,0 +1,137 @@
+{
+  "exam": "2020-12",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、（48）から（51）の中に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án thích hợp nhất cho các chỗ trống từ (48) đến (51).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "ロボット・セラピー",
+      "text": "以下は留学生がスピーチのために書いた文章である。\n\nロボット・セラピー\nプリュースター ジョン\n\n私はロボット工学を専攻しています。将来は医療分野でのロボット活用に関わる仕事をするのが夢です。今は「ロボット・セラピー」というものに興味があります。最近、介護の現場で注目されているものですが、みなさん、（48）。\n「アニマル・セラピー」なら聞いたことのある人も多いかもしれません。動物と触れ合うことで穏やかな気持ちになり、ストレスが減るなどの医療効果で知られています。しかし、実際に介護施設などで動物を飼おうとすると、アレルギーや世話の問題など、難しい面もあります。（49）、アニマル・セラピーに替わるものとして、最近、ロボット・セラピーが注目されるようになりました。\nロボット・セラピーのロボットには動物型、赤ちゃん型などがあり、それらに共通するのはコミュニケーションが可能だということです。どの型のロボットも、感覚機能を持っており、触れ合う人の様子や周囲の状況を判断して、様々な感情を表現することができます。例えば、だっこされたり、なでられたりすると、可愛い声を出して喜んだり、気持ち良さそうな表情をしたりします。こういったロボットとの触れ合いによって、精神的安定やコミュニケーション能力の改善などの効果が（50）。\n私が今学んでいるのはロボット工学の基礎です。将来こういったロボットの研究、開発に参加するために、これからも勉強を続けます。そして、医療分野に（51）。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 48,
+      "passage": "p1",
+      "stem": "（48）に入るもの",
+      "options": ["ご存知でしょう", "ご存知だと思います", "ご存知でしょうか", "ご存知だと思いますか"],
+      "answer": 3,
+      "explanation": {
+        "translation": "...gần đây đang được chú ý trong lĩnh vực chăm sóc điều dưỡng, các bạn có biết không ạ?",
+        "why": "Người nói vừa giới thiệu một khái niệm có thể còn mới với khán giả, nên hỏi lịch sự 「みなさん、ご存知でしょうか」 = các bạn có biết không? Đoạn sau mới nói 「アニマル・セラピーなら聞いたことのある人も多いかも」, tức là ロボット・セラピー thì có lẽ chưa nhiều người biết.",
+        "options": [
+          "ご存知でしょう → 「chắc các bạn biết rồi nhỉ」: khẳng định khán giả đã biết, mâu thuẫn với đoạn sau. Sai.",
+          "ご存知だと思います → 「tôi nghĩ các bạn biết」: cũng mặc định đã biết. Sai.",
+          "ご存知でしょうか → 「các bạn có biết không?」: câu hỏi mở đầu phù hợp. ĐÚNG.",
+          "ご存知だと思いますか → 「các bạn có nghĩ là các bạn biết không?」: không tự nhiên. Sai."
+        ],
+        "vocab": [
+          { "w": "ご存知", "r": "ごぞんじ", "hv": "TỒN TRI", "vi": "biết (tôn kính ngữ)" },
+          { "w": "介護", "r": "かいご", "hv": "GIỚI HỘ", "vi": "chăm sóc, điều dưỡng" },
+          { "w": "専攻", "r": "せんこう", "hv": "CHUYÊN CÔNG", "vi": "chuyên ngành" }
+        ],
+        "grammar": {
+          "pattern": "～でしょうか",
+          "meaning": "liệu ~ không? (hỏi lịch sự, mềm mỏng)",
+          "form": "普通形＋でしょうか",
+          "example": "みなさん、この言葉をご存知でしょうか。"
+        },
+        "evidence": "「ロボット・セラピー」というものに興味があります。最近、介護の現場で注目されているものですが、みなさん、（48）。",
+        "tip": "Trong bài phát biểu, câu hỏi tu từ ご存知でしょうか thường dùng để dẫn vào chủ đề."
+      }
+    },
+    {
+      "num": 49,
+      "passage": "p1",
+      "stem": "（49）に入るもの",
+      "options": ["そこで", "そのうえ", "それなのに", "そういえば"],
+      "answer": 1,
+      "explanation": {
+        "translation": "...cũng có những mặt khó khăn như dị ứng hay vấn đề chăm sóc. Vì thế, gần đây liệu pháp robot được chú ý như một thứ thay thế liệu pháp động vật.",
+        "why": "Câu trước nêu vấn đề (nuôi động vật khó), câu sau nêu giải pháp được đưa ra cho vấn đề đó (robot thay thế) → dùng そこで = vì vậy (để giải quyết).",
+        "options": [
+          "そこで → vì thế, do đó (đưa ra cách giải quyết). ĐÚNG.",
+          "そのうえ → hơn nữa (thêm thông tin cùng chiều). Sai.",
+          "それなのに → vậy mà (trái kỳ vọng). Sai.",
+          "そういえば → nhân tiện nói đến (chuyển chủ đề). Sai."
+        ],
+        "vocab": [
+          { "w": "替わる", "r": "かわる", "hv": "THẾ", "vi": "thay thế" },
+          { "w": "施設", "r": "しせつ", "hv": "THI THIẾT", "vi": "cơ sở, trung tâm" },
+          { "w": "世話", "r": "せわ", "hv": "THẾ THOẠI", "vi": "chăm sóc" }
+        ],
+        "grammar": {
+          "pattern": "そこで",
+          "meaning": "vì vậy, thế nên (hành động để giải quyết tình huống trước)",
+          "form": "Câu nêu vấn đề。そこで、câu nêu giải pháp。",
+          "example": "駅が遠くて不便だった。そこで、自転車を買った。"
+        },
+        "evidence": "難しい面もあります。（49）、アニマル・セラピーに替わるものとして、最近、ロボット・セラピーが注目されるようになりました。",
+        "tip": null
+      }
+    },
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["得られる点です", "得られてもかまいません", "得られるのだそうです", "得られなければなりません"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nghe nói nhờ tiếp xúc với những robot như thế này mà có thể đạt được các hiệu quả như ổn định tinh thần hay cải thiện khả năng giao tiếp.",
+        "why": "Người nói là sinh viên đang học, truyền đạt lại thông tin về hiệu quả mà mình nghe/đọc được → dùng 伝聞 「～のだそうです」 (nghe nói là).",
+        "options": [
+          "得られる点です → 「là điểm có thể đạt được」: câu không có chủ đề 「～のは」 tương ứng nên không khớp. Sai.",
+          "得られてもかまいません → 「đạt được cũng không sao」: vô lý. Sai.",
+          "得られるのだそうです → nghe nói có thể đạt được. ĐÚNG.",
+          "得られなければなりません → 「phải đạt được」: nghĩa bắt buộc, không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "触れ合い", "r": "ふれあい", "hv": "XÚC HỢP", "vi": "sự tiếp xúc, giao lưu" },
+          { "w": "精神的", "r": "せいしんてき", "hv": "TINH THẦN ĐÍCH", "vi": "về mặt tinh thần" },
+          { "w": "安定", "r": "あんてい", "hv": "AN ĐỊNH", "vi": "ổn định" },
+          { "w": "改善", "r": "かいぜん", "hv": "CẢI THIỆN", "vi": "cải thiện" }
+        ],
+        "grammar": {
+          "pattern": "～そうだ (伝聞)",
+          "meaning": "nghe nói là ~",
+          "form": "普通形＋そうだ (～のだそうだ)",
+          "example": "この薬はよく効くのだそうです。"
+        },
+        "evidence": "こういったロボットとの触れ合いによって、精神的安定やコミュニケーション能力の改善などの効果が（50）。",
+        "tip": null
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["試してもいいですか", "試したらいいのでしょうか", "貢献できるようにしています", "貢献できるようになりたいです"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Và tôi muốn trở thành người có thể đóng góp cho lĩnh vực y tế.",
+        "why": "Câu kết bài phát biểu nói về ước mơ tương lai (đầu bài: 将来は医療分野で…仕事をするのが夢です) → 医療分野に貢献できるようになりたいです.",
+        "options": [
+          "試してもいいですか → 「tôi thử có được không?」: xin phép, không hợp. Sai.",
+          "試したらいいのでしょうか → 「nên thử thế nào?」: hỏi ý kiến, không hợp. Sai.",
+          "貢献できるようにしています → 「đang cố gắng để có thể đóng góp」 (thói quen hiện tại): người nói mới học cơ bản nên không hợp. Sai.",
+          "貢献できるようになりたいです → muốn trở nên có thể đóng góp. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "貢献", "r": "こうけん", "hv": "CỐNG HIẾN", "vi": "đóng góp, cống hiến" },
+          { "w": "医療分野", "r": "いりょうぶんや", "hv": "Y LIỆU PHÂN DÃ", "vi": "lĩnh vực y tế" },
+          { "w": "基礎", "r": "きそ", "hv": "CƠ SỞ", "vi": "cơ bản, nền tảng" }
+        ],
+        "grammar": {
+          "pattern": "～ようになりたい",
+          "meaning": "muốn trở nên (có thể) ~",
+          "form": "V可能形＋ようになりたい",
+          "example": "日本語で自由に話せるようになりたい。"
+        },
+        "evidence": "将来こういったロボットの研究、開発に参加するために、これからも勉強を続けます。そして、医療分野に（51）。",
+        "tip": "Ở cuối bài phát biểu, câu thể hiện ước mơ/nguyện vọng là lựa chọn tự nhiên nhất."
+      }
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "exam": "2011-12",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "彼女の生き方は多くの人に感動を<u>あたえた</u>。",
+      "options": ["与えた", "授えた", "贈えた", "供えた"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Cách sống của cô ấy đã mang lại xúc động cho nhiều người.",
+        "why": "あたえる viết là 与える (DỮ) = cho, trao, mang lại. 感動を与える = gây xúc động.",
+        "options": [
+          "与えた → 与える: cho, mang lại. ĐÚNG.",
+          "授えた → 授 đọc さず(ける): truyền thụ; không có 授える. Sai.",
+          "贈えた → 贈 đọc おく(る): tặng; không có 贈える. Sai.",
+          "供えた → 供える (そなえる): dâng cúng, không đọc あたえる. Sai."
+        ],
+        "vocab": [
+          { "w": "与える", "r": "あたえる", "hv": "DỮ", "vi": "cho, trao, gây ra" },
+          { "w": "感動", "r": "かんどう", "hv": "CẢM ĐỘNG", "vi": "xúc động" },
+          { "w": "生き方", "r": "いきかた", "hv": "SINH PHƯƠNG", "vi": "cách sống" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "影響を与える, 印象を与える, 損害を与える – đều dùng 与える."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "この公園は市が<u>かんり</u>している。",
+      "options": ["管利", "管理", "官利", "官理"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Công viên này do thành phố quản lý.",
+        "why": "かんり viết là 管理 (QUẢN LÝ) = quản lý. 管 (ống, quản) + 理 (lý, xử lý).",
+        "options": [
+          "管利 → 利 là \"lợi\", không có từ này. Sai.",
+          "管理 → quản lý. ĐÚNG.",
+          "官利 → không có từ này. Sai.",
+          "官理 → 官 là \"quan\" (官僚), không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "管理", "r": "かんり", "hv": "QUẢN LÝ", "vi": "quản lý" },
+          { "w": "公園", "r": "こうえん", "hv": "CÔNG VIÊN", "vi": "công viên" },
+          { "w": "官庁", "r": "かんちょう", "hv": "QUAN SẢNH", "vi": "cơ quan nhà nước" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "管 có bộ trúc ⺮ (ống tre) → 管理, 血管. 官 không có ⺮ → 警官, 官庁."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "この国は<u>ふくし</u>が充実している。",
+      "options": ["福施", "副施", "副詞", "福祉"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đất nước này có phúc lợi xã hội đầy đủ.",
+        "why": "ふくし (phúc lợi) viết là 福祉 (PHÚC CHỈ). Cả hai chữ đều có bộ 礻 (thần, phúc).",
+        "options": [
+          "福施 → 施 là \"thi\" (実施), không có từ này. Sai.",
+          "副施 → không có từ này. Sai.",
+          "副詞 → ふくし: phó từ (ngữ pháp) – đồng âm nhưng sai nghĩa. Sai.",
+          "福祉 → phúc lợi. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "福祉", "r": "ふくし", "hv": "PHÚC CHỈ", "vi": "phúc lợi xã hội" },
+          { "w": "充実", "r": "じゅうじつ", "hv": "SUNG THỰC", "vi": "đầy đủ, phong phú" },
+          { "w": "副詞", "r": "ふくし", "hv": "PHÓ TỪ", "vi": "phó từ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy đồng âm: 福祉 (phúc lợi) vs 副詞 (phó từ). 社会福祉 = phúc lợi xã hội."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "テレビで外国語教育についての<u>とうろん</u>が行われた。",
+      "options": ["討論", "討諭", "投論", "投諭"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Trên TV đã diễn ra cuộc thảo luận về giáo dục ngoại ngữ.",
+        "why": "とうろん viết là 討論 (THẢO LUẬN) = tranh luận, thảo luận. 討 (thảo) + 論 (luận, bộ 言 + 侖).",
+        "options": [
+          "討論 → thảo luận. ĐÚNG.",
+          "討諭 → 諭 là \"dụ\" (khuyên bảo, 諭す さとす), không có từ này. Sai.",
+          "投論 → 投 là \"đầu\" (ném, 投げる), không có từ này. Sai.",
+          "投諭 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "討論", "r": "とうろん", "hv": "THẢO LUẬN", "vi": "thảo luận, tranh luận" },
+          { "w": "教育", "r": "きょういく", "hv": "GIÁO DỤC", "vi": "giáo dục" },
+          { "w": "検討", "r": "けんとう", "hv": "KIỂM THẢO", "vi": "xem xét, cân nhắc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "論 (luận) và 諭 (dụ) trông rất giống: 論 có 侖, 諭 có 兪. 討 có bộ 言 (lời nói), 投 có bộ 扌 (tay)."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "この二つの会社は、同じ企業グループに<u>ぞくして</u>いる。",
+      "options": ["続して", "属して", "族して", "束して"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hai công ty này thuộc cùng một tập đoàn doanh nghiệp.",
+        "why": "ぞくする viết là 属する (THUỘC) = thuộc về, trực thuộc.",
+        "options": [
+          "続して → 続 (TỤC, ぞく) chỉ có 続く/続ける, không có 続する. Sai.",
+          "属して → 属する: thuộc về. ĐÚNG.",
+          "族して → 族 (TỘC) là danh từ (家族), không dùng làm động từ. Sai.",
+          "束して → 束 (THÚC, そく) = bó; không có 束する. Sai."
+        ],
+        "vocab": [
+          { "w": "属する", "r": "ぞくする", "hv": "THUỘC", "vi": "thuộc về, trực thuộc" },
+          { "w": "企業", "r": "きぎょう", "hv": "XÍ NGHIỆP", "vi": "doanh nghiệp" },
+          { "w": "所属", "r": "しょぞく", "hv": "SỞ THUỘC", "vi": "trực thuộc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "所属・金属 (きんぞく)・付属 (ふぞく) đều dùng 属."
+      }
+    }
+  ]
+}

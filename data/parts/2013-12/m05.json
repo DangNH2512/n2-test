@@ -1,0 +1,137 @@
+{
+  "exam": "2013-12",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "荷物の重さは<u>およそ</u>５キロでした。",
+      "options": ["ぜんぶで", "ぴったり", "だいたい", "それぞれ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hành lý nặng khoảng 5 ký.",
+        "why": "およそ (凡そ) = khoảng, chừng, xấp xỉ ≈ だいたい.",
+        "options": [
+          "ぜんぶで → tổng cộng. Sai.",
+          "ぴったり → vừa đúng, chính xác; ngược nghĩa 'khoảng'. Sai.",
+          "だいたい → khoảng, đại khái. ĐÚNG.",
+          "それぞれ → mỗi cái, từng cái. Sai."
+        ],
+        "vocab": [
+          { "w": "およそ（凡そ）", "r": "およそ", "hv": "PHÀM", "vi": "khoảng, xấp xỉ" },
+          { "w": "だいたい", "r": "だいたい", "hv": "ĐẠI THỂ", "vi": "khoảng, đại khái" },
+          { "w": "荷物", "r": "にもつ", "hv": "HÀ VẬT", "vi": "hành lý" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhóm 'khoảng': およそ・約・ほぼ・だいたい・おおよそ."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "もう少し具体的な<u>プラン</u>を教えてほしい。",
+      "options": ["理由", "情報", "特徴", "計画"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi muốn anh cho biết kế hoạch cụ thể hơn một chút.",
+        "why": "プラン (plan) = kế hoạch ≈ 計画 (けいかく).",
+        "options": [
+          "理由 (りゆう) → lý do. Sai.",
+          "情報 (じょうほう) → thông tin. Sai.",
+          "特徴 (とくちょう) → đặc trưng. Sai.",
+          "計画 (けいかく) → kế hoạch. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "プラン", "r": "プラン", "hv": "", "vi": "kế hoạch (plan)" },
+          { "w": "計画", "r": "けいかく", "hv": "KẾ HOẠCH", "vi": "kế hoạch" },
+          { "w": "具体的", "r": "ぐたいてき", "hv": "CỤ THỂ ĐÍCH", "vi": "cụ thể" },
+          { "w": "特徴", "r": "とくちょう", "hv": "ĐẶC TRƯNG", "vi": "đặc trưng, đặc điểm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Từ ngoại lai hay ra ở 問題5: プラン=計画, アイデア=思いつき, キャンセル=取り消し, ミス=間違い."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "市の経済状況は<u>依然として</u>厳しいらしい。",
+      "options": ["相変わらず", "思ったとおり", "実際には", "これまでより"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tình hình kinh tế của thành phố có vẻ vẫn còn khó khăn như trước.",
+        "why": "依然として (いぜんとして – Y NHIÊN) = vẫn như cũ, vẫn chưa thay đổi ≈ 相変わらず (あいかわらず).",
+        "options": [
+          "相変わらず → vẫn như mọi khi, vẫn như cũ. ĐÚNG.",
+          "思ったとおり → đúng như đã nghĩ. Sai.",
+          "実際には → trên thực tế. Sai.",
+          "これまでより → hơn trước đây (có thay đổi); ngược nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "依然として", "r": "いぜんとして", "hv": "Y NHIÊN", "vi": "vẫn như cũ, vẫn còn" },
+          { "w": "相変わらず", "r": "あいかわらず", "hv": "TƯƠNG BIẾN", "vi": "vẫn như mọi khi" },
+          { "w": "経済状況", "r": "けいざいじょうきょう", "hv": "KINH TẾ TRẠNG HUỐNG", "vi": "tình hình kinh tế" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "依然 ≠ 以前 (いぜん – trước đây). 依然として = 'vẫn' – không đổi so với trước."
+      }
+    },
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "あのときは本当に<u>必死だった</u>。",
+      "options": ["危なかった", "一生懸命だった", "緊張した", "恐ろしかった"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Lúc đó tôi đã thật sự dốc hết sức (liều mạng).",
+        "why": "必死 (ひっし – TẤT TỬ) = dốc toàn lực, liều mạng ≈ 一生懸命 (いっしょうけんめい) = hết sức mình.",
+        "options": [
+          "危なかった → đã nguy hiểm. Sai.",
+          "一生懸命だった → đã cố gắng hết sức. ĐÚNG.",
+          "緊張した → đã căng thẳng, hồi hộp. Sai.",
+          "恐ろしかった → đã đáng sợ. Sai."
+        ],
+        "vocab": [
+          { "w": "必死", "r": "ひっし", "hv": "TẤT TỬ", "vi": "dốc toàn lực, liều mạng" },
+          { "w": "一生懸命", "r": "いっしょうけんめい", "hv": "NHẤT SINH HUYỀN MỆNH", "vi": "hết sức mình" },
+          { "w": "緊張", "r": "きんちょう", "hv": "KHẨN TRƯƠNG", "vi": "căng thẳng, hồi hộp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy: 必死 có chữ 死 nhưng không nghĩa là 'nguy hiểm/sợ chết', mà là 'cố gắng như liều mạng'."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "山の<u>ふもと</u>にきれいな湖があります。",
+      "options": ["山の向こう", "山の上のほう", "山の中間あたり", "山の下のほう"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Ở chân núi có một cái hồ đẹp.",
+        "why": "ふもと (麓) = chân núi, phần dưới của núi ≈ 山の下のほう.",
+        "options": [
+          "山の向こう → phía bên kia núi. Sai.",
+          "山の上のほう → phía trên núi (頂上・山頂). Sai.",
+          "山の中間あたり → khoảng lưng chừng núi (中腹). Sai.",
+          "山の下のほう → phía dưới núi = chân núi. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "麓", "r": "ふもと", "hv": "LỘC", "vi": "chân núi" },
+          { "w": "頂上", "r": "ちょうじょう", "hv": "ĐỈNH THƯỢNG", "vi": "đỉnh núi" },
+          { "w": "中腹", "r": "ちゅうふく", "hv": "TRUNG PHÚC", "vi": "lưng chừng núi" },
+          { "w": "湖", "r": "みずうみ", "hv": "HỒ", "vi": "hồ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Núi từ trên xuống: 頂上（山頂）→ 中腹 → ふもと."
+      }
+    }
+  ]
+}

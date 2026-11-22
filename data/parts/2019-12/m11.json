@@ -1,0 +1,286 @@
+{
+  "exam": "2019-12",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（１）から（３）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(3), chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "豊かな時代に育った<u>若い人たち</u>は、子供時代から学生を卒業するまで、「情の世界」の物差し（注1）を使って世の中を見る時代が続く。情の世界の物差しとは「好き」「嫌い」「感じる」「感じない」という物差しで、「イヤだったらやめる」ということが許される時代でもある。\nしかし社会に出ると、これはまったく許されない。社会や会社は「論理の世界」だからだ。「八時に始まる」というのであれば、一分遅れて来てもそれは許されない。なぜなら「論理の世界」では、その規則や約束をきちんと守っていかなければ、仕事が先に進まない。たとえば一台のクルマをつくるのに必要な部品は、数千あるいは数万個あるだろう。しかしたとえその一つでも納品の時間が守られなければ、クルマは完成しないのである。\n論理が先、情が後。\nその順番を間違えない人が、会社や組織においてスムーズに仕事を進めることのできる優れた人材といえるだろう。だから「情の世界」で過ごしてきた若い人たちは、自分たちがその世界を卒業して「論理の世界」に入ったのだということを自覚して（注2）ほしい。\nさらには、ぜひ次のことも知っておいてほしい。「好き」「嫌い」「感じる」「感じない」という感性の物差しだけで生きてしまうとすれば、決して人間的な向上を図る（注3）ことはできない。一方で理性を働かせ（注4）、「正しい」か「正しくない」か、さらには「正しいことをしよう」「いいことをしよう」という努力をしていく過程の中で、自己向上が図られていくのである。\n（注1）物差し：ここでは、評価の基準\n（注2）自覚する：意識する\n（注3）図る：ここでは、目指す\n（注4）理性を働かせる：ここでは、感情に左右されることなく思考する"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、幼児の心の発達について述べた文章である。\n\n2、3歳ごろになると、「自分でやりたい」という思いが強くなり、何に対しても「イヤ!」、「○○ちゃんがやるの!（注1）」というように、養育者（注2）に対する反抗が顕著（注3）になる（第一反抗期）。それまでは養育者の意図に従って行動していたのに対して、自我が芽生えて（注4）自分のやりたいことが生じ、養育者の意図とは異なる自分の意思を養育者に表明する（注5）ことで起こる。この時期には、だめなことはだめと伝えたり、ひととかかわる時にはルールがあることを根気強く教えていく必要がある。そのことにより、幼児は自分の気持ちをコントロールする力を身につける。\nこのころの幼児は、他者の立場に立ってものごとを考えることが難しく、自分の考えと相手の考えが同じであるととらえている。このとらえ方を<u>自己中心的思考</u>とよぶ。例えば、自分が楽しいときには、相手も同じように楽しいと感じているととらえていたり、自分の見た夢のことを相手も知っていると思っている状態である。（中略）\n目の前にない物やできごとを思い浮かべることを象徴的思考と言う。乳児（注6）期には、「目の前にないものは存在しない」という考え方をする。そのため、母親が乳児の目の前からいなくなると母親が存在しなくなったと思い、不安になって泣く。しかし、幼児期になり、象徴的思考ができるようになると、目の前に母親がいなくても、母親がこの世（注7）からいなくなったわけではないと考えられるようになるため不安を訴えて泣くことはなくなる。\n（注1）○○ちゃん：ここでは、自分\n（注2）養育者：ここでは、親など子供を育てる人\n（注3）顕著になる：ここでは、多く見られるようになる\n（注4）自我が芽生える：ここでは、自分の考えが生まれる\n（注5）表明する：はっきり表す\n（注6）乳児：1歳ごろまでの子供\n（注7）この世：現実の世界"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "未熟な（注1）人たちを育てることは、強い組織を創りあげる鉄則（注2）である。短期的な成果ばかりに目が行く上司は、能力の高い特定の人間だけを重用し（注3）、能力が低い人間には目が行かない。出来る人間は仕事が速く確かだし、任せていれば安心で自分がラクなのである。\n一方、能力の低い部下は、細かく指示を出さなければならず、仕事は遅いし失敗することも多い。何かあったときに責任を問われるのは、上司である自分だ。できればそうした「落ちこぼれ」は、早く別の部署に異動させて（注4）、代わって優秀な社員を獲得したいだろう。\nしかし、<u>それ</u>では強い組織は出来上がらない。なぜなら、よくできる社員はすでによくがんばっているので、いま以上の伸びしろ（注5）はそれほど大きくないからだ。\n上司が重点的に気をかけなければいけないのは、少し遅れ気味の部下、外れ者の部下、苦労している部下である。そういう部下は、手間はかかるかもしれないが、少し手を差し伸べれば、2～3割は容易に伸びる。そうすることで組織を構成するメンバー全体の力を伸ばし、組織の底上げ（注6）ができる。結果として、与えられた業務目標を、組織として達成することができるのである。これぞ上司の本懐（注7）である。\n組織の中で大きく伸びていく人材の多くは、新入社員時代にどんな部署の誰が上司であったかということが大きく影響するといわれる。まだ仕事というものがよくわかっていないとき「会社というのは…」「仕事とはこうするのだ」と的確に教えてもらえたかどうかが、その人の仕事人生を大きく左右するということだ。\n（注1）未熟な：能力や経験が不十分な\n（注2）鉄則：ここでは、絶対に必要なこと\n（注3）～を重用する：～に重要な役割を与える\n（注4）別の部署に異動させる：別の部に移す\n（注5）伸びしろ：伸びる可能性\n（注6）底上げ：全体のレベルを高めること\n（注7）本懐：一番の願い"
+    }
+  ],
+  "questions": [
+    {
+      "num": 58,
+      "passage": "p1",
+      "stem": "まだ社会に出ていない<u>若い人たち</u>について、筆者はどのように述べているか。",
+      "options": [
+        "物事を感性で判断する。",
+        "世の中のことを見ようとしない。",
+        "感情的に行動することは少ない。",
+        "「好き」「嫌い」の基準が明確だ。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về những người trẻ chưa bước ra xã hội, tác giả nói thế nào? → Họ phán đoán sự việc bằng cảm tính.",
+        "why": "Người trẻ nhìn đời bằng thước đo của 'thế giới tình cảm' = thích/ghét, cảm thấy/không cảm thấy → tức là đánh giá bằng cảm tính (感性).",
+        "options": [
+          "Phán đoán bằng cảm tính (thước đo thích/ghét). ĐÚNG.",
+          "Họ vẫn nhìn đời, chỉ là bằng thước đo tình cảm. Sai.",
+          "Ngược lại: được phép 'ghét thì bỏ' → hành động theo cảm xúc. Sai.",
+          "Bài không nói tiêu chuẩn thích/ghét của họ rõ ràng. Sai."
+        ],
+        "vocab": [
+          { "w": "物差し", "r": "ものさし", "hv": "VẬT SAI", "vi": "thước đo, tiêu chuẩn đánh giá" },
+          { "w": "感性", "r": "かんせい", "hv": "CẢM TÍNH", "vi": "cảm tính, cảm nhận" },
+          { "w": "情", "r": "じょう", "hv": "TÌNH", "vi": "tình cảm" }
+        ],
+        "grammar": null,
+        "evidence": "「情の世界」の物差しを使って世の中を見る時代が続く。情の世界の物差しとは「好き」「嫌い」「感じる」「感じない」という物差しで…",
+        "tip": "Đoạn cuối gọi thẳng là '感性の物差し' → khớp với 感性 trong đáp án 1."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p1",
+      "stem": "筆者によると、人は社会に出たらどうしなければならないか。",
+      "options": [
+        "自分以外の人の感情を尊重する。",
+        "規則や約束を守ることを優先する。",
+        "優先するべきことを自分で考える。",
+        "感情を捨てて会社や組織のために働く。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo tác giả, khi ra xã hội con người phải làm gì? → Ưu tiên việc tuân thủ quy tắc và lời hứa.",
+        "why": "Xã hội là 'thế giới logic': phải giữ đúng quy tắc, lời hứa (đến trễ 1 phút cũng không được). '論理が先、情が後' = logic trước, tình cảm sau → ưu tiên quy tắc.",
+        "options": [
+          "Bài không bàn về tôn trọng cảm xúc người khác. Sai.",
+          "Ưu tiên giữ quy tắc, lời hứa (logic trước tình sau). ĐÚNG.",
+          "Thứ tự ưu tiên đã được nêu rõ (論理が先), không phải tự nghĩ. Sai.",
+          "Không bảo vứt bỏ cảm xúc, chỉ là đặt tình cảm sau. Sai."
+        ],
+        "vocab": [
+          { "w": "論理", "r": "ろんり", "hv": "LUẬN LÝ", "vi": "logic, lý lẽ" },
+          { "w": "規則", "r": "きそく", "hv": "QUY TẮC", "vi": "quy tắc" },
+          { "w": "納品", "r": "のうひん", "hv": "NẠP PHẨM", "vi": "giao hàng" },
+          { "w": "優先", "r": "ゆうせん", "hv": "ƯU TIÊN", "vi": "ưu tiên" }
+        ],
+        "grammar": null,
+        "evidence": "「論理の世界」では、その規則や約束をきちんと守っていかなければ、仕事が先に進まない。…論理が先、情が後。",
+        "tip": "Bẫy 4: '捨てて' quá cực đoan — tác giả chỉ nói 情が後 (tình cảm đặt sau)."
+      }
+    },
+    {
+      "num": 60,
+      "passage": "p1",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "人間的な向上を目指すには、正しいことだけをしていけばいい。",
+        "自身の感情を抑えられるようになれば、人間的に向上したといえる。",
+        "正しさを基準に行動しようとしていくことが、人間的な向上につながる。",
+        "「好き」「嫌い」「感じる」「感じない」という感性は、人間的な向上を妨げる。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Việc cố gắng hành động dựa trên tiêu chuẩn đúng/sai sẽ dẫn đến sự tiến bộ về mặt con người.",
+        "why": "Đoạn cuối: dùng lý trí, phân biệt đúng/sai, nỗ lực 'làm điều đúng, điều tốt' → trong quá trình đó con người tự hoàn thiện.",
+        "options": [
+          "Tác giả nhấn mạnh 'quá trình nỗ lực', không nói 'chỉ cần làm điều đúng là đủ'. Sai.",
+          "Không nói kìm nén cảm xúc là đã tiến bộ. Sai.",
+          "Cố gắng hành động theo tiêu chuẩn đúng/sai → tiến bộ. ĐÚNG.",
+          "Tác giả nói 'chỉ sống bằng' cảm tính thì không tiến bộ; không nói bản thân cảm tính cản trở. Sai."
+        ],
+        "vocab": [
+          { "w": "向上", "r": "こうじょう", "hv": "HƯỚNG THƯỢNG", "vi": "tiến bộ, nâng cao" },
+          { "w": "理性", "r": "りせい", "hv": "LÝ TÍNH", "vi": "lý trí" },
+          { "w": "過程", "r": "かてい", "hv": "QUÁ TRÌNH", "vi": "quá trình" }
+        ],
+        "grammar": {
+          "pattern": "～とすれば",
+          "meaning": "nếu giả sử ~",
+          "form": "[thể thường]＋とすれば",
+          "example": "感性だけで生きてしまうとすれば、向上は図れない。"
+        },
+        "evidence": "理性を働かせ、「正しい」か「正しくない」か、さらには「正しいことをしよう」「いいことをしよう」という努力をしていく過程の中で、自己向上が図られていくのである。",
+        "tip": "Chú ý chữ だけ trong bài (感性の物差しだけで) — đáp án 4 bỏ mất だけ nên sai."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p2",
+      "stem": "筆者によると、2、3歳の幼児が親などに反抗するようになるのはなぜか。",
+      "options": [
+        "相手とは異なる自分の意思を持ち、それを伝えようとするから",
+        "相手の意図はすべて受け入れたくないと思うから",
+        "自分のやりたいことがあるのに、それを伝えられないから",
+        "自分とは異なる相手の意図が理解できないから"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, vì sao trẻ 2–3 tuổi bắt đầu chống đối cha mẹ? → Vì trẻ có ý muốn riêng khác với người lớn và muốn truyền đạt điều đó.",
+        "why": "Cái tôi nảy mầm → có điều mình muốn làm → bày tỏ ý muốn khác với ý định của người nuôi dạy → sinh ra chống đối.",
+        "options": [
+          "Có ý muốn riêng khác người lớn và muốn bày tỏ. ĐÚNG.",
+          "'すべて受け入れたくない' quá tuyệt đối, bài không nói. Sai.",
+          "Trẻ có bày tỏ (表明する), không phải 'không truyền đạt được'. Sai.",
+          "Bài không nói chống đối vì không hiểu ý người lớn. Sai."
+        ],
+        "vocab": [
+          { "w": "反抗", "r": "はんこう", "hv": "PHẢN KHÁNG", "vi": "chống đối" },
+          { "w": "養育者", "r": "よういくしゃ", "hv": "DƯỠNG DỤC GIẢ", "vi": "người nuôi dạy" },
+          { "w": "自我", "r": "じが", "hv": "TỰ NGÃ", "vi": "cái tôi" },
+          { "w": "表明", "r": "ひょうめい", "hv": "BIỂU MINH", "vi": "bày tỏ, biểu lộ" }
+        ],
+        "grammar": {
+          "pattern": "～のに対して",
+          "meaning": "trái với ~, trong khi ~",
+          "form": "[thể thường]＋のに対して",
+          "example": "兄は活発なのに対して、弟はおとなしい。"
+        },
+        "evidence": "自我が芽生えて自分のやりたいことが生じ、養育者の意図とは異なる自分の意思を養育者に表明することで起こる。",
+        "tip": "Đáp án đúng thường diễn đạt lại (paraphrase): 表明する → 伝えようとする."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p2",
+      "stem": "<u>自己中心的思考</u>とはどのようなものか。",
+      "options": [
+        "相手が自分の気持ちに合わせるべきだと思う。",
+        "相手も自分と同じ考えだと思う。",
+        "自分といれば相手はいつも楽しいと感じると思う。",
+        "自分はあらゆるものごとを知っていると思う。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "'Tư duy tự kỷ trung tâm' là gì? → Nghĩ rằng người khác cũng có suy nghĩ giống mình.",
+        "why": "Bài định nghĩa: trẻ coi suy nghĩ của mình và của người khác là giống nhau → gọi là 自己中心的思考.",
+        "options": [
+          "Không phải 'người khác phải chiều theo mình'. Sai.",
+          "Nghĩ người khác cũng có cùng suy nghĩ với mình. ĐÚNG.",
+          "Ví dụ trong bài là 'khi mình vui thì nghĩ người khác cũng vui', không phải 'ở cạnh mình thì luôn vui'. Sai.",
+          "Không nói trẻ nghĩ mình biết mọi thứ (chỉ nghĩ người khác biết giấc mơ của mình). Sai."
+        ],
+        "vocab": [
+          { "w": "自己中心的", "r": "じこちゅうしんてき", "hv": "TỰ KỶ TRUNG TÂM ĐÍCH", "vi": "lấy bản thân làm trung tâm" },
+          { "w": "他者", "r": "たしゃ", "hv": "THA GIẢ", "vi": "người khác" },
+          { "w": "とらえる", "r": "とらえる", "hv": "", "vi": "nắm bắt, nhìn nhận" }
+        ],
+        "grammar": null,
+        "evidence": "自分の考えと相手の考えが同じであるととらえている。このとらえ方を自己中心的思考とよぶ。",
+        "tip": "Câu định nghĩa nằm ngay trước 'このとらえ方を〜とよぶ'."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p2",
+      "stem": "筆者によると、幼児が象徴的思考を身につけるとどうなるか。",
+      "options": [
+        "目の前に存在していなくても、存在していると分かる。",
+        "目の前にないものは、存在しないと考えるようになる。",
+        "母親以外の存在も理解できるようになる。",
+        "ものごとに不安を感じることがなくなる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, khi trẻ có được tư duy biểu tượng thì sẽ thế nào? → Hiểu được rằng dù không ở trước mắt thì vẫn tồn tại.",
+        "why": "Khi có tư duy biểu tượng, dù mẹ không ở trước mắt, trẻ vẫn nghĩ được rằng mẹ không biến mất khỏi thế giới → hiểu vật vẫn tồn tại dù không nhìn thấy.",
+        "options": [
+          "Dù không ở trước mắt vẫn hiểu là tồn tại. ĐÚNG.",
+          "Đây là cách nghĩ của giai đoạn sơ sinh (乳児期), ngược lại. Sai.",
+          "Bài không nói về hiểu sự tồn tại của người khác ngoài mẹ. Sai.",
+          "Chỉ hết khóc vì bất an khi mẹ vắng mặt, không phải hết bất an với mọi việc. Sai."
+        ],
+        "vocab": [
+          { "w": "象徴的思考", "r": "しょうちょうてきしこう", "hv": "TƯỢNG TRƯNG ĐÍCH TƯ KHẢO", "vi": "tư duy biểu tượng" },
+          { "w": "乳児", "r": "にゅうじ", "hv": "NHŨ NHI", "vi": "trẻ sơ sinh (dưới 1 tuổi)" },
+          { "w": "存在", "r": "そんざい", "hv": "TỒN TẠI", "vi": "tồn tại" },
+          { "w": "思い浮かべる", "r": "おもいうかべる", "hv": "TƯ PHÙ", "vi": "hình dung ra" }
+        ],
+        "grammar": {
+          "pattern": "～わけではない",
+          "meaning": "không có nghĩa là ~",
+          "form": "[thể thường]＋わけではない",
+          "example": "嫌いなわけではないが、あまり食べない。"
+        },
+        "evidence": "象徴的思考ができるようになると、目の前に母親がいなくても、母親がこの世からいなくなったわけではないと考えられるようになる",
+        "tip": "Bẫy 4: phạm vi quá rộng (ものごとに不安を感じることがなくなる)."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p3",
+      "stem": "<u>それ</u>とはどういうことか。",
+      "options": [
+        "能力の低い部下にも責任のある仕事を任せること",
+        "能力の低い部下には能力に合った仕事を与えること",
+        "能力の高い部下にも細かく指示を出すこと",
+        "能力が高い部下だけを使って成果を上げようとすること"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "'それ' là chỉ điều gì? → Chỉ dùng cấp dưới năng lực cao để đạt thành tích.",
+        "why": "それ chỉ cách làm của cấp trên chỉ chăm chăm vào thành tích ngắn hạn: chỉ trọng dụng người giỏi, chuyển 'kẻ tụt hậu' đi nơi khác và thay bằng nhân viên ưu tú.",
+        "options": [
+          "Ngược với điều được mô tả trước それ. Sai.",
+          "Bài không nhắc 'giao việc hợp năng lực'. Sai.",
+          "Người giỏi được giao phó yên tâm, không cần chỉ thị chi tiết. Sai.",
+          "Chỉ dùng người giỏi để đạt thành tích. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "重用", "r": "じゅうよう", "hv": "TRỌNG DỤNG", "vi": "trọng dụng" },
+          { "w": "落ちこぼれ", "r": "おちこぼれ", "hv": "LẠC", "vi": "người tụt hậu, kém" },
+          { "w": "異動", "r": "いどう", "hv": "DỊ ĐỘNG", "vi": "điều chuyển (bộ phận)" },
+          { "w": "獲得", "r": "かくとく", "hv": "HOẠCH ĐẮC", "vi": "giành được, thu được" }
+        ],
+        "grammar": null,
+        "evidence": "短期的な成果ばかりに目が行く上司は、能力の高い特定の人間だけを重用し、能力が低い人間には目が行かない。…できればそうした「落ちこぼれ」は、早く別の部署に異動させて、代わって優秀な社員を獲得したいだろう。",
+        "tip": "Chỉ thị từ それ → tìm nội dung ngay đoạn trước; lý do phía sau (伸びしろ của người giỏi không lớn) xác nhận."
+      }
+    },
+    {
+      "num": 65,
+      "passage": "p3",
+      "stem": "組織を強くしていくために、上司はどうしなければならないか。",
+      "options": [
+        "目標を高く設定し、メンバー全体で協力させる。",
+        "能力の低い部下を適切に指導し、組織全体の力を伸ばす。",
+        "部下がまだ仕事がよくわからないときでも、まずは仕事をやらせてみる。",
+        "仕事ができる部下にもそうでない部下にも、能力を伸ばすように指導する。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Để làm tổ chức mạnh lên, cấp trên phải làm gì? → Hướng dẫn phù hợp cho cấp dưới năng lực thấp để nâng sức mạnh toàn tổ chức.",
+        "why": "Cấp trên phải tập trung quan tâm tới cấp dưới hơi chậm, gặp khó khăn; giúp một chút là họ tiến bộ 20–30% → nâng sức mạnh toàn bộ thành viên, 'nâng nền' tổ chức.",
+        "options": [
+          "Bài không nói đặt mục tiêu cao. Sai.",
+          "Hướng dẫn cấp dưới yếu → nâng sức mạnh toàn tổ chức. ĐÚNG.",
+          "Ngược lại: cần dạy kỹ lúc chưa hiểu việc ('仕事とはこうするのだ'). Sai.",
+          "Trọng tâm là cấp dưới yếu (重点的に), người giỏi 伸びしろ không lớn. Sai."
+        ],
+        "vocab": [
+          { "w": "重点的", "r": "じゅうてんてき", "hv": "TRỌNG ĐIỂM ĐÍCH", "vi": "một cách trọng điểm" },
+          { "w": "手を差し伸べる", "r": "てをさしのべる", "hv": "THỦ SAI THÂN", "vi": "chìa tay giúp đỡ" },
+          { "w": "底上げ", "r": "そこあげ", "hv": "ĐỂ THƯỢNG", "vi": "nâng mặt bằng chung" },
+          { "w": "伸びしろ", "r": "のびしろ", "hv": "THÂN", "vi": "khả năng phát triển thêm" }
+        ],
+        "grammar": null,
+        "evidence": "上司が重点的に気をかけなければいけないのは、少し遅れ気味の部下、外れ者の部下、苦労している部下である。…そうすることで組織を構成するメンバー全体の力を伸ばし、組織の底上げができる。",
+        "tip": "Từ khóa câu hỏi 'しなければならない' ↔ bài '気をかけなければいけない'."
+      }
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "exam": "2025-12",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp 4 vế cho đúng thứ tự và chọn vế nằm ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "ちょっと＿＿＿ ＿＿＿ ＿★＿ ＿＿＿好みのTシャツを見つけてしまい、つい買ってしまった。",
+      "options": ["だけの", "つもりで", "服屋に入ったら", "見る"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi vào cửa hàng quần áo với ý định chỉ xem một chút thôi, vậy mà lại tìm thấy chiếc áo phông đúng sở thích nên lỡ mua luôn.",
+        "why": "Thứ tự đúng: ちょっと［4 見る］［1 だけの］［2 つもりで★］［3 服屋に入ったら］好みの… Cấu trúc V だけのつもりで = với ý định chỉ V thôi. ★ ở vị trí 3 → つもりで.",
+        "options": [
+          "だけの → vị trí 2 (見るだけの). Không phải ★.",
+          "つもりで → vị trí 3, ★. ĐÚNG.",
+          "服屋に入ったら → vị trí 4, nối với 好みのTシャツを見つけてしまい. Không phải ★.",
+          "見る → vị trí 1, sau ちょっと. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "好み", "r": "このみ", "hv": "HẢO", "vi": "sở thích, gu" },
+          { "w": "つい", "r": "つい", "hv": "", "vi": "lỡ, bất giác" },
+          { "w": "服屋", "r": "ふくや", "hv": "PHỤC ỐC", "vi": "cửa hàng quần áo" }
+        ],
+        "grammar": {
+          "pattern": "～だけのつもりで",
+          "meaning": "với ý định chỉ ~ thôi",
+          "form": "V辞書形＋だけのつもりで",
+          "example": "一杯だけのつもりで飲みに行ったが、結局朝まで飲んでしまった。"
+        },
+        "evidence": null,
+        "tip": "～たら + kết quả bất ngờ (見つけてしまい) → 服屋に入ったら đứng cuối, ngay trước 好みの."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "兄は最近ずっと「歯が痛くて眠れない」と言っているけれど、歯医者には行こうとしない。そんなに＿＿＿ ＿＿＿ ＿★＿ ＿＿＿。",
+      "options": ["痛い", "早く行けばいい", "のに", "んだったら"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh trai tôi dạo này cứ than \"đau răng không ngủ được\" nhưng lại không chịu đi nha sĩ. Nếu đau đến thế thì đi sớm có phải tốt không.",
+        "why": "Thứ tự đúng: そんなに［1 痛い］［4 んだったら］［2 早く行けばいい★］［3 のに］。 ～んだったら = nếu (thật sự) ~ thì; ～ばいいのに = giá mà ~ thì tốt (chê trách nhẹ). ★ ở vị trí 3 → 早く行けばいい.",
+        "options": [
+          "痛い → vị trí 1 (そんなに痛い). Không phải ★.",
+          "早く行けばいい → vị trí 3, ★. ĐÚNG.",
+          "のに → vị trí 4, cuối câu (～ばいいのに). Không phải ★.",
+          "んだったら → vị trí 2 (痛いんだったら). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "歯医者", "r": "はいしゃ", "hv": "XỈ Y GIẢ", "vi": "nha sĩ" },
+          { "w": "眠る", "r": "ねむる", "hv": "MIÊN", "vi": "ngủ" }
+        ],
+        "grammar": {
+          "pattern": "～ばいいのに",
+          "meaning": "giá mà ~ thì tốt (tiếc nuối, trách nhẹ)",
+          "form": "Vば＋いいのに",
+          "example": "そんなに眠いなら、早く寝ればいいのに。"
+        },
+        "evidence": null,
+        "tip": "のに ở cuối câu biểu thị bất mãn → luôn đứng cuối cùng."
+      }
+    },
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "「ABCチーズ」はチーズ料理の専門店で、私のような＿＿＿ ＿＿＿ ＿★＿ ＿＿＿店だ。",
+      "options": ["人に", "好きでたまらないという", "チーズが", "ぜひおすすめしたい"],
+      "answer": 1,
+      "explanation": {
+        "translation": "\"ABC Cheese\" là nhà hàng chuyên món phô mai, là quán mà tôi rất muốn giới thiệu cho những người mê phô mai không chịu nổi như tôi.",
+        "why": "Thứ tự đúng: 私のような［3 チーズが］［2 好きでたまらないという］［1 人に★］［4 ぜひおすすめしたい］店だ。 \"Người như tôi, mê phô mai không chịu nổi\" → nhận giới thiệu (人におすすめしたい) → bổ nghĩa 店. ★ ở vị trí 3 → 人に.",
+        "options": [
+          "人に → vị trí 3, ★. ĐÚNG.",
+          "好きでたまらないという → vị trí 2, bổ nghĩa cho 人. Không phải ★.",
+          "チーズが → vị trí 1 (チーズが好き). Không phải ★.",
+          "ぜひおすすめしたい → vị trí 4, bổ nghĩa cho 店. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "専門店", "r": "せんもんてん", "hv": "CHUYÊN MÔN ĐIẾM", "vi": "cửa hàng chuyên" },
+          { "w": "おすすめする", "r": "おすすめする", "hv": "", "vi": "giới thiệu, gợi ý" }
+        ],
+        "grammar": {
+          "pattern": "～てたまらない",
+          "meaning": "~ không chịu nổi, cực kỳ ~",
+          "form": "Aくて／Naで＋たまらない",
+          "example": "試験の結果が心配でたまらない。"
+        },
+        "evidence": null,
+        "tip": "私のような + N (người) → cần danh từ 人 ngay sau mệnh đề bổ nghĩa; 店 ở cuối cần mệnh đề ぜひおすすめしたい."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "親友の花子に初めて会ったとき、初対面とは思えない＿＿＿ ＿＿＿ ＿★＿ ＿＿＿。",
+      "options": ["よく覚えている", "ぐらい", "のを", "話が盛り上がった"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi vẫn nhớ rõ lần đầu gặp người bạn thân Hanako, chúng tôi đã nói chuyện rôm rả đến mức không thể nghĩ là lần đầu gặp mặt.",
+        "why": "Thứ tự đúng: 初対面とは思えない［2 ぐらい］［4 話が盛り上がった］［3 のを★］［1 よく覚えている］。 ～ぐらい = đến mức ~; mệnh đề + のを覚えている = nhớ việc ~. ★ ở vị trí 3 → のを.",
+        "options": [
+          "よく覚えている → vị trí 4, cuối câu. Không phải ★.",
+          "ぐらい → vị trí 1 (思えないぐらい). Không phải ★.",
+          "のを → vị trí 3, ★. ĐÚNG.",
+          "話が盛り上がった → vị trí 2 (ぐらい話が盛り上がった). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "親友", "r": "しんゆう", "hv": "THÂN HỮU", "vi": "bạn thân" },
+          { "w": "初対面", "r": "しょたいめん", "hv": "SƠ ĐỐI DIỆN", "vi": "lần đầu gặp mặt" },
+          { "w": "盛り上がる", "r": "もりあがる", "hv": "THỊNH THƯỢNG", "vi": "sôi nổi, rôm rả" }
+        ],
+        "grammar": {
+          "pattern": "～ぐらい（程度）／～のを覚えている",
+          "meaning": "đến mức ~ ／ nhớ việc ~",
+          "form": "V普通形＋ぐらい；普通形＋のを＋覚えている",
+          "example": "子供のころ、泣きたいぐらい怖い思いをしたのを覚えている。"
+        },
+        "evidence": null,
+        "tip": "覚えている cần tân ngữ ～のを → のを đứng ngay trước よく覚えている."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "学生のころ、様々な国を旅行して、自分の＿＿＿ ＿＿＿ ＿★＿ ＿＿＿、世界には多様な考え方があることを知った。",
+      "options": ["出会えない", "交流したことで", "国にいては", "様々な文化や価値観を持つ人と"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hồi sinh viên, tôi đi du lịch nhiều nước, và nhờ giao lưu với những người có nền văn hóa, giá trị quan đa dạng mà nếu cứ ở trong nước mình thì không thể gặp được, tôi đã biết rằng thế giới có nhiều cách nghĩ khác nhau.",
+        "why": "Thứ tự đúng: 自分の［3 国にいては］［1 出会えない］［4 様々な文化や価値観を持つ人と★］［2 交流したことで］、… ～ては + phủ định = nếu cứ ~ thì không thể. 出会えない bổ nghĩa cho 人; 人と交流した. ★ ở vị trí 3 → 4.",
+        "options": [
+          "出会えない → vị trí 2, bổ nghĩa cho 人. Không phải ★.",
+          "交流したことで → vị trí 4, trước dấu phẩy. Không phải ★.",
+          "国にいては → vị trí 1 (自分の国にいては). Không phải ★.",
+          "様々な文化や価値観を持つ人と → vị trí 3, ★. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "価値観", "r": "かちかん", "hv": "GIÁ TRỊ QUAN", "vi": "giá trị quan, quan niệm giá trị" },
+          { "w": "交流", "r": "こうりゅう", "hv": "GIAO LƯU", "vi": "giao lưu" },
+          { "w": "多様", "r": "たよう", "hv": "ĐA DẠNG", "vi": "đa dạng" }
+        ],
+        "grammar": {
+          "pattern": "～ては（＋phủ định）",
+          "meaning": "nếu cứ ~ thì (không thể / kết quả xấu)",
+          "form": "Vて＋は",
+          "example": "そんなに休んでばかりいては、試験に合格できないよ。"
+        },
+        "evidence": null,
+        "tip": "自分の + N → 国にいては đứng đầu; ～ことで (nhờ việc) đứng trước dấu phẩy."
+      }
+    }
+  ]
+}

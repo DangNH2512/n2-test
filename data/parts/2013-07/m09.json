@@ -1,0 +1,155 @@
+{
+  "exam": "2013-07",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、（50）から（54）の中に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án thích hợp nhất cho các chỗ trống (50)–(54).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "日本における米食の変化",
+      "text": "以下は、留学生が日本事情について書いた文章である。\n\n日本における米食の変化\nヨハンソン ダグ\n\n日本食というと米の印象が強く、私は、日本人は米を一日三食食べていると思っていた。ところが日本に来てみると、（50）ので驚いた。\nある調査によると、1960年の日本の米の消費量は一人当たり年間約120キロだったが、2010年は約60キロだったという。この50年で米の消費量が半減したわけだ。けれども、50年で一日の食事の回数や総量が半減する（51）。では、どのような事情で米の消費量が半減したのか。\nそれにはいくつか（52）があるようだ。その中で私が取り上げたいのは、食の多様化だ。1965年ごろから日本では様々な食物を輸入するようになり、米以外にパンなどを主食としてよく食べるようになった。また、1960年から2010年の50年で、肉の消費量は約5倍に、乳製品は約4倍に増えた。こうした変化の中で、相対的に米の消費量が減少したのだろう。\n食の多様化自体は、食卓が豊かになるのだし悪いことではない。（53）、食の多様化に伴う問題も起きているようだ。日本では昔から米や野菜がよく食べられてきたため、日本人の体はそれらの消化に適しており、肉や乳製品の消化が苦手だという。食の変化によって病気になる人も増えているそうだ。日本人が守ってきた伝統的な食文化は、日本人の健康を支えていたのだ。\n私の国の食文化も私たちの健康を支えてくれていたのだろうか。日本に来て、その土地に生きる人と食文化とのつながりについて（54）。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["これではなかった", "それではなかった", "そうではなかった", "こうでもなかった"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Thế nhưng khi đến Nhật, tôi ngạc nhiên vì không phải như vậy.",
+        "why": "Cần từ chỉ lại toàn bộ nhận định phía trước (日本人は米を一日三食食べている). そう thay cho cả mệnh đề/tình trạng đã nói → そうではなかった = thực tế không phải như thế.",
+        "options": [
+          "これではなかった → これ chỉ vật cụ thể ở gần; không thay cho cả nhận định. Sai.",
+          "それではなかった → それ chỉ vật/danh từ; 'không phải cái đó' không hợp. Sai.",
+          "そうではなかった → không phải như vậy (phủ định nhận định trước). ĐÚNG.",
+          "こうでもなかった → こう chỉ điều sắp nói; も không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "印象", "r": "いんしょう", "hv": "ẤN TƯỢNG", "vi": "ấn tượng" },
+          { "w": "ところが", "r": "ところが", "hv": "", "vi": "thế nhưng (trái với mong đợi)" }
+        ],
+        "grammar": {
+          "pattern": "そうではない",
+          "meaning": "không phải như vậy (phủ định nội dung vừa nêu)",
+          "form": "そう（＝前の内容）＋ではない",
+          "example": "簡単だと思ったが、そうではなかった。(Tưởng dễ nhưng không phải vậy.)"
+        },
+        "evidence": "日本食というと米の印象が強く、私は、日本人は米を一日三食食べていると思っていた。ところが日本に来てみると、（50）ので驚いた。",
+        "tip": "Thay thế cả mệnh đề/tình trạng → dùng そう; thay danh từ cụ thể → それ."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["とは思えない", "としか思えない", "とも思われる", "とさえ思う"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tuy nhiên, khó có thể nghĩ rằng trong 50 năm số bữa ăn hay tổng lượng ăn mỗi ngày lại giảm một nửa.",
+        "why": "けれども báo hiệu ý trái với 'lượng gạo giảm một nửa'; câu sau hỏi 'vậy vì sao lượng gạo giảm?' → tác giả cho rằng số bữa ăn không thể giảm một nửa → とは思えない.",
+        "options": [
+          "とは思えない → không thể nghĩ là... ĐÚNG.",
+          "としか思えない → chỉ có thể nghĩ là...; ngược logic. Sai.",
+          "とも思われる → cũng có thể nghĩ là...; không hợp với けれども và câu hỏi sau. Sai.",
+          "とさえ思う → thậm chí nghĩ là...; ngược ý. Sai."
+        ],
+        "vocab": [
+          { "w": "消費量", "r": "しょうひりょう", "hv": "TIÊU PHÍ LƯỢNG", "vi": "lượng tiêu thụ" },
+          { "w": "半減", "r": "はんげん", "hv": "BÁN GIẢM", "vi": "giảm một nửa" },
+          { "w": "総量", "r": "そうりょう", "hv": "TỔNG LƯỢNG", "vi": "tổng lượng" }
+        ],
+        "grammar": {
+          "pattern": "～とは思えない",
+          "meaning": "khó mà nghĩ rằng, không thể cho rằng",
+          "form": "普通形＋とは思えない",
+          "example": "彼が嘘をついたとは思えない。(Khó mà nghĩ anh ấy nói dối.)"
+        },
+        "evidence": "けれども、50年で一日の食事の回数や総量が半減する（51）。では、どのような事情で米の消費量が半減したのか。",
+        "tip": null
+      }
+    },
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "（52）に入るもの",
+      "options": ["条件", "証拠", "基礎", "理由"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Có vẻ có một vài lý do cho điều đó.",
+        "why": "Câu trước hỏi どのような事情で (vì hoàn cảnh nào) → câu này trả lời: có vài 理由 (lý do), rồi nêu một lý do là 食の多様化.",
+        "options": [
+          "条件 → じょうけん: điều kiện. Sai.",
+          "証拠 → しょうこ: bằng chứng. Sai.",
+          "基礎 → きそ: nền tảng. Sai.",
+          "理由 → lý do. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "理由", "r": "りゆう", "hv": "LÝ DO", "vi": "lý do" },
+          { "w": "事情", "r": "じじょう", "hv": "SỰ TÌNH", "vi": "hoàn cảnh, tình hình" },
+          { "w": "多様化", "r": "たようか", "hv": "ĐA DẠNG HÓA", "vi": "đa dạng hóa" }
+        ],
+        "grammar": null,
+        "evidence": "では、どのような事情で米の消費量が半減したのか。それにはいくつか（52）があるようだ。その中で私が取り上げたいのは、食の多様化だ。",
+        "tip": null
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p1",
+      "stem": "（53）に入るもの",
+      "options": ["例えば", "そのうえ", "だが", "そこで"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Bản thân việc đa dạng hóa thực phẩm làm bữa ăn phong phú nên không phải điều xấu. Nhưng có vẻ cũng đang nảy sinh những vấn đề đi kèm sự đa dạng hóa đó.",
+        "why": "Câu trước: đa dạng hóa 'không xấu'; câu sau: 'nảy sinh vấn đề' → quan hệ trái ngược → だが (nhưng).",
+        "options": [
+          "例えば → ví dụ; câu sau không phải ví dụ. Sai.",
+          "そのうえ → hơn nữa (bổ sung cùng chiều). Sai.",
+          "だが → nhưng (đối lập). ĐÚNG.",
+          "そこで → vì thế, do đó (dẫn đến hành động). Sai."
+        ],
+        "vocab": [
+          { "w": "食卓", "r": "しょくたく", "hv": "THỰC TRÁC", "vi": "bàn ăn, bữa ăn" },
+          { "w": "伴う", "r": "ともなう", "hv": "BẠN", "vi": "đi kèm, kéo theo" },
+          { "w": "消化", "r": "しょうか", "hv": "TIÊU HÓA", "vi": "tiêu hóa" }
+        ],
+        "grammar": null,
+        "evidence": "食の多様化自体は、食卓が豊かになるのだし悪いことではない。（53）、食の多様化に伴う問題も起きているようだ。",
+        "tip": "～自体は…悪いことではない → câu sau thường đảo chiều bằng だが/しかし."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p1",
+      "stem": "（54）に入るもの",
+      "options": ["考えたのだろう", "考えさせられた", "考えさせていたのだろう", "考えられていた"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Đến Nhật, tôi đã bị thôi thúc phải suy nghĩ về mối liên hệ giữa con người sống ở mảnh đất đó với văn hóa ẩm thực.",
+        "why": "Thể sai khiến bị động 考えさせられる = (do hoàn cảnh tác động) bất giác phải suy nghĩ. Trải nghiệm ở Nhật khiến người viết suy nghĩ → 考えさせられた, cách kết bài tự nhiên.",
+        "options": [
+          "考えたのだろう → phỏng đoán về chính mình, không tự nhiên. Sai.",
+          "考えさせられた → bị khiến phải suy nghĩ (tự nhiên nảy ra suy nghĩ). ĐÚNG.",
+          "考えさせていたのだろう → sai khiến người khác suy nghĩ + phỏng đoán; sai chủ thể. Sai.",
+          "考えられていた → được (người ta) nghĩ; bị động chung, sai chủ thể. Sai."
+        ],
+        "vocab": [
+          { "w": "つながり", "r": "つながり", "hv": "", "vi": "mối liên hệ" },
+          { "w": "土地", "r": "とち", "hv": "THỔ ĐỊA", "vi": "vùng đất" },
+          { "w": "伝統的", "r": "でんとうてき", "hv": "TRUYỀN THỐNG ĐÍCH", "vi": "mang tính truyền thống" }
+        ],
+        "grammar": {
+          "pattern": "～させられる（使役受身・自発）",
+          "meaning": "bất giác/không thể không (cảm thấy, suy nghĩ) do tác động bên ngoài",
+          "form": "Vない＋させられる (考えさせられる, 感心させられる)",
+          "example": "この映画には色々と考えさせられた。(Bộ phim này khiến tôi phải suy nghĩ nhiều.)"
+        },
+        "evidence": "日本に来て、その土地に生きる人と食文化とのつながりについて（54）。",
+        "tip": "考えさせられる / 感動させられる thường dùng để kết bài cảm nhận."
+      }
+    }
+  ]
+}

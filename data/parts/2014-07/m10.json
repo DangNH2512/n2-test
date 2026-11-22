@@ -1,0 +1,186 @@
+{
+  "exam": "2014-07",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（１）から（５）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "交際、付き合い、コミュニケーション、愛、会話——どのような呼び方をしてもいいけれども、人が動物とふれ合っていて、最も重要でありながら忘れがちなのは、可愛いという気持ちにつき動かされるあまり、こちらの方が積極的になり過ぎ、相手に表現させるのを忘れることだ。\n猫だって犬だって甘えたい。\n「好き」という気持ちを伝えたい。\nゴマンと（注）付き合い、やっとそれがわかったのだから、私は相当に鈍い。\n（畑正憲『ムツゴロウの動物交際術』による）\n（注）ゴマンと：非常にたくさん"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、ある市役所から市民に送られた文書である。\n\nアンケートのお願い\n2014年6月25日\n秋中市役所 企画課\n\n秋中市では、市民の皆様のご協力のもと、住みよい町づくりに力を入れてまいりました。昨年度は中央公園の整備を行い、皆様より高い評価をいただきました。\n来年度は秋中駅前の広場づくりに取り組む予定ですが、市民の皆様からご意見やご提案を広く伺い、計画に反映させたいと考えております。つきましては、別紙のアンケートにお答えいただき、同封の返信用封筒に入れて、7月末日までにご返送くださいますようお願い申し上げます。\nなお、町づくり事業の詳細は市役所ホームページでご覧になれます。"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "以下は、ある会社の経理担当者が書いたメールである。\n\n宛先：shimamoto_haruka@b-denki.co.jp\n件名：エアコン代金支払いの遅れについて\n送信日時：2014年6月13日 11:28\n\nB電気株式会社\n経理部\n島本春香様\n\nいつもお世話になっております。\nエアコン代金の支払いの遅れに関するメールを確かに受け取りました。\n今回の遅れに関しましては、すでに貴社経理部長の内田様にお願いをし、20日まで支払いを待ってくださるとのお返事をいただいております。\nお手数をおかけして申し訳ございませんが、内田様にご確認くださいますよう、よろしくお願い申し上げます。\n以上、取り急ぎお返事申し上げます。\n\n株式会社池波\n経理部 戸川幸一 togawa-k@ikenami.co.jp"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "私がやっている企業研修の現場で、学歴で差が出る瞬間に出くわす（注1）ことがある。それは、能力の差ではない。どの時点で「あっ、オレにはできない」とあきらめるかの差だ。\n高学歴の者がえてして（注2）優秀な成績を収めるのは、その人の能力が高いと言うよりも、その成長過程の中で「やればできる」「私にわからないはずはない」という自信が身についているからだ。この自信は、過去の成功体験に裏打ちされている（注3）。\n（辛淑玉『怒りの方法』による）\n（注1）出くわす：ここでは、出会う\n（注2）えてして～収める：ここでは、収める傾向がある\n（注3）裏打ちされている：裏づけられている"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "もしつらい恋愛で苦しんだ人が、ある恋愛ものを読んで慰められたとすると、そのときのことというのは、あとあとまで、ずうっと覚えているものです。人生でそういう経験をもっている人はやっぱり幸いだと、私は思います。何も恋愛に限らないけれど、そのような深い体験をもっていると、こんどは『源氏物語』のような古典作品を読んでも、深く味わうことができる。そうやって人間の精神は大人になっていくんです。\n（林望『知性の磨きかた』による）"
+    }
+  ],
+  "questions": [
+    {
+      "num": 55,
+      "passage": "p1",
+      "stem": "動物との付き合いを通して、筆者は何が分かったか。",
+      "options": ["動物と純粋な気持ちでふれ合ったほうがいいこと", "動物に積極的に気持ちを伝えたほうがいいこと", "動物とも人と同じように接したほうがいいこと", "動物にも気持ちを表現させたほうがいいこと"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Qua việc tiếp xúc với động vật, tác giả đã hiểu ra điều gì? → Nên để cho động vật cũng được bày tỏ cảm xúc.",
+        "why": "Tác giả nói điều quan trọng mà người ta hay quên là vì quá yêu nên mình chủ động quá mức, 'quên để đối phương bày tỏ'. Chó mèo cũng muốn làm nũng, muốn truyền đạt 'thích'. 'それがわかった' = hiểu rằng phải để con vật bày tỏ cảm xúc.",
+        "options": [
+          "Nên tiếp xúc bằng tình cảm trong sáng — bài không nói. Sai.",
+          "Nên chủ động truyền đạt cảm xúc cho động vật — ngược lại, tác giả nói chủ động quá mức là sai lầm. Sai.",
+          "Nên đối xử với động vật như với người — không được đề cập. Sai.",
+          "Nên để động vật cũng bày tỏ cảm xúc. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "ふれ合う", "r": "ふれあう", "hv": "", "vi": "tiếp xúc, giao lưu" },
+          { "w": "積極的", "r": "せっきょくてき", "hv": "TÍCH CỰC ĐÍCH", "vi": "tích cực, chủ động" },
+          { "w": "甘える", "r": "あまえる", "hv": "CAM", "vi": "làm nũng" },
+          { "w": "鈍い", "r": "にぶい", "hv": "ĐỘN", "vi": "chậm hiểu, kém nhạy" }
+        ],
+        "grammar": {
+          "pattern": "～あまり",
+          "meaning": "vì quá ~ nên (dẫn đến kết quả không tốt)",
+          "form": "Vる／Nの + あまり",
+          "example": "緊張のあまり、声が出なかった。"
+        },
+        "evidence": "可愛いという気持ちにつき動かされるあまり、こちらの方が積極的になり過ぎ、相手に表現させるのを忘れることだ。猫だって犬だって甘えたい。「好き」という気持ちを伝えたい。",
+        "tip": "Đáp án 2 là bẫy: đảo ngược chủ thể (mình → con vật)."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p2",
+      "stem": "この文書によると、市役所は何を知るためにアンケートをしようとしているか。",
+      "options": ["町づくり事業のホームページに対する市民の意見", "町づくり事業に対する市民の評価", "広場づくりに対する市民の意見", "広場づくりに対する市民の評価"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Theo văn bản này, tòa thị chính làm khảo sát để biết điều gì? → Ý kiến của người dân về việc xây dựng quảng trường.",
+        "why": "Năm tới thành phố sẽ làm quảng trường trước ga Akinaka và muốn 'lắng nghe rộng rãi ý kiến, đề xuất của người dân để phản ánh vào kế hoạch' → mục đích: ý kiến về việc làm quảng trường (chưa làm nên chưa thể 'đánh giá').",
+        "options": [
+          "Ý kiến về trang web — trang web chỉ là nơi xem chi tiết. Sai.",
+          "Đánh giá về dự án xây dựng thành phố — 評価 là của công viên năm ngoái, đã nhận rồi. Sai.",
+          "Ý kiến về việc làm quảng trường. ĐÚNG.",
+          "Đánh giá về quảng trường — quảng trường chưa làm nên không thể đánh giá. Sai."
+        ],
+        "vocab": [
+          { "w": "反映", "r": "はんえい", "hv": "PHẢN ẢNH", "vi": "phản ánh (vào)" },
+          { "w": "提案", "r": "ていあん", "hv": "ĐỀ ÁN", "vi": "đề xuất" },
+          { "w": "整備", "r": "せいび", "hv": "CHỈNH BỊ", "vi": "chỉnh trang, tu sửa" },
+          { "w": "同封", "r": "どうふう", "hv": "ĐỒNG PHONG", "vi": "gửi kèm (trong phong bì)" }
+        ],
+        "grammar": {
+          "pattern": "つきましては",
+          "meaning": "vì vậy, do đó (văn trang trọng, dẫn đến lời đề nghị)",
+          "form": "Câu A。つきましては、câu B (đề nghị).",
+          "example": "説明会を開きます。つきましては、ご出席くださいますようお願いします。"
+        },
+        "evidence": "来年度は秋中駅前の広場づくりに取り組む予定ですが、市民の皆様からご意見やご提案を広く伺い、計画に反映させたいと考えております。",
+        "tip": "Phân biệt 意見 (ý kiến cho việc sắp làm) và 評価 (đánh giá việc đã làm)."
+      }
+    },
+    {
+      "num": 57,
+      "passage": "p3",
+      "stem": "このメールで最も伝えたいことは何か。",
+      "options": ["支払いの遅れは内田様に了解してもらっている。", "支払いの遅れで迷惑をかけて申し訳ない。", "支払いの期日を20日まで延ばしてもらいたい。", "支払いの期日について内田様に確認を取りたい。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều email này muốn truyền đạt nhất là gì? → Việc chậm thanh toán đã được ông Uchida đồng ý.",
+        "why": "Ông Togawa trả lời email nhắc nợ: việc chậm trả đã được trưởng phòng kế toán Uchida (bên B電気) đồng ý cho đợi đến ngày 20, xin chị Shimamoto xác nhận với ông Uchida. Ý chính: đã được ông Uchida chấp thuận rồi.",
+        "options": [
+          "Đã được ông Uchida chấp thuận. ĐÚNG.",
+          "Xin lỗi vì gây phiền — chỉ là câu lịch sự 'お手数をおかけして', không phải ý chính. Sai.",
+          "Muốn được gia hạn đến ngày 20 — việc gia hạn đã được đồng ý rồi, không phải đang xin. Sai.",
+          "Người viết muốn tự xác nhận với ông Uchida — ngược lại, người viết nhờ chị Shimamoto xác nhận. Sai."
+        ],
+        "vocab": [
+          { "w": "経理", "r": "けいり", "hv": "KINH LÝ", "vi": "kế toán" },
+          { "w": "了解", "r": "りょうかい", "hv": "LIỄU GIẢI", "vi": "đồng ý, chấp thuận" },
+          { "w": "貴社", "r": "きしゃ", "hv": "QUÝ XÃ", "vi": "quý công ty (văn viết)" },
+          { "w": "取り急ぎ", "r": "とりいそぎ", "hv": "THỦ CẤP", "vi": "vội vàng, trước mắt" }
+        ],
+        "grammar": null,
+        "evidence": "すでに貴社経理部長の内田様にお願いをし、20日まで支払いを待ってくださるとのお返事をいただいております。",
+        "tip": "Trong email công việc, câu xin lỗi thường là xã giao; tìm thông tin cụ thể mới."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p4",
+      "stem": "企業研修の経験から、筆者は、なぜ高学歴者の成績が優秀だと考えているか。",
+      "options": ["成功体験によって自信がつき失敗しなくなっているから", "成功するにはどのような能力が必要かを知っているから", "成功によって裏づけられた確かな方法を身につけているから", "成功したことでついた自信があり簡単にはあきらめないから"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Từ kinh nghiệm đào tạo doanh nghiệp, tác giả cho rằng vì sao người có học vấn cao đạt thành tích tốt? → Vì có sự tự tin nhờ thành công nên không dễ bỏ cuộc.",
+        "why": "Khác biệt không phải năng lực mà là 'thời điểm bỏ cuộc'. Người học vấn cao có sự tự tin 'làm thì sẽ được', tự tin này được củng cố bởi trải nghiệm thành công trong quá khứ → không dễ bỏ cuộc.",
+        "options": [
+          "Không còn thất bại — bài không nói họ không thất bại. Sai.",
+          "Biết cần năng lực gì để thành công — không được nhắc. Sai.",
+          "Nắm được phương pháp chắc chắn — cái được 裏打ち là 'tự tin', không phải 'phương pháp'. Sai.",
+          "Có tự tin từ thành công nên không dễ bỏ cuộc. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "研修", "r": "けんしゅう", "hv": "NGHIÊN TU", "vi": "đào tạo, tập huấn" },
+          { "w": "学歴", "r": "がくれき", "hv": "HỌC LỊCH", "vi": "học vấn, bằng cấp" },
+          { "w": "裏打ち", "r": "うらうち", "hv": "LÝ ĐẢ", "vi": "củng cố, chứng minh" },
+          { "w": "自信", "r": "じしん", "hv": "TỰ TÍN", "vi": "sự tự tin" }
+        ],
+        "grammar": {
+          "pattern": "～と言うよりも",
+          "meaning": "nói là ~ thì đúng hơn là…",
+          "form": "thể thường + と言うよりも",
+          "example": "彼は天才と言うよりも、努力家だ。"
+        },
+        "evidence": "どの時点で「あっ、オレにはできない」とあきらめるかの差だ。…「やればできる」「私にわからないはずはない」という自信が身についているからだ。この自信は、過去の成功体験に裏打ちされている。",
+        "tip": "Hai ý phải gộp: tự tin từ thành công + không dễ bỏ cuộc."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p5",
+      "stem": "筆者によると、人間の精神が大人になるには、何が必要か。",
+      "options": ["つらい出来事を読書で慰められた経験", "つらい恋愛をいつまでも忘れられない経験", "苦しんでいる人を慰めた経験", "古典作品をたくさん読んだ経験"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, để tinh thần con người trưởng thành cần gì? → Trải nghiệm được an ủi qua việc đọc sách khi gặp chuyện đau khổ.",
+        "why": "Người từng khổ vì tình rồi được an ủi khi đọc một tác phẩm tình yêu sẽ nhớ mãi; 'không chỉ giới hạn ở tình yêu', có trải nghiệm sâu sắc như vậy thì đọc cổ điển cũng thấm sâu, 'cứ thế tinh thần trưởng thành'. → Cần trải nghiệm 'được sách an ủi khi đau khổ'.",
+        "options": [
+          "Trải nghiệm được an ủi bằng đọc sách khi gặp chuyện buồn. ĐÚNG.",
+          "Không quên được mối tình đau khổ — cái được nhớ mãi là lúc 'được an ủi', không phải mối tình. Sai.",
+          "An ủi người khác — ngược chủ thể (mình được an ủi). Sai.",
+          "Đọc nhiều tác phẩm cổ điển — đó là kết quả sau trải nghiệm, không phải điều kiện; cũng không nói 'nhiều'. Sai."
+        ],
+        "vocab": [
+          { "w": "慰める", "r": "なぐさめる", "hv": "ÚY", "vi": "an ủi" },
+          { "w": "精神", "r": "せいしん", "hv": "TINH THẦN", "vi": "tinh thần" },
+          { "w": "古典", "r": "こてん", "hv": "CỔ ĐIỂN", "vi": "cổ điển, tác phẩm kinh điển" },
+          { "w": "味わう", "r": "あじわう", "hv": "VỊ", "vi": "thưởng thức, cảm nhận" }
+        ],
+        "grammar": {
+          "pattern": "何も～に限らない",
+          "meaning": "không hẳn chỉ giới hạn ở ~",
+          "form": "何も + N + に限らない",
+          "example": "何も若者に限らず、誰でもスマホを使う。"
+        },
+        "evidence": "もしつらい恋愛で苦しんだ人が、ある恋愛ものを読んで慰められたとすると…何も恋愛に限らないけれど、そのような深い体験をもっていると…そうやって人間の精神は大人になっていくんです。",
+        "tip": "'恋愛に限らない' → khái quát thành 'chuyện đau khổ' (つらい出来事)."
+      }
+    }
+  ]
+}

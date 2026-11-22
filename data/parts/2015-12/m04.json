@@ -1,0 +1,189 @@
+{
+  "exam": "2015-12",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống (theo ngữ cảnh).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "日本の10年後の人口を、様々なデータから（　　）した。",
+      "options": ["予測", "予報", "予感", "予習"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đã dự đoán dân số Nhật Bản 10 năm sau từ nhiều dữ liệu khác nhau.",
+        "why": "予測 (よそく) = dự đoán, ước tính dựa trên số liệu, căn cứ. \"Từ dữ liệu → dự đoán dân số\" là cách dùng điển hình.",
+        "options": [
+          "予測 (よそく) → dự đoán dựa trên dữ liệu. ĐÚNG.",
+          "予報 (よほう) → dự báo (chủ yếu 天気予報), công bố cho công chúng. Sai.",
+          "予感 (よかん) → linh cảm, dự cảm (cảm tính). Sai.",
+          "予習 (よしゅう) → chuẩn bị bài trước. Sai."
+        ],
+        "vocab": [
+          { "w": "予測", "r": "よそく", "hv": "DỰ TRẮC", "vi": "dự đoán, ước tính" },
+          { "w": "人口", "r": "じんこう", "hv": "NHÂN KHẨU", "vi": "dân số" },
+          { "w": "様々", "r": "さまざま", "hv": "DẠNG", "vi": "nhiều loại, đa dạng" },
+          { "w": "予感", "r": "よかん", "hv": "DỰ CẢM", "vi": "linh cảm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "測 = đo lường (測る はかる) → 予測 là đoán có tính toán; 感 = cảm giác → 予感 là linh cảm."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "川の水が茶色く（　　）いて、底の方が見えない。",
+      "options": ["くもって", "かくれて", "にごって", "くずれて"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nước sông đục màu nâu nên không nhìn thấy được đáy.",
+        "why": "にごる (濁る – TRỌC) = (chất lỏng) bị đục, vẩn đục. Nước sông đục → không thấy đáy.",
+        "options": [
+          "くもって → 曇る: (trời) âm u, (kính) mờ hơi nước. Không dùng cho nước sông. Sai.",
+          "かくれて → 隠れる: ẩn nấp, bị che khuất. Sai.",
+          "にごって → 濁る: vẩn đục. ĐÚNG.",
+          "くずれて → 崩れる: sụp đổ, lở. Sai."
+        ],
+        "vocab": [
+          { "w": "濁る", "r": "にごる", "hv": "TRỌC", "vi": "vẩn đục, đục" },
+          { "w": "茶色い", "r": "ちゃいろい", "hv": "TRÀ SẮC", "vi": "màu nâu" },
+          { "w": "底", "r": "そこ", "hv": "ĐỂ", "vi": "đáy" },
+          { "w": "曇る", "r": "くもる", "hv": "ĐÀM", "vi": "âm u, mờ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "濁る ↔ 澄む (すむ – trong vắt). 濁音 (だくおん) = âm đục (が, ざ...)."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "この書類に必要なことを記入して窓口に提出すれば、手続きは（　　）します。",
+      "options": ["完了", "決定", "実現", "達成"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Chỉ cần điền những mục cần thiết vào giấy tờ này rồi nộp ở quầy là thủ tục hoàn tất.",
+        "why": "完了 (かんりょう) = hoàn tất, xong xuôi (công việc, thủ tục). 手続きが完了する là kết hợp cố định.",
+        "options": [
+          "完了 (かんりょう) → hoàn tất. ĐÚNG.",
+          "決定 (けってい) → quyết định. Thủ tục không \"quyết định\". Sai.",
+          "実現 (じつげん) → hiện thực hóa (ước mơ, kế hoạch). Sai.",
+          "達成 (たっせい) → đạt được (mục tiêu). Sai."
+        ],
+        "vocab": [
+          { "w": "完了", "r": "かんりょう", "hv": "HOÀN LIỄU", "vi": "hoàn tất, kết thúc" },
+          { "w": "手続き", "r": "てつづき", "hv": "THỦ TỤC", "vi": "thủ tục" },
+          { "w": "記入", "r": "きにゅう", "hv": "KÝ NHẬP", "vi": "điền vào" },
+          { "w": "窓口", "r": "まどぐち", "hv": "SONG KHẨU", "vi": "quầy giao dịch" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Collocation: 手続きが完了する / 目標を達成する / 夢を実現する."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "栄養の（　　）を考えて、いろいろなものを食べましょう。",
+      "options": ["ストレス", "バランス", "チェンジ", "ステップ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hãy nghĩ đến sự cân bằng dinh dưỡng và ăn nhiều loại thực phẩm khác nhau.",
+        "why": "栄養のバランス = cân bằng dinh dưỡng. Ăn nhiều loại → để dinh dưỡng cân bằng.",
+        "options": [
+          "ストレス → căng thẳng (stress). Sai.",
+          "バランス → cân bằng (balance). ĐÚNG.",
+          "チェンジ → thay đổi (change). Sai.",
+          "ステップ → bước (step). Sai."
+        ],
+        "vocab": [
+          { "w": "栄養", "r": "えいよう", "hv": "VINH DƯỠNG", "vi": "dinh dưỡng" },
+          { "w": "バランス", "r": "バランス", "hv": "", "vi": "sự cân bằng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "バランスがいい/悪い, バランスをとる (giữ thăng bằng)."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "この店の料理は、量が（　　）あるので、たくさん食べる人に人気があります。",
+      "options": ["ふんわり", "すっきり", "たっぷり", "ぼんやり"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Món ăn ở quán này có lượng rất nhiều nên được những người ăn nhiều ưa chuộng.",
+        "why": "たっぷり = nhiều, đầy đặn, dư dả. 量がたっぷりある = lượng nhiều.",
+        "options": [
+          "ふんわり → mềm xốp, nhẹ bồng (bánh, chăn). Sai.",
+          "すっきり → gọn gàng, sảng khoái, nhẹ nhõm. Sai.",
+          "たっぷり → nhiều, đầy ắp. ĐÚNG.",
+          "ぼんやり → lơ đãng, mờ ảo. Sai."
+        ],
+        "vocab": [
+          { "w": "たっぷり", "r": "たっぷり", "hv": "", "vi": "nhiều, đầy ắp, dư dả" },
+          { "w": "量", "r": "りょう", "hv": "LƯỢNG", "vi": "lượng" },
+          { "w": "人気", "r": "にんき", "hv": "NHÂN KHÍ", "vi": "được ưa chuộng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "たっぷり còn dùng: 時間はたっぷりある (thời gian còn dư dả), 自信たっぷり (đầy tự tin)."
+      }
+    },
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "二人の間には意見の（　　）があり、なかなか議論が進まない。",
+      "options": ["対比", "間隔", "大別", "相違"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Giữa hai người có sự khác biệt về ý kiến nên cuộc thảo luận mãi không tiến triển.",
+        "why": "相違 (そうい) = sự khác nhau, bất đồng. 意見の相違 = bất đồng ý kiến (cụm cố định).",
+        "options": [
+          "対比 (たいひ) → so sánh đối chiếu. Sai.",
+          "間隔 (かんかく) → khoảng cách (không gian, thời gian). Sai.",
+          "大別 (たいべつ) → phân chia đại khái thành nhóm lớn. Sai.",
+          "相違 (そうい) → khác biệt, bất đồng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "相違", "r": "そうい", "hv": "TƯƠNG VI", "vi": "sự khác biệt, bất đồng" },
+          { "w": "議論", "r": "ぎろん", "hv": "NGHỊ LUẬN", "vi": "tranh luận, thảo luận" },
+          { "w": "対比", "r": "たいひ", "hv": "ĐỐI TỈ", "vi": "đối chiếu, so sánh" },
+          { "w": "間隔", "r": "かんかく", "hv": "GIAN CÁCH", "vi": "khoảng cách" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Gặp thêm 〜に相違ない (= 〜に違いない: chắc chắn là ~) trong văn viết."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "約束の時間より早く来てしまったので、喫茶店に入って時間を（　　）。",
+      "options": ["やぶった", "つぶした", "こわした", "はずった"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Vì lỡ đến sớm hơn giờ hẹn nên tôi vào quán cà phê để giết thời gian.",
+        "why": "時間をつぶす (潰す) = giết thời gian (thành ngữ). Đến sớm → vào quán ngồi chờ cho hết thời gian.",
+        "options": [
+          "やぶった → 破る: xé, phá (約束を破る = thất hứa). Không nói 時間を破る. Sai.",
+          "つぶした → 潰す: 時間をつぶす = giết thời gian. ĐÚNG.",
+          "こわした → 壊す: làm hỏng, phá vỡ. Sai.",
+          "はずった → không phải dạng đúng (外す → 外した). Sai."
+        ],
+        "vocab": [
+          { "w": "潰す", "r": "つぶす", "hv": "HỘI", "vi": "đè bẹp; giết (thời gian)" },
+          { "w": "暇つぶし", "r": "ひまつぶし", "hv": "HẠ HỘI", "vi": "việc giết thời gian" },
+          { "w": "喫茶店", "r": "きっさてん", "hv": "KHIẾT TRÀ ĐIẾM", "vi": "quán cà phê, quán nước" },
+          { "w": "約束", "r": "やくそく", "hv": "ƯỚC THÚC", "vi": "lời hứa, cuộc hẹn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy: 約束 trong câu dễ gợi 約束を破る, nhưng tân ngữ của chỗ trống là 時間 → つぶす."
+      }
+    }
+  ]
+}

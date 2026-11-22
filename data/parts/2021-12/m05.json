@@ -1,0 +1,135 @@
+{
+  "exam": "2021-12",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "私の会社は<u>最寄りの</u>駅から歩いて15分です。",
+      "options": ["一番大きい", "一番近い", "終点の", "始発の"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Công ty tôi cách ga gần nhất 15 phút đi bộ.",
+        "why": "最寄り (もより) = gần nhất (thường dùng cho ga, trạm, cửa hàng). 最寄りの駅 = 一番近い駅.",
+        "options": [
+          "一番大きい → lớn nhất. Sai.",
+          "一番近い → gần nhất. ĐÚNG.",
+          "終点の → ga cuối. Sai.",
+          "始発の → ga đầu / chuyến đầu tiên. Sai."
+        ],
+        "vocab": [
+          { "w": "最寄り", "r": "もより", "hv": "TỐI KÝ", "vi": "gần nhất" },
+          { "w": "終点", "r": "しゅうてん", "hv": "CHUNG ĐIỂM", "vi": "ga cuối, điểm cuối" },
+          { "w": "始発", "r": "しはつ", "hv": "THỦY PHÁT", "vi": "chuyến đầu tiên; ga xuất phát" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "最寄り駅 (もよりえき) xuất hiện rất nhiều trong đời sống Nhật."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "演奏会で着るドレスは、いつも近所の店で<u>レンタル</u>しています。",
+      "options": ["作って", "買って", "直して", "借りて"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Váy mặc trong buổi hòa nhạc thì lúc nào tôi cũng thuê ở cửa hàng gần nhà.",
+        "why": "レンタルする (rental) = thuê (trả phí) = 借りる.",
+        "options": [
+          "作って → may, làm. Sai.",
+          "買って → mua. Sai.",
+          "直して → sửa. Sai.",
+          "借りて → thuê, mượn. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "レンタル", "r": "レンタル", "hv": "", "vi": "cho thuê, thuê" },
+          { "w": "演奏会", "r": "えんそうかい", "hv": "DIỄN TẤU HỘI", "vi": "buổi hòa nhạc" },
+          { "w": "近所", "r": "きんじょ", "hv": "CẬN SỞ", "vi": "hàng xóm, gần nhà" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "村上さんはほかの人に<u>指図</u>されるのが嫌いだそうだ。",
+      "options": ["命令", "反対", "注意", "自慢"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nghe nói anh Murakami ghét bị người khác sai khiến.",
+        "why": "指図 (さしず) = chỉ thị, sai bảo, ra lệnh = 命令 (めいれい).",
+        "options": [
+          "命令 → mệnh lệnh, ra lệnh. ĐÚNG.",
+          "反対 → phản đối. Sai.",
+          "注意 → nhắc nhở, chú ý. Sai.",
+          "自慢 → khoe khoang. Sai."
+        ],
+        "vocab": [
+          { "w": "指図", "r": "さしず", "hv": "CHỈ ĐỒ", "vi": "chỉ thị, sai khiến" },
+          { "w": "命令", "r": "めいれい", "hv": "MỆNH LỆNH", "vi": "mệnh lệnh" },
+          { "w": "自慢", "r": "じまん", "hv": "TỰ MẠN", "vi": "khoe khoang, tự hào" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "指図 đọc đặc biệt さしず (không phải しず)."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "この時期に旅行するなら、かさは<u>欠かせない</u>。",
+      "options": ["ないといい", "あるとじゃまだ", "ないと困る", "あると便利だ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nếu đi du lịch vào thời điểm này thì không thể thiếu ô.",
+        "why": "欠かせない (かかせない) = không thể thiếu, nhất định phải có = ないと困る (không có thì gay).",
+        "options": [
+          "ないといい → không có thì tốt. Sai.",
+          "あるとじゃまだ → có thì vướng. Sai.",
+          "ないと困る → không có thì khổ / gặp rắc rối. ĐÚNG.",
+          "あると便利だ → có thì tiện (chỉ là 'tiện', chưa đủ mạnh như 'không thể thiếu'). Sai."
+        ],
+        "vocab": [
+          { "w": "欠かせない", "r": "かかせない", "hv": "KHIẾM", "vi": "không thể thiếu" },
+          { "w": "欠く", "r": "かく", "hv": "KHIẾM", "vi": "thiếu" },
+          { "w": "時期", "r": "じき", "hv": "THỜI KỲ", "vi": "thời kỳ, mùa" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy: あると便利だ chỉ là 'có thì tiện' — mức độ yếu hơn 欠かせない."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "雨は<u>依然</u>強かった。",
+      "options": ["確かに", "まだ", "意外に", "とても"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Mưa vẫn còn to.",
+        "why": "依然 (いぜん) = vẫn như cũ, vẫn còn = まだ. Thường dùng 依然として.",
+        "options": [
+          "確かに → quả thật, chắc chắn. Sai.",
+          "まだ → vẫn còn. ĐÚNG.",
+          "意外に → bất ngờ là. Sai.",
+          "とても → rất. Sai."
+        ],
+        "vocab": [
+          { "w": "依然", "r": "いぜん", "hv": "Y NHIÊN", "vi": "vẫn như cũ, vẫn còn" },
+          { "w": "依然として", "r": "いぜんとして", "hv": "Y NHIÊN", "vi": "vẫn, vẫn còn" },
+          { "w": "意外", "r": "いがい", "hv": "Ý NGOẠI", "vi": "bất ngờ, ngoài dự tính" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "依然 (いぜん: vẫn) ≠ 以前 (いぜん: trước đây) — cùng âm khác nghĩa."
+      }
+    }
+  ]
+}

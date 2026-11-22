@@ -1,0 +1,368 @@
+{
+  "exam": "2015-12",
+  "mondai": 7,
+  "section": "grammar",
+  "instruction": "次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn phương án đúng nhất để điền vào chỗ trống trong câu.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 33,
+      "passage": null,
+      "stem": "この花は、毎日水をやる必要はありません。大体2日（　　）やってください。",
+      "options": ["おきに", "ぶりに", "うちに", "たびに"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hoa này không cần tưới nước mỗi ngày. Khoảng cách 2 ngày tưới một lần là được.",
+        "why": "Số lượng + おきに = cứ cách ~ một lần (lặp lại đều đặn). Câu trước nói \"không cần tưới mỗi ngày\" → \"cách 2 ngày tưới một lần\".",
+        "options": [
+          "おきに → cứ cách ~ (lặp lại định kỳ). ĐÚNG.",
+          "ぶりに → sau ~ (lâu rồi mới lại): 3年ぶりに会った. Chỉ một lần, không định kỳ. Sai.",
+          "うちに → trong lúc còn ~ (Vる/Vている/Aい + うちに), không đi sau số đếm 2日. Sai.",
+          "たびに → mỗi khi ~ (Vる/Nの + たびに), không gắn trực tiếp sau 2日. Sai."
+        ],
+        "vocab": [
+          { "w": "水をやる", "r": "みずをやる", "hv": "THỦY", "vi": "tưới nước (cây)" },
+          { "w": "大体", "r": "だいたい", "hv": "ĐẠI THỂ", "vi": "khoảng, đại khái" }
+        ],
+        "grammar": {
+          "pattern": "数量＋おきに",
+          "meaning": "cứ cách ~ một lần",
+          "form": "Từ chỉ số lượng (時間/日/メートル…) + おきに",
+          "example": "このバスは10分おきに出ています。"
+        },
+        "evidence": null,
+        "tip": "1日おき = cách 1 ngày (ngày có ngày không); 1日ごと = mỗi ngày. Cẩn thận khác nhau khi số là ngày."
+      }
+    },
+    {
+      "num": 34,
+      "passage": null,
+      "stem": "ジョギングは健康にいいが、正しく行わないと（　　）ひざや腰を痛めてしまう場合もある。",
+      "options": ["かりに", "せっかく", "いまにも", "かえって"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Chạy bộ tốt cho sức khỏe, nhưng nếu không tập đúng cách thì ngược lại có trường hợp còn làm đau đầu gối và hông.",
+        "why": "かえって = ngược lại, trái lại (kết quả trái với mong đợi). Chạy bộ vốn tốt cho sức khỏe, nhưng sai cách thì ngược lại gây hại.",
+        "options": [
+          "かりに → giả sử (仮に〜ても/としたら). Không hợp. Sai.",
+          "せっかく → đã cất công ~ (thì tiếc). Không hợp. Sai.",
+          "いまにも → sắp sửa ngay (いまにも雨が降りそうだ). Sai.",
+          "かえって → ngược lại (trái với kỳ vọng). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "かえって", "r": "かえって", "hv": "", "vi": "ngược lại, trái lại" },
+          { "w": "腰", "r": "こし", "hv": "YÊU", "vi": "hông, thắt lưng" },
+          { "w": "痛める", "r": "いためる", "hv": "THỐNG", "vi": "làm đau, làm tổn thương" },
+          { "w": "ひざ（膝）", "r": "ひざ", "hv": "TẤT", "vi": "đầu gối" }
+        ],
+        "grammar": {
+          "pattern": "かえって",
+          "meaning": "ngược lại, trái lại (kết quả trái với dự tính)",
+          "form": "かえって + vế kết quả",
+          "example": "薬を飲んだら、かえって具合が悪くなった。"
+        },
+        "evidence": null,
+        "tip": "Dấu hiệu: \"vốn tốt / định tốt\" + が + \"lại gây hại\" → かえって."
+      }
+    },
+    {
+      "num": 35,
+      "passage": null,
+      "stem": "駅前のパン屋の主人は、商売はあまり上手ではないが、おいしいパンを作ること（　　）一流の技術を持っている。",
+      "options": ["によっては", "を前にして", "にかけては", "を基にして"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Ông chủ tiệm bánh mì trước ga tuy không giỏi buôn bán lắm, nhưng về khoản làm bánh ngon thì có tay nghề hạng nhất.",
+        "why": "N + にかけては = riêng về mặt ~ thì (giỏi nhất, không thua ai). Thường đối lập với điểm yếu (商売は上手ではないが) và đi với đánh giá tích cực (一流の技術).",
+        "options": [
+          "によっては → tùy vào ~ mà (có trường hợp). Sai.",
+          "を前にして → đứng trước ~ (sự kiện, người). Sai.",
+          "にかけては → riêng về mặt ~ thì giỏi. ĐÚNG.",
+          "を基にして → dựa trên ~ (làm cơ sở). Sai."
+        ],
+        "vocab": [
+          { "w": "商売", "r": "しょうばい", "hv": "THƯƠNG MẠI", "vi": "buôn bán, kinh doanh" },
+          { "w": "一流", "r": "いちりゅう", "hv": "NHẤT LƯU", "vi": "hạng nhất" },
+          { "w": "主人", "r": "しゅじん", "hv": "CHỦ NHÂN", "vi": "chủ (cửa hàng)" },
+          { "w": "技術", "r": "ぎじゅつ", "hv": "KỸ THUẬT", "vi": "kỹ thuật, tay nghề" }
+        ],
+        "grammar": {
+          "pattern": "～にかけては",
+          "meaning": "riêng về mặt ~ thì (tự tin, giỏi hơn ai hết)",
+          "form": "N + にかけては",
+          "example": "料理の腕にかけては、彼女に勝てる人はいない。"
+        },
+        "evidence": null,
+        "tip": "にかけては luôn đi với đánh giá năng lực tích cực (一流, 誰にも負けない, 自信がある)."
+      }
+    },
+    {
+      "num": 36,
+      "passage": null,
+      "stem": "ABC美術館はとても広くて、たった3時間では全部の作品を（　　）。",
+      "options": ["見たきりだった", "見きれなかった", "見ないで済んだ", "見ないでもなかった"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Bảo tàng mỹ thuật ABC rất rộng, chỉ trong 3 tiếng thì không thể xem hết toàn bộ tác phẩm.",
+        "why": "Vます + きれない = không thể làm hết / trọn vẹn. 全部の作品を見きれなかった = không xem hết được tất cả tác phẩm (vì rộng, chỉ có 3 tiếng).",
+        "options": [
+          "見たきりだった → chỉ xem một lần rồi thôi (từ đó không xem nữa). Sai.",
+          "見きれなかった → không xem hết được. ĐÚNG.",
+          "見ないで済んだ → không phải xem cũng xong. Sai nghĩa. Sai.",
+          "見ないでもなかった → không phải là không xem (cũng có xem). Sai."
+        ],
+        "vocab": [
+          { "w": "美術館", "r": "びじゅつかん", "hv": "MỸ THUẬT QUÁN", "vi": "bảo tàng mỹ thuật" },
+          { "w": "作品", "r": "さくひん", "hv": "TÁC PHẨM", "vi": "tác phẩm" },
+          { "w": "たった", "r": "たった", "hv": "", "vi": "chỉ vẻn vẹn" }
+        ],
+        "grammar": {
+          "pattern": "～きれない",
+          "meaning": "không thể ~ hết",
+          "form": "Vます(bỏ ます) + きれない／きれなかった",
+          "example": "料理が多すぎて、食べきれなかった。"
+        },
+        "evidence": null,
+        "tip": "全部・すべて + 〜きれない là cặp hay đi cùng nhau."
+      }
+    },
+    {
+      "num": 37,
+      "passage": null,
+      "stem": "夫は何でも捨てないで取っておくので、家の中は物が増える（　　）。",
+      "options": ["ためだ", "ほどだ", "一方だ", "最中だ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Chồng tôi cái gì cũng không vứt mà giữ lại nên đồ đạc trong nhà cứ ngày càng nhiều lên.",
+        "why": "Vる + 一方だ = ngày càng ~, cứ tiếp tục theo một chiều (thường xấu). Đi với động từ biến đổi như 増える.",
+        "options": [
+          "ためだ → là vì (chỉ nguyên nhân). Nguyên nhân đã nêu ở vế trước. Sai.",
+          "ほどだ → đến mức ~. Không có vế so sánh mức độ. Sai.",
+          "一方だ → cứ ngày càng ~. ĐÚNG.",
+          "最中だ → đang giữa lúc ~ (Vている/Nの + 最中). Sai."
+        ],
+        "vocab": [
+          { "w": "取っておく", "r": "とっておく", "hv": "THỦ", "vi": "giữ lại, để dành" },
+          { "w": "捨てる", "r": "すてる", "hv": "XẢ", "vi": "vứt bỏ" },
+          { "w": "増える", "r": "ふえる", "hv": "TĂNG", "vi": "tăng lên" }
+        ],
+        "grammar": {
+          "pattern": "～一方だ",
+          "meaning": "ngày càng ~ (xu hướng một chiều)",
+          "form": "Vる(động từ biến đổi) + 一方だ",
+          "example": "物価は上がる一方だ。"
+        },
+        "evidence": null,
+        "tip": "一方だ đi với động từ biến đổi: 増える・減る・悪くなる・上がる."
+      }
+    },
+    {
+      "num": 38,
+      "passage": null,
+      "stem": "パソコンの画面が映らなくなってしまった。いろいろ試してみたがうまくいかず、もう自分ではどうしようもないので、修理に（　　）。",
+      "options": ["出しがちだ", "出すほかない", "出したおかげだ", "出すことがある"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Màn hình máy tính đã không hiện hình nữa. Thử đủ cách rồi mà không được, tự mình không thể làm gì hơn nên đành phải mang đi sửa thôi.",
+        "why": "Vる + ほかない = không còn cách nào khác ngoài ~, đành phải ~. Đã thử hết, どうしようもない → chỉ còn cách mang đi sửa.",
+        "options": [
+          "出しがちだ → thường hay mang đi (xu hướng xấu). Sai.",
+          "出すほかない → đành phải mang đi. ĐÚNG.",
+          "出したおかげだ → nhờ đã mang đi. Không hợp thời/ý. Sai.",
+          "出すことがある → thỉnh thoảng có mang đi. Sai."
+        ],
+        "vocab": [
+          { "w": "画面", "r": "がめん", "hv": "HỌA DIỆN", "vi": "màn hình" },
+          { "w": "映る", "r": "うつる", "hv": "ÁNH", "vi": "hiện hình, phản chiếu" },
+          { "w": "修理", "r": "しゅうり", "hv": "TU LÝ", "vi": "sửa chữa" },
+          { "w": "どうしようもない", "r": "どうしようもない", "hv": "", "vi": "không còn cách nào" }
+        ],
+        "grammar": {
+          "pattern": "～ほかない",
+          "meaning": "đành phải ~, không còn cách nào khác",
+          "form": "Vる + ほかない（＝しかない）",
+          "example": "終電がないので、タクシーで帰るほかない。"
+        },
+        "evidence": null,
+        "tip": "Dấu hiệu: もう〜どうしようもない／仕方がない → ほかない・しかない."
+      }
+    },
+    {
+      "num": 39,
+      "passage": null,
+      "stem": "テニスコートの入り口の看板に「コート内では必ずテニスシューズを履く（　　）。」と書いてあるのに、守らない人がいるので困る。",
+      "options": ["こと", "はず", "など", "のみ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Trên biển ở lối vào sân tennis có ghi \"Trong sân bắt buộc phải đi giày tennis.\", vậy mà vẫn có người không tuân thủ nên thật phiền.",
+        "why": "Vる + こと。 ở cuối câu = cách viết chỉ thị, quy định (biển báo, nội quy): phải ~. Có 必ず và 守らない → đây là quy định.",
+        "options": [
+          "こと → (quy định) phải ~. ĐÚNG.",
+          "はず → chắc là ~ (suy đoán). Không dùng trên biển nội quy. Sai.",
+          "など → v.v., chẳng hạn. Sai.",
+          "のみ → chỉ (văn viết). \"Chỉ đi giày\" không phải câu quy định tự nhiên. Sai."
+        ],
+        "vocab": [
+          { "w": "看板", "r": "かんばん", "hv": "KHÁN BẢN", "vi": "biển hiệu, bảng" },
+          { "w": "履く", "r": "はく", "hv": "LÝ", "vi": "đi (giày), mặc (quần)" },
+          { "w": "守る", "r": "まもる", "hv": "THỦ", "vi": "tuân thủ, bảo vệ" }
+        ],
+        "grammar": {
+          "pattern": "～こと（文末）",
+          "meaning": "phải ~ / không được ~ (chỉ thị, quy định viết)",
+          "form": "Vる／Vない + こと。",
+          "example": "図書館では静かにすること。"
+        },
+        "evidence": null,
+        "tip": "こと cuối câu = giọng nội quy, thông báo; 〜ないこと = cấm."
+      }
+    },
+    {
+      "num": 40,
+      "passage": null,
+      "stem": "A「最近、いつも眠そうだね。毎晩、寝るの遅いの？」\nB「うん。早く（　　）思ってるんだけど。」",
+      "options": ["寝なきゃって", "寝ちゃったと", "寝たいのは", "寝られないとか"],
+      "answer": 1,
+      "explanation": {
+        "translation": "A: \"Dạo này lúc nào trông cậu cũng buồn ngủ nhỉ. Tối nào cũng ngủ muộn à?\" B: \"Ừ. Tớ cũng nghĩ là phải ngủ sớm mà...\"",
+        "why": "寝なきゃ = 寝なければ(ならない) (văn nói: phải ngủ); って = と (trích dẫn, văn nói). 早く寝なきゃって思ってる = vẫn nghĩ là phải ngủ sớm (nhưng không làm được).",
+        "options": [
+          "寝なきゃって → (nghĩ) phải ngủ. ĐÚNG.",
+          "寝ちゃったと → (nghĩ) đã lỡ ngủ mất. Mâu thuẫn với việc ngủ muộn. Sai.",
+          "寝たいのは → thiếu trợ từ trích dẫn; のは không nối với 思ってる. Sai.",
+          "寝られないとか → (nghĩ) là không ngủ được hay gì đó. 早く寝られない không hợp với ý \"muốn thay đổi\". Sai."
+        ],
+        "vocab": [
+          { "w": "眠そう", "r": "ねむそう", "hv": "MIÊN", "vi": "trông buồn ngủ" },
+          { "w": "〜なきゃ", "r": "なきゃ", "hv": "", "vi": "phải ~ (văn nói của 〜なければ)" }
+        ],
+        "grammar": {
+          "pattern": "～なきゃ（って思う）",
+          "meaning": "(nghĩ rằng) phải ~",
+          "form": "Vない(bỏ い) + きゃ ＋ って（＝と）",
+          "example": "そろそろ帰らなきゃって思ってたところ。"
+        },
+        "evidence": null,
+        "tip": "Văn nói: なければ→なきゃ, なくては→なくちゃ, と→って."
+      }
+    },
+    {
+      "num": 41,
+      "passage": null,
+      "stem": "私は歯医者が苦手だ。歯の痛みがひどいときには行くが、少し（　　）我慢してしまう。",
+      "options": ["痛くなる前に", "痛そうなときは", "痛いぐらいなら", "痛くないのだから"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi sợ đi nha sĩ. Khi đau răng dữ dội thì tôi đi, nhưng nếu chỉ đau một chút thì tôi cứ chịu đựng.",
+        "why": "〜ぐらいなら = nếu chỉ ở mức ~ (nhẹ) thì. 少し痛いぐらいなら我慢する đối lập với 痛みがひどいときには行く.",
+        "options": [
+          "痛くなる前に → trước khi đau. Mâu thuẫn với \"chịu đựng\". Sai.",
+          "痛そうなときは → khi có vẻ (người khác) đau. Không hợp chủ thể tự cảm nhận. Sai.",
+          "痛いぐらいなら → nếu chỉ đau ở mức (chút ít) thì. ĐÚNG.",
+          "痛くないのだから → vì không đau. Mâu thuẫn với 少し. Sai."
+        ],
+        "vocab": [
+          { "w": "歯医者", "r": "はいしゃ", "hv": "XỈ Y GIẢ", "vi": "nha sĩ" },
+          { "w": "苦手", "r": "にがて", "hv": "KHỔ THỦ", "vi": "sợ, không giỏi, không thích" },
+          { "w": "我慢", "r": "がまん", "hv": "NGÃ MẠN", "vi": "chịu đựng, nhẫn nhịn" }
+        ],
+        "grammar": {
+          "pattern": "～ぐらいなら",
+          "meaning": "nếu chỉ ở mức ~ thì (mức độ nhẹ)",
+          "form": "普通形 + ぐらい／くらいなら",
+          "example": "少し熱があるぐらいなら、学校を休まなくてもいい。"
+        },
+        "evidence": null,
+        "tip": "ぐらいなら còn nghĩa \"thà ~ còn hơn\" (〜ぐらいなら、〜ほうがましだ). Ở đây là nghĩa mức độ nhẹ."
+      }
+    },
+    {
+      "num": 42,
+      "passage": null,
+      "stem": "私が風邪で学校を休んだ日、心配して電話をかけて（　　）友達がたくさんいて、うれしかった。",
+      "options": ["きてくれた", "きてあげた", "みることができた", "みることにした"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hôm tôi nghỉ học vì cảm, có nhiều bạn lo lắng gọi điện cho tôi, tôi rất vui.",
+        "why": "Bạn bè làm cho \"tôi\" → Vてくれる. 電話をかけてくる = gọi điện đến (hướng về phía người nói) + くれる → かけてきてくれた.",
+        "options": [
+          "きてくれた → (bạn) gọi đến cho tôi. ĐÚNG.",
+          "きてあげた → あげる là \"tôi làm cho người khác\", sai hướng. Sai.",
+          "みることができた → đã có thể thử gọi. Không phải hành động của bạn dành cho tôi. Sai.",
+          "みることにした → quyết định thử gọi. Sai."
+        ],
+        "vocab": [
+          { "w": "電話をかける", "r": "でんわをかける", "hv": "ĐIỆN THOẠI", "vi": "gọi điện thoại" },
+          { "w": "心配", "r": "しんぱい", "hv": "TÂM PHỐI", "vi": "lo lắng" }
+        ],
+        "grammar": {
+          "pattern": "～てきてくれる",
+          "meaning": "(ai đó) làm ~ hướng về phía tôi cho tôi",
+          "form": "Vて + くる + くれる",
+          "example": "母が荷物を送ってきてくれた。"
+        },
+        "evidence": null,
+        "tip": "Chủ ngữ là người khác, người nhận lợi ích là \"tôi\" (うれしかった) → くれる."
+      }
+    },
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "A「最近、天気悪いよね。明日は晴れるかなあ。」\nB「いや、予報だと、今週は晴れる日が（　　）。」\nA「じゃあ、明日も天気悪いのかあ。」",
+      "options": ["一日もないからだよ", "一日もないみたいだよ", "一日じゃないからだよ", "一日じゃないみたいだよ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "A: \"Dạo này thời tiết xấu nhỉ. Mai có nắng không ta?\" B: \"Không đâu, theo dự báo thì tuần này hình như không có ngày nào nắng cả.\" A: \"Vậy là mai thời tiết cũng xấu à.\"",
+        "why": "一日も＋ない = không có lấy một ngày nào. 予報だと (theo dự báo) → thông tin nghe được → みたいだ (hình như). Không cần giải thích lý do nên không dùng からだ.",
+        "options": [
+          "一日もないからだよ → \"là vì không có ngày nào\" – からだ dùng để giải thích nguyên nhân, không hợp câu hỏi \"mai có nắng không\". Sai.",
+          "一日もないみたいだよ → hình như không có ngày nào. ĐÚNG.",
+          "一日じゃないからだよ → \"không phải một ngày\" sai nghĩa + からだ sai. Sai.",
+          "一日じゃないみたいだよ → \"hình như không phải là một ngày\" – không có nghĩa phủ định toàn bộ. Sai."
+        ],
+        "vocab": [
+          { "w": "予報", "r": "よほう", "hv": "DỰ BÁO", "vi": "dự báo" },
+          { "w": "晴れる", "r": "はれる", "hv": "TÌNH", "vi": "(trời) nắng, quang" }
+        ],
+        "grammar": {
+          "pattern": "一＋助数詞＋も～ない",
+          "meaning": "không có lấy một ~ nào",
+          "form": "一日も／一人も／一度も + Vない",
+          "example": "今月は一日も休んでいない。"
+        },
+        "evidence": null,
+        "tip": "〜によると／〜だと (nguồn tin) thường đi với 〜みたいだ・〜そうだ・〜らしい."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "彼からよく相談を受けるが、何に困っているのかわからないことが多い。私にどういうアドバイスを（　　）。",
+      "options": ["してもいいようだ", "したがるのだろうか", "したほうがいいようだ", "してほしいのだろうか"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi thường được anh ấy hỏi ý kiến, nhưng nhiều khi không hiểu anh ấy đang khó khăn chuyện gì. Không biết anh ấy muốn tôi cho lời khuyên như thế nào nhỉ.",
+        "why": "Người cho lời khuyên là 私, người muốn là 彼 → (彼は)私に〜てほしい = muốn tôi làm ~. Kết hợp với nghi vấn どういう → のだろうか (tự hỏi).",
+        "options": [
+          "してもいいようだ → hình như được phép làm. Không khớp với どういう (câu hỏi). Sai.",
+          "したがるのだろうか → (anh ấy) muốn tự làm lời khuyên? Nhưng 私に + アドバイスをする: người khuyên là tôi, nên sai chủ thể. Sai.",
+          "したほうがいいようだ → hình như nên làm. Không phải câu tự hỏi. Sai.",
+          "してほしいのだろうか → không biết (anh ấy) muốn tôi khuyên gì. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "相談を受ける", "r": "そうだんをうける", "hv": "TƯƠNG ĐÀM THỤ", "vi": "được nhờ tư vấn, được hỏi ý kiến" },
+          { "w": "困る", "r": "こまる", "hv": "KHỐN", "vi": "gặp khó khăn, rắc rối" }
+        ],
+        "grammar": {
+          "pattern": "（人に）～てほしい",
+          "meaning": "muốn (ai đó) làm ~",
+          "form": "人に + Vて + ほしい",
+          "example": "子どもには自由に生きてほしい。"
+        },
+        "evidence": null,
+        "tip": "私に + アドバイス: \"tôi\" là người đưa lời khuyên → người khác MUỐN tôi làm → てほしい."
+      }
+    }
+  ]
+}

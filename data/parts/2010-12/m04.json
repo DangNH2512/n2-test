@@ -1,0 +1,188 @@
+{
+  "exam": "2010-12",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống (theo ngữ cảnh).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "あの町の人口は（　　）減少している。",
+      "options": ["軽々と", "順々に", "徐々に", "細々と"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Dân số của thị trấn đó đang giảm dần dần.",
+        "why": "徐々に (じょじょに, TỪ TỪ) = dần dần, từng chút một; thường đi với các động từ biến đổi như 減少する・増える・変わる.",
+        "options": [
+          "軽々と (かるがると): một cách nhẹ nhàng, dễ dàng (nhấc vật nặng). Sai.",
+          "順々に (じゅんじゅんに): lần lượt theo thứ tự. Sai.",
+          "徐々に (じょじょに): dần dần. ĐÚNG.",
+          "細々と (ほそぼそと): lay lắt, èo uột (sống/kinh doanh). Sai."
+        ],
+        "vocab": [
+          { "w": "徐々に", "r": "じょじょに", "hv": "TỪ TỪ", "vi": "dần dần" },
+          { "w": "減少", "r": "げんしょう", "hv": "GIẢM THIỂU", "vi": "giảm, sụt giảm" },
+          { "w": "人口", "r": "じんこう", "hv": "NHÂN KHẨU", "vi": "dân số" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "徐々に ≈ だんだん・少しずつ. Đừng nhầm 徐 (じょ) với 除 (じょ, trừ bỏ)."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "最近、物価が（　　）している。",
+      "options": ["増加", "上達", "増大", "上昇"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Gần đây, vật giá đang tăng lên.",
+        "why": "物価 (giá cả) đi với 上昇する (じょうしょう, THƯỢNG THĂNG) = tăng lên (mức độ, giá trị, nhiệt độ). Giá cả là ‘mức’, không phải ‘số lượng’ nên không dùng 増加.",
+        "options": [
+          "増加 (ぞうか): tăng về số lượng (人口が増加). Không dùng với 物価. Sai.",
+          "上達 (じょうたつ): tiến bộ (kỹ năng). Sai.",
+          "増大 (ぞうだい): tăng lớn (quy mô, gánh nặng). Sai.",
+          "上昇 (じょうしょう): tăng lên (giá, nhiệt độ). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "上昇", "r": "じょうしょう", "hv": "THƯỢNG THĂNG", "vi": "tăng lên, đi lên" },
+          { "w": "物価", "r": "ぶっか", "hv": "VẬT GIÁ", "vi": "vật giá" },
+          { "w": "増加", "r": "ぞうか", "hv": "TĂNG GIA", "vi": "gia tăng (số lượng)" },
+          { "w": "上達", "r": "じょうたつ", "hv": "THƯỢNG ĐẠT", "vi": "tiến bộ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Collocation: 物価・気温・地位が上昇 / 人口・件数が増加 / 日本語が上達."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "多くの人が旅行する（　　）は、飛行機のチケットが高い。",
+      "options": ["シリーズ", "タイム", "シーズン", "チャンス"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vào mùa nhiều người đi du lịch, vé máy bay đắt.",
+        "why": "シーズン (season) = mùa, thời kỳ cao điểm. 旅行シーズン = mùa du lịch.",
+        "options": [
+          "シリーズ: series, loạt (phim, sách). Sai.",
+          "タイム: thời gian (thành tích), giờ. Sai.",
+          "シーズン: mùa. ĐÚNG.",
+          "チャンス: cơ hội. Sai."
+        ],
+        "vocab": [
+          { "w": "シーズン", "r": "シーズン", "hv": "", "vi": "mùa (season)" },
+          { "w": "オフシーズン", "r": "オフシーズン", "hv": "", "vi": "mùa thấp điểm" },
+          { "w": "飛行機", "r": "ひこうき", "hv": "PHI HÀNH CƠ", "vi": "máy bay" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "シーズン hay đi cùng: 旅行シーズン・受験シーズン・シーズンオフ."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "私の上司はとても（　　）で、今まで怒ったのを見たことがない。",
+      "options": ["優良", "温暖", "良性", "温厚"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Cấp trên của tôi rất ôn hòa, hiền hậu, tôi chưa từng thấy anh ấy nổi giận.",
+        "why": "温厚 (おんこう, ÔN HẬU) = điềm đạm, hiền hậu (tính cách người). Khớp với vế sau ‘chưa từng thấy giận’.",
+        "options": [
+          "優良 (ゆうりょう): ưu tú, chất lượng tốt (優良企業). Không chỉ tính cách. Sai.",
+          "温暖 (おんだん): ấm áp (khí hậu). Sai.",
+          "良性 (りょうせい): lành tính (khối u). Sai.",
+          "温厚 (おんこう): ôn hòa, hiền hậu. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "温厚", "r": "おんこう", "hv": "ÔN HẬU", "vi": "ôn hòa, hiền hậu" },
+          { "w": "上司", "r": "じょうし", "hv": "THƯỢNG TY", "vi": "cấp trên" },
+          { "w": "温暖", "r": "おんだん", "hv": "ÔN NOÃN", "vi": "ấm áp (khí hậu)" },
+          { "w": "優良", "r": "ゆうりょう", "hv": "ƯU LƯƠNG", "vi": "ưu tú, tốt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "温厚な人柄 = tính cách hiền hậu; 温暖な気候 = khí hậu ôn hòa → 温 dùng cho cả hai nhưng vế sau quyết định."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "この数カ月、新しいゲームが（　　）発売されている。",
+      "options": ["相次いで", "間もなく", "ぐんぐん", "すいすい"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Mấy tháng nay, các trò chơi mới liên tiếp được tung ra.",
+        "why": "相次いで (あいついで, TƯƠNG THỨ) = liên tiếp, nối tiếp nhau (sự việc cùng loại xảy ra nhiều lần). Khớp với ‘この数カ月’ và ‘ている’ (liên tục).",
+        "options": [
+          "相次いで: liên tiếp. ĐÚNG.",
+          "間もなく (まもなく): sắp sửa, chẳng bao lâu nữa (tương lai gần), không hợp với ‘mấy tháng nay’. Sai.",
+          "ぐんぐん: vùn vụt (lớn lên, tiến bộ nhanh). Sai.",
+          "すいすい: lướt nhẹ nhàng, trôi chảy (bơi, xe chạy). Sai."
+        ],
+        "vocab": [
+          { "w": "相次いで", "r": "あいついで", "hv": "TƯƠNG THỨ", "vi": "liên tiếp, lần lượt" },
+          { "w": "発売", "r": "はつばい", "hv": "PHÁT MẠI", "vi": "phát hành, bán ra" },
+          { "w": "間もなく", "r": "まもなく", "hv": "GIAN", "vi": "sắp sửa" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "相次ぐ hay đi với tin tức: 事故が相次ぐ = tai nạn liên tiếp xảy ra."
+      }
+    },
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "池田さんはまじめすぎて、冗談が（　　）。",
+      "options": ["当たらない", "渡らない", "構わない", "通じない"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh Ikeda quá nghiêm túc nên không hiểu được câu đùa.",
+        "why": "冗談が通じない (つうじない) = nói đùa mà người kia không hiểu (coi là thật). 通じる = được hiểu, thông suốt.",
+        "options": [
+          "当たらない: không trúng; không đến mức (～には当たらない). Sai.",
+          "渡らない: không băng qua, không được trao. Sai.",
+          "構わない: không sao, không bận tâm. Sai.",
+          "通じない: không hiểu, không thông. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "通じる", "r": "つうじる", "hv": "THÔNG", "vi": "hiểu được; thông, kết nối" },
+          { "w": "冗談", "r": "じょうだん", "hv": "NHŨNG ĐÀM", "vi": "câu đùa" },
+          { "w": "真面目", "r": "まじめ", "hv": "CHÂN DIỆN MỤC", "vi": "nghiêm túc, chăm chỉ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm cố định: 言葉が通じる (hiểu ngôn ngữ), 電話が通じる (gọi được), 冗談が通じない."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "このホテルの宿泊料金には、朝食も（　　）いる。",
+      "options": ["含まれて", "納めれて", "割り込まれて", "詰め込まれて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Giá phòng của khách sạn này đã bao gồm cả bữa sáng.",
+        "why": "含まれる (ふくまれる, HÀM) = được bao gồm. 料金に朝食も含まれている = giá đã gồm bữa sáng.",
+        "options": [
+          "含まれて: được bao gồm. ĐÚNG.",
+          "納めれて: chia sai (đúng phải là 納められて); 納める = nộp (thuế, tiền). Sai.",
+          "割り込まれて: bị chen ngang (xếp hàng). Sai.",
+          "詰め込まれて: bị nhồi nhét (hành lý, kiến thức). Sai."
+        ],
+        "vocab": [
+          { "w": "含む", "r": "ふくむ", "hv": "HÀM", "vi": "bao gồm, chứa" },
+          { "w": "宿泊料金", "r": "しゅくはくりょうきん", "hv": "TÚC BẠC LIỆU KIM", "vi": "tiền phòng trọ" },
+          { "w": "朝食", "r": "ちょうしょく", "hv": "TRIỀU THỰC", "vi": "bữa sáng" },
+          { "w": "割り込む", "r": "わりこむ", "hv": "CÁT", "vi": "chen ngang" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "税込み (ぜいこみ) = đã gồm thuế; 朝食込み = đã gồm bữa sáng."
+      }
+    }
+  ]
+}

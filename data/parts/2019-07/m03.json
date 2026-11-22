@@ -1,0 +1,82 @@
+{
+  "exam": "2019-07",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất (tiền tố/hậu tố) để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "ゲームのしすぎは目に（　　）影響を与える。",
+      "options": ["悪", "重", "高", "大"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Chơi game quá nhiều gây ảnh hưởng xấu đến mắt.",
+        "why": "悪影響 (あくえいきょう - ÁC ẢNH HƯỞNG) = ảnh hưởng xấu. Cụm cố định: 悪影響を与える.",
+        "options": [
+          "悪 → 悪影響: ảnh hưởng xấu. ĐÚNG.",
+          "重 → 重影響: không có từ này. Sai.",
+          "高 → 高影響: không có từ này. Sai.",
+          "大 → không nói 大影響 (nói 大きな影響 / 多大な影響). Sai."
+        ],
+        "vocab": [
+          { "w": "悪影響", "r": "あくえいきょう", "hv": "ÁC ẢNH HƯỞNG", "vi": "ảnh hưởng xấu" },
+          { "w": "与える", "r": "あたえる", "hv": "DỮ", "vi": "gây ra, trao cho" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "悪 làm tiền tố: 悪影響, 悪条件 (điều kiện xấu), 悪循環 (vòng luẩn quẩn)."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "彼はアメリカ（　　）のビジネスで成功した。",
+      "options": ["形", "質", "性", "流"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh ấy đã thành công nhờ cách kinh doanh kiểu Mỹ.",
+        "why": "～流 (りゅう - LƯU) = kiểu, phong cách, lối (của ai/nước nào). アメリカ流 = kiểu Mỹ.",
+        "options": [
+          "形 (けい): hình dạng (現在形...). Không dùng với アメリカ. Sai.",
+          "質 (しつ): chất (品質...). Sai.",
+          "性 (せい): tính chất (安全性...). Sai.",
+          "流 (りゅう): kiểu, lối. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "～流", "r": "～りゅう", "hv": "LƯU", "vi": "kiểu, lối, phong cách" },
+          { "w": "成功", "r": "せいこう", "hv": "THÀNH CÔNG", "vi": "thành công" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Ví dụ: 日本流 (kiểu Nhật), 自己流 (theo cách của riêng mình)."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "別れ（　　）に、彼女は私に何か言ったが、聞こえなかった。",
+      "options": ["刻", "際", "間", "期"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Lúc sắp chia tay, cô ấy đã nói gì đó với tôi nhưng tôi không nghe thấy.",
+        "why": "～際 (ぎわ - TẾ) gắn sau Vます = ngay lúc sắp làm gì. 別れ際 (わかれぎわ) = lúc chia tay.",
+        "options": [
+          "刻 → không có 別れ刻. Sai.",
+          "際 → 別れ際: lúc chia tay. ĐÚNG.",
+          "間 → không có 別れ間. Sai.",
+          "期 → không có 別れ期. Sai."
+        ],
+        "vocab": [
+          { "w": "別れ際", "r": "わかれぎわ", "hv": "BIỆT TẾ", "vi": "lúc chia tay" },
+          { "w": "窓際", "r": "まどぎわ", "hv": "SONG TẾ", "vi": "cạnh cửa sổ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "～際 (ぎわ): 帰り際 (lúc ra về), 窓際 (sát cửa sổ), 瀬戸際 (thời khắc quyết định)."
+      }
+    }
+  ]
+}

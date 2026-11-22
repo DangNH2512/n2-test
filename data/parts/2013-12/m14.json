@@ -1,0 +1,80 @@
+{
+  "exam": "2013-12",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "下は、留学生小論文コンテストの募集案内である。下の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Dưới đây là thông báo tuyển bài cuộc thi tiểu luận dành cho du học sinh. Chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "留学生小論文コンテスト",
+      "text": "留学生小論文コンテスト\n小論文募集のご案内\n\n小森大学では、日本の大学に留学中の学生を対象とした小論文コンテストを実施します。\n\n【テーマ】自国における地球温暖化対策\nあなたの国の地球温暖化対策や、それについての意見を紹介してください。\n例：国の気候に合ったビジネススタイル（勤務時間、服装など）\n　　資源やエネルギーを節約するための取り組み、工夫、習慣\n\n【応募資格】次の条件を両方とも満たす者\n・現在、日本の大学、大学院に留学している外国人学生\n・卒業後、日本で就職したいと考えている外国人学生\n\n【募集期間】２０１３年１１月１１日（月）～１２月１７日（火）（１２月１７日必着）\n\n【賞及び賞品】\n最優秀賞（１名：賞状および図書券３万円分）\n優秀賞（３名程度：賞状および図書券１万円分）\n入賞者には２０１４年１月中旬に郵便で通知します。２０１４年２月９日に、小森大学において賞状および賞品の授与を行います。\n\n【応募の決まり】\n（１）小論文は日本語で作成してください。文字数は４５００～５０００字で、参考文献リストは文字数に含めません。また、小論文とは別に、４００字程度の要旨を応募用紙に記入してください。\n（２）小論文は、パソコンを使用して作成し、指定の応募用紙とともにＥメールに添付して応募してください。応募用紙は、下記ホームページからダウンロードしてください。\n（３）小論文は未発表のものに限ります。（他のコンテスト等に出したものは不可）\n（４）応募は１名１点とします。\n\n【応募先・問い合わせ】小森大学留学生センター「留学生小論文コンテスト」係\nホームページ：http://nihongo.komori.ac.jp\nＥメール：nihongo-komori@komori.ac.jp\n住所：〒100-1234　小森市緑木町１丁目１番"
+    }
+  ],
+  "questions": [
+    {
+      "num": 74,
+      "passage": "p1",
+      "stem": "次の学生のうち、このコンテストの応募条件を満たしているのは誰か。\n名前｜現在の留学先｜今後の予定｜小論文のテーマ\nチャン｜日本の高校｜日本の大学に進学｜自国でのごみを減らす取り組みについて\nアフマド｜日本の大学｜日本の大学院に進学｜日本のオフィスでの節電対策について\nローズ｜日本の大学｜日本で働く｜自国の資源の再利用について\nナタリア｜日本の大学院｜母国で働く｜日本人の夏用ビジネススーツについて",
+      "options": ["チャンさん", "アフマドさん", "ローズさん", "ナタリアさん"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Trong các sinh viên sau, ai đáp ứng điều kiện dự thi? → Rose.",
+        "why": "Cần đủ 3 điều: (1) đang du học tại đại học/cao học Nhật, (2) sau tốt nghiệp muốn làm việc tại Nhật, (3) đề tài về biện pháp chống nóng lên toàn cầu ở 'nước mình' (自国). Rose: đại học Nhật + làm việc ở Nhật + tái sử dụng tài nguyên của nước mình → thỏa cả 3.",
+        "options": [
+          "Chan → đang học cấp 3 (高校), không phải đại học/cao học. Sai.",
+          "Ahmad → dự định học lên cao học, không phải đi làm ở Nhật; đề tài về văn phòng ở Nhật, không phải nước mình. Sai.",
+          "Rose → đủ mọi điều kiện. ĐÚNG.",
+          "Natalia → sẽ làm việc ở nước mình; đề tài về vest mùa hè của người Nhật. Sai."
+        ],
+        "vocab": [
+          { "w": "応募資格", "r": "おうぼしかく", "hv": "ỨNG MỘ TƯ CÁCH", "vi": "điều kiện dự tuyển" },
+          { "w": "満たす", "r": "みたす", "hv": "MÃN", "vi": "đáp ứng, thỏa mãn (điều kiện)" },
+          { "w": "自国", "r": "じこく", "hv": "TỰ QUỐC", "vi": "nước mình" },
+          { "w": "地球温暖化", "r": "ちきゅうおんだんか", "hv": "ĐỊA CẦU ÔN NOÃN HÓA", "vi": "trái đất nóng lên" },
+          { "w": "就職", "r": "しゅうしょく", "hv": "TỰU CHỨC", "vi": "tìm được việc, vào làm" }
+        ],
+        "grammar": null,
+        "evidence": "【テーマ】自国における地球温暖化対策／【応募資格】次の条件を両方とも満たす者：現在、日本の大学、大学院に留学している外国人学生・卒業後、日本で就職したいと考えている外国人学生",
+        "tip": "Kiểm tra lần lượt từng cột (nơi học / dự định / đề tài) – chỉ một người qua cả ba cửa."
+      }
+    },
+    {
+      "num": 75,
+      "passage": "p1",
+      "stem": "このコンテストに応募する際に注意しなければならないことは、次のうちどれか。",
+      "options": [
+        "小論文は、要旨を含め５０００字以内で書かなければならない。",
+        "応募用紙は小論文より先に提出しなければならない。",
+        "応募用紙は大学に連絡して取り寄せなければならない。",
+        "一人が応募する小論文は、一点だけにしなければならない。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Khi dự thi cần chú ý điều nào sau đây? → Mỗi người chỉ được nộp một bài tiểu luận.",
+        "why": "Quy định (4): 応募は１名１点とします = mỗi người một bài.",
+        "options": [
+          "5000 chữ bao gồm cả tóm tắt → tiểu luận 4500–5000 chữ, tóm tắt 400 chữ viết riêng trên mẫu đơn (小論文とは別に). Sai.",
+          "Nộp mẫu đơn trước tiểu luận → phải đính kèm cùng tiểu luận trong email (応募用紙とともに). Sai.",
+          "Liên hệ trường để xin mẫu đơn → tải từ trang chủ (ホームページからダウンロード). Sai.",
+          "Mỗi người chỉ một bài. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "要旨", "r": "ようし", "hv": "YẾU CHỈ", "vi": "tóm tắt ý chính" },
+          { "w": "添付", "r": "てんぷ", "hv": "THIÊM PHÓ", "vi": "đính kèm" },
+          { "w": "取り寄せる", "r": "とりよせる", "hv": "THỦ KÝ", "vi": "đặt mua/xin gửi đến" },
+          { "w": "未発表", "r": "みはっぴょう", "hv": "VỊ PHÁT BIỂU", "vi": "chưa công bố" },
+          { "w": "必着", "r": "ひっちゃく", "hv": "TẤT TRƯỚC", "vi": "phải đến nơi (trước hạn)" }
+        ],
+        "grammar": {
+          "pattern": "Nとともに",
+          "meaning": "cùng với N",
+          "form": "N＋とともに",
+          "example": "申込書を写真とともに提出してください。(Hãy nộp đơn đăng ký cùng với ảnh.)"
+        },
+        "evidence": "（４）応募は１名１点とします。",
+        "tip": "Bài thông báo: đối chiếu từng phương án với mục 応募の決まり; chú ý các cụm 'とは別に', 'とともに'."
+      }
+    }
+  ]
+}

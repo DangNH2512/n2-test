@@ -1,0 +1,377 @@
+{
+  "exam": "2023-07",
+  "mondai": 7,
+  "section": "grammar",
+  "instruction": "次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn phương án ngữ pháp thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "この小説は、物語が進む（　　）主人公の少年の心理が変化していくのが面白い。",
+      "options": ["としても", "とはいえ", "につれて", "にあたって"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Cuốn tiểu thuyết này thú vị ở chỗ tâm lý của cậu bé nhân vật chính thay đổi dần theo diễn biến câu chuyện.",
+        "why": "～につれて = cùng với sự thay đổi của A thì B cũng thay đổi theo. Vế sau có 変化していく (biến đổi dần) – đúng đặc trưng của につれて.",
+        "options": [
+          "としても → giả sử ~ đi nữa thì cũng. Sai.",
+          "とはいえ → tuy nói là ~ nhưng. Sai.",
+          "につれて → càng ~ càng, cùng với ~. ĐÚNG.",
+          "にあたって → nhân dịp, khi bắt đầu làm việc quan trọng. Sai."
+        ],
+        "vocab": [
+          { "w": "物語", "r": "ものがたり", "hv": "VẬT NGỮ", "vi": "câu chuyện" },
+          { "w": "主人公", "r": "しゅじんこう", "hv": "CHỦ NHÂN CÔNG", "vi": "nhân vật chính" },
+          { "w": "心理", "r": "しんり", "hv": "TÂM LÝ", "vi": "tâm lý" },
+          { "w": "少年", "r": "しょうねん", "hv": "THIẾU NIÊN", "vi": "cậu bé, thiếu niên" }
+        ],
+        "grammar": {
+          "pattern": "～につれて",
+          "meaning": "cùng với ~, càng ~ thì càng ~ (thay đổi song song)",
+          "form": "Vる／N ＋ につれて",
+          "example": "年を取るにつれて、体力が落ちてきた。"
+        },
+        "evidence": null,
+        "tip": "Vế trước và vế sau của につれて đều phải là sự thay đổi dần dần (進む・増える・変化する・～ていく)."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "昨日行ったレストランは、味もサービスも最低だった。（　　）行きたくない。",
+      "options": ["二度と", "必ずしも", "まさか", "あまりに"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nhà hàng hôm qua tôi đến cả vị lẫn phục vụ đều tệ nhất. Tôi không bao giờ muốn đến lần nữa.",
+        "why": "二度と～ない = không bao giờ ~ lần nữa. Đi với phủ định 行きたくない.",
+        "options": [
+          "二度と → (+ phủ định) không bao giờ … nữa. ĐÚNG.",
+          "必ずしも → (+ ない) không hẳn là, chưa chắc. Không hợp nghĩa. Sai.",
+          "まさか → lẽ nào, không thể ngờ. Sai.",
+          "あまりに → quá mức (あまりに～て／ので). Sai."
+        ],
+        "vocab": [
+          { "w": "最低", "r": "さいてい", "hv": "TỐI ĐÊ", "vi": "tệ nhất, tối thiểu" },
+          { "w": "二度と", "r": "にどと", "hv": "NHỊ ĐỘ", "vi": "(không) bao giờ nữa" },
+          { "w": "必ずしも", "r": "かならずしも", "hv": "TẤT", "vi": "không hẳn, chưa chắc" }
+        ],
+        "grammar": {
+          "pattern": "二度と～ない",
+          "meaning": "không bao giờ ~ lần nữa",
+          "form": "二度と ＋ Vない",
+          "example": "こんな失敗は二度としません。"
+        },
+        "evidence": null,
+        "tip": "Cả 二度と và 必ずしも đều đi với phủ định – phân biệt bằng nghĩa: \"không bao giờ nữa\" vs \"không hẳn\"."
+      }
+    },
+    {
+      "num": 33,
+      "passage": null,
+      "stem": "今回のオリンピックで、体操の青木選手は、メダルは獲得できなかった（　　）、素晴らしい演技を見せてくれた。",
+      "options": ["からといって", "どころか", "あげくに", "ものの"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tại Olympic lần này, vận động viên thể dục dụng cụ Aoki tuy không giành được huy chương nhưng đã cho chúng ta xem màn trình diễn tuyệt vời.",
+        "why": "～ものの = tuy ~ nhưng (thừa nhận A, rồi nói B trái với dự đoán). メダルなし ↔ 素晴らしい演技 là quan hệ nghịch.",
+        "options": [
+          "からといって → (dù) chỉ vì ~ mà (không hẳn) – vế sau thường phủ định. Sai.",
+          "どころか → chẳng những không ~ mà ngược lại. Sai.",
+          "あげくに → sau rất nhiều ~, cuối cùng (kết quả xấu). Sai.",
+          "ものの → tuy ~ nhưng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "体操", "r": "たいそう", "hv": "THỂ THAO", "vi": "thể dục dụng cụ" },
+          { "w": "獲得", "r": "かくとく", "hv": "HOẠCH ĐẮC", "vi": "giành được" },
+          { "w": "演技", "r": "えんぎ", "hv": "DIỄN KỸ", "vi": "màn trình diễn, diễn xuất" },
+          { "w": "素晴らしい", "r": "すばらしい", "hv": "", "vi": "tuyệt vời" }
+        ],
+        "grammar": {
+          "pattern": "～ものの",
+          "meaning": "tuy ~ nhưng (vế sau trái với điều tự nhiên suy ra)",
+          "form": "普通形（Naな／Nである）＋ ものの",
+          "example": "免許は取ったものの、まだ運転したことがない。"
+        },
+        "evidence": null,
+        "tip": "ものの ≈ けれども nhưng trang trọng hơn; hay đi với ～た形."
+      }
+    },
+    {
+      "num": 34,
+      "passage": null,
+      "stem": "60代の父が、趣味（　　）何歳から始めても遅くないだろうと言って、最近ピアノ教室に通い始めた。",
+      "options": ["としてだけ", "としてなら", "にとっては", "にとっても"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Bố tôi ngoài 60 tuổi, nói rằng nếu là (với tư cách) sở thích thì bắt đầu ở tuổi nào cũng không muộn, và gần đây đã bắt đầu đi học piano.",
+        "why": "趣味としてなら = nếu là với tư cách sở thích (giới hạn điều kiện: không phải nghề nghiệp). Vế sau 何歳から始めても遅くない là nhận định chỉ đúng trong điều kiện đó.",
+        "options": [
+          "としてだけ → chỉ với tư cách ~ – không nối tự nhiên với \"không muộn\". Sai.",
+          "としてなら → nếu với tư cách ~ thì. ĐÚNG.",
+          "にとっては → đối với (người/tổ chức) – 趣味 không phải chủ thể đánh giá. Sai.",
+          "にとっても → đối với ~ cũng – sai chủ thể như trên. Sai."
+        ],
+        "vocab": [
+          { "w": "趣味", "r": "しゅみ", "hv": "THÚ VỊ", "vi": "sở thích" },
+          { "w": "教室", "r": "きょうしつ", "hv": "GIÁO THẤT", "vi": "lớp học" },
+          { "w": "通う", "r": "かよう", "hv": "THÔNG", "vi": "đi lại (đều đặn)" }
+        ],
+        "grammar": {
+          "pattern": "N ＋ としてなら",
+          "meaning": "nếu xét với tư cách/vai trò là N thì",
+          "form": "N ＋ として ＋ なら",
+          "example": "仕事としては無理でも、趣味としてなら続けられる。"
+        },
+        "evidence": null,
+        "tip": "にとって đi sau người/tổ chức đưa ra đánh giá (私にとって). 趣味 là vai trò → dùng として."
+      }
+    },
+    {
+      "num": 35,
+      "passage": null,
+      "stem": "約束の時間に友人の家に着いてインターホンを押すと、慌てた様子で友人が玄関に出てきた。（　　）、パジャマ姿のままだった。",
+      "options": ["起きるところだったら", "起きるところらしく", "起きたばかりだったら", "起きたばかりらしく"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đến nhà bạn đúng giờ hẹn và bấm chuông thì bạn hốt hoảng ra cửa. Có vẻ như vừa mới ngủ dậy, (bạn) vẫn đang mặc nguyên bộ pyjama.",
+        "why": "Mặc pyjama + vội vàng → suy đoán \"hình như vừa mới dậy\". ～たばかり = vừa mới; ～らしく = có vẻ như (suy đoán dựa trên quan sát), nối câu bằng dạng く.",
+        "options": [
+          "起きるところだったら → nếu sắp dậy thì – giả định, không hợp với sự việc đã thấy. Sai.",
+          "起きるところらしく → có vẻ sắp dậy – nhưng bạn đã ra mở cửa rồi, mâu thuẫn. Sai.",
+          "起きたばかりだったら → nếu vừa dậy thì – giả định, không hợp. Sai.",
+          "起きたばかりらしく → có vẻ vừa mới dậy. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "慌てる", "r": "あわてる", "hv": "HOẢNG", "vi": "vội vàng, hốt hoảng" },
+          { "w": "様子", "r": "ようす", "hv": "DẠNG TỬ", "vi": "dáng vẻ, tình trạng" },
+          { "w": "玄関", "r": "げんかん", "hv": "HUYỀN QUAN", "vi": "cửa ra vào, tiền sảnh" },
+          { "w": "姿", "r": "すがた", "hv": "TƯ", "vi": "dáng, bộ dạng" }
+        ],
+        "grammar": {
+          "pattern": "～たばかりらしく、～",
+          "meaning": "có vẻ như vừa mới ~, (nên) ~",
+          "form": "Vた ＋ ばかり ＋ らしく",
+          "example": "彼は日本に来たばかりらしく、まだ日本語が話せない。"
+        },
+        "evidence": null,
+        "tip": "Câu mô tả cảnh người viết quan sát → dùng らしい (suy đoán), không dùng giả định ～たら."
+      }
+    },
+    {
+      "num": 36,
+      "passage": null,
+      "stem": "「リマインド」とは、「再確認」の意味を持ち、「会議の日程が近づいてきたので、出席者にリマインドした。」（　　）使用されるビジネス用語である。",
+      "options": ["というように", "というような", "ということのように", "ということのような"],
+      "answer": 1,
+      "explanation": {
+        "translation": "\"Remind\" mang nghĩa \"xác nhận lại\", là thuật ngữ kinh doanh được dùng như kiểu: \"Vì ngày họp đã đến gần nên tôi đã nhắc lại cho người tham dự\".",
+        "why": "Sau chỗ trống là động từ 使用される → cần dạng trạng từ ～ように (bổ nghĩa động từ). 「…」というように = như kiểu \"…\", dùng để dẫn ví dụ cụ thể.",
+        "options": [
+          "というように → như kiểu (dẫn ví dụ), bổ nghĩa cho động từ 使用される. ĐÚNG.",
+          "というような → dạng bổ nghĩa danh từ; sau nó phải là danh từ. Sai.",
+          "ということのように → thừa こと, không tự nhiên. Sai.",
+          "ということのような → thừa こと và lại là dạng bổ nghĩa danh từ. Sai."
+        ],
+        "vocab": [
+          { "w": "再確認", "r": "さいかくにん", "hv": "TÁI XÁC NHẬN", "vi": "xác nhận lại" },
+          { "w": "日程", "r": "にってい", "hv": "NHẬT TRÌNH", "vi": "lịch trình" },
+          { "w": "出席者", "r": "しゅっせきしゃ", "hv": "XUẤT TỊCH GIẢ", "vi": "người tham dự" },
+          { "w": "用語", "r": "ようご", "hv": "DỤNG NGỮ", "vi": "thuật ngữ" }
+        ],
+        "grammar": {
+          "pattern": "「～」というように",
+          "meaning": "như kiểu ~, chẳng hạn như ~ (dẫn ví dụ, bổ nghĩa động từ)",
+          "form": "Câu trích dẫn ＋ というように ＋ V",
+          "example": "「すみません」は、「ありがとう」というように感謝の意味でも使われる。"
+        },
+        "evidence": null,
+        "tip": "～ように + Động từ; ～ような + Danh từ. Nhìn từ đứng ngay sau chỗ trống."
+      }
+    },
+    {
+      "num": 37,
+      "passage": null,
+      "stem": "学校や病院では定期的に避難訓練が行われている。避難訓練を（　　）、火災などがあったときに落ち着いて行動できるからだ。",
+      "options": ["しておくには", "しているとしても", "しておくことで", "しているかという"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Ở trường học và bệnh viện, diễn tập sơ tán được tổ chức định kỳ. Bởi vì nhờ diễn tập sẵn từ trước, khi có hỏa hoạn mọi người có thể hành động bình tĩnh.",
+        "why": "～ことで = bằng cách/nhờ việc ~ (phương tiện → kết quả). ～ておく = làm sẵn để chuẩn bị. 訓練をしておくことで → 落ち着いて行動できる.",
+        "options": [
+          "しておくには → để làm sẵn thì (cần ~) – vế sau phải là điều kiện cần. Sai.",
+          "しているとしても → dù có đang tập đi nữa – nghĩa ngược. Sai.",
+          "しておくことで → nhờ việc tập sẵn. ĐÚNG.",
+          "しているかという → về việc có đang tập hay không – không nối được. Sai."
+        ],
+        "vocab": [
+          { "w": "避難訓練", "r": "ひなんくんれん", "hv": "TỊ NẠN HUẤN LUYỆN", "vi": "diễn tập sơ tán" },
+          { "w": "定期的", "r": "ていきてき", "hv": "ĐỊNH KỲ ĐÍCH", "vi": "định kỳ" },
+          { "w": "火災", "r": "かさい", "hv": "HỎA TAI", "vi": "hỏa hoạn" },
+          { "w": "落ち着く", "r": "おちつく", "hv": "LẠC TRƯỚC", "vi": "bình tĩnh" }
+        ],
+        "grammar": {
+          "pattern": "～ておくことで",
+          "meaning": "nhờ việc làm sẵn ~ (mà có kết quả tốt)",
+          "form": "Vて ＋ おく ＋ ことで",
+          "example": "予習しておくことで、授業がよく理解できる。"
+        },
+        "evidence": null,
+        "tip": "Câu cuối có ～からだ giải thích lý do → chỗ trống cần \"cách thức/nguyên nhân\" → ことで."
+      }
+    },
+    {
+      "num": 38,
+      "passage": null,
+      "stem": "明日、友達と映画を見に行くことになった。映画館で映画を見るのは、大学の時以来だから、約5年（　　）だ。",
+      "options": ["まで", "など", "きり", "ぶり"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Ngày mai tôi sẽ đi xem phim với bạn. Xem phim ở rạp là lần đầu tiên kể từ thời đại học, tức là sau khoảng 5 năm.",
+        "why": "Khoảng thời gian + ぶり = sau ~ (lâu rồi) mới lại. 5年ぶり = 5 năm rồi mới lại xem.",
+        "options": [
+          "まで → đến tận. Sai.",
+          "など → vân vân, chẳng hạn. Sai.",
+          "きり → chỉ, kể từ đó (không thay đổi): 二人きり／それきり. Sai.",
+          "ぶり → sau ~ (thời gian) mới lại. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "映画館", "r": "えいがかん", "hv": "ÁNH HỌA QUÁN", "vi": "rạp chiếu phim" },
+          { "w": "以来", "r": "いらい", "hv": "DĨ LAI", "vi": "kể từ" },
+          { "w": "約", "r": "やく", "hv": "ƯỚC", "vi": "khoảng" }
+        ],
+        "grammar": {
+          "pattern": "期間 ＋ ぶり",
+          "meaning": "sau (khoảng thời gian) mới lại ~",
+          "form": "Khoảng thời gian ＋ ぶり（だ／に／の N）",
+          "example": "3年ぶりに故郷に帰った。"
+        },
+        "evidence": null,
+        "tip": "以来 (kể từ) và ぶり thường đi cùng nhau: ～以来だから、～年ぶりだ."
+      }
+    },
+    {
+      "num": 39,
+      "passage": null,
+      "stem": "睡眠には、体や脳にたまった疲労をとる効果がある。睡眠時間を削ることは、体や脳を回復させる大切な機会を奪うことに（　　）のだ。",
+      "options": ["ほかならない", "欠かせない", "すぎない", "限らない"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Giấc ngủ có tác dụng loại bỏ mệt mỏi tích tụ trong cơ thể và não. Cắt giảm thời gian ngủ chính là tước đi cơ hội quý giá để phục hồi cơ thể và não.",
+        "why": "～にほかならない = chính là, không gì khác ngoài ~ (khẳng định mạnh). Người viết nhấn mạnh: cắt giảm giấc ngủ = tước đi cơ hội phục hồi.",
+        "options": [
+          "ほかならない → chính là ~. ĐÚNG.",
+          "欠かせない → không thể thiếu – đi với に nhưng nghĩa \"thiếu không được\", không hợp. Sai.",
+          "すぎない → (にすぎない) chỉ là ~ mà thôi – làm nhẹ đi, trái ý nhấn mạnh. Sai.",
+          "限らない → (とは限らない) chưa chắc đã ~; không đi với に. Sai."
+        ],
+        "vocab": [
+          { "w": "睡眠", "r": "すいみん", "hv": "THỤY MIÊN", "vi": "giấc ngủ" },
+          { "w": "疲労", "r": "ひろう", "hv": "BÌ LAO", "vi": "mệt mỏi" },
+          { "w": "削る", "r": "けずる", "hv": "TƯỚC", "vi": "gọt; cắt giảm" },
+          { "w": "回復", "r": "かいふく", "hv": "HỒI PHỤC", "vi": "hồi phục" },
+          { "w": "奪う", "r": "うばう", "hv": "ĐOẠT", "vi": "cướp, tước đoạt" }
+        ],
+        "grammar": {
+          "pattern": "～にほかならない",
+          "meaning": "chính là ~, không gì khác ngoài ~",
+          "form": "N／Vること ＋ にほかならない",
+          "example": "成功したのは、努力の結果にほかならない。"
+        },
+        "evidence": null,
+        "tip": "にほかならない (nhấn mạnh: chính là) ↔ にすぎない (giảm nhẹ: chỉ là). Câu có のだ khẳng định → chọn ほかならない."
+      }
+    },
+    {
+      "num": 40,
+      "passage": null,
+      "stem": "（会社で）\n木村「山下さん、先ほど、さくら銀行の南さんからお電話がありまして、今日中に連絡してほしい（　　）。」\n山下「はい、わかりました。」",
+      "options": ["ことになりました", "とのことでした", "と助かるのですが", "ようにしてください"],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Ở công ty) Kimura: \"Anh Yamashita, lúc nãy anh Minami bên ngân hàng Sakura có gọi điện, nói là mong anh liên lạc lại trong hôm nay.\" Yamashita: \"Vâng, tôi hiểu rồi.\"",
+        "why": "Kimura truyền đạt lại lời nhắn của người khác → ～とのことでした (nghe nói là, người đó nói là ~), dạng truyền đạt lịch sự trong công việc.",
+        "options": [
+          "ことになりました → đã được quyết định là ~. Không phải truyền lời. Sai.",
+          "とのことでした → (người đó) nói là ~. ĐÚNG.",
+          "と助かるのですが → nếu ~ thì tôi đỡ quá – là mong muốn của chính người nói, không phải truyền lời. Sai.",
+          "ようにしてください → hãy cố gắng ~ – mệnh lệnh của Kimura, sai vai. Sai."
+        ],
+        "vocab": [
+          { "w": "先ほど", "r": "さきほど", "hv": "TIÊN", "vi": "lúc nãy (lịch sự)" },
+          { "w": "今日中", "r": "きょうじゅう", "hv": "KIM NHẬT TRUNG", "vi": "trong hôm nay" },
+          { "w": "連絡", "r": "れんらく", "hv": "LIÊN LẠC", "vi": "liên lạc" }
+        ],
+        "grammar": {
+          "pattern": "～とのことだ",
+          "meaning": "nghe nói ~, (người kia) nói rằng ~ (truyền đạt lời nhắn)",
+          "form": "普通形 ＋ とのことだ／とのことでした",
+          "example": "部長は少し遅れるとのことです。"
+        },
+        "evidence": null,
+        "tip": "Gặp cảnh nhận điện thoại hộ rồi báo lại → nghĩ ngay đến とのことです／と言っていました."
+      }
+    },
+    {
+      "num": 41,
+      "passage": null,
+      "stem": "駅前に新しくできたカフェに友達を誘って行ってみたら、定休日だった。事前に確認しておく（　　）。",
+      "options": ["しかなかった", "ほどではなかった", "べきだった", "せいだった"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi rủ bạn đến quán cà phê mới mở trước ga thì hôm đó quán nghỉ định kỳ. Lẽ ra tôi nên kiểm tra trước.",
+        "why": "～べきだった = lẽ ra nên ~ (hối tiếc vì đã không làm). Đã không kiểm tra nên gặp ngày nghỉ → hối hận.",
+        "options": [
+          "しかなかった → chỉ còn cách ~ – không hợp (thực tế không làm). Sai.",
+          "ほどではなかった → không đến mức ~. Sai.",
+          "べきだった → lẽ ra nên ~. ĐÚNG.",
+          "せいだった → là do (lỗi) ~ – phải là せいだ sau nguyên nhân, nghĩa không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "定休日", "r": "ていきゅうび", "hv": "ĐỊNH HƯU NHẬT", "vi": "ngày nghỉ định kỳ" },
+          { "w": "事前", "r": "じぜん", "hv": "SỰ TIỀN", "vi": "trước (khi việc xảy ra)" },
+          { "w": "誘う", "r": "さそう", "hv": "DỤ", "vi": "rủ, mời" }
+        ],
+        "grammar": {
+          "pattern": "～べきだった",
+          "meaning": "lẽ ra nên ~ (hối tiếc)",
+          "form": "Vる ＋ べきだった（する → すべき／するべき）",
+          "example": "もっと早く家を出るべきだった。"
+        },
+        "evidence": null,
+        "tip": "Tình huống thất bại + 事前に → mẫu hối tiếc: ～べきだった／～ばよかった."
+      }
+    },
+    {
+      "num": 42,
+      "passage": null,
+      "stem": "（インタビューで）\n選手「今回優勝できたのは、多くの方に（　　）。本当にありがとうございました。」",
+      "options": ["応援してくださったおかげです", "応援していただいたおかげです", "応援してくださったことだと思います", "応援していただいたことだと思います"],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Phỏng vấn) Vận động viên: \"Lần này tôi vô địch được là nhờ đã được rất nhiều người cổ vũ. Thật sự cảm ơn mọi người.\"",
+        "why": "Có trợ từ に (多くの方に) → chủ thể nhận hành động là tôi → dùng ～ていただく (Nに～ていただく). ～のは～おかげです = có được ~ là nhờ ~.",
+        "options": [
+          "応援してくださったおかげです → くださる cần chủ ngữ là người làm (多くの方が), không đi với に. Sai.",
+          "応援していただいたおかげです → được (mọi người) cổ vũ, nhờ vậy. ĐÚNG.",
+          "応援してくださったことだと思います → sai trợ từ và ～のは～ことだ không diễn tả lý do. Sai.",
+          "応援していただいたことだと思います → trợ từ đúng nhưng ことだと思います không diễn đạt \"nhờ\". Sai."
+        ],
+        "vocab": [
+          { "w": "優勝", "r": "ゆうしょう", "hv": "ƯU THẮNG", "vi": "vô địch" },
+          { "w": "応援", "r": "おうえん", "hv": "ỨNG VIỆN", "vi": "cổ vũ, ủng hộ" },
+          { "w": "選手", "r": "せんしゅ", "hv": "TUYỂN THỦ", "vi": "vận động viên" }
+        ],
+        "grammar": {
+          "pattern": "Nに～ていただいたおかげだ",
+          "meaning": "nhờ được N làm ~ cho",
+          "form": "N(người)に ＋ Vて ＋ いただいた ＋ おかげだ",
+          "example": "先生に丁寧に教えていただいたおかげで、合格できました。"
+        },
+        "evidence": null,
+        "tip": "Nが～てくださる / Nに～ていただく. Nhìn trợ từ trước chỗ trống để chọn kính ngữ."
+      }
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "exam": "2011-12",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các phương án vào câu, chọn phương án điền vào vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "もう秋になるのに、今日の暑さは＿＿＿ ＿＿＿ ★ ＿＿＿エアコンをつけた家も多かったらしい。",
+      "options": ["真夏", "のようで", "まるで", "に戻ったか"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đã sắp sang thu mà cái nóng hôm nay cứ như quay lại giữa mùa hè, nghe nói nhiều nhà đã bật điều hòa.",
+        "why": "Thứ tự: 暑さは［3 まるで］［1 真夏］［4 に戻ったか★］［2 のようで］エアコンを… Cấu trúc まるで〜か のようだ = cứ như thể ~. ★ ở vị trí 3 → に戻ったか.",
+        "options": [
+          "真夏 → vị trí 2 (まるで真夏). Không phải ★.",
+          "のようで → vị trí 4, nối với エアコン… Không phải ★.",
+          "まるで → vị trí 1. Không phải ★.",
+          "に戻ったか → vị trí 3, ★. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "真夏", "r": "まなつ", "hv": "CHÂN HẠ", "vi": "giữa mùa hè" },
+          { "w": "戻る", "r": "もどる", "hv": "LỆ", "vi": "quay lại" }
+        ],
+        "grammar": { "pattern": "まるで〜かのようだ", "meaning": "cứ như thể là ~", "form": "まるで＋普通形＋かのようだ", "example": "彼はまるで何も知らないかのような顔をしている。" },
+        "evidence": null,
+        "tip": "まるで luôn đi đầu, hô ứng với ようだ／みたいだ ở cuối."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "（ホテルで）\n支配人「お客様を間違った部屋に案内してしまったそうだね。」\n従業員「はい。事前にリストをしっかり＿＿＿ ＿＿＿ ★ ＿＿＿のに申し訳ありません。」",
+      "options": ["しておけば", "確認さえ", "ミスでした", "防げる"],
+      "answer": 4,
+      "explanation": {
+        "translation": "(Ở khách sạn) Quản lý: \"Nghe nói cậu đã dẫn khách nhầm phòng à.\" Nhân viên: \"Vâng. Đó là lỗi mà chỉ cần kiểm tra kỹ danh sách trước là đã tránh được, tôi thành thật xin lỗi.\"",
+        "why": "Thứ tự: しっかり［2 確認さえ］［1 しておけば］［4 防げる★］［3 ミスでした］のに. Cấu trúc 〜さえ〜ば = chỉ cần ~ là. 防げる bổ nghĩa cho ミス. ★ vị trí 3 → 防げる.",
+        "options": [
+          "しておけば → vị trí 2 (確認さえしておけば). Không phải ★.",
+          "確認さえ → vị trí 1. Không phải ★.",
+          "ミスでした → vị trí 4, trước のに. Không phải ★.",
+          "防げる → vị trí 3, ★. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "支配人", "r": "しはいにん", "hv": "CHI PHỐI NHÂN", "vi": "quản lý (khách sạn)" },
+          { "w": "従業員", "r": "じゅうぎょういん", "hv": "TÙNG NGHIỆP VIÊN", "vi": "nhân viên" },
+          { "w": "防ぐ", "r": "ふせぐ", "hv": "PHÒNG", "vi": "phòng tránh, ngăn" },
+          { "w": "事前", "r": "じぜん", "hv": "SỰ TIỀN", "vi": "trước (khi việc xảy ra)" }
+        ],
+        "grammar": { "pattern": "N＋さえ＋Vば", "meaning": "chỉ cần ~ là (đủ)", "form": "Vます（bỏ ます）＋さえ＋すれば／N＋さえ＋Vば", "example": "薬さえ飲めば、すぐ治ります。" },
+        "evidence": null,
+        "tip": "〜のに cuối câu ở đây = \"vậy mà (đã không làm)\", thể hiện hối tiếc."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "今回失敗した＿＿＿ ＿＿＿ ★ ＿＿＿必ずこの経験を生かしてほしい。",
+      "options": ["としても", "今後", "ことは", "仕方ない"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Việc thất bại lần này thì đành chịu, nhưng từ nay về sau tôi mong em nhất định phát huy kinh nghiệm này.",
+        "why": "Thứ tự: 失敗した［3 ことは］［4 仕方ない］［1 としても★］［2 今後］必ず… 〜としても = cho dù ~ đi nữa. ★ vị trí 3 → としても.",
+        "options": [
+          "としても → vị trí 3, ★. ĐÚNG.",
+          "今後 → vị trí 4, đứng trước 必ず. Không phải ★.",
+          "ことは → vị trí 1 (失敗したことは). Không phải ★.",
+          "仕方ない → vị trí 2. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "仕方ない", "r": "しかたない", "hv": "SĨ PHƯƠNG", "vi": "đành chịu, không còn cách nào" },
+          { "w": "今後", "r": "こんご", "hv": "KIM HẬU", "vi": "từ nay về sau" },
+          { "w": "生かす", "r": "いかす", "hv": "SINH", "vi": "phát huy, tận dụng" }
+        ],
+        "grammar": { "pattern": "〜としても", "meaning": "cho dù ~ đi nữa / dù có ~ thì", "form": "普通形＋としても", "example": "たとえ反対されたとしても、私は留学したい。" },
+        "evidence": null,
+        "tip": "失敗したことは仕方ない là cụm cố định: chuyện đã thất bại thì đành chịu."
+      }
+    },
+    {
+      "num": 48,
+      "passage": null,
+      "stem": "試合に負けて本当に悔しかったので、もっと強くなるため＿＿＿ ＿＿＿ ★ ＿＿＿耐えようと思います。",
+      "options": ["だって", "なら", "厳しい練習に", "どんな"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Thua trận thật sự cay đắng, nên để mạnh hơn, dù là luyện tập khắc nghiệt thế nào tôi cũng định chịu đựng.",
+        "why": "Thứ tự: 強くなるため［2 なら］［4 どんな］［3 厳しい練習に★］［1 だって］耐えよう. 〜ためなら = nếu là vì ~; どんな〜にだって = dù ~ thế nào cũng. ★ vị trí 3 → 厳しい練習に.",
+        "options": [
+          "だって → vị trí 4 (練習にだって). Không phải ★.",
+          "なら → vị trí 1 (ためなら). Không phải ★.",
+          "厳しい練習に → vị trí 3, ★. ĐÚNG.",
+          "どんな → vị trí 2. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "悔しい", "r": "くやしい", "hv": "HỐI", "vi": "cay cú, tiếc nuối" },
+          { "w": "耐える", "r": "たえる", "hv": "NẠI", "vi": "chịu đựng" },
+          { "w": "厳しい", "r": "きびしい", "hv": "NGHIÊM", "vi": "nghiêm khắc, khắc nghiệt" }
+        ],
+        "grammar": { "pattern": "〜ためなら（どんな N にだって）", "meaning": "nếu là vì ~ thì (bất cứ N nào cũng)", "form": "Vる／Nの＋ためなら", "example": "家族のためなら、どんな仕事だってする。" },
+        "evidence": null,
+        "tip": "だって = でも (văn nói): どんな〜だって = dù ~ thế nào cũng."
+      }
+    },
+    {
+      "num": 49,
+      "passage": null,
+      "stem": "母「風邪をひかないのは、＿＿＿ ＿＿＿ ★ ＿＿＿」とよく言っている。",
+      "options": ["ジョギングの", "している", "おかげだ", "毎朝"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Mẹ tôi hay nói: \"Mẹ không bị cảm là nhờ chạy bộ mỗi sáng.\"",
+        "why": "Thứ tự: 風邪をひかないのは、［4 毎朝］［2 している］［1 ジョギングの★］［3 おかげだ］. 〜のは〜おかげだ = sở dĩ ~ là nhờ ~. ★ vị trí 3 → ジョギングの.",
+        "options": [
+          "ジョギングの → vị trí 3, ★. ĐÚNG.",
+          "している → vị trí 2, bổ nghĩa cho ジョギング. Không phải ★.",
+          "おかげだ → vị trí 4, cuối câu. Không phải ★.",
+          "毎朝 → vị trí 1. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "おかげ", "r": "おかげ", "hv": "", "vi": "nhờ (kết quả tốt)" },
+          { "w": "毎朝", "r": "まいあさ", "hv": "MỖI TRIÊU", "vi": "mỗi sáng" }
+        ],
+        "grammar": { "pattern": "〜のは〜おかげだ", "meaning": "sở dĩ ~ là nhờ ~", "form": "Nの／普通形＋おかげだ", "example": "合格できたのは、先生のおかげです。" },
+        "evidence": null,
+        "tip": "おかげ (kết quả tốt) ↔ せい (kết quả xấu)."
+      }
+    }
+  ]
+}

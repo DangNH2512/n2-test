@@ -1,0 +1,165 @@
+{
+  "exam": "2017-12",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn câu sử dụng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "破れる",
+      "options": [
+        "強い風が吹いたせいで、庭の木の枝が何本も<u>破れて</u>しまった。",
+        "大きな箱を無理に紙袋に入れたら、袋の端が<u>破れて</u>しまった。",
+        "落としても<u>破れない</u>ように、プラスチックのコップを買った。",
+        "生ものは<u>破れない</u>ように冷蔵庫に入れて保存してください。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Đáp án 2: Cố nhét cái hộp to vào túi giấy nên mép túi bị rách mất.",
+        "why": "破れる (やぶれる) = rách (vật mỏng như giấy, vải, túi). 紙袋の端が破れる là cách dùng chuẩn.",
+        "options": [
+          "Cành cây gãy phải dùng 折れる (おれる): 枝が折れて. Sai.",
+          "Túi giấy bị rách → 破れる. ĐÚNG.",
+          "Cốc vỡ phải dùng 割れる (われる): 割れないように. Sai.",
+          "Đồ tươi sống bị hỏng phải dùng 腐る (くさる)/傷む (いたむ): 腐らないように. Sai."
+        ],
+        "vocab": [
+          { "w": "破れる", "r": "やぶれる", "hv": "PHÁ", "vi": "rách (giấy, vải)" },
+          { "w": "折れる", "r": "おれる", "hv": "CHIẾT", "vi": "gãy (cành, xương)" },
+          { "w": "割れる", "r": "われる", "hv": "CÁT", "vi": "vỡ (cốc, kính)" },
+          { "w": "腐る", "r": "くさる", "hv": "HỦ", "vi": "thối, hỏng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Rách = 破れる, gãy = 折れる, vỡ = 割れる, hỏng (máy) = 壊れる, thối = 腐る."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "限定",
+      "options": [
+        "乗車したら、切符にある座席番号を確認して、<u>限定された</u>席に座ってください。",
+        "今日は少し寒くなったので、エアコンの温度を高めに<u>限定した</u>。",
+        "まだ計画が不十分なのに、実行できると<u>限定する</u>のは早すぎると思う。",
+        "このパンは販売数を20個に<u>限定して</u>いるので、すぐに売り切れてしまう。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đáp án 4: Loại bánh mì này giới hạn số lượng bán là 20 cái nên bán hết ngay.",
+        "why": "限定 (げんてい) = giới hạn (số lượng, phạm vi, thời gian). 販売数を20個に限定する = giới hạn số bán ở 20 cái.",
+        "options": [
+          "Chỗ ngồi được chỉ định phải dùng 指定 (してい): 指定された席. Sai.",
+          "Cài đặt nhiệt độ phải dùng 設定 (せってい): 温度を高めに設定した. Sai.",
+          "Khẳng định/kết luận phải dùng 断定 (だんてい) hoặc 決めつける. Sai.",
+          "Giới hạn số lượng bán → 限定. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "限定", "r": "げんてい", "hv": "HẠN ĐỊNH", "vi": "giới hạn, hạn chế" },
+          { "w": "指定", "r": "してい", "hv": "CHỈ ĐỊNH", "vi": "chỉ định" },
+          { "w": "設定", "r": "せってい", "hv": "THIẾT ĐỊNH", "vi": "cài đặt, thiết lập" },
+          { "w": "断定", "r": "だんてい", "hv": "ĐOÁN ĐỊNH", "vi": "khẳng định, kết luận" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhóm 〜定 hay bị bẫy: 限定 (giới hạn) / 指定 (chỉ định) / 設定 (cài đặt) / 断定 (khẳng định) / 予定 (dự định)."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "いっせいに",
+      "options": [
+        "卒業の日に撮った記念写真には、同じクラスの生徒が<u>いっせいに</u>写っている。",
+        "公園で小さな子どもたちが<u>いっせいに</u>遊んでいる様子は、とてもかわいらしい。",
+        "明日は家族で<u>いっせいに</u>めいの結婚式に招待されているので、とても楽しみだ。",
+        "演奏が終わると、観客は舞台に向かって<u>いっせいに</u>大きな拍手を送った。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đáp án 4: Buổi biểu diễn kết thúc, khán giả đồng loạt dành tràng pháo tay lớn hướng về sân khấu.",
+        "why": "いっせいに (一斉に) = đồng loạt, cùng một lúc (nhiều người/vật bắt đầu một hành động cùng thời điểm). Khán giả cùng vỗ tay khi nhạc dừng → đúng.",
+        "options": [
+          "Cùng có mặt trong ảnh phải dùng 一緒に／全員. Không có hành động \"bắt đầu cùng lúc\". Sai.",
+          "Trẻ chơi cùng nhau → 一緒に／仲良く. Sai.",
+          "Cả nhà cùng được mời → 家族そろって／家族全員で. Sai.",
+          "Khán giả đồng loạt vỗ tay → いっせいに. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "一斉に", "r": "いっせいに", "hv": "NHẤT TỀ", "vi": "đồng loạt, cùng lúc" },
+          { "w": "拍手", "r": "はくしゅ", "hv": "PHÁCH THỦ", "vi": "vỗ tay" },
+          { "w": "観客", "r": "かんきゃく", "hv": "QUAN KHÁCH", "vi": "khán giả" },
+          { "w": "舞台", "r": "ぶたい", "hv": "VŨ ĐÀI", "vi": "sân khấu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "一斉に nhấn vào \"cùng một thời điểm\" (一斉に走り出す, 一斉に拍手する), không phải \"cùng nhau\" (一緒に)."
+      }
+    },
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "散らかす",
+      "options": [
+        "部屋を掃除しても、子どもがすぐに本やおもちゃを<u>散らかして</u>しまう。",
+        "このビデオは長いので、一度に見ないで何回かに<u>散らかして</u>見よう。",
+        "山下さんはいつも、香水のにおいを<u>散らかし</u>ながら歩いている。",
+        "講演が始まる前に、来場者一人一人に資料を<u>散らかして</u>ください。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Đáp án 1: Dù có dọn phòng, bọn trẻ lại bày bừa sách và đồ chơi ra ngay.",
+        "why": "散らかす (ちらかす) = bày bừa, vứt lung tung làm bừa bộn. 本やおもちゃを散らかす là cách dùng chuẩn.",
+        "options": [
+          "Bày bừa sách, đồ chơi → 散らかす. ĐÚNG.",
+          "Chia ra xem nhiều lần → 分けて (わけて). Sai.",
+          "Tỏa mùi nước hoa → においをさせながら／まき散らしながら. Sai.",
+          "Phát tài liệu → 配って (くばって). Sai."
+        ],
+        "vocab": [
+          { "w": "散らかす", "r": "ちらかす", "hv": "TÁN", "vi": "bày bừa, làm bừa bộn" },
+          { "w": "散らかる", "r": "ちらかる", "hv": "TÁN", "vi": "(bị) bừa bộn" },
+          { "w": "配る", "r": "くばる", "hv": "PHỐI", "vi": "phát, phân phát" },
+          { "w": "香水", "r": "こうすい", "hv": "HƯƠNG THỦY", "vi": "nước hoa" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "散らかす (tha) ↔ 散らかる (tự): 部屋が散らかっている = phòng bừa bộn."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "論争",
+      "options": [
+        "全員の面接が終わったので、試験官は<u>論争</u>のため別室に移った。",
+        "前田さんは私が言うことにいちいち<u>論争する</u>ので、やりにくくて困る。",
+        "二人はその問題について<u>論争</u>を繰り返しているが、いまだに決着がつかない。",
+        "私が両親に<u>論争する</u>と、二人は静かに聞き、的確にアドバイスしてくれた。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đáp án 3: Hai người cứ tranh luận đi tranh luận lại về vấn đề đó nhưng đến giờ vẫn chưa ngã ngũ.",
+        "why": "論争 (ろんそう) = cuộc tranh luận, tranh cãi (giữa các bên có ý kiến đối lập). 論争を繰り返す・決着がつかない là ngữ cảnh chuẩn.",
+        "options": [
+          "Giám khảo sang phòng khác để bàn bạc → 協議 (きょうぎ)/相談/審査. Sai.",
+          "Cãi lại từng câu → 反論する (はんろんする)/口答えする. Sai.",
+          "Tranh luận mãi chưa ngã ngũ → 論争. ĐÚNG.",
+          "Trình bày, xin ý kiến cha mẹ → 相談する (そうだんする). Sai."
+        ],
+        "vocab": [
+          { "w": "論争", "r": "ろんそう", "hv": "LUẬN TRANH", "vi": "tranh luận, tranh cãi" },
+          { "w": "反論", "r": "はんろん", "hv": "PHẢN LUẬN", "vi": "phản bác" },
+          { "w": "決着がつく", "r": "けっちゃくがつく", "hv": "QUYẾT TRƯỚC", "vi": "ngã ngũ, kết thúc" },
+          { "w": "的確", "r": "てきかく", "hv": "ĐÍCH XÁC", "vi": "chính xác, đúng chỗ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "論争 là tranh luận giữa hai bên (AとBが論争する), không dùng \"〜に論争する\"."
+      }
+    }
+  ]
+}

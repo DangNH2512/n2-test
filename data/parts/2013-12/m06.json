@@ -1,0 +1,165 @@
+{
+  "exam": "2013-12",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn câu sử dụng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "補足",
+      "options": [
+        "スープの味が薄かったので、塩を<u>補足</u>しました。",
+        "資料には概要しか書かれていないので、少し説明を<u>補足</u>します。",
+        "新入社員の仕事を<u>補足</u>するのが私の役割です。",
+        "暗い部屋だったので、明るい色の家具を<u>補足</u>しました。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tài liệu chỉ ghi khái quát nên tôi xin bổ sung thêm một chút phần giải thích.",
+        "why": "補足 (ほそく – BỔ TÚC) = bổ sung cho đầy đủ (thông tin, lời giải thích còn thiếu). 説明を補足する là kết hợp chuẩn.",
+        "options": [
+          "Thêm muối vào súp nhạt → dùng 足す / 加える (塩を足す). Sai.",
+          "Bổ sung giải thích cho tài liệu chỉ có khái quát. ĐÚNG.",
+          "Hỗ trợ công việc của nhân viên mới → dùng 補佐 / サポート / フォロー. Sai.",
+          "Thêm đồ nội thất màu sáng → dùng 置く / 加える / 取り入れる. Sai."
+        ],
+        "vocab": [
+          { "w": "補足", "r": "ほそく", "hv": "BỔ TÚC", "vi": "bổ sung (thông tin, giải thích)" },
+          { "w": "概要", "r": "がいよう", "hv": "KHÁI YẾU", "vi": "khái quát, tóm tắt" },
+          { "w": "補佐", "r": "ほさ", "hv": "BỔ TÁ", "vi": "phụ tá, hỗ trợ" },
+          { "w": "役割", "r": "やくわり", "hv": "DỊCH CÁT", "vi": "vai trò" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "補足 đi với thông tin/lời nói: 補足説明, 補足資料. Vật chất cụ thể → 補充 (ほじゅう) hoặc 足す."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "あわただしい",
+      "options": [
+        "最近、寒かったり暑かったり気温の変化が<u>あわただしい</u>ので、風邪をひく人が多い。",
+        "森さんは<u>あわただしい</u>人で、よく忘れ物をしたり、乗る電車を間違えたりする。",
+        "この町の発展は<u>あわただし</u>く、数年前とは様子がずいぶん変わりました。",
+        "山下さんは午前の会議が終わると、昼ご飯も食べずに<u>あわただし</u>く出かけていった。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh Yamashita vừa kết thúc cuộc họp buổi sáng là vội vã đi ra ngoài, không kịp ăn trưa.",
+        "why": "あわただしい (慌ただしい) = tất bật, vội vàng, hối hả (vì nhiều việc, không có thời gian). Bỏ cả bữa trưa, vội vàng ra ngoài → đúng nghĩa.",
+        "options": [
+          "Nhiệt độ thay đổi thất thường → dùng 激しい (変化が激しい). Sai.",
+          "Người hay quên đồ, nhầm tàu → dùng そそっかしい / おっちょこちょい (hấp tấp, cẩu thả). Sai.",
+          "Thành phố phát triển nhanh → dùng 急速だ / めざましい. Sai.",
+          "Vội vã đi ra ngoài, không ăn trưa. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "慌ただしい", "r": "あわただしい", "hv": "HOẢNG", "vi": "tất bật, vội vã, hối hả" },
+          { "w": "そそっかしい", "r": "そそっかしい", "hv": "", "vi": "hấp tấp, đoảng, hay sơ suất" },
+          { "w": "発展", "r": "はってん", "hv": "PHÁT TRIỂN", "vi": "phát triển" },
+          { "w": "めざましい", "r": "めざましい", "hv": "", "vi": "đáng kinh ngạc, vượt bậc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "あわただしい mô tả tình trạng bận rộn/vội vàng (年末はあわただしい), không mô tả tính cách người."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "かすか",
+      "options": [
+        "財布の中に<u>かすか</u>なお金があったので、バスで帰った。",
+        "船に乗って１時間たつと、遠くに島が<u>かすか</u>に見えてきた。",
+        "今日は天気がいいので、<u>かすか</u>な時間で洗濯物が乾きそうだ。",
+        "私と田中さんは同じ年だが、私のほうが誕生日が<u>かすか</u>に早い。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Lên thuyền được 1 tiếng thì ở đằng xa hòn đảo bắt đầu hiện ra lờ mờ.",
+        "why": "かすか (微か) = mờ nhạt, yếu ớt, thoáng (âm thanh, ánh sáng, hình ảnh, ký ức khó nhận ra). 島がかすかに見える = đảo hiện ra mờ mờ.",
+        "options": [
+          "Tiền ít ỏi trong ví → dùng わずかな / 少しの. Sai.",
+          "Đảo hiện ra lờ mờ ở xa. ĐÚNG.",
+          "Thời gian ngắn → dùng わずかな時間 / 短時間. Sai.",
+          "Sinh nhật sớm hơn một chút → dùng 少し / わずかに. Sai."
+        ],
+        "vocab": [
+          { "w": "微か", "r": "かすか", "hv": "VI", "vi": "mờ nhạt, yếu ớt, thoáng" },
+          { "w": "わずか", "r": "わずか", "hv": "", "vi": "ít ỏi, chút xíu" },
+          { "w": "島", "r": "しま", "hv": "ĐẢO", "vi": "hòn đảo" },
+          { "w": "乾く", "r": "かわく", "hv": "CAN", "vi": "khô" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "かすか = khó cảm nhận bằng giác quan (かすかな音・光・記憶). わずか = ít về lượng (わずかなお金・時間)."
+      }
+    },
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "催促",
+      "options": [
+        "３０度を超える暑い日には、水分を十分とるように学校でも注意を<u>催促</u>している。",
+        "異文化交流の<u>催促</u>のために、ボランティア団体が毎月イベントを開いている。",
+        "家賃を払うのをすっかり忘れていたら、<u>催促</u>の電話がかかってきた。",
+        "どこからか、おいしそうなにおいがしてきて食欲が<u>催促</u>された。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi quên béng việc trả tiền nhà thì có cuộc điện thoại đến thúc giục.",
+        "why": "催促 (さいそく – THÔI XÚC) = thúc giục, đòi (trả tiền, nộp, trả lời…). Quên trả tiền nhà → bị gọi điện đòi.",
+        "options": [
+          "Nhắc nhở uống nước → dùng 注意を呼びかける / 促す. Sai.",
+          "Thúc đẩy giao lưu văn hóa → dùng 促進 (そくしん). Sai.",
+          "Cuộc gọi thúc giục trả tiền nhà. ĐÚNG.",
+          "Kích thích sự thèm ăn → dùng 食欲がそそられる / 刺激される. Sai."
+        ],
+        "vocab": [
+          { "w": "催促", "r": "さいそく", "hv": "THÔI XÚC", "vi": "thúc giục, đòi" },
+          { "w": "促進", "r": "そくしん", "hv": "XÚC TIẾN", "vi": "thúc đẩy, xúc tiến" },
+          { "w": "家賃", "r": "やちん", "hv": "GIA NHẪM", "vi": "tiền thuê nhà" },
+          { "w": "食欲", "r": "しょくよく", "hv": "THỰC DỤC", "vi": "sự thèm ăn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "催促 = giục người khác làm việc họ phải làm (返事を催促する, 支払いを催促する). 促進 = thúc đẩy sự việc phát triển."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "ものたりない",
+      "options": [
+        "少しうまくなってきたので、初心者向けのクラスだと<u>ものたりなく</u>なってきた。",
+        "クラスメートが転校することになり、みんな<u>ものたりなく</u>思っています。",
+        "日本に来たばかりで<u>ものたりない</u>でしょうが、すぐに慣れますよ。",
+        "楽しみにしていたパーティーなのに、中止なんて本当に<u>ものたりない</u>。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Vì đã khá lên một chút nên lớp dành cho người mới bắt đầu bắt đầu thấy chưa đủ đô (không thỏa mãn).",
+        "why": "ものたりない (物足りない) = chưa đủ, chưa thỏa mãn, thiếu thiếu cái gì. Trình độ đã lên nên lớp sơ cấp không còn đủ thỏa mãn → đúng.",
+        "options": [
+          "Bạn cùng lớp chuyển trường → dùng さびしい / 残念に思う. Sai.",
+          "Lớp sơ cấp không còn thỏa mãn khi đã giỏi hơn. ĐÚNG.",
+          "Mới sang Nhật → dùng 不安 / 戸惑う / 慣れない. Sai.",
+          "Bữa tiệc bị hủy → dùng 残念だ / がっかりだ. Sai."
+        ],
+        "vocab": [
+          { "w": "物足りない", "r": "ものたりない", "hv": "VẬT TÚC", "vi": "chưa thỏa mãn, thiếu thiếu" },
+          { "w": "初心者", "r": "しょしんしゃ", "hv": "SƠ TÂM GIẢ", "vi": "người mới bắt đầu" },
+          { "w": "転校", "r": "てんこう", "hv": "CHUYỂN HIỆU", "vi": "chuyển trường" },
+          { "w": "中止", "r": "ちゅうし", "hv": "TRUNG CHỈ", "vi": "hủy bỏ, đình chỉ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ものたりない: có nhưng 'chưa đủ' với mong đợi (この料理は味がものたりない). Không dùng cho buồn/tiếc."
+      }
+    }
+  ]
+}

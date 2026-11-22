@@ -1,0 +1,216 @@
+{
+  "exam": "2016-12",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（1）から（5）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc 5 đoạn văn ngắn (1)–(5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "「ルール」はなぜあるのでしょうか？\nスポーツを理解するために最初に確認しておきますが、「スポーツは人間が楽しむためのもの」です。これが出発点です。決して「世の中に無ければならないモノ」でもなければ、生きるためにどうしても「必要なモノ」でもありませんが、楽しむためのモノであり、その「スポーツで楽しむ」ために「ルール」があるのです。\nそして、ルールのもとで勝敗を競いますが、このことが楽しくないのであれば、スポーツをする価値はありません。\n（高峰修『スポーツ教養入門』による）"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、ある会社の社内文書である。\n\n平成28年1月12日\n社員各位\n総務課長\n暖房使用についてのお願い\n本格的な冬を迎え、暖房の使用が増加しており、12月の電気代は前月に比べて約30％増となりました。節電のため、室内温度は22度以下に設定するとともに、使用していない場所の暖房を切ること、退社時の切り忘れをなくすことなどを徹底してください。\nまた、服装で調整するなど各自で工夫し、暖房に頼りすぎないようご協力をお願いいたします。"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "実は「やりたいことをやる」ためには、シンプルに間近の目標を達成していくだけで十分だと思います。「いつか大きな仕事を成し遂げたい（注）」と思っていても、実際にそれがどんなものかはわかりようがないし、本当に自分が望んでいるものが何なのかもわかりません。\nそれより「目の前のやりたいこと」を見つけ、それに集中できるようなプログラムを組んでいけば、自然に「自分のやっていること」が「自分の望んでいること」に近づいていく可能性が高いような気がします。\n（榊原英資『榊原式スピード思考力』による）\n（注）成し遂げる：達成する"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "以下は、コーヒー豆の販売会社から届いたはがきである。\n\n189-6715\n東京都橋谷市南3-15-8-302\nマリア・スミス　様\n\n割引フェアのご案内\nいつも「野田コーヒー」をご愛飲くださいまして、ありがとうございます。\nコーヒー豆を定期購入されているお客様に、お得な割引フェアについてご案内いたします。\n当社ではこの冬、新商品「冬の味わい」を発売します。定期購入をされているお客様には、この商品を15％割引の特別価格でご提供いたします。購入を希望される方は、10月中にご予約ください。\nなお、すでにご案内しておりますとおり、定期購入をされているお客様は、その他の全商品がいつでも10％割引でお求めいただけます。あわせてご利用ください。\n商品の詳細・ご注文方法につきましては、裏面をご覧ください。"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "どういう日が「いい一日」であるかは人によって異なるだろうが、日記を書き続けることで、自分にとっての「いい一日」というものの構成要件（注）がわかってくる。どうすれば「いい一日」になるかがわかってくるということだ。そうなれば「いい一日」がたまたま訪れるのをただ待つのではなく、「今日」が「いい一日」になるように、「今日はいい一日だった」と日記に書けるように、主体的に行動するようになるだろう。\n（大久保孝治『日常生活の探究―ライフスタイルの社会学』による）\n（注）構成要件：構成するのに必要な条件"
+    }
+  ],
+  "questions": [
+    {
+      "num": 55,
+      "passage": "p1",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "ルールのないスポーツにも価値がある。",
+        "ルールはスポーツで楽しむためのものだ。",
+        "スポーツはルールを理解してから始めるべきだ。",
+        "スポーツを通して、ルールの重要さが理解できる。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Luật lệ tồn tại để (con người) vui chơi với thể thao.",
+        "why": "Tác giả nói rõ: thể thao là để con người vui, và \"luật\" tồn tại để \"vui chơi bằng thể thao\" (「スポーツで楽しむ」ために「ルール」がある). Đáp án 2 diễn đạt lại đúng ý này.",
+        "options": [
+          "Bài không nói thể thao không có luật vẫn có giá trị; chỉ nói nếu thi đấu theo luật mà không vui thì không có giá trị. Sai.",
+          "Luật là để vui chơi với thể thao. ĐÚNG.",
+          "Bài không nói phải hiểu luật trước rồi mới chơi. Sai.",
+          "Bài không nói qua thể thao hiểu được tầm quan trọng của luật. Sai."
+        ],
+        "vocab": [
+          { "w": "出発点", "r": "しゅっぱつてん", "hv": "XUẤT PHÁT ĐIỂM", "vi": "điểm xuất phát" },
+          { "w": "勝敗", "r": "しょうはい", "hv": "THẮNG BẠI", "vi": "thắng thua" },
+          { "w": "競う", "r": "きそう", "hv": "CẠNH", "vi": "thi đua, tranh tài" },
+          { "w": "価値", "r": "かち", "hv": "GIÁ TRỊ", "vi": "giá trị" }
+        ],
+        "grammar": {
+          "pattern": "〜でもなければ、〜でもない",
+          "meaning": "không phải ~ mà cũng chẳng phải ~",
+          "form": "N + でもなければ + N + でもない",
+          "example": "彼は先生でもなければ、学生でもない。"
+        },
+        "evidence": "楽しむためのモノであり、その「スポーツで楽しむ」ために「ルール」があるのです。",
+        "tip": "Câu hỏi 筆者の考え: tìm câu có のです/のだ (khẳng định của tác giả)."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p2",
+      "stem": "この文書を書いた、一番の目的は何か。",
+      "options": [
+        "暖房の使用を減らす工夫について意見を求める。",
+        "暖房を使用せず、服装で調整することを求める。",
+        "暖房を無駄に使用しないことを求める。",
+        "暖房の温度を変更しないことを求める。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Mục đích chính khi viết văn bản này là gì? → Yêu cầu không sử dụng máy sưởi một cách lãng phí.",
+        "why": "Văn bản yêu cầu: đặt nhiệt độ ≤22 độ, tắt sưởi chỗ không dùng, không quên tắt khi về, điều chỉnh bằng quần áo để không phụ thuộc quá vào sưởi → tất cả đều nhằm không dùng sưởi lãng phí (節電).",
+        "options": [
+          "Văn bản không xin ý kiến (意見を求める) mà đưa ra yêu cầu. Sai.",
+          "Không yêu cầu \"không dùng sưởi\" hoàn toàn, chỉ là 頼りすぎない (đừng quá phụ thuộc). Sai.",
+          "Không sử dụng sưởi lãng phí. ĐÚNG.",
+          "Văn bản yêu cầu đặt nhiệt độ ≤22 độ, tức là có thay đổi chứ không phải giữ nguyên. Sai."
+        ],
+        "vocab": [
+          { "w": "暖房", "r": "だんぼう", "hv": "NOÃN PHÒNG", "vi": "máy sưởi, sưởi ấm" },
+          { "w": "節電", "r": "せつでん", "hv": "TIẾT ĐIỆN", "vi": "tiết kiệm điện" },
+          { "w": "徹底", "r": "てってい", "hv": "TRIỆT ĐỂ", "vi": "triệt để, nghiêm túc thực hiện" },
+          { "w": "各位", "r": "かくい", "hv": "CÁC VỊ", "vi": "các vị, toàn thể" }
+        ],
+        "grammar": {
+          "pattern": "〜とともに",
+          "meaning": "đồng thời với ~, cùng với ~",
+          "form": "V辞書形 / N + とともに",
+          "example": "温度を下げるとともに、窓を閉めてください。"
+        },
+        "evidence": "節電のため、室内温度は22度以下に設定するとともに、使用していない場所の暖房を切ること、退社時の切り忘れをなくすことなどを徹底してください。",
+        "tip": "Văn bản thông báo: mục đích thường nằm ở câu 〜してください / お願いいたします."
+      }
+    },
+    {
+      "num": 57,
+      "passage": "p3",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "「やりたいことをやる」には、大きな目標を立てることが大切だ。",
+        "「自分の望んでいること」を知れば、今何をすべきかがわかるようになる。",
+        "「自分のやっていること」が「自分の望んでいること」だと気づくことが大切だ。",
+        "「目の前のやりたいこと」を続ければ、それが「自分の望んでいること」になり得る。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Nếu tiếp tục làm \"việc muốn làm trước mắt\", thì nó có thể trở thành \"điều mình mong muốn\".",
+        "why": "Tác giả: tìm \"việc muốn làm trước mắt\" và tập trung vào đó thì \"việc mình đang làm\" sẽ tự nhiên gần với \"điều mình mong muốn\". Đáp án 4 diễn đạt lại đúng.",
+        "options": [
+          "Ngược ý: tác giả nói chỉ cần đạt mục tiêu gần (間近の目標) là đủ, không cần mục tiêu lớn. Sai.",
+          "Tác giả nói chính ta cũng không biết mình thật sự mong gì (わかりません). Sai.",
+          "Tác giả không nói \"nhận ra\" việc đang làm là điều mong muốn; mà là nó dần \"tiến gần\". Sai.",
+          "Tiếp tục việc trước mắt → có thể thành điều mình mong muốn. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "間近", "r": "まぢか", "hv": "GIAN CẬN", "vi": "sát bên, gần kề" },
+          { "w": "達成", "r": "たっせい", "hv": "ĐẠT THÀNH", "vi": "đạt được" },
+          { "w": "成し遂げる", "r": "なしとげる", "hv": "THÀNH TOẠI", "vi": "hoàn thành, làm nên" },
+          { "w": "集中", "r": "しゅうちゅう", "hv": "TẬP TRUNG", "vi": "tập trung" }
+        ],
+        "grammar": {
+          "pattern": "〜ようがない ／ 〜得る",
+          "meaning": "không có cách nào ~ ／ có thể ~",
+          "form": "Vます + ようがない ； Vます + 得る（うる/える）",
+          "example": "連絡先がわからないので、連絡しようがない。／それは誰にでも起こり得ることだ。"
+        },
+        "evidence": "それより「目の前のやりたいこと」を見つけ、それに集中できるようなプログラムを組んでいけば、自然に「自分のやっていること」が「自分の望んでいること」に近づいていく可能性が高いような気がします。",
+        "tip": "それより (thay vì thế) báo hiệu ý chính của tác giả ở câu sau."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p4",
+      "stem": "このはがきで紹介されている割引サービスについて正しいものはどれか。",
+      "options": [
+        "コーヒー豆を定期購入している人は、10月中だけ「冬の味わい」を10%割引で買うことができる。",
+        "コーヒー豆を定期購入している人が10月中に「冬の味わい」を予約すれば、15%割引で買うことができる。",
+        "「冬の味わい」を10月中に予約すれば、その他の商品をすべて15%割引で買うことができる。",
+        "「冬の味わい」を買った人は、10月中だけその他の商品をすべて10%割引で買うことができる。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều nào đúng về dịch vụ giảm giá được giới thiệu trong bưu thiếp? → Người mua định kỳ hạt cà phê nếu đặt trước \"Fuyu no Ajiwai\" trong tháng 10 thì được mua giảm 15%.",
+        "why": "Khách mua định kỳ được mua sản phẩm mới 「冬の味わい」 với giá giảm 15%, điều kiện đặt trước trong tháng 10. Các sản phẩm khác: luôn giảm 10% (いつでも) cho khách định kỳ.",
+        "options": [
+          "Sai mức giảm: 冬の味わい giảm 15% chứ không phải 10%. Sai.",
+          "Khách định kỳ + đặt trước trong tháng 10 → giảm 15%. ĐÚNG.",
+          "Sản phẩm khác giảm 10% (không phải 15%) và không phụ thuộc việc đặt 冬の味わい. Sai.",
+          "Giảm 10% cho sản phẩm khác áp dụng いつでも cho khách định kỳ, không phải \"chỉ tháng 10\" hay \"người mua 冬の味わい\". Sai."
+        ],
+        "vocab": [
+          { "w": "定期購入", "r": "ていきこうにゅう", "hv": "ĐỊNH KỲ CẤU NHẬP", "vi": "mua định kỳ" },
+          { "w": "割引", "r": "わりびき", "hv": "CÁT DẪN", "vi": "giảm giá" },
+          { "w": "予約", "r": "よやく", "hv": "DỰ ƯỚC", "vi": "đặt trước" },
+          { "w": "愛飲", "r": "あいいん", "hv": "ÁI ẨM", "vi": "thường xuyên uống, ưa uống" }
+        ],
+        "grammar": {
+          "pattern": "〜とおり",
+          "meaning": "đúng như ~",
+          "form": "V普通形 / Nの + とおり（に）",
+          "example": "説明書に書いてあるとおりに組み立ててください。"
+        },
+        "evidence": "定期購入をされているお客様には、この商品を15％割引の特別価格でご提供いたします。購入を希望される方は、10月中にご予約ください。",
+        "tip": "Bài thông báo giảm giá: kẻ bảng \"ai – sản phẩm nào – mấy % – điều kiện/thời hạn\" để so từng đáp án."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p5",
+      "stem": "筆者によると、日記を書き続けるとどうなるか。",
+      "options": [
+        "毎日を「いい一日」にしようとするようになる。",
+        "毎日が「いい一日」だと思えるようになる。",
+        "「いい一日」が訪れるのを楽しみにするようになる。",
+        "「いい一日」をいつまでも忘れないようになる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, nếu tiếp tục viết nhật ký thì sẽ thế nào? → Sẽ cố gắng biến mỗi ngày thành \"một ngày tốt đẹp\".",
+        "why": "Viết nhật ký → hiểu điều kiện tạo nên \"ngày tốt đẹp\" → không chờ nó tình cờ đến mà chủ động hành động để \"hôm nay\" trở thành ngày tốt đẹp. Đáp án 1 đúng ý.",
+        "options": [
+          "Chủ động biến mỗi ngày thành ngày tốt đẹp. ĐÚNG.",
+          "Bài không nói sẽ \"cảm thấy\" ngày nào cũng tốt; mà là hành động để nó tốt. Sai.",
+          "Ngược ý: tác giả nói KHÔNG chỉ ngồi chờ ngày tốt đẹp đến (ただ待つのではなく). Sai.",
+          "Bài không nói về việc nhớ mãi ngày tốt đẹp. Sai."
+        ],
+        "vocab": [
+          { "w": "構成要件", "r": "こうせいようけん", "hv": "CẤU THÀNH YẾU KIỆN", "vi": "điều kiện cấu thành" },
+          { "w": "主体的", "r": "しゅたいてき", "hv": "CHỦ THỂ ĐÍCH", "vi": "chủ động, tự chủ" },
+          { "w": "訪れる", "r": "おとずれる", "hv": "PHỎNG", "vi": "đến, ghé thăm" },
+          { "w": "たまたま", "r": "たまたま", "hv": "", "vi": "tình cờ" }
+        ],
+        "grammar": {
+          "pattern": "〜のではなく、〜",
+          "meaning": "không phải ~ mà là ~",
+          "form": "普通形 + のではなく",
+          "example": "待つのではなく、自分から動こう。"
+        },
+        "evidence": "「いい一日」がたまたま訪れるのをただ待つのではなく、「今日」が「いい一日」になるように、「今日はいい一日だった」と日記に書けるように、主体的に行動するようになるだろう。",
+        "tip": "〜のではなく、B: đáp án đúng nằm ở vế B; vế A thường là bẫy (đáp án 3)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "exam": "2022-07",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（1）から（5）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(5) và chọn câu trả lời đúng nhất cho mỗi câu hỏi (đoạn văn ngắn).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "恐い、恥ずかしい、寂しい、腹が立つ（注1）、などなどは、不快な感情でありますが、単に取り除かれればよいもの、存在しなければよいものではありません。それらが一切（注2）存在しない理想の人生があると考えるのは間違いで、それらには存在する理由があるのです。どんなに恵まれた人生でも、恐いことはありますし、恥ずかしいこと、寂しいこと、腹が立つことはあります。むしろそういう感情があることが豊かな人生だとさえ言えます。\n\n（注1）腹が立つ：怒りを感じる\n（注2）一切：全く"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下は、ある店でもらったちらしである。\n\nオリジナル帽子店「マリー」\n期間限定・特別ショップのお知らせ\n\nこのたび、4月1日から15日までの期間限定で、南野デパートに特別ショップを開店いたします。\n特別ショップでは、通常の商品に加え、春の新商品を販売いたします。春の新商品のうち、「花」シリーズは、特別ショップのみでの販売となりますので、ぜひこの機会にご来店ください。\nなお、そのほかの春の新商品は、4月16日から「マリー」各店でも販売を開始いたします。"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "「適度に暖かく、発芽（注1）に使える水があり、呼吸もできるという条件がそろえば、多くの植物のタネは発芽する」と思われがちです。しかし、実際にはそうではありません。多くの植物のタネは、発芽の三条件がそろったからといって、うかつに（注2）発芽しないのです。\nなぜなら、発芽の三条件の中には、「光が当たること」という条件が入っていないからです。もし、光の当たらない場所でタネが発芽すれば、発芽した芽生え（注3）がどんな運命をたどるか（注4）は、容易に想像がつきます。\n\n（注1）発芽：芽を出すこと\n（注2）うかつに：ここでは、簡単に\n（注3）芽生え：ここでは、芽\n（注4）どんな運命をたどるか：ここでは、どうなっていくか"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "以下は、ある会社の社員が、別の課の社員に送ったメールである。\n\n宛て先：shinji_yasumura@dungmori.co.jp\n件名：「何でもハサミ」のミラ商会への納品について\n日時：4月30日 11:55\n\n商品管理課　安村様\n\nお疲れさまです。\n6月15日発売の「何でもハサミ」の件ですが、ミラ商会の担当者から連絡がありました。\n価格についての問題は解決しましたが、納品数については、最初の予定の50本ではなく、80本に変更してほしいとのことです。\n今週中に返答しなければならないのですが、今から30本増やすことは可能でしょうか。\n納品日は5月20日で、変更ありません。\nご検討よろしくお願いします。\n\n営業課　大森"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "仕事でも、人生でも、ようは（注1）降り掛かる（注2）問題をいかに（注3）解決していくか、という作業の繰り返しだ。ある人は問題から逃げる。これも、その人にとっての解決である。しかし、そういう人は逃げ続けなければならない。一度きちんと解決をした人は、同じ問題に遭遇したときに対処できる。このようにして、スキル（注4）が上がっていき、その後得をするだろう。\n\n（注1）ようは：大切なことは\n（注2）降り掛かる：ここでは、自分に起きる\n（注3）いかに：どうやって\n（注4）スキル：能力や技術"
+    }
+  ],
+  "questions": [
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "不快な感情を持てば持つほど、人生はより豊かになる。",
+        "不快な感情を取り除ければ、理想の人生が送れる。",
+        "不快な感情が存在する理由を考えることで、人生は豊かになる。",
+        "不快な感情があるからこそ、人生は豊かになる。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Chính vì có những cảm xúc khó chịu mà cuộc đời trở nên phong phú.",
+        "why": "Tác giả nói cảm xúc khó chịu không phải thứ chỉ cần loại bỏ; ngược lại, việc có những cảm xúc đó mới là cuộc đời phong phú → 「あるからこそ豊かになる」.",
+        "options": [
+          "\"Càng có nhiều cảm xúc khó chịu càng phong phú\" — tác giả không nói về mức độ càng nhiều càng tốt. Sai.",
+          "Ngược với bài: nghĩ rằng có cuộc đời lý tưởng không có chúng là sai lầm. Sai.",
+          "Bài nói cảm xúc đó \"có lý do tồn tại\", không nói \"suy nghĩ về lý do\" làm cuộc đời phong phú. Sai.",
+          "Có cảm xúc khó chịu nên cuộc đời phong phú. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "不快", "r": "ふかい", "hv": "BẤT KHOÁI", "vi": "khó chịu" },
+          { "w": "感情", "r": "かんじょう", "hv": "CẢM TÌNH", "vi": "cảm xúc" },
+          { "w": "取り除く", "r": "とりのぞく", "hv": "THỦ TRỪ", "vi": "loại bỏ" },
+          { "w": "恵まれる", "r": "めぐまれる", "hv": "HUỆ", "vi": "được ưu ái, may mắn" }
+        ],
+        "grammar": {
+          "pattern": "～からこそ",
+          "meaning": "chính vì ~ (nhấn mạnh lý do)",
+          "form": "普通形 + からこそ",
+          "example": "失敗したからこそ、学べることもある。"
+        },
+        "evidence": "むしろそういう感情があることが豊かな人生だとさえ言えます。",
+        "tip": "むしろ (ngược lại thì) + さえ言える → câu chốt quan điểm của tác giả."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p2",
+      "stem": "「花」シリーズを買いたい場合、どうすればいいか。",
+      "options": [
+        "4月1日から15日までの間に特別ショップに行く。",
+        "4月1日から15日までの間に特別ショップか「マリー」各店に行く。",
+        "4月1日から15日までの間は特別ショップに行き、16日以降は「マリー」各店に行く。",
+        "4月16日以降に特別ショップか「マリー」各店に行く。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nếu muốn mua dòng sản phẩm \"Hoa\" thì phải làm thế nào? → Đến cửa hàng đặc biệt trong khoảng từ ngày 1 đến 15 tháng 4.",
+        "why": "Dòng 「花」 chỉ bán ở cửa hàng đặc biệt (特別ショップのみ), mà cửa hàng này chỉ mở 4/1–4/15. Từ 4/16 các cửa hàng Marie chỉ bán \"các sản phẩm mới khác\" (そのほかの), không có dòng Hoa.",
+        "options": [
+          "Đến cửa hàng đặc biệt từ 1–15/4. ĐÚNG.",
+          "Các cửa hàng Marie không bán dòng Hoa. Sai.",
+          "Từ 16/4 các cửa hàng Marie chỉ bán sản phẩm mới khác, không phải dòng Hoa. Sai.",
+          "Sau 16/4 cửa hàng đặc biệt đã đóng, và Marie không bán dòng Hoa. Sai."
+        ],
+        "vocab": [
+          { "w": "期間限定", "r": "きかんげんてい", "hv": "KỲ GIAN HẠN ĐỊNH", "vi": "giới hạn thời gian" },
+          { "w": "〜のみ", "r": "のみ", "hv": "", "vi": "chỉ ~" },
+          { "w": "なお", "r": "なお", "hv": "", "vi": "ngoài ra, xin lưu ý thêm" },
+          { "w": "ちらし", "r": "ちらし", "hv": "", "vi": "tờ rơi" }
+        ],
+        "grammar": null,
+        "evidence": "春の新商品のうち、「花」シリーズは、特別ショップのみでの販売となりますので、ぜひこの機会にご来店ください。なお、そのほかの春の新商品は、4月16日から「マリー」各店でも販売を開始いたします。",
+        "tip": "「そのほかの」 = những cái KHÁC (ngoài dòng Hoa) — bẫy ở phương án 3."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p3",
+      "stem": "本文の内容に合うのはどれか。",
+      "options": [
+        "発芽の三条件がそろった状態で光が当たっても、育たないことがある。",
+        "発芽の三条件がそろって発芽しても、光が当たらなければ成長しにくい。",
+        "発芽の三条件は、光が当たることよりも重要だ。",
+        "発芽の三条件は、光の当たらない場所ではそろいにくい。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều nào phù hợp với nội dung bài? → Dù đủ ba điều kiện nảy mầm và đã nảy mầm, nếu không có ánh sáng thì khó phát triển.",
+        "why": "Ba điều kiện nảy mầm không gồm \"có ánh sáng\". Nếu hạt nảy mầm ở chỗ không có ánh sáng thì \"dễ dàng tưởng tượng mầm sẽ ra sao\" (= không lớn được, chết) → phương án 2.",
+        "options": [
+          "Bài không nói đủ điều kiện + có ánh sáng mà vẫn không lớn. Sai.",
+          "Nảy mầm rồi nhưng không có ánh sáng thì khó lớn. ĐÚNG.",
+          "Bài không so sánh mức độ quan trọng; ngược lại còn nhấn mạnh vai trò của ánh sáng. Sai.",
+          "Bài không nói chỗ tối thì khó đủ ba điều kiện. Sai."
+        ],
+        "vocab": [
+          { "w": "発芽", "r": "はつが", "hv": "PHÁT NHA", "vi": "nảy mầm" },
+          { "w": "芽生え", "r": "めばえ", "hv": "NHA SINH", "vi": "mầm non" },
+          { "w": "容易", "r": "ようい", "hv": "DUNG DỊ", "vi": "dễ dàng" },
+          { "w": "運命", "r": "うんめい", "hv": "VẬN MỆNH", "vi": "số phận" }
+        ],
+        "grammar": {
+          "pattern": "～からといって（～ない）",
+          "meaning": "dù nói là ~ thì cũng không hẳn…",
+          "form": "普通形 + からといって",
+          "example": "高いからといって、品質がいいとは限らない。"
+        },
+        "evidence": "もし、光の当たらない場所でタネが発芽すれば、発芽した芽生えがどんな運命をたどるかは、容易に想像がつきます。",
+        "tip": "「容易に想像がつく」 ám chỉ kết cục xấu (mầm không có ánh sáng sẽ không sống được)."
+      }
+    },
+    {
+      "num": 55,
+      "passage": "p4",
+      "stem": "このメールで問い合わせていることは何か。",
+      "options": [
+        "ミラ商会に、最初の予定より早く納品できるか。",
+        "ミラ商会の希望する価格で、納品できるか。",
+        "5月20日に、ミラ商会に80本を納品できるか。",
+        "今週中に、ミラ商会に30本を納品できるか。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Email này đang hỏi điều gì? → Có thể giao 80 cái cho công ty Mira vào ngày 20/5 được không.",
+        "why": "Mira muốn đổi số lượng từ 50 lên 80; ngày giao vẫn là 20/5 không đổi. Ōmori hỏi có thể tăng thêm 30 cái không → tức là giao tổng 80 cái vào 20/5.",
+        "options": [
+          "Ngày giao không đổi (5月20日で、変更ありません). Sai.",
+          "Vấn đề giá đã giải quyết xong. Sai.",
+          "Giao 80 cái vào ngày 20/5. ĐÚNG.",
+          "\"Trong tuần này\" là hạn trả lời, không phải ngày giao; và tổng là 80 chứ không chỉ 30. Sai."
+        ],
+        "vocab": [
+          { "w": "納品", "r": "のうひん", "hv": "NẠP PHẨM", "vi": "giao hàng (cho khách)" },
+          { "w": "返答", "r": "へんとう", "hv": "PHẢN ĐÁP", "vi": "trả lời, hồi đáp" },
+          { "w": "担当者", "r": "たんとうしゃ", "hv": "ĐẢM ĐƯƠNG GIẢ", "vi": "người phụ trách" },
+          { "w": "商会", "r": "しょうかい", "hv": "THƯƠNG HỘI", "vi": "công ty thương mại" }
+        ],
+        "grammar": null,
+        "evidence": "納品数については、最初の予定の50本ではなく、80本に変更してほしいとのことです。…今から30本増やすことは可能でしょうか。納品日は5月20日で、変更ありません。",
+        "tip": "Phân biệt 返答の期限 (今週中) và 納品日 (5月20日) — bẫy ở phương án 4."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p5",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "問題に取り組む経験を積むほど、問題に対処できるようになる。",
+        "問題から逃げることも、問題の解決には必要である。",
+        "人生で得をするために、難しい問題に積極的に取り組むべきだ。",
+        "解決できたかどうかより、問題解決に取り組む態度が大切だ。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Càng tích lũy kinh nghiệm giải quyết vấn đề thì càng có thể đối phó với vấn đề.",
+        "why": "Người đã giải quyết một lần thì lần sau gặp vấn đề tương tự sẽ xử lý được; cứ thế kỹ năng tăng dần → kinh nghiệm càng nhiều càng giỏi xử lý.",
+        "options": [
+          "Càng có kinh nghiệm càng đối phó được. ĐÚNG.",
+          "Chạy trốn cũng là một kiểu \"giải quyết\" nhưng người đó phải trốn mãi — tác giả không cho là cần thiết. Sai.",
+          "Bài nói \"sau đó sẽ được lợi\" là kết quả, không nói phải chủ động tìm vấn đề khó để được lợi. Sai.",
+          "Bài coi trọng việc thực sự giải quyết (きちんと解決), không nói thái độ quan trọng hơn kết quả. Sai."
+        ],
+        "vocab": [
+          { "w": "対処", "r": "たいしょ", "hv": "ĐỐI XỬ", "vi": "đối phó, xử lý" },
+          { "w": "遭遇", "r": "そうぐう", "hv": "TAO NGỘ", "vi": "gặp phải" },
+          { "w": "降り掛かる", "r": "ふりかかる", "hv": "GIÁNG QUẢI", "vi": "ập đến, xảy đến (với mình)" },
+          { "w": "得をする", "r": "とくをする", "hv": "ĐẮC", "vi": "được lợi" }
+        ],
+        "grammar": null,
+        "evidence": "一度きちんと解決をした人は、同じ問題に遭遇したときに対処できる。このようにして、スキルが上がっていき、その後得をするだろう。",
+        "tip": "「このようにして、スキルが上がっていき」 = quá trình tích lũy → khớp ～ほど (càng… càng)."
+      }
+    }
+  ]
+}

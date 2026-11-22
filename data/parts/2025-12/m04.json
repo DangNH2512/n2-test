@@ -1,0 +1,191 @@
+{
+  "exam": "2025-12",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất điền vào chỗ trống (theo ngữ cảnh).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "風邪の（　　）のために、栄養と睡眠を十分に取りましょう。",
+      "options": ["自衛", "予備", "予防", "守衛"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Để phòng ngừa cảm cúm, hãy bổ sung đủ dinh dưỡng và ngủ đủ giấc.",
+        "why": "予防 (よぼう: DỰ PHÒNG) = phòng ngừa (bệnh, tai nạn) trước khi xảy ra. 風邪の予防 là cụm cố định.",
+        "options": [
+          "自衛 (じえい) → tự vệ (自衛隊). Sai.",
+          "予備 (よび) → dự bị, dự phòng (đồ thay thế: 予備の電池). Không dùng cho bệnh. Sai.",
+          "予防 (よぼう) → phòng ngừa. ĐÚNG.",
+          "守衛 (しゅえい) → bảo vệ, người gác cổng. Sai."
+        ],
+        "vocab": [
+          { "w": "予防", "r": "よぼう", "hv": "DỰ PHÒNG", "vi": "phòng ngừa" },
+          { "w": "予備", "r": "よび", "hv": "DỰ BỊ", "vi": "dự bị, phòng hờ" },
+          { "w": "栄養", "r": "えいよう", "hv": "VINH DƯỠNG", "vi": "dinh dưỡng" },
+          { "w": "睡眠", "r": "すいみん", "hv": "THỤY MIÊN", "vi": "giấc ngủ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy: tiếng Việt \"dự phòng\" gần cả 予備 lẫn 予防. 予防 = ngăn bệnh/tai nạn (予防接種: tiêm phòng); 予備 = đồ dự trữ."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "昨日のコンサートでは（　　）に近い席に座れたので、演奏者の様子が良く見えた。",
+      "options": ["ホール", "ステージ", "スペース", "マーケット"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Ở buổi hòa nhạc hôm qua, tôi ngồi được ghế gần sân khấu nên nhìn rõ người biểu diễn.",
+        "why": "Gần chỗ người biểu diễn → ステージ (stage: sân khấu). Ngồi gần sân khấu thì thấy rõ biểu diễn.",
+        "options": [
+          "ホール → hội trường (cả tòa nhà/phòng lớn). Ghế nào cũng ở trong hall. Sai.",
+          "ステージ → sân khấu. ĐÚNG.",
+          "スペース → không gian, khoảng trống. Sai.",
+          "マーケット → chợ, thị trường. Sai."
+        ],
+        "vocab": [
+          { "w": "ステージ", "r": "ステージ", "hv": "", "vi": "sân khấu" },
+          { "w": "演奏者", "r": "えんそうしゃ", "hv": "DIỄN TẤU GIẢ", "vi": "người biểu diễn (nhạc)" },
+          { "w": "様子", "r": "ようす", "hv": "DẠNG TỬ", "vi": "dáng vẻ, tình trạng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "来週の発表内容を（　　）して、大事なところだけ短くまとめて話してください。",
+      "options": ["要約", "節約", "減量", "縮小"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hãy tóm tắt nội dung bài thuyết trình tuần sau, gom ngắn gọn chỉ những phần quan trọng rồi trình bày.",
+        "why": "要約 (ようやく: YẾU ƯỚC) = tóm tắt ý chính của văn bản/bài nói. Khớp với \"大事なところだけ短くまとめて\".",
+        "options": [
+          "要約 → tóm tắt. ĐÚNG.",
+          "節約 (せつやく) → tiết kiệm (tiền, điện). Sai.",
+          "減量 (げんりょう) → giảm lượng, giảm cân. Sai.",
+          "縮小 (しゅくしょう) → thu nhỏ (quy mô, kích thước). Không dùng cho nội dung bài nói. Sai."
+        ],
+        "vocab": [
+          { "w": "要約", "r": "ようやく", "hv": "YẾU ƯỚC", "vi": "tóm tắt" },
+          { "w": "節約", "r": "せつやく", "hv": "TIẾT ƯỚC", "vi": "tiết kiệm" },
+          { "w": "縮小", "r": "しゅくしょう", "hv": "SÚC TIỂU", "vi": "thu nhỏ, cắt giảm quy mô" },
+          { "w": "発表", "r": "はっぴょう", "hv": "PHÁT BIỂU", "vi": "thuyết trình, công bố" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "文章を要約する／内容を要約する = tóm tắt nội dung."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "フライパンの油が回りに（　　）、キッチンが汚れた。",
+      "options": ["飛び散って", "飛び立って", "飛び越えて", "飛び上がって"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Dầu trong chảo bắn tung tóe ra xung quanh, làm bếp bị bẩn.",
+        "why": "飛び散る (とびちる) = văng ra, bắn tung tóe khắp nơi. Dầu bắn ra xung quanh (回りに) → 飛び散って.",
+        "options": [
+          "飛び散って → văng tung tóe. ĐÚNG.",
+          "飛び立って → (chim, máy bay) cất cánh bay đi. Sai.",
+          "飛び越えて → nhảy qua, vượt qua (rào). Sai.",
+          "飛び上がって → nhảy dựng lên, bay vút lên. Sai."
+        ],
+        "vocab": [
+          { "w": "飛び散る", "r": "とびちる", "hv": "PHI TÁN", "vi": "bắn tung tóe, văng ra" },
+          { "w": "飛び立つ", "r": "とびたつ", "hv": "PHI LẬP", "vi": "cất cánh, bay đi" },
+          { "w": "飛び越える", "r": "とびこえる", "hv": "PHI VIỆT", "vi": "nhảy qua" },
+          { "w": "汚れる", "r": "よごれる", "hv": "Ô", "vi": "bị bẩn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "散る = rơi rụng, tản ra (花が散る) → 飛び散る = bay tản ra khắp nơi."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "私の娘は音に（　　）で、小さな音でも目を覚ましてしまう。",
+      "options": ["詳細", "器用", "敏感", "短気"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Con gái tôi rất nhạy cảm với âm thanh, tiếng động nhỏ thôi cũng làm cháu tỉnh giấc.",
+        "why": "N に敏感だ (びんかん: MẪN CẢM) = nhạy cảm với N. Tiếng nhỏ cũng thức dậy → nhạy cảm với âm thanh.",
+        "options": [
+          "詳細 (しょうさい) → chi tiết. Sai.",
+          "器用 (きよう) → khéo tay. Sai.",
+          "敏感 (びんかん) → nhạy cảm. ĐÚNG.",
+          "短気 (たんき) → nóng tính. Sai."
+        ],
+        "vocab": [
+          { "w": "敏感", "r": "びんかん", "hv": "MẪN CẢM", "vi": "nhạy cảm" },
+          { "w": "鈍感", "r": "どんかん", "hv": "ĐỘN CẢM", "vi": "kém nhạy, chậm cảm nhận" },
+          { "w": "器用", "r": "きよう", "hv": "KHÍ DỤNG", "vi": "khéo léo" },
+          { "w": "目を覚ます", "r": "めをさます", "hv": "MỤC GIÁC", "vi": "tỉnh giấc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Mẫu: ～に敏感だ (音に敏感・流行に敏感)."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "ユーキ教授の主張が正しいことを（　　）貴重な資料が見つかった。",
+      "options": ["近づける", "取り上げる", "持ち上げる", "裏づける"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đã tìm thấy tư liệu quý giá chứng minh rằng chủ trương của giáo sư Yuki là đúng.",
+        "why": "裏づける (うらづける) = chứng minh, làm bằng chứng xác thực cho (lý thuyết, lời khai). Tư liệu xác nhận chủ trương đúng → 裏づける.",
+        "options": [
+          "近づける → đưa lại gần. Sai.",
+          "取り上げる → đề cập, nêu lên; tịch thu. Sai.",
+          "持ち上げる → nâng lên; tâng bốc. Sai.",
+          "裏づける → chứng minh, làm bằng chứng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "裏づける", "r": "うらづける", "hv": "LÝ", "vi": "chứng minh, xác thực" },
+          { "w": "裏づけ", "r": "うらづけ", "hv": "LÝ", "vi": "bằng chứng, căn cứ" },
+          { "w": "主張", "r": "しゅちょう", "hv": "CHỦ TRƯƠNG", "vi": "chủ trương, lập luận" },
+          { "w": "貴重", "r": "きちょう", "hv": "QUÝ TRỌNG", "vi": "quý giá" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm hay gặp: 説を裏づける証拠 = bằng chứng chứng minh giả thuyết."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "今日は仕事で一日中歩き回ったので、（　　）疲れた。",
+      "options": ["かさかさに", "くたくたに", "ぶくぶくに", "ふさふさに"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hôm nay đi lại cả ngày vì công việc nên tôi mệt rã rời.",
+        "why": "くたくた = mệt lả, kiệt sức. Cụm cố định: くたくたに疲れる.",
+        "options": [
+          "かさかさに → khô ráp (da, môi). Sai.",
+          "くたくたに → mệt rã rời. ĐÚNG.",
+          "ぶくぶくに → béo phị, phình ra; sủi bọt. Sai.",
+          "ふさふさに → (tóc, lông) rậm rạp, dày. Sai."
+        ],
+        "vocab": [
+          { "w": "くたくた", "r": "くたくた", "hv": "", "vi": "mệt lả, rã rời" },
+          { "w": "かさかさ", "r": "かさかさ", "hv": "", "vi": "khô ráp" },
+          { "w": "ふさふさ", "r": "ふさふさ", "hv": "", "vi": "rậm, dày (tóc)" },
+          { "w": "歩き回る", "r": "あるきまわる", "hv": "BỘ HỒI", "vi": "đi lại khắp nơi" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cùng nghĩa mệt: へとへと／くたくた／ぐったり."
+      }
+    }
+  ]
+}

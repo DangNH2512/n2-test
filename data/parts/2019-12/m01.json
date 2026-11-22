@@ -1,0 +1,139 @@
+{
+  "exam": "2019-12",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "木村さんは誰に対しても<u>等しく</u>接する人だ。",
+      "options": ["やさしく", "ひとしく", "したしく", "きびしく"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh Kimura là người đối xử công bằng (như nhau) với bất kỳ ai.",
+        "why": "等しい đọc là ひとしい (ĐẲNG) = bằng nhau, như nhau. 等しく接する = đối xử như nhau, không phân biệt.",
+        "options": [
+          "やさしく → 優しく/易しく: hiền lành / dễ. Sai.",
+          "ひとしく → 等しく: như nhau, công bằng. ĐÚNG.",
+          "したしく → 親しく: thân thiết. Sai.",
+          "きびしく → 厳しく: nghiêm khắc. Sai."
+        ],
+        "vocab": [
+          { "w": "等しい", "r": "ひとしい", "hv": "ĐẲNG", "vi": "bằng nhau, như nhau" },
+          { "w": "接する", "r": "せっする", "hv": "TIẾP", "vi": "tiếp xúc, đối xử với" },
+          { "w": "親しい", "r": "したしい", "hv": "THÂN", "vi": "thân thiết" },
+          { "w": "厳しい", "r": "きびしい", "hv": "NGHIÊM", "vi": "nghiêm khắc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "等 âm On là とう (平等 びょうどう, 等分 とうぶん), âm Kun là ひと(しい)."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "石川さんのけがは、<u>軽傷</u>だったらしい。",
+      "options": ["けいしょう", "けいそう", "けそう", "けしょう"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nghe nói vết thương của anh Ishikawa chỉ là vết thương nhẹ.",
+        "why": "軽傷 đọc là けいしょう (KHINH THƯƠNG) = vết thương nhẹ. 軽 âm On là けい (trường âm), 傷 âm On là しょう.",
+        "options": [
+          "けいしょう → 軽傷: vết thương nhẹ. ĐÚNG.",
+          "けいそう → 軽装: ăn mặc gọn nhẹ. Sai.",
+          "けそう → thiếu trường âm của 軽, không có từ này. Sai.",
+          "けしょう → 化粧: trang điểm. Sai."
+        ],
+        "vocab": [
+          { "w": "軽傷", "r": "けいしょう", "hv": "KHINH THƯƠNG", "vi": "vết thương nhẹ" },
+          { "w": "重傷", "r": "じゅうしょう", "hv": "TRỌNG THƯƠNG", "vi": "vết thương nặng" },
+          { "w": "軽装", "r": "けいそう", "hv": "KHINH TRANG", "vi": "trang phục gọn nhẹ" },
+          { "w": "化粧", "r": "けしょう", "hv": "HÓA TRANG", "vi": "trang điểm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cặp đối: 軽傷 (けいしょう) ⇔ 重傷 (じゅうしょう). 傷 Kun đọc là きず."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "費用はみんなで<u>負担</u>した。",
+      "options": ["ぶんてん", "ふてん", "ぶんたん", "ふたん"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Chi phí thì mọi người cùng gánh chịu (chia nhau trả).",
+        "why": "負担 đọc là ふたん (PHỤ ĐẢM) = gánh vác, chịu (chi phí, trách nhiệm). 負 là ふ, 担 là たん.",
+        "options": [
+          "ぶんてん → không có từ này. Sai.",
+          "ふてん → 担 không đọc là てん. Sai.",
+          "ぶんたん → 分担: phân chia công việc/chi phí (viết bằng 分 chứ không phải 負). Sai.",
+          "ふたん → 負担: gánh chịu. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "負担", "r": "ふたん", "hv": "PHỤ ĐẢM", "vi": "gánh vác, chịu (chi phí…)" },
+          { "w": "分担", "r": "ぶんたん", "hv": "PHÂN ĐẢM", "vi": "phân chia, chia nhau đảm nhận" },
+          { "w": "費用", "r": "ひよう", "hv": "PHÍ DỤNG", "vi": "chi phí" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy: 負担 (ふたん) và 分担 (ぶんたん) đều có 担 = たん; phân biệt bằng chữ đầu 負 (ふ) / 分 (ぶん)."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "湖に<u>映った</u>夕日がきれいだ。",
+      "options": ["あたった", "ひかった", "てった", "うつった"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Ánh hoàng hôn phản chiếu trên mặt hồ thật đẹp.",
+        "why": "映る đọc là うつる (ÁNH) = phản chiếu, in bóng (trên mặt nước, gương, màn hình).",
+        "options": [
+          "あたった → 当たる: trúng, chạm vào. Sai.",
+          "ひかった → 光る: phát sáng. Sai.",
+          "てった → 照る: chiếu sáng (mặt trời). Sai.",
+          "うつった → 映る: phản chiếu. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "映る", "r": "うつる", "hv": "ÁNH", "vi": "phản chiếu, hiện lên (trên mặt nước, màn hình)" },
+          { "w": "湖", "r": "みずうみ", "hv": "HỒ", "vi": "hồ" },
+          { "w": "夕日", "r": "ゆうひ", "hv": "TỊCH NHẬT", "vi": "mặt trời lúc hoàng hôn" },
+          { "w": "照る", "r": "てる", "hv": "CHIẾU", "vi": "chiếu sáng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "うつる có 3 chữ: 映る (phản chiếu), 移る (di chuyển), 写る (được chụp vào ảnh)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "9月の<u>下旬</u>に旅行に行く予定です。",
+      "options": ["げしゅん", "かじゅん", "げじゅん", "かしゅん"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi dự định đi du lịch vào hạ tuần (cuối) tháng 9.",
+        "why": "下旬 đọc là げじゅん (HẠ TUẦN) = 10 ngày cuối tháng. 下 đọc げ, 旬 đọc じゅん (âm đục).",
+        "options": [
+          "げしゅん → 旬 không đọc しゅん trong từ này. Sai.",
+          "かじゅん → 下 không đọc か trong từ này. Sai.",
+          "げじゅん → 下旬: hạ tuần, cuối tháng. ĐÚNG.",
+          "かしゅん → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "下旬", "r": "げじゅん", "hv": "HẠ TUẦN", "vi": "hạ tuần (ngày 21 – cuối tháng)" },
+          { "w": "上旬", "r": "じょうじゅん", "hv": "THƯỢNG TUẦN", "vi": "thượng tuần (ngày 1–10)" },
+          { "w": "中旬", "r": "ちゅうじゅん", "hv": "TRUNG TUẦN", "vi": "trung tuần (ngày 11–20)" },
+          { "w": "予定", "r": "よてい", "hv": "DỰ ĐỊNH", "vi": "dự định, kế hoạch" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bộ ba 上旬・中旬・下旬 đều đọc じゅん. 旬 đứng một mình đọc しゅん (mùa, đúng vụ)."
+      }
+    }
+  ]
+}

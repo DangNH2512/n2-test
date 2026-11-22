@@ -1,0 +1,85 @@
+{
+  "exam": "2022-07",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ đúng nhất để điền vào chỗ trống (từ ghép, tiền tố/hậu tố).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "（　　）分野の人と話すのはいい刺激になる。",
+      "options": ["逆", "異", "副", "裏"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Nói chuyện với người thuộc lĩnh vực khác là một sự kích thích (tác động) tốt.",
+        "why": "異 (い, DỊ) là tiền tố \"khác\": 異分野 (lĩnh vực khác), 異文化 (văn hóa khác), 異業種 (ngành nghề khác).",
+        "options": [
+          "逆 → 逆効果, 逆方向 (ngược lại); không nói 逆分野. Sai.",
+          "異 → 異分野: lĩnh vực khác. ĐÚNG.",
+          "副 → 副作用, 副社長 (phụ, phó); không hợp nghĩa. Sai.",
+          "裏 → 裏口, 裏面 (mặt sau); không ghép với 分野. Sai."
+        ],
+        "vocab": [
+          { "w": "異分野", "r": "いぶんや", "hv": "DỊ PHÂN DÃ", "vi": "lĩnh vực khác" },
+          { "w": "刺激", "r": "しげき", "hv": "THÍCH KÍCH", "vi": "kích thích, tác động" },
+          { "w": "異文化", "r": "いぶんか", "hv": "DỊ VĂN HÓA", "vi": "văn hóa khác" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "異〜 = khác: 異分野, 異文化, 異業種, 異常 (bất thường)."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "その店は、よい品物を（　　）価格で売っている。",
+      "options": ["半", "安", "小", "低"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Cửa hàng đó bán hàng tốt với giá thấp.",
+        "why": "低 (てい, ĐÊ) ghép với 価格 thành 低価格 (ていかかく) = giá thấp, giá rẻ. Đối lập: 高価格.",
+        "options": [
+          "半 → 半額 (nửa giá) nhưng không nói 半価格. Sai.",
+          "安 → 安い là tính từ; không có từ ghép 安価格 (có 安価 あんか riêng). Sai.",
+          "小 → 小型, 小規模; không ghép với 価格. Sai.",
+          "低 → 低価格: giá thấp. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "低価格", "r": "ていかかく", "hv": "ĐÊ GIÁ CÁCH", "vi": "giá thấp, giá rẻ" },
+          { "w": "品物", "r": "しなもの", "hv": "PHẨM VẬT", "vi": "hàng hóa" },
+          { "w": "安価", "r": "あんか", "hv": "AN GIÁ", "vi": "giá rẻ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "低〜 / 高〜 ghép với từ Hán: 低価格・高価格, 低温・高温, 低所得・高所得."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "運転免許証など、顔写真（　　）の身分証明書を見せてください。",
+      "options": ["足し", "載せ", "付き", "含み"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Vui lòng cho xem giấy tờ tùy thân có kèm ảnh chân dung, như bằng lái xe chẳng hạn.",
+        "why": "N + 付き (つき) = có kèm theo N: 顔写真付き (có ảnh), 朝食付き (kèm bữa sáng), 保証付き (có bảo hành).",
+        "options": [
+          "足し → 足す (cộng thêm); không làm hậu tố như vậy. Sai.",
+          "載せ → 載せる (đăng, chất lên); không nói 顔写真載せ. Sai.",
+          "付き → 顔写真付き: có kèm ảnh. ĐÚNG.",
+          "含み → 含む (bao gồm); không dùng làm hậu tố này. Sai."
+        ],
+        "vocab": [
+          { "w": "〜付き", "r": "つき", "hv": "PHÓ", "vi": "có kèm theo ~" },
+          { "w": "身分証明書", "r": "みぶんしょうめいしょ", "hv": "THÂN PHẬN CHỨNG MINH THƯ", "vi": "giấy tờ tùy thân" },
+          { "w": "運転免許証", "r": "うんてんめんきょしょう", "hv": "VẬN CHUYỂN MIỄN HỨA CHỨNG", "vi": "bằng lái xe" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜付き hay gặp: 朝食付き, 家具付き, 条件付き, 保証付き."
+      }
+    }
+  ]
+}

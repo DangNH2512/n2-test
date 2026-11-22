@@ -1,0 +1,201 @@
+{
+  "exam": "2013-12",
+  "mondai": 10,
+  "section": "reading",
+  "instruction": "次の（１）から（５）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(5), chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "以下は、辞書の編集にかかわったことのある人が書いた文章である。\n\n<u>最新の意味が、辞書に載っていない</u>、とはよく言われることである。保守的（注1）すぎる、と。辞書は、その点、小回りがきかない（注2）。けれども、最新の意味を辞書に載せたとたん、その意味が消えてしまったらどうだろう。その辞書は、もう使われもしない古い意味を載せていることになる。だから、辞書の編者は、新しい意味が、日本語の中に、きちんと定着するかどうかを見極め（注3）ている。保守的というより、慎重だと言ってほしい。\n\n（小野正弘『オノマトペがあるから日本語は楽しい―擬音語・擬態語の豊かな世界』による）\n\n（注1）保守的：新しいものを受け入れず、古いものを守ろうとすること\n（注2）小回りがきく：状況にすぐに対応できる\n（注3）見極める：ここでは、十分に観察し、確かめる"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "以下はある会社で回覧された文章である。\n\n２０１３年７月２９日\n社員各位\n\n皆さまのご協力のおかげで、ごみの分別状況は改善されてきましたが、リサイクル可能な紙類の多くが、いまだに「燃えるごみ」のボックスに捨てられています。\n例えば、新聞、雑誌だけでなく、菓子箱、紙袋などもリサイクルが可能です。これらは必ず「リサイクル」のボックスに入れてください。\n詳しい分別方法は、ボックスの上に掲示しておきますので、捨てる前に再度ご確認ください。分別の徹底をお願いいたします。\n\n以上"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "以下は、ある庭園の案内である。\n\n多田庭園は地元有力者多田家の別荘の庭を保存したもので、一般に公開されています。庭の一角には１８００年代初めまで使用されていた伝統的な建物も残されています。\n庭の中心には池があり、滝が約３メートルの高さから流れ落ちています。夏は滝の音が涼しげで、暑さを忘れさせてくれます。秋の夜にはライトアップが行われ、紅葉と滝が光の中に浮かんで見えて見事です。そのため、この時期には多くの観光客が訪れます。"
+    },
+    {
+      "id": "p4",
+      "label": "(4)",
+      "text": "以下は、保護者に向けて書かれた文章である。\n\n最初に知っておきたいのは、保護者が嫌いなものは、子どもも好きになれないということです。普段から「まずい、嫌い」と聞かされているものを美味しいと思えないのは当然です。また、嫌がるものを無理に食べさせても、嫌な思い出が残るばかりで、良い結果は出ません。\nそれに対して、最初は苦手だった食べ物でも、周囲の大人たちが「美味しいね」と笑顔で食べている姿を見て興味が湧き、食べられるようになることがあります。つまり、偏食をなくすには「親子で一緒に楽しみながら」がコツなのです。"
+    },
+    {
+      "id": "p5",
+      "label": "(5)",
+      "text": "学歴があっても学力がない人は教えた仕事だけは本当にきちんとやります。しかし、自分で考えることに積極的ではないので進歩が遅い。\n一方、体力があっても根性がない人はあきらめが早い。それはいまの仕事で自分に何が求められているかを突き詰めて（注）考えていないから、やる気が湧いてこないのです。\nつまり、<u>この２タイプ</u>は自分の仕事に対して無関心なのです。少なくとも上司の目にはそう映ります。\n\n（長谷川和廣『社長のノート』による）\n\n（注）突き詰めて：ここでは、徹底的に"
+    }
+  ],
+  "questions": [
+    {
+      "num": 55,
+      "passage": "p1",
+      "stem": "<u>最新の意味が、辞書に載っていない</u>とあるが、なぜか。",
+      "options": [
+        "新しい意味が将来残るかを注意深く判断しているから。",
+        "新しい意味がどのように変化するかを考えているから。",
+        "新しい意味をどう説明するかをじっくり考えているから。",
+        "新しい意味は時間がたつといずれ消えると思っているから。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "\"Nghĩa mới nhất không có trong từ điển\" – vì sao? → Vì (người biên soạn) đang thận trọng phán đoán xem nghĩa mới có còn tồn tại trong tương lai hay không.",
+        "why": "Tác giả giải thích: nếu đưa nghĩa mới vào rồi nó biến mất thì từ điển chứa nghĩa cũ không ai dùng. Vì vậy người biên soạn 'xem xét kỹ xem nghĩa mới có bám rễ (定着) trong tiếng Nhật hay không' – tức là phán đoán nó có còn lại hay không, một cách thận trọng (慎重).",
+        "options": [
+          "Thận trọng phán đoán nghĩa mới có tồn tại lâu dài không = 定着するかどうかを見極める. ĐÚNG.",
+          "Suy nghĩ nghĩa mới sẽ biến đổi thế nào → bài không nói về sự biến đổi nghĩa. Sai.",
+          "Cân nhắc cách giải thích nghĩa mới → không được đề cập. Sai.",
+          "Cho rằng nghĩa mới rồi sẽ biến mất → quá khẳng định; tác giả chỉ nói 'nếu nó biến mất thì sao', không cho rằng chắc chắn biến mất. Sai."
+        ],
+        "vocab": [
+          { "w": "定着", "r": "ていちゃく", "hv": "ĐỊNH TRƯỚC", "vi": "bám rễ, ổn định, trở nên phổ biến" },
+          { "w": "見極める", "r": "みきわめる", "hv": "KIẾN CỰC", "vi": "xem xét kỹ, xác định rõ" },
+          { "w": "慎重", "r": "しんちょう", "hv": "THẬN TRỌNG", "vi": "thận trọng" },
+          { "w": "保守的", "r": "ほしゅてき", "hv": "BẢO THỦ ĐÍCH", "vi": "bảo thủ" },
+          { "w": "編者", "r": "へんしゃ", "hv": "BIÊN GIẢ", "vi": "người biên soạn" }
+        ],
+        "grammar": {
+          "pattern": "Vたとたん",
+          "meaning": "vừa mới … thì ngay lập tức",
+          "form": "Vた＋とたん(に)",
+          "example": "立ち上がったとたん、めまいがした。(Vừa đứng dậy thì chóng mặt.)"
+        },
+        "evidence": "だから、辞書の編者は、新しい意味が、日本語の中に、きちんと定着するかどうかを見極めている。保守的というより、慎重だと言ってほしい。",
+        "tip": "Câu bắt đầu bằng だから thường là câu trả lời cho câu hỏi なぜか."
+      }
+    },
+    {
+      "num": 56,
+      "passage": "p2",
+      "stem": "この文章で最も伝えたいことは何か。",
+      "options": [
+        "リサイクル可能な紙類をきちんと分別してほしい。",
+        "リサイクル可能なものの種類を一つ一つ覚えてほしい。",
+        "ごみの分別方法を変更するので、間違いなく分別してほしい。",
+        "「燃えるゴミ」を「リサイクル」のボックスに捨てないでほしい。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều văn bản muốn truyền đạt nhất là gì? → Muốn mọi người phân loại đúng các loại giấy có thể tái chế.",
+        "why": "Vấn đề nêu ra: nhiều loại giấy tái chế được vẫn bị vứt vào thùng 'rác cháy được'. Yêu cầu: hãy bỏ chúng vào thùng 'tái chế' và 'phân loại triệt để' → phân loại giấy tái chế cho đúng.",
+        "options": [
+          "Phân loại đúng giấy tái chế được. ĐÚNG.",
+          "Nhớ từng loại đồ tái chế được → văn bản chỉ yêu cầu kiểm tra bảng dán trên thùng trước khi vứt, không yêu cầu học thuộc. Sai.",
+          "Thay đổi cách phân loại → không có thay đổi nào; chỉ là nhắc nhở. Sai.",
+          "Đừng vứt rác cháy được vào thùng tái chế → ngược vấn đề (giấy tái chế bị bỏ vào thùng rác cháy). Sai."
+        ],
+        "vocab": [
+          { "w": "分別", "r": "ぶんべつ", "hv": "PHÂN BIỆT", "vi": "phân loại (rác)" },
+          { "w": "回覧", "r": "かいらん", "hv": "HỒI LÃM", "vi": "chuyền tay nhau đọc (thông báo)" },
+          { "w": "掲示", "r": "けいじ", "hv": "YẾT THỊ", "vi": "dán thông báo, niêm yết" },
+          { "w": "徹底", "r": "てってい", "hv": "TRIỆT ĐỂ", "vi": "triệt để, thực hiện nghiêm" },
+          { "w": "社員各位", "r": "しゃいんかくい", "hv": "XÃ VIÊN CÁC VỊ", "vi": "gửi toàn thể nhân viên" }
+        ],
+        "grammar": null,
+        "evidence": "リサイクル可能な紙類の多くが、いまだに「燃えるごみ」のボックスに捨てられています。…これらは必ず「リサイクル」のボックスに入れてください。…分別の徹底をお願いいたします。",
+        "tip": "Thư thông báo: ý chính thường ở câu yêu cầu 〜てください / 〜をお願いいたします."
+      }
+    },
+    {
+      "num": 57,
+      "passage": "p3",
+      "stem": "この案内から、多田庭園についてどんなことがわかるか。",
+      "options": [
+        "１８００年代初めに多田家によって造られた。",
+        "庭園は建物を中心として造られている。",
+        "年を通して多くの観光客が訪れる。",
+        "秋の夜には紅葉と滝が美しく見える。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Từ bản hướng dẫn, biết được điều gì về vườn Tada? → Đêm mùa thu, lá đỏ và thác nước trông rất đẹp.",
+        "why": "Bài viết: đêm mùa thu có chiếu sáng, lá đỏ và thác nước hiện lên trong ánh sáng rất tuyệt (見事). 見事 = 美しい.",
+        "options": [
+          "Do nhà Tada xây vào đầu những năm 1800 → bài chỉ nói tòa nhà truyền thống 'được sử dụng đến đầu những năm 1800', không nói năm xây vườn. Sai.",
+          "Vườn xây lấy tòa nhà làm trung tâm → trung tâm vườn là cái ao (池); tòa nhà ở một góc (一角). Sai.",
+          "Quanh năm đông khách → chỉ 'mùa này' (mùa thu) mới đông khách. Sai.",
+          "Đêm thu lá đỏ và thác nước đẹp. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "庭園", "r": "ていえん", "hv": "ĐÌNH VIÊN", "vi": "vườn (cảnh)" },
+          { "w": "別荘", "r": "べっそう", "hv": "BIỆT TRANG", "vi": "biệt thự nghỉ dưỡng" },
+          { "w": "紅葉", "r": "こうよう／もみじ", "hv": "HỒNG DIỆP", "vi": "lá đỏ mùa thu" },
+          { "w": "滝", "r": "たき", "hv": "LUNG", "vi": "thác nước" },
+          { "w": "見事", "r": "みごと", "hv": "KIẾN SỰ", "vi": "tuyệt đẹp, xuất sắc" }
+        ],
+        "grammar": null,
+        "evidence": "秋の夜にはライトアップが行われ、紅葉と滝が光の中に浮かんで見えて見事です。そのため、この時期には多くの観光客が訪れます。",
+        "tip": "Bẫy: 'この時期には' (chỉ mùa thu) ≠ '年を通して' (quanh năm). 'まで使用されていた' ≠ 'に造られた'."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p4",
+      "stem": "筆者の考えに合うのはどれか。",
+      "options": [
+        "大人は子どもの好き嫌いを気にしすぎないほうが良い。",
+        "大人の食べ物に対する態度が、子どもの好き嫌いに影響する。",
+        "子どものころの好き嫌いは、大人になってからも変わらない。",
+        "子どもの好き嫌いをなくすより、食事を楽しむことのほうが大切だ。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Thái độ của người lớn đối với đồ ăn ảnh hưởng đến việc kén ăn của trẻ.",
+        "why": "Tác giả nêu 2 mặt: món phụ huynh ghét thì trẻ cũng không thích; ngược lại, thấy người lớn vui vẻ ăn ngon lành thì trẻ có hứng thú và ăn được. Cả hai đều cho thấy thái độ của người lớn ảnh hưởng đến khẩu vị của trẻ.",
+        "options": [
+          "Người lớn đừng quá bận tâm chuyện kén ăn → tác giả vẫn muốn 'xóa bỏ kén ăn' (偏食をなくす). Sai.",
+          "Thái độ của người lớn với đồ ăn ảnh hưởng đến sở thích của trẻ. ĐÚNG.",
+          "Sở thích từ nhỏ không đổi khi lớn → bài nói trẻ có thể ăn được món từng ghét. Sai.",
+          "Vui khi ăn quan trọng hơn bỏ kén ăn → 'vui cùng nhau' là cách (コツ) để bỏ kén ăn, không phải đặt lên trên. Sai."
+        ],
+        "vocab": [
+          { "w": "偏食", "r": "へんしょく", "hv": "THIÊN THỰC", "vi": "kén ăn, ăn uống thiên lệch" },
+          { "w": "保護者", "r": "ほごしゃ", "hv": "BẢO HỘ GIẢ", "vi": "phụ huynh, người giám hộ" },
+          { "w": "好き嫌い", "r": "すききらい", "hv": "HẢO HIỀM", "vi": "thích và ghét; kén chọn" },
+          { "w": "湧く", "r": "わく", "hv": "DŨNG", "vi": "trào ra, nảy sinh (hứng thú)" },
+          { "w": "コツ", "r": "コツ", "hv": "", "vi": "bí quyết, mẹo" }
+        ],
+        "grammar": null,
+        "evidence": "保護者が嫌いなものは、子どもも好きになれないということです。…周囲の大人たちが「美味しいね」と笑顔で食べている姿を見て興味が湧き、食べられるようになることがあります。",
+        "tip": "Đáp án đúng thường là câu khái quát hóa được toàn bài (cả ví dụ tiêu cực và tích cực)."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p5",
+      "stem": "<u>この２タイプ</u>とあるが、この２タイプのどちらにも言えることは何か。",
+      "options": [
+        "やる気がなくて、進歩が遅い。",
+        "考えようとする姿勢が足りない。",
+        "何が求められているかわからない。",
+        "深く考えず、すぐにあきらめる。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều có thể nói chung cho cả 'hai kiểu người này' là gì? → Thiếu thái độ chịu suy nghĩ.",
+        "why": "Kiểu 1 (có học vị nhưng thiếu học lực): 'không tích cực tự suy nghĩ' nên tiến bộ chậm. Kiểu 2 (có thể lực nhưng thiếu nghị lực): 'không suy nghĩ thấu đáo' xem mình được yêu cầu gì nên không có động lực. Điểm chung = không chịu suy nghĩ.",
+        "options": [
+          "Không có động lực và tiến bộ chậm → 'tiến bộ chậm' là kiểu 1, 'không có động lực' là kiểu 2; không chung cho cả hai. Sai.",
+          "Thiếu thái độ chịu suy nghĩ. ĐÚNG.",
+          "Không hiểu mình được yêu cầu gì → chỉ nói về kiểu 2 (và là 'không suy nghĩ kỹ', không phải 'không hiểu'). Sai.",
+          "Không suy nghĩ sâu, bỏ cuộc ngay → 'bỏ cuộc nhanh' chỉ là kiểu 2; kiểu 1 làm việc được giao rất chỉn chu. Sai."
+        ],
+        "vocab": [
+          { "w": "学歴", "r": "がくれき", "hv": "HỌC LỊCH", "vi": "học vị, bằng cấp" },
+          { "w": "学力", "r": "がくりょく", "hv": "HỌC LỰC", "vi": "học lực, năng lực học" },
+          { "w": "根性", "r": "こんじょう", "hv": "CĂN TÍNH", "vi": "nghị lực, sự bền bỉ" },
+          { "w": "突き詰める", "r": "つきつめる", "hv": "ĐỘT CẬT", "vi": "suy nghĩ thấu đáo, đến cùng" },
+          { "w": "無関心", "r": "むかんしん", "hv": "VÔ QUAN TÂM", "vi": "thờ ơ, không quan tâm" }
+        ],
+        "grammar": null,
+        "evidence": "自分で考えることに積極的ではないので進歩が遅い。／自分に何が求められているかを突き詰めて考えていないから、やる気が湧いてこないのです。",
+        "tip": "Câu hỏi 'cả hai đều…' → loại phương án chỉ đúng với một bên; tìm từ khóa lặp lại ở cả hai (考える)."
+      }
+    }
+  ]
+}

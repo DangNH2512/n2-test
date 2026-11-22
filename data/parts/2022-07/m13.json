@@ -1,0 +1,124 @@
+{
+  "exam": "2022-07",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn dài và chọn câu trả lời đúng nhất cho mỗi câu hỏi (đọc hiểu chủ đề).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "決断力",
+      "text": "決断力がないと、いつも誰かの指示や命令に黙って従って生きていくしかない。そんな人生は誰も望まないだろう。若いうちは人の上に立つ機会は少ないが、決断力のある人をよく観察して、「なるほど、ああいうふうにすればいいのか」などと参考にしたほうがいい。とにかく早くから決断するクセをつけておくことだ。\nどうやって決断力を磨くか。これは難しい問題のようだが、実は簡単で、決断力とは「決断すればいい」だけのこと。要は（注1）決断の勇気があるかどうかなのである。たとえば、「行く」「行かない」「断る」など、すべてその場で決める勇気なのだ。\nこのことを理解するためには、逆に①<u>なかなか決断できない人</u>を考えてみればいい。決断しなければならない場面で決断できない人は、何を考えているのだろうか。たとえば「行く」か「行かない」かという決断をするときに、その見通しをつけたいと思っているのだ。行けばどうなるか、行かないとどうか。つまり「正しい決断をしたい」と思っているのだ。だが、この気持ちこそが決断を遅らせる最大の原因である。（中略）\nわからないことをわかろうと無理する必要はない。エイヤッと（注2）決めてしまえばそれですむ。哲学者のアミエルという人が「決心する前に、完全な見通しをつけようとする者は、決心することができない」といっている。そのとおりなのだ。決断で大切なことは、さっさと自分で「決断する」ことのみである。自分が決断しなければ、人の決断に従うことになる。人の決断に従って、結果が悪ければ、自分ですればよかったと後悔する。あるいは人のせいにする。絶対にそんな人生を送ってはいけない。自分の人生ではないか。\nA社かB社かで悩んだ②<u>就活生</u>（注3）がB社を選んだとする。だが、三年で退職する羽目になった（注4）。すると「A社にしておけばよかった」と思うかもしれない。だが、A社を選んで同じ結果が出れば、「B社にすればよかった」と思うに決まっている。\nこれは、おかしくないか。どっちを選んでも後悔しているからだ。うまくいかなかった原因は決断にあったのではなく、その後の処し方（注5）が悪かったからだ。もし、うまくいっていれば、決断が正しかったと思うだろうが、そうではなく、処し方がよかったのだ。\nこう考えてくると、決断の正体（注6）がだんだん見えてくるだろう。決断ですべてが決まるわけではない。決断した後の考え方や行動が大切。だが、決断しないことには何事も（注7）はじまらない。物事を前進させるためには決断が不可欠である。何がいけないといって、決断すべきときに決断しないのがいちばんいけない。\n\n（注1）要は：大事なことは\n（注2）エイヤッと：ここでは、思い切って\n（注3）就活生：就職のための活動をする学生\n（注4）～羽目になる：～という困った状況になる\n（注5）処し方：ここでは、対応\n（注6）正体：本当の姿\n（注7）何事も：どんなことも"
+    }
+  ],
+  "questions": [
+    {
+      "num": 67,
+      "passage": "p1",
+      "stem": "①<u>なかなか決断できない人</u>とあるが、なぜ決断できないのか。",
+      "options": [
+        "自分が正しい決断ができるとは思えないから。",
+        "一度決断したら変えられないと思って迷うから。",
+        "その場で決断すべきことかどうかわからないから。",
+        "間違った決断をしたくないと思って考えすぎるから。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Có ghi \"người mãi không quyết định được\", vì sao họ không quyết định được? → Vì muốn tránh quyết định sai nên suy nghĩ quá nhiều.",
+        "why": "Họ muốn nắm trước triển vọng (đi thì sao, không đi thì sao), tức là \"muốn quyết định đúng\" — chính tâm lý này làm chậm quyết định → không muốn sai nên nghĩ quá nhiều.",
+        "options": [
+          "Họ không phải tự ti về khả năng, mà là MUỐN quyết định đúng. Sai.",
+          "Bài không nói \"quyết rồi thì không đổi được\". Sai.",
+          "Bài không nói họ phân vân có nên quyết ngay tại chỗ hay không. Sai.",
+          "Muốn quyết định đúng (không sai) nên nghĩ quá nhiều. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "決断", "r": "けつだん", "hv": "QUYẾT ĐOÁN", "vi": "quyết định, quyết đoán" },
+          { "w": "見通し", "r": "みとおし", "hv": "KIẾN THÔNG", "vi": "triển vọng, dự đoán trước" },
+          { "w": "遅らせる", "r": "おくらせる", "hv": "TRÌ", "vi": "làm chậm lại" },
+          { "w": "最大", "r": "さいだい", "hv": "TỐI ĐẠI", "vi": "lớn nhất" }
+        ],
+        "grammar": {
+          "pattern": "～こそ",
+          "meaning": "chính ~ (nhấn mạnh)",
+          "form": "N + こそ",
+          "example": "この気持ちこそが成功の原因だ。"
+        },
+        "evidence": "その見通しをつけたいと思っているのだ。行けばどうなるか、行かないとどうか。つまり「正しい決断をしたい」と思っているのだ。だが、この気持ちこそが決断を遅らせる最大の原因である。",
+        "tip": "「正しい決断をしたい」 = 間違った決断をしたくない (diễn đạt ngược nghĩa tương đương)."
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p1",
+      "stem": "②<u>就活生</u>の例を挙げて、筆者が問題だと述べていることは何か。",
+      "options": [
+        "人の意見を出して決断すればよかったと思うこと。",
+        "悪い結果になったとき、それを認めようとしないこと。",
+        "決断を間違えたせいで悪い結果になったと思うこと。",
+        "決断は正しかったにもかかわらず、後悔をしていること。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Qua ví dụ về sinh viên đi xin việc, tác giả cho rằng vấn đề là gì? → Cho rằng kết quả xấu là do quyết định sai.",
+        "why": "Chọn công ty nào cũng hối hận \"giá mà chọn bên kia\" — tức là đổ lỗi cho quyết định. Tác giả nói nguyên nhân không ở quyết định mà ở cách ứng xử sau đó (処し方).",
+        "options": [
+          "Ví dụ không nói về việc nghe theo ý người khác. Sai.",
+          "Sinh viên có thừa nhận kết quả xấu (nghỉ việc), chỉ là đổ lỗi cho lựa chọn. Sai.",
+          "Nghĩ rằng do quyết định sai nên kết quả xấu. ĐÚNG.",
+          "Tác giả không nói quyết định là \"đúng\"; ông nói quyết định không phải là nguyên nhân. Sai."
+        ],
+        "vocab": [
+          { "w": "就活生", "r": "しゅうかつせい", "hv": "TỰU HOẠT SINH", "vi": "sinh viên đang tìm việc" },
+          { "w": "羽目になる", "r": "はめになる", "hv": "VŨ MỤC", "vi": "rơi vào tình cảnh khó xử" },
+          { "w": "処し方", "r": "しょしかた", "hv": "XỬ", "vi": "cách ứng xử, cách đối phó" },
+          { "w": "後悔", "r": "こうかい", "hv": "HẬU HỐI", "vi": "hối hận" }
+        ],
+        "grammar": {
+          "pattern": "～ておけばよかった",
+          "meaning": "giá mà đã ~ thì tốt (hối tiếc)",
+          "form": "Vて + おけばよかった",
+          "example": "もっと早く準備しておけばよかった。"
+        },
+        "evidence": "これは、おかしくないか。どっちを選んでも後悔しているからだ。うまくいかなかった原因は決断にあったのではなく、その後の処し方が悪かったからだ。",
+        "tip": "「AではなくB」: tác giả phủ định A (do quyết định) → điều tác giả coi là sai lầm chính là nghĩ theo A."
+      }
+    },
+    {
+      "num": 69,
+      "passage": "p1",
+      "stem": "この文章で筆者が言いたいことは何か。",
+      "options": [
+        "必要なときに決断したうえで、どのように対応するかが重要だ。",
+        "決断する前に、うまくいかなかった場合の対応を考えておくべきだ。",
+        "正しい決断ができるようになるには、決断するという経験を積むべきだ。",
+        "どんな結果になっても後悔しないように、よく考えて決断することが重要だ。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tác giả muốn nói gì trong bài này? → Điều quan trọng là quyết định khi cần, rồi sau đó ứng xử như thế nào.",
+        "why": "Đoạn kết: quyết định không quyết định tất cả, cách nghĩ và hành động sau khi quyết định mới quan trọng; nhưng không quyết định thì chẳng có gì bắt đầu, tệ nhất là không quyết định khi cần → quyết định đúng lúc + cách ứng xử sau đó.",
+        "options": [
+          "Quyết định khi cần rồi ứng xử thế nào mới quan trọng. ĐÚNG.",
+          "Tác giả phản đối việc cố nhìn trước mọi thứ trước khi quyết định. Sai.",
+          "Tác giả không theo đuổi \"quyết định đúng\"; chỉ cần dám quyết định. Sai.",
+          "\"Suy nghĩ kỹ\" trái với ý tác giả (エイヤッと決める, さっさと決断する). Sai."
+        ],
+        "vocab": [
+          { "w": "不可欠", "r": "ふかけつ", "hv": "BẤT KHẢ KHUYẾT", "vi": "không thể thiếu" },
+          { "w": "正体", "r": "しょうたい", "hv": "CHÁNH THỂ", "vi": "bản chất thật" },
+          { "w": "前進", "r": "ぜんしん", "hv": "TIỀN TIẾN", "vi": "tiến lên" },
+          { "w": "対応", "r": "たいおう", "hv": "ĐỐI ỨNG", "vi": "ứng phó, xử lý" }
+        ],
+        "grammar": {
+          "pattern": "～ないことには…ない",
+          "meaning": "nếu không ~ thì không thể…",
+          "form": "Vない + ことには",
+          "example": "実際に会ってみないことには、どんな人かわからない。"
+        },
+        "evidence": "決断ですべてが決まるわけではない。決断した後の考え方や行動が大切。だが、決断しないことには何事もはじまらない。…決断すべきときに決断しないのがいちばんいけない。",
+        "tip": "Câu hỏi ý chính → đọc kỹ đoạn cuối; 処し方 (cách xử lý) = 対応."
+      }
+    }
+  ]
+}

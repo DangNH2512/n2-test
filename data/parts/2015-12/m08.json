@@ -1,0 +1,161 @@
+{
+  "exam": "2015-12",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các phương án thành câu đúng và chọn phương án nằm ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "狭い部屋でもテーブルの上に物を置かない＿＿＿ ＿＿＿ ＿★＿ ＿＿＿本に書いてあった。",
+      "options": ["だけで", "ようになると", "ようにする", "広く感じられる"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi đọc trong sách thấy viết rằng dù phòng chật, chỉ cần tập thói quen không đặt đồ lên bàn là sẽ trở nên cảm thấy rộng rãi.",
+        "why": "Thứ tự đúng: 置かない［3 ようにする］［1 だけで］［4 広く感じられる★］［2 ようになると］本に書いてあった. Vないようにする (cố gắng không ~) + だけで (chỉ cần) → kết quả 広く感じられるようになる (trở nên cảm thấy rộng) + と (trích dẫn nội dung sách).",
+        "options": [
+          "だけで → vị trí 2 (ようにするだけで). Không phải ★.",
+          "ようになると → vị trí 4, trước 本に書いてあった (と = trích dẫn). Không phải ★.",
+          "ようにする → vị trí 1, nối sau 置かない. Không phải ★.",
+          "広く感じられる → vị trí 3, ★. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "狭い", "r": "せまい", "hv": "HIỆP", "vi": "chật hẹp" },
+          { "w": "感じられる", "r": "かんじられる", "hv": "CẢM", "vi": "cảm thấy, có cảm giác" },
+          { "w": "置く", "r": "おく", "hv": "TRÍ", "vi": "đặt, để" }
+        ],
+        "grammar": {
+          "pattern": "～ようにする／～ようになる",
+          "meaning": "cố gắng (tạo thói quen) ~ / trở nên ~",
+          "form": "Vる／Vない + ようにする; Vる(khả năng/tự phát) + ようになる",
+          "example": "毎日運動するようにしたら、よく眠れるようになった。"
+        },
+        "evidence": null,
+        "tip": "Sau 置かない hợp nhất là ようにする (Vないようにする = cố tránh ~). ようになる thường đi sau động từ khả năng/tự phát → 感じられるようになる."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "レストランでアルバイトを始めてから＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ミスまでしてしまった。",
+      "options": ["今日で1年たつのに", "皿を割るという", "うえに", "客の注文を間違えた"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tính đến hôm nay là tròn 1 năm kể từ khi bắt đầu làm thêm ở nhà hàng, vậy mà tôi đã nhầm món khách gọi, lại còn mắc cả lỗi làm vỡ đĩa.",
+        "why": "Thứ tự đúng: 始めてから［1 今日で1年たつのに］［4 客の注文を間違えた］［3 うえに★］［2 皿を割るという］ミスまでしてしまった. 始めてから〜たつ (đã trôi qua ~ kể từ khi); Vた + うえに (đã ~ lại còn); 〜という + ミス (lỗi gọi là ~).",
+        "options": [
+          "今日で1年たつのに → vị trí 1, nối với 始めてから. Không phải ★.",
+          "皿を割るという → vị trí 4, bổ nghĩa cho ミス. Không phải ★.",
+          "うえに → vị trí 3, ★. ĐÚNG.",
+          "客の注文を間違えた → vị trí 2, đứng trước うえに. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "注文", "r": "ちゅうもん", "hv": "CHÚ VĂN", "vi": "món gọi, đơn đặt hàng" },
+          { "w": "間違える", "r": "まちがえる", "hv": "GIAN VI", "vi": "nhầm, sai" },
+          { "w": "割る", "r": "わる", "hv": "CÁT", "vi": "làm vỡ" }
+        ],
+        "grammar": {
+          "pattern": "～うえに",
+          "meaning": "không những ~ mà còn (cộng thêm cùng chiều)",
+          "form": "普通形(Nの／Naな) + うえに",
+          "example": "道に迷ったうえに、雨にも降られた。"
+        },
+        "evidence": null,
+        "tip": "〜という + N: nội dung của N ngay trước danh từ (ミス) → 皿を割るという luôn ở cuối."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "大雨の中を傘を差さずに＿＿＿ ＿＿＿ ＿★＿ ＿＿＿今朝からずっと鼻水が止まらない。",
+      "options": ["風邪が", "治りかけていた", "またひどくなって", "帰ったせいか"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Có lẽ vì đã về nhà dưới mưa to mà không che ô nên cơn cảm cúm đang sắp khỏi lại nặng thêm, từ sáng nay nước mũi chảy suốt không ngừng.",
+        "why": "Thứ tự đúng: 差さずに［4 帰ったせいか］［2 治りかけていた］［1 風邪が★］［3 またひどくなって］今朝から… 傘を差さずに帰った (về không che ô); 治りかけていた bổ nghĩa cho 風邪 (cơn cảm đang sắp khỏi); 風邪がまたひどくなって.",
+        "options": [
+          "風邪が → vị trí 3, ★. ĐÚNG.",
+          "治りかけていた → vị trí 2, bổ nghĩa cho 風邪. Không phải ★.",
+          "またひどくなって → vị trí 4, nối với 今朝から. Không phải ★.",
+          "帰ったせいか → vị trí 1, nối sau 差さずに. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "傘を差す", "r": "かさをさす", "hv": "TẢN SAI", "vi": "che ô, giương ô" },
+          { "w": "鼻水", "r": "はなみず", "hv": "TỴ THỦY", "vi": "nước mũi" },
+          { "w": "治る", "r": "なおる", "hv": "TRỊ", "vi": "khỏi bệnh" }
+        ],
+        "grammar": {
+          "pattern": "～かける／～せいか",
+          "meaning": "sắp / đang dở ~ ; có lẽ do ~ (nguyên nhân xấu, không chắc chắn)",
+          "form": "Vます(bỏ ます) + かける; 普通形 + せいか",
+          "example": "疲れているせいか、読みかけの本がなかなか進まない。"
+        },
+        "evidence": null,
+        "tip": "Động từ ở thể thông thường (治りかけていた) đứng trước danh từ → tìm danh từ đi ngay sau (風邪)."
+      }
+    },
+    {
+      "num": 48,
+      "passage": null,
+      "stem": "＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ものが思い浮かぶと思いますが、大豆にもたくさん含まれています。",
+      "options": ["肉や魚や卵といった", "たんぱく質が", "食べ物というと", "多く含まれる"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nói đến thực phẩm chứa nhiều protein, chắc hẳn bạn sẽ nghĩ ngay đến những thứ như thịt, cá, trứng, nhưng trong đậu nành cũng chứa rất nhiều.",
+        "why": "Thứ tự đúng: ［2 たんぱく質が］［4 多く含まれる］［3 食べ物というと★］［1 肉や魚や卵といった］ものが思い浮かぶ. たんぱく質が多く含まれる bổ nghĩa cho 食べ物; Nというと (nói đến N thì); A・B といった + もの (những thứ như A, B).",
+        "options": [
+          "肉や魚や卵といった → vị trí 4, bổ nghĩa cho もの. Không phải ★.",
+          "たんぱく質が → vị trí 1, chủ ngữ của 含まれる. Không phải ★.",
+          "食べ物というと → vị trí 3, ★. ĐÚNG.",
+          "多く含まれる → vị trí 2, bổ nghĩa cho 食べ物. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "たんぱく質", "r": "たんぱくしつ", "hv": "ĐẢN BẠCH CHẤT", "vi": "protein, chất đạm" },
+          { "w": "含む", "r": "ふくむ", "hv": "HÀM", "vi": "chứa, bao gồm" },
+          { "w": "大豆", "r": "だいず", "hv": "ĐẠI ĐẬU", "vi": "đậu nành" },
+          { "w": "思い浮かぶ", "r": "おもいうかぶ", "hv": "TƯ PHÙ", "vi": "nghĩ đến, hiện ra trong đầu" }
+        ],
+        "grammar": {
+          "pattern": "～というと／～といった",
+          "meaning": "nói đến ~ thì (liên tưởng) / những thứ như ~ (liệt kê ví dụ)",
+          "form": "N + というと; N1やN2といった + N",
+          "example": "京都というと、お寺や神社といった古い建物が思い浮かぶ。"
+        },
+        "evidence": null,
+        "tip": "〜といった luôn đứng ngay trước danh từ tổng quát (もの) → chốt vị trí 4 trước."
+      }
+    },
+    {
+      "num": 49,
+      "passage": null,
+      "stem": "イベントの準備には＿＿＿ ＿＿＿ ＿★＿ ＿＿＿スケジュールに余裕ができた。",
+      "options": ["二日はかかるだろうと思われたが", "多くのボランティアの方の協力で", "最低でも", "一日で終わったので"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Việc chuẩn bị cho sự kiện tưởng là ít nhất cũng mất hai ngày, nhưng nhờ sự hợp tác của nhiều tình nguyện viên nên đã xong trong một ngày, vì vậy lịch trình trở nên thong thả hơn.",
+        "why": "Thứ tự đúng: 準備には［3 最低でも］［1 二日はかかるだろうと思われたが］［2 多くのボランティアの方の協力で★］［4 一日で終わったので］スケジュールに余裕ができた. 最低でも二日はかかる (ít nhất cũng mất 2 ngày); が chuyển ý; 協力で (nhờ hợp tác) → 一日で終わった; ので → kết quả 余裕ができた.",
+        "options": [
+          "二日はかかるだろうと思われたが → vị trí 2. Không phải ★.",
+          "多くのボランティアの方の協力で → vị trí 3, ★. ĐÚNG.",
+          "最低でも → vị trí 1, bổ nghĩa cho 二日. Không phải ★.",
+          "一日で終わったので → vị trí 4, nối với kết quả 余裕ができた. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "余裕", "r": "よゆう", "hv": "DƯ DỤ", "vi": "sự dư dả, thong thả" },
+          { "w": "協力", "r": "きょうりょく", "hv": "HIỆP LỰC", "vi": "hợp tác, giúp sức" },
+          { "w": "最低", "r": "さいてい", "hv": "TỐI ĐÊ", "vi": "tối thiểu, thấp nhất" }
+        ],
+        "grammar": {
+          "pattern": "最低でも～は",
+          "meaning": "ít nhất cũng ~",
+          "form": "最低でも + số lượng + は",
+          "example": "この仕事には最低でも3人は必要だ。"
+        },
+        "evidence": null,
+        "tip": "Theo mạch thời gian: dự đoán (〜と思われたが) → lý do thực tế (協力で) → kết quả (一日で終わったので)."
+      }
+    }
+  ]
+}

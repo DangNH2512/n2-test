@@ -1,0 +1,83 @@
+{
+  "exam": "2021-07",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "下はある大学の国際センターのポスターである。下の問いに対する答えとして、最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc tờ áp phích thông báo bên dưới và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "地形・地質学講座\n\n講座名：岩波市の地形・地質\n内容：岩波市には魅力的な景色が見られる場所が数多くあります。これらを生み出している岩波市の多様な地形・地質について学びます。\n開催日時：4月17日（土）10時～15時 ／ 5月1日（土）10時～15時\n申し込み締め切り日：4月2日（金）（4月17日の回） ／ 4月16日（金）（5月1日の回）\n場所：岩波市立博物館　実習実験室\n対象：高校生以上\n定員：各回30人\n参加費：無料\n\n【申し込み方法】\n往復はがきに、以下の4点を明記し、岩波市立博物館イベント係宛てにお送りください（申し込み締め切り日必着）。グループで参加をご希望の場合、代表の方が全員分を記入し、1枚のはがきで申し込んでください。\n1　講座名・開催日\n2　氏名\n3　住所・電話番号\n4　キャンセル待ちの希望の有無\n\n【注意】\n・2回の講座の内容は同じです。両方に申し込みはできますが、参加できるのはどちらか一方のみです。両方に申し込む場合は、1枚のはがきに開催日を二つ書き、第1希望の開催日に丸をつけてください。\n・応募多数の場合は抽選となります。結果は返信はがきでお送りします。\n・締め切り日から7日たっても結果連絡の返信はがきが届かない場合は、博物館までお電話でご連絡ください。\n・キャンセルする場合は、講座当日の5日前までにお電話でご連絡ください。\n講座当日の5日前までにキャンセルが出た場合には、キャンセル待ちを希望した方を対象に、再度、抽選を行います。再度の抽選で当選された方には、講座当日の4日前までに電話で当選の連絡をいたします。落選された方には連絡いたしません。\n\n岩波市立博物館　イベント係\n〒008-6325　岩波市北川222　電話：005-258-7411"
+    }
+  ],
+  "questions": [
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "ソンミンさんは地形・地質学講座に参加したいと考えている。申し込みの際に気をつけなければならないことはどれか。",
+      "options": [
+        "申し込みは、はがきまたは電話でする。",
+        "2回の講座のうち、どちらか一方にしか参加できない。",
+        "受付は先着順のため、できるだけ早く申し込む。",
+        "申し込みの結果の問い合わせは、締め切り日から7日以内にする。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh Sungmin muốn tham gia khóa học địa hình – địa chất. Điều cần lưu ý khi đăng ký là gì? → Trong 2 buổi học, chỉ được tham gia một trong hai.",
+        "why": "Phần 【注意】 ghi rõ: nội dung 2 buổi giống nhau; có thể đăng ký cả hai nhưng chỉ được tham gia một buổi.",
+        "options": [
+          "Đăng ký bằng bưu thiếp hoặc điện thoại → chỉ nhận 往復はがき (bưu thiếp khứ hồi); điện thoại dùng để hủy/hỏi. Sai.",
+          "Chỉ được tham gia một trong hai buổi. ĐÚNG.",
+          "Nhận theo thứ tự đến trước → đông người thì 抽選 (bốc thăm). Sai.",
+          "Hỏi kết quả trong vòng 7 ngày từ hạn chót → chỉ gọi điện khi đã QUÁ 7 ngày mà chưa nhận được thư. Sai."
+        ],
+        "vocab": [
+          { "w": "往復はがき", "r": "おうふくはがき", "hv": "VÃNG PHỤC", "vi": "bưu thiếp khứ hồi (có phần trả lời)" },
+          { "w": "抽選", "r": "ちゅうせん", "hv": "TRỪU TUYỂN", "vi": "bốc thăm" },
+          { "w": "先着順", "r": "せんちゃくじゅん", "hv": "TIÊN TRƯỚC THUẬN", "vi": "theo thứ tự đến trước" },
+          { "w": "必着", "r": "ひっちゃく", "hv": "TẤT TRƯỚC", "vi": "phải đến nơi (trước hạn)" }
+        ],
+        "grammar": {
+          "pattern": "〜のみ",
+          "meaning": "chỉ ~ (văn viết của だけ)",
+          "form": "N＋のみ",
+          "example": "会員のみ入場できます。"
+        },
+        "evidence": "2回の講座の内容は同じです。両方に申し込みはできますが、参加できるのはどちらか一方のみです。",
+        "tip": "Đề 問題14 hay đặt bẫy ở chi tiết \"bằng cách nào\" (はがき vs 電話) và \"thứ tự đến trước vs bốc thăm\"."
+      }
+    },
+    {
+      "num": 72,
+      "passage": "p1",
+      "stem": "イーサさんは4月17日の講座に申し込んだ。キャンセル待ちになった場合、結果の連絡はいつまで待たなければならないか。",
+      "options": ["4月2日", "4月9日", "4月13日", "4月16日"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Chị Isa đã đăng ký buổi học ngày 17/4. Nếu ở trong danh sách chờ, chị phải đợi thông báo kết quả đến ngày nào? → Ngày 13/4.",
+        "why": "Người trong danh sách chờ được bốc thăm lại khi có người hủy (hạn hủy: 5 ngày trước = 12/4). Người trúng được gọi điện trước buổi học 4 ngày = 13/4; trượt thì không được báo. → Phải chờ đến 13/4.",
+        "options": [
+          "4月2日 → hạn chót đăng ký buổi 17/4. Sai.",
+          "4月9日 → hạn chót + 7 ngày: mốc gọi hỏi kết quả bốc thăm lần đầu. Sai.",
+          "4月13日 → 4 ngày trước 17/4: hạn báo trúng bốc thăm lại. ĐÚNG.",
+          "4月16日 → hạn chót đăng ký buổi 1/5. Sai."
+        ],
+        "vocab": [
+          { "w": "キャンセル待ち", "r": "キャンセルまち", "hv": "ĐÃI", "vi": "danh sách chờ (khi có người hủy)" },
+          { "w": "当選", "r": "とうせん", "hv": "ĐƯƠNG TUYỂN", "vi": "trúng tuyển, trúng thăm" },
+          { "w": "落選", "r": "らくせん", "hv": "LẠC TUYỂN", "vi": "trượt, không trúng" },
+          { "w": "再度", "r": "さいど", "hv": "TÁI ĐỘ", "vi": "lần nữa" }
+        ],
+        "grammar": {
+          "pattern": "〜日前までに",
+          "meaning": "trước (ngày) ~ ngày (hạn chót)",
+          "form": "N（当日）の＋数字＋日前までに",
+          "example": "出発の3日前までにお支払いください。"
+        },
+        "evidence": "再度の抽選で当選された方には、講座当日の4日前までに電話で当選の連絡をいたします。落選された方には連絡いたしません。",
+        "tip": "17 − 4 = 13. Vì người trượt không được báo, nên đến hết 13/4 không có điện thoại nghĩa là trượt."
+      }
+    }
+  ]
+}

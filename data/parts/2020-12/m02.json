@@ -1,0 +1,136 @@
+{
+  "exam": "2020-12",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết Kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "鈴木さんは<u>あざやか</u>な色のシャツを着ていた。",
+      "options": ["鮮やか", "美やか", "清やか", "純やか"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Anh Suzuki mặc chiếc áo sơ mi màu sặc sỡ (tươi tắn).",
+        "why": "あざやか viết là 鮮やか (TIÊN) = tươi, rực rỡ, rõ nét. Các chữ còn lại không ghép với やか để đọc là あざやか.",
+        "options": [
+          "鮮やか → あざやか: tươi tắn, rực rỡ. ĐÚNG.",
+          "美やか → không có từ này (美しい: うつくしい). Sai.",
+          "清やか → không dùng (清らか: きよらか = trong sạch). Sai.",
+          "純やか → không có từ này (純粋: じゅんすい). Sai."
+        ],
+        "vocab": [
+          { "w": "鮮やか", "r": "あざやか", "hv": "TIÊN", "vi": "tươi, rực rỡ, rõ nét" },
+          { "w": "新鮮", "r": "しんせん", "hv": "TÂN TIÊN", "vi": "tươi mới" },
+          { "w": "清らか", "r": "きよらか", "hv": "THANH", "vi": "trong sạch, thanh khiết" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "鮮 = cá (魚) + dê (羊) → tươi ngon. 新鮮・鮮明・鮮やか."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "今年の夏休みは<u>きせい</u>の予定はありません。",
+      "options": ["帰勢", "帰斉", "帰省", "帰成"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Kỳ nghỉ hè năm nay tôi không có dự định về quê.",
+        "why": "きせい (về quê thăm nhà) viết là 帰省 (QUY TỈNH). 省 đọc せい trong 帰省・反省.",
+        "options": [
+          "帰勢 → không có từ này (勢: せい, THẾ - thế lực). Sai.",
+          "帰斉 → không có từ này. Sai.",
+          "帰省 → về quê. ĐÚNG.",
+          "帰成 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "帰省", "r": "きせい", "hv": "QUY TỈNH", "vi": "về quê (thăm gia đình)" },
+          { "w": "反省", "r": "はんせい", "hv": "PHẢN TỈNH", "vi": "tự kiểm điểm, hối lỗi" },
+          { "w": "予定", "r": "よてい", "hv": "DỰ ĐỊNH", "vi": "dự định, kế hoạch" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "省 có 2 âm: せい (帰省・反省) và しょう (省略・外務省)."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "もう少し<u>ちぢめて</u>ください。",
+      "options": ["薄めて", "納めて", "貯めて", "縮めて"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hãy rút ngắn (thu nhỏ) thêm một chút nữa.",
+        "why": "ちぢめる viết là 縮める (SÚC) = rút ngắn, thu nhỏ. 縮む (ちぢむ) = co lại.",
+        "options": [
+          "薄めて → うすめて: làm loãng, pha loãng. Sai.",
+          "納めて → おさめて: nộp (thuế), cất vào. Sai.",
+          "貯めて → ためて: tích trữ, để dành (tiền). Sai.",
+          "縮めて → ちぢめて: rút ngắn, thu nhỏ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "縮める", "r": "ちぢめる", "hv": "SÚC", "vi": "rút ngắn, thu nhỏ" },
+          { "w": "短縮", "r": "たんしゅく", "hv": "ĐOẢN SÚC", "vi": "rút ngắn" },
+          { "w": "薄める", "r": "うすめる", "hv": "BẠC", "vi": "làm loãng" },
+          { "w": "貯める", "r": "ためる", "hv": "TRỮ", "vi": "để dành, tích lũy" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "縮 có bộ 糸 (sợi): vải co lại → 縮む."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "これからさまざまなことを<u>じっせん</u>していきたい。",
+      "options": ["実施", "実践", "実桟", "実旋"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Từ giờ tôi muốn thực hành (đưa vào thực tế) nhiều điều khác nhau.",
+        "why": "じっせん viết là 実践 (THỰC TIỄN) = thực hành, áp dụng vào thực tế. 践 đọc là せん.",
+        "options": [
+          "実施 → じっし: thực thi, tiến hành (kế hoạch, kỳ thi). Đọc khác. Sai.",
+          "実践 → じっせん: thực hành, thực tiễn. ĐÚNG.",
+          "実桟 → không có từ này (桟: さん, SẠN). Sai.",
+          "実旋 → không có từ này (旋: せん, TOÀN - xoay). Sai."
+        ],
+        "vocab": [
+          { "w": "実践", "r": "じっせん", "hv": "THỰC TIỄN", "vi": "thực hành, thực tiễn" },
+          { "w": "実施", "r": "じっし", "hv": "THỰC THI", "vi": "thực thi, tiến hành" },
+          { "w": "さまざま", "r": "さまざま", "hv": "", "vi": "đa dạng, nhiều loại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "践 có bộ 足 (chân): đặt chân làm thật → 実践."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "西村氏の作品の中ではこの小説は、かなり<u>いしょく</u>だ。",
+      "options": ["異色", "違色", "異食", "違食"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Trong số các tác phẩm của ông Nishimura, cuốn tiểu thuyết này khá khác biệt (độc đáo).",
+        "why": "いしょく (khác thường, đặc sắc) viết là 異色 (DỊ SẮC): 異 = khác, 色 = màu sắc → có màu sắc khác hẳn.",
+        "options": [
+          "異色 → いしょく: khác biệt, độc đáo. ĐÚNG.",
+          "違色 → không có từ này. Sai.",
+          "異食 → không dùng với nghĩa này. Sai.",
+          "違食 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "異色", "r": "いしょく", "hv": "DỊ SẮC", "vi": "khác biệt, độc đáo, đặc sắc" },
+          { "w": "作品", "r": "さくひん", "hv": "TÁC PHẨM", "vi": "tác phẩm" },
+          { "w": "小説", "r": "しょうせつ", "hv": "TIỂU THUYẾT", "vi": "tiểu thuyết" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "異 (い) = khác: 異常・異文化・異色. 違 đọc い nhưng dùng trong 違反・相違."
+      }
+    }
+  ]
+}

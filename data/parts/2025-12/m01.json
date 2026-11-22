@@ -1,0 +1,137 @@
+{
+  "exam": "2025-12",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "この家の<u>柱</u>はしっかりしている。",
+      "options": ["はしら", "ゆか", "かべ", "たな"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Cột của ngôi nhà này rất chắc chắn.",
+        "why": "柱 (TRỤ) đọc âm Kun là はしら = cái cột. Âm On là ちゅう (電柱 でんちゅう: cột điện).",
+        "options": [
+          "はしら → 柱: cột nhà. ĐÚNG.",
+          "ゆか → 床: sàn nhà. Sai.",
+          "かべ → 壁: tường. Sai.",
+          "たな → 棚: cái kệ, giá. Sai."
+        ],
+        "vocab": [
+          { "w": "柱", "r": "はしら", "hv": "TRỤ", "vi": "cột, trụ" },
+          { "w": "電柱", "r": "でんちゅう", "hv": "ĐIỆN TRỤ", "vi": "cột điện" },
+          { "w": "床", "r": "ゆか", "hv": "SÀNG", "vi": "sàn nhà" },
+          { "w": "壁", "r": "かべ", "hv": "BÍCH", "vi": "bức tường" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cả 4 đáp án đều là bộ phận trong nhà → phải nhớ mặt chữ: 柱 có bộ 木 + 主 (chủ) → cây gỗ chính chống nhà = cột."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "なかなか<u>討論</u>が終わらない。",
+      "options": ["どうろん", "ぎろん", "とうろん", "きろん"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Cuộc tranh luận mãi không kết thúc.",
+        "why": "討論 đọc là とうろん (THẢO LUẬN) = thảo luận, tranh luận. 討 đọc とう (thanh trong, không đục thành どう).",
+        "options": [
+          "どうろん → sai vì 討 không đọc đục. Sai.",
+          "ぎろん → 議論: nghị luận, bàn luận (chữ khác). Sai.",
+          "とうろん → 討論: thảo luận, tranh luận. ĐÚNG.",
+          "きろん → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "討論", "r": "とうろん", "hv": "THẢO LUẬN", "vi": "thảo luận, tranh luận" },
+          { "w": "議論", "r": "ぎろん", "hv": "NGHỊ LUẬN", "vi": "bàn luận, tranh luận" },
+          { "w": "検討", "r": "けんとう", "hv": "KIỂM THẢO", "vi": "xem xét, cân nhắc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "討 luôn đọc とう: 討論・検討 (けんとう)・討つ (うつ)."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "家具の色は白で<u>統一</u>した。",
+      "options": ["とういつ", "とういち", "どういつ", "どういち"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đã thống nhất màu đồ nội thất là màu trắng.",
+        "why": "統一 đọc là とういつ (THỐNG NHẤT) = thống nhất, đồng bộ. 一 ở đây đọc いつ (như 同一 どういつ, 唯一 ゆいいつ), không phải いち.",
+        "options": [
+          "とういつ → 統一: thống nhất. ĐÚNG.",
+          "とういち → đọc sai 一. Sai.",
+          "どういつ → 同一: đồng nhất, giống hệt (chữ khác). Sai.",
+          "どういち → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "統一", "r": "とういつ", "hv": "THỐNG NHẤT", "vi": "thống nhất, đồng bộ" },
+          { "w": "同一", "r": "どういつ", "hv": "ĐỒNG NHẤT", "vi": "giống hệt, cùng một" },
+          { "w": "家具", "r": "かぐ", "hv": "GIA CỤ", "vi": "đồ nội thất" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhóm từ 一 đọc いつ: 統一・同一・唯一・均一 (きんいつ)."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "彼はいつも誰かと<u>争って</u>いる。",
+      "options": ["たたかって", "あらそって", "きそって", "ぶつかって"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh ta lúc nào cũng tranh cãi / gây gổ với ai đó.",
+        "why": "争う đọc là あらそう (TRANH) = tranh giành, cãi nhau, đấu tranh. 争って → あらそって.",
+        "options": [
+          "たたかって → 戦う／闘う: chiến đấu. Sai.",
+          "あらそって → 争う: tranh chấp, cãi nhau. ĐÚNG.",
+          "きそって → 競う: thi đua, cạnh tranh. Sai.",
+          "ぶつかって → ぶつかる: va chạm, xung đột. Sai."
+        ],
+        "vocab": [
+          { "w": "争う", "r": "あらそう", "hv": "TRANH", "vi": "tranh giành, cãi nhau" },
+          { "w": "競争", "r": "きょうそう", "hv": "CẠNH TRANH", "vi": "cạnh tranh" },
+          { "w": "競う", "r": "きそう", "hv": "CẠNH", "vi": "thi đua, ganh đua" },
+          { "w": "戦う", "r": "たたかう", "hv": "CHIẾN", "vi": "chiến đấu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "争 âm On そう (戦争 せんそう, 競争 きょうそう); âm Kun あらそう."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "この野菜はビタミンが<u>豊富</u>です。",
+      "options": ["ほんふう", "ほんふ", "ほうふう", "ほうふ"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Loại rau này giàu vitamin.",
+        "why": "豊富 đọc là ほうふ (PHONG PHÚ) = phong phú, dồi dào. 豊 = ほう (trường âm), 富 = ふ (âm ngắn).",
+        "options": [
+          "ほんふう → sai cả hai âm. Sai.",
+          "ほんふ → 豊 không đọc ほん. Sai.",
+          "ほうふう → 富 không kéo dài thành ふう. Sai.",
+          "ほうふ → 豊富: phong phú, dồi dào. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "豊富", "r": "ほうふ", "hv": "PHONG PHÚ", "vi": "phong phú, dồi dào" },
+          { "w": "豊か", "r": "ゆたか", "hv": "PHONG", "vi": "giàu có, sung túc" },
+          { "w": "野菜", "r": "やさい", "hv": "DÃ THÁI", "vi": "rau" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhớ: 豊富 = ほう (dài) ＋ ふ (ngắn). 富 thường đọc ふ: 豊富・貧富 (ひんぷ)・富士山 (ふじさん)."
+      }
+    }
+  ]
+}

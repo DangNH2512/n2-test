@@ -1,0 +1,163 @@
+{
+  "exam": "2023-12",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các phương án thành câu đúng và chọn phương án nằm ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "この本の内容をきちんと＿＿＿ ＿★＿ ＿＿＿ ＿＿＿多いだろう。",
+      "options": ["それなりの", "理解するには", "難しいと感じる人も", "知識が求められるので"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Để hiểu nội dung cuốn sách này một cách đầy đủ thì cần có một lượng kiến thức tương ứng, nên chắc hẳn nhiều người cũng thấy khó.",
+        "why": "Thứ tự đúng: きちんと［2 理解するには］［1 それなりの★］［4 知識が求められるので］［3 難しいと感じる人も］多いだろう. きちんと bổ nghĩa cho 理解する; それなりの + N (知識); 人も + 多い. ★ ở vị trí 2 → それなりの.",
+        "options": [
+          "それなりの → vị trí 2, bổ nghĩa cho 知識 (それなりの知識). ★ ĐÚNG.",
+          "理解するには → vị trí 1, nối sau きちんと. Không phải ★.",
+          "難しいと感じる人も → vị trí 4, nối với 多いだろう. Không phải ★.",
+          "知識が求められるので → vị trí 3, nêu lý do. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "それなり", "r": "それなり", "hv": "", "vi": "tương xứng, ở mức tương ứng" },
+          { "w": "求められる", "r": "もとめられる", "hv": "CẦU", "vi": "được yêu cầu, đòi hỏi" },
+          { "w": "知識", "r": "ちしき", "hv": "TRI THỨC", "vi": "kiến thức" },
+          { "w": "内容", "r": "ないよう", "hv": "NỘI DUNG", "vi": "nội dung" }
+        ],
+        "grammar": {
+          "pattern": "Vるには",
+          "meaning": "để ~ thì (cần…)",
+          "form": "V辞書形 + には",
+          "example": "この試験に合格するには、毎日の勉強が必要だ。"
+        },
+        "evidence": null,
+        "tip": "それなりの luôn cần danh từ ngay sau → ghép với 知識 trước. ～には…が求められる là cặp hay gặp."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "石油は、自動車や航空機などの＿＿＿ ＿★＿ ＿＿＿ ＿＿＿原料としても利用されている。",
+      "options": ["使われる", "だけでなく", "プラスチック製品を作る", "燃料として"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Dầu mỏ không chỉ được dùng làm nhiên liệu cho ô tô, máy bay…, mà còn được sử dụng làm nguyên liệu để sản xuất các sản phẩm nhựa.",
+        "why": "Thứ tự đúng: などの［4 燃料として］［1 使われる★］［2 だけでなく］［3 プラスチック製品を作る］原料としても. Cặp ～としてだけでなく…としても; プラスチック製品を作る bổ nghĩa cho 原料. ★ ở vị trí 2 → 使われる.",
+        "options": [
+          "使われる → vị trí 2 (燃料として使われるだけでなく). ★ ĐÚNG.",
+          "だけでなく → vị trí 3, đối ứng với ～としても. Không phải ★.",
+          "プラスチック製品を作る → vị trí 4, bổ nghĩa cho 原料. Không phải ★.",
+          "燃料として → vị trí 1, nối sau などの. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "石油", "r": "せきゆ", "hv": "THẠCH DU", "vi": "dầu mỏ" },
+          { "w": "燃料", "r": "ねんりょう", "hv": "NHIÊN LIỆU", "vi": "nhiên liệu" },
+          { "w": "原料", "r": "げんりょう", "hv": "NGUYÊN LIỆU", "vi": "nguyên liệu" },
+          { "w": "航空機", "r": "こうくうき", "hv": "HÀNG KHÔNG CƠ", "vi": "máy bay" }
+        ],
+        "grammar": {
+          "pattern": "～だけでなく…も",
+          "meaning": "không chỉ ~ mà còn …",
+          "form": "普通形／N + だけでなく、… も",
+          "example": "この店は味だけでなく、サービスもいい。"
+        },
+        "evidence": null,
+        "tip": "Thấy ～としても ở cuối → phía trước thường có ～としてだけでなく để đối ứng."
+      }
+    },
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "東鉄道竹山線内にある二つの信号機が故障しており、大事故が＿＿＿ ＿＿＿ ＿★＿ ＿＿＿明らかになった。",
+      "options": ["起きかねない", "続いていたことが", "状態が", "危険な"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đã phát hiện ra rằng hai đèn tín hiệu trên tuyến Takeyama của Đường sắt Higashi bị hỏng, và tình trạng nguy hiểm có thể dẫn tới tai nạn lớn đã kéo dài.",
+        "why": "Thứ tự đúng: 大事故が［1 起きかねない］［4 危険な］［3 状態が★］［2 続いていたことが］明らかになった. 大事故が起きかねない bổ nghĩa cho 危険な状態; 状態が続いていた; ～ことが明らかになった. ★ ở vị trí 3 → 状態が.",
+        "options": [
+          "起きかねない → vị trí 1 (大事故が起きかねない). Không phải ★.",
+          "続いていたことが → vị trí 4, nối với 明らかになった. Không phải ★.",
+          "状態が → vị trí 3. ★ ĐÚNG.",
+          "危険な → vị trí 2, bổ nghĩa cho 状態. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "信号機", "r": "しんごうき", "hv": "TÍN HIỆU CƠ", "vi": "đèn tín hiệu" },
+          { "w": "故障", "r": "こしょう", "hv": "CỐ CHƯỚNG", "vi": "hỏng hóc" },
+          { "w": "状態", "r": "じょうたい", "hv": "TRẠNG THÁI", "vi": "tình trạng" },
+          { "w": "明らか", "r": "あきらか", "hv": "MINH", "vi": "rõ ràng" }
+        ],
+        "grammar": {
+          "pattern": "Vます＋かねない",
+          "meaning": "có thể (dẫn đến điều xấu), e rằng sẽ ~",
+          "form": "Vます + かねない",
+          "example": "このままでは事故が起きかねない。"
+        },
+        "evidence": null,
+        "tip": "大事故が + động từ ngay sau (起きかねない). ～ことが明らかになった là cụm cố định."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "（インタビューで）\n「店長になって最初の1年間は大変でした。店長になった＿＿＿ ＿＿＿ ＿★＿ ＿＿＿と悩むこともありました。」",
+      "options": ["といっても", "ばかりで", "わからないこと", "自分でいいのか"],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Trong buổi phỏng vấn) \"Năm đầu tiên làm cửa hàng trưởng thật vất vả. Tuy nói là đã lên cửa hàng trưởng, nhưng toàn là những điều không biết, nên cũng có lúc tôi trăn trở không biết mình có phù hợp không.\"",
+        "why": "Thứ tự đúng: 店長になった［1 といっても］［3 わからないこと］［2 ばかりで★］［4 自分でいいのか］と悩む. ～といっても = tuy nói là ~ nhưng; N ばかりで = toàn là N nên; 自分でいいのか + と悩む. ★ ở vị trí 3 → ばかりで.",
+        "options": [
+          "といっても → vị trí 1, nối sau 店長になった. Không phải ★.",
+          "ばかりで → vị trí 3 (わからないことばかりで). ★ ĐÚNG.",
+          "わからないこと → vị trí 2. Không phải ★.",
+          "自分でいいのか → vị trí 4, nối với と悩む. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "店長", "r": "てんちょう", "hv": "ĐIẾM TRƯỞNG", "vi": "cửa hàng trưởng" },
+          { "w": "悩む", "r": "なやむ", "hv": "NÃO", "vi": "phiền não, trăn trở" },
+          { "w": "最初", "r": "さいしょ", "hv": "TỐI SƠ", "vi": "đầu tiên" }
+        ],
+        "grammar": {
+          "pattern": "～といっても／Nばかりで",
+          "meaning": "tuy nói là ~ nhưng (thực tế không như tưởng) / toàn là N",
+          "form": "普通形 + といっても；N + ばかり",
+          "example": "料理ができるといっても、簡単なものだけです。"
+        },
+        "evidence": null,
+        "tip": "Trích dẫn trước と悩む phải là câu hỏi → 自分でいいのか đứng cuối."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "家を買うことについて＿＿＿ ＿＿＿ ＿★＿ ＿＿＿簡単に引っ越せないのが嫌だと言っている。",
+      "options": ["夫は", "買ってしまうと", "否定的な", "一度"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Về việc mua nhà, chồng tôi – người có thái độ phản đối – nói rằng không thích việc một khi đã mua rồi thì không thể dễ dàng chuyển đi.",
+        "why": "Thứ tự đúng: 家を買うことについて［3 否定的な］［1 夫は］［4 一度★］［2 買ってしまうと］簡単に引っ越せない. ～について否定的な + N (夫); 一度～と = một khi đã ~ thì. ★ ở vị trí 3 → 一度.",
+        "options": [
+          "夫は → vị trí 2 (否定的な夫は). Không phải ★.",
+          "買ってしまうと → vị trí 4, nối với 簡単に引っ越せない. Không phải ★.",
+          "否定的な → vị trí 1 (～について否定的な). Không phải ★.",
+          "一度 → vị trí 3 (一度買ってしまうと). ★ ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "否定的", "r": "ひていてき", "hv": "PHỦ ĐỊNH ĐÍCH", "vi": "tiêu cực, phản đối" },
+          { "w": "一度", "r": "いちど", "hv": "NHẤT ĐỘ", "vi": "một lần; một khi" },
+          { "w": "引っ越す", "r": "ひっこす", "hv": "DẪN VIỆT", "vi": "chuyển nhà" }
+        ],
+        "grammar": {
+          "pattern": "一度～と／一度～たら",
+          "meaning": "một khi đã ~ thì",
+          "form": "一度 + V辞書形 + と／一度 + Vたら",
+          "example": "一度食べると、やめられない味だ。"
+        },
+        "evidence": null,
+        "tip": "～について否定的な N: \"N có thái độ tiêu cực về ~\". 一度 đứng trước động từ của mệnh đề điều kiện."
+      }
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "exam": "2012-12",
+  "mondai": 1,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách đọc đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 1,
+      "passage": null,
+      "stem": "田中さんの話は<u>抽象的</u>で分かりにくかった。",
+      "options": ["ちゅうしょうてき", "ちゅうぞうてき", "ゆうしょうてき", "ゆうぞうてき"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Câu chuyện của anh Tanaka trừu tượng nên khó hiểu.",
+        "why": "抽象的 đọc là ちゅうしょうてき (TRỪU TƯỢNG ĐÍCH) = trừu tượng. 抽 đọc ちゅう (không phải ゆう), 象 đọc しょう (không đục thành ぞう).",
+        "options": [
+          "ちゅうしょうてき → 抽象的: trừu tượng. ĐÚNG.",
+          "ちゅうぞうてき → 象 đọc ぞう chỉ khi là con voi (象 ぞう), không dùng trong 抽象. Sai.",
+          "ゆうしょうてき → 抽 không đọc ゆう (nhầm với 由/油). Sai.",
+          "ゆうぞうてき → sai cả hai âm. Sai."
+        ],
+        "vocab": [
+          { "w": "抽象的", "r": "ちゅうしょうてき", "hv": "TRỪU TƯỢNG ĐÍCH", "vi": "mang tính trừu tượng" },
+          { "w": "具体的", "r": "ぐたいてき", "hv": "CỤ THỂ ĐÍCH", "vi": "cụ thể (trái nghĩa)" },
+          { "w": "抽選", "r": "ちゅうせん", "hv": "TRỪU TUYỂN", "vi": "bốc thăm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "象: 象 (ぞう) = con voi; 印象 (いんしょう), 現象 (げんしょう), 対象 (たいしょう), 抽象 (ちゅうしょう) đều đọc しょう."
+      }
+    },
+    {
+      "num": 2,
+      "passage": null,
+      "stem": "その本は、明日までに必ず<u>返却</u>してください。",
+      "options": ["へんきょく", "へんきゃ", "へんきゃく", "へんきょ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Cuốn sách đó, nhất định hãy trả lại trước ngày mai.",
+        "why": "返却 đọc là へんきゃく (PHẢN KHƯỚC) = trả lại (đồ đã mượn). 却 đọc âm On là きゃく (có âm ゃ và く cuối).",
+        "options": [
+          "へんきょく → きょく là âm của 曲/局. Sai.",
+          "へんきゃ → thiếu く cuối. Sai.",
+          "へんきゃく → 返却: trả lại. ĐÚNG.",
+          "へんきょ → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "返却", "r": "へんきゃく", "hv": "PHẢN KHƯỚC", "vi": "trả lại (đồ mượn)" },
+          { "w": "却下", "r": "きゃっか", "hv": "KHƯỚC HẠ", "vi": "bác bỏ" },
+          { "w": "返品", "r": "へんぴん", "hv": "PHẢN PHẨM", "vi": "trả lại hàng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "却 = きゃく: 返却, 退却 (たいきゃく), 売却 (ばいきゃく)."
+      }
+    },
+    {
+      "num": 3,
+      "passage": null,
+      "stem": "<u>針</u>が見つからなくて困った。",
+      "options": ["ねじ", "はり", "くぎ", "かぎ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi khốn đốn vì không tìm thấy cây kim.",
+        "why": "針 đọc âm Kun là はり (CHÂM) = cây kim (kim khâu, kim đồng hồ).",
+        "options": [
+          "ねじ → 螺子/ネジ: con ốc vít. Sai.",
+          "はり → 針: cây kim. ĐÚNG.",
+          "くぎ → 釘: cái đinh. Sai.",
+          "かぎ → 鍵: chìa khóa. Sai."
+        ],
+        "vocab": [
+          { "w": "針", "r": "はり", "hv": "CHÂM", "vi": "cây kim" },
+          { "w": "方針", "r": "ほうしん", "hv": "PHƯƠNG CHÂM", "vi": "phương châm, đường lối" },
+          { "w": "釘", "r": "くぎ", "hv": "ĐINH", "vi": "cái đinh" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "針 âm On là しん (方針, 針路). 4 phương án đều là đồ vật nhỏ bằng kim loại → học cả nhóm: ねじ・くぎ・かぎ・はり."
+      }
+    },
+    {
+      "num": 4,
+      "passage": null,
+      "stem": "山田さんはいつもここから夕日を<u>撮影</u>している。",
+      "options": ["さつえい", "さいけい", "さつけい", "さいえい"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Anh Yamada lúc nào cũng chụp ảnh hoàng hôn từ chỗ này.",
+        "why": "撮影 đọc là さつえい (TOÁT ẢNH) = chụp ảnh, quay phim. 撮 đọc さつ, 影 đọc えい.",
+        "options": [
+          "さつえい → 撮影: chụp ảnh, quay phim. ĐÚNG.",
+          "さいけい → sai cả hai âm. Sai.",
+          "さつけい → 影 không đọc けい. Sai.",
+          "さいえい → 撮 không đọc さい. Sai."
+        ],
+        "vocab": [
+          { "w": "撮影", "r": "さつえい", "hv": "TOÁT ẢNH", "vi": "chụp ảnh, quay phim" },
+          { "w": "撮る", "r": "とる", "hv": "TOÁT", "vi": "chụp (ảnh)" },
+          { "w": "夕日", "r": "ゆうひ", "hv": "TỊCH NHẬT", "vi": "mặt trời lặn, hoàng hôn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "影 = えい (撮影, 影響 えいきょう); âm Kun かげ (bóng)."
+      }
+    },
+    {
+      "num": 5,
+      "passage": null,
+      "stem": "ガラスの<u>破片</u>が落ちているから、気をつけてください。",
+      "options": ["ひがた", "はがた", "ひへん", "はへん"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vì có mảnh vỡ thủy tinh rơi đấy, hãy cẩn thận.",
+        "why": "破片 đọc là はへん (PHÁ PHIẾN) = mảnh vỡ. 破 đọc は (không phải ひ), 片 trong từ ghép Hán đọc へん (âm Kun かた chỉ dùng khi đứng riêng/từ thuần Nhật).",
+        "options": [
+          "ひがた → 干潟: bãi triều. Sai.",
+          "はがた → 歯形: vết răng. Sai.",
+          "ひへん → 破 không đọc ひ. Sai.",
+          "はへん → 破片: mảnh vỡ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "破片", "r": "はへん", "hv": "PHÁ PHIẾN", "vi": "mảnh vỡ" },
+          { "w": "破る", "r": "やぶる", "hv": "PHÁ", "vi": "xé, làm rách, phá vỡ" },
+          { "w": "片道", "r": "かたみち", "hv": "PHIẾN ĐẠO", "vi": "một chiều" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bản PDF có lỗi in thừa \"1 ひがた\" trong câu, đã lược bỏ. 片: へん trong 破片・断片 (だんぺん); かた trong 片方・片付ける."
+      }
+    }
+  ]
+}

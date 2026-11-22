@@ -1,0 +1,137 @@
+{
+  "exam": "2015-07",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống (tiền tố / hậu tố, từ ghép).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "社長の代わりに（　　）社長が会見を行った。",
+      "options": ["従", "準", "補", "副"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Phó giám đốc đã tổ chức họp báo thay cho giám đốc.",
+        "why": "副 (PHÓ) + chức danh = phó ~: 副社長 (phó giám đốc), 副会長, 副大臣. Người thay mặt giám đốc là phó giám đốc.",
+        "options": [
+          "従 → 従業員 (nhân viên), không ghép với 社長. Sai.",
+          "準 → bậc dưới một chút: 準優勝 (á quân), 準決勝 (bán kết). Sai.",
+          "補 → bổ sung: 補欠 (dự bị), 補助 (hỗ trợ). Sai.",
+          "副 → 副社長: phó giám đốc. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "副社長", "r": "ふくしゃちょう", "hv": "PHÓ XÃ TRƯỞNG", "vi": "phó giám đốc" },
+          { "w": "会見", "r": "かいけん", "hv": "HỘI KIẾN", "vi": "họp báo, buổi gặp gỡ" },
+          { "w": "代わりに", "r": "かわりに", "hv": "ĐẠI", "vi": "thay cho" },
+          { "w": "準決勝", "r": "じゅんけっしょう", "hv": "CHUẨN QUYẾT THẮNG", "vi": "bán kết" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "副 còn trong 副作用 (tác dụng phụ), 副業 (nghề phụ)."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "彼の発言は（　　）責任だと批判された。",
+      "options": ["不", "無", "放", "否"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Phát ngôn của anh ta bị chỉ trích là vô trách nhiệm.",
+        "why": "責任 đi với tiền tố phủ định 無 → 無責任 (むせきにん, VÔ TRÁCH NHIỆM) = vô trách nhiệm. Đây là từ cố định.",
+        "options": [
+          "不 → 不注意, 不安定… nhưng không nói 不責任. Sai.",
+          "無 → 無責任: vô trách nhiệm. ĐÚNG.",
+          "放 → 放任 (bỏ mặc), 放置 (bỏ đó); không ghép với 責任. Sai.",
+          "否 → 否定 (phủ định), không làm tiền tố. Sai."
+        ],
+        "vocab": [
+          { "w": "無責任", "r": "むせきにん", "hv": "VÔ TRÁCH NHIỆM", "vi": "vô trách nhiệm" },
+          { "w": "発言", "r": "はつげん", "hv": "PHÁT NGÔN", "vi": "phát ngôn, lời phát biểu" },
+          { "w": "批判", "r": "ひはん", "hv": "PHÊ PHÁN", "vi": "phê phán, chỉ trích" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhóm đi với 無: 無責任, 無関心, 無意識, 無計画. Nhóm đi với 不: 不注意, 不公平, 不安定."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "週末の遊園地は、子ども（　　）の客でいっぱいだった。",
+      "options": ["連れ", "込み", "付き", "加え"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Công viên giải trí cuối tuần đông nghẹt khách dẫn theo trẻ con.",
+        "why": "N + 連れ = dẫn theo, đi cùng ~: 子ども連れ (dẫn con theo), 家族連れ (đi cả gia đình).",
+        "options": [
+          "連れ → 子ども連れ: dẫn theo trẻ con. ĐÚNG.",
+          "込み → đã bao gồm: 税込み (đã gồm thuế). Sai.",
+          "付き → kèm theo (đồ vật): 朝食付き (kèm bữa sáng). Sai.",
+          "加え → không dùng làm hậu tố. Sai."
+        ],
+        "vocab": [
+          { "w": "子ども連れ", "r": "こどもづれ", "hv": "LIÊN", "vi": "dẫn theo trẻ con" },
+          { "w": "家族連れ", "r": "かぞくづれ", "hv": "GIA TỘC LIÊN", "vi": "đi cùng gia đình" },
+          { "w": "遊園地", "r": "ゆうえんち", "hv": "DU VIÊN ĐỊA", "vi": "công viên giải trí" },
+          { "w": "税込み", "r": "ぜいこみ", "hv": "THUẾ", "vi": "đã bao gồm thuế" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "連れ khi làm hậu tố đọc づれ (biến âm)."
+      }
+    },
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "友達にパーティーの招待（　　）を送った。",
+      "options": ["書", "便", "状", "紙"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi đã gửi thiệp mời dự tiệc cho bạn bè.",
+        "why": "状 (TRẠNG) làm hậu tố chỉ thư từ, giấy tờ: 招待状 (thiệp mời), 年賀状 (thiệp năm mới), 紹介状 (thư giới thiệu).",
+        "options": [
+          "書 → 証明書, 申込書 (văn bản, đơn từ); không nói 招待書. Sai.",
+          "便 → chuyến/đường gửi: 航空便, 宅配便. Sai.",
+          "状 → 招待状: thiệp mời. ĐÚNG.",
+          "紙 → 用紙, 手紙…; không nói 招待紙. Sai."
+        ],
+        "vocab": [
+          { "w": "招待状", "r": "しょうたいじょう", "hv": "CHIÊU ĐÃI TRẠNG", "vi": "thiệp mời" },
+          { "w": "招待", "r": "しょうたい", "hv": "CHIÊU ĐÃI", "vi": "mời" },
+          { "w": "年賀状", "r": "ねんがじょう", "hv": "NIÊN HẠ TRẠNG", "vi": "thiệp chúc mừng năm mới" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Thư mang tính thiệp/thư tay → 状; giấy tờ hành chính → 書."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "弟は、買ったばかりの（　　）新しい靴をはいて出かけていった。",
+      "options": ["実", "真", "素", "本"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Em trai tôi đã đi giày mới tinh vừa mua và ra ngoài.",
+        "why": "真 (ま) + tính từ/danh từ để nhấn mạnh 'hoàn toàn, thuần': 真新しい (まあたらしい) = mới tinh. Tương tự 真っ白, 真っ暗.",
+        "options": [
+          "実 → 実物 (vật thật), không ghép với 新しい. Sai.",
+          "真 → 真新しい: mới tinh. ĐÚNG.",
+          "素 → 素顔 (mặt mộc), 素足 (chân trần). Sai.",
+          "本 → 本物 (đồ thật), 本番. Sai."
+        ],
+        "vocab": [
+          { "w": "真新しい", "r": "まあたらしい", "hv": "CHÂN TÂN", "vi": "mới tinh" },
+          { "w": "真っ白", "r": "まっしろ", "hv": "CHÂN BẠCH", "vi": "trắng tinh" },
+          { "w": "素足", "r": "すあし", "hv": "TỐ TÚC", "vi": "chân trần" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "真 (ま) nhấn mạnh: 真新しい, 真夏, 真冬, 真ん中, 真っ青."
+      }
+    }
+  ]
+}

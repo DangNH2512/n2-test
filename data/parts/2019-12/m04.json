@@ -1,0 +1,192 @@
+{
+  "exam": "2019-12",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "今日は残業で疲れていて夕食を作るのが（　　）だから、外で食べて帰ろうと思う。",
+      "options": ["余計", "面倒", "過剰", "無力"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hôm nay tôi mệt vì làm thêm giờ nên nấu bữa tối thấy phiền phức quá, tôi định ăn ở ngoài rồi về.",
+        "why": "〜のが面倒だ = làm ~ thấy phiền, ngại. Mệt → ngại nấu cơm → ăn ngoài: hợp mạch.",
+        "options": [
+          "余計 → thừa, không cần thiết (余計なこと). Sai.",
+          "面倒 → phiền phức, ngại làm. ĐÚNG.",
+          "過剰 → quá mức, dư thừa (過剰包装). Sai.",
+          "無力 → bất lực, không có sức. Sai."
+        ],
+        "vocab": [
+          { "w": "面倒", "r": "めんどう", "hv": "DIỆN ĐẢO", "vi": "phiền phức, ngại" },
+          { "w": "残業", "r": "ざんぎょう", "hv": "TÀN NGHIỆP", "vi": "làm thêm giờ" },
+          { "w": "過剰", "r": "かじょう", "hv": "QUÁ THẶNG", "vi": "quá mức" },
+          { "w": "余計", "r": "よけい", "hv": "DƯ KẾ", "vi": "thừa, không cần thiết" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "面倒くさい (めんどうくさい) = phiền chết đi được (văn nói). 面倒を見る = chăm sóc."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "この犬のロボットは動きが自然で、まるで（　　）の犬のようだ。",
+      "options": ["本物", "現状", "事実", "正式"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Con robot chó này cử động rất tự nhiên, cứ như là chó thật vậy.",
+        "why": "本物 = đồ thật, hàng thật (đối lập với đồ giả/robot). まるで本物の犬のようだ = y như chó thật.",
+        "options": [
+          "本物 → đồ thật. ĐÚNG.",
+          "現状 → hiện trạng. Sai.",
+          "事実 → sự thật (một sự việc), không bổ nghĩa 'con chó thật'. Sai.",
+          "正式 → chính thức. Sai."
+        ],
+        "vocab": [
+          { "w": "本物", "r": "ほんもの", "hv": "BẢN VẬT", "vi": "đồ thật" },
+          { "w": "偽物", "r": "にせもの", "hv": "NGỤY VẬT", "vi": "đồ giả" },
+          { "w": "現状", "r": "げんじょう", "hv": "HIỆN TRẠNG", "vi": "hiện trạng" },
+          { "w": "正式", "r": "せいしき", "hv": "CHÍNH THỨC", "vi": "chính thức" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "まるで〜のようだ: cứ như là ~. 本物 ⇔ 偽物."
+      }
+    },
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "山下先輩は私の（　　）で、いつか山下先輩のようになりたいと思っている。",
+      "options": ["あこがれ", "望み", "願い", "夢"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Anh Yamashita (đàn anh) là thần tượng của tôi, tôi mong một ngày nào đó sẽ trở thành người như anh ấy.",
+        "why": "あこがれ (憧れ) = sự ngưỡng mộ; người/điều mình ngưỡng mộ và muốn được như vậy. 'Aさんは私の憧れだ' là cách nói tự nhiên về một người.",
+        "options": [
+          "あこがれ → người mình ngưỡng mộ, hình mẫu. ĐÚNG.",
+          "望み → hy vọng, mong muốn (một điều), không dùng cho người. Sai.",
+          "願い → lời cầu mong, nguyện vọng. Sai.",
+          "夢 → giấc mơ, ước mơ; không nói 'đàn anh là giấc mơ của tôi'. Sai."
+        ],
+        "vocab": [
+          { "w": "憧れ", "r": "あこがれ", "hv": "XUNG", "vi": "sự ngưỡng mộ, hình mẫu khao khát" },
+          { "w": "先輩", "r": "せんぱい", "hv": "TIÊN BỐI", "vi": "đàn anh, tiền bối" },
+          { "w": "望み", "r": "のぞみ", "hv": "VỌNG", "vi": "hy vọng, nguyện vọng" },
+          { "w": "願い", "r": "ねがい", "hv": "NGUYỆN", "vi": "lời cầu nguyện, mong ước" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜に憧れる = ngưỡng mộ, khao khát được như ~. Dấu hiệu: '〜のようになりたい'."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "今日会社で京都支社から東京本社への（　　）を命じられ、今月末に東京へ引っ越すことになった。",
+      "options": ["移行", "転職", "転勤", "移住"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hôm nay ở công ty tôi được lệnh chuyển công tác từ chi nhánh Kyoto lên trụ sở Tokyo, nên cuối tháng này sẽ chuyển nhà lên Tokyo.",
+        "why": "転勤 = chuyển nơi làm việc trong cùng một công ty (do công ty điều động). 支社→本社, 命じられる → 転勤.",
+        "options": [
+          "移行 → chuyển đổi (sang chế độ/hệ thống mới). Sai.",
+          "転職 → đổi việc, chuyển sang công ty khác; không do công ty ra lệnh. Sai.",
+          "転勤 → chuyển công tác. ĐÚNG.",
+          "移住 → di cư, chuyển đến sinh sống. Sai."
+        ],
+        "vocab": [
+          { "w": "転勤", "r": "てんきん", "hv": "CHUYỂN CẦN", "vi": "chuyển công tác" },
+          { "w": "転職", "r": "てんしょく", "hv": "CHUYỂN CHỨC", "vi": "đổi việc (sang công ty khác)" },
+          { "w": "支社", "r": "ししゃ", "hv": "CHI XÃ", "vi": "chi nhánh" },
+          { "w": "命じる", "r": "めいじる", "hv": "MỆNH", "vi": "ra lệnh, bổ nhiệm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "転勤 = cùng công ty, khác nơi. 転職 = khác công ty. 移住 = chuyển chỗ sống (thường ra nước ngoài/địa phương khác)."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "この辺りの農家は、無農薬で野菜を（　　）しています。",
+      "options": ["制作", "栽培", "養成", "製造"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Các nhà nông quanh đây trồng rau không dùng thuốc trừ sâu.",
+        "why": "栽培 = trồng trọt (cây, rau). 野菜を栽培する là kết hợp chuẩn.",
+        "options": [
+          "制作 → sáng tác, chế tác (tác phẩm, phim). Sai.",
+          "栽培 → trồng trọt. ĐÚNG.",
+          "養成 → đào tạo (nhân lực). Sai.",
+          "製造 → sản xuất, chế tạo (sản phẩm công nghiệp). Sai."
+        ],
+        "vocab": [
+          { "w": "栽培", "r": "さいばい", "hv": "TÀI BỒI", "vi": "trồng trọt" },
+          { "w": "無農薬", "r": "むのうやく", "hv": "VÔ NÔNG DƯỢC", "vi": "không dùng thuốc trừ sâu" },
+          { "w": "養成", "r": "ようせい", "hv": "DƯỠNG THÀNH", "vi": "đào tạo" },
+          { "w": "製造", "r": "せいぞう", "hv": "CHẾ TẠO", "vi": "sản xuất, chế tạo" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cây cối → 栽培; vật nuôi → 飼育 (しいく); người → 養成/育成; hàng hóa → 製造."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "彼は私の意見に対して何も言わなかったが、（　　）ことで同意を示してくれた。",
+      "options": ["ふりむく", "にらむ", "かがむ", "うなずく"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh ấy không nói gì về ý kiến của tôi, nhưng đã thể hiện sự đồng ý bằng cách gật đầu.",
+        "why": "うなずく (頷く) = gật đầu → cử chỉ biểu thị đồng ý (同意).",
+        "options": [
+          "ふりむく → 振り向く: ngoảnh lại. Sai.",
+          "にらむ → 睨む: lườm, trừng mắt. Sai.",
+          "かがむ → 屈む: cúi người, khom lưng. Sai.",
+          "うなずく → 頷く: gật đầu. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "頷く", "r": "うなずく", "hv": "HẠM", "vi": "gật đầu" },
+          { "w": "同意", "r": "どうい", "hv": "ĐỒNG Ý", "vi": "đồng ý" },
+          { "w": "振り向く", "r": "ふりむく", "hv": "CHẤN HƯỚNG", "vi": "ngoảnh lại" },
+          { "w": "睨む", "r": "にらむ", "hv": "NGHỄ", "vi": "lườm, trừng mắt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cử chỉ: うなずく (gật), 首を振る (lắc đầu), かがむ (khom), ふりむく (ngoảnh)."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "机の上がいろいろな物で（　　）しているから、早くきれいに片付けよう。",
+      "options": ["きちんと", "ぼんやり", "ごちゃごちゃ", "きょろきょろ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Mặt bàn đang bừa bộn đủ thứ đồ, nên hãy mau dọn cho gọn gàng.",
+        "why": "ごちゃごちゃ(と)している = lộn xộn, bừa bộn. Phù hợp với 'いろいろな物で' và '片付けよう'.",
+        "options": [
+          "きちんと → ngăn nắp, chỉnh tề (ngược nghĩa). Sai.",
+          "ぼんやり → lơ đãng, mờ mờ. Sai.",
+          "ごちゃごちゃ → bừa bộn, lộn xộn. ĐÚNG.",
+          "きょろきょろ → nhìn ngó lăng xăng. Sai."
+        ],
+        "vocab": [
+          { "w": "ごちゃごちゃ", "r": "ごちゃごちゃ", "hv": "", "vi": "bừa bộn, lộn xộn" },
+          { "w": "片付ける", "r": "かたづける", "hv": "PHIẾN PHÓ", "vi": "dọn dẹp" },
+          { "w": "きょろきょろ", "r": "きょろきょろ", "hv": "", "vi": "nhìn ngang nhìn dọc" },
+          { "w": "ぼんやり", "r": "ぼんやり", "hv": "", "vi": "lơ đãng, mơ hồ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Gợi ý từ ngữ cảnh: 片付けよう → trạng thái hiện tại phải là bừa bộn."
+      }
+    }
+  ]
+}

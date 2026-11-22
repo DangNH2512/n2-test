@@ -1,0 +1,138 @@
+{
+  "exam": "2023-07",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ/cụm từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "この建物を壊すのは<u>惜しい</u>。",
+      "options": ["危ない", "もったいない", "めんどうくさい", "難しい"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Phá bỏ tòa nhà này thì thật đáng tiếc.",
+        "why": "惜しい (おしい) = đáng tiếc, tiếc vì mất đi thứ có giá trị → gần nghĩa nhất với もったいない (phí, uổng).",
+        "options": [
+          "危ない → nguy hiểm. Sai.",
+          "もったいない → lãng phí, uổng, đáng tiếc. ĐÚNG.",
+          "めんどうくさい → phiền phức, ngại làm. Sai.",
+          "難しい → khó. Sai."
+        ],
+        "vocab": [
+          { "w": "惜しい", "r": "おしい", "hv": "TÍCH", "vi": "đáng tiếc, tiếc" },
+          { "w": "もったいない", "r": "もったいない", "hv": "", "vi": "lãng phí, uổng" },
+          { "w": "壊す", "r": "こわす", "hv": "HOẠI", "vi": "phá hỏng, phá dỡ" },
+          { "w": "面倒くさい", "r": "めんどうくさい", "hv": "DIỆN ĐẢO", "vi": "phiền phức" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "惜しい còn có nghĩa \"suýt nữa thì được\" (惜しい！ khi trượt sát nút). 惜しむ (おしむ) = tiếc, quý."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "きちんと<u>テンポ</u>を合わせてください。",
+      "options": ["長さ", "高さ", "大きさ", "速さ"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hãy khớp nhịp độ (tốc độ) cho chuẩn.",
+        "why": "テンポ (tempo) = nhịp độ, tốc độ (âm nhạc, công việc, câu chuyện) → 速さ.",
+        "options": [
+          "長さ → độ dài. Sai.",
+          "高さ → độ cao (cao độ âm thanh = ピッチ). Sai.",
+          "大きさ → độ lớn (âm lượng = ボリューム). Sai.",
+          "速さ → tốc độ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "テンポ", "r": "てんぽ", "hv": "", "vi": "nhịp độ, tốc độ" },
+          { "w": "速さ", "r": "はやさ", "hv": "TỐC", "vi": "tốc độ" },
+          { "w": "合わせる", "r": "あわせる", "hv": "HỢP", "vi": "làm khớp, hòa theo" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "テンポがいい = nhịp nhàng, mạch lạc (câu chuyện, phim). Đừng nhầm テンポ với リズム (nhịp điệu)."
+      }
+    },
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "そのニュースは<u>たちまち</u>広まった。",
+      "options": ["すぐに", "次第に", "確かに", "意外に"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tin tức đó lan truyền ngay lập tức.",
+        "why": "たちまち = trong chớp mắt, ngay lập tức → すぐに.",
+        "options": [
+          "すぐに → ngay lập tức. ĐÚNG.",
+          "次第に → しだいに: dần dần – gần như ngược nghĩa. Sai.",
+          "確かに → たしかに: chắc chắn, quả thật. Sai.",
+          "意外に → いがいに: bất ngờ, ngoài dự đoán. Sai."
+        ],
+        "vocab": [
+          { "w": "たちまち", "r": "たちまち", "hv": "", "vi": "ngay lập tức, trong chớp mắt" },
+          { "w": "次第に", "r": "しだいに", "hv": "THỨ ĐỆ", "vi": "dần dần" },
+          { "w": "広まる", "r": "ひろまる", "hv": "QUẢNG", "vi": "lan rộng, lan truyền" },
+          { "w": "意外", "r": "いがい", "hv": "Ý NGOẠI", "vi": "bất ngờ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhóm \"ngay lập tức\": たちまち・直ちに (ただちに)・即座に (そくざに). Nhóm \"dần dần\": 次第に・徐々に・だんだん."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "研究の<u>概要</u>を述べる。",
+      "options": ["詳しい内容", "大体の内容", "主な目的", "最終的な目的"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Trình bày khái quát (nội dung chính) của nghiên cứu.",
+        "why": "概要 (がいよう, KHÁI YẾU) = tóm tắt, nội dung khái quát → 大体の内容.",
+        "options": [
+          "詳しい内容 → nội dung chi tiết – ngược nghĩa (= 詳細). Sai.",
+          "大体の内容 → nội dung đại khái. ĐÚNG.",
+          "主な目的 → mục đích chính. Sai.",
+          "最終的な目的 → mục đích cuối cùng. Sai."
+        ],
+        "vocab": [
+          { "w": "概要", "r": "がいよう", "hv": "KHÁI YẾU", "vi": "khái quát, tóm tắt" },
+          { "w": "概略", "r": "がいりゃく", "hv": "KHÁI LƯỢC", "vi": "đại cương" },
+          { "w": "述べる", "r": "のべる", "hv": "THUẬT", "vi": "trình bày, nêu" },
+          { "w": "大体", "r": "だいたい", "hv": "ĐẠI THỂ", "vi": "đại khái" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "概 = khái (đại khái): 概要・概略・概念 (がいねん)・大概 (たいがい)."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "あのときは<u>油断していた</u>。",
+      "options": ["慌てていた", "何も覚えていなかった", "気をつけていなかった", "迷っていた"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Lúc đó tôi đã lơ là, mất cảnh giác.",
+        "why": "油断する (ゆだんする, DU ĐOẠN) = lơ là, chủ quan, mất cảnh giác → 気をつけていなかった.",
+        "options": [
+          "慌てていた → あわてていた: đã cuống cuồng, hoảng. Sai.",
+          "何も覚えていなかった → đã không nhớ gì. Sai.",
+          "気をつけていなかった → đã không chú ý cẩn thận. ĐÚNG.",
+          "迷っていた → まよっていた: đã phân vân / lạc đường. Sai."
+        ],
+        "vocab": [
+          { "w": "油断", "r": "ゆだん", "hv": "DU ĐOẠN", "vi": "lơ là, chủ quan" },
+          { "w": "慌てる", "r": "あわてる", "hv": "HOẢNG", "vi": "cuống, hoảng" },
+          { "w": "迷う", "r": "まよう", "hv": "MÊ", "vi": "phân vân; lạc đường" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Thành ngữ: 油断大敵 (ゆだんたいてき) = chủ quan là kẻ thù lớn nhất."
+      }
+    }
+  ]
+}

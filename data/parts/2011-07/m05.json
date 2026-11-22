@@ -1,0 +1,130 @@
+{
+  "exam": "2011-07",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ/cụm từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "この<u>ブーム</u>は長くは続かないだろう。",
+      "options": ["効果", "状態", "流行", "緊張"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Cơn sốt (trào lưu) này có lẽ sẽ không kéo dài lâu.",
+        "why": "ブーム (boom) = cơn sốt, trào lưu ≈ 流行 (りゅうこう) = thịnh hành, mốt.",
+        "options": [
+          "効果 (こうか): hiệu quả. Sai.",
+          "状態 (じょうたい): trạng thái. Sai.",
+          "流行 (りゅうこう): trào lưu, thịnh hành. ĐÚNG.",
+          "緊張 (きんちょう): căng thẳng. Sai."
+        ],
+        "vocab": [
+          { "w": "ブーム", "r": "ブーム", "hv": "", "vi": "cơn sốt, trào lưu" },
+          { "w": "流行", "r": "りゅうこう", "hv": "LƯU HÀNH", "vi": "thịnh hành, mốt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "流行る (はやる) = thịnh hành; 流行語 = từ thịnh hành."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "この作業は<u>慎重</u>にやってください。",
+      "options": ["急いで", "絶対忘れずに", "静かに", "十分注意して"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Hãy làm công việc này một cách thận trọng.",
+        "why": "慎重に (しんちょうに) = thận trọng ≈ 十分注意して (hết sức chú ý).",
+        "options": [
+          "急いで: vội vàng, nhanh lên. Sai.",
+          "絶対忘れずに: nhất định không được quên. Sai.",
+          "静かに: yên lặng. Sai.",
+          "十分注意して: hết sức chú ý, cẩn thận. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "慎重", "r": "しんちょう", "hv": "THẬN TRỌNG", "vi": "thận trọng" },
+          { "w": "作業", "r": "さぎょう", "hv": "TÁC NGHIỆP", "vi": "công việc, thao tác" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "慎重 ⇔ 軽率 (けいそつ: khinh suất)."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "シャツが<u>ちぢんで</u>しまった。",
+      "options": ["小さくなって", "古くなって", "汚れて", "破れて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Cái áo sơ mi đã bị co lại mất rồi.",
+        "why": "縮む (ちぢむ) = co lại, ngắn lại ≈ 小さくなる (trở nên nhỏ đi).",
+        "options": [
+          "小さくなって: bị nhỏ đi. ĐÚNG.",
+          "古くなって: bị cũ đi. Sai.",
+          "汚れて (よごれて): bị bẩn. Sai.",
+          "破れて (やぶれて): bị rách. Sai."
+        ],
+        "vocab": [
+          { "w": "縮む", "r": "ちぢむ", "hv": "SÚC", "vi": "co lại" },
+          { "w": "汚れる", "r": "よごれる", "hv": "Ô", "vi": "bị bẩn" },
+          { "w": "破れる", "r": "やぶれる", "hv": "PHÁ", "vi": "bị rách" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "縮む (tự động từ) – 縮める (tha động từ: rút ngắn). 短縮 (たんしゅく) = rút ngắn."
+      }
+    },
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "宿題のレポートは<u>ほぼ</u>終わった。",
+      "options": ["すべて", "すぐに", "だいたい", "やっと"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Bài báo cáo bài tập về nhà gần như đã xong.",
+        "why": "ほぼ = gần như, hầu như ≈ だいたい (đại khái, phần lớn).",
+        "options": [
+          "すべて: tất cả, toàn bộ. Sai.",
+          "すぐに: ngay lập tức. Sai.",
+          "だいたい: đại khái, gần như. ĐÚNG.",
+          "やっと: cuối cùng thì (sau khó khăn). Sai."
+        ],
+        "vocab": [
+          { "w": "ほぼ", "r": "ほぼ", "hv": "", "vi": "gần như, hầu như" },
+          { "w": "大体", "r": "だいたい", "hv": "ĐẠI THỂ", "vi": "đại khái, phần lớn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhóm đồng nghĩa: ほぼ ≈ だいたい ≈ ほとんど ≈ おおよそ."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "来週は天気が<u>回復</u>するそうだ。",
+      "options": ["あまり変わらない", "変わりやすい", "よくなる", "悪くなる"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nghe nói tuần sau thời tiết sẽ tốt trở lại.",
+        "why": "天気が回復する (かいふく) = thời tiết trở lại tốt (hết mưa) ≈ よくなる.",
+        "options": [
+          "あまり変わらない: không thay đổi mấy. Sai.",
+          "変わりやすい: dễ thay đổi. Sai.",
+          "よくなる: trở nên tốt. ĐÚNG.",
+          "悪くなる: trở nên xấu. Sai."
+        ],
+        "vocab": [
+          { "w": "回復", "r": "かいふく", "hv": "HỒI PHỤC", "vi": "hồi phục, trở lại bình thường" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "回復 dùng cho sức khỏe, kinh tế, thời tiết: 景気が回復する, 体力が回復する."
+      }
+    }
+  ]
+}

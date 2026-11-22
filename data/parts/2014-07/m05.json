@@ -1,0 +1,135 @@
+{
+  "exam": "2014-07",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ/cụm từ có nghĩa gần nhất với phần được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "文字のサイズを<u>そろえて</u>ください。",
+      "options": ["大きくして", "同じにして", "調べて", "教えて"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hãy làm cho cỡ chữ đồng đều (giống nhau).",
+        "why": "そろえる(揃える) = làm cho đồng đều, giống nhau; sắp xếp cho ngay ngắn. サイズをそろえる = 同じサイズにする.",
+        "options": [
+          "大きくして → làm to lên. Sai.",
+          "同じにして → làm cho giống nhau. ĐÚNG.",
+          "調べて → tra, kiểm tra. Sai.",
+          "教えて → chỉ cho, dạy. Sai."
+        ],
+        "vocab": [
+          { "w": "揃える", "r": "そろえる", "hv": "TIỄN", "vi": "làm cho đồng đều; gom đủ" },
+          { "w": "揃う", "r": "そろう", "hv": "TIỄN", "vi": "đồng đều; đủ, tề tựu" },
+          { "w": "文字", "r": "もじ", "hv": "VĂN TỰ", "vi": "chữ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "全員そろった = mọi người đã có mặt đủ."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "中野氏は、古い工場が取り壊されて空いた土地を<u>買いしめた</u>そうだ。",
+      "options": ["無理に買った", "全部買った", "安く買った", "さっそく買った"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Nghe nói ông Nakano đã mua gom hết khu đất trống sau khi nhà máy cũ bị phá dỡ.",
+        "why": "買い占める(かいしめる) = mua gom, mua vét toàn bộ. 占める = chiếm giữ → mua chiếm hết = 全部買った.",
+        "options": [
+          "無理に買った → mua một cách gượng ép. Sai.",
+          "全部買った → mua hết toàn bộ. ĐÚNG.",
+          "安く買った → mua rẻ. Sai.",
+          "さっそく買った → mua ngay lập tức. Sai."
+        ],
+        "vocab": [
+          { "w": "買い占める", "r": "かいしめる", "hv": "MÃI CHIẾM", "vi": "mua gom, mua vét hết" },
+          { "w": "取り壊す", "r": "とりこわす", "hv": "THỦ HOẠI", "vi": "phá dỡ" },
+          { "w": "土地", "r": "とち", "hv": "THỔ ĐỊA", "vi": "đất đai" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "独り占め(ひとりじめ) = chiếm một mình; 占める = chiếm."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "出発<u>間際</u>に、妹から電話がかかってきた。",
+      "options": ["直前", "直後", "当日", "前日"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Ngay sát lúc xuất phát thì em gái gọi điện tới.",
+        "why": "間際(まぎわ) = sát ngay trước khi ~ (N/Vる + 間際). 出発間際 = 出発直前.",
+        "options": [
+          "直前 → ちょくぜん: ngay trước. ĐÚNG.",
+          "直後 → ちょくご: ngay sau. Sai.",
+          "当日 → とうじつ: ngày hôm đó. Sai.",
+          "前日 → ぜんじつ: ngày hôm trước. Sai."
+        ],
+        "vocab": [
+          { "w": "間際", "r": "まぎわ", "hv": "GIAN TẾ", "vi": "sát ngay trước lúc" },
+          { "w": "直前", "r": "ちょくぜん", "hv": "TRỰC TIỀN", "vi": "ngay trước" },
+          { "w": "出発", "r": "しゅっぱつ", "hv": "XUẤT PHÁT", "vi": "xuất phát" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "閉店間際 = sát giờ đóng cửa; 締め切り間際 = sát hạn chót."
+      }
+    },
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "薬を飲んだら<u>たちまち</u>痛みが治まった。",
+      "options": ["すっかり", "やっと", "すぐに", "たしかに"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Uống thuốc xong thì cơn đau dịu đi ngay lập tức.",
+        "why": "たちまち = ngay lập tức, trong chốc lát = すぐに.",
+        "options": [
+          "すっかり → hoàn toàn. Sai.",
+          "やっと → cuối cùng thì (sau thời gian chờ đợi). Sai.",
+          "すぐに → ngay lập tức. ĐÚNG.",
+          "たしかに → chắc chắn, quả thật. Sai."
+        ],
+        "vocab": [
+          { "w": "たちまち", "r": "たちまち", "hv": "", "vi": "ngay lập tức, trong chốc lát" },
+          { "w": "治まる", "r": "おさまる", "hv": "TRỊ", "vi": "(cơn đau) dịu đi, hết" },
+          { "w": "痛み", "r": "いたみ", "hv": "THỐNG", "vi": "cơn đau" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cùng nhóm: たちまち ≈ すぐに ≈ あっという間に."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "もう<u>お勘定は済ましました</u>。",
+      "options": ["料理は注文しました", "店は予約しました", "店員は呼びました", "お金は払いました"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi đã thanh toán rồi.",
+        "why": "お勘定(かんじょう) = việc tính tiền, hóa đơn; 済ます = làm xong. お勘定を済ます = trả tiền xong = お金を払った.",
+        "options": [
+          "料理は注文しました → đã gọi món. Sai.",
+          "店は予約しました → đã đặt chỗ. Sai.",
+          "店員は呼びました → đã gọi nhân viên. Sai.",
+          "お金は払いました → đã trả tiền. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "勘定", "r": "かんじょう", "hv": "KHÁM ĐỊNH", "vi": "tính tiền, thanh toán" },
+          { "w": "済ます", "r": "すます", "hv": "TẾ", "vi": "làm xong, giải quyết xong" },
+          { "w": "払う", "r": "はらう", "hv": "PHẤT", "vi": "trả (tiền)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Ở quán: お勘定お願いします = Cho tôi tính tiền."
+      }
+    }
+  ]
+}

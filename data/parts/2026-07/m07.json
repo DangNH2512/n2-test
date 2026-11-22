@@ -1,0 +1,364 @@
+{
+  "exam": "2026-07",
+  "mondai": 7,
+  "section": "grammar",
+  "instruction": "次の文の（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn phương án thích hợp nhất để điền vào chỗ trống trong câu.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "年賀状（　　）、新年を祝う言葉を書いて送るはがきや手紙のことだ。",
+      "options": ["には", "とは", "としては", "によっては"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Nengajo là những tấm bưu thiếp hay lá thư viết lời chúc mừng năm mới rồi gửi đi.",
+        "why": "「Aとは、Bのことだ」 là mẫu định nghĩa: A nghĩa là B. Cuối câu có 「～のことだ」 → chọn とは.",
+        "options": [
+          "には → 'đối với / ở A': không dùng để định nghĩa. Sai.",
+          "とは → 'A là / A nghĩa là' (định nghĩa), đi với ～のことだ. ĐÚNG.",
+          "としては → 'với tư cách là / về phía A'. Sai.",
+          "によっては → 'tùy theo A (có trường hợp)'. Sai."
+        ],
+        "vocab": [
+          { "w": "年賀状", "r": "ねんがじょう", "hv": "NIÊN HẠ TRẠNG", "vi": "thiệp chúc Tết" },
+          { "w": "祝う", "r": "いわう", "hv": "CHÚC", "vi": "chúc mừng" }
+        ],
+        "grammar": {
+          "pattern": "～とは…のことだ",
+          "meaning": "~ nghĩa là…, ~ là… (định nghĩa)",
+          "form": "N＋とは、…（という）ことだ／意味だ",
+          "example": "「デジカメ」とは、デジタルカメラのことだ。"
+        },
+        "evidence": null,
+        "tip": "Thấy cuối câu là 「～のことだ／～という意味だ」 → đầu câu thường là とは."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "父の若いころのアルバムを見た。写真に写る父が（　　）私に似ていて、自分の写真かと思ってしまった。",
+      "options": ["つい", "ちっとも", "それほど", "あまりにも"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi đã xem album thời trẻ của bố. Bố trong ảnh giống tôi quá đến nỗi tôi đã tưởng đó là ảnh của mình.",
+        "why": "あまりにも = quá mức, quá đỗi (mức độ cao đến mức dẫn đến kết quả). 'Giống quá → tưởng là ảnh mình'.",
+        "options": [
+          "つい → lỡ, vô tình (hành động không cố ý). Không bổ nghĩa cho 似ている. Sai.",
+          "ちっとも → (đi với phủ định) chẳng chút nào. Câu khẳng định → sai.",
+          "それほど → (thường đi với phủ định) không đến mức đó. Sai.",
+          "あまりにも → quá đỗi. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "あまりにも", "r": "あまりにも", "hv": "", "vi": "quá đỗi, quá mức" },
+          { "w": "写る", "r": "うつる", "hv": "TẢ", "vi": "hiện lên (trong ảnh)" },
+          { "w": "似る", "r": "にる", "hv": "TỰ", "vi": "giống" }
+        ],
+        "grammar": {
+          "pattern": "あまりにも～て、…",
+          "meaning": "quá ~ đến nỗi…",
+          "form": "あまりにも＋A/V＋て、（kết quả）",
+          "example": "あまりにも疲れていて、すぐに寝てしまった。"
+        },
+        "evidence": null,
+        "tip": "ちっとも／それほど／たいして thường đi với phủ định — câu khẳng định thì loại ngay."
+      }
+    },
+    {
+      "num": 33,
+      "passage": null,
+      "stem": "昨日、きゅうりを炒めて食べてみた。今まできゅうりは生で（　　）食べたことがなかったが、炒めてもおいしかった。",
+      "options": ["でしか", "にしか", "でばかり", "にばかり"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hôm qua tôi đã thử xào dưa chuột ăn. Trước giờ tôi chỉ ăn dưa chuột sống, nhưng xào lên cũng ngon.",
+        "why": "生で食べる (ăn sống: で chỉ trạng thái) + しか…ない (chỉ) → 「生でしか食べたことがなかった」. Phía sau có 「なかった」 nên phải dùng しか.",
+        "options": [
+          "でしか → 生で＋しか…ない: chỉ ăn sống. ĐÚNG.",
+          "にしか → 生に không đúng (phải là 生で). Sai.",
+          "でばかり → ばかり không đi với phủ định なかった kiểu này (sẽ thành 'không toàn ăn sống'). Sai.",
+          "にばかり → sai trợ từ に và sai ばかり. Sai."
+        ],
+        "vocab": [
+          { "w": "炒める", "r": "いためる", "hv": "SAO", "vi": "xào" },
+          { "w": "生", "r": "なま", "hv": "SINH", "vi": "sống (chưa nấu)" }
+        ],
+        "grammar": {
+          "pattern": "～しか…ない",
+          "meaning": "chỉ ~ (ngoài ra không)",
+          "form": "N(＋trợ từ)＋しか＋Vない",
+          "example": "この店は現金でしか払えない。"
+        },
+        "evidence": null,
+        "tip": "Thấy vế sau có ～ない → ưu tiên しか. Trợ từ đi trước giữ nguyên (生で→生でしか)."
+      }
+    },
+    {
+      "num": 34,
+      "passage": null,
+      "stem": "熱を出してつらそうにしている息子を見て、代われる（　　）代わってやりたいと思った。",
+      "options": ["までは", "だけで", "ものなら", "からには"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nhìn con trai bị sốt trông khổ sở, tôi nghĩ nếu có thể thay được thì tôi muốn chịu thay cho con.",
+        "why": "「V可能形＋ものなら、～たい」 = nếu mà có thể ~ thì (dù khó thực hiện) muốn ~. Việc 'chịu ốm thay con' là điều gần như không thể → ものなら.",
+        "options": [
+          "までは → 'cho đến khi'. Sai nghĩa.",
+          "だけで → 'chỉ cần ~ là'. Sai nghĩa.",
+          "ものなら → 'nếu có thể ~ thì'. ĐÚNG.",
+          "からには → 'một khi đã ~ thì phải'. Sai nghĩa."
+        ],
+        "vocab": [
+          { "w": "代わる", "r": "かわる", "hv": "ĐẠI", "vi": "thay thế, thay cho" },
+          { "w": "熱を出す", "r": "ねつをだす", "hv": "NHIỆT", "vi": "bị sốt" }
+        ],
+        "grammar": {
+          "pattern": "～ものなら",
+          "meaning": "nếu mà có thể ~ (thì muốn…), dùng cho điều khó thực hiện",
+          "form": "V可能形（辞書形）＋ものなら、～たい／～てみろ",
+          "example": "戻れるものなら、学生時代に戻りたい。"
+        },
+        "evidence": null,
+        "tip": "Thấy động từ thể khả năng + （　）+ ～たい → nghĩ ngay ものなら."
+      }
+    },
+    {
+      "num": 35,
+      "passage": null,
+      "stem": "（教室で）\n教師「この授業では、各自が自分で選んだテーマ（　　）資料を集めてレポートにまとめます。」",
+      "options": ["に比べて", "に際して", "に伴って", "に沿って"],
+      "answer": 4,
+      "explanation": {
+        "translation": "(Trong lớp) Giáo viên: 'Trong giờ học này, mỗi người sẽ thu thập tài liệu theo chủ đề mình tự chọn rồi tổng hợp thành báo cáo.'",
+        "why": "「Nに沿って」 = theo, bám sát N (kế hoạch, chủ đề, phương châm). Thu thập tài liệu bám theo chủ đề đã chọn → に沿って.",
+        "options": [
+          "に比べて → so với. Sai nghĩa.",
+          "に際して → nhân dịp, khi (sự kiện đặc biệt). Sai.",
+          "に伴って → cùng với (sự thay đổi kéo theo). Sai.",
+          "に沿って → theo, dựa theo. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "各自", "r": "かくじ", "hv": "CÁC TỰ", "vi": "mỗi người" },
+          { "w": "資料", "r": "しりょう", "hv": "TƯ LIỆU", "vi": "tài liệu" },
+          { "w": "まとめる", "r": "まとめる", "hv": "", "vi": "tổng hợp, gom lại" }
+        ],
+        "grammar": {
+          "pattern": "～に沿って",
+          "meaning": "theo, men theo, bám sát (kế hoạch, mục đích, mong muốn)",
+          "form": "N＋に沿って／に沿った＋N",
+          "example": "マニュアルに沿って作業を進めてください。"
+        },
+        "evidence": null,
+        "tip": "に沿って đi với: 方針・計画・テーマ・希望・川/道 (men theo)."
+      }
+    },
+    {
+      "num": 36,
+      "passage": null,
+      "stem": "先生に、次の授業までに教科書の30ページまで（　　）言われた。",
+      "options": ["読んでくるか", "読んでこい", "読んでおくように", "読んでおきなさい"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi được thầy dặn là phải đọc trước đến trang 30 sách giáo khoa trước buổi học tới.",
+        "why": "Trích dẫn gián tiếp mệnh lệnh/lời dặn: 「Vる＋ように言われる」. Ngay trước 言われた không có と nên chỉ ～ように nối trực tiếp được.",
+        "options": [
+          "読んでくるか → câu hỏi; không có と nên không nối với 言われた. Sai.",
+          "読んでこい → mệnh lệnh trực tiếp, cần と (読んでこいと言われた). Sai.",
+          "読んでおくように → lời dặn gián tiếp + 言われた. ĐÚNG.",
+          "読んでおきなさい → mệnh lệnh trực tiếp, cũng cần と. Sai."
+        ],
+        "vocab": [
+          { "w": "教科書", "r": "きょうかしょ", "hv": "GIÁO KHOA THƯ", "vi": "sách giáo khoa" },
+          { "w": "～ておく", "r": "～ておく", "hv": "", "vi": "làm sẵn, làm trước" }
+        ],
+        "grammar": {
+          "pattern": "～ように言う",
+          "meaning": "bảo/dặn ai làm gì (trích dẫn gián tiếp)",
+          "form": "Vる／Vない＋ように＋言う・頼む・注意する",
+          "example": "医者にお酒を飲まないように言われた。"
+        },
+        "evidence": null,
+        "tip": "Mệnh lệnh trực tiếp (～しなさい／～しろ) luôn cần と trước 言う; ～ように thì không cần と."
+      }
+    },
+    {
+      "num": 37,
+      "passage": null,
+      "stem": "娘は一年前から水泳を習っている。水泳を始めてから体が丈夫に（　　）、精神的にも強くなったと思う。",
+      "options": ["なっただけだとすると", "なっただけでなく", "しただけだとすると", "しただけでなく"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Con gái tôi học bơi từ một năm trước. Từ khi bắt đầu bơi, tôi nghĩ con không chỉ khỏe mạnh hơn về thể chất mà còn mạnh mẽ hơn về tinh thần.",
+        "why": "Chủ ngữ 体が (cơ thể tự thay đổi) → 丈夫になる (tự động từ), không phải 丈夫にする. Vế sau 「精神的にも」 có も → dùng 「～だけでなく…も」.",
+        "options": [
+          "なっただけだとすると → 'nếu giả sử chỉ ~' — không hợp với も phía sau. Sai.",
+          "なっただけでなく → không chỉ trở nên ~ mà còn. ĐÚNG.",
+          "しただけだとすると → sai cả する (体が丈夫にする sai) lẫn nghĩa. Sai.",
+          "しただけでなく → 体が丈夫にした sai (phải là なった). Sai."
+        ],
+        "vocab": [
+          { "w": "水泳", "r": "すいえい", "hv": "THỦY VỊNH", "vi": "bơi lội" },
+          { "w": "丈夫", "r": "じょうぶ", "hv": "TRƯỢNG PHU", "vi": "khỏe mạnh, bền" },
+          { "w": "精神的", "r": "せいしんてき", "hv": "TINH THẦN ĐÍCH", "vi": "về mặt tinh thần" }
+        ],
+        "grammar": {
+          "pattern": "～だけでなく…も",
+          "meaning": "không chỉ ~ mà còn…",
+          "form": "普通形＋だけでなく、N／Vも",
+          "example": "この店は安いだけでなく、味もいい。"
+        },
+        "evidence": null,
+        "tip": "が＋～になる (tự thay đổi), を＋～にする (tác động làm thay đổi)."
+      }
+    },
+    {
+      "num": 38,
+      "passage": null,
+      "stem": "ボクシングには、背中を攻撃（　　）というルールがある。",
+      "options": ["しきれない", "しかねない", "しようがない", "してはならない"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Trong quyền Anh có luật là không được tấn công vào lưng.",
+        "why": "Nội dung của 'ルール' là một sự cấm đoán → 「～てはならない」 = không được phép ~.",
+        "options": [
+          "しきれない → không thể làm hết. Sai nghĩa.",
+          "しかねない → có thể sẽ (gây điều xấu). Sai nghĩa.",
+          "しようがない → không có cách nào để ~. Sai.",
+          "してはならない → không được phép ~ (cấm). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "攻撃", "r": "こうげき", "hv": "CÔNG KÍCH", "vi": "tấn công" },
+          { "w": "背中", "r": "せなか", "hv": "BỐI TRUNG", "vi": "lưng" }
+        ],
+        "grammar": {
+          "pattern": "～てはならない",
+          "meaning": "không được phép ~ (cấm đoán, quy tắc)",
+          "form": "Vて＋はならない",
+          "example": "試験中に話してはならない。"
+        },
+        "evidence": null,
+        "tip": "～かねない (có nguy cơ xảy ra điều xấu) ≠ ～かねる (khó mà làm được)."
+      }
+    },
+    {
+      "num": 39,
+      "passage": null,
+      "stem": "（電話で）\nA「お電話ありがとうございます。さくらホテルでございます。」\nB「すみません、来年春の予約をしたいんですけど、今できますか。」\nA「はい、（　　）。」",
+      "options": ["なさいます", "差し上げます", "承ります", "お越しになります"],
+      "answer": 3,
+      "explanation": {
+        "translation": "(Qua điện thoại) A: 'Cảm ơn quý khách đã gọi. Đây là khách sạn Sakura.' B: 'Xin lỗi, tôi muốn đặt phòng cho mùa xuân năm sau, bây giờ có được không?' A: 'Vâng, chúng tôi xin tiếp nhận ạ.'",
+        "why": "Nhân viên khách sạn nói về hành động của mình (nhận đặt phòng) → dùng khiêm nhường ngữ 承る (うけたまわる) = 受ける／引き受ける.",
+        "options": [
+          "なさいます → tôn kính ngữ của する (dùng cho khách), không dùng cho mình. Sai.",
+          "差し上げます → khiêm nhường của あげる (biếu), cần tân ngữ. Sai nghĩa.",
+          "承ります → khiêm nhường: xin tiếp nhận. ĐÚNG.",
+          "お越しになります → tôn kính của 来る/行く. Sai."
+        ],
+        "vocab": [
+          { "w": "承る", "r": "うけたまわる", "hv": "THỪA", "vi": "(khiêm nhường) tiếp nhận, nghe" },
+          { "w": "予約", "r": "よやく", "hv": "DỰ ƯỚC", "vi": "đặt trước" },
+          { "w": "お越しになる", "r": "おこしになる", "hv": "VIỆT", "vi": "(tôn kính) đến, đi" }
+        ],
+        "grammar": {
+          "pattern": "承る（謙譲語）",
+          "meaning": "khiêm nhường ngữ của 受ける・聞く・引き受ける",
+          "form": "（ご注文／ご予約を）承ります",
+          "example": "ご注文を承りました。"
+        },
+        "evidence": null,
+        "tip": "Hành động của mình → 謙譲語 (承る, 伺う, 申す); của khách → 尊敬語 (なさる, お越しになる)."
+      }
+    },
+    {
+      "num": 40,
+      "passage": null,
+      "stem": "イメージに合うテーブルがどこにも売っていなくてあきらめかけていたが、あるとき、「ないんだったら自分で（　　）んじゃないか」と気づいて、作ることにした。",
+      "options": ["作っていてもいい", "作ってしまえばいい", "作ってあるといい", "作ってみるならいい"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi gần như đã bỏ cuộc vì không ở đâu bán chiếc bàn hợp với hình dung, nhưng một lúc tôi nhận ra 'nếu không có thì cứ tự mình làm luôn là được chứ gì', nên đã quyết định tự làm.",
+        "why": "「～てしまえばいい」 = cứ làm ~ là xong/là giải quyết được (đề xuất giải pháp dứt khoát). 'Không có thì tự làm luôn là được' → hợp ngữ cảnh.",
+        "options": [
+          "作っていてもいい → 'đang làm cũng được' — không phải giải pháp. Sai.",
+          "作ってしまえばいい → cứ làm luôn là được. ĐÚNG.",
+          "作ってあるといい → 'mong là đã được làm sẵn' (trạng thái), không phải hành động mình làm. Sai.",
+          "作ってみるならいい → 'nếu làm thử thì được' — gượng, không tự nhiên. Sai."
+        ],
+        "vocab": [
+          { "w": "あきらめる", "r": "あきらめる", "hv": "", "vi": "từ bỏ" },
+          { "w": "Vかける", "r": "かける", "hv": "", "vi": "suýt, đang dở chừng ~" },
+          { "w": "気づく", "r": "きづく", "hv": "KHÍ", "vi": "nhận ra" }
+        ],
+        "grammar": {
+          "pattern": "～てしまえばいい",
+          "meaning": "cứ ~ đi là được, chỉ cần ~ là xong",
+          "form": "Vて＋しまえばいい",
+          "example": "嫌なことは早く終わらせてしまえばいい。"
+        },
+        "evidence": null,
+        "tip": "～ばいい = chỉ cần ~ là được (gợi ý giải pháp); thêm てしまう → nhấn mạnh làm dứt khoát."
+      }
+    },
+    {
+      "num": 41,
+      "passage": null,
+      "stem": "私は、本を読んでいて気になることがあると（　　）。だから、一冊読み終わるのにどうしても時間がかかる。",
+      "options": ["調べずにはいられない", "調べないに違いない", "調べそうにない", "調べても始まらない"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Khi đọc sách mà có điều gì thắc mắc là tôi không thể không tra cứu. Vì thế, đọc xong một cuốn kiểu gì cũng mất nhiều thời gian.",
+        "why": "「～ずにはいられない」 = không thể kìm được việc ~, không làm thì không chịu được. Hợp với kết quả 'đọc mất thời gian'.",
+        "options": [
+          "調べずにはいられない → không thể không tra. ĐÚNG.",
+          "調べないに違いない → chắc chắn không tra (phỏng đoán, không dùng cho bản thân và trái logic). Sai.",
+          "調べそうにない → có vẻ không tra. Trái logic. Sai.",
+          "調べても始まらない → tra cũng vô ích. Sai."
+        ],
+        "vocab": [
+          { "w": "気になる", "r": "きになる", "hv": "KHÍ", "vi": "bận tâm, thắc mắc" },
+          { "w": "どうしても", "r": "どうしても", "hv": "", "vi": "kiểu gì cũng, nhất định" }
+        ],
+        "grammar": {
+          "pattern": "～ずにはいられない",
+          "meaning": "không thể không ~, không kìm được ~",
+          "form": "Vない(bỏ ない)＋ずにはいられない（する→せずには）",
+          "example": "その映画を見て、泣かずにはいられなかった。"
+        },
+        "evidence": null,
+        "tip": "～ても始まらない = có làm ~ cũng chẳng ích gì (今さら後悔しても始まらない)."
+      }
+    },
+    {
+      "num": 42,
+      "passage": null,
+      "stem": "A「キャッシュカードの暗証番号を忘れちゃったんだけど、銀行に電話して聞けばわかるよね。」\nB「え、そんな大事な情報、忘れちゃったの？ 電話で聞いても絶対（　　）よ。」",
+      "options": ["教えてくれるはずがない", "教えてもらうはずがない", "教えてくれたことがない", "教えてもらったことがない"],
+      "answer": 1,
+      "explanation": {
+        "translation": "A: 'Tớ quên mất mã PIN thẻ ATM rồi, gọi điện hỏi ngân hàng là biết nhỉ.' B: 'Hả, quên thông tin quan trọng thế à? Có gọi hỏi thì chắc chắn họ cũng không đời nào cho cậu biết đâu.'",
+        "why": "Chủ thể là ngân hàng (cho mình biết) → 教えてくれる. 「絶対～はずがない」 = chắc chắn không thể nào ~ (phỏng đoán về tương lai).",
+        "options": [
+          "教えてくれるはずがない → (ngân hàng) không đời nào cho biết. ĐÚNG.",
+          "教えてもらうはずがない → chủ ngữ phải là A (nhận), không hợp với 絶対 + ý 'ngân hàng từ chối'. Sai.",
+          "教えてくれたことがない → 'chưa từng cho biết' (kinh nghiệm quá khứ) — không hợp với tình huống giả định 聞いても. Sai.",
+          "教えてもらったことがない → kinh nghiệm quá khứ, sai ngữ cảnh. Sai."
+        ],
+        "vocab": [
+          { "w": "暗証番号", "r": "あんしょうばんごう", "hv": "ÁM CHỨNG PHIÊN HIỆU", "vi": "mã PIN, mật mã" },
+          { "w": "絶対", "r": "ぜったい", "hv": "TUYỆT ĐỐI", "vi": "tuyệt đối, chắc chắn" },
+          { "w": "情報", "r": "じょうほう", "hv": "TÌNH BÁO", "vi": "thông tin" }
+        ],
+        "grammar": {
+          "pattern": "～はずがない",
+          "meaning": "không thể nào ~, không đời nào ~",
+          "form": "普通形（Naな／Nの）＋はずがない",
+          "example": "あんなに練習したのだから、負けるはずがない。"
+        },
+        "evidence": null,
+        "tip": "～てくれる: người khác làm cho mình (ngân hàng là chủ ngữ); ～てもらう: mình nhận (mình là chủ ngữ)."
+      }
+    }
+  ]
+}

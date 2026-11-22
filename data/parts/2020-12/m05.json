@@ -1,0 +1,135 @@
+{
+  "exam": "2020-12",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "ボランティアで町の名所を<u>ガイド</u>している。",
+      "options": ["案内して", "宣伝して", "調査して", "記録して"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi đang làm tình nguyện viên hướng dẫn (khách) tham quan các danh lam của thị trấn.",
+        "why": "ガイドする (guide) = hướng dẫn, dẫn đường = 案内する.",
+        "options": [
+          "案内して → あんないする: hướng dẫn, dẫn đường. ĐÚNG.",
+          "宣伝して → せんでんする: quảng cáo, tuyên truyền. Sai.",
+          "調査して → ちょうさする: điều tra, khảo sát. Sai.",
+          "記録して → きろくする: ghi chép lại. Sai."
+        ],
+        "vocab": [
+          { "w": "案内", "r": "あんない", "hv": "ÁN NỘI", "vi": "hướng dẫn" },
+          { "w": "名所", "r": "めいしょ", "hv": "DANH SỞ", "vi": "danh lam, địa điểm nổi tiếng" },
+          { "w": "宣伝", "r": "せんでん", "hv": "TUYÊN TRUYỀN", "vi": "quảng cáo" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "山口さんも<u>真剣に</u>作っていた。",
+      "options": ["上手に", "自由に", "積極的に", "まじめに"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh Yamaguchi cũng đã làm một cách nghiêm túc.",
+        "why": "真剣に (しんけんに) = nghiêm túc, chăm chú hết lòng = まじめに.",
+        "options": [
+          "上手に → じょうずに: giỏi, khéo. Sai.",
+          "自由に → じゆうに: tự do. Sai.",
+          "積極的に → せっきょくてきに: tích cực, chủ động. Gần nhưng không phải 「nghiêm túc」. Sai.",
+          "まじめに → nghiêm túc. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "真剣", "r": "しんけん", "hv": "CHÂN KIẾM", "vi": "nghiêm túc, hết mình" },
+          { "w": "まじめ", "r": "まじめ", "hv": "", "vi": "nghiêm túc, chăm chỉ" },
+          { "w": "積極的", "r": "せっきょくてき", "hv": "TÍCH CỰC ĐÍCH", "vi": "tích cực, chủ động" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "真剣 gốc là 「kiếm thật」 → làm việc như cầm kiếm thật, không đùa."
+      }
+    },
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "彼女のような歌手は<u>まれだ</u>と思う。",
+      "options": ["あまりいない", "人気が出ない", "人気が出る", "たくさんいる"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi nghĩ ca sĩ như cô ấy là hiếm có.",
+        "why": "まれ(稀)だ = hiếm, ít có = あまりいない (không có mấy).",
+        "options": [
+          "あまりいない → hầu như không có, hiếm. ĐÚNG.",
+          "人気が出ない → không nổi tiếng. Sai.",
+          "人気が出る → trở nên nổi tiếng. Sai.",
+          "たくさんいる → có nhiều. Ngược nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "稀", "r": "まれ", "hv": "HY", "vi": "hiếm, ít có" },
+          { "w": "歌手", "r": "かしゅ", "hv": "CA THỦ", "vi": "ca sĩ" },
+          { "w": "人気", "r": "にんき", "hv": "NHÂN KHÍ", "vi": "được yêu thích" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "まれに = hiếm khi (= めったに～ない)."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "この道は<u>終日</u>通行止めです。",
+      "options": ["週末", "夜間", "一日中", "今日まで"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Con đường này bị cấm lưu thông cả ngày.",
+        "why": "終日 (しゅうじつ) = suốt cả ngày, từ sáng đến tối = 一日中.",
+        "options": [
+          "週末 → しゅうまつ: cuối tuần. Sai.",
+          "夜間 → やかん: ban đêm. Sai.",
+          "一日中 → いちにちじゅう: suốt cả ngày. ĐÚNG.",
+          "今日まで → đến hôm nay. Sai."
+        ],
+        "vocab": [
+          { "w": "終日", "r": "しゅうじつ", "hv": "CHUNG NHẬT", "vi": "suốt cả ngày" },
+          { "w": "通行止め", "r": "つうこうどめ", "hv": "THÔNG HÀNH CHỈ", "vi": "cấm lưu thông" },
+          { "w": "夜間", "r": "やかん", "hv": "DẠ GIAN", "vi": "ban đêm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đừng nhầm 終日 (cả ngày) với 終了 (kết thúc) hay 最終日 (ngày cuối cùng)."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "青木さんは髪を<u>いじって</u>いた。",
+      "options": ["切って", "触って", "洗って", "乾かして"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Chị Aoki đang mân mê (sờ, nghịch) tóc.",
+        "why": "いじる = sờ mó, mân mê, nghịch bằng tay = 触る (さわる).",
+        "options": [
+          "切って → きる: cắt. Sai.",
+          "触って → さわる: sờ, chạm. ĐÚNG.",
+          "洗って → あらう: gội, rửa. Sai.",
+          "乾かして → かわかす: làm khô, sấy. Sai."
+        ],
+        "vocab": [
+          { "w": "いじる", "r": "いじる", "hv": "", "vi": "sờ mó, mân mê, nghịch" },
+          { "w": "触る", "r": "さわる", "hv": "XÚC", "vi": "sờ, chạm" },
+          { "w": "乾かす", "r": "かわかす", "hv": "CAN", "vi": "làm khô" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "スマホをいじる = nghịch điện thoại."
+      }
+    }
+  ]
+}

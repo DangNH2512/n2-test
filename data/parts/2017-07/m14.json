@@ -1,0 +1,69 @@
+{
+  "exam": "2017-07",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "右のページは、ある大学の公開講座の案内である。下の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Trang bên là thông báo về các khóa học mở của một trường đại học. Chọn câu trả lời đúng nhất cho các câu hỏi bên dưới.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "影山大学 無料公開講座のご案内",
+      "text": "影山大学　経済学部・商学部\n無料公開講座のご案内\n公開講座一覧（講座の詳しい内容は、裏面をご覧ください）\n講座名｜日程｜時間｜実施キャンパス｜実施する学部\n① 日本経済の現状［全2回］｜7/2（日）、7/9（日）｜14：00～16：30｜北影山｜経済学部\n② 比較経営論［全3回］｜7/15（土）～7/17（月）｜13：00～17：15｜影山｜商学部\n③ 国際金融論［全2回］｜7/26（水）、8/2（水）｜18：00～19：30｜影山｜経済学部\n④ 経済統計データの分析［全2回］｜7/29（土）、8/5（土）｜9：00～17：00｜影山｜経済学部\n⑤ 組織行動学［全2回］｜8/21（月）、8/22（水）｜13：45～16：15｜北影山｜商学部\n⑥ 社会政策と経済政策［全2回］｜9/7（水）、9/14（木）｜10：00～12：30｜影山｜経済学部\n\n・受講は、高校生以上の方ならどなたでも可能です。\n・各講座、定員は30名となっています。\n\n申込・受付について\n・郵送、または影山キャンパス経済学部事務所窓口で受け付けます。（申込者多数の場合、抽選）\n・締め切りは、各講座初回の２週間前となります。\n・裏面の「公開講座申込書」にご記入の上、ご提出ください。複数の講座を希望される場合も、申込書は1枚でお願いします。\n・各講座初回1週間前までに、受講できるかどうかを文書で通知しますので、お申し込み時に返信用の封筒1枚（長形3号）[120x235mm]もご提出ください。封筒には82円分の切手をはり、住所と氏名をご記入ください。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 74,
+      "passage": "p1",
+      "stem": "高校生のエミリさんは公開講座を受けてみようと考えている。7月25日から8月30日の間に行われる経済学部が実施する講座で、会場が影山キャンパスのものがいい。エミリさんに合うのはどの講座か。",
+      "options": ["①と③と④と⑥", "③と④と⑥", "③と④", "④のみ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Emiri, học sinh cấp 3, đang định tham gia khóa học mở. Cô muốn khóa do khoa Kinh tế tổ chức, diễn ra trong khoảng 25/7–30/8, địa điểm ở cơ sở Kageyama. Khóa nào phù hợp với Emiri? → ③ và ④.",
+        "why": "Lọc 3 điều kiện: (1) khoa Kinh tế: ①③④⑥; (2) cơ sở Kageyama: loại ① (Kita-Kageyama) → ③④⑥; (3) trong 25/7–30/8: ③ (7/26, 8/2) ✓, ④ (7/29, 8/5) ✓, ⑥ (9/7, 9/14) ✗. Học sinh cấp 3 được phép học. → ③ và ④.",
+        "options": [
+          "① ở cơ sở Kita-Kageyama và diễn ra tháng 7 đầu; ⑥ vào tháng 9. Sai.",
+          "⑥ diễn ra 9/7 và 9/14, ngoài khoảng thời gian. Sai.",
+          "③ và ④ thỏa cả 3 điều kiện. ĐÚNG.",
+          "Bỏ sót ③ (7/26, 8/2, khoa Kinh tế, Kageyama). Sai."
+        ],
+        "vocab": [
+          { "w": "公開講座", "r": "こうかいこうざ", "hv": "CÔNG KHAI GIẢNG TỌA", "vi": "khóa học mở cho công chúng" },
+          { "w": "実施", "r": "じっし", "hv": "THỰC THI", "vi": "thực hiện, tổ chức" },
+          { "w": "学部", "r": "がくぶ", "hv": "HỌC BỘ", "vi": "khoa (đại học)" },
+          { "w": "日程", "r": "にってい", "hv": "NHẬT TRÌNH", "vi": "lịch trình" }
+        ],
+        "grammar": null,
+        "evidence": "③ 国際金融論｜7/26（水）、8/2（水）｜影山｜経済学部／④ 経済統計データの分析｜7/29（土）、8/5（土）｜影山｜経済学部／⑥ 9/7（水）、9/14（木）／① 北影山",
+        "tip": "Lọc từng điều kiện một, gạch dần các khóa không đạt."
+      }
+    },
+    {
+      "num": 75,
+      "passage": "p1",
+      "stem": "会社員のバコさんは二つの講座に申し込みたいと思っている。申し込みは、直接事務所窓口に行くつもりだ。バコさんが提出しなければならないものは何か。",
+      "options": ["公開講座申込書１枚のみ", "公開講座申込書２枚のみ", "公開講座申込書１枚と返信用の封筒1枚", "公開講座申込書２枚と返信用の封筒1枚"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh Bako, nhân viên công ty, muốn đăng ký hai khóa học. Anh định đến trực tiếp quầy văn phòng để đăng ký. Anh Bako phải nộp những gì? → 1 tờ đơn đăng ký và 1 phong bì gửi trả lời.",
+        "why": "Đăng ký nhiều khóa vẫn chỉ cần 1 tờ đơn. Kết quả có được học hay không sẽ được báo bằng văn bản, nên khi đăng ký (dù qua bưu điện hay tại quầy) phải nộp kèm 1 phong bì trả lời.",
+        "options": [
+          "Thiếu phong bì trả lời (bắt buộc khi đăng ký). Sai.",
+          "Nhiều khóa cũng chỉ 1 tờ đơn, và thiếu phong bì. Sai.",
+          "1 tờ đơn + 1 phong bì trả lời. ĐÚNG.",
+          "Không cần 2 tờ đơn. Sai."
+        ],
+        "vocab": [
+          { "w": "申込書", "r": "もうしこみしょ", "hv": "THÂN NHẬP THƯ", "vi": "đơn đăng ký" },
+          { "w": "返信用", "r": "へんしんよう", "hv": "PHẢN TÍN DỤNG", "vi": "dùng để gửi trả lời" },
+          { "w": "封筒", "r": "ふうとう", "hv": "PHONG ĐỒNG", "vi": "phong bì" },
+          { "w": "窓口", "r": "まどぐち", "hv": "SONG KHẨU", "vi": "quầy tiếp nhận" },
+          { "w": "複数", "r": "ふくすう", "hv": "PHỨC SỐ", "vi": "nhiều" }
+        ],
+        "grammar": { "pattern": "～の上（で）", "meaning": "sau khi ~ rồi", "form": "Nの／Vた + 上(で)", "example": "ご記入の上、ご提出ください。" },
+        "evidence": "複数の講座を希望される場合も、申込書は1枚でお願いします。…お申し込み時に返信用の封筒1枚（長形3号）もご提出ください。",
+        "tip": "Đi trực tiếp đến quầy không làm mất yêu cầu nộp phong bì — thông báo kết quả vẫn gửi bằng thư."
+      }
+    }
+  ]
+}

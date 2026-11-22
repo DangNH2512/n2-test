@@ -1,0 +1,160 @@
+{
+  "exam": "2016-12",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các phương án thành câu đúng và chọn phương án nằm ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "結婚生活を送る＿＿＿ ＿＿＿ ＿★＿ ＿＿＿、相手への思いやりの気持ちを持つことだと思う。",
+      "options": ["うえで", "といえば", "大切か", "何が"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi nghĩ nếu nói điều gì là quan trọng khi sống đời sống hôn nhân, thì đó là có tấm lòng biết quan tâm đến đối phương.",
+        "why": "Thứ tự đúng: 送る［1 うえで］［4 何が］［3 大切か★］［2 といえば］、… Cấu trúc 〜うえで (khi ~, trong việc ~) + 何が大切かといえば (nếu nói cái gì quan trọng thì) … ことだ. ★ ở vị trí 3 → 大切か.",
+        "options": [
+          "うえで → vị trí 1 (送るうえで). Không phải ★.",
+          "といえば → vị trí 4, nối với vế sau 、〜ことだ. Không phải ★.",
+          "大切か → vị trí 3, ★. ĐÚNG.",
+          "何が → vị trí 2 (何が大切か). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "思いやり", "r": "おもいやり", "hv": "TƯ", "vi": "sự quan tâm, thấu hiểu người khác" },
+          { "w": "結婚生活", "r": "けっこんせいかつ", "hv": "KẾT HÔN SINH HOẠT", "vi": "đời sống hôn nhân" },
+          { "w": "送る", "r": "おくる", "hv": "TỐNG", "vi": "trải qua (cuộc sống)" }
+        ],
+        "grammar": {
+          "pattern": "〜うえで ／ 何が〜かといえば、〜ことだ",
+          "meaning": "khi/trong việc ~ ; nếu hỏi cái gì ~ thì đó là ~",
+          "form": "V辞書形 + うえで ／ 疑問詞〜か + といえば",
+          "example": "外国語を学ぶうえで何が大切かといえば、毎日続けることだ。"
+        },
+        "evidence": null,
+        "tip": "〜かといえば thường kết thúc bằng 〜ことだ / 〜からだ ở vế sau."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "就職したときに＿＿＿ ＿＿＿ ＿★＿ ＿＿＿とうとう壊れたので、買い換えることにした。",
+      "options": ["ずっと", "買って以来", "かばんが", "使っていた"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Chiếc cặp tôi đã dùng suốt từ khi mua lúc mới đi làm cuối cùng cũng hỏng, nên tôi quyết định mua cái mới.",
+        "why": "Thứ tự đúng: 就職したときに［2 買って以来］［1 ずっと］［4 使っていた★］［3 かばんが］とうとう壊れた. 〜て以来 = kể từ khi ~; mệnh đề 使っていた bổ nghĩa cho かばん; かばんが là chủ ngữ của 壊れた. ★ → 使っていた.",
+        "options": [
+          "ずっと → vị trí 2 (ずっと使っていた). Không phải ★.",
+          "買って以来 → vị trí 1, nối sau 就職したときに. Không phải ★.",
+          "かばんが → vị trí 4, chủ ngữ của 壊れた. Không phải ★.",
+          "使っていた → vị trí 3, ★. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "就職", "r": "しゅうしょく", "hv": "TỰU CHỨC", "vi": "đi làm, có việc làm" },
+          { "w": "買い換える", "r": "かいかえる", "hv": "MÃI HOÁN", "vi": "mua cái mới thay thế" },
+          { "w": "とうとう", "r": "とうとう", "hv": "", "vi": "cuối cùng thì" }
+        ],
+        "grammar": {
+          "pattern": "〜て以来",
+          "meaning": "kể từ khi ~ (đến nay vẫn tiếp diễn)",
+          "form": "Vて + 以来",
+          "example": "日本に来て以来、ずっとこの町に住んでいる。"
+        },
+        "evidence": null,
+        "tip": "Trước とうとう壊れた cần chủ ngữ \"N が\" → かばんが ở vị trí cuối."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "登山には不思議な魅力がある。登っているときはこんなに＿＿＿ ＿＿＿ ＿★＿ ＿＿＿なぜかまた登りたくなる。",
+      "options": ["思うのに", "二度としたくないと", "苦しいことは", "山を下りて何日かすると"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Leo núi có một sức hút kỳ lạ. Khi đang leo thì nghĩ rằng việc khổ sở thế này không bao giờ muốn làm lại nữa, vậy mà xuống núi được vài ngày thì không hiểu sao lại muốn leo tiếp.",
+        "why": "Thứ tự đúng: こんなに［3 苦しいことは］［2 二度としたくないと］［1 思うのに★］［4 山を下りて何日かすると］なぜかまた登りたくなる. こんなに + 苦しい; 〜と思う; のに (vậy mà) nối sang vế đối lập. ★ → 思うのに.",
+        "options": [
+          "思うのに → vị trí 3, ★. ĐÚNG.",
+          "二度としたくないと → vị trí 2 (〜と思う). Không phải ★.",
+          "苦しいことは → vị trí 1, nối sau こんなに. Không phải ★.",
+          "山を下りて何日かすると → vị trí 4, nối với なぜかまた登りたくなる. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "登山", "r": "とざん", "hv": "ĐĂNG SƠN", "vi": "leo núi" },
+          { "w": "魅力", "r": "みりょく", "hv": "MỊ LỰC", "vi": "sức hút, sức hấp dẫn" },
+          { "w": "二度と", "r": "にどと", "hv": "NHỊ ĐỘ", "vi": "(không bao giờ) lần nữa" }
+        ],
+        "grammar": {
+          "pattern": "二度と〜ない ／ 〜のに",
+          "meaning": "không bao giờ ~ nữa ／ vậy mà, thế mà",
+          "form": "二度と + Vない ； 普通形 + のに",
+          "example": "もう二度と遅刻しないと誓ったのに、また寝坊した。"
+        },
+        "evidence": null,
+        "tip": "こんなに phải đi với tính từ (苦しい) → 苦しいことは đứng đầu."
+      }
+    },
+    {
+      "num": 48,
+      "passage": null,
+      "stem": "彫刻家川村たけるが作る動物の彫刻作品は、形はシンプル＿＿＿ ＿＿＿ ＿★＿ ＿＿＿生命力にあふれている。",
+      "options": ["動き出し", "そうな", "ながら", "今にも"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Các tác phẩm điêu khắc động vật do nhà điêu khắc Kawamura Takeru làm ra tuy hình dáng đơn giản nhưng tràn đầy sức sống như thể sắp cử động đến nơi.",
+        "why": "Thứ tự đúng: シンプル［3 ながら］［4 今にも］［1 動き出し★］［2 そうな］生命力. N/naAdj + ながら = tuy ~ nhưng; 今にも〜そうな = như sắp ~ đến nơi; そうな bổ nghĩa cho 生命力. ★ → 動き出し.",
+        "options": [
+          "動き出し → vị trí 3, ★ (動き出しそうな). ĐÚNG.",
+          "そうな → vị trí 4, nối với 生命力. Không phải ★.",
+          "ながら → vị trí 1 (シンプルながら). Không phải ★.",
+          "今にも → vị trí 2 (今にも〜そうな). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "彫刻", "r": "ちょうこく", "hv": "ĐIÊU KHẮC", "vi": "điêu khắc" },
+          { "w": "生命力", "r": "せいめいりょく", "hv": "SINH MỆNH LỰC", "vi": "sức sống" },
+          { "w": "今にも", "r": "いまにも", "hv": "KIM", "vi": "sắp sửa, như sắp" }
+        ],
+        "grammar": {
+          "pattern": "〜ながら（逆接） ／ 今にも〜そうだ",
+          "meaning": "tuy ~ nhưng ／ như sắp ~ đến nơi",
+          "form": "N・naAdj・Vます + ながら ； 今にも + Vます + そうだ",
+          "example": "狭いながらも楽しい我が家。／今にも雨が降り出しそうな空だ。"
+        },
+        "evidence": null,
+        "tip": "今にも luôn đi với 〜そうだ → ghép 今にも動き出しそうな."
+      }
+    },
+    {
+      "num": 49,
+      "passage": null,
+      "stem": "ビジネスで成功できる人とできない人の違いは、どんなに大変な状況でもあきらめずに＿＿＿ ＿＿＿ ＿★＿ ＿＿＿と思う。",
+      "options": ["かどうか", "取り組める", "にある", "最後まで"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi nghĩ sự khác biệt giữa người thành công và không thành công trong kinh doanh nằm ở chỗ có thể theo đuổi đến cùng mà không bỏ cuộc dù trong hoàn cảnh khó khăn đến đâu hay không.",
+        "why": "Thứ tự đúng: あきらめずに［4 最後まで］［2 取り組める］［1 かどうか★］［3 にある］と思う. Cấu trúc 違いは〜かどうかにある = sự khác biệt nằm ở chỗ có ~ hay không. ★ → かどうか.",
+        "options": [
+          "かどうか → vị trí 3, ★. ĐÚNG.",
+          "取り組める → vị trí 2 (最後まで取り組める). Không phải ★.",
+          "にある → vị trí 4, kết với 違いは…にある. Không phải ★.",
+          "最後まで → vị trí 1. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "取り組む", "r": "とりくむ", "hv": "THỦ TỔ", "vi": "nỗ lực giải quyết, dốc sức vào" },
+          { "w": "状況", "r": "じょうきょう", "hv": "TRẠNG HUỐNG", "vi": "tình huống" },
+          { "w": "成功", "r": "せいこう", "hv": "THÀNH CÔNG", "vi": "thành công" }
+        ],
+        "grammar": {
+          "pattern": "〜は〜にある ／ 〜かどうか",
+          "meaning": "(nguyên nhân/điểm khác biệt) nằm ở ~ ／ có ~ hay không",
+          "form": "N は + 普通形 + かどうか + にある",
+          "example": "成功の鍵は、続けられるかどうかにある。"
+        },
+        "evidence": null,
+        "tip": "Chủ ngữ 違いは / 原因は / 問題は → kết thúc bằng 〜にある."
+      }
+    }
+  ]
+}

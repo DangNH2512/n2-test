@@ -1,0 +1,135 @@
+{
+  "exam": "2018-07",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "車にボールを<u>当てて</u>、しかられた。",
+      "options": ["ぶつけて", "隠して", "落として", "詰めて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi ném bóng trúng vào xe ô tô và bị mắng.",
+        "why": "AにBを当てる = làm B va trúng A, đồng nghĩa với ぶつける (ném/đập trúng).",
+        "options": [
+          "ぶつけて → làm va vào, ném trúng. ĐÚNG.",
+          "隠して (かくして) → giấu. Sai.",
+          "落として (おとして) → đánh rơi. Sai.",
+          "詰めて (つめて) → nhồi, nhét. Sai."
+        ],
+        "vocab": [
+          { "w": "当てる", "r": "あてる", "hv": "ĐƯƠNG", "vi": "làm trúng, chạm vào" },
+          { "w": "ぶつける", "r": "ぶつける", "hv": "", "vi": "va, đập, ném trúng" },
+          { "w": "叱る", "r": "しかる", "hv": "SẤT", "vi": "mắng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "その作家は<u>あわれな</u>人生を送った。",
+      "options": ["たいくつな", "おかしな", "かわいそうな", "不安な"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nhà văn đó đã sống một cuộc đời đáng thương.",
+        "why": "あわれ (哀れ) = đáng thương, bi thảm = かわいそう.",
+        "options": [
+          "たいくつな → 退屈: nhàm chán. Sai.",
+          "おかしな → kỳ lạ, buồn cười. Sai.",
+          "かわいそうな → đáng thương. ĐÚNG.",
+          "不安な (ふあんな) → bất an, lo lắng. Sai."
+        ],
+        "vocab": [
+          { "w": "哀れ", "r": "あわれ", "hv": "AI", "vi": "đáng thương, bi ai" },
+          { "w": "かわいそう", "r": "かわいそう", "hv": "", "vi": "tội nghiệp, đáng thương" },
+          { "w": "人生を送る", "r": "じんせいをおくる", "hv": "NHÂN SINH", "vi": "sống một cuộc đời" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "哀 (AI) như 悲哀 (bi ai) → nghĩa buồn thương."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "<u>当分</u>は使わない予定です。",
+      "options": ["これから", "全部", "今回", "しばらく"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi dự định tạm thời sẽ không dùng.",
+        "why": "当分 (とうぶん) = trong một thời gian (tới), tạm thời = しばらく.",
+        "options": [
+          "これから → từ bây giờ. Sai (không mang nghĩa 'một thời gian').",
+          "全部 (ぜんぶ) → toàn bộ. Sai.",
+          "今回 (こんかい) → lần này. Sai.",
+          "しばらく → một thời gian, tạm thời. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "当分", "r": "とうぶん", "hv": "ĐƯƠNG PHÂN", "vi": "tạm thời, trong một thời gian" },
+          { "w": "しばらく", "r": "しばらく", "hv": "", "vi": "một lúc, một thời gian" },
+          { "w": "予定", "r": "よてい", "hv": "DỰ ĐỊNH", "vi": "dự định" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đừng nhầm 当分(とうぶん) với 等分(とうぶん - chia đều)."
+      }
+    },
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "留学の話が<u>一転</u>した。",
+      "options": ["急にとまった", "すっかり変わった", "少し進んだ", "とうとう許された"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Chuyện du học đã thay đổi hoàn toàn.",
+        "why": "一転する (いってん) = xoay chuyển hoàn toàn, thay đổi 180 độ = すっかり変わる.",
+        "options": [
+          "急にとまった → đột ngột dừng lại. Sai.",
+          "すっかり変わった → thay đổi hoàn toàn. ĐÚNG.",
+          "少し進んだ → tiến triển một chút. Sai.",
+          "とうとう許された → cuối cùng cũng được cho phép. Sai."
+        ],
+        "vocab": [
+          { "w": "一転", "r": "いってん", "hv": "NHẤT CHUYỂN", "vi": "thay đổi hoàn toàn, xoay chuyển" },
+          { "w": "留学", "r": "りゅうがく", "hv": "LƯU HỌC", "vi": "du học" },
+          { "w": "すっかり", "r": "すっかり", "hv": "", "vi": "hoàn toàn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "一転 = 'chuyển một vòng' → tình thế đảo ngược."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "テストの前日になって<u>じたばたしても</u>しかたない。",
+      "options": ["慌てても", "心配しても", "緊張しても", "悩んでも"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Đến ngày trước kỳ thi mới cuống cuồng thì cũng vô ích.",
+        "why": "じたばたする = cuống cuồng, cuống quýt lăng xăng (vì bị dồn vào thế bí) = 慌てる (あわてる).",
+        "options": [
+          "慌てても (あわてても) → dù có cuống lên. ĐÚNG.",
+          "心配しても → dù lo lắng. Sai.",
+          "緊張しても (きんちょう) → dù căng thẳng, hồi hộp. Sai.",
+          "悩んでも (なやんでも) → dù phiền não, trăn trở. Sai."
+        ],
+        "vocab": [
+          { "w": "じたばた", "r": "じたばた", "hv": "", "vi": "cuống cuồng, giãy giụa" },
+          { "w": "慌てる", "r": "あわてる", "hv": "HOẢNG", "vi": "hoảng hốt, cuống" },
+          { "w": "前日", "r": "ぜんじつ", "hv": "TIỀN NHẬT", "vi": "ngày hôm trước" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "今さらじたばたしても仕方がない = giờ mới cuống thì đã muộn."
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "exam": "2018-07",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "右のページは、ある大学の国際センターのポスターである。下の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Trang bên là áp phích của Trung tâm Quốc tế một trường đại học. Chọn câu trả lời đúng nhất cho các câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "文章作成サポートのご案内",
+      "text": "文章作成サポートのご案内\n国際センターでは、留学生のみなさんの日本語文章作成を支援するため、訓練を受けた大学院生が文章作成サポートを行います。\n\n場所：国際センター（5号館）2階 203教室\n開室曜日：授業期間中の火・木・金曜日\n利用時間：①～⑥の時間から、1日につき1回\n① 11：40～12：30　② 14：00～14：50　③ 15：00～15：50\n④ 16：00～16：50　⑤ 17：00～17：50　⑥ 18：00～18：50\n\n利用資格\n・本学の留学生なら誰でも利用できます。\n\nサポートの内容\n・日本語のアカデミックな文章の作成を支援します。\n対象になる文章：日本語で書かれたアカデミックな文章（例）授業の課題やレポート、卒業論文、研究計画書\n対象にならない文章：外国語を翻訳した日本語の文章／履歴書など就職関連の文章\n\n利用方法\n・予約の申し込みは実施日の２週間前から前日の昼１２時までメールで受け付けます。氏名・所属・相談内容・携帯電話番号・希望日時（できれば第3希望まで）を書いて、下記のメールアドレスに送信してください。折り返し、確定した日時をメールで返信します。\n・一度にできる予約は1回分です。次回の予約ができるのは、予約した回が終了した後になります。\n・予約した時間に連絡なく15分以上遅れた場合はキャンセルとなります。\n・当日は、支援を受けたい文章を２部印刷して持参してください。\n・予約が入っていない時間帯がある場合に限り、当日利用が可能です。直接来室して確認してください。\n\n大石大学国際センター　文章作成サポート室\nBunshou@ooishi.ac.jp／021－543－0001"
+    }
+  ],
+  "questions": [
+    {
+      "num": 74,
+      "passage": "p1",
+      "stem": "次の4人は、全員大石大学の留学生であり、文章作成サポートを受けたいと考えている。この中で、このサポートを受けられるのは誰か。\n名前／サポートを受けたい日本語の文章／国際センターに行ける曜日\nミウンさん：就職活動用の履歴書／月曜か火曜\nラウラさん：卒業論文／月曜か水曜\nジョンさん：授業の課題レポート／木曜\nグエンさん：ベトナム語の文献を翻訳した文章／火曜か木曜",
+      "options": ["ミウンさん", "ラウラさん", "ジョンさん", "グエンさん"],
+      "answer": 3,
+      "explanation": {
+        "translation": "4 người dưới đây đều là du học sinh ĐH Ōishi và muốn nhận hỗ trợ viết văn bản. Ai có thể nhận hỗ trợ? → John.",
+        "why": "Điều kiện: văn bản học thuật viết bằng tiếng Nhật (không nhận bản dịch, hồ sơ xin việc) VÀ đến được vào thứ 3, 5, 6. John: báo cáo bài tập (hợp lệ) + thứ 5 (mở cửa) → đủ điều kiện.",
+        "options": [
+          "Miun: sơ yếu lý lịch xin việc → không thuộc đối tượng. Sai.",
+          "Laura: luận văn tốt nghiệp hợp lệ, nhưng thứ 2/thứ 4 không mở cửa. Sai.",
+          "John: báo cáo bài tập + thứ 5. ĐÚNG.",
+          "Nguyễn: văn bản dịch từ tiếng Việt → không thuộc đối tượng. Sai."
+        ],
+        "vocab": [
+          { "w": "履歴書", "r": "りれきしょ", "hv": "LÝ LỊCH THƯ", "vi": "sơ yếu lý lịch" },
+          { "w": "卒業論文", "r": "そつぎょうろんぶん", "hv": "TỐT NGHIỆP LUẬN VĂN", "vi": "luận văn tốt nghiệp" },
+          { "w": "翻訳", "r": "ほんやく", "hv": "PHIÊN DỊCH", "vi": "dịch thuật" },
+          { "w": "文献", "r": "ぶんけん", "hv": "VĂN HIẾN", "vi": "tài liệu, văn liệu" }
+        ],
+        "grammar": null,
+        "evidence": "開室曜日：授業期間中の火・木・金曜日／対象にならない文章：外国語を翻訳した日本語の文章、履歴書など就職関連の文章",
+        "tip": "Kiểm tra 2 điều kiện cùng lúc: loại văn bản + ngày mở cửa."
+      }
+    },
+    {
+      "num": 75,
+      "passage": "p1",
+      "stem": "文章作成サポートを利用する際に、注意すべき点はどれか。",
+      "options": [
+        "利用したい日の2週間前までに予約しなければならない。",
+        "一度の申し込みで、数回分をまとめて予約することはできない。",
+        "予約の際、支援を受けたい文章をメールに添付して送らなければならない。",
+        "前日までに予約していなければ、空いている時間があっても利用できない。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Khi sử dụng dịch vụ hỗ trợ viết, cần lưu ý điểm nào? → Không thể đặt gộp nhiều buổi trong một lần đăng ký.",
+        "why": "'Mỗi lần chỉ đặt được 1 buổi. Chỉ có thể đặt buổi tiếp theo sau khi buổi đã đặt kết thúc.' → không đặt gộp nhiều buổi được.",
+        "options": [
+          "Nhận đặt TỪ 2 tuần trước đến trưa ngày hôm trước, không phải 'trước 2 tuần'. Sai.",
+          "Không thể đặt gộp nhiều buổi. ĐÚNG.",
+          "Văn bản phải in 2 bản mang đến vào ngày hẹn, không phải gửi đính kèm. Sai.",
+          "Nếu có khung giờ trống thì vẫn dùng được trong ngày. Sai."
+        ],
+        "vocab": [
+          { "w": "予約", "r": "よやく", "hv": "DỰ ƯỚC", "vi": "đặt trước" },
+          { "w": "添付", "r": "てんぷ", "hv": "THIÊM PHÓ", "vi": "đính kèm" },
+          { "w": "持参", "r": "じさん", "hv": "TRÌ THAM", "vi": "mang theo" },
+          { "w": "当日", "r": "とうじつ", "hv": "ĐƯƠNG NHẬT", "vi": "ngay hôm đó" }
+        ],
+        "grammar": null,
+        "evidence": "一度にできる予約は1回分です。次回の予約ができるのは、予約した回が終了した後になります。",
+        "tip": "〜から〜まで (từ… đến…) khác 〜までに (trước…) – bẫy ở lựa chọn 1."
+      }
+    }
+  ]
+}

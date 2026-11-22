@@ -1,0 +1,164 @@
+{
+  "exam": "2017-07",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn câu sử dụng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "頂上",
+      "options": [
+        "この星は、夏の夜12時ごろ、空の<u>頂上</u>のあたりに見える。",
+        "山に登り始めて5時間ぐらいして、ようやく<u>頂上</u>に着いた。",
+        "この家の2階の部屋は、<u>頂上</u>にも窓がついているので、とても明るい。",
+        "本棚がいっぱいになってしまい、本棚の<u>頂上</u>にも本を置いている。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "頂上 (ちょうじょう) = đỉnh (núi). Câu đúng: Bắt đầu leo núi khoảng 5 tiếng thì cuối cùng cũng lên tới đỉnh.",
+        "why": "頂上 chỉ đỉnh cao nhất của núi (山の頂上). Không dùng cho bầu trời, trần nhà hay mặt trên đồ vật.",
+        "options": [
+          "Bầu trời → phải dùng 真上 (ngay trên đầu) / 天頂. Sai.",
+          "Lên tới đỉnh núi → 頂上に着いた. ĐÚNG.",
+          "Cửa sổ trên mái/trần → phải dùng 天井 (てんじょう: trần nhà) / 屋根. Sai.",
+          "Nóc tủ sách → phải dùng 上 (本棚の上). Sai."
+        ],
+        "vocab": [
+          { "w": "頂上", "r": "ちょうじょう", "hv": "ĐỈNH THƯỢNG", "vi": "đỉnh núi" },
+          { "w": "天井", "r": "てんじょう", "hv": "THIÊN TỈNH", "vi": "trần nhà" },
+          { "w": "真上", "r": "まうえ", "hv": "CHÂN THƯỢNG", "vi": "ngay phía trên" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "頂上 ≈ 山頂 (さんちょう). Bẫy: 頂上 vs 天井 (cùng âm じょう)."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "節約",
+      "options": [
+        "駅に向かう道路の渋滞を<u>節約</u>するため、道の幅を広げる工事が行われている。",
+        "美術館の中は、かびが発生して絵が傷まないように、温度や湿度を<u>節約</u>しています。",
+        "試験が近くなってきたので、アルバイトの仕事を少し<u>節約</u>することにした。",
+        "私の会社では、紙や郵送費を<u>節約</u>するため、資料はすべてメールで送っている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "節約 (せつやく) = tiết kiệm. Câu đúng: Ở công ty tôi, để tiết kiệm giấy và phí bưu điện, tài liệu đều được gửi qua email.",
+        "why": "節約 = dùng ít đi để không lãng phí (tiền, thời gian, tài nguyên). 紙や郵送費を節約する là cách dùng chuẩn.",
+        "options": [
+          "Giảm ùn tắc → phải dùng 緩和 (かんわ: giảm bớt) / 解消. Sai.",
+          "Điều chỉnh nhiệt độ, độ ẩm → phải dùng 調節 / 管理. Sai.",
+          "Giảm bớt việc làm thêm → phải dùng 減らす. Sai.",
+          "Tiết kiệm giấy và phí gửi bưu điện. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "節約", "r": "せつやく", "hv": "TIẾT ƯỚC", "vi": "tiết kiệm" },
+          { "w": "渋滞", "r": "じゅうたい", "hv": "SÁP TRỆ", "vi": "tắc đường" },
+          { "w": "調節", "r": "ちょうせつ", "hv": "ĐIỀU TIẾT", "vi": "điều chỉnh" },
+          { "w": "緩和", "r": "かんわ", "hv": "HOÃN HÒA", "vi": "làm dịu, nới lỏng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "節約 đi với tiền/tài nguyên: 電気・水・時間を節約する."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "分解",
+      "options": [
+        "機械の調子が悪かったので、<u>分解</u>して部品の点検をした。",
+        "すいかを買ってきたが、大きくて冷蔵庫に入らなかったので、四つに<u>分解</u>した。",
+        "細かいお金がなかったので、近くの店で千円札を<u>分解</u>してもらった。",
+        "急ぎの仕事が入ったので、三人で<u>分解</u>して進めることにした。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "分解 (ぶんかい) = tháo rời, phân giải. Câu đúng: Máy bị trục trặc nên tôi đã tháo ra để kiểm tra linh kiện.",
+        "why": "分解 = tháo một vật được lắp ráp thành các bộ phận (機械を分解する), hoặc phân giải chất hóa học.",
+        "options": [
+          "Tháo máy ra kiểm tra linh kiện. ĐÚNG.",
+          "Cắt dưa hấu làm bốn → phải dùng 切る / 分ける. Sai.",
+          "Đổi tiền lẻ → phải dùng 両替 (りょうがえ) / くずす. Sai.",
+          "Chia việc cho ba người → phải dùng 分担 (ぶんたん). Sai."
+        ],
+        "vocab": [
+          { "w": "分解", "r": "ぶんかい", "hv": "PHÂN GIẢI", "vi": "tháo rời, phân giải" },
+          { "w": "部品", "r": "ぶひん", "hv": "BỘ PHẨM", "vi": "linh kiện" },
+          { "w": "両替", "r": "りょうがえ", "hv": "LƯỠNG THẾ", "vi": "đổi tiền" },
+          { "w": "分担", "r": "ぶんたん", "hv": "PHÂN ĐẢM", "vi": "phân chia (công việc)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "分解 ⇔ 組み立て (lắp ráp)."
+      }
+    },
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "略す",
+      "options": [
+        "時間がないので、詳しい説明は<u>略して</u>、要点だけお話しします。",
+        "合計で１万円以上ご購入の場合、送料は<u>略します</u>。",
+        "健康のために、砂糖を<u>略した</u>ジャムを使っています。",
+        "このオフィスは、壁を<u>略して</u>、開放感のあるデザインにしました。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "略す (りゃくす) = lược bỏ, rút gọn. Câu đúng: Vì không có thời gian nên tôi sẽ lược bỏ phần giải thích chi tiết và chỉ nói những điểm chính.",
+        "why": "略す dùng cho lời nói, văn bản, thủ tục: bỏ bớt phần không cần thiết hoặc viết tắt (説明を略す, 名前を略す).",
+        "options": [
+          "Lược bỏ phần giải thích chi tiết. ĐÚNG.",
+          "Miễn phí vận chuyển → phải dùng 無料にします / いただきません. Sai.",
+          "Mứt không đường → phải dùng 砂糖を使わない / 控えた. Sai.",
+          "Bỏ tường → phải dùng なくして / 取り払って. Sai."
+        ],
+        "vocab": [
+          { "w": "略す", "r": "りゃくす", "hv": "LƯỢC", "vi": "lược bỏ, viết tắt" },
+          { "w": "省略", "r": "しょうりゃく", "hv": "TỈNH LƯỢC", "vi": "lược bớt" },
+          { "w": "要点", "r": "ようてん", "hv": "YẾU ĐIỂM", "vi": "điểm chính" },
+          { "w": "送料", "r": "そうりょう", "hv": "TỐNG LIỆU", "vi": "phí vận chuyển" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "略す chủ yếu với ngôn ngữ/thủ tục: 敬称略 (lược bỏ kính xưng)."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "覆う",
+      "options": [
+        "私のうちは、周りを高層マンションに<u>覆われて</u>いて、日当たりが悪い。",
+        "優勝した森選手は大勢の記者に<u>覆われて</u>インタビューを受けていた。",
+        "公園に続く並木道はすっかり落ち葉で<u>覆われて</u>いた。",
+        "部屋が暑いのか、中島さんの顔は汗で<u>覆われて</u>いた。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "覆う (おおう) = che phủ, bao phủ. Câu đúng: Con đường hàng cây dẫn tới công viên đã bị lá rụng phủ kín.",
+        "why": "覆う = phủ kín bề mặt từ phía trên (雪・落ち葉・布で覆う). 道が落ち葉で覆われる là cách dùng tự nhiên.",
+        "options": [
+          "Bị chung cư cao tầng bao quanh → phải dùng 囲まれて (かこまれて). Sai.",
+          "Bị phóng viên vây quanh → phải dùng 囲まれて. Sai.",
+          "Con đường bị lá rụng phủ kín. ĐÚNG.",
+          "Mặt đầy mồ hôi → nói 汗をかいていた / 汗だらけだった. Sai."
+        ],
+        "vocab": [
+          { "w": "覆う", "r": "おおう", "hv": "PHÚC", "vi": "che phủ, bao phủ" },
+          { "w": "囲む", "r": "かこむ", "hv": "VI", "vi": "vây quanh, bao quanh" },
+          { "w": "落ち葉", "r": "おちば", "hv": "LẠC DIỆP", "vi": "lá rụng" },
+          { "w": "並木道", "r": "なみきみち", "hv": "TỊNH MỘC ĐẠO", "vi": "đường hàng cây" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "覆う = phủ lên bề mặt; 囲む = bao xung quanh. 山が雪に覆われる."
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "exam": "2014-12",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B, rồi chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "「新入社員をしかったら会社に来なくなってしまった。」「若い社員のしかり方がわからない。」こんなベテラン社員の悩みを聞くことが多くなった。今の若者は親から大事に扱われ、しかられた経験がほとんどないまま大人になってしまった。上司からしかられると、ショックに耐えられない、なぜしかられたのかわからないと言う若者が多い。\nしかし、共に会社の一員であり、上司には部下を育てる義務がある。時にはしかることも必要だ。人間はミスをするものなのだから、いつも褒められてばかりなんてことはない。誰にでも、しかられて初めて誤りに気づいたという経験があるはずだ。人間はそれをきっかけに成長するものだ。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "部下のミスを指摘するのは上司の務めだ。しかし、それは必ずしも部下をしかることではない。確かに、しかれば部下は自身の失敗に気づく。だが一方で、部下は上司を恐れるだけで、なぜ失敗したのか、どうすれば同じミスをせずに済むかを落ち着いて分析することができない。最近の若い社員はしかられた経験が乏しいため、しかられると自分が否定されたと感じてやる気を失ってしまう者もいる。\nそういう場合には、上司はしかる代わりに「どうしたんだ。君らしくもない。」と穏やかに言うのはどうだろうか。こう言えば相手を認めつつ、失敗した事実をわからせることができる。これなら部下も現実を受け入れることができ、その原因を考えるはずだ。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 69,
+      "passage": "AB",
+      "stem": "AとBが共通して取り上げているのはどのような若者か。",
+      "options": ["しかられても気にしない若者", "しかられることに慣れていない若者", "しかられることを避けようとする若者", "しかられたことを認めようとしない若者"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Cả A và B cùng đề cập đến kiểu người trẻ nào? → Người trẻ chưa quen với việc bị mắng.",
+        "why": "A: giới trẻ lớn lên mà 'hầu như chưa từng bị mắng'. B: nhân viên trẻ 'ít kinh nghiệm bị mắng'. Cả hai đều nói về người trẻ chưa quen bị mắng.",
+        "options": [
+          "Bị mắng cũng không để tâm → ngược lại, họ bị sốc, mất động lực. Sai.",
+          "Chưa quen với việc bị mắng. ĐÚNG.",
+          "Cố tránh bị mắng → không bài nào nói. Sai.",
+          "Không chịu thừa nhận đã bị mắng → không có. Sai."
+        ],
+        "vocab": [
+          { "w": "しかる", "r": "しかる", "hv": "", "vi": "mắng, la rầy" },
+          { "w": "乏しい", "r": "とぼしい", "hv": "PHẠP", "vi": "thiếu thốn, ít ỏi" },
+          { "w": "新入社員", "r": "しんにゅうしゃいん", "hv": "TÂN NHẬP XÃ VIÊN", "vi": "nhân viên mới" },
+          { "w": "慣れる", "r": "なれる", "hv": "QUÁN", "vi": "quen" }
+        ],
+        "grammar": {
+          "pattern": "〜ないまま",
+          "meaning": "trong tình trạng vẫn chưa ~",
+          "form": "Vない + まま",
+          "example": "朝ご飯を食べないまま家を出た。（Ra khỏi nhà mà chưa ăn sáng.）"
+        },
+        "evidence": "A：今の若者は親から大事に扱われ、しかられた経験がほとんどないまま大人になってしまった。／B：最近の若い社員はしかられた経験が乏しいため、",
+        "tip": "Câu hỏi 'điểm chung' → tìm cụm từ đồng nghĩa ở cả hai bài (経験がほとんどない ↔ 経験が乏しい)."
+      }
+    },
+    {
+      "num": 70,
+      "passage": "AB",
+      "stem": "部下が失敗したときの上司の対応について、AとBはどのように述べているか。",
+      "options": [
+        "AもBも、部下がやる気を失わないように、あまりしからないほうがいいと述べている。",
+        "AもBも、しかることも必要だが、失敗の原因を考えさせることがより重要だと述べている。",
+        "Aはしかることで失敗に気づかせることが大切だと述べ、Bはしからずに部下に失敗の原因を考えさせるのがいいと述べている。",
+        "Aはしかることで成長を促すことが重要だと述べ、Bはあえて失敗を指摘する必要はなく、部下を信頼して任せるべきだと述べている。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về cách cấp trên ứng xử khi cấp dưới thất bại, A và B nói thế nào? → A nói việc mắng để cấp dưới nhận ra sai lầm là quan trọng; B nói không mắng mà để cấp dưới tự suy nghĩ nguyên nhân thất bại là tốt.",
+        "why": "A: 'đôi khi cần mắng', 'ai cũng có lần bị mắng rồi mới nhận ra lỗi'. B: thay vì mắng, nói nhẹ nhàng 'Sao vậy? Không giống cậu chút nào' → cấp dưới chấp nhận thực tế và tự nghĩ nguyên nhân.",
+        "options": [
+          "A cho rằng cần mắng, không nói 'không nên mắng'. Sai.",
+          "B không nói 'mắng cũng cần thiết'; B đề xuất thay việc mắng. Sai.",
+          "A: mắng để nhận ra lỗi; B: không mắng, để cấp dưới nghĩ nguyên nhân. ĐÚNG.",
+          "B nói chỉ ra lỗi là trách nhiệm của cấp trên (指摘するのは上司の務め), không nói 'giao phó, tin tưởng'. Sai."
+        ],
+        "vocab": [
+          { "w": "指摘", "r": "してき", "hv": "CHỈ TRÍCH", "vi": "chỉ ra" },
+          { "w": "務め", "r": "つとめ", "hv": "VỤ", "vi": "nhiệm vụ, bổn phận" },
+          { "w": "義務", "r": "ぎむ", "hv": "NGHĨA VỤ", "vi": "nghĩa vụ" },
+          { "w": "穏やか", "r": "おだやか", "hv": "ỔN", "vi": "ôn hòa, nhẹ nhàng" }
+        ],
+        "grammar": {
+          "pattern": "〜て初めて ／ 〜代わりに",
+          "meaning": "phải ~ rồi mới ~; thay vì ~",
+          "form": "Vて + 初めて ／ Vる + 代わりに",
+          "example": "病気になって初めて健康のありがたさがわかる。（Phải ốm rồi mới thấy quý sức khỏe.）"
+        },
+        "evidence": "A：時にはしかることも必要だ。…誰にでも、しかられて初めて誤りに気づいたという経験があるはずだ。／B：上司はしかる代わりに「どうしたんだ。君らしくもない。」と穏やかに言うのはどうだろうか。…これなら部下も現実を受け入れることができ、その原因を考えるはずだ。",
+        "tip": "So sánh A/B: xác định lập trường từng bài trước (A: nên mắng; B: không mắng) rồi loại trừ."
+      }
+    }
+  ]
+}

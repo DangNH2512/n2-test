@@ -1,0 +1,165 @@
+{
+  "exam": "2014-12",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn câu dùng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "会見",
+      "options": [
+        "来週、アルバイトの<u>会見</u>があるので、持っていく履歴書を用意した。",
+        "社長は<u>会見</u>を開き、記者からの質問に一つ一つ丁寧に答えた。",
+        "昨夜、高校の同級生の集まりがあり、10年振りに<u>会見</u>を楽しんだ。",
+        "駅の近くを歩いていたら声をかけられて、テレビ番組の<u>会見</u>を受けた。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Giám đốc mở cuộc họp báo và trả lời cẩn thận từng câu hỏi của phóng viên.",
+        "why": "会見 (かいけん) = buổi gặp gỡ chính thức, họp báo (記者会見). Dùng với 会見を開く và 記者 → câu 2 đúng.",
+        "options": [
+          "Phỏng vấn xin việc làm thêm phải là 面接 (めんせつ). Sai.",
+          "会見を開き, trả lời câu hỏi phóng viên = họp báo. ĐÚNG.",
+          "Gặp lại bạn cũ sau 10 năm → 再会 (さいかい). Sai.",
+          "Bị chặn trên phố để phỏng vấn cho TV → インタビュー. Sai."
+        ],
+        "vocab": [
+          { "w": "会見", "r": "かいけん", "hv": "HỘI KIẾN", "vi": "cuộc gặp chính thức, họp báo" },
+          { "w": "記者会見", "r": "きしゃかいけん", "hv": "KÝ GIẢ HỘI KIẾN", "vi": "họp báo" },
+          { "w": "面接", "r": "めんせつ", "hv": "DIỆN TIẾP", "vi": "phỏng vấn" },
+          { "w": "再会", "r": "さいかい", "hv": "TÁI HỘI", "vi": "gặp lại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "会見 luôn mang tính công khai, chính thức (người nổi tiếng/lãnh đạo ↔ báo chí)."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "支持",
+      "options": [
+        "私は、息子がサッカーの試合に出るときは必ず会場へ<u>支持</u>しに行く。",
+        "建物内部の撮影は禁止されているが、今回は特別に<u>支持</u>を得ることができた。",
+        "田中市長は市民の安全を一番に考えるので、多くの<u>支持</u>を集めている。",
+        "久しぶりに中学校を訪ねたら、先生方から温かく<u>支持</u>されてうれしかった。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Thị trưởng Tanaka luôn đặt sự an toàn của người dân lên hàng đầu nên nhận được nhiều sự ủng hộ.",
+        "why": "支持 (しじ) = ủng hộ, tán thành (ý kiến, chính sách, chính trị gia). 支持を集める = được nhiều người ủng hộ → câu 3.",
+        "options": [
+          "Đến sân cổ vũ con → 応援 (おうえん). Sai.",
+          "Được cho phép chụp ảnh → 許可 (きょか). Sai.",
+          "市長が多くの支持を集める = được nhiều ủng hộ. ĐÚNG.",
+          "Được thầy cô đón tiếp nồng hậu → 歓迎 (かんげい). Sai."
+        ],
+        "vocab": [
+          { "w": "支持", "r": "しじ", "hv": "CHI TRÌ", "vi": "ủng hộ, tán thành" },
+          { "w": "応援", "r": "おうえん", "hv": "ỨNG VIỆN", "vi": "cổ vũ" },
+          { "w": "許可", "r": "きょか", "hv": "HỨA KHẢ", "vi": "cho phép" },
+          { "w": "歓迎", "r": "かんげい", "hv": "HOAN NGHÊNH", "vi": "chào đón" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đừng nhầm 支持 (ủng hộ) với 指示 (しじ – chỉ thị), cùng cách đọc."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "妥当",
+      "options": [
+        "品質に比べて値段が高いと言う人もいるが、私は<u>妥当</u>な金額だと思う。",
+        "風邪気味だったので、今日の会議が中止になったのは、私には<u>妥当</u>だった。",
+        "旅行の日は雨の予報だったが、きれいに晴れて、<u>妥当</u>な天気になった。",
+        "この曲は、歌詞が今の私の気持ちに<u>妥当</u>なので、最近よく聞いている。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Có người nói giá cao so với chất lượng, nhưng tôi nghĩ đó là số tiền hợp lý.",
+        "why": "妥当 (だとう) = thỏa đáng, hợp lý (khi đánh giá khách quan: giá cả, quyết định, ý kiến). 妥当な金額 = mức giá hợp lý → câu 1.",
+        "options": [
+          "妥当な金額 = số tiền hợp lý. ĐÚNG.",
+          "Cuộc họp bị hủy may cho mình → 都合がよかった / ありがたかった. Sai.",
+          "Trời đẹp không ngờ → 最高の天気 / 絶好の天気. Sai.",
+          "Lời bài hát hợp với tâm trạng → ぴったり / 合っている. Sai."
+        ],
+        "vocab": [
+          { "w": "妥当", "r": "だとう", "hv": "THỎA ĐƯƠNG", "vi": "thỏa đáng, hợp lý" },
+          { "w": "品質", "r": "ひんしつ", "hv": "PHẨM CHẤT", "vi": "chất lượng" },
+          { "w": "風邪気味", "r": "かぜぎみ", "hv": "PHONG TÀ KHÍ VỊ", "vi": "hơi bị cảm" },
+          { "w": "歌詞", "r": "かし", "hv": "CA TỪ", "vi": "lời bài hát" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "妥当 hay đi với: 妥当な判断・妥当な価格・妥当な結論."
+      }
+    },
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "言い訳",
+      "options": [
+        "重要な提案なので会議できちんと<u>言い訳</u>をしたが、結局、賛成を得られなかった。",
+        "学生が質問すると、中村先生はいつも熱心に<u>言い訳</u>をしてくれる。",
+        "西さんは仕事で失敗すると必ず<u>言い訳</u>をするので、上司からよく思われていない。",
+        "診察室で医者からあしたの検査内容について<u>言い訳</u>をしてもらった。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh Nishi hễ thất bại trong công việc là y như rằng viện cớ, nên không được cấp trên đánh giá tốt.",
+        "why": "言い訳 (いいわけ) = lời biện minh, viện cớ (cho lỗi/thất bại của mình), sắc thái tiêu cực. Câu 3: thất bại → viện cớ → bị cấp trên đánh giá kém.",
+        "options": [
+          "Trình bày đề xuất trong họp → 説明 (せつめい). Sai.",
+          "Thầy giải thích nhiệt tình cho học sinh → 説明 / 解説. Sai.",
+          "失敗すると言い訳をする = thất bại là viện cớ. ĐÚNG.",
+          "Bác sĩ giải thích nội dung xét nghiệm → 説明. Sai."
+        ],
+        "vocab": [
+          { "w": "言い訳", "r": "いいわけ", "hv": "NGÔN DỊCH", "vi": "biện minh, viện cớ" },
+          { "w": "提案", "r": "ていあん", "hv": "ĐỀ ÁN", "vi": "đề xuất" },
+          { "w": "上司", "r": "じょうし", "hv": "THƯỢNG TY", "vi": "cấp trên" },
+          { "w": "診察室", "r": "しんさつしつ", "hv": "CHẨN SÁT THẤT", "vi": "phòng khám" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "3 câu sai đều cần 説明 (giải thích trung tính). 言い訳 luôn gắn với lỗi của bản thân."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "手軽",
+      "options": [
+        "この運動は、道具もいらず自宅で<u>手軽</u>にできるので、人気がある。",
+        "参加者全員がお互いを知るために、一分ずつ<u>手軽</u>な自己紹介を行った。",
+        "結婚式の後のパーティーには<u>手軽</u>な服装で来てください。",
+        "昨日の試合は<u>手軽に</u>勝てると思ったのに、意外に苦戦した。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Bài tập này không cần dụng cụ, có thể tập dễ dàng tại nhà nên rất được ưa chuộng.",
+        "why": "手軽 (てがる) = đơn giản, dễ dàng, không tốn công sức/tiền bạc/chuẩn bị. 自宅で手軽にできる = làm được ở nhà một cách dễ dàng → câu 1.",
+        "options": [
+          "Không cần dụng cụ, tập dễ dàng tại nhà. ĐÚNG.",
+          "Tự giới thiệu ngắn gọn → 簡単な (かんたんな). Sai.",
+          "Trang phục thoải mái → 気軽な / カジュアルな / 平服. Sai.",
+          "Thắng dễ dàng → 楽に / 簡単に. Sai."
+        ],
+        "vocab": [
+          { "w": "手軽", "r": "てがる", "hv": "THỦ KHINH", "vi": "đơn giản, dễ dàng, tiện" },
+          { "w": "道具", "r": "どうぐ", "hv": "ĐẠO CỤ", "vi": "dụng cụ" },
+          { "w": "気軽", "r": "きがる", "hv": "KHÍ KHINH", "vi": "thoải mái, không ngại" },
+          { "w": "苦戦", "r": "くせん", "hv": "KHỔ CHIẾN", "vi": "chiến đấu vất vả" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "手軽 = dễ làm (về thao tác/chuẩn bị): 手軽な料理, 手軽に楽しめる. 気軽 = thoải mái về tâm lý: 気軽にどうぞ."
+      }
+    }
+  ]
+}

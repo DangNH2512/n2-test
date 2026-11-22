@@ -1,0 +1,88 @@
+{
+  "exam": "2019-07",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B, chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "旅は準備をする時から始まります。目的地の気候、歴史、文化などについて調べ、どんなことをするか計画を立て、必要なものを準備します。さらに、旅行中に多くのことができるように、無駄のない予定を組み、電車やバスや宿泊場所を予約しておきます。そうすれば、余計なことに時間をとられないで旅を楽しむことができます。\n旅の楽しみは、その土地の名所を訪ねたり名産品を食べたりして、普段の生活とは違う経験をすることだと思います。旅先では予想外の出来事にあうこともありますが、しっかり準備をしておけば、時間やお金を無駄にせずに、楽しい旅ができるでしょう。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "私は行きたいと思ったらすぐ旅に出るのが好きです。駅に行き最初に乗れる電車に乗り、降りたい駅で降りて、その土地の人が勧めてくれる旅館やホテルに泊まります。何を食べるか、次の日に何をするか、どこへ行くかも、土地の人に話を聞くのが一番です。そこには、出発前には知らなかった新しい発見があります。また、新しく知り合った人と気が合えば一緒に行動するのも面白いものです。旅では何が起こるか分かりませんから、状況に合わせて好きなように予定を決めればいいのです。日常では味わえない自由な時間が過ごせ、楽しい旅になります。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 67,
+      "passage": "AB",
+      "stem": "旅について、AとBはどのように述べているか。",
+      "options": [
+        "AもBも、しっかり準備をすることが大切だと述べている。",
+        "AもBも、準備をしたうえで、状況に合わせて予定を変えるのがいいと述べている。",
+        "Aは十分に準備をしたほうがいいと述べ、Bは準備をしなくてもいいと述べている。",
+        "Aは準備した計画は変えない方がいいと述べ、Bは準備をする必要はないと述べている。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về du lịch, A và B nói thế nào? → A nói nên chuẩn bị kỹ, B nói không cần chuẩn bị cũng được.",
+        "why": "A: chuyến đi bắt đầu từ lúc chuẩn bị, tìm hiểu, lên lịch, đặt trước; chuẩn bị kỹ thì không lãng phí. B: muốn đi là đi ngay, lên chuyến tàu đầu tiên, hỏi người địa phương, quyết định lịch trình tùy tình hình → không cần chuẩn bị.",
+        "options": [
+          "Sai: B không chuẩn bị gì, đi ngay khi muốn.",
+          "Sai: A không nói thay đổi lịch trình; B không chuẩn bị trước.",
+          "A: nên chuẩn bị kỹ; B: không chuẩn bị cũng được. ĐÚNG.",
+          "Sai: A không nói “không được thay đổi kế hoạch”."
+        ],
+        "vocab": [
+          { "w": "目的地", "r": "もくてきち", "hv": "MỤC ĐÍCH ĐỊA", "vi": "điểm đến" },
+          { "w": "無駄", "r": "むだ", "hv": "VÔ ĐÀ", "vi": "lãng phí, vô ích" },
+          { "w": "宿泊", "r": "しゅくはく", "hv": "TÚC BẠC", "vi": "lưu trú, nghỉ trọ" },
+          { "w": "余計", "r": "よけい", "hv": "DƯ KẾ", "vi": "thừa, không cần thiết" }
+        ],
+        "grammar": {
+          "pattern": "～ばいい",
+          "meaning": "chỉ cần ... là được",
+          "form": "Vば＋いい",
+          "example": "分からなければ、先生に聞けばいい。"
+        },
+        "evidence": "A：旅は準備をする時から始まります。…しっかり準備をしておけば、時間やお金を無駄にせずに、楽しい旅ができるでしょう。\nB：私は行きたいと思ったらすぐ旅に出るのが好きです。…状況に合わせて好きなように予定を決めればいいのです。",
+        "tip": null
+      }
+    },
+    {
+      "num": 68,
+      "passage": "AB",
+      "stem": "旅の楽しみについて、AとBはどのように述べているか。",
+      "options": [
+        "AもBも、その土地の人から話を聞くことだと述べている。",
+        "AもBも、日々の生活ではできない経験をすることだと述べている。",
+        "Aは無駄のない時間を過ごすことだと述べ、Bは気分転換をすることだと述べている。",
+        "Aはその土地でしかできない経験をすることだと述べ、Bは新しい友人を作ることだと述べている。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Về niềm vui của du lịch, A và B nói thế nào? → Cả A và B đều nói đó là trải nghiệm điều không thể làm trong cuộc sống hằng ngày.",
+        "why": "A: niềm vui là có trải nghiệm khác với cuộc sống thường ngày (普段の生活とは違う経験). B: được trải qua khoảng thời gian tự do không thể có trong đời thường (日常では味わえない自由な時間). → Điểm chung: trải nghiệm khác đời thường.",
+        "options": [
+          "Sai: chỉ B nói về việc nghe người địa phương.",
+          "Cả hai: trải nghiệm không có trong cuộc sống hằng ngày. ĐÚNG.",
+          "Sai: “không lãng phí” là lợi ích của việc chuẩn bị (A), không phải niềm vui; B không nói “thay đổi tâm trạng”.",
+          "Sai: B nói đi cùng người mới quen “cũng thú vị”, không phải niềm vui chính là kết bạn."
+        ],
+        "vocab": [
+          { "w": "名所", "r": "めいしょ", "hv": "DANH SỞ", "vi": "danh lam, địa điểm nổi tiếng" },
+          { "w": "名産品", "r": "めいさんひん", "hv": "DANH SẢN PHẨM", "vi": "đặc sản" },
+          { "w": "普段", "r": "ふだん", "hv": "PHỔ ĐOẠN", "vi": "thường ngày" },
+          { "w": "味わう", "r": "あじわう", "hv": "VỊ", "vi": "thưởng thức, nếm trải" }
+        ],
+        "grammar": null,
+        "evidence": "A：旅の楽しみは、その土地の名所を訪ねたり名産品を食べたりして、普段の生活とは違う経験をすることだと思います。\nB：日常では味わえない自由な時間が過ごせ、楽しい旅になります。",
+        "tip": "Tìm từ đồng nghĩa: 普段の生活 ≈ 日常 ≈ 日々の生活."
+      }
+    }
+  ]
+}

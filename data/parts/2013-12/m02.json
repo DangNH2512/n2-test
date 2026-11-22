@@ -1,0 +1,138 @@
+{
+  "exam": "2013-12",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết bằng chữ Hán đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "あのころはまだ、将来のことを<u>しんけん</u>に考えていなかった。",
+      "options": ["真険", "真剣", "信険", "信剣"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hồi đó tôi vẫn chưa suy nghĩ nghiêm túc về tương lai.",
+        "why": "しんけん viết là 真剣 (CHÂN KIẾM) = nghiêm túc, hết mình (gốc nghĩa: thanh kiếm thật). 剣 (kiếm) có bộ 刂, khác 険 (hiểm) có bộ 阝.",
+        "options": [
+          "真険 → 険 là HIỂM (危険 nguy hiểm). Không có từ này. Sai.",
+          "真剣 → nghiêm túc. ĐÚNG.",
+          "信険 → không có từ này. Sai.",
+          "信剣 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "真剣", "r": "しんけん", "hv": "CHÂN KIẾM", "vi": "nghiêm túc, hết lòng" },
+          { "w": "将来", "r": "しょうらい", "hv": "TƯƠNG LAI", "vi": "tương lai" },
+          { "w": "危険", "r": "きけん", "hv": "NGUY HIỂM", "vi": "nguy hiểm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "剣 (bộ đao 刂 = dao kiếm) ↔ 険 (bộ phụ 阝 = đồi núi → hiểm trở) ↔ 検 (bộ mộc → kiểm tra) ↔ 験 (bộ mã → thí nghiệm)."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "今後もサービス向上に<u>つとめて</u>いきたいと思っています。",
+      "options": ["志めて", "勧めて", "勤めて", "努めて"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Từ nay về sau chúng tôi cũng mong tiếp tục nỗ lực nâng cao chất lượng dịch vụ.",
+        "why": "「〜に努める」= nỗ lực, cố gắng vì mục tiêu gì → 努める (NỖ). 向上に努める = nỗ lực nâng cao.",
+        "options": [
+          "志めて → 志 đọc こころざす, không có cách đọc つとめる. Sai.",
+          "勧めて → 勧める (すすめる): khuyên, mời. Sai.",
+          "勤めて → 勤める: làm việc ở (会社に勤める). Không dùng cho 'nỗ lực'. Sai.",
+          "努めて → 努める: nỗ lực, cố gắng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "努める", "r": "つとめる", "hv": "NỖ", "vi": "nỗ lực, cố gắng" },
+          { "w": "勤める", "r": "つとめる", "hv": "CẦN", "vi": "làm việc (tại công ty…)" },
+          { "w": "務める", "r": "つとめる", "hv": "VỤ", "vi": "đảm nhận vai trò (司会を務める)" },
+          { "w": "向上", "r": "こうじょう", "hv": "HƯỚNG THƯỢNG", "vi": "nâng cao, cải thiện" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "3 chữ つとめる: 努める (〜に努める: nỗ lực), 勤める (〜に勤める: làm ở nơi nào), 務める (〜を務める: đảm nhận vai trò)."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "バザーの売り上げは全額<u>きふ</u>しました。",
+      "options": ["寄符", "貴付", "寄付", "貴符"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Toàn bộ tiền bán hàng ở hội chợ từ thiện đã được quyên góp.",
+        "why": "きふ viết là 寄付 (KÝ PHÓ) = quyên góp, ủng hộ. 寄 (gửi, ghé), 付 (gắn, giao cho).",
+        "options": [
+          "寄符 → 符 là PHÙ (切符 vé). Sai.",
+          "貴付 → 貴 là QUÝ (貴重). Sai.",
+          "寄付 → quyên góp. ĐÚNG.",
+          "貴符 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "寄付", "r": "きふ", "hv": "KÝ PHÓ", "vi": "quyên góp, ủng hộ" },
+          { "w": "売り上げ", "r": "うりあげ", "hv": "MẠI THƯỢNG", "vi": "doanh thu" },
+          { "w": "全額", "r": "ぜんがく", "hv": "TOÀN NGẠCH", "vi": "toàn bộ số tiền" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "寄 (宀 + 奇) ≠ 貴 (có 貝 – tiền). 付 (亻+寸) ≠ 符 (có ⺮ – tre: 切符, 音符)."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "そのうわさについて本人に尋ねたら、<u>そくざに</u>否定された。",
+      "options": ["即座に", "速座に", "即差に", "速差に"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Khi tôi hỏi chính người đó về tin đồn, người đó đã lập tức phủ nhận.",
+        "why": "そくざに viết là 即座に (TỨC TỌA) = ngay lập tức, tức thì. 即 = tức thì (即時, 即答), không phải 速 (tốc độ).",
+        "options": [
+          "即座に → ngay lập tức. ĐÚNG.",
+          "速座に → 速 là TỐC (nhanh), không ghép với 座. Sai.",
+          "即差に → 差 là SAI (chênh lệch). Sai.",
+          "速差に → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "即座に", "r": "そくざに", "hv": "TỨC TỌA", "vi": "ngay lập tức, tại chỗ" },
+          { "w": "否定", "r": "ひてい", "hv": "PHỦ ĐỊNH", "vi": "phủ nhận" },
+          { "w": "尋ねる", "r": "たずねる", "hv": "TẦM", "vi": "hỏi" },
+          { "w": "即答", "r": "そくとう", "hv": "TỨC ĐÁP", "vi": "trả lời ngay" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "即 (tức thì): 即座・即答・即席 (ăn liền). 速 (tốc độ): 速度・高速."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "そんなに<u>せめたら</u>かわいそうだよ。",
+      "options": ["凝めたら", "怒めたら", "憎めたら", "責めたら"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Trách móc (người ta) đến thế thì tội nghiệp lắm đấy.",
+        "why": "せめる (trách, đổ lỗi) viết là 責める (TRÁCH). 責任 (せきにん) = trách nhiệm.",
+        "options": [
+          "凝めたら → 凝 đọc こる/こらす (凝る: say mê, mỏi cứng). Sai.",
+          "怒めたら → 怒 đọc おこる/いかる. Sai.",
+          "憎めたら → 憎 đọc にくむ (ghét). Sai.",
+          "責めたら → 責める: trách mắng, đổ lỗi. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "責める", "r": "せめる", "hv": "TRÁCH", "vi": "trách móc, đổ lỗi" },
+          { "w": "責任", "r": "せきにん", "hv": "TRÁCH NHIỆM", "vi": "trách nhiệm" },
+          { "w": "攻める", "r": "せめる", "hv": "CÔNG", "vi": "tấn công" },
+          { "w": "かわいそう", "r": "かわいそう", "hv": "", "vi": "tội nghiệp, đáng thương" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đồng âm せめる: 責める (trách) ↔ 攻める (tấn công). 'Trách người' → 責."
+      }
+    }
+  ]
+}

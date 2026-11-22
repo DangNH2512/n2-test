@@ -1,0 +1,159 @@
+{
+  "exam": "2021-07",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の　★　に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp 4 phương án thành câu đúng và chọn phương án nằm ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "もうすぐ高校卒業だ。この学校で先生や友達と過ごす＿＿＿ ＿＿＿ ＿★＿ ＿＿＿。",
+      "options": ["あと数週間だ", "と思うと", "のも", "寂しさが増してくる"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Sắp tốt nghiệp cấp 3 rồi. Cứ nghĩ đến việc thời gian ở ngôi trường này cùng thầy cô, bạn bè chỉ còn vài tuần nữa thôi là nỗi buồn lại tăng thêm.",
+        "why": "Thứ tự đúng: 過ごす［3 のも］［1 あと数週間だ］［2 と思うと★］［4 寂しさが増してくる］。 過ごすのも (việc trải qua cũng) → あと数週間だ (chỉ còn vài tuần) → と思うと (khi nghĩ đến) → kết quả cảm xúc.",
+        "options": [
+          "あと数週間だ → vị trí 2. Không phải ★.",
+          "と思うと → vị trí 3, ★. ĐÚNG.",
+          "のも → vị trí 1, danh từ hóa 過ごす (過ごすのも). Không phải ★.",
+          "寂しさが増してくる → vị trí 4, kết câu. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "過ごす", "r": "すごす", "hv": "QUÁ", "vi": "trải qua (thời gian)" },
+          { "w": "寂しさ", "r": "さびしさ", "hv": "TỊCH", "vi": "nỗi buồn, sự cô đơn" },
+          { "w": "増す", "r": "ます", "hv": "TĂNG", "vi": "tăng lên" }
+        ],
+        "grammar": {
+          "pattern": "〜と思うと",
+          "meaning": "hễ nghĩ đến ~ là (cảm xúc nảy sinh)",
+          "form": "普通形＋と思うと",
+          "example": "明日から夏休みだと思うと、わくわくする。"
+        },
+        "evidence": null,
+        "tip": "Vế cuối là cảm xúc (寂しさが増してくる) → ngay trước nó là と思うと."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "Ａ：サラリーマンから農家＿＿＿ ＿＿＿ ＿★＿ ＿＿＿があるんだね。\nＢ：自分の夢をどうしてもあきらめきれなくてね。",
+      "options": ["勇気", "とは", "ずいぶん", "になる"],
+      "answer": 3,
+      "explanation": {
+        "translation": "A: Từ nhân viên công ty mà chuyển sang làm nông dân, cậu thật là can đảm đấy. B: Vì tớ không sao từ bỏ được ước mơ của mình.",
+        "why": "Thứ tự đúng: 農家［4 になる］［2 とは］［3 ずいぶん★］［1 勇気］があるんだね。 〜から〜になる (chuyển từ ~ thành ~) + とは (bày tỏ ngạc nhiên) + ずいぶん勇気がある.",
+        "options": [
+          "勇気 → vị trí 4, ngay trước が. Không phải ★.",
+          "とは → vị trí 2. Không phải ★.",
+          "ずいぶん → vị trí 3, ★ (bổ nghĩa cho 勇気がある). ĐÚNG.",
+          "になる → vị trí 1, nối sau 農家. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "農家", "r": "のうか", "hv": "NÔNG GIA", "vi": "nhà nông, nông dân" },
+          { "w": "勇気", "r": "ゆうき", "hv": "DŨNG KHÍ", "vi": "dũng khí, can đảm" },
+          { "w": "ずいぶん", "r": "ずいぶん", "hv": "", "vi": "khá là, rất" }
+        ],
+        "grammar": {
+          "pattern": "〜とは",
+          "meaning": "vậy mà lại ~ (ngạc nhiên, cảm thán)",
+          "form": "普通形＋とは",
+          "example": "あの人が社長になるとは思わなかった。"
+        },
+        "evidence": null,
+        "tip": "Phó từ (ずいぶん) đứng trước cụm nó bổ nghĩa: ずいぶん勇気がある."
+      }
+    },
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "遠足の日の朝、娘は、「いってきます」と＿＿＿ ＿＿＿ ＿★＿ ＿＿＿飛び出していった。",
+      "options": ["終わらないか", "言い終わるか", "玄関を", "のうちに"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Sáng ngày đi dã ngoại, con gái tôi vừa mới nói \"Con đi đây\" chưa dứt câu đã lao ra khỏi cửa.",
+        "why": "Thứ tự đúng: と［2 言い終わるか］［1 終わらないか］［4 のうちに★］［3 玄関を］飛び出していった。 Mẫu Vるか Vないかのうちに = vừa mới ~ thì đã….",
+        "options": [
+          "終わらないか → vị trí 2. Không phải ★.",
+          "言い終わるか → vị trí 1, nối với と (「…」と言い終わる). Không phải ★.",
+          "玄関を → vị trí 4, tân ngữ của 飛び出す. Không phải ★.",
+          "のうちに → vị trí 3, ★. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "遠足", "r": "えんそく", "hv": "VIỄN TÚC", "vi": "dã ngoại, đi chơi xa (trường học)" },
+          { "w": "玄関", "r": "げんかん", "hv": "HUYỀN QUAN", "vi": "lối vào, cửa chính" },
+          { "w": "飛び出す", "r": "とびだす", "hv": "PHI XUẤT", "vi": "lao ra, chạy vụt ra" }
+        ],
+        "grammar": {
+          "pattern": "Vるか Vないかのうちに",
+          "meaning": "vừa mới ~ (chưa xong hẳn) thì đã…",
+          "form": "Vる＋か＋Vない＋かのうちに",
+          "example": "ベルが鳴るか鳴らないかのうちに、生徒たちは教室を出た。"
+        },
+        "evidence": null,
+        "tip": "Thấy cặp 〜るか／〜ないか → chắc chắn theo sau là のうちに."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "参考書を読んで完璧に＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ということがよくある。",
+      "options": ["理解した", "問題を解いてみると", "できない", "つもりでも"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Thường có chuyện tưởng là đã hiểu hoàn toàn nhờ đọc sách tham khảo, vậy mà thử giải bài tập thì lại không làm được.",
+        "why": "Thứ tự đúng: 完璧に［1 理解した］［4 つもりでも］［2 問題を解いてみると★］［3 できない］ということがよくある。 Vたつもりでも = dù tưởng là đã ~.",
+        "options": [
+          "理解した → vị trí 1, đi sau 完璧に. Không phải ★.",
+          "問題を解いてみると → vị trí 3, ★. ĐÚNG.",
+          "できない → vị trí 4, nối với ということ. Không phải ★.",
+          "つもりでも → vị trí 2 (理解したつもりでも). Không phải ★."
+        ],
+        "vocab": [
+          { "w": "参考書", "r": "さんこうしょ", "hv": "THAM KHẢO THƯ", "vi": "sách tham khảo" },
+          { "w": "完璧", "r": "かんぺき", "hv": "HOÀN BÍCH", "vi": "hoàn hảo" },
+          { "w": "解く", "r": "とく", "hv": "GIẢI", "vi": "giải (bài)" }
+        ],
+        "grammar": {
+          "pattern": "Vたつもり（でも）",
+          "meaning": "tưởng là đã ~ (nhưng thực tế không phải)",
+          "form": "Vた＋つもり（でも）",
+          "example": "鍵をかけたつもりだったが、開いていた。"
+        },
+        "evidence": null,
+        "tip": "Đề gốc in 「完壁」, chữ đúng là 「完璧」 (璧 có bộ 玉)."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "この池に＿＿＿ ＿＿＿ ＿★＿ ＿＿＿そうだ。",
+      "options": ["ものもいる", "すむ", "魚の中には", "100年以上生きる"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nghe nói trong số cá sống ở cái ao này có cả những con sống hơn 100 năm.",
+        "why": "Thứ tự đúng: この池に［2 すむ］［3 魚の中には］［4 100年以上生きる★］［1 ものもいる］そうだ。 池にすむ魚 → の中には (trong số đó) → 100年以上生きるもの → もいる.",
+        "options": [
+          "ものもいる → vị trí 4, nối với そうだ. Không phải ★.",
+          "すむ → vị trí 1 (池にすむ). Không phải ★.",
+          "魚の中には → vị trí 2. Không phải ★.",
+          "100年以上生きる → vị trí 3, ★ (bổ nghĩa cho もの). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "すむ（棲む）", "r": "すむ", "hv": "THÊ", "vi": "sinh sống (động vật)" },
+          { "w": "池", "r": "いけ", "hv": "TRÌ", "vi": "cái ao" }
+        ],
+        "grammar": {
+          "pattern": "Nの中には〜もいる／ある",
+          "meaning": "trong số N, cũng có ~",
+          "form": "Nの中には＋（修飾）＋ものもいる",
+          "example": "学生の中には、毎日アルバイトをしている人もいる。"
+        },
+        "evidence": null,
+        "tip": "〜そうだ (nghe nói) đi sau thể thường → ngay trước là ものもいる."
+      }
+    }
+  ]
+}

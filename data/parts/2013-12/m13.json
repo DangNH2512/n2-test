@@ -1,0 +1,115 @@
+{
+  "exam": "2013-12",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn sau, chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "以下は、ある漫画家が書いた文章である。\n\n僕はいままで数多くの漫画やアニメで未来をイメージしてきた。未来を「想像」し、そこから作品を「創造」してきた。僕にとって想像と創造はごく近しい、混じり合ったものだと言っていいだろう。\nでは、イメージすること、想像することについて考えてみよう。僕は想像には二種類あると考えている。可能性が希薄（注1）でも許される「空想」と、確度の高い（注2）データに基づいた「予測」だ。\n空想は幻想的（注3）な意味での夢見る世界。予測はやがてこうなるだろうという現実の延長線上に浮かぶものだ。このふたつが自分の頭の中で組み合わせられ、出来上がっていくものがぼくにとっての「想像」だ。\n「空想」の中には途方もない（注4）こともある。子どもの時に考えていたこととなんら変わりがない、突拍子もない（注5）ものも含んでいる。「夢」と言い換えてもいいだろう。しかし、夢や空想だけではどこかものたりない。そこで、現実の延長線上にある未来についての予測が必要になってくる。しかし、空想が現実からかけ離れるばかりかといえばそうではないし、予測が必ず現実を言い当てるというものでもない。どちらも、未来をイメージする＝想像することのうちにあるのだ。\n（中略）僕は空想も予測も好きな少年だった。子どもの頃から「想像」することが大好きだった。しかし、ぼくが「想像」をただの「想像」に終わらせず、作品を作るという「創造」へと結びつけてきたのはなぜだろう。僕自身はあまり意識してこなかったことだが、こうして考えてみると、やはり「何のためにえがくのか」という言葉が浮かび上がってくる。\n「想像」するだけなら一人でしていけばいい。あるいは、友人たちとのおしゃべりで十分だろう。しかし、「創造」するためには、そこに「何のために」という強い動機が必要なのだ。\n僕が「想像」したことをもとに作品を「創造」することで、もしかしたら、その作品をきっかけに何かが変わるかもしれない。僕も人類の一人として、この地球がよりよい方向に進み、幸福な未来へとつながっていってほしい。\n大げさなことはあまり言いたくないが、大きな目的として、「地球の未来のために」僕は作品をえがいているのかもしれない。\n\n（松本零士『未来創造―夢の発想法』による）\n\n（注1）希薄でも：ここでは、低くても\n（注2）確度の高い：ここでは、確かな\n（注3）幻想的：現実から離れている\n（注4）途方もない：とんでもない\n（注5）突拍子もない：常識から外れた"
+    }
+  ],
+  "questions": [
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "空想と予測について、筆者はどのように述べているか。",
+      "options": [
+        "いずれも現実の延長線上にあるものである。",
+        "いずれも可能性の低い夢のようなものである。",
+        "いずれも未来のイメージを構成するものである。",
+        "いずれも未来のイメージを現実化させるものである。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tác giả nói gì về 'không tưởng' và 'dự đoán'? → Cả hai đều là những thứ cấu thành nên hình dung về tương lai.",
+        "why": "Tác giả: hai thứ này kết hợp trong đầu tạo nên 'tưởng tượng' của ông; 'cả hai đều nằm trong việc hình dung tương lai = tưởng tượng'. → cùng cấu thành hình ảnh tương lai.",
+        "options": [
+          "Cả hai nằm trên đường kéo dài của hiện thực → chỉ 'dự đoán' là vậy; 'không tưởng' là thế giới mộng ảo. Sai.",
+          "Cả hai là giấc mơ ít khả năng → chỉ 'không tưởng'; 'dự đoán' dựa trên dữ liệu chắc chắn. Sai.",
+          "Cả hai cấu thành hình dung về tương lai. ĐÚNG.",
+          "Cả hai biến hình dung tương lai thành hiện thực → tác giả nói dự đoán cũng không chắc trúng hiện thực. Sai."
+        ],
+        "vocab": [
+          { "w": "空想", "r": "くうそう", "hv": "KHÔNG TƯỞNG", "vi": "mơ mộng, không tưởng" },
+          { "w": "予測", "r": "よそく", "hv": "DỰ TRẮC", "vi": "dự đoán" },
+          { "w": "延長線上", "r": "えんちょうせんじょう", "hv": "DIÊN TRƯỜNG TUYẾN THƯỢNG", "vi": "trên đường kéo dài (của …)" },
+          { "w": "構成", "r": "こうせい", "hv": "CẤU THÀNH", "vi": "cấu thành, cấu tạo" },
+          { "w": "希薄", "r": "きはく", "hv": "HI BẠC", "vi": "mỏng manh, thấp" }
+        ],
+        "grammar": null,
+        "evidence": "このふたつが自分の頭の中で組み合わせられ、出来上がっていくものがぼくにとっての「想像」だ。…どちらも、未来をイメージする＝想像することのうちにあるのだ。",
+        "tip": "Phương án 1, 2 chỉ đúng với một trong hai → câu hỏi 'いずれも' (cả hai) thì loại."
+      }
+    },
+    {
+      "num": 72,
+      "passage": "p1",
+      "stem": "筆者にとって、「創造」するとはどういうことか。",
+      "options": [
+        "「想像」もしていなかったような作品を作ること。",
+        "夢のような世界を「想像」しながら作品を作ること。",
+        "「想像」したことをもとに、描く目的を持って作品を作ること。",
+        "何のために描くのかを意識して、未来を「想像」できる作品を作ること。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Với tác giả, 'sáng tạo' là gì? → Dựa trên những gì đã 'tưởng tượng', sáng tác tác phẩm với mục đích vẽ rõ ràng.",
+        "why": "Tác giả: 'sáng tạo' = tạo tác phẩm dựa trên những gì đã tưởng tượng (想像したことをもとに作品を創造する); và để sáng tạo cần động cơ mạnh 'để làm gì' (何のために).",
+        "options": [
+          "Tạo tác phẩm chưa từng tưởng tượng → ngược: sáng tạo dựa trên tưởng tượng. Sai.",
+          "Vừa tưởng tượng thế giới mộng ảo vừa sáng tác → thiếu yếu tố mục đích; tưởng tượng gồm cả dự đoán. Sai.",
+          "Dựa trên tưởng tượng, có mục đích vẽ rõ ràng. ĐÚNG.",
+          "Tạo tác phẩm giúp người xem tưởng tượng tương lai → bài không nói mục tiêu là 'tác phẩm cho người khác tưởng tượng'. Sai."
+        ],
+        "vocab": [
+          { "w": "創造", "r": "そうぞう", "hv": "SÁNG TẠO", "vi": "sáng tạo" },
+          { "w": "想像", "r": "そうぞう", "hv": "TƯỞNG TƯỢNG", "vi": "tưởng tượng" },
+          { "w": "動機", "r": "どうき", "hv": "ĐỘNG CƠ", "vi": "động cơ" },
+          { "w": "結びつける", "r": "むすびつける", "hv": "KẾT", "vi": "gắn kết, liên kết" }
+        ],
+        "grammar": {
+          "pattern": "Nをもとに",
+          "meaning": "dựa trên N, lấy N làm cơ sở",
+          "form": "N＋をもとに(して)",
+          "example": "実話をもとに映画が作られた。(Bộ phim được làm dựa trên chuyện có thật.)"
+        },
+        "evidence": "しかし、「創造」するためには、そこに「何のために」という強い動機が必要なのだ。僕が「想像」したことをもとに作品を「創造」することで…",
+        "tip": "Hai từ đồng âm そうぞう: 想像 (tưởng tượng) ↔ 創造 (sáng tạo) – đề chơi chữ với cặp này."
+      }
+    },
+    {
+      "num": 73,
+      "passage": "p1",
+      "stem": "筆者の考えに合うものはどれか。",
+      "options": [
+        "子供たちの夢が、幸せな未来につながっていってほしい。",
+        "自分の作品が、人類の幸福につながるきっかけになってほしい。",
+        "地球の未来のためには、自分が漫画やアニメを描き続けることが必要だ。",
+        "地球がより良い方向に進むには、子ども時代に想像力を育てることが必要だ。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Điều nào phù hợp với suy nghĩ của tác giả? → Mong tác phẩm của mình trở thành cơ hội (khởi đầu) dẫn đến hạnh phúc của nhân loại.",
+        "why": "Tác giả: qua tác phẩm có thể 'nhờ tác phẩm đó mà điều gì đó thay đổi'; mong trái đất đi theo hướng tốt hơn, dẫn tới tương lai hạnh phúc; ông vẽ 'vì tương lai trái đất'. → mong tác phẩm là cơ hội dẫn đến hạnh phúc nhân loại.",
+        "options": [
+          "Mong giấc mơ của trẻ em dẫn đến tương lai hạnh phúc → không nói về giấc mơ của trẻ em. Sai.",
+          "Mong tác phẩm của mình là cơ hội dẫn đến hạnh phúc nhân loại. ĐÚNG.",
+          "Cần phải tiếp tục vẽ vì tương lai trái đất → tác giả nói khiêm tốn 'có lẽ' (かもしれない), không khẳng định 'cần thiết'. Sai.",
+          "Cần nuôi dưỡng trí tưởng tượng thời thơ ấu → không được đề cập. Sai."
+        ],
+        "vocab": [
+          { "w": "人類", "r": "じんるい", "hv": "NHÂN LOẠI", "vi": "nhân loại" },
+          { "w": "幸福", "r": "こうふく", "hv": "HẠNH PHÚC", "vi": "hạnh phúc" },
+          { "w": "きっかけ", "r": "きっかけ", "hv": "", "vi": "cơ hội, khởi đầu" },
+          { "w": "大げさ", "r": "おおげさ", "hv": "ĐẠI", "vi": "phóng đại, cường điệu" }
+        ],
+        "grammar": null,
+        "evidence": "僕が「想像」したことをもとに作品を「創造」することで、もしかしたら、その作品をきっかけに何かが変わるかもしれない。僕も人類の一人として、この地球がよりよい方向に進み、幸福な未来へとつながっていってほしい。",
+        "tip": "Bẫy 'quá khẳng định': bài dùng かもしれない (có lẽ) → phương án nói 必要だ là quá đà."
+      }
+    }
+  ]
+}

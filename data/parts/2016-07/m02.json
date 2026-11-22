@@ -1,0 +1,136 @@
+{
+  "exam": "2016-07",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết Kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "文章は<u>かんけつ</u>に書いてください。",
+      "options": ["完決", "簡決", "簡潔", "完潔"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hãy viết văn bản một cách ngắn gọn, súc tích.",
+        "why": "かんけつ = 簡潔 (GIẢN KHIẾT): ngắn gọn, súc tích. 簡 = đơn giản (簡単), 潔 = trong sạch, gọn gàng (清潔).",
+        "options": [
+          "完決 → không có từ này. Sai.",
+          "簡決 → không có từ này (決 = quyết). Sai.",
+          "簡潔 → ngắn gọn, súc tích. ĐÚNG.",
+          "完潔 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "簡潔", "r": "かんけつ", "hv": "GIẢN KHIẾT", "vi": "ngắn gọn, súc tích" },
+          { "w": "完結", "r": "かんけつ", "hv": "HOÀN KẾT", "vi": "hoàn tất, kết thúc (truyện)" },
+          { "w": "文章", "r": "ぶんしょう", "hv": "VĂN CHƯƠNG", "vi": "văn bản, bài văn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đồng âm: 完結 (hoàn kết – kết thúc) vs 簡潔 (giản khiết – ngắn gọn). 'Viết ngắn gọn' → 簡潔."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "具体的な内容については、本日お配りした資料をご<u>さんしょう</u>ください。",
+      "options": ["賛照", "参照", "賛考", "参考"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Về nội dung cụ thể, xin vui lòng tham khảo tài liệu đã phát hôm nay.",
+        "why": "さんしょう = 参照 (THAM CHIẾU): tham chiếu, xem để đối chiếu. 参 = tham, 照 = chiếu (しょう).",
+        "options": [
+          "賛照 → 賛 là 'tán (thành)', không có từ này. Sai.",
+          "参照 → tham chiếu, xem tài liệu. ĐÚNG.",
+          "賛考 → không có từ này. Sai.",
+          "参考 → đọc là さんこう (tham khảo), không phải さんしょう. Sai."
+        ],
+        "vocab": [
+          { "w": "参照", "r": "さんしょう", "hv": "THAM CHIẾU", "vi": "tham chiếu, xem đối chiếu" },
+          { "w": "参考", "r": "さんこう", "hv": "THAM KHẢO", "vi": "tham khảo" },
+          { "w": "資料", "r": "しりょう", "hv": "TƯ LIỆU", "vi": "tài liệu" },
+          { "w": "具体的", "r": "ぐたいてき", "hv": "CỤ THỂ ĐÍCH", "vi": "cụ thể" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy: 参考 nghĩa gần nhưng đọc さんこう. Câu hỏi hỏi cách viết của âm さんしょう."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "火が強すぎて、肉が<u>こげて</u>しまった。",
+      "options": ["焦げて", "焼げて", "熱げて", "煙げて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Lửa to quá nên thịt bị cháy khét mất rồi.",
+        "why": "こげる = 焦げる (TIÊU): bị cháy, cháy khét. Các chữ khác không có cách đọc こ-げる.",
+        "options": [
+          "焦げて → bị cháy khét. ĐÚNG.",
+          "焼げて → 焼 đọc やく/やける (nướng), không có 焼げる. Sai.",
+          "熱げて → 熱 đọc あつい/ねつ. Sai.",
+          "煙げて → 煙 đọc けむり (khói). Sai."
+        ],
+        "vocab": [
+          { "w": "焦げる", "r": "こげる", "hv": "TIÊU", "vi": "bị cháy, cháy khét" },
+          { "w": "焦る", "r": "あせる", "hv": "TIÊU", "vi": "sốt ruột, cuống" },
+          { "w": "焼ける", "r": "やける", "hv": "THIÊU", "vi": "được nướng, bị cháy" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "焦: こげる (cháy khét), あせる (sốt ruột), 焦点 (しょうてん – tiêu điểm)."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "診察室で医者に<u>しょうじょう</u>を伝えた。",
+      "options": ["障情", "障状", "症情", "症状"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tôi đã nói các triệu chứng cho bác sĩ trong phòng khám.",
+        "why": "しょうじょう = 症状 (CHỨNG TRẠNG): triệu chứng. 症 = chứng bệnh (bộ 疒), 状 = trạng thái.",
+        "options": [
+          "障情 → 障 là 'chướng' (障害), không có từ này. Sai.",
+          "障状 → không có từ này. Sai.",
+          "症情 → 情 (じょう) là tình cảm, không hợp. Sai.",
+          "症状 → triệu chứng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "症状", "r": "しょうじょう", "hv": "CHỨNG TRẠNG", "vi": "triệu chứng" },
+          { "w": "診察室", "r": "しんさつしつ", "hv": "CHẨN SÁT THẤT", "vi": "phòng khám" },
+          { "w": "障害", "r": "しょうがい", "hv": "CHƯỚNG HẠI", "vi": "trở ngại, khuyết tật" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Chữ có bộ 疒 (nạch) liên quan bệnh: 症, 病, 痛, 疲."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "急なお願いにもかかわらず、森さんは<u>こころよく</u>応じてくれた。",
+      "options": ["希く", "快く", "敬く", "喜く"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Dù là lời nhờ vả đột ngột, anh Mori vẫn vui vẻ nhận lời.",
+        "why": "こころよい = 快い (KHOÁI): dễ chịu, vui lòng. こころよく応じる = vui vẻ nhận lời.",
+        "options": [
+          "希く → 希 đọc き (希望), không có 希く. Sai.",
+          "快く → vui lòng, sẵn lòng. ĐÚNG.",
+          "敬く → 敬 đọc うやまう (kính trọng). Sai.",
+          "喜く → 喜 đọc よろこぶ. Sai."
+        ],
+        "vocab": [
+          { "w": "快い", "r": "こころよい", "hv": "KHOÁI", "vi": "dễ chịu, sẵn lòng" },
+          { "w": "応じる", "r": "おうじる", "hv": "ỨNG", "vi": "đáp ứng, nhận lời" },
+          { "w": "～にもかかわらず", "r": "にもかかわらず", "hv": "", "vi": "mặc dù ~" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "快: 快適 (かいてき – dễ chịu), 快晴 (かいせい – trời quang), 快い (こころよい)."
+      }
+    }
+  ]
+}

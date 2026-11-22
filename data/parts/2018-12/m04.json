@@ -1,0 +1,136 @@
+{
+  "exam": "2018-12",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ đúng nhất điền vào chỗ trống (theo ngữ cảnh).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "カメラを向けると、子どもたちは（　　）笑った。",
+      "options": ["さっぱり", "にっこり", "ぴかぴか", "ほかほか"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Khi tôi hướng máy ảnh về phía bọn trẻ, chúng mỉm cười tươi.",
+        "why": "にっこり(と)笑う = mỉm cười tươi, cười tủm tỉm. にっこり là từ tượng thái chuyên đi với 笑う.",
+        "options": [
+          "さっぱり → sảng khoái, gọn gàng; さっぱりわからない = hoàn toàn không hiểu. Sai.",
+          "にっこり → mỉm cười tươi. ĐÚNG.",
+          "ぴかぴか → sáng bóng, lấp lánh. Sai.",
+          "ほかほか → nóng hổi, ấm áp (cơm, bánh). Sai."
+        ],
+        "vocab": [
+          { "w": "にっこり", "r": "にっこり", "hv": "", "vi": "mỉm cười tươi" },
+          { "w": "向ける", "r": "むける", "hv": "HƯỚNG", "vi": "hướng về, chĩa về" },
+          { "w": "ほかほか", "r": "ほかほか", "hv": "", "vi": "nóng hổi, ấm áp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Các kiểu cười: にっこり (mỉm cười tươi), にやにや (cười nhăn nhở), くすくす (cười khúc khích), げらげら (cười ha hả)."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "今日の海は波が高く、船が揺れたせいで、気分が悪くなる人が（　　）した。",
+      "options": ["続行", "続出", "持続", "継続"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Biển hôm nay sóng cao, do thuyền chòng chành nên lần lượt có nhiều người bị say (thấy khó chịu).",
+        "why": "続出 (ぞくしゅつ) = xuất hiện liên tiếp, lần lượt xảy ra nhiều. Chủ ngữ là \"người bị khó chịu\" → 人が続出する.",
+        "options": [
+          "続行 → ぞっこう: tiếp tục tiến hành (試合を続行する). Sai.",
+          "続出 → ぞくしゅつ: liên tiếp xuất hiện. ĐÚNG.",
+          "持続 → じぞく: duy trì (効果が持続する). Sai.",
+          "継続 → けいぞく: tiếp tục duy trì (công việc, hợp đồng). Sai."
+        ],
+        "vocab": [
+          { "w": "続出", "r": "ぞくしゅつ", "hv": "TỤC XUẤT", "vi": "liên tiếp xuất hiện" },
+          { "w": "続行", "r": "ぞっこう", "hv": "TỤC HÀNH", "vi": "tiếp tục tiến hành" },
+          { "w": "持続", "r": "じぞく", "hv": "TRÌ TỤC", "vi": "duy trì, kéo dài" },
+          { "w": "揺れる", "r": "ゆれる", "hv": "DAO", "vi": "rung lắc, chòng chành" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Người/sự việc \"liên tiếp xuất hiện\" → 続出 (けが人が続出, 苦情が続出)."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "料理中にくしゃみをしたら、小麦粉が（　　）しまった。",
+      "options": ["飛び立って", "飛び上がって", "飛び散って", "飛び降りて"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đang nấu ăn thì tôi hắt hơi, thế là bột mì bay tung tóe khắp nơi.",
+        "why": "飛び散る (とびちる) = bay tung tóe, văng ra tứ phía. Dùng cho bột, nước, mảnh vỡ.",
+        "options": [
+          "飛び立って → 飛び立つ: cất cánh, bay lên (chim, máy bay). Sai.",
+          "飛び上がって → 飛び上がる: nhảy dựng lên. Sai.",
+          "飛び散って → 飛び散る: bay tung tóe. ĐÚNG.",
+          "飛び降りて → 飛び降りる: nhảy xuống. Sai."
+        ],
+        "vocab": [
+          { "w": "飛び散る", "r": "とびちる", "hv": "PHI TÁN", "vi": "bay tung tóe, văng tứ tung" },
+          { "w": "小麦粉", "r": "こむぎこ", "hv": "TIỂU MẠCH PHẤN", "vi": "bột mì" },
+          { "w": "くしゃみ", "r": "くしゃみ", "hv": "", "vi": "cái hắt hơi" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "散る (ちる) = rơi rải rác (桜が散る) → 飛び散る = bay ra rải rác khắp nơi."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "私は大学を卒業したら、（　　）に戻って実家の近くで就職したいと思う。",
+      "options": ["地元", "根元", "土台", "立場"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Sau khi tốt nghiệp đại học, tôi muốn trở về quê nhà và tìm việc gần nhà bố mẹ.",
+        "why": "地元 (じもと) = địa phương nơi mình sinh sống/quê nhà. 地元に戻る = về quê.",
+        "options": [
+          "地元 → じもと: quê nhà, địa phương mình. ĐÚNG.",
+          "根元 → ねもと: gốc (cây), chân. Sai.",
+          "土台 → どだい: nền móng. Sai.",
+          "立場 → たちば: lập trường, vị trí. Sai."
+        ],
+        "vocab": [
+          { "w": "地元", "r": "じもと", "hv": "ĐỊA NGUYÊN", "vi": "địa phương mình, quê nhà" },
+          { "w": "実家", "r": "じっか", "hv": "THỰC GIA", "vi": "nhà bố mẹ đẻ" },
+          { "w": "就職", "r": "しゅうしょく", "hv": "TỰU CHỨC", "vi": "tìm được việc, vào làm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "地元 đọc じもと (không phải ちげん). Gặp nhiều: 地元の人, 地元の野菜."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "中野さんは味に（　　）で、調味料が少し変わっただけで違いがわかるらしい。",
+      "options": ["急激", "機敏", "過激", "敏感"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Nghe nói anh/chị Nakano rất nhạy cảm với vị, chỉ cần gia vị thay đổi một chút là nhận ra sự khác biệt.",
+        "why": "～に敏感だ = nhạy cảm với ～. 味に敏感 = cảm nhận vị rất nhạy.",
+        "options": [
+          "急激 → きゅうげき: đột ngột, gấp (急激な変化). Sai.",
+          "機敏 → きびん: nhanh nhẹn, lanh lợi (hành động). Sai.",
+          "過激 → かげき: cực đoan, quá khích. Sai.",
+          "敏感 → びんかん: nhạy cảm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "敏感", "r": "びんかん", "hv": "MẪN CẢM", "vi": "nhạy cảm" },
+          { "w": "調味料", "r": "ちょうみりょう", "hv": "ĐIỀU VỊ LIỆU", "vi": "gia vị" },
+          { "w": "機敏", "r": "きびん", "hv": "CƠ MẪN", "vi": "nhanh nhẹn, lanh lợi" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cấu trúc ～に敏感/～に鈍感 (どんかん: kém nhạy) đi cặp với nhau."
+      }
+    }
+  ]
+}

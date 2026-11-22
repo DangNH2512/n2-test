@@ -1,0 +1,331 @@
+{
+  "exam": "2010-07",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（１）から（３）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn từ (1) đến (3) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "①<u>会話の技術は、運転技術とよく似ています</u>。ボーッと運転をしていると、事故を起こしかねません。たとえば、数人で楽しく盛り上がっているときに、いきなり入ってきて、自分の話を始める人がいます。あれは、高速道路に加速しないで進入してくる車のようなもので、本人は気づかなくても、入った途端にクラッシュ（注１）しているのです。\nグループに加わりたいときは、まず黙って話を聞くことです。②<u>うなずきながらエンジンを温め</u>、他の車と速度を同じくして会話に加わると、流れにうまく乗ることができます。\nそのうえで、自分の話ばかりしないように注意すること。人は誰でも、自分の話をしたがっているのですから。会話は、ボールゲームのようなものです。サッカーでもバスケットボールでも、ひとりでボールを独占していたら、次からは遊んでもらえなくなります。\nみんなで話しているとき、自分がどれだけ話をしたのか、常に意識していることも必要です。特に、大勢で話しているときは、発言しない人により多くの意識を配ってください。おとなしい人は無視されがちですが、同じ場にいることに敬意を払って、その人にも話を振らない（注２）と。\nつくづく思いますけれど、会話ほど、個人のレベル差が大きいものはありません。充実した会話をしたいのであれば、それなりの準備や練習は必要なのです。私は練習することで得るものは大きいと思いますよ。その中に、人生を変える出会いや幸運が潜んでいる（注３）のではないでしょうか。\n（斎藤孝『「できる人」の極意！』による）\n（注１）クラッシュする：衝突事故を起こす\n（注２）話を振る：話す機会を与える\n（注３）潜んでいる：隠れている"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "2000年から2001年にかけて、全国紙として有名な新聞が、基本の活字を少し大きなものに変えました。地方紙も同じだったと思います。高齢者人口の増加が原因でしょうが、新聞を読む人の総数の中で、老眼鏡（注１）を必要とする人の割合が増えたからです。\n新聞だって「お客様は神様」でしょうから、その「神様」のニーズに沿って紙面を変えるということは、当然のことです。その案内の記事では、これまでの活字と新しい活字を比較して、いかに見やすくなったかがしめされていて、わかりやすく納得できるものでした。そして、各社ほとんど同じことを書いていたと思いますが、紙面の大きさは変えないわけだから、「文字が大きくなった分、文字数を減らさねばなりません。そこで、記事は要点をおさえ（注２）簡略化して適切化をはかる（注３）」というような説明になっていました。なるほどと思う一方、①<u>これまではそうでなかった</u>のかなとも思いました。\n大きな活字の本も出まわるようになってきました。とくに辞書は同じ内容で同じデザインで大きな版（注４）のものが出て、老眼鏡なしでも利用できるとありがたがられています。ただサイズが大きくなった分、大きく重いという欠点もありますが、その快適さに換えられないという人には②<u>問題になりません</u>。\n（光野有次『みんなでつくるバリアフリー』による）\n（注１）老眼鏡：年をとって近くが見えにくくなった人のための眼鏡\n（注２）要点をおさえる：要点をつかむ\n（注３）適切化をはかる：適切になるようにする\n（注４）版：ここでは、サイズ"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "転職を考えることがときどきある。とはいっても、①<u>それほど本気ではない</u>。ただ、もし別の仕事を選んでいたら、自分はどんな人生だったのかを想像してしまう。想像するだけでもけっこう楽しい。いまの仕事に大きな不満はないが、そうかといって格別面白いというわけでもない。もしこの仕事をしてみたら、自分はもっと充実するのかも、とついつい考えてしまうのだ。\nまあ、隣の芝生はよく見えると言われてしまえばそれまでだが、自分にピッタリの洋服がなかなかないように、誰しも（注１）自分だけの仕事を探しているのだろう。洋服は試着できるが、仕事に関しては、試しにちょっと、というわけにはいかない。もっとも多少働いたとしても、仕事の本質はわからないだろうが。\n昔に比べれば、われわれの職業選択の幅ははるかに拡がっている。だけど、これが②<u>自分の仕事</u>だと胸を張って（注２）言える人は意外と少ないのではないだろうか。\n才能があれば、と思う人がいるかもしれない。子供の頃に憧れていた野球選手とか、大学時代に憧れた映画監督になっていたら、たしかに楽しいだろう。でも、現在、私が思うのは、そんな憧れの世界ではない。たとえ平凡な才能でも、自分にピッタリの仕事を探せればよいと思っている。誰しも、自由な職業選択における自分だけの「必然」（注３）を求めているのではないだろうか。\n（梅崎修『マンガに教わる仕事学』による）\n（注１）誰しも：誰でも\n（注２）胸を張って：自信を持って\n（注３）必然：そうなって当然のこと"
+    }
+  ],
+  "questions": [
+    {
+      "num": 60,
+      "passage": "p1",
+      "stem": "①<u>会話の技術は、運転技術とよく似ています</u>とあるが、この文章ではどんなところが似ていると述べているか。",
+      "options": [
+        "運転で他の車に注意が払える人は会話でも他者に敬意が払えるところ",
+        "会話も車の運転も技術が高ければ仲間と楽しい時間を過ごせるところ",
+        "会話も車の運転のように他者とペースを合わせることが求められるところ",
+        "車の運転で事故を起こさない人は会話も同じように慎重に進められるところ"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Bài nói kỹ năng hội thoại giống kỹ năng lái xe ở điểm nào? → Hội thoại cũng như lái xe, cần hòa nhịp (tốc độ) với người khác.",
+        "why": "Ví dụ trong bài: chen vào câu chuyện đột ngột giống xe vào cao tốc không tăng tốc → “đâm xe”; nên “他の車と速度を同じくして会話に加わる” (hòa tốc độ với xe khác). Điểm giống là phải hòa nhịp với người khác.",
+        "options": [
+          "Người chú ý xe khác thì tôn trọng người khác → bài không so sánh kiểu này. Sai.",
+          "Kỹ thuật cao thì có thời gian vui với bạn bè → không phải điểm giống được nêu. Sai.",
+          "Cần hòa nhịp/tốc độ với người khác. ĐÚNG.",
+          "Người lái xe cẩn thận thì nói chuyện cũng cẩn thận → không được nói. Sai."
+        ],
+        "vocab": [
+          { "w": "加速", "r": "かそく", "hv": "GIA TỐC", "vi": "tăng tốc" },
+          { "w": "進入", "r": "しんにゅう", "hv": "TIẾN NHẬP", "vi": "đi vào, nhập vào" },
+          { "w": "盛り上がる", "r": "もりあがる", "hv": "THỊNH THƯỢNG", "vi": "sôi nổi, hào hứng" },
+          { "w": "途端", "r": "とたん", "hv": "ĐỒ ĐOAN", "vi": "ngay khi" },
+          { "w": "速度", "r": "そくど", "hv": "TỐC ĐỘ", "vi": "tốc độ" }
+        ],
+        "grammar": {
+          "pattern": "～かねない",
+          "meaning": "có thể sẽ (gây ra điều xấu)",
+          "form": "Vます(bỏ ます) + かねない",
+          "example": "ボーッと運転をしていると、事故を起こしかねません。"
+        },
+        "evidence": "うなずきながらエンジンを温め、他の車と速度を同じくして会話に加わると、流れにうまく乗ることができます。",
+        "tip": null
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p1",
+      "stem": "②<u>うなずきながらエンジンを温め</u>とあるが、ここではどういうことか。",
+      "options": [
+        "人の話に軽く返事をしながら車のエンジンを温めること",
+        "自分の話を聞いてもらいながらグループの話も聞くこと",
+        "まずは人の話を聞きながら会話に加わる準備をすること",
+        "静かに自分の話をしながら次の話題に移るのを待つこと"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "“Vừa gật đầu vừa làm nóng máy” nghĩa là gì? → Trước hết vừa nghe người khác nói vừa chuẩn bị để tham gia vào cuộc trò chuyện.",
+        "why": "Câu ngay trước: グループに加わりたいときは、まず黙って話を聞くことです. “Làm nóng máy” là ẩn dụ cho việc chuẩn bị trước khi “nhập làn” (tham gia hội thoại).",
+        "options": [
+          "Làm nóng máy xe thật → hiểu theo nghĩa đen. Sai.",
+          "Được người khác nghe mình nói → trái với “まず黙って聞く”. Sai.",
+          "Vừa nghe vừa chuẩn bị tham gia. ĐÚNG.",
+          "Nói chuyện của mình → trái với “黙って”. Sai."
+        ],
+        "vocab": [
+          { "w": "うなずく", "r": "うなずく", "hv": "", "vi": "gật đầu" },
+          { "w": "温める", "r": "あたためる", "hv": "ÔN", "vi": "làm ấm, làm nóng" },
+          { "w": "加わる", "r": "くわわる", "hv": "GIA", "vi": "tham gia, gia nhập" },
+          { "w": "黙る", "r": "だまる", "hv": "MẶC", "vi": "im lặng" }
+        ],
+        "grammar": null,
+        "evidence": "グループに加わりたいときは、まず黙って話を聞くことです。うなずきながらエンジンを温め、他の車と速度を同じくして会話に加わると、流れにうまく乗ることができます。",
+        "tip": null
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p1",
+      "stem": "みんなで会話をしているときには、どのような注意が必要だと述べているか。",
+      "options": [
+        "自分の発言量を意識しながら、おとなしい人にも話してもらうようにすること",
+        "発言が少ない人やおとなしい人の話をよく聞き、それに答えるようにすること",
+        "ふだん発言しない人も、みんなの話をよく聞いて会話に参加するようにすること",
+        "おとなしい人も、大勢で話すときは意識して他の人に話しかけるようにすること"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Khi nói chuyện nhiều người, cần chú ý điều gì? → Vừa ý thức lượng mình đã nói, vừa tạo cơ hội để cả người trầm tính cũng được nói.",
+        "why": "Bài: 自分がどれだけ話をしたのか、常に意識している (ý thức mình đã nói bao nhiêu) + おとなしい人…にも話を振らないと (phải trao lượt nói cho người trầm tính).",
+        "options": [
+          "Ý thức lượng phát ngôn + để người trầm tính nói. ĐÚNG.",
+          "Nghe và trả lời người ít nói → bài nói “trao lượt nói” chứ không nói “trả lời họ”. Sai.",
+          "Người ít nói phải tự tham gia → lời khuyên dành cho người nói nhiều, không phải người ít nói. Sai.",
+          "Người trầm tính phải chủ động bắt chuyện → sai đối tượng. Sai."
+        ],
+        "vocab": [
+          { "w": "意識", "r": "いしき", "hv": "Ý THỨC", "vi": "ý thức" },
+          { "w": "発言", "r": "はつげん", "hv": "PHÁT NGÔN", "vi": "phát biểu, lời nói" },
+          { "w": "敬意を払う", "r": "けいいをはらう", "hv": "KÍNH Ý", "vi": "bày tỏ sự tôn trọng" },
+          { "w": "話を振る", "r": "はなしをふる", "hv": "", "vi": "trao lượt nói cho ai" }
+        ],
+        "grammar": {
+          "pattern": "～ないと",
+          "meaning": "phải ～ (rút gọn của ～ないといけない)",
+          "form": "Vない + と",
+          "example": "その人にも話を振らないと。"
+        },
+        "evidence": "みんなで話しているとき、自分がどれだけ話をしたのか、常に意識していることも必要です。…おとなしい人は無視されがちですが、同じ場にいることに敬意を払って、その人にも話を振らないと。",
+        "tip": null
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p2",
+      "stem": "新聞の文字が大きくなった理由は何か。",
+      "options": [
+        "文字を大きくすることで要点がわかりやすくなること",
+        "小さい文字が読みにくい高齢の読者が多くなったこと",
+        "紙面に余裕ができるように記事の表現を簡略化したこと",
+        "高齢者から情報を絞ったほうがよいという意見があったこと"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Lý do chữ trên báo to hơn là gì? → Vì độc giả cao tuổi khó đọc chữ nhỏ đã tăng lên.",
+        "why": "Bài: 高齢者人口の増加が原因…老眼鏡を必要とする人の割合が増えたからです → người cần kính lão (khó nhìn chữ nhỏ) tăng.",
+        "options": [
+          "Chữ to giúp dễ nắm ý chính → không phải lý do. Sai.",
+          "Độc giả cao tuổi khó đọc chữ nhỏ tăng lên. ĐÚNG.",
+          "Rút gọn bài để dư chỗ → đây là hệ quả của việc tăng cỡ chữ, không phải lý do. Sai.",
+          "Người cao tuổi muốn giảm thông tin → không được nhắc. Sai."
+        ],
+        "vocab": [
+          { "w": "活字", "r": "かつじ", "hv": "HOẠT TỰ", "vi": "chữ in, con chữ" },
+          { "w": "高齢者", "r": "こうれいしゃ", "hv": "CAO LINH GIẢ", "vi": "người cao tuổi" },
+          { "w": "老眼鏡", "r": "ろうがんきょう", "hv": "LÃO NHÃN KÍNH", "vi": "kính lão" },
+          { "w": "割合", "r": "わりあい", "hv": "CÁT HỢP", "vi": "tỷ lệ" }
+        ],
+        "grammar": null,
+        "evidence": "高齢者人口の増加が原因でしょうが、新聞を読む人の総数の中で、老眼鏡を必要とする人の割合が増えたからです。",
+        "tip": null
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p2",
+      "stem": "①<u>これまではそうでなかった</u>とは、どういう意味か。",
+      "options": [
+        "以前の紙面は活字の大きさを内容ほど重視していなかった。",
+        "以前の紙面は高齢の読者のニーズに十分こたえていなかった。",
+        "以前の紙面は重要な情報が簡潔にまとめて書かれていなかった。",
+        "以前の紙面は読者が納得できるほど詳しく説明していなかった。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "“Trước đây không như vậy” có nghĩa là gì? → Trước đây báo không viết thông tin quan trọng một cách ngắn gọn, súc tích.",
+        "why": "“そう” chỉ câu ngay trước: 記事は要点をおさえ簡略化して適切化をはかる (bài viết sẽ nắm ý chính, giản lược cho phù hợp). Tác giả châm biếm: vậy trước đây báo không làm thế sao? → trước đây không viết gọn ý chính.",
+        "options": [
+          "Không coi trọng cỡ chữ bằng nội dung → không liên quan đến “そう”. Sai.",
+          "Chưa đáp ứng nhu cầu người già → không phải điều “そう” chỉ. Sai.",
+          "Thông tin quan trọng không được viết ngắn gọn. ĐÚNG.",
+          "Giải thích chưa đủ chi tiết → ngược hướng (vấn đề là ngắn gọn). Sai."
+        ],
+        "vocab": [
+          { "w": "要点", "r": "ようてん", "hv": "YẾU ĐIỂM", "vi": "điểm chính" },
+          { "w": "簡略化", "r": "かんりゃくか", "hv": "GIẢN LƯỢC HÓA", "vi": "giản lược hóa" },
+          { "w": "簡潔", "r": "かんけつ", "hv": "GIẢN KHIẾT", "vi": "ngắn gọn, súc tích" },
+          { "w": "紙面", "r": "しめん", "hv": "CHỈ DIỆN", "vi": "mặt báo, trang báo" }
+        ],
+        "grammar": {
+          "pattern": "～ねばならない",
+          "meaning": "phải ～ (văn viết, = なければならない)",
+          "form": "Vない(bỏ ない) + ねばならない",
+          "example": "文字数を減らさねばなりません。"
+        },
+        "evidence": "「文字が大きくなった分、文字数を減らさねばなりません。そこで、記事は要点をおさえ簡略化して適切化をはかる」というような説明になっていました。なるほどと思う一方、これまではそうでなかったのかなとも思いました。",
+        "tip": "Đại từ そう luôn chỉ nội dung ngay trước nó."
+      }
+    },
+    {
+      "num": 65,
+      "passage": "p2",
+      "stem": "②<u>問題になりません</u>とあるが、何が問題にならないのか。",
+      "options": [
+        "本を軽くするために活字が小さくなったこと",
+        "老眼鏡を持っていないと少し読みにくいこと",
+        "活字が大きくなって情報が少しだけ減ったこと",
+        "文字が拡大されて辞書が以前より重くなったこと"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "“Không thành vấn đề” – điều gì không thành vấn đề? → Việc chữ được phóng to làm cuốn từ điển nặng hơn trước.",
+        "why": "Câu trước: サイズが大きくなった分、大きく重いという欠点もありますが → nhược điểm “to và nặng”; với người coi trọng sự thoải mái thì nhược điểm ấy “không thành vấn đề”.",
+        "options": [
+          "Chữ nhỏ đi để sách nhẹ → ngược lại. Sai.",
+          "Không có kính lão thì khó đọc → từ điển cỡ lớn dùng được không cần kính. Sai.",
+          "Chữ to nên thông tin giảm → nói về báo, và từ điển “同じ内容”. Sai.",
+          "Chữ phóng to làm từ điển nặng hơn. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "欠点", "r": "けってん", "hv": "KHIẾM ĐIỂM", "vi": "khuyết điểm" },
+          { "w": "快適", "r": "かいてき", "hv": "KHOÁI THÍCH", "vi": "thoải mái, dễ chịu" },
+          { "w": "換える", "r": "かえる", "hv": "HOÁN", "vi": "đổi, thay thế" },
+          { "w": "拡大", "r": "かくだい", "hv": "KHUẾCH ĐẠI", "vi": "phóng to, mở rộng" }
+        ],
+        "grammar": {
+          "pattern": "～分(ぶん)",
+          "meaning": "tương ứng với phần ～ (bao nhiêu… thì bấy nhiêu)",
+          "form": "Vた / Aい / Nの + 分",
+          "example": "サイズが大きくなった分、重くなった。"
+        },
+        "evidence": "ただサイズが大きくなった分、大きく重いという欠点もありますが、その快適さに換えられないという人には問題になりません。",
+        "tip": null
+      }
+    },
+    {
+      "num": 66,
+      "passage": "p3",
+      "stem": "①<u>それほど本気ではない</u>理由として、本文から考えられることはどれか。",
+      "options": [
+        "いまの仕事が嫌なわけではないこと",
+        "いまから転職をするのは難しいこと",
+        "いまの仕事がとても充実していること",
+        "いままで別の仕事をしたことがないこと"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Lý do “không thực sự nghiêm túc” (với việc chuyển việc) suy ra từ bài là gì? → Vì không phải là ghét công việc hiện tại.",
+        "why": "Bài: いまの仕事に大きな不満はない (không bất mãn lớn với công việc hiện tại) → nên ý định chuyển việc chỉ là tưởng tượng, không nghiêm túc.",
+        "options": [
+          "Không phải ghét công việc hiện tại. ĐÚNG.",
+          "Chuyển việc bây giờ khó → không được nhắc. Sai.",
+          "Công việc hiện tại rất thỏa mãn → sai, bài nói 格別面白いというわけでもない. Sai.",
+          "Chưa từng làm việc khác → không được nhắc. Sai."
+        ],
+        "vocab": [
+          { "w": "本気", "r": "ほんき", "hv": "BẢN KHÍ", "vi": "nghiêm túc, thật lòng" },
+          { "w": "不満", "r": "ふまん", "hv": "BẤT MÃN", "vi": "bất mãn" },
+          { "w": "格別", "r": "かくべつ", "hv": "CÁCH BIỆT", "vi": "đặc biệt" },
+          { "w": "充実", "r": "じゅうじつ", "hv": "SUNG THỰC", "vi": "đầy đủ, viên mãn" }
+        ],
+        "grammar": {
+          "pattern": "～というわけでもない",
+          "meaning": "cũng không hẳn là ～",
+          "form": "普通形 + というわけでもない",
+          "example": "嫌いというわけでもないが、あまり食べない。"
+        },
+        "evidence": "いまの仕事に大きな不満はないが、そうかといって格別面白いというわけでもない。",
+        "tip": "Bẫy phương án 3: bài nói “không bất mãn” chứ không nói “rất viên mãn”."
+      }
+    },
+    {
+      "num": 67,
+      "passage": "p3",
+      "stem": "②<u>自分の仕事</u>とはどのような仕事か。",
+      "options": [
+        "特別な才能が必要な仕事",
+        "他人がうらやましがる仕事",
+        "自分に最も合っている仕事",
+        "子供の頃から憧れていた仕事"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "“Công việc của chính mình” là công việc như thế nào? → Là công việc phù hợp nhất với bản thân.",
+        "why": "Bài so sánh với “自分にピッタリの洋服” (bộ quần áo vừa vặn với mình) và kết: たとえ平凡な才能でも、自分にピッタリの仕事を探せればよい → 自分の仕事 = việc vừa vặn nhất với mình.",
+        "options": [
+          "Việc cần tài năng đặc biệt → tác giả nói dù tài năng bình thường cũng được. Sai.",
+          "Việc người khác ghen tị → không được nhắc. Sai.",
+          "Việc phù hợp nhất với bản thân. ĐÚNG.",
+          "Việc ngưỡng mộ từ nhỏ → tác giả nói 私が思うのは、そんな憧れの世界ではない. Sai."
+        ],
+        "vocab": [
+          { "w": "ピッタリ", "r": "ぴったり", "hv": "", "vi": "vừa khít, phù hợp" },
+          { "w": "憧れる", "r": "あこがれる", "hv": "SUNG", "vi": "ngưỡng mộ, khao khát" },
+          { "w": "才能", "r": "さいのう", "hv": "TÀI NĂNG", "vi": "tài năng" },
+          { "w": "平凡", "r": "へいぼん", "hv": "BÌNH PHÀM", "vi": "bình thường" }
+        ],
+        "grammar": null,
+        "evidence": "たとえ平凡な才能でも、自分にピッタリの仕事を探せればよいと思っている。",
+        "tip": null
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p3",
+      "stem": "この文章で筆者が言いたいことは何か。",
+      "options": [
+        "職業の選択が自由になり、昔よりも自分に合った仕事を探しやすくなった",
+        "自由に仕事を選べるので、仕事の本質を理解したいと考える人が増えている",
+        "自由に仕事を選べる環境で、だれもが自分に適した仕事をしたいと考えている",
+        "職業の選択の幅が拡がったため、いまではだれでも自由に転職できるようになった"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Điều tác giả muốn nói là gì? → Trong môi trường được tự do chọn nghề, ai cũng muốn làm công việc phù hợp với mình.",
+        "why": "Câu kết: 誰しも、自由な職業選択における自分だけの「必然」を求めているのではないだろうか → ai cũng tìm công việc “tất yếu” dành riêng cho mình trong sự tự do chọn nghề.",
+        "options": [
+          "Dễ tìm việc phù hợp hơn → tác giả nói người tự tin “đây là việc của mình” lại ít. Sai.",
+          "Nhiều người muốn hiểu bản chất công việc → không phải ý chính. Sai.",
+          "Ai cũng muốn làm công việc phù hợp với mình. ĐÚNG.",
+          "Ai cũng có thể tự do chuyển việc → không phải ý chính. Sai."
+        ],
+        "vocab": [
+          { "w": "職業選択", "r": "しょくぎょうせんたく", "hv": "CHỨC NGHIỆP TUYỂN TRẠCH", "vi": "lựa chọn nghề nghiệp" },
+          { "w": "必然", "r": "ひつぜん", "hv": "TẤT NHIÊN", "vi": "điều tất yếu" },
+          { "w": "拡がる", "r": "ひろがる", "hv": "KHUẾCH", "vi": "mở rộng" },
+          { "w": "誰しも", "r": "だれしも", "hv": "", "vi": "bất kỳ ai" }
+        ],
+        "grammar": null,
+        "evidence": "誰しも、自由な職業選択における自分だけの「必然」を求めているのではないだろうか。",
+        "tip": "Câu hỏi ý chính → thường nằm ở câu cuối dạng ～のではないだろうか."
+      }
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "exam": "2011-07",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、（50）から（54）の中に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án thích hợp nhất cho các chỗ trống (50)–(54).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "日本の鉄道ファン",
+      "text": "日本の鉄道ファン\n鉄道ファンとは、鉄道が好きで鉄道に関することを趣味にしている人たちのことだ。鉄道ファンは単に「鉄」と言われたりもする。日本では、これまでは「鉄」といえば男性だと思われていたが、近年は女性のファンが急増しているらしい。\nところで、彼ら鉄道ファンたちは（50）趣味を楽しんでいるのだろうか。\n一言で鉄道ファンといってもその趣味の内容は多種多様だ。そして、電車に乗るのが好きな「鉄」は「乗り鉄」というように、それぞれその内容に対応した呼び名がある。「乗り鉄」（51）、写真を撮るのが好きな「撮り鉄」、車両や鉄道がある風景を描く「描き鉄」、鉄道の模型が好きな「模型鉄」などだ。\nある40代の「乗り鉄」の女性は鉄道の魅力を（52）語る。「窓の外の風景をながめていると旅の気分が味わえるし、車と違って座っているだけで目的地に着けるのがいい」。「模型鉄」である30代の男性は、模型の魅力について「車両の形を見ているだけでうっとり。本物は買えないけど模型なら買えるし」と説明する。\nまた、最近急増している女性ファンには「ママ鉄」も多い。電車を見たがる子どもを連れて電車を見に行くうち、自分も鉄道ファンになってしまったという人たちだ。（53）の特徴は、他の「鉄」とは異なり、ホームではなく、電車が見えるところにある公園やレストランなど、子どもと一緒にゆっくり過ごせる場所で電車を見るという点である。\n鉄道ファンにはいろいろなタイプがあり、楽しみ方も（54）。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["それほど", "どのように", "それでも", "どちらの"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Vậy thì những người hâm mộ đường sắt ấy tận hưởng sở thích của mình như thế nào?",
+        "why": "Câu kết bằng ～のだろうか là câu hỏi, và phần sau giải thích các cách thưởng thức (乗り鉄、撮り鉄…) → cần từ để hỏi về cách thức: どのように.",
+        "options": [
+          "それほど: đến mức đó – không phải từ để hỏi. Sai.",
+          "どのように: như thế nào. ĐÚNG.",
+          "それでも: dù vậy – không hợp mạch. Sai.",
+          "どちらの: cái nào (trong hai) – cần danh từ theo sau, không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "趣味", "r": "しゅみ", "hv": "THÚ VỊ", "vi": "sở thích" },
+          { "w": "急増", "r": "きゅうぞう", "hv": "CẤP TĂNG", "vi": "tăng nhanh" }
+        ],
+        "grammar": null,
+        "evidence": "一言で鉄道ファンといってもその趣味の内容は多種多様だ。",
+        "tip": "Câu ～のだろうか thường là câu hỏi nêu vấn đề, đoạn sau sẽ trả lời."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["にかわって", "によって", "のうえ", "のほか"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Ngoài 'nori-tetsu' ra còn có 'tori-tetsu' thích chụp ảnh, 'kaki-tetsu' vẽ tàu và phong cảnh đường sắt, 'mokei-tetsu' thích mô hình tàu…",
+        "why": "Đoạn này liệt kê thêm các loại 鉄 khác bên cạnh 乗り鉄 vừa nêu → Nのほか = ngoài N ra (còn có).",
+        "options": [
+          "にかわって: thay cho – không phải thay thế. Sai.",
+          "によって: tùy theo/bởi – không hợp. Sai.",
+          "のうえ: ～の上 = sau khi/thêm vào (dùng với hành động: 相談のうえ). Sai.",
+          "のほか: ngoài ra còn. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "撮る", "r": "とる", "hv": "TOÁT", "vi": "chụp (ảnh)" },
+          { "w": "描く", "r": "えがく", "hv": "MIÊU", "vi": "vẽ, miêu tả" },
+          { "w": "模型", "r": "もけい", "hv": "MÔ HÌNH", "vi": "mô hình" }
+        ],
+        "grammar": {
+          "pattern": "Nのほか（に）",
+          "meaning": "ngoài N ra (còn có)",
+          "form": "N＋のほか",
+          "example": "日本語のほか、英語も話せる。"
+        },
+        "evidence": "「乗り鉄」（51）、写真を撮るのが好きな「撮り鉄」、車両や鉄道がある風景を描く「描き鉄」、鉄道の模型が好きな「模型鉄」などだ。",
+        "tip": "Thấy liệt kê ～、～、～などだ → のほか."
+      }
+    },
+    {
+      "num": 52,
+      "passage": "p1",
+      "stem": "（52）に入るもの",
+      "options": ["こう", "そう", "同様に", "以上のように"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Một phụ nữ 40 tuổi thuộc nhóm 'nori-tetsu' nói về sức hấp dẫn của đường sắt như sau.",
+        "why": "Lời nói được dẫn ngay phía SAU (「窓の外の…」) → dùng こう (như thế này, như sau) để chỉ nội dung sắp nói.",
+        "options": [
+          "こう: như sau (chỉ nội dung phía sau). ĐÚNG.",
+          "そう: như thế (chỉ nội dung đã nói phía trước). Sai.",
+          "同様に: tương tự – không có gì để so sánh. Sai.",
+          "以上のように: như đã nói ở trên – dùng để tổng kết. Sai."
+        ],
+        "vocab": [
+          { "w": "魅力", "r": "みりょく", "hv": "MỊ LỰC", "vi": "sức hấp dẫn" },
+          { "w": "語る", "r": "かたる", "hv": "NGỮ", "vi": "kể, nói" }
+        ],
+        "grammar": null,
+        "evidence": "ある40代の「乗り鉄」の女性は鉄道の魅力を（52）語る。「窓の外の風景をながめていると旅の気分が味わえるし…」",
+        "tip": "こう → chỉ phía sau; そう → chỉ phía trước."
+      }
+    },
+    {
+      "num": 53,
+      "passage": "p1",
+      "stem": "（53）に入るもの",
+      "options": ["鉄道ファン", "女性ファン", "彼女たち", "大人たち"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Đặc trưng của họ (các 'mama-tetsu') là, khác với các 'tetsu' khác, họ ngắm tàu không phải ở sân ga mà ở những nơi có thể thư thả cùng con như công viên, nhà hàng nhìn thấy tàu.",
+        "why": "Chỗ trống chỉ nhóm 'ママ鉄' vừa được giới thiệu ở câu trước (những bà mẹ) → dùng đại từ 彼女たち.",
+        "options": [
+          "鉄道ファン: quá chung, không phải toàn bộ fan đều như vậy. Sai.",
+          "女性ファン: không phải mọi fan nữ đều là ママ鉄. Sai.",
+          "彼女たち: họ (các bà mẹ ママ鉄). ĐÚNG.",
+          "大人たち: quá chung chung. Sai."
+        ],
+        "vocab": [
+          { "w": "特徴", "r": "とくちょう", "hv": "ĐẶC TRƯNG", "vi": "đặc điểm" },
+          { "w": "異なる", "r": "ことなる", "hv": "DỊ", "vi": "khác" }
+        ],
+        "grammar": null,
+        "evidence": "電車を見たがる子どもを連れて電車を見に行くうち、自分も鉄道ファンになってしまったという人たちだ。",
+        "tip": "Chỗ trống chỉ người vừa nêu ở câu trước → chọn đại từ thay thế."
+      }
+    },
+    {
+      "num": 54,
+      "passage": "p1",
+      "stem": "（54）に入るもの",
+      "options": ["さまざまだ", "さまざまだと言われた", "さまざまである点だ", "さまざまだと思われている"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Người hâm mộ đường sắt có nhiều kiểu, và cách thưởng thức cũng muôn màu muôn vẻ.",
+        "why": "Đây là câu kết luận của người viết dựa trên các ví dụ đã nêu → khẳng định trực tiếp さまざまだ.",
+        "options": [
+          "さまざまだ: đa dạng (kết luận của tác giả). ĐÚNG.",
+          "さまざまだと言われた: 'đã bị/được nói là' – thì quá khứ, như lời người khác, không hợp kết luận. Sai.",
+          "さまざまである点だ: ～点だ cần chủ ngữ kiểu 特徴は…, không hợp. Sai.",
+          "さまざまだと思われている: 'người ta cho rằng' – không phải kết luận của tác giả. Sai."
+        ],
+        "vocab": [
+          { "w": "様々", "r": "さまざま", "hv": "DẠNG", "vi": "đa dạng, nhiều loại" }
+        ],
+        "grammar": null,
+        "evidence": "鉄道ファンにはいろいろなタイプがあり、楽しみ方も（54）。",
+        "tip": "Câu kết bài văn giới thiệu → thường là khẳng định của tác giả, không dùng truyền đạt."
+      }
+    }
+  ]
+}

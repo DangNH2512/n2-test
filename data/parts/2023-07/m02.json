@@ -1,0 +1,141 @@
+{
+  "exam": "2023-07",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết chữ Hán đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "その<u>ぬの</u>を広げてください。",
+      "options": ["布", "袋", "衣", "帯"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hãy trải tấm vải đó ra.",
+        "why": "ぬの viết là 布 (BỐ) = vải. 布を広げる = trải vải ra.",
+        "options": [
+          "布 → ぬの: vải. ĐÚNG.",
+          "袋 → ふくろ: cái túi. Sai.",
+          "衣 → ころも: y phục, áo (âm On い: 衣服). Sai.",
+          "帯 → おび: thắt lưng obi. Sai."
+        ],
+        "vocab": [
+          { "w": "布", "r": "ぬの", "hv": "BỐ", "vi": "vải" },
+          { "w": "毛布", "r": "もうふ", "hv": "MAO BỐ", "vi": "chăn lông" },
+          { "w": "袋", "r": "ふくろ", "hv": "ĐẠI", "vi": "túi" },
+          { "w": "帯", "r": "おび", "hv": "ĐỚI", "vi": "đai, thắt lưng obi" },
+          { "w": "広げる", "r": "ひろげる", "hv": "QUẢNG", "vi": "mở rộng, trải ra" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "布 âm On là ふ: 毛布 (もうふ), 財布 (さいふ, ví tiền), 配布 (はいふ, phát)."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "今後は、<u>ふくし</u>の仕事に就く予定です。",
+      "options": ["福支", "副祉", "福祉", "副支"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Sắp tới tôi dự định làm công việc trong ngành phúc lợi xã hội.",
+        "why": "ふくし viết là 福祉 (PHÚC CHỈ) = phúc lợi. Cả hai chữ đều có bộ 礻 (thần, may mắn): 福 + 祉.",
+        "options": [
+          "福支 → 支 (CHI: chi trả) không đúng. Sai.",
+          "副祉 → 副 (PHÓ: phụ) sai chữ ふく. Sai.",
+          "福祉 → phúc lợi xã hội. ĐÚNG.",
+          "副支 → sai cả hai chữ. Sai."
+        ],
+        "vocab": [
+          { "w": "福祉", "r": "ふくし", "hv": "PHÚC CHỈ", "vi": "phúc lợi (xã hội)" },
+          { "w": "副", "r": "ふく", "hv": "PHÓ", "vi": "phụ, phó (副作用: tác dụng phụ)" },
+          { "w": "就く", "r": "つく", "hv": "TỰU", "vi": "đảm nhận (công việc, chức vụ)" },
+          { "w": "今後", "r": "こんご", "hv": "KIM HẬU", "vi": "từ nay về sau" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "福祉: hai chữ cùng bộ 礻 (may mắn, phúc). 副 có bộ 刂 (dao) → phó, phụ."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "毎日たくさんのごみが<u>すてられて</u>いる。",
+      "options": ["拾てられて", "投てられて", "採てられて", "捨てられて"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Mỗi ngày có rất nhiều rác bị vứt bỏ.",
+        "why": "すてる viết là 捨てる (XẢ) = vứt, bỏ. Dạng bị động: 捨てられる.",
+        "options": [
+          "拾てられて → 拾 đọc ひろう (nhặt), nghĩa ngược lại. Sai.",
+          "投てられて → 投 đọc なげる (ném). Sai.",
+          "採てられて → 採 đọc とる (hái, tuyển). Sai.",
+          "捨てられて → 捨てる: vứt bỏ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "捨てる", "r": "すてる", "hv": "XẢ", "vi": "vứt, bỏ" },
+          { "w": "拾う", "r": "ひろう", "hv": "THẬP", "vi": "nhặt" },
+          { "w": "投げる", "r": "なげる", "hv": "ĐẦU", "vi": "ném" },
+          { "w": "採る", "r": "とる", "hv": "THÁI", "vi": "hái, thu nhận, tuyển" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "捨 (vứt) và 拾 (nhặt) nhìn giống nhau và nghĩa trái ngược – rất hay ra thi. 捨 có 舎 (nhà) bên phải."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "小山さんの<u>きげん</u>がよいときに頼んでみよう。",
+      "options": ["機兼", "機嫌", "気嫌", "気兼"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hãy thử nhờ anh Koyama lúc anh ấy đang vui vẻ (tâm trạng tốt).",
+        "why": "きげん (tâm trạng) viết là 機嫌 (CƠ HIỀM). 機嫌がいい = tâm trạng tốt, vui vẻ.",
+        "options": [
+          "機兼 → 兼 (KIÊM) sai chữ げん. Sai.",
+          "機嫌 → tâm trạng. ĐÚNG.",
+          "気嫌 → 気 sai chữ き (dễ nhầm vì liên quan cảm xúc). Sai.",
+          "気兼 → 気兼ね (きがね): ngại ngùng, e dè – từ khác. Sai."
+        ],
+        "vocab": [
+          { "w": "機嫌", "r": "きげん", "hv": "CƠ HIỀM", "vi": "tâm trạng" },
+          { "w": "不機嫌", "r": "ふきげん", "hv": "BẤT CƠ HIỀM", "vi": "khó chịu, bực bội" },
+          { "w": "嫌う", "r": "きらう", "hv": "HIỀM", "vi": "ghét" },
+          { "w": "気兼ね", "r": "きがね", "hv": "KHÍ KIÊM", "vi": "ngại, e dè" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "機嫌 dùng 機 (máy móc, cơ hội) chứ không phải 気 – bẫy kinh điển. 嫌 đọc げん trong 機嫌."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "これは、会社にとって大きな<u>そんしつ</u>だ。",
+      "options": ["削失", "隕失", "消失", "損失"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Đây là một tổn thất lớn đối với công ty.",
+        "why": "そんしつ viết là 損失 (TỔN THẤT) = tổn thất, thiệt hại. 損 âm On là そん (損害, 損をする).",
+        "options": [
+          "削失 → 削 (TƯỚC: gọt, cắt) đọc さく. Sai.",
+          "隕失 → 隕 (VẪN: rơi, 隕石 いんせき) đọc いん. Sai.",
+          "消失 → しょうしつ: biến mất, tiêu tan – âm khác. Sai.",
+          "損失 → そんしつ: tổn thất. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "損失", "r": "そんしつ", "hv": "TỔN THẤT", "vi": "tổn thất" },
+          { "w": "損害", "r": "そんがい", "hv": "TỔN HẠI", "vi": "thiệt hại" },
+          { "w": "消失", "r": "しょうしつ", "hv": "TIÊU THẤT", "vi": "biến mất" },
+          { "w": "削除", "r": "さくじょ", "hv": "TƯỚC TRỪ", "vi": "xóa bỏ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "損 (tổn) có bộ 扌. Trái nghĩa: 得 (とく) → 損得 (そんとく: lời lỗ)."
+      }
+    }
+  ]
+}

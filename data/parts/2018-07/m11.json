@@ -1,0 +1,316 @@
+{
+  "exam": "2018-07",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（１）から（３）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(3) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "大学の先生のイメージとは、一般的にはどのようなものだろうか。理系だと白衣を着て難しい話ばかりする人、文系だと研究室に閉じこもって（注1）文学作品を読んでいる人、という声が周囲から聞こえてきた。確かにそれに近い人はいるのだが、もちろんそうでない人も多い。これは政治家、警察官、医者などにも当てはまることであり、私たちはどうしても先入観（注2）を持ってしまうため、それが誤解を生む原因になるのだ。\n誤解は相手の先入観だけでなく、自分が原因であることも多い。その大きなものが、<u>話す際の省略</u>である。時間がないときなど、どうしても内容を一部省略して報告する必要がでてくる。時間があっても全ての情報をきちんと伝えるのは無理であろう。そうなると相手は自分の意図とは異なる形で補うために誤解につながっていくのだ。\n（中略）\n省略が多くなるメールは特に注意が必要で、込み入った（注3）内容を伝える場合はできるだけ直接会った方がよい。会うのは時間をとられて面倒だと感じるかもしれないが、その方が結局、問題が早く片付くこともあるのだ。\nまた、誤解のプラスといえる面にも気が付いた。それは誤解によって人々の考えに自然に多様性が生まれるということだ。様々な意見があることは、健全な（注4）社会のための重要な要素である。誤解は一般的には悪者扱いであるが、多様性をつくる仕掛け（注5）だと思えば少し見方も変わってくるのではないだろうか。\n\n（注1）閉じこもって：入ったまま\n（注2）先入観：思い込み\n（注3）込み入って：複雑な\n（注4）健全な：正常な\n（注5）仕掛け：仕組み"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "昔の小中学生は、遠足や修学旅行のとき、車窓の風景を真剣に眺めていたものだ。見知らぬ（注1）土地の風物（注2）に、興味をかきたてられて（注3）いたのである。\nところが、最近の小中学生は、乗り物の窓の外を眺めようとはせず、バスの中ではマイクをにぎって歌に夢中になっているらしい。あるいはクイズやゲームを楽しんでいるという。そんな話を、諏訪に講演に行ったとき、小学校の校長先生からうかがった。\nわたしは、それを「目的地主義」と名づけようと思う。最近の人々の考えでは、旅は目的地に着いてからはじまる。目的地に到着するまでの移動の時間は、どうも無駄な時間に感じられている。それをなんとか工夫して楽しくしようというのが、車内におけるカラオケやゲームである。（中略）\nかつての旅は、道中が楽しかった。弥次喜多（注4）の東海道中も、水戸黄門の漫遊も、むしろ道中そのもの（注5）に意義があった。ところが、新幹線や空の旅になると、旅の途中は退屈に感じられる。とくに空の旅は、途中はなんにもない。それで、わたしたちの旅の意識が、目的地主義になってしまったようだ。\n旅の意識が変わるだけならまだいい。恐ろしいのは、わたしたちの人生に対する態度が、目的地主義になってはいないか…という心配である。人生は「道中」が大事だ。高校生であれば、高校の三年間の毎日を大切にせねばならない。目的地は大学だから、大学に入ってから人生をはじめる――といった考え方はおかしい。サラリーマンが、課長や部長を目的地にして、そこに至る「道中」を軽視するなら、その人の人生は寂しいものだ。\n\n（注1）見知らぬ：見たことがない\n（注2）風物：自然の景色や人々の暮らしの様子\n（注3）興味をかきたてられる：ここでは、興味がわいてくる\n（注4）弥次喜多の東海道中も、水戸黄門の漫遊も：旅行を題材にした昔の二つの物語のどちらも\n（注5）そのもの：それ自体"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "人工物は人間がある意図のもとにつくり出されたものであるのにも関わらず、その社会に与える影響は設計者の予想を越える場合があり、人工物が人間社会の舵（注1）とりを行なう現象が起きている。たとえばコンピュータは「計算機」という日本語が示すように、当初は計算を行う機器として製作されてきたが、現在ではデータベース（注2）やコミュニケーションなど、さまざまな用途に用いられ、生活環境を大きく変えてきている。\nこのように現代における人工物の大きな影響力を考慮する時、設計者はこれまで以上に人工物のもつ社会的意味を頭に入れ、積極的に設計者の意図を人工物にもたせていくことが必要だと思われる。これからの科学技術、そしてモノ作りにとって何より必要なのは、いったい、これからわたしたち一人一人がどんな生活を送り、どのような社会を作り上げたいのかというビジョン（世界観・価値観）であり、設計者は常にこのビジョンがどのようなものであるか考え、人工物にその価値観をもたせることが必要だと思われる。\nしかし、設計する人々は、一方では、自分の考えとは別に社会の欲する製品を設計することが要求される。マーケットニーズのない製品は売れないからである。こうした場合に設計者が自分の価値観をマーケットニーズとうまく調和させる（注3）ために、設計者の価値観が購買者（注4）の価値観とのなんらかの共通性をもつ必要がある。そのために設計者は社会の状勢（注5）をよく理解し、将来の社会についての予測をたて、人々の価値観を調査したうえで、設計者としてのビジョンをもつことが求められるだろう。\n\n（注1）舵とりを行なう：進む方向を決める\n（注2）データベース：ある目的に合わせて決めた大量の情報\n（注3）調和させる：合わせる\n（注4）購買者：ここでは、消費者\n（注5）状勢：状況"
+    }
+  ],
+  "questions": [
+    {
+      "num": 60,
+      "passage": "p1",
+      "stem": "大学の先生の例を挙げて、筆者が述べていることは何か。",
+      "options": [
+        "職業の一般的なイメージは実態と合っている。",
+        "周囲と違うイメージを持つと誤解が生まれる。",
+        "思い込みから誤解が生まれる。",
+        "誰でも誤解をしてしまうことがある。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Lấy ví dụ giáo viên đại học, tác giả muốn nói gì? → Hiểu lầm sinh ra từ định kiến (suy nghĩ chủ quan).",
+        "why": "Tác giả nói mọi người có hình ảnh cố định về giáo viên đại học, nhưng thực tế nhiều người không như vậy; vì ta luôn có định kiến (先入観 = 思い込み) nên đó là nguyên nhân gây hiểu lầm.",
+        "options": [
+          "Tác giả nói nhiều người KHÔNG giống hình ảnh chung. Sai.",
+          "Vấn đề là định kiến chung, không phải 'khác với xung quanh'. Sai.",
+          "Định kiến (思い込み) → sinh ra hiểu lầm. ĐÚNG.",
+          "Quá chung chung, không phải điểm chính của ví dụ. Sai."
+        ],
+        "vocab": [
+          { "w": "先入観", "r": "せんにゅうかん", "hv": "TIÊN NHẬP QUAN", "vi": "định kiến, thành kiến" },
+          { "w": "思い込み", "r": "おもいこみ", "hv": "TƯ VÀO", "vi": "suy nghĩ chủ quan, tin chắc" },
+          { "w": "誤解", "r": "ごかい", "hv": "NGỘ GIẢI", "vi": "hiểu lầm" },
+          { "w": "当てはまる", "r": "あてはまる", "hv": "ĐƯƠNG", "vi": "phù hợp, áp dụng được" }
+        ],
+        "grammar": null,
+        "evidence": "私たちはどうしても先入観を持ってしまうため、それが誤解を生む原因になるのだ。",
+        "tip": "Chú thích (注2) 先入観：思い込み chính là chìa khóa – lựa chọn 3 dùng từ 思い込み."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p1",
+      "stem": "<u>話す際の省略</u>が誤解を生むのはなぜか。",
+      "options": [
+        "聞いた人の思い込みが強くなりすぎるから",
+        "聞いた人が省略された内容を補おうとしないから",
+        "聞いた人が省略された内容があることに気が付かないから",
+        "聞いた人が省略された内容とは違うことを補って理解するから"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tại sao việc lược bỏ khi nói lại sinh ra hiểu lầm? → Vì người nghe bổ sung bằng nội dung khác với phần bị lược bỏ.",
+        "why": "Khi bị lược bớt, người nghe tự bổ sung theo cách khác với ý định của người nói → dẫn đến hiểu lầm.",
+        "options": [
+          "Không nói định kiến của người nghe trở nên quá mạnh. Sai.",
+          "Ngược lại, người nghe CÓ bổ sung (補う). Sai.",
+          "Văn bản không đề cập việc không nhận ra có phần bị lược. Sai.",
+          "Bổ sung bằng nội dung khác với ý định → hiểu lầm. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "省略", "r": "しょうりゃく", "hv": "TỈNH LƯỢC", "vi": "lược bỏ" },
+          { "w": "補う", "r": "おぎなう", "hv": "BỔ", "vi": "bổ sung, bù vào" },
+          { "w": "意図", "r": "いと", "hv": "Ý ĐỒ", "vi": "ý định" }
+        ],
+        "grammar": null,
+        "evidence": "そうなると相手は自分の意図とは異なる形で補うために誤解につながっていくのだ。",
+        "tip": null
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p1",
+      "stem": "筆者によると、誤解の良い点はどのようなことか。",
+      "options": [
+        "いろいろな考えが生まれることになる。",
+        "自分の考えの誤りに気付くことができる。",
+        "人に対する間違った見方が変えられる。",
+        "多様な考えを自然に受け入れられるようになる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, điểm tốt của hiểu lầm là gì? → Sinh ra nhiều suy nghĩ khác nhau.",
+        "why": "Mặt tích cực của hiểu lầm là 'nhờ hiểu lầm mà suy nghĩ của mọi người tự nhiên trở nên đa dạng'.",
+        "options": [
+          "Nhiều suy nghĩ khác nhau được sinh ra. ĐÚNG.",
+          "Không nói nhận ra lỗi sai của bản thân. Sai.",
+          "'見方も変わってくる' nói về cách nhìn đối với hiểu lầm, không phải đối với người khác. Sai.",
+          "Đánh tráo: hiểu lầm SINH RA đa dạng, không nói 'dễ chấp nhận đa dạng'. Sai."
+        ],
+        "vocab": [
+          { "w": "多様性", "r": "たようせい", "hv": "ĐA DẠNG TÍNH", "vi": "tính đa dạng" },
+          { "w": "健全", "r": "けんぜん", "hv": "KIỆN TOÀN", "vi": "lành mạnh" },
+          { "w": "悪者扱い", "r": "わるものあつかい", "hv": "ÁC GIẢ TRÁP", "vi": "bị coi là kẻ xấu" }
+        ],
+        "grammar": null,
+        "evidence": "それは誤解によって人々の考えに自然に多様性が生まれるということだ。",
+        "tip": "Lựa chọn 4 lặp lại từ 自然に, 多様 nhưng đổi ý ('chấp nhận') – bẫy điển hình."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p2",
+      "stem": "遠足や修学旅行の移動のときの小中学生の様子について、筆者はどのように述べているか。",
+      "options": [
+        "昔も今も、歌やゲームを楽しんでいる。",
+        "昔も今も、窓の外の風景に興味を示す。",
+        "昔は歌やゲームを楽しんだが、今は楽しもうとしない。",
+        "昔は窓の外の風景に興味を持ったが、今は興味を示さない。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả mô tả học sinh khi di chuyển trong chuyến dã ngoại/du lịch như thế nào? → Ngày xưa hứng thú với phong cảnh ngoài cửa sổ, nay thì không.",
+        "why": "Ngày xưa học sinh chăm chú ngắm cảnh qua cửa sổ xe; còn ngày nay không chịu nhìn ra ngoài mà mải hát karaoke, chơi game.",
+        "options": [
+          "Ngày xưa ngắm cảnh, không phải hát/chơi game. Sai.",
+          "Ngày nay không nhìn ra cửa sổ. Sai.",
+          "Ngược lại: nay mới hát và chơi game. Sai.",
+          "Xưa thích ngắm cảnh, nay không hứng thú. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "遠足", "r": "えんそく", "hv": "VIỄN TÚC", "vi": "dã ngoại" },
+          { "w": "修学旅行", "r": "しゅうがくりょこう", "hv": "TU HỌC LỮ HÀNH", "vi": "chuyến tham quan học tập" },
+          { "w": "眺める", "r": "ながめる", "hv": "THIẾU", "vi": "ngắm nhìn" },
+          { "w": "夢中", "r": "むちゅう", "hv": "MỘNG TRUNG", "vi": "say mê" }
+        ],
+        "grammar": {
+          "pattern": "〜たものだ",
+          "meaning": "ngày xưa thường hay… (hồi tưởng)",
+          "form": "Vた ＋ ものだ",
+          "example": "子どものころ、よくこの川で泳いだものだ。"
+        },
+        "evidence": "昔の小中学生は、遠足や修学旅行のとき、車窓の風景を真剣に眺めていたものだ。…ところが、最近の小中学生は、乗り物の窓の外を眺めようとはせず、",
+        "tip": null
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p2",
+      "stem": "「目的地主義」とはどのようなことか。",
+      "options": [
+        "旅は早く目的地に着くことが大事だと考える。",
+        "目的地に着いてからの時間が旅だと考える。",
+        "目的地に着くまでの旅の時間を楽しもうと考える。",
+        "目的地を決めることから旅ははじまると考える。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "'Chủ nghĩa điểm đến' là gì? → Cho rằng thời gian sau khi đến điểm đến mới là chuyến đi.",
+        "why": "Ngay sau khi đặt tên, tác giả giải thích: theo suy nghĩ ngày nay, chuyến đi bắt đầu từ khi đến nơi; thời gian di chuyển bị coi là lãng phí.",
+        "options": [
+          "Không nói 'đến nhanh là quan trọng'. Sai.",
+          "Chuyến đi = thời gian sau khi đến nơi. ĐÚNG.",
+          "Việc làm thời gian di chuyển vui hơn (karaoke) là hệ quả, không phải định nghĩa; và tư duy này coi đó là thời gian vô ích. Sai.",
+          "Không nhắc đến việc chọn điểm đến. Sai."
+        ],
+        "vocab": [
+          { "w": "目的地", "r": "もくてきち", "hv": "MỤC ĐÍCH ĐỊA", "vi": "điểm đến" },
+          { "w": "到着", "r": "とうちゃく", "hv": "ĐÁO TRƯỚC", "vi": "đến nơi" },
+          { "w": "無駄", "r": "むだ", "hv": "VÔ ĐÀ", "vi": "lãng phí, vô ích" }
+        ],
+        "grammar": null,
+        "evidence": "最近の人々の考えでは、旅は目的地に着いてからはじまる。目的地に到着するまでの移動の時間は、どうも無駄な時間に感じられている。",
+        "tip": "Câu hỏi về định nghĩa → tìm câu giải thích ngay sau từ khóa."
+      }
+    },
+    {
+      "num": 65,
+      "passage": "p2",
+      "stem": "筆者が言いたいことは何か。",
+      "options": [
+        "人生は目標に至る過程を大切にしなければいけない。",
+        "人生は目標を達成した後に、どうするかが大事だ。",
+        "人生は目標を持たずに、今ここで何をするかが大事だ。",
+        "人生は目標を明確に決めてしまうと寂しいものになる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tác giả muốn nói gì? → Cuộc đời phải coi trọng quá trình đi tới mục tiêu.",
+        "why": "'人生は「道中」が大事だ' – cuộc đời thì 'chặng đường' là quan trọng. 道中 ở đây = quá trình đến mục tiêu (過程).",
+        "options": [
+          "Coi trọng quá trình đi tới mục tiêu. ĐÚNG.",
+          "Đó chính là 'chủ nghĩa điểm đến' mà tác giả phê phán. Sai.",
+          "Tác giả không phủ định việc có mục tiêu. Sai.",
+          "Cuộc đời buồn tẻ là khi xem nhẹ quá trình, không phải khi đặt mục tiêu rõ ràng. Sai."
+        ],
+        "vocab": [
+          { "w": "道中", "r": "どうちゅう", "hv": "ĐẠO TRUNG", "vi": "dọc đường, hành trình" },
+          { "w": "過程", "r": "かてい", "hv": "QUÁ TRÌNH", "vi": "quá trình" },
+          { "w": "軽視", "r": "けいし", "hv": "KHINH THỊ", "vi": "xem nhẹ" },
+          { "w": "至る", "r": "いたる", "hv": "CHÍ", "vi": "đạt tới, dẫn tới" }
+        ],
+        "grammar": {
+          "pattern": "〜ねばならない",
+          "meaning": "phải (văn viết của なければならない)",
+          "form": "Vない(bỏ ない) ＋ ねばならない (する→せねば)",
+          "example": "約束は守らねばならない。"
+        },
+        "evidence": "人生は「道中」が大事だ。高校生であれば、高校の三年間の毎日を大切にせねばならない。",
+        "tip": null
+      }
+    },
+    {
+      "num": 66,
+      "passage": "p3",
+      "stem": "コンピュータの例を挙げて、筆者が述べていることは何か。",
+      "options": [
+        "人工物が設計者の意図に反した使われ方をされている。",
+        "人工物が設計者の予想以上に社会に影響を与えている。",
+        "人工物が人間を補助することで社会が成り立っている。",
+        "人工物の製作に社会が大きな影響を与えている。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Lấy ví dụ máy tính, tác giả muốn nói gì? → Đồ nhân tạo đang ảnh hưởng đến xã hội vượt quá dự đoán của nhà thiết kế.",
+        "why": "Ví dụ máy tính minh họa cho câu trước: ảnh hưởng của đồ nhân tạo lên xã hội có khi vượt quá dự đoán của nhà thiết kế (ban đầu chỉ để tính toán, nay thay đổi lớn môi trường sống).",
+        "options": [
+          "'Vượt quá dự đoán' không có nghĩa là 'trái với ý đồ'. Sai.",
+          "Ảnh hưởng xã hội vượt quá dự đoán. ĐÚNG.",
+          "Không đề cập xã hội tồn tại nhờ đồ nhân tạo hỗ trợ. Sai.",
+          "Chiều ngược lại: xã hội ảnh hưởng đến đồ nhân tạo. Sai."
+        ],
+        "vocab": [
+          { "w": "人工物", "r": "じんこうぶつ", "hv": "NHÂN CÔNG VẬT", "vi": "đồ nhân tạo" },
+          { "w": "設計者", "r": "せっけいしゃ", "hv": "THIẾT KẾ GIẢ", "vi": "nhà thiết kế" },
+          { "w": "影響", "r": "えいきょう", "hv": "ẢNH HƯỞNG", "vi": "ảnh hưởng" },
+          { "w": "用途", "r": "ようと", "hv": "DỤNG ĐỒ", "vi": "công dụng" }
+        ],
+        "grammar": null,
+        "evidence": "その社会に与える影響は設計者の予想を越える場合があり、人工物が人間社会の舵とりを行なう現象が起きている。たとえばコンピュータは…",
+        "tip": "たとえば… → ví dụ minh họa cho câu ngay trước đó."
+      }
+    },
+    {
+      "num": 67,
+      "passage": "p3",
+      "stem": "筆者によると、設計者が人工物を設計する時に必要なことは何か。",
+      "options": [
+        "将来の生活や社会に望むことを人工物に反映させること",
+        "人々の価値観を変えるような人工物を考えること",
+        "一つの人工物にさまざまな用途をもたせること",
+        "現代の最も進んだ科学技術を取り入れること"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Theo tác giả, điều cần thiết khi nhà thiết kế thiết kế đồ nhân tạo là gì? → Phản ánh vào đồ nhân tạo những mong muốn về cuộc sống, xã hội tương lai.",
+        "why": "Điều cần nhất là tầm nhìn (ビジョン) về việc chúng ta muốn sống thế nào, xây dựng xã hội ra sao, và nhà thiết kế phải đưa giá trị quan đó vào đồ nhân tạo.",
+        "options": [
+          "Phản ánh mong muốn về tương lai vào sản phẩm. ĐÚNG.",
+          "Không nói phải thay đổi giá trị quan của người khác. Sai.",
+          "Nhiều công dụng chỉ là kết quả của ví dụ máy tính. Sai.",
+          "Không nói phải áp dụng công nghệ tiên tiến nhất. Sai."
+        ],
+        "vocab": [
+          { "w": "価値観", "r": "かちかん", "hv": "GIÁ TRỊ QUAN", "vi": "giá trị quan" },
+          { "w": "反映", "r": "はんえい", "hv": "PHẢN ÁNH", "vi": "phản ánh" },
+          { "w": "考慮", "r": "こうりょ", "hv": "KHẢO LỰ", "vi": "cân nhắc" }
+        ],
+        "grammar": null,
+        "evidence": "これからわたしたち一人一人がどんな生活を送り、どのような社会を作り上げたいのかというビジョン（世界観・価値観）であり、設計者は常にこのビジョンがどのようなものであるか考え、人工物にその価値観をもたせることが必要だと思われる。",
+        "tip": null
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p3",
+      "stem": "売れる製品を作るために、設計者はどうすればいいか。",
+      "options": [
+        "自身の価値観を捨てて、消費者に共通する価値観を優先する。",
+        "社会の状況を調べて、自身の価値観が正しいことを確認する。",
+        "消費者のニーズを調べて、消費者と自身の価値観に共通性をもたせる。",
+        "マーケットニーズの変化を考慮しながらも、自身の価値観を優先させる。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Để làm sản phẩm bán được, nhà thiết kế nên làm gì? → Tìm hiểu nhu cầu người tiêu dùng, tạo điểm chung giữa giá trị quan của người tiêu dùng và bản thân.",
+        "why": "Để hài hòa giá trị quan của mình với nhu cầu thị trường, giá trị quan của nhà thiết kế cần có điểm chung nào đó với người mua; muốn vậy phải hiểu xã hội, điều tra giá trị quan của mọi người.",
+        "options": [
+          "Không bỏ giá trị quan của mình, mà hài hòa. Sai.",
+          "Mục đích không phải xác nhận mình đúng. Sai.",
+          "Điều tra nhu cầu + tạo điểm chung giá trị quan. ĐÚNG.",
+          "Không nói ưu tiên giá trị quan của bản thân. Sai."
+        ],
+        "vocab": [
+          { "w": "調和", "r": "ちょうわ", "hv": "ĐIỀU HÒA", "vi": "hài hòa" },
+          { "w": "購買者", "r": "こうばいしゃ", "hv": "CẤU MÃI GIẢ", "vi": "người mua" },
+          { "w": "共通性", "r": "きょうつうせい", "hv": "CỘNG THÔNG TÍNH", "vi": "tính chung, điểm chung" },
+          { "w": "状勢", "r": "じょうせい", "hv": "TRẠNG THẾ", "vi": "tình hình" }
+        ],
+        "grammar": {
+          "pattern": "〜たうえで",
+          "meaning": "sau khi… (rồi mới)",
+          "form": "Vた ＋ うえで",
+          "example": "よく考えたうえで決めてください。"
+        },
+        "evidence": "設計者が自分の価値観をマーケットニーズとうまく調和させるために、設計者の価値観が購買者の価値観とのなんらかの共通性をもつ必要がある。",
+        "tip": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "exam": "2011-07",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các phương án thành câu hoàn chỉnh và chọn phương án đặt ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "不調だった山中選手がついにゴールを決めた。彼に＿＿＿ ＿＿＿ ★ ＿＿＿相当あったはずだ。",
+      "options": ["したら", "という", "プレッシャーは", "「もし、またミスをしたら」"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Cầu thủ Yamanaka vốn đang sa sút phong độ cuối cùng đã ghi bàn. Đối với anh ấy, áp lực kiểu 'nếu lại mắc lỗi nữa thì…' chắc hẳn rất lớn.",
+        "why": "Thứ tự: 彼に したら 「もし、またミスをしたら」 という プレッシャーは 相当あったはずだ (1-4-2-3). ★ ở vị trí 3 là という (2).",
+        "options": [
+          "したら: vị trí 1 (彼にしたら = đối với anh ấy). Sai.",
+          "という: vị trí 3 (★), nối lời trích dẫn với danh từ プレッシャー. ĐÚNG.",
+          "プレッシャーは: vị trí 4, làm chủ ngữ của 相当あった. Sai.",
+          "「もし、またミスをしたら」: vị trí 2, nội dung của áp lực. Sai."
+        ],
+        "vocab": [
+          { "w": "不調", "r": "ふちょう", "hv": "BẤT ĐIỀU", "vi": "phong độ kém, trục trặc" },
+          { "w": "相当", "r": "そうとう", "hv": "TƯƠNG ĐƯƠNG", "vi": "khá là, đáng kể" },
+          { "w": "プレッシャー", "r": "プレッシャー", "hv": "", "vi": "áp lực" }
+        ],
+        "grammar": {
+          "pattern": "Nにしたら",
+          "meaning": "đứng ở lập trường của N mà nói, đối với N",
+          "form": "N（người）＋にしたら／にすれば",
+          "example": "子どもにしたら、親の期待は重荷かもしれない。"
+        },
+        "evidence": null,
+        "tip": "「…」という＋N: lời trích dẫn luôn cần という để bổ nghĩa cho danh từ."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "「これは地元ではよく知られた料理で、このすっぱさがおいしい。ただ、＿＿＿ ＿＿＿ ★ ＿＿＿増えていることだね。」と田中さんは語る。",
+      "options": ["なんていう", "残念なのは", "若者が最近", "すっぱいのが苦手だ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Anh Tanaka nói: 'Đây là món ăn nổi tiếng ở địa phương, chính vị chua này làm nên cái ngon. Chỉ có điều đáng tiếc là gần đây ngày càng nhiều bạn trẻ nói rằng không ăn được chua.'",
+        "why": "Thứ tự: 残念なのは すっぱいのが苦手だ なんていう 若者が最近 増えていることだ (2-4-1-3). ★ vị trí 3 là なんていう (1).",
+        "options": [
+          "なんていう: vị trí 3 (★), 'những người nói kiểu như…' bổ nghĩa cho 若者. ĐÚNG.",
+          "残念なのは: vị trí 1, chủ đề 'điều đáng tiếc là'. Sai.",
+          "若者が最近: vị trí 4, chủ ngữ của 増えている. Sai.",
+          "すっぱいのが苦手だ: vị trí 2, nội dung được trích. Sai."
+        ],
+        "vocab": [
+          { "w": "地元", "r": "じもと", "hv": "ĐỊA NGUYÊN", "vi": "địa phương (nơi mình sống)" },
+          { "w": "苦手", "r": "にがて", "hv": "KHỔ THỦ", "vi": "kém, không thích, không hợp" },
+          { "w": "若者", "r": "わかもの", "hv": "NHƯỢC GIẢ", "vi": "người trẻ" }
+        ],
+        "grammar": {
+          "pattern": "～なんていう＋N",
+          "meaning": "N kiểu như ～ / N mà nói rằng ～ (hàm ý bất ngờ, coi nhẹ)",
+          "form": "普通形＋なんていう＋N",
+          "example": "宿題を忘れたなんていう言い訳は通じない。"
+        },
+        "evidence": null,
+        "tip": "Câu kết bằng ～ことだ → mở đầu bằng 残念なのは (Điều đáng tiếc là…)."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "忘れられないプレゼントは、小学生のときに両親が買ってくれた自転車です。苦しい生活の中、＿＿＿ ＿＿＿ ★ ＿＿＿涙が出ます。",
+      "options": ["それだけで", "どんな思いで", "買ってくれたのかと", "思うと"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Món quà không thể quên là chiếc xe đạp bố mẹ mua cho hồi tiểu học. Chỉ cần nghĩ đến việc giữa cuộc sống khó khăn, bố mẹ đã mua cho mình với tâm trạng thế nào là tôi đã rơi nước mắt.",
+        "why": "Thứ tự: どんな思いで 買ってくれたのかと 思うと それだけで 涙が出ます (2-3-4-1). ★ vị trí 3 là 思うと (4).",
+        "options": [
+          "それだけで: vị trí 4, đứng ngay trước 涙が出ます. Sai.",
+          "どんな思いで: vị trí 1, đi với nghi vấn ～のか. Sai.",
+          "買ってくれたのかと: vị trí 2, câu hỏi gián tiếp + と. Sai.",
+          "思うと: vị trí 3 (★), ～かと思うと = khi nghĩ rằng… ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "思い", "r": "おもい", "hv": "TƯ", "vi": "tâm tư, cảm xúc" },
+          { "w": "涙", "r": "なみだ", "hv": "LỆ", "vi": "nước mắt" },
+          { "w": "苦しい", "r": "くるしい", "hv": "KHỔ", "vi": "khó khăn, khổ sở" }
+        ],
+        "grammar": {
+          "pattern": "～のかと思うと",
+          "meaning": "khi nghĩ đến (việc) ～ thì…",
+          "form": "疑問詞…普通形＋のかと思うと",
+          "example": "母がどれほど心配したのかと思うと、胸が痛む。"
+        },
+        "evidence": null,
+        "tip": "どんな～ → phải đóng bằng ～のか; ～のかと＋思う là cặp đi liền."
+      }
+    },
+    {
+      "num": 48,
+      "passage": null,
+      "stem": "最近、子どもがピアノを習いたいと言いだした。わたしは、子どもが＿＿＿ ＿＿＿ ★ ＿＿＿と思っている。",
+      "options": ["したい", "やりたい", "やらせて", "と思うことは"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Gần đây con tôi bắt đầu nói muốn học piano. Tôi nghĩ rằng những gì con muốn làm thì tôi muốn để con được làm.",
+        "why": "Thứ tự: 子どもが したい と思うことは やらせて やりたい と思っている (1-4-3-2). ★ vị trí 3 là やらせて (3).",
+        "options": [
+          "したい: vị trí 1, 子どもがしたい (điều con muốn làm). Sai.",
+          "やりたい: vị trí 4, Vさせてやりたい = muốn cho (con) làm. Sai.",
+          "やらせて: vị trí 3 (★), thể sai khiến 'để cho làm'. ĐÚNG.",
+          "と思うことは: vị trí 2, tạo cụm danh từ 'những điều con nghĩ là muốn làm'. Sai."
+        ],
+        "vocab": [
+          { "w": "習う", "r": "ならう", "hv": "TẬP", "vi": "học (có người dạy)" },
+          { "w": "言いだす", "r": "いいだす", "hv": "NGÔN XUẤT", "vi": "bắt đầu nói, đề xuất" }
+        ],
+        "grammar": {
+          "pattern": "Vさせてやりたい",
+          "meaning": "muốn cho (người dưới) được làm V",
+          "form": "V使役て形＋やりたい／あげたい",
+          "example": "子どもには好きなことをさせてやりたい。"
+        },
+        "evidence": null,
+        "tip": "やる ở đây là cho/làm cho người dưới (con cái) → やらせてやりたい."
+      }
+    },
+    {
+      "num": 49,
+      "passage": null,
+      "stem": "国民の、政治＿＿＿ ＿＿＿ ★ ＿＿＿政治家は指導力を発揮できるのだ。",
+      "options": ["初めて", "に対する", "があって", "信頼"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Chỉ khi có được sự tin tưởng của người dân đối với chính trị thì chính trị gia mới có thể phát huy năng lực lãnh đạo.",
+        "why": "Thứ tự: 政治 に対する 信頼 があって 初めて 政治家は… (2-4-3-1). ★ vị trí 3 là があって (3).",
+        "options": [
+          "初めて: vị trí 4, ～てはじめて = phải ～ thì mới. Sai.",
+          "に対する: vị trí 1, 政治に対する (đối với chính trị). Sai.",
+          "があって: vị trí 3 (★), 信頼があって初めて. ĐÚNG.",
+          "信頼: vị trí 2, danh từ được bổ nghĩa bởi に対する. Sai."
+        ],
+        "vocab": [
+          { "w": "信頼", "r": "しんらい", "hv": "TÍN LẠI", "vi": "tin cậy" },
+          { "w": "指導力", "r": "しどうりょく", "hv": "CHỈ ĐẠO LỰC", "vi": "năng lực lãnh đạo" },
+          { "w": "発揮", "r": "はっき", "hv": "PHÁT HUY", "vi": "phát huy" }
+        ],
+        "grammar": {
+          "pattern": "～てはじめて",
+          "meaning": "phải ～ rồi thì mới (lần đầu nhận ra/làm được)",
+          "form": "Vて＋はじめて",
+          "example": "病気になって初めて、健康のありがたさがわかった。"
+        },
+        "evidence": null,
+        "tip": "Nに対する luôn đứng trước danh từ (信頼); ～てはじめて đứng cuối cụm."
+      }
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "exam": "2012-12",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn câu sử dụng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "廃止",
+      "options": [
+        "両国が互いに主張を譲らず、会議は予定より早く<u>廃止</u>された。",
+        "時間も遅くなったので、区切りのいいところで作業を<u>廃止</u>した。",
+        "その制度は現状に合わなくなったので、先月で<u>廃止</u>された。",
+        "健康のために、たばこを<u>廃止</u>するよう家族に言われた。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Chế độ đó không còn phù hợp với hiện trạng nên đã bị bãi bỏ từ tháng trước.",
+        "why": "廃止 (はいし) = bãi bỏ, hủy bỏ hẳn một chế độ, quy định, tuyến đường... đã được áp dụng lâu dài. 制度を廃止する là cách dùng chuẩn.",
+        "options": [
+          "Cuộc họp kết thúc sớm → phải là 打ち切られた/中止された. Sai.",
+          "Ngừng công việc tại chỗ → phải là 中断した/やめた. Sai.",
+          "制度が廃止された: chế độ bị bãi bỏ. ĐÚNG.",
+          "Bỏ thuốc lá → phải là 禁煙する/たばこをやめる. Sai."
+        ],
+        "vocab": [
+          { "w": "廃止", "r": "はいし", "hv": "PHẾ CHỈ", "vi": "bãi bỏ, hủy bỏ (chế độ, luật)" },
+          { "w": "制度", "r": "せいど", "hv": "CHẾ ĐỘ", "vi": "chế độ" },
+          { "w": "中止", "r": "ちゅうし", "hv": "TRUNG CHỈ", "vi": "hủy (sự kiện), dừng giữa chừng" },
+          { "w": "区切り", "r": "くぎり", "hv": "KHU THIẾT", "vi": "điểm ngắt, chỗ dừng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "廃止 đi với 制度・法律・路線・規則; 中止 đi với 試合・イベント; 中断 đi với 作業."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "心強い",
+      "options": [
+        "姉は<u>心強くて</u>、どんなにつらいことがあっても涙を見せない。",
+        "初めてのプレゼンで不安だったが、先輩が一緒だったので<u>心強かった</u>。",
+        "アメリカに10年住んでいたので、英語はわりと<u>心強い</u>です。",
+        "やると決めたことは最後まであきらめずにやる<u>心強い</u>人間になりたい。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Bài thuyết trình đầu tiên nên tôi lo lắng, nhưng vì có đàn anh đi cùng nên tôi thấy vững dạ.",
+        "why": "心強い (こころづよい) = yên tâm, vững dạ nhờ có người/điều gì đó hỗ trợ. Không có nghĩa 'mạnh mẽ (tính cách)'.",
+        "options": [
+          "Chị gái mạnh mẽ không khóc → phải là 気が強い/強い. Sai.",
+          "Có đàn anh đi cùng nên vững dạ. ĐÚNG.",
+          "Giỏi tiếng Anh → phải là 得意/自信がある. Sai.",
+          "Người kiên trì, ý chí mạnh → phải là 意志が強い/粘り強い. Sai."
+        ],
+        "vocab": [
+          { "w": "心強い", "r": "こころづよい", "hv": "TÂM CƯỜNG", "vi": "yên tâm, vững dạ (nhờ có chỗ dựa)" },
+          { "w": "心細い", "r": "こころぼそい", "hv": "TÂM TẾ", "vi": "lo lắng, bơ vơ (trái nghĩa)" },
+          { "w": "不安", "r": "ふあん", "hv": "BẤT AN", "vi": "bất an, lo lắng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Bẫy: 心強い ≠ 'tâm mạnh'. Nhớ cặp 心強い (vững dạ) ↔ 心細い (bơ vơ)."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "さっさと",
+      "options": [
+        "いつまでもテレビを見てないで、<u>さっさと</u>宿題をしなさい。",
+        "雷が鳴り出したと思ったら、<u>さっさと</u>雨が降り出した。",
+        "<u>さっさと</u>着くので、もう少しそこで待っていてください。",
+        "買ってまだ一週間なのに、<u>さっさと</u>壊れた。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Đừng có xem TV mãi thế, mau mau làm bài tập đi.",
+        "why": "さっさと = nhanh nhẹn, mau mau (làm việc gì đó có ý chí, không lề mề). Thường dùng trong câu thúc giục. Không dùng cho hiện tượng tự nhiên hay sự cố.",
+        "options": [
+          "Thúc giục làm bài tập nhanh lên. ĐÚNG.",
+          "Mưa đổ ngay sau sấm → phải là すぐに/たちまち. Sai.",
+          "Sắp đến nơi → phải là すぐ/まもなく. Sai.",
+          "Hỏng sớm → phải là もう/すぐに. Sai."
+        ],
+        "vocab": [
+          { "w": "さっさと", "r": "さっさと", "hv": "", "vi": "mau mau, nhanh gọn (hành động có chủ ý)" },
+          { "w": "雷", "r": "かみなり", "hv": "LÔI", "vi": "sấm sét" },
+          { "w": "宿題", "r": "しゅくだい", "hv": "TÚC ĐỀ", "vi": "bài tập về nhà" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "さっさと + động từ ý chí (帰る・片付ける・やる), hay đi với mệnh lệnh 〜しなさい."
+      }
+    },
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "ふさぐ",
+      "options": [
+        "種をまいたら、土で<u>ふさいで</u>水をやってください。",
+        "鍋をふたで<u>ふさぐ</u>と、中の肉に熱が通りやすくなります。",
+        "紙袋に穴があいていたので、セロテープで<u>ふさいだ</u>。",
+        "電子レンジで温めるときは、皿をラップで<u>ふさいで</u>ください。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Túi giấy bị thủng lỗ nên tôi đã bịt lại bằng băng dính.",
+        "why": "塞ぐ (ふさぐ) = bịt, lấp (lỗ hổng, lối đi, chỗ mở). 穴をふさぐ là cụm chuẩn.",
+        "options": [
+          "Phủ đất lên hạt → phải là 土をかぶせて/土で覆って. Sai.",
+          "Đậy nắp nồi → phải là ふたをする. Sai.",
+          "穴をセロテープでふさいだ: bịt lỗ thủng. ĐÚNG.",
+          "Bọc đĩa bằng màng bọc → phải là ラップをかけて. Sai."
+        ],
+        "vocab": [
+          { "w": "塞ぐ", "r": "ふさぐ", "hv": "TẮC", "vi": "bịt, lấp, chặn" },
+          { "w": "穴", "r": "あな", "hv": "HUYỆT", "vi": "cái lỗ" },
+          { "w": "覆う", "r": "おおう", "hv": "PHÚC", "vi": "che phủ, bao phủ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ふさぐ: 穴をふさぐ, 道をふさぐ (chặn đường), 耳をふさぐ (bịt tai). Che/đậy cả bề mặt → 覆う/かぶせる/ふたをする."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "冷静",
+      "options": [
+        "不安定だったわが国の経済状態が、ようやく<u>冷静</u>になってきた。",
+        "トラブルが発生したときでも、森さんは慌てずに<u>冷静</u>に対応していた。",
+        "熱が下がるまで、<u>冷静</u>にしていたほうがいい。",
+        "台風で波が高かった海も、今日はすっかり<u>冷静</u>になった。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Ngay cả khi xảy ra sự cố, anh Mori cũng không hoảng hốt mà xử lý một cách bình tĩnh.",
+        "why": "冷静 (れいせい) = bình tĩnh, điềm tĩnh — chỉ thái độ, tâm trạng của con người. 冷静に対応する là cách dùng chuẩn.",
+        "options": [
+          "Kinh tế ổn định lại → phải là 安定してきた. Sai.",
+          "Bình tĩnh xử lý sự cố. ĐÚNG.",
+          "Nằm nghỉ yên cho đến khi hạ sốt → phải là 安静にして. Sai (bẫy 安静/冷静).",
+          "Biển lặng → phải là 穏やかになった. Sai."
+        ],
+        "vocab": [
+          { "w": "冷静", "r": "れいせい", "hv": "LÃNH TĨNH", "vi": "bình tĩnh, điềm tĩnh" },
+          { "w": "安静", "r": "あんせい", "hv": "AN TĨNH", "vi": "nghỉ ngơi yên tĩnh (khi ốm)" },
+          { "w": "慌てる", "r": "あわてる", "hv": "HOẢNG", "vi": "hoảng hốt, vội vàng" },
+          { "w": "対応", "r": "たいおう", "hv": "ĐỐI ỨNG", "vi": "ứng phó, xử lý" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "冷静 chỉ dùng cho người; bệnh nhân nằm nghỉ → 安静; biển/thời tiết êm → 穏やか."
+      }
+    }
+  ]
+}

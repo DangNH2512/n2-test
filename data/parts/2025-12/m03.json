@@ -1,0 +1,85 @@
+{
+  "exam": "2025-12",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ (tiền tố/hậu tố) thích hợp nhất điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "9時（　　）の新幹線に乗るために、8時に家を出た。",
+      "options": ["行", "発", "進", "始"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Để kịp chuyến Shinkansen khởi hành lúc 9 giờ, tôi đã ra khỏi nhà lúc 8 giờ.",
+        "why": "Giờ／địa điểm + 発 (はつ) = khởi hành lúc/từ ~: 9時発 = (chuyến) xuất phát lúc 9 giờ. Đối lại: ～着 (ちゃく) = đến lúc/ở ~.",
+        "options": [
+          "行 → ～行き (ゆき): đi đến (東京行き). Không gắn sau giờ. Sai.",
+          "発 → ～発: khởi hành lúc/từ ~. ĐÚNG.",
+          "進 → không dùng như hậu tố chỉ giờ. Sai.",
+          "始 → không dùng sau giờ tàu chạy. Sai."
+        ],
+        "vocab": [
+          { "w": "～発", "r": "～はつ", "hv": "PHÁT", "vi": "khởi hành lúc/từ ~" },
+          { "w": "～着", "r": "～ちゃく", "hv": "TRƯỚC", "vi": "đến nơi lúc/ở ~" },
+          { "w": "新幹線", "r": "しんかんせん", "hv": "TÂN CÁN TUYẾN", "vi": "tàu cao tốc Shinkansen" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "東京発大阪行き = chuyến từ Tokyo đi Osaka; 10時着 = đến lúc 10 giờ."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "コンサートのチケットは、先着（　　）で買うことができます。",
+      "options": ["列", "番", "序", "順"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vé buổi hòa nhạc có thể mua theo thứ tự ai đến trước được trước.",
+        "why": "先着順 (せんちゃくじゅん) = theo thứ tự đến trước. ～順 = theo thứ tự ~ (年齢順, 五十音順, 先着順).",
+        "options": [
+          "列 → ～列: hàng (2列目: hàng thứ 2). Sai.",
+          "番 → ～番: số thứ tự (1番). Không nói 先着番. Sai.",
+          "序 → không dùng làm hậu tố như vậy (順序 là từ ghép). Sai.",
+          "順 → 先着順: thứ tự đến trước. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "先着順", "r": "せんちゃくじゅん", "hv": "TIÊN TRƯỚC THUẬN", "vi": "ai đến trước được trước" },
+          { "w": "五十音順", "r": "ごじゅうおんじゅん", "hv": "NGŨ THẬP ÂM THUẬN", "vi": "theo thứ tự bảng chữ cái kana" },
+          { "w": "順番", "r": "じゅんばん", "hv": "THUẬN PHIÊN", "vi": "thứ tự, lượt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Hay gặp: 先着順・申込順・年齢順・成績順 → đều dùng ～順."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "（　　）予約の場合は、キャンセル料がかかりません。",
+      "options": ["単", "副", "仮", "中"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Trường hợp đặt chỗ tạm thời thì không mất phí hủy.",
+        "why": "仮 (かり) + N = ~ tạm thời: 仮予約 (かりよやく) = đặt chỗ tạm (chưa chính thức) → hủy không mất phí là hợp lý.",
+        "options": [
+          "単 → 単～: đơn (単語, 単身). Không có 単予約. Sai.",
+          "副 → 副～: phó, phụ (副社長, 副作用). Sai.",
+          "仮 → 仮予約: đặt tạm. ĐÚNG.",
+          "中 → 中～: trung bình, giữa (中学校). Sai."
+        ],
+        "vocab": [
+          { "w": "仮予約", "r": "かりよやく", "hv": "GIẢ DỰ ƯỚC", "vi": "đặt chỗ tạm thời" },
+          { "w": "仮免許", "r": "かりめんきょ", "hv": "GIẢ MIỄN HỨA", "vi": "bằng lái tạm thời" },
+          { "w": "キャンセル料", "r": "キャンセルりょう", "hv": "LIỆU", "vi": "phí hủy" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "仮～ = tạm thời: 仮予約・仮免許・仮住まい (かりずまい: chỗ ở tạm). Đối lại: 本予約 = đặt chính thức."
+      }
+    }
+  ]
+}

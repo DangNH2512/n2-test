@@ -1,0 +1,368 @@
+{
+  "exam": "2010-07",
+  "mondai": 7,
+  "section": "grammar",
+  "instruction": "次の文の（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn phương án thích hợp nhất để điền vào chỗ trống trong câu.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 33,
+      "passage": null,
+      "stem": "このレストランは、客の予算（　　）いくつかのコースを用意してくれる。",
+      "options": ["に比べて", "に先立って", "に応じて", "に向けて"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nhà hàng này chuẩn bị sẵn một vài set món tùy theo ngân sách của khách.",
+        "why": "～に応じて = tùy theo, ứng với ～ (thay đổi cho phù hợp). Ngân sách khác nhau → có nhiều course khác nhau.",
+        "options": [
+          "に比べて → so với. Không có đối tượng so sánh. Sai.",
+          "に先立って → trước khi (làm việc gì quan trọng). Sai.",
+          "に応じて → tùy theo, đáp ứng. ĐÚNG.",
+          "に向けて → hướng tới (mục tiêu). Sai."
+        ],
+        "vocab": [
+          { "w": "予算", "r": "よさん", "hv": "DỰ TOÁN", "vi": "ngân sách" },
+          { "w": "用意", "r": "ようい", "hv": "DỤNG Ý", "vi": "chuẩn bị" },
+          { "w": "応じる", "r": "おうじる", "hv": "ỨNG", "vi": "đáp ứng, ứng với" }
+        ],
+        "grammar": {
+          "pattern": "～に応じて",
+          "meaning": "tùy theo, ứng với, phù hợp với",
+          "form": "N + に応じて / N + に応じた + N",
+          "example": "能力に応じて給料が決まる。(Lương được quyết định tùy theo năng lực.)"
+        },
+        "evidence": null,
+        "tip": "に応じて thường đi với danh từ có nhiều mức: 予算・年齢・能力・季節."
+      }
+    },
+    {
+      "num": 34,
+      "passage": null,
+      "stem": "学校に来る（　　）財布を忘れたのに気づいた。",
+      "options": ["とちゅうで", "ついでに", "なかで", "うちに"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Trên đường đến trường tôi nhận ra mình đã quên ví.",
+        "why": "V辞書形 + 途中で = giữa chừng, trên đường đang làm V. 来る途中で = trên đường đến.",
+        "options": [
+          "とちゅうで → trên đường, giữa chừng. ĐÚNG.",
+          "ついでに → nhân tiện (làm thêm việc khác). Sai nghĩa.",
+          "なかで → trong số / bên trong; không dùng cho quãng đường. Sai.",
+          "うちに → trong lúc (thường kèm biến đổi tự nhiên: 知らないうちに). “来るうちに” không tự nhiên. Sai."
+        ],
+        "vocab": [
+          { "w": "途中", "r": "とちゅう", "hv": "ĐỒ TRUNG", "vi": "giữa đường, giữa chừng" },
+          { "w": "財布", "r": "さいふ", "hv": "TÀI BỐ", "vi": "cái ví" },
+          { "w": "気づく", "r": "きづく", "hv": "KHÍ", "vi": "nhận ra" }
+        ],
+        "grammar": {
+          "pattern": "～途中で / 途中に",
+          "meaning": "giữa chừng, trên đường (đang làm gì)",
+          "form": "V辞書形 / Nの + 途中で",
+          "example": "会社へ行く途中で事故を見た。"
+        },
+        "evidence": null,
+        "tip": null
+      }
+    },
+    {
+      "num": 35,
+      "passage": null,
+      "stem": "踏切事故のために、２時間（　　）、電車がストップしました。",
+      "options": ["につき", "につれ", "にわたり", "にともない"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Do tai nạn ở chỗ chắn tàu, tàu điện đã ngừng chạy suốt 2 tiếng.",
+        "why": "～にわたり (にわたって) = suốt, trải dài trong phạm vi (thời gian/không gian). 2時間にわたり = suốt 2 tiếng.",
+        "options": [
+          "につき → vì (lý do, trang trọng) / mỗi. Sai.",
+          "につれ → càng… càng (biến đổi song song). Sai.",
+          "にわたり → suốt, trải dài. ĐÚNG.",
+          "にともない → cùng với, kéo theo. Sai."
+        ],
+        "vocab": [
+          { "w": "踏切", "r": "ふみきり", "hv": "ĐẠP THIẾT", "vi": "chỗ chắn tàu" },
+          { "w": "事故", "r": "じこ", "hv": "SỰ CỐ", "vi": "tai nạn" }
+        ],
+        "grammar": {
+          "pattern": "～にわたって / にわたり",
+          "meaning": "suốt, trải dài khắp (thời gian, phạm vi)",
+          "form": "N(thời gian/phạm vi) + にわたって",
+          "example": "工事は３か月にわたって行われた。"
+        },
+        "evidence": null,
+        "tip": "にわたって đi với khoảng thời gian/không gian rộng: 10年, 全国, 広い範囲."
+      }
+    },
+    {
+      "num": 36,
+      "passage": null,
+      "stem": "一回失敗したくらいで、（　　）そこまで悪く言わなくてもいいだろう。",
+      "options": ["なにを", "なにが", "なにも", "なにで"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Chỉ thất bại có một lần thôi mà, đâu cần phải nói xấu đến mức đó.",
+        "why": "なにも～なくても(いい) = đâu cần phải ～ (phản bác, cho rằng làm thế là quá mức). なにも nhấn mạnh phủ định.",
+        "options": [
+          "なにを → “cái gì (tân ngữ)”. Không phù hợp. Sai.",
+          "なにが → “cái gì (chủ ngữ)”. Sai.",
+          "なにも → (nhấn mạnh) đâu cần phải. ĐÚNG.",
+          "なにで → “bằng cái gì”. Sai."
+        ],
+        "vocab": [
+          { "w": "失敗", "r": "しっぱい", "hv": "THẤT BẠI", "vi": "thất bại" },
+          { "w": "悪く言う", "r": "わるくいう", "hv": "", "vi": "nói xấu, chê bai" }
+        ],
+        "grammar": {
+          "pattern": "なにも～なくてもいい / ～ことはない",
+          "meaning": "đâu cần phải ～ (thể hiện ý cho là quá đáng)",
+          "form": "なにも + Vなくても(いい)",
+          "example": "なにも泣かなくてもいいじゃないか。"
+        },
+        "evidence": null,
+        "tip": "～くらいで = chỉ vì chuyện nhỏ ～ mà…; hay đi cặp với なにも～なくても."
+      }
+    },
+    {
+      "num": 37,
+      "passage": null,
+      "stem": "田中選手は前大会に続いて、今大会でも優勝を果たした。彼の今後の活躍に周囲の期待は高まる（　　）。",
+      "options": ["中心だ", "事情だ", "原因だ", "一方だ"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tuyển thủ Tanaka tiếp nối giải trước, giải này cũng giành chức vô địch. Kỳ vọng của mọi người vào những thành tích sắp tới của anh ấy ngày càng tăng.",
+        "why": "V辞書形 + 一方だ = ngày càng, cứ thế mà ～ (biến đổi một chiều). 高まる一方だ = ngày càng tăng cao.",
+        "options": [
+          "中心だ → là trung tâm. Không gắn sau động từ như vậy. Sai.",
+          "事情だ → là hoàn cảnh. Sai.",
+          "原因だ → là nguyên nhân. Sai.",
+          "一方だ → ngày càng ～. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "優勝", "r": "ゆうしょう", "hv": "ƯU THẮNG", "vi": "vô địch" },
+          { "w": "果たす", "r": "はたす", "hv": "QUẢ", "vi": "hoàn thành, đạt được" },
+          { "w": "活躍", "r": "かつやく", "hv": "HOẠT DƯỢC", "vi": "hoạt động tích cực, tỏa sáng" },
+          { "w": "期待", "r": "きたい", "hv": "KỲ ĐÃI", "vi": "kỳ vọng" }
+        ],
+        "grammar": {
+          "pattern": "～一方だ",
+          "meaning": "ngày càng ～, cứ thế ～ (xu hướng một chiều)",
+          "form": "V辞書形 + 一方だ",
+          "example": "物価は上がる一方だ。(Giá cả ngày càng tăng.)"
+        },
+        "evidence": null,
+        "tip": "一方だ đi với động từ biến đổi: 増える, 減る, 高まる, 悪化する."
+      }
+    },
+    {
+      "num": 38,
+      "passage": null,
+      "stem": "これだけ景気が悪いのに、税金を上げようとするのは、わたしたち国民には理解（　　）。",
+      "options": ["しすぎる", "しがたい", "しかねない", "しがちだ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Kinh tế tệ thế này mà lại định tăng thuế thì người dân chúng tôi khó mà hiểu nổi.",
+        "why": "Vます + がたい = khó mà (về mặt tâm lý, khó chấp nhận). 理解しがたい = khó lòng hiểu được.",
+        "options": [
+          "しすぎる → hiểu quá mức. Vô nghĩa. Sai.",
+          "しがたい → khó mà ～. ĐÚNG.",
+          "しかねない → có thể sẽ (điều xấu). Sai.",
+          "しがちだ → hay, thường có xu hướng (xấu). Sai."
+        ],
+        "vocab": [
+          { "w": "景気", "r": "けいき", "hv": "CẢNH KHÍ", "vi": "tình hình kinh tế" },
+          { "w": "税金", "r": "ぜいきん", "hv": "THUẾ KIM", "vi": "tiền thuế" },
+          { "w": "国民", "r": "こくみん", "hv": "QUỐC DÂN", "vi": "người dân" }
+        ],
+        "grammar": {
+          "pattern": "～がたい",
+          "meaning": "khó mà ～ (khó về mặt tâm lý/cảm xúc)",
+          "form": "Vます(bỏ ます) + がたい",
+          "example": "彼の話は信じがたい。(Khó mà tin chuyện của anh ta.)"
+        },
+        "evidence": null,
+        "tip": "がたい hay đi với 理解・信じ・許し・認め; khác với にくい (khó về mặt vật lý/kỹ thuật)."
+      }
+    },
+    {
+      "num": 39,
+      "passage": null,
+      "stem": "（メールで）田中です。先日お話があったスピーチの件なんですが、ぜひわたしに（　　）。",
+      "options": ["やっていただけないでしょうか", "やらせていただけないでしょうか", "やってもよろしいでしょうか", "やらせてもよろしいでしょうか"],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Trong email) Tôi là Tanaka. Về chuyện bài phát biểu mà anh đã nhắc hôm trước, xin hãy để tôi làm được không ạ.",
+        "why": "Người viết muốn chính mình được làm → xin phép: Vさせていただけないでしょうか = có thể cho phép tôi làm ～ được không. Có ぜひわたしに → nhấn mạnh “hãy để tôi”.",
+        "options": [
+          "やっていただけないでしょうか → nhờ đối phương làm. Ngược chủ thể. Sai.",
+          "やらせていただけないでしょうか → xin cho phép tôi làm. ĐÚNG.",
+          "やってもよろしいでしょうか → “tôi làm có được không” – không đi với わたしに. Sai.",
+          "やらせてもよろしいでしょうか → “cho (người khác) làm có được không” – sai chủ thể. Sai."
+        ],
+        "vocab": [
+          { "w": "先日", "r": "せんじつ", "hv": "TIÊN NHẬT", "vi": "hôm trước" },
+          { "w": "件", "r": "けん", "hv": "KIỆN", "vi": "vụ, việc" }
+        ],
+        "grammar": {
+          "pattern": "～(さ)せていただけないでしょうか",
+          "meaning": "xin cho phép tôi ～ được không (khiêm nhường, lịch sự)",
+          "form": "V使役て形 + いただけないでしょうか",
+          "example": "明日、休ませていただけないでしょうか。"
+        },
+        "evidence": null,
+        "tip": "わたしに + V(さ)せて… = để tôi làm; わたしに + Vて… = làm cho tôi."
+      }
+    },
+    {
+      "num": 40,
+      "passage": null,
+      "stem": "山下「田中君、きみ、また大阪に出張なんだって？」\n田中「ええ、そうなんですよ。ついこの前も出張に（　　）なんですけどねえ。」",
+      "options": ["行かれたまま", "行かされたまま", "行かれたばかり", "行かされたばかり"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Yamashita: “Tanaka này, cậu lại đi công tác Osaka à?” Tanaka: “Vâng, đúng thế. Vừa mới bị bắt đi công tác hôm trước thôi mà…”",
+        "why": "Bị công ty bắt đi (không muốn) → thể sai khiến bị động 行かされる. ついこの前 = vừa mới đây → ～たばかり. Ghép lại: 行かされたばかり.",
+        "options": [
+          "行かれたまま → tôn kính/bị động + まま (giữ nguyên trạng thái). Sai.",
+          "行かされたまま → まま không hợp với ついこの前. Sai.",
+          "行かれたばかり → 行かれる là kính ngữ, không tự nói về mình. Sai.",
+          "行かされたばかり → vừa mới bị bắt đi. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "出張", "r": "しゅっちょう", "hv": "XUẤT TRƯƠNG", "vi": "đi công tác" },
+          { "w": "ついこの前", "r": "ついこのまえ", "hv": "", "vi": "mới đây thôi" }
+        ],
+        "grammar": {
+          "pattern": "使役受身 + ～たばかり",
+          "meaning": "vừa mới bị bắt phải làm ～",
+          "form": "V(さ)せられる / Vされる (nhóm I) + たばかり",
+          "example": "昨日も残業させられたばかりだ。"
+        },
+        "evidence": null,
+        "tip": "Thể sai khiến bị động nhóm I rút gọn: 行かせられる → 行かされる."
+      }
+    },
+    {
+      "num": 41,
+      "passage": null,
+      "stem": "仕事の合間にときどき遠くを見る（　　）、目が疲れにくくなった。",
+      "options": ["ようにしたところに", "ようにしたところ", "までになったところに", "までになったところ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Sau khi tôi cố gắng thỉnh thoảng nhìn ra xa trong lúc nghỉ giữa giờ làm, mắt đã ít bị mỏi hơn.",
+        "why": "～ようにする = cố gắng tạo thói quen làm ～. Vた + ところ = sau khi làm ～ thì (kết quả là) …. Ghép: 見るようにしたところ、目が疲れにくくなった.",
+        "options": [
+          "ようにしたところに → ところに = đúng lúc (có việc xen vào). Sai.",
+          "ようにしたところ → làm ～ thì kết quả là. ĐÚNG.",
+          "までになったところに → “đến mức” không hợp nghĩa. Sai.",
+          "までになったところ → “đã đến mức nhìn xa” vô nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "合間", "r": "あいま", "hv": "HỢP GIAN", "vi": "lúc rảnh giữa chừng" },
+          { "w": "疲れる", "r": "つかれる", "hv": "BÌ", "vi": "mệt mỏi" }
+        ],
+        "grammar": {
+          "pattern": "Vたところ",
+          "meaning": "sau khi thử làm ～ thì (phát hiện/kết quả) …",
+          "form": "Vた + ところ、～",
+          "example": "先生に相談したところ、いいアドバイスをもらえた。"
+        },
+        "evidence": null,
+        "tip": "Vたところ (kết quả) ≠ Vたところに (đúng lúc thì có việc khác xảy đến)."
+      }
+    },
+    {
+      "num": 42,
+      "passage": null,
+      "stem": "人間の脳に関する研究で明らかになったことはまだほんの一部（　　）、その研究は着実に進んできた。",
+      "options": ["にすぎないとすると", "にかかわらないとすると", "にすぎないとはいえ", "にかかわらないとはいえ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Những điều được làm sáng tỏ trong nghiên cứu về não người tuy chỉ mới là một phần rất nhỏ, nhưng nghiên cứu đó vẫn tiến triển vững chắc.",
+        "why": "ほんの一部 + にすぎない (chỉ là, không hơn). Vế sau trái ngược (着実に進んできた) → cần nghịch tiếp とはいえ (tuy nói vậy nhưng).",
+        "options": [
+          "にすぎないとすると → “nếu giả sử chỉ là…” – giả định, không nghịch tiếp. Sai.",
+          "にかかわらないとすると → sai nghĩa. Sai.",
+          "にすぎないとはいえ → tuy chỉ là… nhưng. ĐÚNG.",
+          "にかかわらないとはいえ → にかかわらない không đi với 一部. Sai."
+        ],
+        "vocab": [
+          { "w": "脳", "r": "のう", "hv": "NÃO", "vi": "não" },
+          { "w": "明らか", "r": "あきらか", "hv": "MINH", "vi": "rõ ràng" },
+          { "w": "着実", "r": "ちゃくじつ", "hv": "TRƯỚC THỰC", "vi": "vững chắc, chắc chắn" },
+          { "w": "ほんの", "r": "ほんの", "hv": "", "vi": "chỉ (một chút)" }
+        ],
+        "grammar": {
+          "pattern": "～にすぎない ＋ ～とはいえ",
+          "meaning": "chỉ là ～ không hơn / tuy nói là ～ nhưng",
+          "form": "N + にすぎない；普通形 + とはいえ",
+          "example": "春とはいえ、まだ寒い。"
+        },
+        "evidence": null,
+        "tip": "ほんの～ thường đi cặp với にすぎない."
+      }
+    },
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "会議の目的は新商品のアイディアを自由に出し合う（　　）が、結局、上司の意見が優先されて終わった。",
+      "options": ["ことにあったはずだ", "ことにあったためだ", "のにあったはずだ", "のにあったためだ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Mục đích của cuộc họp lẽ ra là để mọi người tự do đưa ra ý tưởng sản phẩm mới, thế nhưng rốt cuộc ý kiến của cấp trên được ưu tiên và kết thúc.",
+        "why": "目的は～ことにある = mục đích nằm ở việc ～ (dùng こと, không dùng の trước にある). Vế sau trái kỳ vọng → はずだ (lẽ ra là) + が.",
+        "options": [
+          "ことにあったはずだ → lẽ ra mục đích là ～. ĐÚNG.",
+          "ことにあったためだ → “là vì” – không có quan hệ nguyên nhân. Sai.",
+          "のにあったはずだ → mẫu 目的は～ことにある không dùng の. Sai.",
+          "のにあったためだ → sai cả hình thức lẫn nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "目的", "r": "もくてき", "hv": "MỤC ĐÍCH", "vi": "mục đích" },
+          { "w": "出し合う", "r": "だしあう", "hv": "XUẤT HỢP", "vi": "cùng nhau đưa ra" },
+          { "w": "上司", "r": "じょうし", "hv": "THƯỢNG TY", "vi": "cấp trên" },
+          { "w": "優先", "r": "ゆうせん", "hv": "ƯU TIÊN", "vi": "ưu tiên" }
+        ],
+        "grammar": {
+          "pattern": "～は～ことにある ／ ～はずだ",
+          "meaning": "(mục đích/vấn đề) nằm ở việc ～ / lẽ ra là, chắc chắn là",
+          "form": "N(目的・問題・原因)は + V辞書形 + ことにある",
+          "example": "この活動の目的は地域の交流を深めることにある。"
+        },
+        "evidence": null,
+        "tip": "はずだったが / はずだが = lẽ ra là… nhưng thực tế lại khác."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "残業が続いて体を壊したときに、自分の人生は（　　）と思って、転職を決めた。",
+      "options": ["このままならいいのではないか", "このままがいいのではないか", "このままよりいいのだろうか", "このままでいいのだろうか"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Khi làm thêm giờ liên tục đến mức hỏng sức khỏe, tôi nghĩ “cuộc đời mình cứ thế này liệu có ổn không?” và quyết định chuyển việc.",
+        "why": "Quyết định chuyển việc → người viết nghi ngờ hiện trạng. このままでいいのだろうか = cứ thế này có được không? (nghi vấn, hàm ý không ổn).",
+        "options": [
+          "このままならいいのではないか → “nếu cứ thế này thì chẳng phải tốt sao” – ngược ý. Sai.",
+          "このままがいいのではないか → “cứ thế này là tốt” – ngược với quyết định chuyển việc. Sai.",
+          "このままよりいいのだろうか → câu không hoàn chỉnh nghĩa (tốt hơn cái gì?). Sai.",
+          "このままでいいのだろうか → cứ thế này liệu có ổn? ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "残業", "r": "ざんぎょう", "hv": "TÀN NGHIỆP", "vi": "làm thêm giờ" },
+          { "w": "体を壊す", "r": "からだをこわす", "hv": "", "vi": "hỏng sức khỏe" },
+          { "w": "転職", "r": "てんしょく", "hv": "CHUYỂN CHỨC", "vi": "chuyển việc" }
+        ],
+        "grammar": {
+          "pattern": "～でいいのだろうか",
+          "meaning": "～ liệu có được không? (nghi vấn, hàm ý không ổn)",
+          "form": "N + でいいのだろうか",
+          "example": "こんな生活でいいのだろうか。"
+        },
+        "evidence": null,
+        "tip": "～のだろうか thường diễn tả sự hoài nghi, tự vấn."
+      }
+    }
+  ]
+}

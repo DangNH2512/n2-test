@@ -1,0 +1,125 @@
+{
+  "exam": "2024-07",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn sau và chọn câu trả lời đúng nhất cho mỗi câu hỏi (đoạn văn dài).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "読むことは、受動的な（注1）作業だと思っている人は意外に多い。（中略）読んでインプットして、書いてアウトプットする。そうではなくて、両方アウトプットなのだというのが、私の持論（注2）である。\nそこにある言葉を読む。すると心には、文字以上のものが広がる。たとえば、子どものころ読んだ海外作品に、聞いたこともない料理名が出てくるということが、よくあった。クロスグリのパイだとか、ジンジャークッキーだとか。食べたことのないものを、懸命に想像して味わう。それを食べる主人公の舌を、獲得するわけである。\n①<u>この行為</u>は、受動ではなく能動（注3）である。「創る」作業である。本でしか読んだことのない食べものを、大人になってから実際に食べ、「違う」と思った経験を持つ人は、意外に多いのではないだろうか。もちろん違うのは私たちの想像なのだが、しかし自分の頭のなかで創った料理のほうが、断然（注4）おいしかった、ということは、よくある。\n本を読まない、というのは、だから、私にとって創造の放棄（注5）である。②<u>つまらない本</u>、相性が悪い本というのはもちろんある。しかしそこで、どこがどんなふうにつまらないのか、どう展開したらおもしろかったのか、自分のどの部分と相性が悪いのか、そんなことを考えていると、つまらない本はおもしろくなるし、相性が悪い本はいつか相性がよくなる日を待とうと思うことができる。私は、おもしろかった本よりつまらなかった本のあらすじを人に話すほうが、ずっと好きだ。どこがどんなふうにつまらなく感じたかを話すのは、それだけ創造の余地（注6）があるからだろう。\n料理でも、絵画でも、あるいは家事の手順でも、創ることの喜びを知ってしまうと、なかなかそれから離れることができない。読むことの楽しみは、と訊かれれば（注7）、創ることの自由さだと私は答える。\n\n（注1）受動的な：ここでは、受け取るだけの\n（注2）持論：いつも持っている考え\n（注3）能動：自ら進んで行うこと\n（注4）断然：ずっと\n（注5）〜の放棄：〜を捨てること\n（注6）余地：ここでは、可能性\n（注7）訊く：「聞く」と同じ"
+    }
+  ],
+  "questions": [
+    {
+      "num": 67,
+      "passage": "p1",
+      "stem": "①<u>この行為</u>とはどういうことか。",
+      "options": [
+        "実際に、主人公が食べていた食べものを味わってみること。",
+        "食べたことのないものを主人公と一緒に食べているところを想像すること。",
+        "主人公がどんな食べものが好きかを想像してみること。",
+        "主人公になりきって、食べたことのないものを想像して味わうこと。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "\"Hành vi này\" là gì? → Hóa thân vào nhân vật chính, tưởng tượng và nếm thử món mình chưa từng ăn.",
+        "why": "この行為 chỉ hai câu ngay trước: 「食べたことのないものを、懸命に想像して味わう。それを食べる主人公の舌を、獲得するわけである」 → có được \"cái lưỡi\" của nhân vật = hóa thân vào nhân vật để tưởng tượng mùi vị → 4.",
+        "options": [
+          "Không phải ăn thật; ăn thật là chuyện khi lớn lên (và thấy \"khác\"). Sai.",
+          "Không phải tưởng tượng mình \"cùng ăn với\" nhân vật, mà trở thành nhân vật (có lưỡi của nhân vật). Sai.",
+          "Không phải đoán nhân vật thích món gì. Sai.",
+          "Hóa thân vào nhân vật, tưởng tượng và thưởng thức món chưa ăn. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "受動的", "r": "じゅどうてき", "hv": "THỤ ĐỘNG ĐÍCH", "vi": "thụ động" },
+          { "w": "能動", "r": "のうどう", "hv": "NĂNG ĐỘNG", "vi": "chủ động" },
+          { "w": "懸命に", "r": "けんめいに", "hv": "HUYỀN MỆNH", "vi": "hết sức, cố gắng" },
+          { "w": "獲得", "r": "かくとく", "hv": "HOẠCH ĐẮC", "vi": "giành được, có được" },
+          { "w": "なりきる", "r": "なりきる", "hv": "", "vi": "nhập vai hoàn toàn, hóa thân" }
+        ],
+        "grammar": {
+          "pattern": "〜わけである",
+          "meaning": "tức là ~, nghĩa là ~ (giải thích, kết luận)",
+          "form": "普通形 + わけである",
+          "example": "つまり、彼は来ないわけだ。"
+        },
+        "evidence": "食べたことのないものを、懸命に想像して味わう。それを食べる主人公の舌を、獲得するわけである。①この行為は、受動ではなく能動である。",
+        "tip": "主人公の舌を獲得する (có lưỡi của nhân vật) = 主人公になりきる."
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p1",
+      "stem": "②<u>つまらない本</u>について、筆者はどのように述べているか。",
+      "options": [
+        "つまらなく感じた点についていろいろ考えていると、おもしろくなる。",
+        "つまらなく感じた理由を考えていると、自分の好みがよく分かってくる。",
+        "つまらないと思っても、いつか必ず相性がよくなる日がくる。",
+        "つまらないと思っても、人にあらすじを話すと面白いところが見つけられる。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tác giả nói gì về \"sách nhàm chán\"? → Nếu suy nghĩ nhiều về những điểm thấy nhàm chán thì sách sẽ trở nên thú vị.",
+        "why": "「どこがどんなふうにつまらないのか、どう展開したらおもしろかったのか…そんなことを考えていると、つまらない本はおもしろくなる」 → 1.",
+        "options": [
+          "Suy nghĩ về điểm nhàm chán → sách trở nên thú vị. ĐÚNG.",
+          "Bài không nói \"hiểu rõ sở thích của mình\". Sai.",
+          "\"Ngày hợp nhau\" là nói về sách 相性が悪い, và chỉ là \"có thể chờ đợi\", không phải \"chắc chắn sẽ đến\". Sai.",
+          "Tác giả thích kể tóm tắt sách nhàm chán vì có chỗ cho sáng tạo, không nói là để tìm điểm thú vị. Sai."
+        ],
+        "vocab": [
+          { "w": "相性", "r": "あいしょう", "hv": "TƯƠNG TÍNH", "vi": "sự hợp nhau" },
+          { "w": "展開", "r": "てんかい", "hv": "TRIỂN KHAI", "vi": "diễn biến, triển khai" },
+          { "w": "あらすじ", "r": "あらすじ", "hv": "", "vi": "tóm tắt nội dung, cốt truyện" },
+          { "w": "余地", "r": "よち", "hv": "DƯ ĐỊA", "vi": "chỗ, khả năng (còn lại)" }
+        ],
+        "grammar": {
+          "pattern": "〜ていると、〜",
+          "meaning": "cứ làm ~ thì (dần dần) ~",
+          "form": "Vている + と",
+          "example": "毎日練習していると、自然に上手になる。"
+        },
+        "evidence": "どこがどんなふうにつまらないのか、どう展開したらおもしろかったのか、自分のどの部分と相性が悪いのか、そんなことを考えていると、つまらない本はおもしろくなるし、…",
+        "tip": "Bẫy: 「必ず」 trong đáp án 3 mạnh hơn ý gốc (待とうと思うことができる)."
+      }
+    },
+    {
+      "num": 69,
+      "passage": "p1",
+      "stem": "本を読むことについて、筆者はどのように考えているか。",
+      "options": [
+        "本を読むことは、料理や絵画より創ることの喜びが大きい。",
+        "本を読むことは、自由に想像を膨らませる楽しい創造の作業だ。",
+        "本を読んでたくさん知ることができれば、創ることの喜びも増す。",
+        "本を読んで想像力を身につければ、生活のなかでも自由に創造が楽しめる。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tác giả nghĩ gì về việc đọc sách? → Đọc sách là công việc sáng tạo thú vị, tự do thả trí tưởng tượng.",
+        "why": "Tác giả cho rằng đọc là \"output\", là việc 「創る」; niềm vui của đọc là 「創ることの自由さ」 → đọc = sáng tạo tự do, thú vị → 2.",
+        "options": [
+          "Không so sánh đọc sách với nấu ăn, hội họa về mức độ niềm vui; chúng chỉ là ví dụ cùng loại. Sai.",
+          "Đọc là công việc sáng tạo, tự do tưởng tượng. ĐÚNG.",
+          "Không nói \"biết nhiều thì niềm vui sáng tạo tăng\". Sai.",
+          "Không nói đọc giúp có trí tưởng tượng để dùng trong đời sống. Sai."
+        ],
+        "vocab": [
+          { "w": "創造", "r": "そうぞう", "hv": "SÁNG TẠO", "vi": "sáng tạo" },
+          { "w": "放棄", "r": "ほうき", "hv": "PHÓNG KHÍ", "vi": "từ bỏ" },
+          { "w": "持論", "r": "じろん", "hv": "TRÌ LUẬN", "vi": "quan điểm riêng (luôn giữ)" },
+          { "w": "膨らませる", "r": "ふくらませる", "hv": "BÀNH", "vi": "làm phồng lên, thả (trí tưởng tượng)" }
+        ],
+        "grammar": {
+          "pattern": "〜と訊かれれば、〜と答える",
+          "meaning": "nếu được hỏi ~ thì tôi sẽ trả lời là ~",
+          "form": "〜と聞かれれば（条件）+ 〜と答える",
+          "example": "趣味は何かと聞かれれば、読書だと答える。"
+        },
+        "evidence": "読むことの楽しみは、と訊かれれば、創ることの自由さだと私は答える。",
+        "tip": "Câu cuối bài (〜と私は答える) là kết luận của tác giả."
+      }
+    }
+  ]
+}

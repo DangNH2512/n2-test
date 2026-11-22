@@ -1,0 +1,125 @@
+{
+  "exam": "2024-12",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn sau và chọn câu trả lời đúng nhất cho mỗi câu hỏi (đoạn văn dài).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "部下や後輩を育てる",
+      "text": "多くのマネジャーやリーダーの人たちに聞くと、部下や後輩に対しては、「なんでも相談するのではなく、自分で工夫して取り組んでほしい」「次にやるべきことを自分で考えて、動いてほしい」という思いをもっています。\nところが一方で、同じマネジャーやリーダーの人から、「自分がやったほうが早い」「育てている暇がない」といった言葉も洩れてきます。部下や後輩に育ってほしいと願ってはいるものの、そのために自分の時間を割いて教え育てる時間の余裕も心の余裕もないというところなのでしょう。\n確かに部下や後輩を育成するのはとてもやっかいで時間がかかります。新入社員を育てる場合には、仕事を細かく一つひとつ教え込んで理解させ、させてみて、フィードバックする（注１）ことを繰り返す必要があり、相当のエネルギーを費やさ（注２）なければなりません。<u>中堅社員（注３）や中途採用者</u>であれば、一人ひとりの個性や能力を考慮しながら対応しなければならないというむずかしさがあります。基本的な職務遂行力（注４）があり、経験もプライドもある人に何をどこまで教えればよいのか。丁寧に教えすぎれば、「そのぐらいはわかっています」と反発されるかもしれないし、大丈夫だろうと放置して（注５）いたら、実は何もわかっていなかったということにもなりかねません。メンバーの主体的な努力をうまく引き出しながら、方向づけをして、しかもよい結果や成果が得られるよう支援していく手加減（注６）が大変むずかしいのです。\n（中略）\n育てようとすることで、みえてくるものがたくさんあります。たとえば、自分にとってとても簡単なことでも、相手になかなか理解してもらえないことがあると気づきます。物事を理解するにもスタイルがあって、個人によってそれは異なるのだとわかります。したがってこの方法がだめならば、今度はこちらの方法で説明しようと、教えるためにはさまざまな工夫が求められます。口頭で説明したけれど理解されなかったので、今度は、紙に絵を描きながら説明しようというように、いろいろな角度からいろいろな方法を使い分けていくことも学びます。\n教えることを通じて、自分でもよく理解していなかったと気づくこともあります。教えるためには曖昧なところ、理解の不十分なところがないように勉強しなければなりません。勉強することで、自分の知識やスキル（注７）がまた上がるのです。\n\n（注１）フィードバックする：ここでは、成果に対してコメントを返す\n（注２）費やす：使う\n（注３）中堅社員：主力となって働いている社員\n（注４）職務遂行力：仕事をやり抜く能力\n（注５）放置する：放っておく\n（注６）手加減：ここでは、調整のしかた\n（注７）スキル：技術"
+    }
+  ],
+  "questions": [
+    {
+      "num": 67,
+      "passage": "p1",
+      "stem": "筆者によると、マネジャーやリーダーは部下や後輩にどうしてほしいと思っているか。",
+      "options": [
+        "教えられたことを参考にしながら、自分でもやり方を工夫してほしい。",
+        "自分で工夫して、一つ一つの仕事にかける時間を減らしてほしい。",
+        "何をやるべきかを自分で考えて、どうやるかを相談してほしい。",
+        "何を、どうやるべきかを自分で考えて、仕事を進めてほしい。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, người quản lý và trưởng nhóm muốn cấp dưới, đàn em làm gì? → Tự suy nghĩ nên làm gì và làm như thế nào, rồi tiến hành công việc.",
+        "why": "Họ muốn: \"đừng việc gì cũng hỏi, hãy tự tìm cách mà làm\" (= tự nghĩ cách làm) và \"tự nghĩ việc cần làm tiếp theo rồi hành động\" (= tự nghĩ làm gì và tiến hành) → đáp án 4 gộp cả hai ý.",
+        "options": [
+          "Bài không nhắc \"tham khảo điều được dạy\". Sai.",
+          "Không nói đến việc giảm thời gian cho mỗi công việc. Sai.",
+          "\"Hãy hỏi ý kiến về cách làm\" trái với なんでも相談するのではなく. Sai.",
+          "Tự nghĩ làm gì (次にやるべきこと) + làm thế nào (自分で工夫) + hành động (動いて). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "部下", "r": "ぶか", "hv": "BỘ HẠ", "vi": "cấp dưới" },
+          { "w": "後輩", "r": "こうはい", "hv": "HẬU BỐI", "vi": "đàn em, hậu bối" },
+          { "w": "取り組む", "r": "とりくむ", "hv": "THỦ TỔ", "vi": "nỗ lực giải quyết, bắt tay vào" },
+          { "w": "相談", "r": "そうだん", "hv": "TƯƠNG ĐÀM", "vi": "bàn bạc, hỏi ý kiến" }
+        ],
+        "grammar": {
+          "pattern": "〜のではなく、〜てほしい",
+          "meaning": "không phải ~ mà muốn (người khác) ~",
+          "form": "V辞書形 ＋ のではなく、Vて ＋ ほしい",
+          "example": "答えを聞くのではなく、自分で調べてほしい。"
+        },
+        "evidence": "「なんでも相談するのではなく、自分で工夫して取り組んでほしい」「次にやるべきことを自分で考えて、動いてほしい」という思いをもっています。",
+        "tip": "Đáp án phải gộp cả hai trích dẫn trong ngoặc 「」. Đáp án 3 bẫy ở chữ 相談."
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p1",
+      "stem": "筆者によると、<u>中堅社員や中途採用者</u>の指導において何がむずかしいか。",
+      "options": [
+        "多くの時間とエネルギーを使って、仕事を細かく教えること。",
+        "それぞれの個性や能力に応じた指導をすること。",
+        "前の仕事の経験を生かせるような指導をすること。",
+        "プライドを傷つけずに、基本的なことを教えること。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo tác giả, khi hướng dẫn nhân viên nòng cốt hay người tuyển giữa chừng, điều gì khó? → Hướng dẫn phù hợp với cá tính và năng lực của từng người.",
+        "why": "Ngay sau cụm gạch chân: phải vừa cân nhắc cá tính, năng lực của từng người vừa ứng xử → đó là cái khó. Các câu sau (dạy bao nhiêu là đủ, dạy kỹ quá thì bị phản ứng…) đều là ví dụ của việc điều chỉnh theo từng người.",
+        "options": [
+          "Dạy chi tiết từng việc tốn thời gian, năng lượng là cái khó khi đào tạo NHÂN VIÊN MỚI. Sai.",
+          "一人ひとりの個性や能力を考慮しながら対応. ĐÚNG.",
+          "Bài không nói về việc tận dụng kinh nghiệm công việc trước. Sai.",
+          "Có nhắc プライド, nhưng vấn đề là \"dạy cái gì, đến đâu\", không phải dạy điều cơ bản mà không làm tổn thương lòng tự trọng; họ vốn đã có năng lực cơ bản. Sai."
+        ],
+        "vocab": [
+          { "w": "中堅社員", "r": "ちゅうけんしゃいん", "hv": "TRUNG KIÊN XÃ VIÊN", "vi": "nhân viên nòng cốt" },
+          { "w": "中途採用", "r": "ちゅうとさいよう", "hv": "TRUNG ĐỒ THẢI DỤNG", "vi": "tuyển dụng giữa chừng (người có kinh nghiệm)" },
+          { "w": "考慮", "r": "こうりょ", "hv": "KHẢO LỰ", "vi": "cân nhắc, xem xét" },
+          { "w": "反発", "r": "はんぱつ", "hv": "PHẢN PHÁT", "vi": "phản kháng, phản ứng lại" },
+          { "w": "放置", "r": "ほうち", "hv": "PHÓNG TRÍ", "vi": "bỏ mặc" }
+        ],
+        "grammar": {
+          "pattern": "〜かねない",
+          "meaning": "có thể dẫn đến (kết quả xấu)",
+          "form": "Vます(bỏ ます)＋かねない",
+          "example": "そんな運転をしていたら、事故を起こしかねない。"
+        },
+        "evidence": "中堅社員や中途採用者であれば、一人ひとりの個性や能力を考慮しながら対応しなければならないというむずかしさがあります。",
+        "tip": "Phân biệt hai đối tượng: 新入社員 (dạy chi tiết, tốn sức) vs 中堅・中途 (điều chỉnh theo từng người)."
+      }
+    },
+    {
+      "num": 69,
+      "passage": "p1",
+      "stem": "教える側の人について、筆者の考えに合うのはどれか。",
+      "options": [
+        "部下や後輩の指導では、相手を理解することに時間をかけるべきだ。",
+        "部下や後輩から学ぶ姿勢があれば、自分の知識や技術が向上する。",
+        "部下や後輩を育てることで気づきが得られ、自らも成長できる。",
+        "自身が成長するために、多くの部下や後輩を指導したほうがいい。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về người dạy, điều nào phù hợp với suy nghĩ của tác giả? → Nhờ đào tạo cấp dưới, đàn em mà nhận ra được nhiều điều và bản thân cũng trưởng thành.",
+        "why": "Phần cuối: cố gắng đào tạo sẽ thấy ra nhiều điều (nhận ra cách hiểu mỗi người khác nhau, nhận ra mình chưa hiểu rõ), và nhờ học để dạy mà kiến thức, kỹ năng của mình lại tăng lên → nhận thức + trưởng thành.",
+        "options": [
+          "Bài không khuyên dành thời gian để hiểu đối phương. Sai.",
+          "Kiến thức tăng lên nhờ tự học để dạy, không phải nhờ \"học từ cấp dưới\". Sai.",
+          "育てようとすることで、みえてくるもの (nhận ra) + 自分の知識やスキルがまた上がる (trưởng thành). ĐÚNG.",
+          "Bài không nói nên dạy \"nhiều\" người để trưởng thành. Sai."
+        ],
+        "vocab": [
+          { "w": "育成", "r": "いくせい", "hv": "DỤC THÀNH", "vi": "đào tạo, nuôi dưỡng" },
+          { "w": "気づき", "r": "きづき", "hv": "KHÍ", "vi": "sự nhận ra, phát hiện" },
+          { "w": "曖昧", "r": "あいまい", "hv": "ÁI MUỘI", "vi": "mơ hồ" },
+          { "w": "口頭", "r": "こうとう", "hv": "KHẨU ĐẦU", "vi": "bằng lời nói" }
+        ],
+        "grammar": {
+          "pattern": "〜を通じて",
+          "meaning": "thông qua ~",
+          "form": "N ＋ を通じて",
+          "example": "仕事を通じて、多くの人と知り合った。"
+        },
+        "evidence": "育てようとすることで、みえてくるものがたくさんあります。…教えることを通じて、自分でもよく理解していなかったと気づくこともあります。…勉強することで、自分の知識やスキルがまた上がるのです。",
+        "tip": "Câu hỏi về toàn bài → đọc kỹ đoạn kết. Bẫy đáp án 2: đổi \"tự học để dạy\" thành \"học từ cấp dưới\"."
+      }
+    }
+  ]
+}

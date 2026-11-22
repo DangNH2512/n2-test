@@ -1,0 +1,136 @@
+{
+  "exam": "2024-07",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "出張の日程は<u>おおよそ</u>決まりました。",
+      "options": ["だいたい", "すべて", "やっと", "もう"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Lịch trình công tác đã được quyết định đại khái rồi.",
+        "why": "おおよそ (大凡) = đại khái, khoảng chừng ≈ だいたい.",
+        "options": [
+          "だいたい → đại khái, phần lớn. ĐÚNG.",
+          "すべて → tất cả, toàn bộ. Sai.",
+          "やっと → cuối cùng cũng (sau khi vất vả). Sai.",
+          "もう → đã, rồi. Sai."
+        ],
+        "vocab": [
+          { "w": "おおよそ", "r": "おおよそ", "hv": "ĐẠI PHÀM", "vi": "đại khái, khoảng chừng" },
+          { "w": "日程", "r": "にってい", "hv": "NHẬT TRÌNH", "vi": "lịch trình" },
+          { "w": "出張", "r": "しゅっちょう", "hv": "XUẤT TRƯƠNG", "vi": "đi công tác" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Nhóm đồng nghĩa: おおよそ ≈ だいたい ≈ ほぼ ≈ およそ."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "彼女はとても<u>行儀</u>がいい。",
+      "options": ["アイディア", "サービス", "マナー", "イメージ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Cô ấy rất lễ phép (cư xử đúng mực).",
+        "why": "行儀 (ぎょうぎ) = phép tắc cư xử, tác phong ≈ マナー (manners). 行儀がいい = マナーがいい.",
+        "options": [
+          "アイディア → ý tưởng. Sai.",
+          "サービス → dịch vụ, phục vụ. Sai.",
+          "マナー → phép lịch sự, cách cư xử. ĐÚNG.",
+          "イメージ → hình ảnh, ấn tượng. Sai."
+        ],
+        "vocab": [
+          { "w": "行儀", "r": "ぎょうぎ", "hv": "HÀNH NGHI", "vi": "phép tắc cư xử, tác phong" },
+          { "w": "マナー", "r": "まなー", "hv": "", "vi": "phép lịch sự, cách cư xử" },
+          { "w": "礼儀", "r": "れいぎ", "hv": "LỄ NGHI", "vi": "lễ nghĩa, phép lịch sự" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "行儀が悪い = vô phép; お行儀よくしなさい = hãy ngoan, cư xử đàng hoàng."
+      }
+    },
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "中西さんは、いつも<u>いばって</u>いる。",
+      "options": ["眠そうにして", "偉そうにして", "暇そうにして", "嫌そうにして"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh Nakanishi lúc nào cũng vênh váo (ra vẻ ta đây).",
+        "why": "いばる (威張る) = làm ra vẻ quan trọng, hống hách ≈ 偉そうにする (tỏ vẻ mình giỏi, mình to).",
+        "options": [
+          "眠そうにして → có vẻ buồn ngủ. Sai.",
+          "偉そうにして → ra vẻ ta đây, kẻ cả. ĐÚNG.",
+          "暇そうにして → có vẻ rảnh rỗi. Sai.",
+          "嫌そうにして → có vẻ khó chịu, không thích. Sai."
+        ],
+        "vocab": [
+          { "w": "威張る", "r": "いばる", "hv": "UY TRƯƠNG", "vi": "vênh váo, hống hách" },
+          { "w": "偉そう", "r": "えらそう", "hv": "VĨ", "vi": "ra vẻ ta đây, kẻ cả" },
+          { "w": "偉い", "r": "えらい", "hv": "VĨ", "vi": "vĩ đại, giỏi giang; chức cao" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "威 (uy) + 張る (căng ra) → \"phô uy\" = vênh váo."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "使わない物は、ここに<u>収納して</u>ください。",
+      "options": ["並べて", "捨てて", "預けて", "しまって"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Những đồ không dùng thì hãy cất vào đây.",
+        "why": "収納する (しゅうのう) = cất giữ, cất vào chỗ ≈ しまう (cất đi, cất vào tủ).",
+        "options": [
+          "並べて → 並べる: xếp thành hàng, bày ra. Sai.",
+          "捨てて → 捨てる: vứt bỏ. Sai.",
+          "預けて → 預ける: gửi (cho ai giữ hộ). Sai.",
+          "しまって → しまう: cất vào. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "収納", "r": "しゅうのう", "hv": "THU NẠP", "vi": "cất giữ, cất chứa" },
+          { "w": "しまう（仕舞う）", "r": "しまう", "hv": "SĨ VŨ", "vi": "cất đi, cất vào" },
+          { "w": "預ける", "r": "あずける", "hv": "DỰ", "vi": "gửi, giao cho giữ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "収納スペース = không gian để đồ; 収納家具 = tủ kệ cất đồ."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "横山さんは<u>不平</u>を言うことが多い。",
+      "options": ["冗談", "文句", "うそ", "わがまま"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh Yokoyama hay than phiền, kêu ca.",
+        "why": "不平 (ふへい) = sự bất mãn, lời kêu ca ≈ 文句 (もんく – lời phàn nàn). 不平を言う = 文句を言う.",
+        "options": [
+          "冗談 → じょうだん: nói đùa. Sai.",
+          "文句 → もんく: lời phàn nàn. ĐÚNG.",
+          "うそ → nói dối. Sai.",
+          "わがまま → ích kỷ, đòi hỏi tùy tiện. Sai."
+        ],
+        "vocab": [
+          { "w": "不平", "r": "ふへい", "hv": "BẤT BÌNH", "vi": "bất mãn, kêu ca" },
+          { "w": "文句", "r": "もんく", "hv": "VĂN CÚ", "vi": "lời phàn nàn" },
+          { "w": "不満", "r": "ふまん", "hv": "BẤT MÃN", "vi": "bất mãn" },
+          { "w": "冗談", "r": "じょうだん", "hv": "NHŨNG ĐÀM", "vi": "lời nói đùa" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm 不平不満を言う = than phiền bất mãn."
+      }
+    }
+  ]
+}

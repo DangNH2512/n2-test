@@ -1,0 +1,137 @@
+{
+  "exam": "2014-12",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ (tiền tố/hậu tố) thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "この器具は使い方を間違えると、けがをする危険（　　）がある。",
+      "options": ["素", "態", "状", "性"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Dụng cụ này nếu dùng sai cách thì có nguy cơ (tính nguy hiểm) bị thương.",
+        "why": "危険性 (きけんせい) = tính nguy hiểm, khả năng nguy hiểm. Hậu tố 〜性 chỉ tính chất/khả năng: 可能性, 安全性, 危険性. Cụm 〜する危険性がある = có nguy cơ ~.",
+        "options": [
+          "素 → 〜素: yếu tố, nguyên tố (要素, 酸素). Không có 危険素. Sai.",
+          "態 → 〜態: trạng thái (状態, 形態). Không có 危険態. Sai.",
+          "状 → 〜状: tình trạng, dạng (症状, 招待状). Không có 危険状. Sai.",
+          "性 → 危険性: tính nguy hiểm, nguy cơ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "危険性", "r": "きけんせい", "hv": "NGUY HIỂM TÍNH", "vi": "tính nguy hiểm, nguy cơ" },
+          { "w": "器具", "r": "きぐ", "hv": "KHÍ CỤ", "vi": "dụng cụ, khí cụ" },
+          { "w": "可能性", "r": "かのうせい", "hv": "KHẢ NĂNG TÍNH", "vi": "khả năng" },
+          { "w": "間違える", "r": "まちがえる", "hv": "GIAN VI", "vi": "nhầm, làm sai" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜がある đi với 性: 危険性がある・可能性がある (có khả năng/nguy cơ)."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "この作業は（　　）経験の人でも簡単にできます。",
+      "options": ["未", "不", "少", "低"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Công việc này ngay cả người chưa có kinh nghiệm cũng làm được dễ dàng.",
+        "why": "未経験 (みけいけん) = chưa có kinh nghiệm. Tiền tố 未〜 = 'chưa ~' (việc lẽ ra sẽ có nhưng chưa xảy ra): 未経験, 未成年, 未完成.",
+        "options": [
+          "未 → 未経験: chưa có kinh nghiệm. ĐÚNG.",
+          "不 → 不〜: không ~ (不便, 不安). Không nói 不経験. Sai.",
+          "少 → không dùng làm tiền tố ghép với 経験 (nói 経験が少ない). Sai.",
+          "低 → 低〜: thấp (低価格, 低温). Không có 低経験. Sai."
+        ],
+        "vocab": [
+          { "w": "未経験", "r": "みけいけん", "hv": "VỊ KINH NGHIỆM", "vi": "chưa có kinh nghiệm" },
+          { "w": "作業", "r": "さぎょう", "hv": "TÁC NGHIỆP", "vi": "công việc, thao tác" },
+          { "w": "未成年", "r": "みせいねん", "hv": "VỊ THÀNH NIÊN", "vi": "vị thành niên" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "未 = chưa (sẽ có sau), 不 = không, 無 = không có, 非 = phi/không phải."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "このカードは期限（　　）なので、使うことができません。",
+      "options": ["越え", "折れ", "切れ", "終え"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Thẻ này đã hết hạn nên không thể sử dụng được.",
+        "why": "期限切れ (きげんぎれ) = hết hạn. 〜切れ (ぎれ) = hết, cạn: 期限切れ, 在庫切れ, 電池切れ, 時間切れ.",
+        "options": [
+          "越え → 〜越え: vượt qua (山越え, 年越し). Không nói 期限越え. Sai.",
+          "折れ → 〜折れ: gãy (骨折れ). Sai.",
+          "切れ → 期限切れ: hết hạn. ĐÚNG.",
+          "終え → 終える là động từ 'kết thúc', không dùng làm hậu tố này. Sai."
+        ],
+        "vocab": [
+          { "w": "期限切れ", "r": "きげんぎれ", "hv": "KỲ HẠN THIẾT", "vi": "hết hạn" },
+          { "w": "期限", "r": "きげん", "hv": "KỲ HẠN", "vi": "kỳ hạn, thời hạn" },
+          { "w": "品切れ", "r": "しなぎれ", "hv": "PHẨM THIẾT", "vi": "hết hàng" },
+          { "w": "電池切れ", "r": "でんちぎれ", "hv": "ĐIỆN TRÌ THIẾT", "vi": "hết pin" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜切れ đọc biến âm thành ぎれ: 品切れ・売り切れ・期限切れ."
+      }
+    },
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "これは（　　）性能のカメラで撮られた映像です。",
+      "options": ["優", "高", "良", "上"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Đây là hình ảnh được quay bằng máy ảnh có tính năng cao.",
+        "why": "高性能 (こうせいのう) = tính năng cao, hiệu suất cao. Tiền tố 高〜 chỉ mức độ cao: 高性能, 高品質, 高収入.",
+        "options": [
+          "優 → 優〜 (優勝, 優秀) không ghép với 性能. Sai.",
+          "高 → 高性能: tính năng cao. ĐÚNG.",
+          "良 → 良〜 (良質, 良心) không nói 良性能. Sai.",
+          "上 → 上〜 (上半期, 上級) không nói 上性能. Sai."
+        ],
+        "vocab": [
+          { "w": "高性能", "r": "こうせいのう", "hv": "CAO TÍNH NĂNG", "vi": "tính năng cao" },
+          { "w": "映像", "r": "えいぞう", "hv": "ẢNH TƯỢNG", "vi": "hình ảnh, video" },
+          { "w": "高品質", "r": "こうひんしつ", "hv": "CAO PHẨM CHẤT", "vi": "chất lượng cao" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cặp đối: 高性能 ⇔ 低性能, 高価格 ⇔ 低価格, 高収入 ⇔ 低収入."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "森さんは毎日掃除をするらしいが、私は忙しいので一日（　　）にしている。",
+      "options": ["あき", "とり", "おき", "とび"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Nghe nói anh Mori ngày nào cũng dọn dẹp, nhưng tôi bận nên dọn cách một ngày (hai ngày một lần).",
+        "why": "〜おき = cách ~ (khoảng cách đều đặn). 一日おき = cách một ngày, ngày làm ngày nghỉ. Đối lập với 毎日 trong vế trước.",
+        "options": [
+          "あき → 空き: chỗ trống, khoảng trống. Không dùng 一日あき. Sai.",
+          "とり → không có cách nói 一日とり. Sai.",
+          "おき → 一日おき: cách một ngày. ĐÚNG.",
+          "とび → 飛び: nhảy, bay; không dùng như hậu tố này. Sai."
+        ],
+        "vocab": [
+          { "w": "〜おき", "r": "おき", "hv": "", "vi": "cách ~ (một ngày, hai mét...)" },
+          { "w": "掃除", "r": "そうじ", "hv": "TẢO TRỪ", "vi": "dọn dẹp" },
+          { "w": "一日おき", "r": "いちにちおき", "hv": "NHẤT NHẬT", "vi": "cách một ngày" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜おき: 2メートルおきに木を植える (trồng cây cách nhau 2 m). 〜ごと cũng gần nghĩa: 1時間ごと = mỗi 1 tiếng."
+      }
+    }
+  ]
+}

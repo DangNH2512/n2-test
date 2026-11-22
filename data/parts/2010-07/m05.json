@@ -1,0 +1,136 @@
+{
+  "exam": "2010-07",
+  "mondai": 5,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉に意味が最も近いものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ có nghĩa gần nhất với từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 23,
+      "passage": null,
+      "stem": "<u>とりあえず</u>社長に電話で話しておいた。",
+      "options": ["さっき", "すぐに", "一応", "直接"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Trước mắt (tạm thời) tôi đã nói qua điện thoại với giám đốc rồi.",
+        "why": "とりあえず = tạm thời, trước hết (làm tạm cho xong bước đầu). 一応(いちおう) = tạm thời, đại khái, cho chắc – nghĩa gần nhất.",
+        "options": [
+          "さっき → lúc nãy. Chỉ thời điểm, sai nghĩa.",
+          "すぐに → ngay lập tức. Sai (とりあえず nhấn “tạm thời”, không nhấn tốc độ).",
+          "一応 → tạm thời, trước mắt. ĐÚNG.",
+          "直接 → trực tiếp. Sai."
+        ],
+        "vocab": [
+          { "w": "とりあえず", "r": "とりあえず", "hv": "", "vi": "trước mắt, tạm thời" },
+          { "w": "一応", "r": "いちおう", "hv": "NHẤT ỨNG", "vi": "tạm thời, đại khái, cho chắc" },
+          { "w": "直接", "r": "ちょくせつ", "hv": "TRỰC TIẾP", "vi": "trực tiếp" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "とりあえずビール！= “Cho bia trước đã!” – hiểu là “trước mắt, tạm”."
+      }
+    },
+    {
+      "num": 24,
+      "passage": null,
+      "stem": "友人がバイクを安く<u>ゆずって</u>くれた。",
+      "options": ["売って", "貸して", "預かって", "直して"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Bạn tôi đã nhượng lại (bán) chiếc xe máy cho tôi với giá rẻ.",
+        "why": "譲る(ゆずる) = nhường, nhượng lại. Có từ 安く (giá rẻ) nên ゆずる ở đây là bán lại → 売る.",
+        "options": [
+          "売って → bán. ĐÚNG (譲る + 安く = bán lại rẻ).",
+          "貸して → cho mượn. Không đi với 安く và không chuyển quyền sở hữu. Sai.",
+          "預かって → nhận giữ hộ. Sai.",
+          "直して → sửa. Sai."
+        ],
+        "vocab": [
+          { "w": "譲る", "r": "ゆずる", "hv": "NHƯỢNG", "vi": "nhường, nhượng lại" },
+          { "w": "預かる", "r": "あずかる", "hv": "DỰ", "vi": "nhận giữ hộ" },
+          { "w": "席を譲る", "r": "せきをゆずる", "hv": "", "vi": "nhường ghế" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "譲る có 2 nghĩa: nhường (席を譲る) và nhượng lại/bán (車を譲る)."
+      }
+    },
+    {
+      "num": 25,
+      "passage": null,
+      "stem": "<u>雑談</u>をしているときにいいアイディアが浮かんだ。",
+      "options": ["あいさつ", "おしゃべり", "説明", "報告"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Trong lúc tán gẫu thì nảy ra ý tưởng hay.",
+        "why": "雑談(ざつだん) = nói chuyện phiếm, tán gẫu. Gần nghĩa nhất là おしゃべり (chuyện trò, buôn chuyện).",
+        "options": [
+          "あいさつ → chào hỏi. Sai.",
+          "おしゃべり → tán gẫu, chuyện trò. ĐÚNG.",
+          "説明 → giải thích. Sai.",
+          "報告 → báo cáo. Sai."
+        ],
+        "vocab": [
+          { "w": "雑談", "r": "ざつだん", "hv": "TẠP ĐÀM", "vi": "nói chuyện phiếm" },
+          { "w": "おしゃべり", "r": "おしゃべり", "hv": "", "vi": "tán gẫu; người nói nhiều" },
+          { "w": "浮かぶ", "r": "うかぶ", "hv": "PHÙ", "vi": "nổi lên, nảy ra (ý tưởng)" },
+          { "w": "報告", "r": "ほうこく", "hv": "BÁO CÁO", "vi": "báo cáo" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "雑 = tạp, linh tinh: 雑談 (chuyện linh tinh), 雑用 (việc vặt)."
+      }
+    },
+    {
+      "num": 26,
+      "passage": null,
+      "stem": "うちの犬はとても<u>かしこい</u>。",
+      "options": ["頭がいい", "足が速い", "めずらしい", "おとなしい"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Con chó nhà tôi rất thông minh.",
+        "why": "賢い(かしこい) = thông minh, khôn ngoan = 頭がいい.",
+        "options": [
+          "頭がいい → thông minh. ĐÚNG.",
+          "足が速い → chạy nhanh. Sai.",
+          "めずらしい → hiếm, lạ. Sai.",
+          "おとなしい → hiền lành, ngoan ngoãn (tính cách điềm tĩnh). Sai."
+        ],
+        "vocab": [
+          { "w": "賢い", "r": "かしこい", "hv": "HIỀN", "vi": "thông minh, khôn" },
+          { "w": "珍しい", "r": "めずらしい", "hv": "TRÂN", "vi": "hiếm, lạ" },
+          { "w": "大人しい", "r": "おとなしい", "hv": "ĐẠI NHÂN", "vi": "hiền lành, trầm tính" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Đừng nhầm おとなしい (ngoan, hiền) với かしこい (khôn)."
+      }
+    },
+    {
+      "num": 27,
+      "passage": null,
+      "stem": "彼の話はいつも<u>大げさ</u>だ。",
+      "options": ["エネルギーがある", "ユーモアがある", "オープンだ", "オーバーだ"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Câu chuyện của anh ta lúc nào cũng phóng đại.",
+        "why": "大げさ(おおげさ) = khoa trương, phóng đại. Trong tiếng Nhật オーバー (over) cũng có nghĩa “làm quá, phóng đại”.",
+        "options": [
+          "エネルギーがある → có năng lượng, sôi nổi. Sai.",
+          "ユーモアがある → hài hước. Sai.",
+          "オープンだ → cởi mở. Sai.",
+          "オーバーだ → quá lố, phóng đại. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "大げさ", "r": "おおげさ", "hv": "ĐẠI", "vi": "phóng đại, khoa trương" },
+          { "w": "オーバー", "r": "オーバー", "hv": "", "vi": "quá mức, làm quá" },
+          { "w": "ユーモア", "r": "ユーモア", "hv": "", "vi": "sự hài hước" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "大げさに言う = オーバーに言う = 誇張(こちょう)する."
+      }
+    }
+  ]
+}

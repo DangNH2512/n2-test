@@ -1,0 +1,192 @@
+{
+  "exam": "2024-12",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ đúng nhất để điền vào chỗ trống (theo ngữ cảnh).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "会員の登録が（　　）したので、今からサービスを利用できます。",
+      "options": ["決着", "完了", "終業", "到達"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Việc đăng ký hội viên đã hoàn tất nên từ bây giờ bạn có thể sử dụng dịch vụ.",
+        "why": "完了 (かんりょう) = hoàn tất một thủ tục/công việc. 登録が完了する (đăng ký hoàn tất) là cụm cố định trên các trang web.",
+        "options": [
+          "決着 → けっちゃく: ngã ngũ, được giải quyết (tranh chấp, trận đấu). Sai.",
+          "完了 → かんりょう: hoàn tất. ĐÚNG.",
+          "終業 → しゅうぎょう: kết thúc giờ làm/học kỳ. Sai.",
+          "到達 → とうたつ: đạt tới (mục tiêu, địa điểm). Sai."
+        ],
+        "vocab": [
+          { "w": "完了", "r": "かんりょう", "hv": "HOÀN LIỄU", "vi": "hoàn tất" },
+          { "w": "登録", "r": "とうろく", "hv": "ĐĂNG LỤC", "vi": "đăng ký" },
+          { "w": "決着", "r": "けっちゃく", "hv": "QUYẾT TRƯỚC", "vi": "ngã ngũ, kết thúc (tranh chấp)" },
+          { "w": "到達", "r": "とうたつ", "hv": "ĐÁO ĐẠT", "vi": "đạt tới" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Collocation: 登録完了・準備完了・作業完了. 決着がつく (vấn đề ngã ngũ)."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "年を取って運動をしなくなると、筋肉がだんだん（　　）いきます。",
+      "options": ["潰れて", "欠けて", "尽きて", "衰えて"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Khi có tuổi và không vận động nữa, cơ bắp sẽ dần dần suy yếu đi.",
+        "why": "衰える (おとろえる) = suy yếu, sa sút (sức khỏe, cơ bắp, trí nhớ). 筋肉が衰える là cụm tự nhiên, đi với だんだん〜ていく.",
+        "options": [
+          "潰れて → つぶれる: bị đè bẹp; (công ty) phá sản. Sai.",
+          "欠けて → かける: bị sứt mẻ; thiếu. Sai.",
+          "尽きて → つきる: cạn kiệt, hết (体力が尽きる dùng được nhưng 筋肉が尽きる thì không). Sai.",
+          "衰えて → おとろえる: suy yếu. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "衰える", "r": "おとろえる", "hv": "SUY", "vi": "suy yếu, sa sút" },
+          { "w": "筋肉", "r": "きんにく", "hv": "CÂN NHỤC", "vi": "cơ bắp" },
+          { "w": "潰れる", "r": "つぶれる", "hv": "HỘI", "vi": "bị bẹp; phá sản" },
+          { "w": "尽きる", "r": "つきる", "hv": "TẬN", "vi": "cạn kiệt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "衰 = SUY (衰退 すいたい: suy thoái). 体力・記憶力・人気 + が衰える."
+      }
+    },
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "会議時間が残り少なくなったので、資料の詳細な説明は（　　）して、要点のみを説明した。",
+      "options": ["減量", "休止", "節約", "省略"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vì thời gian họp còn ít nên tôi đã lược bỏ phần giải thích chi tiết tài liệu, chỉ trình bày những điểm chính.",
+        "why": "省略 (しょうりゃく) = lược bỏ, bỏ bớt một phần. Bỏ phần chi tiết, chỉ nói ý chính → 省略.",
+        "options": [
+          "減量 → げんりょう: giảm cân, giảm lượng. Sai.",
+          "休止 → きゅうし: tạm ngừng (hoạt động). Sai.",
+          "節約 → せつやく: tiết kiệm (tiền, điện). Sai.",
+          "省略 → しょうりゃく: lược bỏ. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "省略", "r": "しょうりゃく", "hv": "TỈNH LƯỢC", "vi": "lược bỏ, tỉnh lược" },
+          { "w": "要点", "r": "ようてん", "hv": "YẾU ĐIỂM", "vi": "điểm chính" },
+          { "w": "詳細", "r": "しょうさい", "hv": "TƯỜNG TẾ", "vi": "chi tiết" },
+          { "w": "節約", "r": "せつやく", "hv": "TIẾT ƯỚC", "vi": "tiết kiệm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "〜を省略する ↔ 〜を詳しく説明する. 省 cũng đọc はぶく (省く: bỏ bớt)."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "この小説はフィクションだと（　　）いたが、実際にあった話らしい。",
+      "options": ["思い込んで", "思い起こして", "考え抜いて", "考えついて"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi cứ đinh ninh cuốn tiểu thuyết này là hư cấu, nhưng hình như đó là chuyện có thật.",
+        "why": "思い込む (おもいこむ) = tin chắc, đinh ninh (thường là sai). Mẫu 〜と思い込んでいたが、実際は… thể hiện niềm tin sai lầm.",
+        "options": [
+          "思い込んで → đinh ninh, tin chắc (nhầm). ĐÚNG.",
+          "思い起こして → nhớ lại (chuyện quá khứ). Sai.",
+          "考え抜いて → suy nghĩ thấu đáo đến cùng. Sai.",
+          "考えついて → nghĩ ra (ý tưởng). Sai."
+        ],
+        "vocab": [
+          { "w": "思い込む", "r": "おもいこむ", "hv": "TƯ", "vi": "đinh ninh, tin chắc" },
+          { "w": "思い起こす", "r": "おもいおこす", "hv": "TƯ KHỞI", "vi": "nhớ lại" },
+          { "w": "考え抜く", "r": "かんがえぬく", "hv": "KHẢO BẠT", "vi": "suy nghĩ thấu đáo" },
+          { "w": "実際", "r": "じっさい", "hv": "THỰC TẾ", "vi": "thực tế" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Dấu hiệu: 〜と（　）いたが、実際は… → gần như luôn là 思い込んでいた."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "山口さんは、子どもが怖がらないように優しい（　　）で話しかけた。",
+      "options": ["音声", "口調", "顔色", "内心"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh Yamaguchi đã bắt chuyện bằng giọng điệu dịu dàng để đứa trẻ không sợ.",
+        "why": "口調 (くちょう) = giọng điệu, cách nói. 優しい口調で話す là cụm tự nhiên; 〜で話しかける cần từ chỉ cách nói.",
+        "options": [
+          "音声 → おんせい: âm thanh, giọng (về mặt kỹ thuật: 音声ガイド). Không đi với 優しい. Sai.",
+          "口調 → くちょう: giọng điệu. ĐÚNG.",
+          "顔色 → かおいろ: sắc mặt. Không \"nói bằng sắc mặt\". Sai.",
+          "内心 → ないしん: trong lòng, thâm tâm. Sai."
+        ],
+        "vocab": [
+          { "w": "口調", "r": "くちょう", "hv": "KHẨU ĐIỆU", "vi": "giọng điệu, cách nói" },
+          { "w": "話しかける", "r": "はなしかける", "hv": "THOẠI", "vi": "bắt chuyện" },
+          { "w": "怖がる", "r": "こわがる", "hv": "BỐ", "vi": "sợ (ngôi thứ 3)" },
+          { "w": "内心", "r": "ないしん", "hv": "NỘI TÂM", "vi": "trong lòng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "優しい／厳しい／丁寧な＋口調. 口調 ≈ 話し方."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "部下に仕事を教えるのは、上司の（　　）の一つだ。",
+      "options": ["労働", "勤務", "役目", "当番"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Dạy việc cho cấp dưới là một trong những vai trò (nhiệm vụ) của cấp trên.",
+        "why": "役目 (やくめ) = vai trò, nhiệm vụ gắn với vị trí. 上司の役目 = trách nhiệm của sếp.",
+        "options": [
+          "労働 → ろうどう: lao động (nói chung). Sai.",
+          "勤務 → きんむ: làm việc (ở nơi nào, ca nào). Sai.",
+          "役目 → やくめ: vai trò, nhiệm vụ. ĐÚNG.",
+          "当番 → とうばん: phiên trực luân phiên (掃除当番). Sai."
+        ],
+        "vocab": [
+          { "w": "役目", "r": "やくめ", "hv": "DỊCH MỤC", "vi": "vai trò, nhiệm vụ" },
+          { "w": "部下", "r": "ぶか", "hv": "BỘ HẠ", "vi": "cấp dưới" },
+          { "w": "上司", "r": "じょうし", "hv": "THƯỢNG TƯ", "vi": "cấp trên" },
+          { "w": "当番", "r": "とうばん", "hv": "ĐƯƠNG PHIÊN", "vi": "phiên trực" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "役目を果たす (hoàn thành vai trò) — cụm hay gặp. Gần nghĩa: 役割・任務."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "森さんは外食のとき、いつも誰かに払ってもらおうとするので、（　　）人だと思う。",
+      "options": ["みずみずしい", "たどたどしい", "ずうずうしい", "よわよわしい"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh Mori khi ăn ngoài lúc nào cũng tìm cách để người khác trả tiền, nên tôi nghĩ anh ta là người trơ trẽn.",
+        "why": "ずうずうしい (図々しい) = trơ tráo, mặt dày, không biết ngại. Luôn để người khác trả tiền → ずうずうしい.",
+        "options": [
+          "みずみずしい → tươi mơn mởn (rau quả, làn da). Sai.",
+          "たどたどしい → ngập ngừng, vấp váp (nói/đi chưa thạo). Sai.",
+          "ずうずうしい → trơ trẽn, mặt dày. ĐÚNG.",
+          "よわよわしい → yếu ớt. Sai."
+        ],
+        "vocab": [
+          { "w": "図々しい", "r": "ずうずうしい", "hv": "ĐỒ", "vi": "trơ tráo, mặt dày" },
+          { "w": "外食", "r": "がいしょく", "hv": "NGOẠI THỰC", "vi": "ăn ngoài" },
+          { "w": "瑞々しい", "r": "みずみずしい", "hv": "THỤY", "vi": "tươi mơn mởn" },
+          { "w": "たどたどしい", "r": "たどたどしい", "hv": "", "vi": "ngập ngừng, vụng về" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "ずうずうしい ≈ 厚かましい (câu 10). Hai từ này hay ra cùng một đề."
+      }
+    }
+  ]
+}

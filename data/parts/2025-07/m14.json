@@ -1,0 +1,74 @@
+{
+  "exam": "2025-07",
+  "mondai": 14,
+  "section": "reading",
+  "instruction": "右のページは、ある大学の公開講座の案内である。下の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Trang bên là thông báo về các khóa học mở của một trường đại học. Chọn câu trả lời đúng nhất cho các câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "野村農業大学　公開講座",
+      "text": "野村農業大学　公開講座\n「自然に親しむ講座」\n野村農業大学では、自然への理解を深めるための講座を実施します。\n\n①　秋の花に親しむ\n　講座内容：秋の花の育て方を学び、実習で鉢に花を植えます。\n　日時：10/8（日）14時〜16時\n　受講料：3,000円\n②　森の木を守る\n　講座内容：日本の森の現状を知り、森の木を守り、育てる方法を学びます。\n　日時：10/14（土）9時〜11時\n　受講料：2,000円\n③　身近な花を撮る\n　講座内容：身近にさいている花の種類について学び、実習で大学周辺での撮影を行います。\n　日時：12/2（土）9時〜11時\n　受講料：2,500円\n④　野菜を知る\n　講座内容：家庭で簡単に育てられる野菜を知り、実習でホウレンソウを収穫します。\n　日時：12/10（日）14時〜16時\n　受講料：3,000円\n⑤　木の香りを楽しむ\n　講座内容：木の香りとその効果を学び、実習で香水を作ります。\n　日時：12/16（土）9時〜11時\n　受講料：5,000円\n\n<u>講座について</u>\n・定員：各講座25名\n・②以外の講座では、講義のほかに実習も行います。実習にかかる材料費等は受講料に含まれています。\n\n<u>受講手続きについて</u>\n・申し込み受付期間：①②　9月1日(金)〜9月15日(金)\n　　　　　　　　　　③④⑤　11月1日(水)〜11月15日(水)\n・申し込み方法：ホームページまたは電話で申し込みをしてください。申し込み多数の場合は抽選となります。\n・受講が決定した方には、しめ切り後10日以内にふり込み用紙を送ります。講座開始の5日前までに受講料のふり込みをお願いします。\n・申し込み受付期間が過ぎている場合でも、定員に達していなければ講座開始の3日前までなら申し込み可能です。電話でご確認ください。その際にふり込み先をお伝えしますので、講座開始の2日前までに受講料をふり込んでください。\n\n<u>問い合わせ・申し込み先</u>\n野村農業大学生涯学習センター窓口　15号館1階（平日9:00〜17:00）\n電話：021-543-0101　ホームページ：https://www.nomura_nougyou.ac.jp/kouza"
+    }
+  ],
+  "questions": [
+    {
+      "num": 70,
+      "passage": "p1",
+      "stem": "前田さんは、花か木について学べる講座を受けたいと思っている。午前中に行われる講座で、講義だけではなく実習もある講座がいい。前田さんの希望に合う講座はどれか。",
+      "options": ["①と③と⑤", "②と③", "③と⑤", "③のみ"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Anh Maeda muốn học khóa về hoa hoặc cây. Muốn khóa tổ chức buổi sáng, có cả thực hành chứ không chỉ lý thuyết. Khóa nào phù hợp? → ③ và ⑤.",
+        "why": "Điều kiện: (1) hoa hoặc cây → ①②③⑤ (loại ④ rau); (2) buổi sáng 9–11h → ②③⑤ (loại ① 14–16h); (3) có thực hành → loại ② (②以外の講座では…実習も行います). Còn lại ③ và ⑤.",
+        "options": [
+          "① học buổi chiều (14時〜16時). Sai.",
+          "② không có thực hành. Sai.",
+          "③ (hoa, 9–11h, có thực hành chụp ảnh) và ⑤ (cây, 9–11h, có thực hành làm nước hoa). ĐÚNG.",
+          "Thiếu ⑤ – khóa về hương gỗ cũng là về 'cây'. Sai."
+        ],
+        "vocab": [
+          { "w": "公開講座", "r": "こうかいこうざ", "hv": "CÔNG KHAI GIẢNG TỌA", "vi": "khóa học mở (cho công chúng)" },
+          { "w": "実習", "r": "じっしゅう", "hv": "THỰC TẬP", "vi": "thực hành" },
+          { "w": "講義", "r": "こうぎ", "hv": "GIẢNG NGHĨA", "vi": "bài giảng" },
+          { "w": "香水", "r": "こうすい", "hv": "HƯƠNG THỦY", "vi": "nước hoa" }
+        ],
+        "grammar": null,
+        "evidence": "③ 身近な花を撮る 12/2（土）9時〜11時／⑤ 木の香りを楽しむ 12/16（土）9時〜11時／②以外の講座では、講義のほかに実習も行います。",
+        "tip": "Lọc từng điều kiện một và gạch bỏ dần. Chú ý dòng ghi chú nhỏ 「②以外の講座では…」."
+      }
+    },
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "ニコラスさんは公開講座の案内を見て、④の講座を受けたいと思った。今日は12月3日である。ニコラスさんはどのように申し込まなければならないか。",
+      "options": [
+        "12月5日までにホームページか電話で空きを確認し申し込む。",
+        "12月5日までに電話で空きを確認し申し込む。",
+        "12月7日までにホームページか電話で空きを確認し申し込む。",
+        "12月7日までに電話で空きを確認し申し込む。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Anh Nicholas muốn học khóa ④. Hôm nay là ngày 3/12. Anh ấy phải đăng ký như thế nào? → Gọi điện xác nhận còn chỗ và đăng ký trước ngày 7/12.",
+        "why": "Khóa ④ ngày 12/10; thời gian nhận đăng ký (11/1–11/15) đã qua. Theo quy định: nếu chưa đủ người thì có thể đăng ký đến 3 ngày trước ngày khai giảng (10 − 3 = 7/12), và phải xác nhận bằng điện thoại (電話でご確認ください) → đáp án 4.",
+        "options": [
+          "Hạn 12/5 là 'nộp phí 5 ngày trước' cho người đăng ký đúng hạn; và không dùng trang web. Sai.",
+          "Hạn 12/5 sai. Sai.",
+          "Hạn đúng nhưng quá hạn thì phải xác nhận bằng điện thoại, không qua web. Sai.",
+          "Trước 12/7, xác nhận chỗ trống qua điện thoại rồi đăng ký. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "申し込み", "r": "もうしこみ", "hv": "THÂN", "vi": "đăng ký" },
+          { "w": "受付期間", "r": "うけつけきかん", "hv": "THỤ PHÓ KỲ GIAN", "vi": "thời gian tiếp nhận" },
+          { "w": "定員", "r": "ていいん", "hv": "ĐỊNH VIÊN", "vi": "số người tối đa" },
+          { "w": "抽選", "r": "ちゅうせん", "hv": "TRỪU TUYỂN", "vi": "bốc thăm" },
+          { "w": "ふり込み", "r": "ふりこみ", "hv": "CHẤN", "vi": "chuyển khoản" }
+        ],
+        "grammar": null,
+        "evidence": "申し込み受付期間が過ぎている場合でも、定員に達していなければ講座開始の3日前までなら申し込み可能です。電話でご確認ください。",
+        "tip": "Bẫy: 'ホームページまたは電話' chỉ áp dụng trong thời gian đăng ký chính thức; quá hạn thì chỉ điện thoại."
+      }
+    }
+  ]
+}

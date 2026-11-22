@@ -1,0 +1,136 @@
+{
+  "exam": "2024-12",
+  "mondai": 9,
+  "section": "grammar",
+  "instruction": "次の文章を読んで、文章全体の内容を考えて、48から51の中に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn, dựa vào nội dung toàn bài, chọn phương án đúng nhất cho các ô 48–51.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "農業ボランティア",
+      "text": "以下は、留学生の作文である。\n\n農業ボランティア\nゴメス　フランシスコ\n\n半年前、私は友達に誘われて、働き手が足りない農家を手伝う「農業ボランティア」を始めた。過去にごみ拾いなどのボランティアはしたことがあったが、農業ボランティアのことは友達に聞くまで知らなかった。私は日本でいろいろな経験をしたいと思っていたので、参加することにした。\n私が手伝っているのは南さんという農家だ。40代の夫婦がトマトやキャベツなど、いろいろな野菜を作っている。農作業は初めての経験だったが、農業は想像していた以上に知識や経験が必要だと感じた。（48）、収穫のタイミングは、成長の具合や天気予報をもとに、いつがいいかを判断しなければならない。また、トマトなどは成長の段階に応じて与える水の量を変えないとしっかり育たない。体力（49）必要で、農業は本当に大変な仕事だ。\n収穫したばかりのトマトを初めて食べさせてもらったときはあまりにおいしくて（50）。収穫したときの達成感や大切に育てた野菜を味わう喜びは、このボランティアに参加しなければ感じられなかっただろう。\n農業ボランティアとして役に立てたことが嬉しかったし、多くの貴重な経験をすることができた。（51）本当に良かったと思う。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 48,
+      "passage": "p1",
+      "stem": "（48）に入るもの",
+      "options": ["一方", "そして", "例えば", "ただし"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tôi cảm thấy làm nông cần nhiều kiến thức và kinh nghiệm hơn tưởng tượng. Ví dụ, thời điểm thu hoạch phải dựa vào mức độ sinh trưởng và dự báo thời tiết để phán đoán lúc nào là tốt.",
+        "why": "Câu trước nêu nhận định chung (làm nông cần kiến thức, kinh nghiệm); câu sau đưa ra trường hợp cụ thể (phán đoán thời điểm thu hoạch, lượng nước tưới) → từ nối đưa ví dụ 例えば.",
+        "options": [
+          "一方 → mặt khác (đối chiếu hai mặt). Câu sau không đối lập. Sai.",
+          "そして → và rồi (nối tiếp sự việc). Không phải quan hệ ví dụ. Sai.",
+          "例えば → ví dụ như. ĐÚNG.",
+          "ただし → tuy nhiên (thêm điều kiện, ngoại lệ). Sai."
+        ],
+        "vocab": [
+          { "w": "収穫", "r": "しゅうかく", "hv": "THU HOẠCH", "vi": "thu hoạch" },
+          { "w": "具合", "r": "ぐあい", "hv": "CỤ HỢP", "vi": "tình trạng, mức độ" },
+          { "w": "判断", "r": "はんだん", "hv": "PHÁN ĐOÁN", "vi": "phán đoán" }
+        ],
+        "grammar": {
+          "pattern": "例えば",
+          "meaning": "ví dụ như (cụ thể hóa ý vừa nêu)",
+          "form": "Nhận định chung。例えば、ví dụ cụ thể。",
+          "example": "日本には有名な祭りが多い。例えば、京都の祇園祭がある。"
+        },
+        "evidence": "農業は想像していた以上に知識や経験が必要だと感じた。（48）、収穫のタイミングは、成長の具合や天気予報をもとに、いつがいいかを判断しなければならない。",
+        "tip": "Câu trước trừu tượng → câu sau cụ thể = 例えば. Sau đó còn また (thêm ví dụ thứ hai) củng cố đáp án."
+      }
+    },
+    {
+      "num": 49,
+      "passage": "p1",
+      "stem": "（49）に入るもの",
+      "options": ["だけ", "も", "は", "こそ"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Ngoài ra, cà chua nếu không thay đổi lượng nước tùy theo giai đoạn sinh trưởng thì sẽ không lớn tốt được. Thể lực cũng cần nữa, nông nghiệp thật sự là công việc vất vả.",
+        "why": "Trước đó đã nói cần \"kiến thức và kinh nghiệm\"; giờ thêm một yếu tố nữa là thể lực → trợ từ も (cũng) để bổ sung.",
+        "options": [
+          "だけ → chỉ cần thể lực: mâu thuẫn với việc đã nói cần kiến thức, kinh nghiệm. Sai.",
+          "も → thể lực cũng cần. ĐÚNG.",
+          "は → nêu thể lực như chủ đề đối chiếu, không thể hiện ý \"thêm vào\". Sai.",
+          "こそ → chính thể lực mới cần: nhấn mạnh quá mức, trái mạch văn. Sai."
+        ],
+        "vocab": [
+          { "w": "体力", "r": "たいりょく", "hv": "THỂ LỰC", "vi": "thể lực" },
+          { "w": "段階", "r": "だんかい", "hv": "ĐOẠN GIAI", "vi": "giai đoạn" },
+          { "w": "〜に応じて", "r": "におうじて", "hv": "ỨNG", "vi": "tùy theo ~" }
+        ],
+        "grammar": {
+          "pattern": "Nも（追加）",
+          "meaning": "N cũng (bổ sung thêm một yếu tố)",
+          "form": "N ＋ も",
+          "example": "この仕事は語学力が必要だし、体力も必要だ。"
+        },
+        "evidence": "農業は想像していた以上に知識や経験が必要だと感じた。…体力（49）必要で、農業は本当に大変な仕事だ。",
+        "tip": "Liệt kê thêm một điều kiện vào danh sách đã nêu → も."
+      }
+    },
+    {
+      "num": 50,
+      "passage": "p1",
+      "stem": "（50）に入るもの",
+      "options": ["感動したことだ", "感動していた", "感動したはずだ", "感動してしまった"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Lần đầu được cho ăn quả cà chua vừa mới thu hoạch, nó ngon quá đến nỗi tôi đã xúc động (không kìm được).",
+        "why": "あまりに〜て + kết quả cảm xúc không kìm được → 〜てしまった. Kể lại trải nghiệm của chính mình trong quá khứ (một lần) → 感動してしまった.",
+        "options": [
+          "感動したことだ → \"là việc đã cảm động\": không thành câu tự nhiên. Sai.",
+          "感動していた → trạng thái kéo dài (đã đang cảm động), không hợp với khoảnh khắc ăn lần đầu. Sai.",
+          "感動したはずだ → \"chắc là đã cảm động\": phỏng đoán, không dùng cho trải nghiệm của chính mình. Sai.",
+          "感動してしまった → đã xúc động (không kìm được). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "感動", "r": "かんどう", "hv": "CẢM ĐỘNG", "vi": "xúc động, cảm động" },
+          { "w": "あまりに", "r": "あまりに", "hv": "", "vi": "quá (mức)" },
+          { "w": "達成感", "r": "たっせいかん", "hv": "ĐẠT THÀNH CẢM", "vi": "cảm giác thành tựu" }
+        ],
+        "grammar": {
+          "pattern": "あまりに〜て、〜てしまった",
+          "meaning": "vì quá ~ nên (bất giác) ~ mất",
+          "form": "あまりに＋A／V て ＋ Vてしまった",
+          "example": "あまりに疲れていて、電車で寝てしまった。"
+        },
+        "evidence": "収穫したばかりのトマトを初めて食べさせてもらったときはあまりにおいしくて（50）。",
+        "tip": "Câu kể trải nghiệm bản thân → loại はずだ (phỏng đoán về người khác/điều chưa chắc)."
+      }
+    },
+    {
+      "num": 51,
+      "passage": "p1",
+      "stem": "（51）に入るもの",
+      "options": ["やってみて", "やってみても", "やってみたら", "やってみたから"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi vui vì đã có ích với tư cách tình nguyện viên nông nghiệp, và đã có được nhiều trải nghiệm quý giá. Tôi nghĩ đã làm thử thật là tốt.",
+        "why": "〜てよかった = may mà đã ~, thật tốt vì đã ~. やってみて本当に良かった = thật tốt vì đã thử làm. Đây là cách kết bài tổng kết cảm nhận rất tự nhiên.",
+        "options": [
+          "やってみて → 〜てよかった: thật tốt vì đã thử. ĐÚNG.",
+          "やってみても → \"dù có thử cũng…\": nhượng bộ, mâu thuẫn với 良かった. Sai.",
+          "やってみたら → \"thử làm thì (phát hiện)\": sau đó cần kết quả phát hiện; 〜たら良かった lại mang nghĩa tiếc nuối (giá mà). Sai.",
+          "やってみたから → \"vì đã thử nên\": không tạo thành mẫu cảm thán 〜てよかった. Sai."
+        ],
+        "vocab": [
+          { "w": "貴重", "r": "きちょう", "hv": "QUÝ TRỌNG", "vi": "quý giá" },
+          { "w": "役に立つ", "r": "やくにたつ", "hv": "DỊCH LẬP", "vi": "có ích" },
+          { "w": "嬉しい", "r": "うれしい", "hv": "HY", "vi": "vui mừng" }
+        ],
+        "grammar": {
+          "pattern": "〜てよかった",
+          "meaning": "thật tốt vì đã ~, may mà đã ~",
+          "form": "Vて ＋ よかった",
+          "example": "思い切って留学してよかった。"
+        },
+        "evidence": "農業ボランティアとして役に立てたことが嬉しかったし、多くの貴重な経験をすることができた。（51）本当に良かったと思う。",
+        "tip": "Phân biệt: 〜てよかった (vui vì đã làm) ↔ 〜ばよかった／〜たらよかった (tiếc vì đã không làm)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "exam": "2014-07",
+  "mondai": 12,
+  "section": "reading",
+  "instruction": "次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc hai đoạn văn A và B, chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "A",
+      "label": "A",
+      "text": "最近、人工知能を持ったロボットを見た。まぶたや目を動かすだけでなく、言葉を理解し返事をしてくれるロボットだ。ほかにも、動物の姿をしたロボットで、呼びかけると生きているかのような愛らしいしぐさで反応するものもある。もし私のそばにそのようなロボットがいたら、穏やかな気持ちで毎日を楽しんで過ごすことができるだろう。\n人形や動物のようなロボットの心理的効果は科学的にも証明されていて、児童施設や病院でも利用されているそうだ。今後価格が下がったら、私も購入したいと思う。"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "text": "これまでロボットといえば産業用ロボットが中心だったが、最近家庭向けロボットが販売されるようになった。よく目にするのは自動で床掃除をする円形のロボットだが、機能を一つに絞ったおかげで価格が下がり、消費者も買い求めやすくなっている。\n「掃除のために高いロボットを買わなくても」とか「今のロボットではまだかんぺきな仕事ができないのだから意味がない」と考える人もいるだろう。しかし、忙しい現代は、ロボットに少しでも家事を負担してもらうことで空いた時間を、他のことに活用したいという人が多いのではないか。私もロボットを利用することによって得られた時間を家族と一緒に楽しみ、充実した生活を送りたいと考えている一人だ。"
+    }
+  ],
+  "questions": [
+    {
+      "num": 69,
+      "passage": "AB",
+      "stem": "AとBの筆者は、自身が欲しいロボットはどのようなものだと述べているか。",
+      "options": [
+        "AもBも、多機能で値段が安いロボットだと述べている。",
+        "AもBも、家庭で一緒に遊べるようなロボットだと述べている。",
+        "Aは人間の気持ちが理解できるロボットだと述べ、Bは面倒な仕事をしてくれるロボットだと述べている。",
+        "Aは心のふれ合いを感じさせてくれるロボットだと述べ、Bは家事を助けてくれるロボットだと述べている。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả A và B nói robot mình muốn là loại thế nào? → A: robot cho cảm giác gắn kết tình cảm; B: robot giúp việc nhà.",
+        "why": "A muốn robot biết trả lời, có cử chỉ đáng yêu như sinh vật để sống mỗi ngày với tâm trạng thư thái (hiệu quả tâm lý) → gắn kết tình cảm. B muốn robot gánh bớt việc nhà để có thời gian cho gia đình → giúp việc nhà.",
+        "options": [
+          "Cả hai muốn robot đa năng, rẻ — B nói robot rẻ nhờ 'chỉ có một chức năng', ngược với đa năng. Sai.",
+          "Cả hai muốn robot chơi cùng — B không nói vậy. Sai.",
+          "A: robot hiểu cảm xúc con người — A chỉ nói robot hiểu lời nói và phản ứng đáng yêu, không nói hiểu cảm xúc. Sai.",
+          "A: robot mang lại sự gắn kết tình cảm; B: robot giúp việc nhà. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "人工知能", "r": "じんこうちのう", "hv": "NHÂN CÔNG TRI NĂNG", "vi": "trí tuệ nhân tạo" },
+          { "w": "しぐさ", "r": "しぐさ", "hv": "", "vi": "cử chỉ, điệu bộ" },
+          { "w": "穏やか", "r": "おだやか", "hv": "ỔN", "vi": "êm đềm, thư thái" },
+          { "w": "家事", "r": "かじ", "hv": "GIA SỰ", "vi": "việc nhà" }
+        ],
+        "grammar": null,
+        "evidence": "A：もし私のそばにそのようなロボットがいたら、穏やかな気持ちで毎日を楽しんで過ごすことができるだろう。／B：ロボットに少しでも家事を負担してもらうことで空いた時間を、他のことに活用したい…",
+        "tip": "Bài A–B: tóm tắt ý từng bài bằng một cụm ngắn rồi mới đối chiếu lựa chọn."
+      }
+    },
+    {
+      "num": 70,
+      "passage": "AB",
+      "stem": "AとBの筆者はどちらもロボットを欲しがっているが、その共通する理由は何か。",
+      "options": ["生活を楽しみたいから。", "時間に余裕が欲しいから。", "以前より価格が下がったから。", "最新技術を取り入れた生活をしたいから。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Cả A và B đều muốn có robot, lý do chung là gì? → Vì muốn tận hưởng cuộc sống.",
+        "why": "A: có robot thì 'sống mỗi ngày vui vẻ' (毎日を楽しんで過ごす). B: dùng thời gian có được để 'vui cùng gia đình, sống cuộc sống đầy đủ' (家族と一緒に楽しみ、充実した生活). Điểm chung: muốn cuộc sống vui hơn.",
+        "options": [
+          "Muốn tận hưởng cuộc sống. ĐÚNG.",
+          "Muốn có thời gian rảnh — chỉ là lý do của B. Sai.",
+          "Vì giá đã giảm — A chỉ nói 'nếu giá giảm thì sẽ mua' (chưa giảm); B nói giá giảm như một sự thật chung, không phải lý do mình muốn. Sai.",
+          "Muốn sống với công nghệ mới nhất — không ai nói vậy. Sai."
+        ],
+        "vocab": [
+          { "w": "充実", "r": "じゅうじつ", "hv": "SUNG THỰC", "vi": "đầy đủ, phong phú" },
+          { "w": "余裕", "r": "よゆう", "hv": "DƯ DỤ", "vi": "dư dả, thong thả" },
+          { "w": "購入", "r": "こうにゅう", "hv": "CẤU NHẬP", "vi": "mua" }
+        ],
+        "grammar": null,
+        "evidence": "A：穏やかな気持ちで毎日を楽しんで過ごすことができるだろう。／B：得られた時間を家族と一緒に楽しみ、充実した生活を送りたいと考えている一人だ。",
+        "tip": "Câu hỏi 'điểm chung' → loại các lựa chọn chỉ đúng với một bài (2, 3)."
+      }
+    }
+  ]
+}

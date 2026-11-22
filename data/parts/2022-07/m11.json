@@ -1,0 +1,279 @@
+{
+  "exam": "2022-07",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（1）から（3）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(3) và chọn câu trả lời đúng nhất cho mỗi câu hỏi (đoạn văn trung bình).",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "もの心つくかつかないかというころの子供（注1）は、まだ言葉では表現できない自分の感情や欲求を、何らかの方法で吐き出そうとする。身近に鉛筆やクレヨンなどがあれば、そこらに何かを描きなぐる（注2）のもその一つだ。注意深く見ていると、その段階ですでに、絵の好きな子は、絵らしきもの（注3）を描き始めている。そこですぐ、「あ、この子は絵が好きだ。画家にしよう」と考えるのは早すぎるが、大事なことは、「部屋がきたなくなる。そこらを汚す。」といって、子供の遊びをやみくもに禁じて（注4）しまわないことだ。\n（中略）\n絵を学ぼうとして大学にまで来た人たちは、子供のときに両親から、絵を描くことを禁じられなかった人たちであることは確かである。画家になりたい、自分の芸術を発見したい、というところまでこぎつけた（注5）。この人々にとって、あとは自分自身の問題だ。調子よくいったときにどう考えるか、不調のときにどうがんばるか。ただ、私はやはり、彼ら自身も、教える方としても、いやな勉強を無理に続けたり押しつけたりしても、いい結果は得られないと思う。人は、いやなことをさせられれば、早くそこを通りすぎようとばかりするが、自分から喜んで、遊び心をもってやることはよく身につき、蓄積されていくものだ。楽しく、遊び心でというのは、楽をするというのとは違う。それ自体は非常に苦しいことでも、自分を一段高いところへ進ませてくれるものだと、どこかで信じていれば、楽しくもなる。\n\n（注1）もの心つくかつかないかというころの子供：ここでは、幼い子供\n（注2）描きなぐる：乱暴に描く\n（注3）絵らしきもの：絵のようなもの\n（注4）やみくもに禁じる：よく考えないでやめさせる\n（注5）こぎつける：到達する"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "読書は、本の書き手や登場人物のワールド（注1）が自分の中に根づくことで、人生を豊かにしていくことができるものです。読書でワールドを増やしていけるのです。\n一方で、他者が自分の中に入り込む怖さもあります。自分よりはるかに思考力がある人の考えを読み、その人が深く入り込んできたら…。自分がなくなってしまうくらい影響を受けるかもしれません。読み方を間違えれば①<u>危険</u>でもあるのです。\n（中略）\n言葉を使っているというのもポイントで、著者の思考をなぞる（注2）ことができてしまう。それだけ深いレベルで影響を受けやすいのです。そう考えると、場合によっては「批判的に読む」ことも必要でしょう。ただ注意したいのは、何でも批判的に、ナナメに（注3）読めば思考力が深まるわけではないということです。著者の思考、世界観をいったんはそのまま受け入れるほうが得るものは大きいはずです。\n「どっぷり読書」も、それはそれで②<u>いいものです</u>。その世界にどっぷりはまる（注4）ことで、思考が深まる面もあります。そのうえで批判的に読む。ちょっと離れたところから見るような感じです。この視点は、さまざまな本を読んでいるうちに自然と身につくものでもあります。\n一人の作家に入れ込ん（注5）で、その作家のものばかり読んでいると、どうしても視点が偏りがちになります。その作家しか受けつけない（注6）、というのではやはり思考も深まりません。違うタイプの作家のものを読んだり、違うジャンル（注7）の本を読んでいると、同時にいくつかの視点を持てるようになります。\n\n（注1）ワールド：世界\n（注2）なぞる：ここでは、追う\n（注3）ナナメに：ここでは、悪い点を探そうとして\n（注4）どっぷりはまる：深く入り込む\n（注5）入れ込む：夢中になる\n（注6）受けつける：受け入れる\n（注7）ジャンル：分野"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "①<u>長く同じ活動を行ってきた組織</u>には、安定的な動きができるという長所があります。ところがこういう組織には同時に、ある一つの方向からの固定的な見方しかできないという欠点もあります。\nこの欠点はなかなかやっかいなものです。こうした見方が組織内に一度根づいて（注1）しまうと、なかなか変えることができない難しさがあるからです。よそから見れば危険極まりない（注2）状態なのに、組織の中では誰もそれにまったく気付かないということが起こるのはそのためです。\nこれは②<u>組織を支配する「気」</u>が原因です。言葉を変えると、囲まれた本人は気づいていない、空気や雰囲気、あるいは文化といったものといえます。企業のように独特の文化を持つ組織の中では、これが原因で気に囲まれた人々が等しくおかしな見方をしてしまうことがよく起こります。\n組織の中でふだん慣れ親しんでいる価値観が、いつの間にかその人たちの価値観になってしまうのです。\nその状況を変えることができるのは、じつはトップだけです。トップがやらなければならないのは、組織全体を包んでいる「気」に惑わされない（注3）ことです。そしてできれば見たくないものを逆にしっかりと見るようにして、事業の全体像を正確に把握する（注4）ことです。その上でしっかりと価値付けを行い、組織の人たちが正しい方向に動ける戦略を示すことができたら、いつの時代も最高の力を発揮できる組織をつくることができます。\n\n（注1）根づく：定着する\n（注2）危険極まりない：非常に危険な\n（注3）惑わされる：迷わされる\n（注4）把握する：しっかりと理解する"
+    }
+  ],
+  "questions": [
+    {
+      "num": 57,
+      "passage": "p1",
+      "stem": "筆者によると、親は何かを描こうとしている子供にどう接したらいいか。",
+      "options": [
+        "さらに描きたい気持ちにさせる。",
+        "描きたがっているのを止めない。",
+        "描いているものを批判しない。",
+        "描く楽しみを教える。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo tác giả, cha mẹ nên đối xử thế nào với đứa trẻ đang muốn vẽ gì đó? → Không ngăn cản khi trẻ muốn vẽ.",
+        "why": "Tác giả nói điều quan trọng là đừng vì \"phòng bẩn, bẩn khắp nơi\" mà cấm bừa trò chơi (vẽ) của trẻ. Sinh viên mỹ thuật cũng là những người hồi nhỏ không bị cha mẹ cấm vẽ.",
+        "options": [
+          "Bài không nói phải khích lệ để trẻ muốn vẽ thêm. Sai.",
+          "Không ngăn cản trẻ vẽ. ĐÚNG.",
+          "Bài không nói về việc phê bình tranh của trẻ. Sai.",
+          "Bài không nói cha mẹ phải dạy niềm vui vẽ. Sai."
+        ],
+        "vocab": [
+          { "w": "描きなぐる", "r": "かきなぐる", "hv": "MIÊU", "vi": "vẽ nguệch ngoạc" },
+          { "w": "やみくもに", "r": "やみくもに", "hv": "", "vi": "bừa bãi, mù quáng" },
+          { "w": "禁じる", "r": "きんじる", "hv": "CẤM", "vi": "cấm" },
+          { "w": "欲求", "r": "よっきゅう", "hv": "DỤC CẦU", "vi": "nhu cầu, mong muốn" }
+        ],
+        "grammar": null,
+        "evidence": "大事なことは、「部屋がきたなくなる。そこらを汚す。」といって、子供の遊びをやみくもに禁じてしまわないことだ。",
+        "tip": "「大事なことは～ことだ」 là câu chốt ý chính của đoạn đầu."
+      }
+    },
+    {
+      "num": 58,
+      "passage": "p1",
+      "stem": "絵を学ぶ人に対して、筆者が言いたいことは何か。",
+      "options": [
+        "楽をしようと考えなければ、自分を向上させられる。",
+        "画家になりたいという気持ちを持ち続けるべきだ。",
+        "不調のときにこそ、自分の芸術が発見できる。",
+        "自ら楽しんで取り組むことが大切だ。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả muốn nói gì với những người học vẽ? → Điều quan trọng là tự mình vui vẻ dấn thân vào việc học.",
+        "why": "Ép học điều mình ghét thì không có kết quả tốt; những gì tự mình vui vẻ làm với tinh thần vui chơi thì sẽ thấm và tích lũy → tự giác, vui vẻ mới quan trọng.",
+        "options": [
+          "Tác giả nói \"vui\" khác với \"nhàn\", nhưng không nói chỉ cần không nghĩ đến nhàn là tiến bộ. Sai.",
+          "Bài không khuyên giữ mãi mong muốn làm họa sĩ. Sai.",
+          "Bài không nói lúc phong độ kém mới tìm ra nghệ thuật của mình. Sai.",
+          "Tự mình vui vẻ dấn thân là quan trọng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "遊び心", "r": "あそびごころ", "hv": "DU TÂM", "vi": "tinh thần vui chơi, thoải mái" },
+          { "w": "身につく", "r": "みにつく", "hv": "THÂN", "vi": "thấm vào người, học được" },
+          { "w": "蓄積", "r": "ちくせき", "hv": "SÚC TÍCH", "vi": "tích lũy" },
+          { "w": "押しつける", "r": "おしつける", "hv": "ÁP", "vi": "ép buộc, áp đặt" }
+        ],
+        "grammar": null,
+        "evidence": "人は、いやなことをさせられれば、早くそこを通りすぎようとばかりするが、自分から喜んで、遊び心をもってやることはよく身につき、蓄積されていくものだ。",
+        "tip": "自分から喜んで = 自ら楽しんで (paraphrase trong đáp án)."
+      }
+    },
+    {
+      "num": 59,
+      "passage": "p2",
+      "stem": "①<u>危険</u>とあるが、どのような点が危険か。",
+      "options": [
+        "筆者の考えに疑問を持つこと。",
+        "筆者の考えに支配されてしまうこと。",
+        "筆者の考えを読み間違えてしまうこと。",
+        "筆者の考えを理解することで満足してしまうこと。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "Có ghi \"nguy hiểm\", vậy nguy hiểm ở điểm nào? → Bị suy nghĩ của tác giả (cuốn sách) chi phối.",
+        "why": "Ngay trước đó: người có tư duy vượt xa mình \"xâm nhập sâu\" vào mình, có thể ảnh hưởng đến mức \"bản thân biến mất\" → bị chi phối hoàn toàn.",
+        "options": [
+          "Nghi ngờ suy nghĩ của tác giả là đọc phê phán — bài cho là đôi khi cần thiết, không nguy hiểm. Sai.",
+          "Bị suy nghĩ của tác giả chi phối. ĐÚNG.",
+          "読み方を間違えれば là \"đọc sai cách\", không phải \"đọc hiểu sai nội dung\". Sai.",
+          "Bài không nói về sự thỏa mãn khi hiểu. Sai."
+        ],
+        "vocab": [
+          { "w": "入り込む", "r": "はいりこむ", "hv": "NHẬP", "vi": "xâm nhập, đi sâu vào" },
+          { "w": "思考力", "r": "しこうりょく", "hv": "TƯ KHẢO LỰC", "vi": "năng lực tư duy" },
+          { "w": "支配", "r": "しはい", "hv": "CHI PHỐI", "vi": "chi phối, thống trị" },
+          { "w": "影響", "r": "えいきょう", "hv": "ẢNH HƯỞNG", "vi": "ảnh hưởng" }
+        ],
+        "grammar": null,
+        "evidence": "自分よりはるかに思考力がある人の考えを読み、その人が深く入り込んできたら…。自分がなくなってしまうくらい影響を受けるかもしれません。",
+        "tip": "Ở đây 筆者 trong câu hỏi = tác giả cuốn sách mình đọc (著者). 自分がなくなる = bị chi phối."
+      }
+    },
+    {
+      "num": 60,
+      "passage": "p2",
+      "stem": "②<u>いいものです</u>とあるが、なぜか。",
+      "options": [
+        "筆者の観点がすぐに身につくから。",
+        "筆者の問題点に気付くようになるから。",
+        "自分の考えも深まることがあるから。",
+        "自分の考えを筆者に近づけることもできるから。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Có ghi \"là điều tốt\", tại sao? → Vì có khi suy nghĩ của bản thân cũng được đào sâu.",
+        "why": "Câu ngay sau giải thích: đắm chìm sâu vào thế giới của sách thì \"cũng có mặt giúp tư duy sâu hơn\".",
+        "options": [
+          "Bài nói góc nhìn (đứng xa để nhìn) hình thành tự nhiên qua đọc nhiều sách, không phải \"ngay lập tức\". Sai.",
+          "Nhận ra vấn đề của tác giả là đọc phê phán, làm SAU khi đắm chìm. Sai.",
+          "Suy nghĩ của mình cũng được đào sâu. ĐÚNG.",
+          "Bài không nói mục đích là làm suy nghĩ mình giống tác giả. Sai."
+        ],
+        "vocab": [
+          { "w": "どっぷり", "r": "どっぷり", "hv": "", "vi": "ngập sâu, đắm chìm" },
+          { "w": "はまる", "r": "はまる", "hv": "", "vi": "mê, sa vào" },
+          { "w": "深まる", "r": "ふかまる", "hv": "THÂM", "vi": "sâu sắc thêm" },
+          { "w": "面", "r": "めん", "hv": "DIỆN", "vi": "mặt, khía cạnh" }
+        ],
+        "grammar": null,
+        "evidence": "「どっぷり読書」も、それはそれでいいものです。その世界にどっぷりはまることで、思考が深まる面もあります。",
+        "tip": "Lý do thường nằm ngay câu sau câu gạch chân."
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p2",
+      "stem": "読書について、筆者の考えに合うのはどれか。",
+      "options": [
+        "視点が偏らないように、さまざまな種類の本を読むことが大切だ。",
+        "思考を深めるには、偏りのない視点で書かれた本を読むことが必要だ。",
+        "一人の作家を理解するには、その作家の違う類の本を読んだ方がいい。",
+        "作家から影響を受けすぎないように、常に批判的に読まなければいけない。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "Về việc đọc sách, điều nào phù hợp với suy nghĩ của tác giả? → Để góc nhìn không bị phiến diện, việc đọc nhiều loại sách khác nhau là quan trọng.",
+        "why": "Đoạn cuối: chỉ đọc một tác giả thì góc nhìn dễ phiến diện; đọc tác giả khác kiểu, thể loại khác thì có được nhiều góc nhìn cùng lúc.",
+        "options": [
+          "Đọc nhiều loại sách để góc nhìn không phiến diện. ĐÚNG.",
+          "Vấn đề là cách chọn sách của người đọc, không phải sách \"viết bằng góc nhìn không phiến diện\". Sai.",
+          "Bài khuyên đọc TÁC GIẢ khác, không phải đọc sách khác loại của cùng một tác giả. Sai.",
+          "Bài nói phê phán mọi thứ không làm tư duy sâu hơn; nên tiếp nhận trước đã. Sai."
+        ],
+        "vocab": [
+          { "w": "視点", "r": "してん", "hv": "THỊ ĐIỂM", "vi": "góc nhìn, quan điểm" },
+          { "w": "偏る", "r": "かたよる", "hv": "THIÊN", "vi": "thiên lệch, phiến diện" },
+          { "w": "批判的", "r": "ひはんてき", "hv": "PHÊ PHÁN ĐÍCH", "vi": "mang tính phê phán" },
+          { "w": "入れ込む", "r": "いれこむ", "hv": "NHẬP", "vi": "say mê" }
+        ],
+        "grammar": {
+          "pattern": "～がち",
+          "meaning": "hay, dễ có xu hướng ~ (tiêu cực)",
+          "form": "Vます(bỏ ます) / N + がち",
+          "example": "一人で考えていると、考えが偏りがちになる。"
+        },
+        "evidence": "一人の作家に入れ込んで、その作家のものばかり読んでいると、どうしても視点が偏りがちになります。…違うタイプの作家のものを読んだり、違うジャンルの本を読んでいると、同時にいくつかの視点を持てるようになります。",
+        "tip": "Phương án 4 có \"常に\" (luôn luôn) — từ tuyệt đối thường là bẫy."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p3",
+      "stem": "①<u>長く同じ活動を行ってきた組織</u>について、筆者が挙げている問題点は何か。",
+      "options": [
+        "組織の中に間違った見方をしている人が多いことに誰も気づかないこと。",
+        "組織が非常に危険な状態なのに、そのことをだれも言い出せないこと。",
+        "組織全体が同じ見方をしていて、危ない状況であることにだれも気づかないこと。",
+        "長く同じ活動を行っていることに、誰も疑問を持とうとしないこと。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "Về \"tổ chức đã hoạt động lâu năm theo cùng một cách\", vấn đề tác giả nêu ra là gì? → Cả tổ chức có cùng một cách nhìn, và không ai nhận ra mình đang trong tình trạng nguy hiểm.",
+        "why": "Khuyết điểm: chỉ nhìn cố định từ một hướng; cách nhìn đó đã bám rễ thì khó thay đổi; nhìn từ ngoài thì cực kỳ nguy hiểm nhưng trong tổ chức không ai nhận ra.",
+        "options": [
+          "Không phải \"nhiều người nhìn sai\" mà cả tổ chức cùng chung một cách nhìn cố định. Sai.",
+          "Bài nói không ai NHẬN RA, chứ không phải nhận ra mà không dám nói. Sai.",
+          "Cả tổ chức cùng một cách nhìn, không ai nhận ra nguy hiểm. ĐÚNG.",
+          "Bài không nói vấn đề là không ai nghi ngờ việc làm cùng hoạt động lâu năm. Sai."
+        ],
+        "vocab": [
+          { "w": "組織", "r": "そしき", "hv": "TỔ CHỨC", "vi": "tổ chức" },
+          { "w": "固定的", "r": "こていてき", "hv": "CỐ ĐỊNH ĐÍCH", "vi": "cố định, cứng nhắc" },
+          { "w": "欠点", "r": "けってん", "hv": "KHUYẾT ĐIỂM", "vi": "khuyết điểm" },
+          { "w": "やっかい", "r": "やっかい", "hv": "", "vi": "phiền phức, khó xử lý" }
+        ],
+        "grammar": null,
+        "evidence": "ある一つの方向からの固定的な見方しかできないという欠点もあります。…よそから見れば危険極まりない状態なのに、組織の中では誰もそれにまったく気付かないということが起こるのはそのためです。",
+        "tip": "Phân biệt 気付かない (không nhận ra) và 言い出せない (không dám nói ra)."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p3",
+      "stem": "②<u>組織を支配する「気」</u>とはどのようなものか。",
+      "options": [
+        "組織内で無意識に共有されている価値観。",
+        "組織内で押し付けられている価値観。",
+        "組織内の人が変えたいと思っている価値観。",
+        "組織内の人が常に意識している価値観。"
+      ],
+      "answer": 1,
+      "explanation": {
+        "translation": "\"Khí\" chi phối tổ chức là thứ như thế nào? → Hệ giá trị được chia sẻ một cách vô thức trong tổ chức.",
+        "why": "\"Khí\" = không khí, bầu không khí, văn hóa mà chính người ở trong \"không nhận ra\"; giá trị quen thuộc \"lúc nào không biết\" trở thành giá trị của mọi người → vô thức + chung.",
+        "options": [
+          "Được chia sẻ vô thức. ĐÚNG.",
+          "Bài không nói bị áp đặt; nó thấm dần lúc nào không biết. Sai.",
+          "Người trong tổ chức thậm chí không nhận ra, nên không có chuyện muốn thay đổi. Sai.",
+          "Ngược lại: họ KHÔNG ý thức được. Sai."
+        ],
+        "vocab": [
+          { "w": "価値観", "r": "かちかん", "hv": "GIÁ TRỊ QUAN", "vi": "quan niệm giá trị" },
+          { "w": "雰囲気", "r": "ふんいき", "hv": "PHÂN VI KHÍ", "vi": "bầu không khí" },
+          { "w": "慣れ親しむ", "r": "なれしたしむ", "hv": "QUÁN THÂN", "vi": "quen thuộc, gần gũi" },
+          { "w": "無意識", "r": "むいしき", "hv": "VÔ Ý THỨC", "vi": "vô thức" }
+        ],
+        "grammar": null,
+        "evidence": "囲まれた本人は気づいていない、空気や雰囲気、あるいは文化といったものといえます。…組織の中でふだん慣れ親しんでいる価値観が、いつの間にかその人たちの価値観になってしまうのです。",
+        "tip": "気づいていない・いつの間にか → 無意識に; 等しく (như nhau) → 共有."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p3",
+      "stem": "筆者によると、トップに求められることは何か。",
+      "options": [
+        "これまでの価値観を見直し、その良い点を伸ばした組織にすること。",
+        "部下たちの価値観を認め、力を引き出せるような戦略を示すこと。",
+        "組織の文化を理解した上で、時代に合った組織をつくること。",
+        "組織の文化に流されずに、組織を適切な方向に導くこと。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "Theo tác giả, điều được yêu cầu ở người đứng đầu là gì? → Không bị cuốn theo văn hóa tổ chức và dẫn dắt tổ chức đi đúng hướng.",
+        "why": "Người đứng đầu phải \"không bị 'khí' bao trùm tổ chức làm mê muội\", nắm chính xác toàn cảnh, rồi đưa ra chiến lược để mọi người đi đúng hướng.",
+        "options": [
+          "Bài không nói phát huy điểm tốt của giá trị cũ. Sai.",
+          "Không phải công nhận giá trị của cấp dưới — chính giá trị đó cần nhìn lại. Sai.",
+          "Không phải \"hiểu văn hóa\" mà là không bị văn hóa ('khí') chi phối; \"hợp thời đại\" cũng không phải ý chính. Sai.",
+          "Không bị văn hóa cuốn theo, dẫn dắt đúng hướng. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "惑わされる", "r": "まどわされる", "hv": "HOẶC", "vi": "bị mê hoặc, bị làm cho lạc hướng" },
+          { "w": "把握", "r": "はあく", "hv": "BẢ ÁC", "vi": "nắm bắt" },
+          { "w": "戦略", "r": "せんりゃく", "hv": "CHIẾN LƯỢC", "vi": "chiến lược" },
+          { "w": "導く", "r": "みちびく", "hv": "ĐẠO", "vi": "dẫn dắt" }
+        ],
+        "grammar": null,
+        "evidence": "トップがやらなければならないのは、組織全体を包んでいる「気」に惑わされないことです。…組織の人たちが正しい方向に動ける戦略を示すことができたら、いつの時代も最高の力を発揮できる組織をつくることができます。",
+        "tip": "「気」に惑わされない = 文化に流されない; 正しい方向に動ける戦略 = 適切な方向に導く."
+      }
+    }
+  ]
+}

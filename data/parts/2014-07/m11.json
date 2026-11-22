@@ -1,0 +1,273 @@
+{
+  "exam": "2014-07",
+  "mondai": 11,
+  "section": "reading",
+  "instruction": "次の（１）から（３）の文章を読んで、後の問いに対する答えとして最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Đọc các đoạn văn (1)–(3) và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "(1)",
+      "text": "以前、高校の教え子たちと話していて①<u>ふと気づいたこと</u>がある。疑問に感じることの幅の広さ、疑問の大きさの違いだ。「どうして？」「なぜ？」という問いは、人間にとって、だれもが持ち合わせるごく当たり前の心のはたらきだと思っていた。しかし実際には、その広がり、対象範囲が人によってまったく異なるのだ。\n（中略）\n疑問とは、「興味の現れ」にほかならない（注1）。なにごとにも無関心な生徒は、会話もじつに淡白（注2）である。他者とのコミュニケーションにも興味がない。興味がないから、疑問も起きてこない。\n私はというと、物心ついたとき（注3）から好奇心旺盛な（注4）子どもであった。「このおもちゃの内部はどうなっているんだろう？」そう思ってばらばらに分解しては、元に戻せなくて泣いていたものである。\n自分を取り巻く（注5）社会で起きるあらゆること、たとえば学校の授業で先生が教えたり、指導する内容にだって「なんで？」と思っていいのだ。会社の上司の指示にも「なんで？」と思っていい。親の躾にも「なんで？」と思っていい。\n問題は、「なんで？」だけで思考が終わってしまうことだ。②<u>それではダメだ</u>。というのは、「なんで？」だけで終わってしまうと、その後に「反抗」「反感」の感情が心に渦巻いて（注6）しまうだけだからである。「なんで？」に始まり、そこから「どうしてそうなるの？」「本当にそうなの？」と、自分なりに考えを極めて（注7）いく作業が大切であり、そこに成長の鍵がある。\n（山本博『持続力』による）\n（注1）～にほかならない：ここでは、～と同じだ\n（注2）淡白：「淡泊」とも書く\n（注3）物心ついたとき：世の中のことが何となく分かってきたとき\n（注4）好奇心旺盛な：いろいろなことに興味を持つ\n（注5）自分を取り巻く：自分の周りの\n（注6）感情が心に渦巻く：ここでは、感情で心が乱れる\n（注7）考えを極める：ここでは、徹底的に考える"
+    },
+    {
+      "id": "p2",
+      "label": "(2)",
+      "text": "私たちはなぜ観光をしたくなるのでしょうか。細かい条件にこだわらないで大胆に（注1）述べるならば、それは「変化」を求めるということです。私たちの感覚は同じ刺激を受け続けていると、その強さ、性質、明瞭性などはしだいに弱まります。著しい場合には刺激の感覚が消失することもあり、①<u>こうしたこと</u>を感覚の順応といいます。風呂の湯の熱い温度や腕時計を付けたときの違和感（注2）など、初めは鮮明な感覚であっても数分もしないうちに減衰（注3）してしまいます。同様のことが日々の体験についてもいえるでしょう。\n（中略）\nよく言えば慣れてくる、悪く言えば飽きてくるのです。そこで人は新たな刺激、つまり日常に存在しない感覚や感動を求めるのです。そのために新しい刺激をもたらす（注4）ための「変化」が必要になります。変わった珍しいコトやモノを手に入れても、日常生活がベース（注5）になっていたのでは「変化」は日常の一部分にしかなりません。より劇的な「変化」を求めるには自らが「変化」の中へ入る、すなわち日常と離れた場所へ移動することでそれは達成されます。自分の家の近所へ移動した程度ではそれほどの変化は得られません。遠くへ離れれば離れるほど、見知らぬ（注6）町並みや自然の風景、聞き慣れない言葉や音楽、初めての味や香りなどが立ち表れてくるのです。外国で異文化に接するとき、この「変化」は最大になり、自分自身を除く周囲のすべてが「変化」した状態となるのです。\n（堀川紀年・石川雄二・前田弘編『国際観光学を学ぶ人のために』による）\n（注1）大胆に：思い切って\n（注2）違和感：いつもと違う感じ\n（注3）減衰する：ここでは、少しずつ弱くなっていく\n（注4）もたらす：ここでは、生み出す\n（注5）ベース：土台\n（注6）見知らぬ：見たことがない"
+    },
+    {
+      "id": "p3",
+      "label": "(3)",
+      "text": "「自分を出せない」と言う人が多い。本当はこんなことを思っているのに、それを口に出せない、表現できないのが不満なのである。\n①<u>こういう人</u>が強く惹かれるのが、「ありのままの自分」という言葉である。心のことや人間関係に関する本などを読んでみても、「ありのまま」でふるまう（注1）こと、生きることがどれほどすばらしいかと書かれているので、ますますそれに憧れてしまうようである。\nけれども、人は、他の人との関係を生きる限り（注2）、つまりこの社会の中で生きる限り、「ありのままの自分」でいることを制限されるのはやむを得ないことなのである。\n（中略）\n好むと好まざるにかかわらず（注3）、社会を維持するために秩序（注4）が必要であり、その結果、そこに生きる個々人がさまざまに制約を受ける（注5）のは当たり前のことと考えなければならない。\n私たちは小さい頃から②<u>「社会的な自己」</u>というものを形成していく。こういう場面ではこのようにふるまわなければならない、といったことを学習させられる。校長先生の前ではこのようにしていなさい、初対面の人の前ではこのようにふるまいなさい、と。このようなことを学習していないと、つまり「ありのまま」でいると、社会に適応（注6）できない仕組みになっているのだ。\nしかし、その社会的な自己、さまざまな場面でいろいろな自分を出すことが、何か嘘の自分であるかのように思ってしまう人もいるわけだ。そこには何かしら勘違いがある。人と人との関係には必ず役割というものがあって、その役割を学び、生きることこそが必要不可欠なのである。\n（すがのたいぞう『こころがホッとする考え方』による）\n（注1）ふるまう：行動する\n（注2）生きる限り：生きている間は\n（注3）好むと好まざるにかかわらず：好むか好まないかに関係なく\n（注4）秩序：決まり\n（注5）制約を受ける：制限される\n（注6）適応する：合う"
+    }
+  ],
+  "questions": [
+    {
+      "num": 60,
+      "passage": "p1",
+      "stem": "①<u>ふと気づいたこと</u>とは、どんなことか。",
+      "options": ["どんなことにも疑問を持たない高校生が増えている。", "高校生の疑問の範囲が狭くなっている。", "疑問の対象は世代によって異なる。", "疑問の範囲は人によって異なる。"],
+      "answer": 4,
+      "explanation": {
+        "translation": "'Điều chợt nhận ra' là điều gì? → Phạm vi nghi vấn khác nhau tùy từng người.",
+        "why": "Ngay sau gạch chân: 'sự khác nhau về độ rộng, độ lớn của nghi vấn'… 'trên thực tế, độ rộng và phạm vi đối tượng (của câu hỏi tại sao) hoàn toàn khác nhau tùy người'.",
+        "options": [
+          "Học sinh không có nghi vấn đang tăng — bài không nói 'tăng'. Sai.",
+          "Phạm vi nghi vấn của học sinh hẹp đi — không có so sánh theo thời gian. Sai.",
+          "Khác nhau theo thế hệ — bài nói 'theo từng người', không phải thế hệ. Sai.",
+          "Phạm vi nghi vấn khác nhau tùy người. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "ふと", "r": "ふと", "hv": "", "vi": "chợt, bất chợt" },
+          { "w": "疑問", "r": "ぎもん", "hv": "NGHI VẤN", "vi": "nghi vấn, thắc mắc" },
+          { "w": "対象範囲", "r": "たいしょうはんい", "hv": "ĐỐI TƯỢNG PHẠM VI", "vi": "phạm vi đối tượng" },
+          { "w": "教え子", "r": "おしえご", "hv": "GIÁO TỬ", "vi": "học trò (mình từng dạy)" }
+        ],
+        "grammar": null,
+        "evidence": "しかし実際には、その広がり、対象範囲が人によってまったく異なるのだ。",
+        "tip": null
+      }
+    },
+    {
+      "num": 61,
+      "passage": "p1",
+      "stem": "②<u>それではダメだ</u>とあるが、なぜか。",
+      "options": ["反発する気持ちを表現しなくなるから。", "反発する気持ちが生まれるだけだから。", "疑問が大きくなってしまうだけだから。", "疑問を持たなくなってしまうから。"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tác giả nói 'như thế thì không được', vì sao? → Vì chỉ nảy sinh cảm giác phản kháng mà thôi.",
+        "why": "Câu ngay sau giải thích lý do (というのは…からである): nếu chỉ dừng ở 'tại sao?' thì sau đó trong lòng chỉ cuộn lên cảm xúc 'phản kháng, ác cảm' mà thôi.",
+        "options": [
+          "Không còn bày tỏ cảm giác phản kháng — bài không nói vậy. Sai.",
+          "Chỉ nảy sinh cảm giác phản kháng. ĐÚNG.",
+          "Nghi vấn chỉ ngày càng lớn — không phải. Sai.",
+          "Không còn nghi vấn nữa — trái ý. Sai."
+        ],
+        "vocab": [
+          { "w": "反抗", "r": "はんこう", "hv": "PHẢN KHÁNG", "vi": "phản kháng, chống đối" },
+          { "w": "反感", "r": "はんかん", "hv": "PHẢN CẢM", "vi": "ác cảm" },
+          { "w": "反発", "r": "はんぱつ", "hv": "PHẢN PHÁT", "vi": "phản đối, phản kháng" },
+          { "w": "渦巻く", "r": "うずまく", "hv": "QUA QUYỂN", "vi": "cuộn xoáy" }
+        ],
+        "grammar": {
+          "pattern": "というのは～からである",
+          "meaning": "lý do là vì ~",
+          "form": "Câu A。というのは、câu B + からだ／からである。",
+          "example": "今日は行けない。というのは、熱があるからだ。"
+        },
+        "evidence": "というのは、「なんで？」だけで終わってしまうと、その後に「反抗」「反感」の感情が心に渦巻いてしまうだけだからである。",
+        "tip": "反抗・反感 → diễn đạt lại thành 反発する気持ち."
+      }
+    },
+    {
+      "num": 62,
+      "passage": "p1",
+      "stem": "この文章で筆者が最も言いたいことは何か。",
+      "options": ["疑問に感じたことを深く考えることが成長につながる。", "あらゆることに疑問を持つことが考えを広げる。", "疑問を探し続けることが成長の鍵である。", "疑問を持つことは「興味の現れ」である。"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều tác giả muốn nói nhất là gì? → Suy nghĩ sâu về điều mình thắc mắc sẽ dẫn đến sự trưởng thành.",
+        "why": "Kết luận cuối bài: bắt đầu từ 'tại sao?', rồi tự suy nghĩ thấu đáo 'vì sao lại thế? có đúng thế không?' là điều quan trọng, và ở đó có chìa khóa trưởng thành.",
+        "options": [
+          "Suy nghĩ sâu về điều thắc mắc dẫn đến trưởng thành. ĐÚNG.",
+          "Thắc mắc mọi thứ giúp mở rộng suy nghĩ — tác giả nói chỉ thắc mắc thôi thì chưa đủ ('それではダメだ'). Sai.",
+          "Tiếp tục tìm kiếm nghi vấn là chìa khóa — chìa khóa là 'suy nghĩ thấu đáo', không phải 'tìm nghi vấn'. Sai.",
+          "Có nghi vấn là biểu hiện của hứng thú — đúng với bài nhưng chỉ là ý phụ, không phải ý chính. Sai."
+        ],
+        "vocab": [
+          { "w": "極める", "r": "きわめる", "hv": "CỰC", "vi": "đi đến cùng, làm thấu đáo" },
+          { "w": "成長", "r": "せいちょう", "hv": "THÀNH TRƯỞNG", "vi": "trưởng thành, phát triển" },
+          { "w": "鍵", "r": "かぎ", "hv": "KIỆN", "vi": "chìa khóa" }
+        ],
+        "grammar": null,
+        "evidence": "「なんで？」に始まり、そこから「どうしてそうなるの？」「本当にそうなの？」と、自分なりに考えを極めていく作業が大切であり、そこに成長の鍵がある。",
+        "tip": "Câu hỏi 'ý chính' → thường nằm ở câu cuối đoạn kết."
+      }
+    },
+    {
+      "num": 63,
+      "passage": "p2",
+      "stem": "①<u>こうしたこと</u>とは、どのようなことか。",
+      "options": ["与えられる刺激が弱まると、その感じ方も弱まること", "刺激を受ける回数が減ると、その刺激に反応しなくなること", "同一の刺激を受けていると、その刺激を感じにくくなること", "強弱の違う刺激を受けていると、その違いを感じなくなること"],
+      "answer": 3,
+      "explanation": {
+        "translation": "'Những điều như thế này' là điều gì? → Khi cứ nhận cùng một kích thích thì càng khó cảm nhận kích thích đó.",
+        "why": "こうしたこと chỉ nội dung trước đó: khi cảm giác tiếp tục nhận cùng một kích thích thì cường độ, tính rõ ràng… dần yếu đi, có khi biến mất (= sự thích nghi cảm giác).",
+        "options": [
+          "Kích thích yếu đi thì cảm nhận yếu đi — sai, kích thích vẫn như cũ, chỉ cảm nhận yếu đi. Sai.",
+          "Số lần nhận kích thích giảm — ngược lại, là nhận liên tục. Sai.",
+          "Nhận cùng một kích thích thì khó cảm nhận nó. ĐÚNG.",
+          "Kích thích mạnh yếu khác nhau — bài nói 'cùng một kích thích'. Sai."
+        ],
+        "vocab": [
+          { "w": "刺激", "r": "しげき", "hv": "THÍCH KÍCH", "vi": "kích thích" },
+          { "w": "順応", "r": "じゅんのう", "hv": "THUẬN ỨNG", "vi": "thích nghi" },
+          { "w": "感覚", "r": "かんかく", "hv": "CẢM GIÁC", "vi": "cảm giác, giác quan" },
+          { "w": "消失", "r": "しょうしつ", "hv": "TIÊU THẤT", "vi": "biến mất" }
+        ],
+        "grammar": null,
+        "evidence": "私たちの感覚は同じ刺激を受け続けていると、その強さ、性質、明瞭性などはしだいに弱まります。著しい場合には刺激の感覚が消失することもあり、こうしたことを感覚の順応といいます。",
+        "tip": "Từ chỉ thị (こうした／それ) → tìm ngay câu phía trước."
+      }
+    },
+    {
+      "num": 64,
+      "passage": "p2",
+      "stem": "筆者によると、なぜ人々は観光したいと思うのか。",
+      "options": ["日常生活の中に「変化」を取り入れたいから", "日常生活では感じられない「変化」を求めるから", "新しい自分に生まれ変わるために「変化」が必要だから", "日常生活の良さを再確認するために「変化」がほしいから"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Theo tác giả, vì sao người ta muốn đi du lịch? → Vì tìm kiếm 'sự thay đổi' không thể cảm nhận trong cuộc sống thường ngày.",
+        "why": "Người ta quen/chán với thường ngày nên tìm kích thích mới, tức là 'cảm giác, cảm động không có trong thường ngày'. Đưa đồ lạ vào cuộc sống thường ngày thì thay đổi chỉ là một phần thường ngày; phải tự rời xa thường ngày.",
+        "options": [
+          "Đưa 'thay đổi' vào trong cuộc sống thường ngày — bài nói như vậy chỉ thành 'một phần thường ngày', không đủ. Sai.",
+          "Tìm 'thay đổi' không cảm nhận được trong đời thường. ĐÚNG.",
+          "Để tái sinh thành con người mới — không được nhắc. Sai.",
+          "Để xác nhận lại cái hay của đời thường — không được nhắc. Sai."
+        ],
+        "vocab": [
+          { "w": "観光", "r": "かんこう", "hv": "QUAN QUANG", "vi": "du lịch, tham quan" },
+          { "w": "飽きる", "r": "あきる", "hv": "BÃO", "vi": "chán" },
+          { "w": "日常", "r": "にちじょう", "hv": "NHẬT THƯỜNG", "vi": "thường ngày" },
+          { "w": "劇的", "r": "げきてき", "hv": "KỊCH ĐÍCH", "vi": "kịch tính, mạnh mẽ" }
+        ],
+        "grammar": null,
+        "evidence": "そこで人は新たな刺激、つまり日常に存在しない感覚や感動を求めるのです。",
+        "tip": "Đáp án 1 là bẫy: bài phủ nhận việc 'mang thay đổi vào đời thường'."
+      }
+    },
+    {
+      "num": 65,
+      "passage": "p2",
+      "stem": "以下の例のうち、旅行者にとって「変化」が最大になるのはどれか。",
+      "options": ["文化の異なる国へ、知人と旅行したとき", "文化の異なる国へ、一人で初めて旅行したとき", "文化の異なる国へ旅行してから、日常へ戻ってきたとき", "文化の異なる国へ旅行することが、自身の日常になったとき"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Trong các ví dụ sau, trường hợp nào 'sự thay đổi' là lớn nhất đối với du khách? → Khi lần đầu đi một mình đến đất nước có văn hóa khác.",
+        "why": "'Thay đổi' lớn nhất khi tiếp xúc văn hóa khác ở nước ngoài, lúc mà 'mọi thứ xung quanh trừ bản thân mình' đều thay đổi. Đi một mình (không có người quen = yếu tố quen thuộc) và lần đầu (chưa quen) → mọi thứ ngoài bản thân đều mới.",
+        "options": [
+          "Đi với người quen — người quen là yếu tố thường ngày, nên không phải 'tất cả trừ bản thân' đều thay đổi. Sai.",
+          "Đi một mình, lần đầu. ĐÚNG.",
+          "Khi trở về thường ngày — lúc đó không còn thay đổi. Sai.",
+          "Khi việc du lịch đã thành thường ngày — sẽ quen/chán (順応), thay đổi nhỏ đi. Sai."
+        ],
+        "vocab": [
+          { "w": "異文化", "r": "いぶんか", "hv": "DỊ VĂN HÓA", "vi": "văn hóa khác" },
+          { "w": "除く", "r": "のぞく", "hv": "TRỪ", "vi": "loại trừ, ngoại trừ" },
+          { "w": "周囲", "r": "しゅうい", "hv": "CHU VI", "vi": "xung quanh" },
+          { "w": "知人", "r": "ちじん", "hv": "TRI NHÂN", "vi": "người quen" }
+        ],
+        "grammar": null,
+        "evidence": "外国で異文化に接するとき、この「変化」は最大になり、自分自身を除く周囲のすべてが「変化」した状態となるのです。",
+        "tip": "Câu hỏi áp dụng: lấy tiêu chí 'mọi thứ trừ bản thân đều mới' để loại."
+      }
+    },
+    {
+      "num": 66,
+      "passage": "p3",
+      "stem": "①<u>こういう人</u>とはどのような人か。",
+      "options": ["個性的な表現ができないことが不満な人", "言いたいことを伝えられないことが不満な人", "言いたいことを理解してもらえないことが不満な人", "思いを表現しなければならないことが不満な人"],
+      "answer": 2,
+      "explanation": {
+        "translation": "'Những người như thế này' là người như thế nào? → Người bất mãn vì không truyền đạt được điều mình muốn nói.",
+        "why": "こういう人 chỉ người nói 'không thể thể hiện bản thân': thật ra đang nghĩ điều này nhưng không nói ra được, không thể hiện được, và bất mãn vì điều đó.",
+        "options": [
+          "Không thể hiện được cá tính — bài không nói về 'cá tính'. Sai.",
+          "Bất mãn vì không truyền đạt được điều muốn nói. ĐÚNG.",
+          "Bất mãn vì không được người khác hiểu — vấn đề là chưa nói ra được, không phải bị hiểu sai. Sai.",
+          "Bất mãn vì buộc phải bày tỏ — ngược nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "不満", "r": "ふまん", "hv": "BẤT MÃN", "vi": "bất mãn, không hài lòng" },
+          { "w": "惹かれる", "r": "ひかれる", "hv": "NHẠ", "vi": "bị thu hút" },
+          { "w": "口に出す", "r": "くちにだす", "hv": "KHẨU XUẤT", "vi": "nói ra" }
+        ],
+        "grammar": null,
+        "evidence": "本当はこんなことを思っているのに、それを口に出せない、表現できないのが不満なのである。",
+        "tip": null
+      }
+    },
+    {
+      "num": 67,
+      "passage": "p3",
+      "stem": "②<u>「社会的な自己」</u>とはどういうものか。",
+      "options": ["自分より他の人の思いを尊重する自分", "社会のために役立つことができる自分", "どんな場面でも自分らしさが出せる自分", "場面に応じて適切な態度をとれる自分"],
+      "answer": 4,
+      "explanation": {
+        "translation": "'Cái tôi xã hội' là gì? → Cái tôi biết có thái độ phù hợp tùy theo hoàn cảnh.",
+        "why": "Ngay sau đó tác giả giải thích: học rằng 'trong tình huống này phải cư xử thế này' — trước thầy hiệu trưởng thế này, trước người mới gặp thế kia. Tức là cư xử phù hợp theo từng hoàn cảnh.",
+        "options": [
+          "Tôn trọng suy nghĩ người khác hơn mình — không được nhắc. Sai.",
+          "Có thể giúp ích cho xã hội — không được nhắc. Sai.",
+          "Thể hiện bản thân ở mọi hoàn cảnh — đó là 'ありのまま', trái nghĩa. Sai.",
+          "Có thái độ phù hợp theo hoàn cảnh. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "自己", "r": "じこ", "hv": "TỰ KỶ", "vi": "bản thân, cái tôi" },
+          { "w": "形成", "r": "けいせい", "hv": "HÌNH THÀNH", "vi": "hình thành" },
+          { "w": "ふるまう", "r": "ふるまう", "hv": "", "vi": "cư xử, hành động" },
+          { "w": "初対面", "r": "しょたいめん", "hv": "SƠ ĐỐI DIỆN", "vi": "lần đầu gặp mặt" }
+        ],
+        "grammar": {
+          "pattern": "～に応じて",
+          "meaning": "tùy theo, tương ứng với ~",
+          "form": "N + に応じて",
+          "example": "能力に応じて給料が決まる。"
+        },
+        "evidence": "こういう場面ではこのようにふるまわなければならない、といったことを学習させられる。校長先生の前ではこのようにしていなさい、初対面の人の前ではこのようにふるまいなさい、と。",
+        "tip": "Lựa chọn 1 trong đề in là 「自分より他人の人を思いを尊重する自分」 (lỗi đánh máy), đã sửa thành 「他の人の思い」."
+      }
+    },
+    {
+      "num": 68,
+      "passage": "p3",
+      "stem": "「ありのままの自分」について、筆者はどのように考えているか。",
+      "options": ["嘘の自分を演じるよりは「ありのままの自分」でいたほうがいい。", "人との関係を保てるなら、「ありのままの自分」でいることが許される。", "「ありのままの自分」でいては、社会の中で役割を果たすことができない。", "「ありのままの自分」を知らなければ、社会の中での自分の役割も分からない。"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Tác giả nghĩ thế nào về 'con người thật của mình'? → Nếu cứ là 'con người thật' thì không thể làm tròn vai trò trong xã hội.",
+        "why": "Tác giả cho rằng sống trong xã hội thì bị hạn chế 'ありのまま' là đương nhiên; nếu cứ 'ありのまま' thì không thích nghi được với xã hội. Quan hệ người với người luôn có vai trò, học và sống theo vai trò đó là không thể thiếu.",
+        "options": [
+          "Nên sống thật hơn là đóng vai giả — tác giả nói nghĩ vậy là 'hiểu lầm'. Sai.",
+          "Nếu giữ được quan hệ thì được phép sống thật — không được nói. Sai.",
+          "Cứ sống thật thì không làm tròn vai trò trong xã hội. ĐÚNG.",
+          "Không biết con người thật thì không hiểu vai trò — không được nói. Sai."
+        ],
+        "vocab": [
+          { "w": "ありのまま", "r": "ありのまま", "hv": "", "vi": "nguyên như vốn có, chân thật" },
+          { "w": "役割", "r": "やくわり", "hv": "DỊCH CÁT", "vi": "vai trò" },
+          { "w": "適応", "r": "てきおう", "hv": "THÍCH ỨNG", "vi": "thích ứng" },
+          { "w": "やむを得ない", "r": "やむをえない", "hv": "ĐẮC", "vi": "đành chịu, không tránh được" }
+        ],
+        "grammar": {
+          "pattern": "～こそ",
+          "meaning": "chính là ~ (nhấn mạnh)",
+          "form": "N／Vること + こそ",
+          "example": "努力することこそが成功への近道だ。"
+        },
+        "evidence": "このようなことを学習していないと、つまり「ありのまま」でいると、社会に適応できない仕組みになっているのだ。…人と人との関係には必ず役割というものがあって、その役割を学び、生きることこそが必要不可欠なのである。",
+        "tip": null
+      }
+    }
+  ]
+}

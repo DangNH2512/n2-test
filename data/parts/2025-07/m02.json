@@ -1,0 +1,139 @@
+{
+  "exam": "2025-07",
+  "mondai": 2,
+  "section": "vocab",
+  "instruction": "＿＿＿の言葉を漢字で書くとき、最もよいものを1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn cách viết Kanji đúng nhất cho từ được gạch chân.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 6,
+      "passage": null,
+      "stem": "このタオルはまだ<u>しめって</u>いる。",
+      "options": ["液って", "温って", "汗って", "湿って"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Cái khăn này vẫn còn ẩm.",
+        "why": "しめる (ẩm ướt) viết là 湿る (THẤP). 湿っている = đang ẩm. Các chữ khác đều có bộ thủy nhưng không đọc là しめる.",
+        "options": [
+          "液って → 液 (DỊCH) = chất lỏng, đọc えき; không có động từ này. Sai.",
+          "温って → 温 (ÔN) đọc あたたかい/おん; không đọc しめる. Sai.",
+          "汗って → 汗 (HÃN) = mồ hôi, đọc あせ. Sai.",
+          "湿って → 湿る: ẩm ướt. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "湿る", "r": "しめる", "hv": "THẤP", "vi": "bị ẩm" },
+          { "w": "湿気", "r": "しっけ", "hv": "THẤP KHÍ", "vi": "hơi ẩm, độ ẩm" },
+          { "w": "汗", "r": "あせ", "hv": "HÃN", "vi": "mồ hôi" },
+          { "w": "液体", "r": "えきたい", "hv": "DỊCH THỂ", "vi": "chất lỏng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "湿 = 氵 + 日 + 业: nước + mặt trời mà vẫn còn ẩm. Liên hệ 湿度 しつど (độ ẩm)."
+      }
+    },
+    {
+      "num": 7,
+      "passage": null,
+      "stem": "この時期は風邪をひく人が増える<u>けいこう</u>がある。",
+      "options": ["傾向", "頃向", "傾高", "頃高"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Thời kỳ này có xu hướng số người bị cảm tăng lên.",
+        "why": "けいこう = 傾向 (KHUYNH HƯỚNG) = xu hướng. 傾 (けい) có bộ nhân đứng 亻 bên trái; 向 (こう) = hướng.",
+        "options": [
+          "傾向 → xu hướng, khuynh hướng. ĐÚNG.",
+          "頃向 → 頃 (KHOẢNH) đọc ころ, thiếu bộ 亻. Sai.",
+          "傾高 → 高 (CAO) = cao, không phải 'hướng'. Sai.",
+          "頃高 → sai cả hai chữ. Sai."
+        ],
+        "vocab": [
+          { "w": "傾向", "r": "けいこう", "hv": "KHUYNH HƯỚNG", "vi": "xu hướng, khuynh hướng" },
+          { "w": "傾く", "r": "かたむく", "hv": "KHUYNH", "vi": "nghiêng" },
+          { "w": "頃", "r": "ころ", "hv": "KHOẢNH", "vi": "khoảng (thời gian)" },
+          { "w": "時期", "r": "じき", "hv": "THỜI KỲ", "vi": "thời kỳ" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "傾 = 亻 + 頃. Thiếu bộ 亻 thì chỉ là 頃 (ころ)."
+      }
+    },
+    {
+      "num": 8,
+      "passage": null,
+      "stem": "大勢の人が<u>しさつ</u>に訪れた。",
+      "options": ["診察", "視祭", "視察", "診祭"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Rất đông người đã đến thị sát (tham quan khảo sát).",
+        "why": "しさつ = 視察 (THỊ SÁT) = đi xem xét, khảo sát thực tế. 視 = nhìn (し), 察 = xem xét (さつ).",
+        "options": [
+          "診察 → しんさつ: khám bệnh. Sai.",
+          "視祭 → 祭 (TẾ) = lễ hội, đọc さい/まつり. Sai.",
+          "視察 → しさつ: thị sát, khảo sát. ĐÚNG.",
+          "診祭 → không có từ này. Sai."
+        ],
+        "vocab": [
+          { "w": "視察", "r": "しさつ", "hv": "THỊ SÁT", "vi": "thị sát, khảo sát thực tế" },
+          { "w": "診察", "r": "しんさつ", "hv": "CHẨN SÁT", "vi": "khám bệnh" },
+          { "w": "大勢", "r": "おおぜい", "hv": "ĐẠI THẾ", "vi": "đông người" },
+          { "w": "訪れる", "r": "おとずれる", "hv": "PHỎNG", "vi": "đến thăm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "察 (có mái 宀) khác 祭 (lễ hội, không có mái). 観察 かんさつ, 警察 けいさつ đều dùng 察."
+      }
+    },
+    {
+      "num": 9,
+      "passage": null,
+      "stem": "もう少し力を入れて<u>けずって</u>ください。",
+      "options": ["絞って", "削って", "握って", "掘って"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Hãy dùng thêm chút lực để gọt/bào.",
+        "why": "けずる = 削る (TƯỚC) = gọt, bào, cắt giảm. Ví dụ 鉛筆を削る (gọt bút chì).",
+        "options": [
+          "絞って → しぼって: vắt, siết. Sai.",
+          "削って → けずって: gọt, bào. ĐÚNG.",
+          "握って → にぎって: nắm, cầm chặt. Sai.",
+          "掘って → ほって: đào. Sai."
+        ],
+        "vocab": [
+          { "w": "削る", "r": "けずる", "hv": "TƯỚC", "vi": "gọt, bào; cắt giảm" },
+          { "w": "絞る", "r": "しぼる", "hv": "GIẢO", "vi": "vắt, siết; thu hẹp" },
+          { "w": "握る", "r": "にぎる", "hv": "ÁC", "vi": "nắm chặt" },
+          { "w": "掘る", "r": "ほる", "hv": "QUẬT", "vi": "đào" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "削 có bộ đao 刂 (dao) → gọt, cắt. 削除 さくじょ = xóa bỏ."
+      }
+    },
+    {
+      "num": 10,
+      "passage": null,
+      "stem": "この<u>しせつ</u>には、駐車場はありません。",
+      "options": ["支接", "施接", "支設", "施設"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Cơ sở này không có bãi đỗ xe.",
+        "why": "しせつ = 施設 (THI THIẾT) = cơ sở, công trình (thiết bị phục vụ). 施 (し) = thi hành, 設 (せつ) = thiết lập.",
+        "options": [
+          "支接 → không có từ này. Sai.",
+          "施接 → 接 (TIẾP) = tiếp xúc; không dùng ở đây. Sai.",
+          "支設 → 支 (CHI) = chống đỡ; sai chữ đầu. Sai.",
+          "施設 → cơ sở, công trình. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "施設", "r": "しせつ", "hv": "THI THIẾT", "vi": "cơ sở, công trình" },
+          { "w": "設備", "r": "せつび", "hv": "THIẾT BỊ", "vi": "thiết bị" },
+          { "w": "駐車場", "r": "ちゅうしゃじょう", "hv": "TRÚ XA TRƯỜNG", "vi": "bãi đỗ xe" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "設 (có bộ ngôn 言) = thiết lập; 接 (bộ thủ 扌) = tiếp xúc. 施設・設備・設計 đều dùng 設."
+      }
+    }
+  ]
+}

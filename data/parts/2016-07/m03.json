@@ -1,0 +1,135 @@
+{
+  "exam": "2016-07",
+  "mondai": 3,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ (tiền tố/hậu tố) thích hợp nhất để điền vào chỗ trống.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 11,
+      "passage": null,
+      "stem": "留学を通して（　　）文化に触れ、多くのことを学んだ。",
+      "options": ["差", "違", "離", "異"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Thông qua du học, tôi đã tiếp xúc với nền văn hóa khác và học được nhiều điều.",
+        "why": "異文化 (いぶんか – DỊ VĂN HÓA) = văn hóa khác, văn hóa nước ngoài. Tiền tố 異～ nghĩa là 'khác'.",
+        "options": [
+          "差 → 差 (さ) = chênh lệch, không làm tiền tố với 文化. Sai.",
+          "違 → 違 không dùng làm tiền tố (chỉ có 違う, 違反). Sai.",
+          "離 → 離 (り) = rời xa, không ghép với 文化. Sai.",
+          "異 → 異文化: văn hóa khác. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "異文化", "r": "いぶんか", "hv": "DỊ VĂN HÓA", "vi": "văn hóa khác (nước ngoài)" },
+          { "w": "触れる", "r": "ふれる", "hv": "XÚC", "vi": "chạm, tiếp xúc" },
+          { "w": "～を通して", "r": "をとおして", "hv": "", "vi": "thông qua ~" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "異～: 異文化, 異業種 (いぎょうしゅ – ngành nghề khác), 異常 (いじょう – bất thường)."
+      }
+    },
+    {
+      "num": 12,
+      "passage": null,
+      "stem": "この絵画展では、森氏の作品が年代（　　）に紹介されている。",
+      "options": ["順", "連", "番", "序"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Ở triển lãm tranh này, các tác phẩm của ông Mori được giới thiệu theo thứ tự niên đại.",
+        "why": "年代順 (ねんだいじゅん – NIÊN ĐẠI THUẬN) = theo thứ tự năm tháng. Hậu tố ～順 = theo thứ tự ~ (五十音順, 年齢順).",
+        "options": [
+          "順 → 年代順: theo thứ tự niên đại. ĐÚNG.",
+          "連 → 連 (れん) = liên tiếp, không làm hậu tố chỉ thứ tự. Sai.",
+          "番 → ～番 = số thứ ~ (一番), không đi với 年代. Sai.",
+          "序 → 序 (じょ) = mở đầu (順序 là từ ghép), không dùng 年代序. Sai."
+        ],
+        "vocab": [
+          { "w": "年代順", "r": "ねんだいじゅん", "hv": "NIÊN ĐẠI THUẬN", "vi": "theo thứ tự niên đại" },
+          { "w": "絵画展", "r": "かいがてん", "hv": "HỘI HỌA TRIỂN", "vi": "triển lãm tranh" },
+          { "w": "作品", "r": "さくひん", "hv": "TÁC PHẨM", "vi": "tác phẩm" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "～順: 年代順, 五十音順, 先着順 (せんちゃくじゅん – ai đến trước)."
+      }
+    },
+    {
+      "num": 13,
+      "passage": null,
+      "stem": "この土地は、国の管理（　　）に置かれている。",
+      "options": ["属", "付", "下", "限"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Mảnh đất này được đặt dưới sự quản lý của nhà nước.",
+        "why": "管理下 (かんりか – QUẢN LÝ HẠ) = dưới sự quản lý. Hậu tố ～下 (か) = dưới (sự ~): 支配下, 影響下. ～下に置かれる = bị đặt dưới ~.",
+        "options": [
+          "属 → 属 (ぞく) = thuộc về, không làm hậu tố ở đây. Sai.",
+          "付 → ～付 = kèm theo (日付), không hợp. Sai.",
+          "下 → 管理下: dưới sự quản lý. ĐÚNG.",
+          "限 → 限 (げん) = giới hạn, không dùng 管理限. Sai."
+        ],
+        "vocab": [
+          { "w": "管理下", "r": "かんりか", "hv": "QUẢN LÝ HẠ", "vi": "dưới sự quản lý" },
+          { "w": "土地", "r": "とち", "hv": "THỔ ĐỊA", "vi": "đất đai" },
+          { "w": "支配下", "r": "しはいか", "hv": "CHI PHỐI HẠ", "vi": "dưới sự cai trị" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "～下 đọc か: 管理下, 影響下 (えいきょうか), 支配下, 監視下 (かんしか)."
+      }
+    },
+    {
+      "num": 14,
+      "passage": null,
+      "stem": "今月から駅前の（　　）開発が始まった。",
+      "options": ["改", "復", "再", "重"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Từ tháng này, việc tái phát triển (tái quy hoạch) khu trước nhà ga đã bắt đầu.",
+        "why": "再開発 (さいかいはつ – TÁI KHAI PHÁT) = tái phát triển, tái quy hoạch đô thị. Tiền tố 再～ = lại, lần nữa.",
+        "options": [
+          "改 → 改 (かい) không làm tiền tố trước 開発. Sai.",
+          "復 → 復 (ふく) = phục hồi, không có 復開発. Sai.",
+          "再 → 再開発: tái phát triển. ĐÚNG.",
+          "重 → 重 (じゅう) = nặng/trùng, không hợp. Sai."
+        ],
+        "vocab": [
+          { "w": "再開発", "r": "さいかいはつ", "hv": "TÁI KHAI PHÁT", "vi": "tái phát triển, tái quy hoạch" },
+          { "w": "駅前", "r": "えきまえ", "hv": "DỊCH TIỀN", "vi": "trước nhà ga" },
+          { "w": "開発", "r": "かいはつ", "hv": "KHAI PHÁT", "vi": "phát triển, khai thác" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "再～: 再開発, 再利用 (さいりよう), 再確認 (さいかくにん), 再放送."
+      }
+    },
+    {
+      "num": 15,
+      "passage": null,
+      "stem": "この薬の（　　）成分を確認した。",
+      "options": ["真", "主", "本", "要"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tôi đã kiểm tra thành phần chính của loại thuốc này.",
+        "why": "主成分 (しゅせいぶん – CHỦ THÀNH PHẦN) = thành phần chính. Tiền tố 主～ = chính, chủ yếu.",
+        "options": [
+          "真 → 真～ = thật sự (真夏, 真実), không đi với 成分. Sai.",
+          "主 → 主成分: thành phần chính. ĐÚNG.",
+          "本 → 本～ = chính thức/bản thân (本社), không có 本成分. Sai.",
+          "要 → 要 (よう) = cần thiết (要点), không có 要成分. Sai."
+        ],
+        "vocab": [
+          { "w": "主成分", "r": "しゅせいぶん", "hv": "CHỦ THÀNH PHẦN", "vi": "thành phần chính" },
+          { "w": "確認", "r": "かくにん", "hv": "XÁC NHẬN", "vi": "xác nhận, kiểm tra" },
+          { "w": "薬", "r": "くすり", "hv": "DƯỢC", "vi": "thuốc" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "主～: 主成分, 主原因 (しゅげんいん), 主産業 (しゅさんぎょう)."
+      }
+    }
+  ]
+}

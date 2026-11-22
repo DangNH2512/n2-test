@@ -1,0 +1,109 @@
+{
+  "exam": "2014-12",
+  "mondai": 13,
+  "section": "reading",
+  "instruction": "次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Đọc đoạn văn sau và chọn câu trả lời đúng nhất cho mỗi câu hỏi.",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "",
+      "text": "以下は、ある農作物の販売者が書いた文章である。\n\n自分の手で作物を育ててみると、それが食べられるようになるまでどれだけ手間がかかるのかがわかる。また天候不順などに見舞われ（注1）たら作物ができないこともある。米や野菜は、工場で生産される製品のように、自動的・安定的に生産できるものではなく、自然の恵みの中で、人の手がかけられて自分たちの手元にまで届いているのだと実感する。\nそうすると、たとえばお店で売られている野菜の値段を見ても、これまでとは違った見方になってくる。ただ単に安ければいいというものではないと思えてくる。\n価格というのは、現代社会では物に対する一つの評価基準である。安いということは、それを価値の低いものとみなしているといえる。一所懸命作ったものに安価な値段がつけられてしまうと、作り手としては非常にがっかりしてしまうことは想像に難くない。\n食料という、われわれが生きていくうえで欠かせないものまでも、ほかの品物と同じように商業主義の中に組み込み、商品の一つとして同じ土俵の上で（注2）競わせることが、はたしてほんとうにいいのだろうか。われわれの命をつなぎ、命を守るものを、安値競争に巻き込んでしまっていいものだろうか。\n食べ物の作り手が、いいものを作りたいというモチベーション（注3）を失ってしまったら、最終的に困るのはわれわれ消費者なのだ。生きるための対価（注4）を支払っていると思えば、とにかく安ければいいという安易な選択はできないはずだ。\nだから、僕がやっている「青空市場808」では、他店と安値競争をするつもりはまったくない。もちろん、相場（注5）というものがあるので、それを参考にしているが、基本的には生産者に価格を決めてもらい、そのうえで販売価格を決める。\n一方、お客さんに対しては、なぜそのような価格になるのか、説明できなければならない。どのようにしてこの作物は作られているのか。味にはどんな特徴があるのか。農薬は使っているのかどうか。\n（中略）今、小売り（注6）が果たすべき役割は大きいと思う。小売りは生産者との信頼関係を築き、その信頼を消費者に伝えていく。一方で、安全や安心を求める消費者の声や、商品の評価を生産者に伝えていく。こうすることで、消費者の農薬への理解が深まり、ひいては（注7）消費者の健康な暮らしと命が守られていくのである。\n（永島敏行『青空市場で会いましょう―日本の農と食はすばらしい』による）\n（注1）天候不順に見舞われる：ここでは、悪い天気が続く\n（注2）同じ土俵の上で：ここでは、同じ条件で\n（注3）モチベーション：意欲\n（注4）〜ための対価：ここでは、〜ために必要なお金\n（注5）相場：一般的に適当だとされる値段\n（注6）小売り：ここでは、農作物を生産者から買って、消費者に販売する職業\n（注7）ひいては：その結果"
+    }
+  ],
+  "questions": [
+    {
+      "num": 71,
+      "passage": "p1",
+      "stem": "作物を育てると、これまでとは違った見方になってくるとあるが、なぜか。",
+      "options": ["生産者の農作物に対する愛情がわかるから。", "自然の影響の大きさや手間がかかることがわかるから。", "農作物を作るには費用も時間もかかることがわかるから。", "工場で作られる製品と同様に手間の多いことがわかるから。"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Bài viết rằng khi tự trồng cây thì cách nhìn sẽ khác trước, vì sao? → Vì hiểu được ảnh hưởng lớn của thiên nhiên và sự tốn công sức.",
+        "why": "Đoạn 1: tự trồng thì biết tốn bao nhiêu công sức (手間), thời tiết xấu thì có khi không thu hoạch được, rau gạo đến tay mình nhờ ơn thiên nhiên và bàn tay con người. 'そうすると' (đoạn 2) nối kết quả: cách nhìn giá rau thay đổi.",
+        "options": [
+          "Hiểu tình yêu của người sản xuất với nông sản → bài không nói. Sai.",
+          "Hiểu ảnh hưởng lớn của thiên nhiên và tốn công sức. ĐÚNG.",
+          "Tốn cả chi phí lẫn thời gian → bài nói về công sức và thời tiết, không nói chi phí. Sai.",
+          "Tốn công giống như sản phẩm nhà máy → ngược lại, bài nói nông sản KHÔNG giống sản phẩm nhà máy. Sai."
+        ],
+        "vocab": [
+          { "w": "手間", "r": "てま", "hv": "THỦ GIAN", "vi": "công sức, thời gian công sức" },
+          { "w": "天候不順", "r": "てんこうふじゅん", "hv": "THIÊN HẬU BẤT THUẬN", "vi": "thời tiết thất thường" },
+          { "w": "恵み", "r": "めぐみ", "hv": "HUỆ", "vi": "ân huệ, phúc lành" },
+          { "w": "実感", "r": "じっかん", "hv": "THỰC CẢM", "vi": "cảm nhận thực sự" }
+        ],
+        "grammar": {
+          "pattern": "〜ではなく",
+          "meaning": "không phải ~ (mà là ~)",
+          "form": "Vる + ものではなく",
+          "example": "自動的・安定的に生産できるものではなく、自然の恵みの中で…（Không phải thứ sản xuất tự động, ổn định mà là…）"
+        },
+        "evidence": "自分の手で作物を育ててみると、それが食べられるようになるまでどれだけ手間がかかるのかがわかる。また天候不順などに見舞われたら作物ができないこともある。…自然の恵みの中で、人の手がかけられて自分たちの手元にまで届いているのだと実感する。そうすると、…これまでとは違った見方になってくる。",
+        "tip": "そうすると → lý do nằm ở đoạn ngay trước đó."
+      }
+    },
+    {
+      "num": 72,
+      "passage": "p1",
+      "stem": "農作物の値段をつけるときに、筆者が最も重視しているのはどのようなことか。",
+      "options": ["他店の価格と比較せずにつけること。", "作り手の希望どおりに高くつけること。", "作り手の希望を尊重してつけること。", "農作物自体の品質に基づいてつけること"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Khi định giá nông sản, tác giả coi trọng nhất điều gì? → Định giá tôn trọng mong muốn của người làm ra.",
+        "why": "Tác giả tham khảo giá thị trường nhưng 'về cơ bản để người sản xuất quyết định giá, rồi trên cơ sở đó mới định giá bán' → tôn trọng ý của người sản xuất.",
+        "options": [
+          "Không so sánh với giá cửa hàng khác → tác giả không cạnh tranh giá rẻ nhưng có tham khảo 相場; đây không phải điều coi trọng nhất. Sai.",
+          "Định giá cao đúng như người làm muốn → bài không nói 'cao', và giá bán do cửa hàng quyết định sau đó. Sai.",
+          "Tôn trọng mong muốn của người làm ra khi định giá. ĐÚNG.",
+          "Dựa trên chất lượng nông sản → bài không nói. Sai."
+        ],
+        "vocab": [
+          { "w": "生産者", "r": "せいさんしゃ", "hv": "SINH SẢN GIẢ", "vi": "người sản xuất" },
+          { "w": "相場", "r": "そうば", "hv": "TƯƠNG TRƯỜNG", "vi": "giá thị trường" },
+          { "w": "安値競争", "r": "やすねきょうそう", "hv": "AN TRỊ CẠNH TRANH", "vi": "cạnh tranh giá rẻ" },
+          { "w": "尊重", "r": "そんちょう", "hv": "TÔN TRỌNG", "vi": "tôn trọng" }
+        ],
+        "grammar": {
+          "pattern": "〜てもらう ／ そのうえで",
+          "meaning": "nhờ/để (ai) làm ~; trên cơ sở đó, sau đó",
+          "form": "人に + Vてもらう ／ そのうえで + V",
+          "example": "まず説明を聞いて、そのうえで決めます。（Nghe giải thích trước, rồi trên cơ sở đó sẽ quyết định.）"
+        },
+        "evidence": "もちろん、相場というものがあるので、それを参考にしているが、基本的には生産者に価格を決めてもらい、そのうえで販売価格を決める。",
+        "tip": "基本的には… sau 'もちろん〜が' = điều được coi trọng nhất."
+      }
+    },
+    {
+      "num": 73,
+      "passage": "p1",
+      "stem": "小売りが果たすべき役割として、筆者が重要だと考えていることは何か。",
+      "options": ["生産者と協力して、消費者に農業の大変さを伝えること。", "生産者が作った農作物を、適切な価格で消費者に届けること。", "生産者と消費者の対話の機会を作り、信頼関係を築くこと。", "生産者と消費者の声をそれぞれに伝え、相互理解を深めること。"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Tác giả cho rằng vai trò quan trọng mà người bán lẻ cần làm là gì? → Truyền đạt tiếng nói của người sản xuất và người tiêu dùng cho bên kia, làm sâu sắc sự hiểu biết lẫn nhau.",
+        "why": "Người bán lẻ truyền sự tin cậy với người sản xuất đến người tiêu dùng, đồng thời truyền tiếng nói của người tiêu dùng (an toàn, an tâm) và đánh giá sản phẩm đến người sản xuất → hai chiều, giúp hiểu nhau hơn.",
+        "options": [
+          "Truyền đạt sự vất vả của nghề nông → chỉ một phần, bài nói truyền đạt hai chiều. Sai.",
+          "Đưa nông sản đến người tiêu dùng với giá hợp lý → không phải vai trò được nêu. Sai.",
+          "Tạo cơ hội đối thoại trực tiếp giữa hai bên → bài nói người bán lẻ làm trung gian truyền đạt, không tổ chức đối thoại. Sai.",
+          "Truyền tiếng nói của mỗi bên cho bên kia, tăng hiểu biết lẫn nhau. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "小売り", "r": "こうり", "hv": "TIỂU MẠI", "vi": "bán lẻ" },
+          { "w": "役割", "r": "やくわり", "hv": "DỊCH CÁT", "vi": "vai trò" },
+          { "w": "信頼関係", "r": "しんらいかんけい", "hv": "TÍN LẠI QUAN HỆ", "vi": "quan hệ tin cậy" },
+          { "w": "相互理解", "r": "そうごりかい", "hv": "TƯƠNG HỖ LÝ GIẢI", "vi": "hiểu biết lẫn nhau" }
+        ],
+        "grammar": {
+          "pattern": "〜べき ／ ひいては",
+          "meaning": "nên ~, cần phải ~; (từ đó) dẫn đến, kết quả là",
+          "form": "Vる + べき + N ／ A、ひいてはB",
+          "example": "小売りが果たすべき役割は大きい。（Vai trò mà bán lẻ cần đảm nhận là rất lớn.）"
+        },
+        "evidence": "小売りは生産者との信頼関係を築き、その信頼を消費者に伝えていく。一方で、安全や安心を求める消費者の声や、商品の評価を生産者に伝えていく。",
+        "tip": "'一方で' báo hiệu chiều ngược lại → vai trò hai chiều (それぞれに伝える)."
+      }
+    }
+  ]
+}

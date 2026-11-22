@@ -1,0 +1,191 @@
+{
+  "exam": "2017-07",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất để điền vào chỗ trống (theo ngữ cảnh).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "骨を丈夫にするために、カルシウムを（　　）含む食品をとるようにしている。",
+      "options": ["鮮明に", "活発に", "円満に", "豊富に"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Để xương chắc khỏe, tôi cố gắng ăn những thực phẩm chứa nhiều canxi.",
+        "why": "豊富に含む = chứa phong phú, chứa nhiều. 豊富 (PHONG PHÚ) đi với số lượng/chất dinh dưỡng: 栄養が豊富・経験が豊富.",
+        "options": [
+          "鮮明に → せんめいに: rõ nét (hình ảnh, ký ức). Sai.",
+          "活発に → かっぱつに: sôi nổi, năng động (hoạt động). Sai.",
+          "円満に → えんまんに: êm thấm, hòa thuận (quan hệ). Sai.",
+          "豊富に → ほうふに: phong phú, dồi dào. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "豊富", "r": "ほうふ", "hv": "PHONG PHÚ", "vi": "phong phú, dồi dào" },
+          { "w": "含む", "r": "ふくむ", "hv": "HÀM", "vi": "chứa, bao gồm" },
+          { "w": "丈夫", "r": "じょうぶ", "hv": "TRƯỢNG PHU", "vi": "chắc khỏe, bền" },
+          { "w": "円満", "r": "えんまん", "hv": "VIÊN MÃN", "vi": "êm thấm, viên mãn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Collocation: 栄養を豊富に含む / ビタミンが豊富だ."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "今週は、暑くも寒くもなく、強い風も吹かず、（　　）天気が続いている。",
+      "options": ["柔らかな", "穏やかな", "滑らかな", "緩やかな"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Tuần này thời tiết ôn hòa kéo dài, không nóng không lạnh, cũng không có gió mạnh.",
+        "why": "穏やかな天気 = thời tiết ôn hòa, êm dịu. 穏やか (ỔN) dùng cho thời tiết, biển, tính cách yên ổn, không dữ dội.",
+        "options": [
+          "柔らかな → やわらかな: mềm mại (vật chất, ánh sáng). Sai.",
+          "穏やかな → おだやかな: ôn hòa, êm ả. ĐÚNG.",
+          "滑らかな → なめらかな: trơn tru, mượt (bề mặt, lời nói). Sai.",
+          "緩やかな → ゆるやかな: thoai thoải, chậm rãi (dốc, tốc độ). Sai."
+        ],
+        "vocab": [
+          { "w": "穏やか", "r": "おだやか", "hv": "ỔN", "vi": "ôn hòa, êm ả" },
+          { "w": "滑らか", "r": "なめらか", "hv": "HOẠT", "vi": "trơn tru, mượt" },
+          { "w": "緩やか", "r": "ゆるやか", "hv": "HOÃN", "vi": "thoai thoải, chậm rãi" },
+          { "w": "柔らか", "r": "やわらか", "hv": "NHU", "vi": "mềm mại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "穏やかな海・穏やかな性格・穏やかな天気 — đều nghĩa 'yên bình, không sóng gió'."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "資格試験がもうすぐあるのに、最近仕事が忙しくて、毎朝の勉強時間を十分に（　　）するのが難しいです。",
+      "options": ["制作", "保存", "作成", "確保"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Sắp tới kỳ thi chứng chỉ rồi mà dạo này công việc bận nên khó đảm bảo đủ thời gian học mỗi sáng.",
+        "why": "時間を確保する = đảm bảo (dành ra) thời gian. 確保 (XÁC BẢO) = giữ chắc, đảm bảo có được: 時間・場所・人材を確保する.",
+        "options": [
+          "制作 → せいさく: chế tác (tác phẩm, chương trình). Sai.",
+          "保存 → ほぞん: bảo tồn, lưu giữ (dữ liệu, thực phẩm). Sai.",
+          "作成 → さくせい: soạn, lập (tài liệu). Sai.",
+          "確保 → かくほ: đảm bảo, giữ được. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "確保", "r": "かくほ", "hv": "XÁC BẢO", "vi": "đảm bảo, giữ chắc" },
+          { "w": "資格", "r": "しかく", "hv": "TƯ CÁCH", "vi": "chứng chỉ, tư cách" },
+          { "w": "作成", "r": "さくせい", "hv": "TÁC THÀNH", "vi": "soạn thảo, lập" },
+          { "w": "制作", "r": "せいさく", "hv": "CHẾ TÁC", "vi": "sản xuất, chế tác" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "席を確保する (giữ chỗ), 安全を確保する (đảm bảo an toàn)."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "雑誌に新しい広告を出して、わが社の商品の良さを消費者にもっと（　　）したい。",
+      "options": ["アピール", "インストール", "チャージ", "セット"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Tôi muốn đăng quảng cáo mới trên tạp chí để quảng bá (thu hút) điểm tốt của sản phẩm công ty mình đến người tiêu dùng nhiều hơn.",
+        "why": "アピール (appeal) = quảng bá, thể hiện để thu hút sự chú ý. 良さを消費者にアピールする = làm nổi bật điểm tốt với người tiêu dùng.",
+        "options": [
+          "アピール → quảng bá, thu hút. ĐÚNG.",
+          "インストール → cài đặt (phần mềm). Sai.",
+          "チャージ → nạp tiền, sạc. Sai.",
+          "セット → đặt, sắp xếp, bộ. Sai."
+        ],
+        "vocab": [
+          { "w": "アピール", "r": "アピール", "hv": "", "vi": "quảng bá, gây ấn tượng" },
+          { "w": "広告", "r": "こうこく", "hv": "QUẢNG CÁO", "vi": "quảng cáo" },
+          { "w": "消費者", "r": "しょうひしゃ", "hv": "TIÊU PHÍ GIẢ", "vi": "người tiêu dùng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "自己アピール = giới thiệu điểm mạnh bản thân (hay gặp khi phỏng vấn)."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "失敗したことを（　　）より、気持ちを切り替えて、明日からまたがんばろうと思う。",
+      "options": ["断る", "疑う", "悔やむ", "あきらめる"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Thay vì hối tiếc về thất bại, tôi định thay đổi tâm trạng và từ mai lại cố gắng.",
+        "why": "失敗を悔やむ = hối hận, tiếc nuối về thất bại. Đối lập với 気持ちを切り替える (chuyển đổi tâm trạng, nhìn về phía trước).",
+        "options": [
+          "断る → ことわる: từ chối. Sai.",
+          "疑う → うたがう: nghi ngờ. Sai.",
+          "悔やむ → くやむ: hối tiếc, ân hận. ĐÚNG.",
+          "あきらめる → từ bỏ — 'từ bỏ thất bại' không hợp nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "悔やむ", "r": "くやむ", "hv": "HỐI", "vi": "hối tiếc, ân hận" },
+          { "w": "悔しい", "r": "くやしい", "hv": "HỐI", "vi": "cay cú, tiếc" },
+          { "w": "切り替える", "r": "きりかえる", "hv": "THIẾT THẾ", "vi": "chuyển đổi" },
+          { "w": "疑う", "r": "うたがう", "hv": "NGHI", "vi": "nghi ngờ" }
+        ],
+        "grammar": { "pattern": "～より", "meaning": "thay vì ~ (thì tốt hơn là...)", "form": "V辞書形 + より", "example": "悩むより行動しよう。(Hành động thay vì phiền muộn.)" },
+        "evidence": null,
+        "tip": "後悔 (こうかい) = hối hận — cùng chữ 悔."
+      }
+    },
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "わが社が海外への進出を考える（　　）となったのは、二年前の国際イベントだった。",
+      "options": ["契機", "先端", "始発", "合図"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Điều trở thành cơ hội (bước ngoặt) để công ty chúng tôi tính đến việc vươn ra nước ngoài là sự kiện quốc tế hai năm trước.",
+        "why": "契機 (KHẾ CƠ) = cơ hội, động lực, bước ngoặt dẫn đến việc gì. ～の契機となる = trở thành bước ngoặt cho ~ (tương đương きっかけ).",
+        "options": [
+          "契機 → けいき: cơ hội, bước ngoặt. ĐÚNG.",
+          "先端 → せんたん: mũi nhọn, tiên tiến. Sai.",
+          "始発 → しはつ: chuyến (tàu) đầu tiên. Sai.",
+          "合図 → あいず: tín hiệu, ra hiệu. Sai."
+        ],
+        "vocab": [
+          { "w": "契機", "r": "けいき", "hv": "KHẾ CƠ", "vi": "cơ hội, bước ngoặt" },
+          { "w": "進出", "r": "しんしゅつ", "hv": "TIẾN XUẤT", "vi": "tiến ra, mở rộng sang" },
+          { "w": "先端", "r": "せんたん", "hv": "TIÊN ĐOAN", "vi": "đầu mút, tiên tiến" },
+          { "w": "合図", "r": "あいず", "hv": "HỢP ĐỒ", "vi": "tín hiệu, ra hiệu" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "契機 = きっかけ (từ trang trọng hơn). ～を契機に = nhân dịp ~."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "あの二人はさっきから（　　）話しているが、他人に聞かれては困る話なのだろうか。",
+      "options": ["ぐっすり", "うろうろ", "ひそひそ", "ばっさり"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Hai người đó từ nãy giờ cứ thì thầm nói chuyện, chẳng lẽ là chuyện không muốn người khác nghe thấy?",
+        "why": "ひそひそ = thì thầm, nói nhỏ để người khác không nghe thấy. Khớp với 他人に聞かれては困る.",
+        "options": [
+          "ぐっすり → ngủ say. Sai.",
+          "うろうろ → đi lảng vảng, loanh quanh. Sai.",
+          "ひそひそ → thì thầm. ĐÚNG.",
+          "ばっさり → cắt phăng (tóc, ngân sách). Sai."
+        ],
+        "vocab": [
+          { "w": "ひそひそ", "r": "ひそひそ", "hv": "", "vi": "thì thầm" },
+          { "w": "うろうろ", "r": "うろうろ", "hv": "", "vi": "lảng vảng" },
+          { "w": "ばっさり", "r": "ばっさり", "hv": "", "vi": "cắt phăng, mạnh tay" },
+          { "w": "他人", "r": "たにん", "hv": "THA NHÂN", "vi": "người khác" }
+        ],
+        "grammar": { "pattern": "～ては困る", "meaning": "nếu ~ thì phiền/khó xử", "form": "Vて + は困る", "example": "遅れては困ります。(Đến muộn thì phiền lắm.)" },
+        "evidence": null,
+        "tip": "ひそひそ話 = chuyện thì thầm, nói xấu sau lưng."
+      }
+    }
+  ]
+}

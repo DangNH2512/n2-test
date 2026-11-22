@@ -1,0 +1,164 @@
+{
+  "exam": "2013-07",
+  "mondai": 6,
+  "section": "vocab",
+  "instruction": "次の言葉の使い方として最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn câu dùng từ đã cho đúng nhất.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 28,
+      "passage": null,
+      "stem": "掲示",
+      "options": [
+        "山田氏は有名な科学者で、いくつもの本に研究論文を<u>掲示</u>している。",
+        "テレビでよく<u>掲示</u>されている洗剤が安くなっていたので、試しに買ってみた。",
+        "最近は名刺に自分の写真を<u>掲示</u>しているビジネスマンも多い。",
+        "マンションの入り口に、水道工事のお知らせが<u>掲示</u>されていた。"
+      ],
+      "answer": 4,
+      "explanation": {
+        "translation": "(Câu 4) Ở lối vào chung cư có dán thông báo về việc sửa đường ống nước.",
+        "why": "掲示 (けいじ) = dán/treo thông báo ở nơi công cộng cho nhiều người xem (bảng tin, tường). Thông báo dán ở lối vào chung cư → đúng nghĩa.",
+        "options": [
+          "Đăng luận văn trong sách → phải dùng 掲載 (けいさい: đăng tải). Sai.",
+          "Quảng cáo trên TV → phải dùng 宣伝 (せんでん) hay CM. Sai.",
+          "In ảnh lên danh thiếp → phải dùng 載せる / 印刷する. Sai.",
+          "Thông báo được dán ở lối vào → 掲示. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "掲示", "r": "けいじ", "hv": "YẾT THỊ", "vi": "dán/niêm yết thông báo" },
+          { "w": "掲示板", "r": "けいじばん", "hv": "YẾT THỊ BẢN", "vi": "bảng tin" },
+          { "w": "掲載", "r": "けいさい", "hv": "YẾT TẢI", "vi": "đăng tải (báo, tạp chí)" },
+          { "w": "宣伝", "r": "せんでん", "hv": "TUYÊN TRUYỀN", "vi": "quảng cáo" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "掲示 = dán lên bảng/tường; 掲載 = đăng trên báo, sách, web."
+      }
+    },
+    {
+      "num": 29,
+      "passage": null,
+      "stem": "快い",
+      "options": [
+        "要らないパソコンでしたら、<u>快く</u>もらっていきます。",
+        "遠慮しないでいつでも<u>快く</u>遊びに来てください。",
+        "急な仕事だったが、彼が<u>快く</u>引き受けてくれて助かった。",
+        "親友の森さんには、どんな悩みも<u>快く</u>打ち明けられる。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "(Câu 3) Dù là việc gấp nhưng anh ấy đã vui vẻ nhận lời giúp, thật đỡ quá.",
+        "why": "快く (こころよく) = vui lòng, sẵn lòng (khi đáp ứng lời nhờ vả của người khác). 快く引き受ける là cách dùng điển hình.",
+        "options": [
+          "Tự mình nhận đồ không cần → nên dùng 喜んで / ありがたく. Sai.",
+          "Mời người khác đến chơi → nên dùng 気軽に. Sai.",
+          "Vui vẻ nhận lời làm việc gấp → 快く引き受ける. ĐÚNG.",
+          "Thổ lộ nỗi lòng → nên dùng 気軽に / 素直に. Sai."
+        ],
+        "vocab": [
+          { "w": "快い", "r": "こころよい", "hv": "KHOÁI", "vi": "dễ chịu; vui lòng, sẵn lòng" },
+          { "w": "引き受ける", "r": "ひきうける", "hv": "DẪN THỤ", "vi": "nhận lời, đảm nhận" },
+          { "w": "打ち明ける", "r": "うちあける", "hv": "ĐẢ MINH", "vi": "thổ lộ, tâm sự" },
+          { "w": "気軽に", "r": "きがるに", "hv": "KHÍ KHINH", "vi": "thoải mái, không ngại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "快く dùng cho thái độ của người đáp ứng yêu cầu: 快く承諾する, 快く引き受ける."
+      }
+    },
+    {
+      "num": 30,
+      "passage": null,
+      "stem": "分野",
+      "options": [
+        "保証の<u>分野</u>を超えた修理に関しては、費用がかかります。",
+        "明日は朝から冷え込んで、山に近い<u>分野</u>では雪になるそうだ。",
+        "セミナーには心理学や言語学の<u>分野</u>から多数の専門家が参加した。",
+        "小説のこの<u>分野</u>には筆者の実際の体験が書かれている。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "(Câu 3) Nhiều chuyên gia từ các lĩnh vực như tâm lý học, ngôn ngữ học đã tham gia hội thảo.",
+        "why": "分野 (ぶんや) = lĩnh vực (học thuật, chuyên môn). 心理学や言語学の分野 dùng chuẩn.",
+        "options": [
+          "Phạm vi bảo hành → phải dùng 範囲 (はんい). Sai.",
+          "Khu vực gần núi → phải dùng 地域 (ちいき) / 地方. Sai.",
+          "Lĩnh vực tâm lý học, ngôn ngữ học → 分野. ĐÚNG.",
+          "Phần/đoạn của tiểu thuyết → phải dùng 部分 (ぶぶん) / 箇所. Sai."
+        ],
+        "vocab": [
+          { "w": "分野", "r": "ぶんや", "hv": "PHÂN DÃ", "vi": "lĩnh vực" },
+          { "w": "範囲", "r": "はんい", "hv": "PHẠM VI", "vi": "phạm vi" },
+          { "w": "地域", "r": "ちいき", "hv": "ĐỊA VỰC", "vi": "khu vực" },
+          { "w": "専門家", "r": "せんもんか", "hv": "CHUYÊN MÔN GIA", "vi": "chuyên gia" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "分野 chỉ lĩnh vực trừu tượng (学問, 研究, 仕事), không dùng cho vùng đất hay đoạn văn."
+      }
+    },
+    {
+      "num": 31,
+      "passage": null,
+      "stem": "生き生き",
+      "options": [
+        "私は体が<u>生き生き</u>しているうちに、あちこち旅行をしたいと思う。",
+        "子供が熱を出したが、薬を飲ませたらだんだん<u>生き生き</u>してきた。",
+        "彼は、好きなサッカーをしているときが一番<u>生き生き</u>している。",
+        "記憶が<u>生き生き</u>しているので、今なら間違えずに答えることができる。"
+      ],
+      "answer": 3,
+      "explanation": {
+        "translation": "(Câu 3) Anh ấy trông tràn đầy sức sống nhất khi đang chơi môn bóng đá mình yêu thích.",
+        "why": "生き生き (いきいき) = tràn đầy sức sống, hăng hái, rạng rỡ (thể hiện ra vẻ mặt, hành động). Khi làm việc mình thích thì trông 生き生き.",
+        "options": [
+          "Lúc cơ thể còn khỏe → nên dùng 元気な / 丈夫な. Sai.",
+          "Hạ sốt, khỏe dần → nên dùng 元気になってきた. Sai.",
+          "Tràn đầy sức sống khi chơi bóng đá → 生き生き. ĐÚNG.",
+          "Ký ức còn rõ → nên dùng はっきりしている / 鮮明. Sai."
+        ],
+        "vocab": [
+          { "w": "生き生き", "r": "いきいき", "hv": "SINH SINH", "vi": "tràn đầy sức sống, sinh động" },
+          { "w": "記憶", "r": "きおく", "hv": "KÝ ỨC", "vi": "ký ức, trí nhớ" },
+          { "w": "鮮明", "r": "せんめい", "hv": "TIÊN MINH", "vi": "rõ nét" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "生き生きした表情 / 生き生きと働く: vẻ hăng hái, rạng rỡ toát ra bên ngoài."
+      }
+    },
+    {
+      "num": 32,
+      "passage": null,
+      "stem": "隔てる",
+      "options": [
+        "この二つの問題は<u>隔てて</u>考えるべきだ。",
+        "大きな川が二つの市を<u>隔てて</u>いる。",
+        "5分ほど休憩を<u>隔てて</u>、11時から再開します。",
+        "試験のときは、隣の人と<u>隔てて</u>座ってください。"
+      ],
+      "answer": 2,
+      "explanation": {
+        "translation": "(Câu 2) Một con sông lớn ngăn cách hai thành phố.",
+        "why": "隔てる (へだてる) = ngăn cách (có vật ở giữa chia đôi hai bên). Con sông nằm giữa ngăn cách hai thành phố → đúng.",
+        "options": [
+          "Suy nghĩ tách riêng hai vấn đề → phải dùng 分けて. Sai.",
+          "Con sông ngăn cách hai thành phố → 隔てる. ĐÚNG.",
+          "Nghỉ giải lao 5 phút → phải dùng 挟んで (はさんで). Sai.",
+          "Ngồi cách xa người bên cạnh → phải dùng 離れて (はなれて). Sai."
+        ],
+        "vocab": [
+          { "w": "隔てる", "r": "へだてる", "hv": "CÁCH", "vi": "ngăn cách" },
+          { "w": "挟む", "r": "はさむ", "hv": "HIỆP", "vi": "kẹp, chen vào giữa" },
+          { "w": "離れる", "r": "はなれる", "hv": "LY", "vi": "rời xa, cách xa" },
+          { "w": "再開", "r": "さいかい", "hv": "TÁI KHAI", "vi": "mở lại, tiếp tục lại" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "A が B と C を隔てる: A nằm giữa ngăn B và C (川, 壁, 海...)."
+      }
+    }
+  ]
+}

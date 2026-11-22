@@ -1,0 +1,188 @@
+{
+  "exam": "2012-12",
+  "mondai": 4,
+  "section": "vocab",
+  "instruction": "（　　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Chọn từ thích hợp nhất điền vào chỗ trống (theo ngữ cảnh).",
+  "passages": [],
+  "questions": [
+    {
+      "num": 16,
+      "passage": null,
+      "stem": "栄養が（　　）ように、いろいろな食品を食べたほうがいい。",
+      "options": ["はぶかれない", "はずされない", "かたよらない", "かたむかない"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Để dinh dưỡng không bị mất cân đối, nên ăn nhiều loại thực phẩm khác nhau.",
+        "why": "栄養が偏る (かたよる) = dinh dưỡng bị lệch, mất cân bằng. 偏らないように = để không bị thiên lệch → ăn đa dạng.",
+        "options": [
+          "はぶかれない → 省く: lược bỏ, cắt bớt (công đoạn). Không đi với 栄養. Sai.",
+          "はずされない → 外す: tháo ra, loại ra. Sai.",
+          "かたよらない → 偏る: thiên lệch, mất cân đối. ĐÚNG.",
+          "かたむかない → 傾く: nghiêng (vật thể, xu hướng). Sai."
+        ],
+        "vocab": [
+          { "w": "偏る", "r": "かたよる", "hv": "THIÊN", "vi": "thiên lệch, mất cân đối" },
+          { "w": "栄養", "r": "えいよう", "hv": "VINH DƯỠNG", "vi": "dinh dưỡng" },
+          { "w": "傾く", "r": "かたむく", "hv": "KHUYNH", "vi": "nghiêng" },
+          { "w": "省く", "r": "はぶく", "hv": "TỈNH", "vi": "lược bỏ, giảm bớt" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm cố định: 栄養が偏る / 偏った食事 / 偏見 (へんけん: định kiến)."
+      }
+    },
+    {
+      "num": 17,
+      "passage": null,
+      "stem": "ダムの建設は計画通り（　　）進んでいる。",
+      "options": ["さらさら", "すらすら", "着々と", "続々と"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Việc xây dựng con đập đang tiến triển đều đặn đúng như kế hoạch.",
+        "why": "着々と (ちゃくちゃくと) = từng bước, đều đặn, vững chắc — dùng cho công việc/kế hoạch tiến triển. 計画通り着々と進む là cụm rất tự nhiên.",
+        "options": [
+          "さらさら → (nước) chảy róc rách; (tóc) mượt; viết trôi chảy. Sai.",
+          "すらすら → trôi chảy, suôn sẻ (đọc, nói, trả lời). Không dùng cho công trình. Sai.",
+          "着々と → đều đặn, từng bước vững chắc. ĐÚNG.",
+          "続々と → lần lượt kéo đến liên tục (người, sự vật xuất hiện nối tiếp). Sai."
+        ],
+        "vocab": [
+          { "w": "着々と", "r": "ちゃくちゃくと", "hv": "TRƯỚC", "vi": "đều đặn, từng bước vững chắc" },
+          { "w": "続々と", "r": "ぞくぞくと", "hv": "TỤC", "vi": "lần lượt, liên tục kéo đến" },
+          { "w": "建設", "r": "けんせつ", "hv": "KIẾN THIẾT", "vi": "xây dựng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "着々と + 進む/準備が進む; 続々と + 集まる/届く/登場する."
+      }
+    },
+    {
+      "num": 18,
+      "passage": null,
+      "stem": "急いでいるのに、渋滞のせいで車が前に進まなくて（　　）した。",
+      "options": ["いらいら", "わくわく", "すっきり", "うっかり"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Đang vội mà vì kẹt xe, xe không nhích lên được nên tôi bực bội sốt ruột.",
+        "why": "いらいらする = bực bội, sốt ruột khi mọi việc không như ý. Ngữ cảnh 'đang vội + kẹt xe' → いらいら.",
+        "options": [
+          "いらいら → bực bội, sốt ruột. ĐÚNG.",
+          "わくわく → háo hức, hồi hộp (vui). Sai.",
+          "すっきり → khoan khoái, gọn gàng. Sai.",
+          "うっかり → lơ đễnh, sơ ý. Sai."
+        ],
+        "vocab": [
+          { "w": "いらいら", "r": "いらいら", "hv": "", "vi": "bực bội, sốt ruột" },
+          { "w": "渋滞", "r": "じゅうたい", "hv": "SÁP TRỆ", "vi": "tắc đường" },
+          { "w": "〜せいで", "r": "せいで", "hv": "", "vi": "tại vì ~ (kết quả xấu)" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "4 từ láy cảm xúc hay ra: いらいら (bực), わくわく (háo hức), どきどき (hồi hộp), はらはら (lo thót tim)."
+      }
+    },
+    {
+      "num": 19,
+      "passage": null,
+      "stem": "兄は「残業が多い、給料が安い」と会社の（　　）ばかり言っている。",
+      "options": ["ゆううつ", "ぐち", "苦情", "非難"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Anh trai tôi suốt ngày chỉ toàn than phiền về công ty: \"Làm thêm nhiều quá, lương thấp quá\".",
+        "why": "愚痴 (ぐち) を言う = than vãn, cằn nhằn (về chuyện không thể thay đổi, nói cho người khác nghe). Anh than với người nhà về công ty → ぐち.",
+        "options": [
+          "ゆううつ → 憂鬱: u sầu, chán nản (trạng thái), không đi với 言う. Sai.",
+          "ぐち → 愚痴: lời than vãn, cằn nhằn. ĐÚNG.",
+          "苦情 → くじょう: khiếu nại, phàn nàn chính thức gửi tới bên chịu trách nhiệm (khách hàng → cửa hàng). Ở đây chỉ than ở nhà. Sai.",
+          "非難 → ひなん: chỉ trích, lên án (lỗi của người khác). Sai."
+        ],
+        "vocab": [
+          { "w": "愚痴", "r": "ぐち", "hv": "NGU SI", "vi": "lời than vãn, cằn nhằn" },
+          { "w": "苦情", "r": "くじょう", "hv": "KHỔ TÌNH", "vi": "khiếu nại, phàn nàn" },
+          { "w": "残業", "r": "ざんぎょう", "hv": "TÀN NGHIỆP", "vi": "làm thêm giờ" },
+          { "w": "給料", "r": "きゅうりょう", "hv": "CẤP LIÊU", "vi": "tiền lương" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "愚痴をこぼす/愚痴を言う = than thở vu vơ; 苦情を言う = khiếu nại tới người có trách nhiệm."
+      }
+    },
+    {
+      "num": 20,
+      "passage": null,
+      "stem": "あのドラマは、最後に主人公が恋人と再会する（　　）が感動的だった。",
+      "options": ["要所", "名所", "場面", "画面"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Bộ phim truyền hình đó, cảnh nhân vật chính gặp lại người yêu ở cuối phim thật cảm động.",
+        "why": "場面 (ばめん) = cảnh, tình huống (trong phim, truyện). 再会する場面 = cảnh gặp lại.",
+        "options": [
+          "要所 → ようしょ: điểm quan trọng, vị trí then chốt. Sai.",
+          "名所 → めいしょ: danh lam thắng cảnh. Sai.",
+          "場面 → ばめん: cảnh (phim, truyện). ĐÚNG.",
+          "画面 → がめん: màn hình. Sai."
+        ],
+        "vocab": [
+          { "w": "場面", "r": "ばめん", "hv": "TRƯỜNG DIỆN", "vi": "cảnh, tình huống" },
+          { "w": "主人公", "r": "しゅじんこう", "hv": "CHỦ NHÂN CÔNG", "vi": "nhân vật chính" },
+          { "w": "再会", "r": "さいかい", "hv": "TÁI HỘI", "vi": "gặp lại" },
+          { "w": "感動的", "r": "かんどうてき", "hv": "CẢM ĐỘNG ĐÍCH", "vi": "cảm động" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "場面 = cảnh/tình huống; 画面 = màn hình (vật lý). Đừng nhầm vì cùng có 面."
+      }
+    },
+    {
+      "num": 21,
+      "passage": null,
+      "stem": "A社はこの10年で、社員1万人の大企業に（　　）した。",
+      "options": ["発達", "展開", "上昇", "成長"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Công ty A trong 10 năm qua đã phát triển thành một doanh nghiệp lớn với 1 vạn nhân viên.",
+        "why": "成長する (せいちょう) = lớn lên, tăng trưởng — dùng cho người, công ty, kinh tế. 〜に成長する = phát triển thành ~.",
+        "options": [
+          "発達 → はったつ: phát triển (cơ thể, kỹ thuật, khí áp), không dùng 'công ty phát triển thành ~'. Sai.",
+          "展開 → てんかい: triển khai, diễn biến (câu chuyện, kinh doanh). Sai.",
+          "上昇 → じょうしょう: tăng lên (nhiệt độ, giá cả). Sai.",
+          "成長 → せいちょう: tăng trưởng, lớn mạnh. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "成長", "r": "せいちょう", "hv": "THÀNH TRƯỞNG", "vi": "trưởng thành, tăng trưởng" },
+          { "w": "発達", "r": "はったつ", "hv": "PHÁT ĐẠT", "vi": "phát triển (kỹ thuật, cơ thể)" },
+          { "w": "大企業", "r": "だいきぎょう", "hv": "ĐẠI XÍ NGHIỆP", "vi": "doanh nghiệp lớn" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "企業が成長する / 経済成長; 技術が発達する / 交通網の発達."
+      }
+    },
+    {
+      "num": 22,
+      "passage": null,
+      "stem": "激しい運動をたまにするより、（　　）運動を毎日続ける方が体にはいいらしい。",
+      "options": ["適度な", "簡略な", "好調な", "対等な"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Nghe nói duy trì vận động vừa phải mỗi ngày tốt cho cơ thể hơn là thỉnh thoảng vận động mạnh.",
+        "why": "適度な (てきどな) = vừa phải, có mức độ thích hợp — đối lập với 激しい (mạnh, dữ dội). 適度な運動 là cụm cố định.",
+        "options": [
+          "適度な → vừa phải. ĐÚNG.",
+          "簡略な → かんりゃく: giản lược, tóm gọn (thủ tục, giải thích). Sai.",
+          "好調な → こうちょう: thuận lợi, phong độ tốt. Sai.",
+          "対等な → たいとう: ngang hàng, bình đẳng. Sai."
+        ],
+        "vocab": [
+          { "w": "適度", "r": "てきど", "hv": "THÍCH ĐỘ", "vi": "vừa phải, mức độ thích hợp" },
+          { "w": "激しい", "r": "はげしい", "hv": "KÍCH", "vi": "mạnh, dữ dội" },
+          { "w": "対等", "r": "たいとう", "hv": "ĐỐI ĐẲNG", "vi": "ngang hàng" }
+        ],
+        "grammar": null,
+        "evidence": null,
+        "tip": "Cụm cố định: 適度な運動・適度な休憩・適度な湿度."
+      }
+    }
+  ]
+}

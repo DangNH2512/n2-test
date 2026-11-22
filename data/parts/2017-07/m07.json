@@ -1,0 +1,312 @@
+{
+  "exam": "2017-07",
+  "mondai": 7,
+  "section": "grammar",
+  "instruction": "次の文の（　　）に入れるのに最もよいものを、１・２・３・４から一つ選びなさい。",
+  "instruction_vi": "Chọn phương án thích hợp nhất để điền vào chỗ trống trong câu.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 33,
+      "passage": null,
+      "stem": "私の職場では、節電のため、廊下の蛍光灯を一つ（　　）外している。",
+      "options": ["に対し", "ぶりに", "につき", "おきに"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Ở chỗ làm của tôi, để tiết kiệm điện, cứ cách một bóng đèn huỳnh quang ở hành lang thì tháo ra một bóng.",
+        "why": "数量 + おきに = cứ cách ~ (một khoảng). 一つおきに外す = cách một bóng tháo một bóng (tháo xen kẽ).",
+        "options": [
+          "に対し → đối với, trái với. Sai.",
+          "ぶりに → sau (khoảng thời gian) mới lại: 3年ぶりに. Không dùng với 一つ. Sai.",
+          "につき → mỗi (一人につき), vì lý do. Sai.",
+          "おきに → cứ cách ~. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "節電", "r": "せつでん", "hv": "TIẾT ĐIỆN", "vi": "tiết kiệm điện" },
+          { "w": "廊下", "r": "ろうか", "hv": "LANG HẠ", "vi": "hành lang" },
+          { "w": "蛍光灯", "r": "けいこうとう", "hv": "HUỲNH QUANG ĐĂNG", "vi": "đèn huỳnh quang" },
+          { "w": "外す", "r": "はずす", "hv": "NGOẠI", "vi": "tháo ra" }
+        ],
+        "grammar": { "pattern": "～おきに", "meaning": "cứ cách ~ một lần/một cái", "form": "Số lượng + おきに", "example": "このバスは10分おきに来る。(Xe buýt này cứ 10 phút có một chuyến.)" },
+        "evidence": null,
+        "tip": "一日おきに = cách một ngày (ngày có ngày không)."
+      }
+    },
+    {
+      "num": 34,
+      "passage": null,
+      "stem": "時間のある学生時代に、もっと本を読んだり、海外旅行に行ったりしておけばよかった。あのころに戻れる（　　）戻りたい。",
+      "options": ["かわりに", "とすると", "ものなら", "にしたって"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Lẽ ra hồi sinh viên có thời gian tôi nên đọc nhiều sách, đi du lịch nước ngoài hơn. Nếu có thể quay lại thời đó thì tôi muốn quay lại.",
+        "why": "V可能形 + ものなら = nếu có thể ~ (thì muốn ~) — dùng cho điều khó/không thể thực hiện, vế sau là mong muốn. 戻れるものなら戻りたい.",
+        "options": [
+          "かわりに → thay vì, bù lại. Sai.",
+          "とすると → giả sử là (suy luận), vế sau không đi với mong muốn. Sai.",
+          "ものなら → nếu có thể ~. ĐÚNG.",
+          "にしたって → dù là ~ đi nữa. Sai."
+        ],
+        "vocab": [
+          { "w": "学生時代", "r": "がくせいじだい", "hv": "HỌC SINH THỜI ĐẠI", "vi": "thời sinh viên" },
+          { "w": "戻る", "r": "もどる", "hv": "LỆ", "vi": "quay lại" }
+        ],
+        "grammar": { "pattern": "～ものなら", "meaning": "nếu có thể ~ thì (mong muốn điều khó xảy ra)", "form": "V可能形 + ものなら、～たい", "example": "できるものなら、もう一度やり直したい。(Nếu được, tôi muốn làm lại từ đầu.)" },
+        "evidence": null,
+        "tip": "Dấu hiệu: thể khả năng (戻れる) + ものなら + たい."
+      }
+    },
+    {
+      "num": 35,
+      "passage": null,
+      "stem": "転校する友人からの手紙に、「たとえ遠く（　　）、私たちの友情は変わらない」と書いてあった。",
+      "options": ["離れても", "離れなくて", "離れるけれど", "離れなければ"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Trong thư của người bạn chuyển trường có viết: \"Dù có xa cách đi nữa, tình bạn của chúng ta vẫn không thay đổi.\"",
+        "why": "たとえ～ても = cho dù ~ đi nữa. たとえ luôn đi cặp với ～ても/でも → 離れても.",
+        "options": [
+          "離れても → dù xa cách. ĐÚNG.",
+          "離れなくて → vì không xa (không hợp với たとえ). Sai.",
+          "離れるけれど → tuy xa nhưng (không đi với たとえ). Sai.",
+          "離れなければ → nếu không xa (nghĩa ngược). Sai."
+        ],
+        "vocab": [
+          { "w": "転校", "r": "てんこう", "hv": "CHUYỂN HIỆU", "vi": "chuyển trường" },
+          { "w": "友情", "r": "ゆうじょう", "hv": "HỮU TÌNH", "vi": "tình bạn" },
+          { "w": "離れる", "r": "はなれる", "hv": "LY", "vi": "rời xa" }
+        ],
+        "grammar": { "pattern": "たとえ～ても", "meaning": "cho dù ~ đi nữa", "form": "たとえ + Vて／Aくて／N・Aな で + も", "example": "たとえ雨が降っても、試合は行う。(Dù mưa, trận đấu vẫn diễn ra.)" },
+        "evidence": null,
+        "tip": "Thấy たとえ → tìm ngay đáp án có ～ても."
+      }
+    },
+    {
+      "num": 36,
+      "passage": null,
+      "stem": "祖母は、留学中の私のことが（　　）らしい。",
+      "options": ["心配どおり", "心配でならない", "心配すべき", "心配してもしかたない"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Bà tôi có vẻ lo lắng cho tôi đang du học không chịu nổi.",
+        "why": "～てならない = ~ vô cùng, không chịu nổi (cảm xúc tự nhiên trào lên). 心配でならない = lo lắng vô cùng. Cấu trúc 私のことが～ (trợ từ が) hợp với vị ngữ cảm xúc.",
+        "options": [
+          "心配どおり → không có cách nói này (～どおり = đúng như). Sai.",
+          "心配でならない → lo lắng vô cùng. ĐÚNG.",
+          "心配すべき → nên lo (không hợp với が và らしい ở đây). Sai.",
+          "心配してもしかたない → lo cũng vô ích (đánh giá, không phải cảm xúc của bà). Sai."
+        ],
+        "vocab": [
+          { "w": "祖母", "r": "そぼ", "hv": "TỔ MẪU", "vi": "bà" },
+          { "w": "留学", "r": "りゅうがく", "hv": "LƯU HỌC", "vi": "du học" },
+          { "w": "心配", "r": "しんぱい", "hv": "TÂM PHỐI", "vi": "lo lắng" }
+        ],
+        "grammar": { "pattern": "～てならない", "meaning": "~ vô cùng, không chịu được (cảm xúc)", "form": "Vて／Aくて／Naで + ならない", "example": "試験の結果が気になってならない。(Tôi bồn chồn về kết quả thi vô cùng.)" },
+        "evidence": null,
+        "tip": "Đi với từ cảm xúc: 心配・不安・残念・悔しい + でならない/てならない."
+      }
+    },
+    {
+      "num": 37,
+      "passage": null,
+      "stem": "発達する低気圧の影響で、明日の夕方から夜にかけて、激しい雨が（　　）。",
+      "options": ["降りがちだ", "降りつつある", "降ってばかりだ", "降るおそれがある"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Do ảnh hưởng của vùng áp thấp đang mạnh lên, từ chiều tối đến đêm mai có nguy cơ mưa lớn.",
+        "why": "～おそれがある = có nguy cơ (điều xấu) xảy ra — hay dùng trong dự báo thời tiết, tin tức. Câu nói về tương lai (明日) nên phải là dự báo.",
+        "options": [
+          "降りがちだ → hay mưa (khuynh hướng thường xuyên), không hợp dự báo một thời điểm cụ thể. Sai.",
+          "降りつつある → đang dần mưa (đang diễn ra), mâu thuẫn với 明日. Sai.",
+          "降ってばかりだ → toàn mưa suốt (phàn nàn), không hợp. Sai.",
+          "降るおそれがある → có nguy cơ mưa. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "低気圧", "r": "ていきあつ", "hv": "ĐÊ KHÍ ÁP", "vi": "áp thấp" },
+          { "w": "発達", "r": "はったつ", "hv": "PHÁT ĐẠT", "vi": "phát triển, mạnh lên" },
+          { "w": "影響", "r": "えいきょう", "hv": "ẢNH HƯỞNG", "vi": "ảnh hưởng" },
+          { "w": "激しい", "r": "はげしい", "hv": "KÍCH", "vi": "dữ dội" }
+        ],
+        "grammar": { "pattern": "～おそれがある", "meaning": "có nguy cơ, e rằng (điều xấu)", "form": "V辞書形／Nの + おそれがある", "example": "台風が上陸するおそれがある。(Có nguy cơ bão đổ bộ.)" },
+        "evidence": null,
+        "tip": "～から～にかけて + おそれがある: mẫu câu kinh điển của bản tin thời tiết."
+      }
+    },
+    {
+      "num": 38,
+      "passage": null,
+      "stem": "（おもちゃ屋で）\n店員「お客様、何か（　　）、ご案内いたしますが。」\n客「あ、孫に頼まれたゲームソフトを探しているんです。」",
+      "options": ["お探しでしたら", "探してくださいましたら", "お探ししましたら", "探させていただきましたら"],
+      "answer": 1,
+      "explanation": {
+        "translation": "(Ở cửa hàng đồ chơi) Nhân viên: \"Thưa quý khách, nếu quý khách đang tìm gì, tôi xin hướng dẫn ạ.\" Khách: \"À, tôi đang tìm phần mềm trò chơi mà cháu nhờ mua.\"",
+        "why": "Người tìm là khách → dùng tôn kính ngữ お＋Vます＋だ: お探しだ = 探している (tôn kính). お探しでしたら = nếu quý khách đang tìm.",
+        "options": [
+          "お探しでしたら → tôn kính, chủ thể là khách. ĐÚNG.",
+          "探してくださいましたら → 'nếu quý khách tìm giúp tôi' — sai quan hệ cho/nhận. Sai.",
+          "お探ししましたら → khiêm nhường ngữ (chủ thể là nhân viên). Sai.",
+          "探させていただきましたら → 'nếu tôi được phép tìm' — chủ thể là nhân viên. Sai."
+        ],
+        "vocab": [
+          { "w": "案内", "r": "あんない", "hv": "ÁN NỘI", "vi": "hướng dẫn" },
+          { "w": "孫", "r": "まご", "hv": "TÔN", "vi": "cháu" },
+          { "w": "頼む", "r": "たのむ", "hv": "LẠI", "vi": "nhờ" }
+        ],
+        "grammar": { "pattern": "お＋Vます＋だ／です", "meaning": "tôn kính ngữ dạng trạng thái (= Vている của người trên)", "form": "お + Vます(bỏ ます) + です", "example": "社長がお待ちです。(Giám đốc đang đợi.)" },
+        "evidence": null,
+        "tip": "お～する = khiêm nhường (mình làm); お～だ/お～になる = tôn kính (khách làm)."
+      }
+    },
+    {
+      "num": 39,
+      "passage": null,
+      "stem": "A「ねえねえ、夏休みのキャンプ、楽しみだね。」\nB「うん。早く夏休みに（　　）。」",
+      "options": ["なるかな", "ならないかな", "なるんだね", "ならないんだね"],
+      "answer": 2,
+      "explanation": {
+        "translation": "A: \"Này, chuyến cắm trại kỳ nghỉ hè, háo hức quá nhỉ.\" B: \"Ừ. Ước gì nghỉ hè đến nhanh nhỉ.\"",
+        "why": "早く～ないかな = mong sao ~ nhanh đi (bày tỏ mong muốn). Thể phủ định + かな biểu thị mong đợi, không phải phủ định.",
+        "options": [
+          "なるかな → 'không biết có đến không' (nghi vấn), không hợp với 早く. Sai.",
+          "ならないかな → mong sao (nghỉ hè) mau đến. ĐÚNG.",
+          "なるんだね → 'thì ra là sẽ đến' (xác nhận). Sai.",
+          "ならないんだね → 'thì ra là không đến' (nghĩa phủ định). Sai."
+        ],
+        "vocab": [
+          { "w": "楽しみ", "r": "たのしみ", "hv": "LẠC", "vi": "háo hức mong đợi" },
+          { "w": "夏休み", "r": "なつやすみ", "hv": "HẠ HƯU", "vi": "nghỉ hè" }
+        ],
+        "grammar": { "pattern": "（早く）～ないかな", "meaning": "mong sao ~, ước gì ~", "form": "Vない + かな(あ)", "example": "早く週末にならないかなあ。(Ước gì cuối tuần đến nhanh.)" },
+        "evidence": null,
+        "tip": "～ないかな / ～ないかなあ thể hiện mong muốn, rất hay đi với 早く."
+      }
+    },
+    {
+      "num": 40,
+      "passage": null,
+      "stem": "課長「田中さん、さっき頼んだ書類の整理ですけど、今週は出張もあって忙しいでしょうし、特に急ぎじゃないので、来週（　　）お願いします。」\n田中「はい、わかりました。」",
+      "options": ["になら", "にでも", "でなら", "ででも"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Trưởng phòng: \"Anh Tanaka, việc sắp xếp tài liệu tôi nhờ lúc nãy ấy, tuần này anh còn đi công tác chắc bận, cũng không gấp nên để tuần sau hay lúc nào đó cũng được, nhờ anh nhé.\" Tanaka: \"Vâng, tôi hiểu rồi.\"",
+        "why": "でも ở đây = 'chẳng hạn, hay đại loại' (đưa ra ví dụ nhẹ nhàng, không ép). Thời điểm dùng trợ từ に (来週に) → 来週にでも = tuần sau chẳng hạn.",
+        "options": [
+          "になら → 'nếu là tuần sau thì (được)' — mang ý điều kiện/giới hạn, không hợp lời nhờ. Sai.",
+          "にでも → tuần sau chẳng hạn. ĐÚNG.",
+          "でなら → で không dùng chỉ thời điểm thực hiện. Sai.",
+          "ででも → で không hợp với thời điểm. Sai."
+        ],
+        "vocab": [
+          { "w": "書類", "r": "しょるい", "hv": "THƯ LOẠI", "vi": "giấy tờ, tài liệu" },
+          { "w": "整理", "r": "せいり", "hv": "CHỈNH LÝ", "vi": "sắp xếp" },
+          { "w": "出張", "r": "しゅっちょう", "hv": "XUẤT TRƯƠNG", "vi": "công tác" },
+          { "w": "急ぎ", "r": "いそぎ", "hv": "CẤP", "vi": "gấp" }
+        ],
+        "grammar": { "pattern": "～（に）でも", "meaning": "~ chẳng hạn (đưa ví dụ, nói mềm)", "form": "N(+trợ từ) + でも", "example": "お茶でも飲みませんか。(Uống trà hay gì đó không?)" },
+        "evidence": null,
+        "tip": "明日にでも / 来週にでも = 'sớm nhất là ngày mai/tuần sau cũng được'."
+      }
+    },
+    {
+      "num": 41,
+      "passage": null,
+      "stem": "この辺りは、春はお花見、夏は川遊び、秋は紅葉、冬はスキー（　　）、1年中自然を楽しむことができます。",
+      "options": ["のことかと", "かのように", "ということと", "というように"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Vùng này, mùa xuân ngắm hoa, mùa hè chơi ở sông, mùa thu ngắm lá đỏ, mùa đông trượt tuyết — như vậy quanh năm đều có thể tận hưởng thiên nhiên.",
+        "why": "～というように = như là ~ (liệt kê ví dụ rồi tổng kết). Sau khi liệt kê 4 mùa, というように nối sang kết luận 1年中自然を楽しむ.",
+        "options": [
+          "のことかと → 'tưởng là chuyện về ~'. Sai.",
+          "かのように → như thể là (so sánh không thật). Sai.",
+          "ということと → 'và việc ~' — không nối được với vế sau. Sai.",
+          "というように → như (các ví dụ trên). ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "辺り", "r": "あたり", "hv": "BIÊN", "vi": "vùng, khu vực" },
+          { "w": "紅葉", "r": "こうよう／もみじ", "hv": "HỒNG DIỆP", "vi": "lá đỏ" },
+          { "w": "花見", "r": "はなみ", "hv": "HOA KIẾN", "vi": "ngắm hoa" }
+        ],
+        "grammar": { "pattern": "～というように", "meaning": "như là ~ (tóm lại các ví dụ đã liệt kê)", "form": "Câu/N liệt kê + というように", "example": "月曜は英語、火曜は数学というように、毎日勉強する科目を決めている。" },
+        "evidence": null,
+        "tip": "A、B、C というように + kết luận chung."
+      }
+    },
+    {
+      "num": 42,
+      "passage": null,
+      "stem": "きれいな鳥がいたので写真を撮りたかったが、かばんからカメラを（　　）飛んでいってしまった。",
+      "options": ["取り出そうとしたまま", "取り出すようにしたまま", "取り出そうとしているうちに", "取り出すようにしているうちに"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Có con chim đẹp nên tôi muốn chụp ảnh, nhưng trong lúc đang định lấy máy ảnh ra khỏi túi thì nó đã bay mất.",
+        "why": "Vようとする = định/sắp làm; ～ているうちに = trong lúc đang ~ thì (sự việc khác xảy ra). 取り出そうとしているうちに飛んでいってしまった = đang loay hoay lấy máy thì chim bay mất.",
+        "options": [
+          "取り出そうとしたまま → 'giữ nguyên trạng thái định lấy' — まま không hợp. Sai.",
+          "取り出すようにしたまま → ようにする = cố gắng tạo thói quen, sai nghĩa. Sai.",
+          "取り出そうとしているうちに → trong lúc đang định lấy ra. ĐÚNG.",
+          "取り出すようにしているうちに → 'trong lúc đang cố tập thói quen lấy ra' — sai nghĩa. Sai."
+        ],
+        "vocab": [
+          { "w": "取り出す", "r": "とりだす", "hv": "THỦ XUẤT", "vi": "lấy ra" },
+          { "w": "撮る", "r": "とる", "hv": "TOÁT", "vi": "chụp (ảnh)" }
+        ],
+        "grammar": { "pattern": "～ているうちに", "meaning": "trong lúc đang ~ thì (điều gì đó xảy ra)", "form": "Vている + うちに", "example": "話しているうちに、駅に着いた。(Đang nói chuyện thì đã tới ga.)" },
+        "evidence": null,
+        "tip": "Vようとする (định làm) ≠ Vようにする (cố gắng để/thói quen)."
+      }
+    },
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "妹「ねえ、ベランダに干しておいた私のTシャツがないんだけど、知らない?」\n姉「そうなの？今日、風強かったから、飛ばされて外に（　　）？」",
+      "options": ["落ちちゃったんだって", "落ちちゃったんじゃない", "落としちゃったんだって", "落としちゃったんじゃない"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Em gái: \"Này, cái áo phông em phơi ở ban công không thấy đâu, chị có biết không?\" Chị: \"Vậy à? Hôm nay gió mạnh nên chắc bị thổi bay rơi ra ngoài rồi đúng không?\"",
+        "why": "Chủ ngữ là áo (bị gió thổi) → tự động từ 落ちる. ～んじゃない？(lên giọng) = chẳng phải là ~ sao? (phỏng đoán). Chị đang đoán, không phải truyền đạt tin nghe được.",
+        "options": [
+          "落ちちゃったんだって → 'nghe nói đã rơi' (truyền đạt) — chị không nghe ai nói. Sai.",
+          "落ちちゃったんじゃない → chắc là rơi rồi (phỏng đoán). ĐÚNG.",
+          "落としちゃったんだって → tha động từ + truyền đạt. Sai.",
+          "落としちゃったんじゃない → tha động từ 'ai đó làm rơi', không hợp với 飛ばされて. Sai."
+        ],
+        "vocab": [
+          { "w": "干す", "r": "ほす", "hv": "CAN", "vi": "phơi" },
+          { "w": "飛ばす", "r": "とばす", "hv": "PHI", "vi": "thổi bay, làm bay" },
+          { "w": "落ちる", "r": "おちる", "hv": "LẠC", "vi": "rơi (tự động từ)" },
+          { "w": "落とす", "r": "おとす", "hv": "LẠC", "vi": "làm rơi (tha động từ)" }
+        ],
+        "grammar": { "pattern": "～んじゃない？", "meaning": "chẳng phải là ~ sao? / chắc là ~ (phỏng đoán)", "form": "普通形 + んじゃない？", "example": "もう帰ったんじゃない？(Chắc về rồi chứ nhỉ?)" },
+        "evidence": null,
+        "tip": "～んだって = nghe nói (truyền đạt); ～んじゃない？ = phỏng đoán."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "情報化や国際化が進む現代において、学校の教育がこれまでと（　　）。コンピュータなどの新しい教育内容が取り入れられるのも当然の流れだと思う。",
+      "options": ["同じでいいはずがない", "同じというだけではない", "同じならいいに違いない", "同じにならないことはない"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Trong thời hiện đại khi thông tin hóa và quốc tế hóa đang phát triển, giáo dục ở trường học không thể nào giữ nguyên như trước được. Việc đưa những nội dung mới như máy tính vào giảng dạy cũng là xu hướng đương nhiên.",
+        "why": "～はずがない = không thể nào ~. 同じでいいはずがない = không thể giữ nguyên như cũ được → phù hợp với câu sau (đưa nội dung mới vào là đương nhiên).",
+        "options": [
+          "同じでいいはずがない → không thể nào giống như cũ được. ĐÚNG.",
+          "同じというだけではない → không chỉ là giống (nghĩa lạc). Sai.",
+          "同じならいいに違いない → nếu giống thì chắc chắn tốt (trái với ý câu sau). Sai.",
+          "同じにならないことはない → không phải không thể giống (ý mơ hồ, trái mạch). Sai."
+        ],
+        "vocab": [
+          { "w": "情報化", "r": "じょうほうか", "hv": "TÌNH BÁO HÓA", "vi": "thông tin hóa" },
+          { "w": "現代", "r": "げんだい", "hv": "HIỆN ĐẠI", "vi": "thời hiện đại" },
+          { "w": "取り入れる", "r": "とりいれる", "hv": "THỦ NHẬP", "vi": "đưa vào, tiếp thu" },
+          { "w": "当然", "r": "とうぜん", "hv": "ĐƯƠNG NHIÊN", "vi": "đương nhiên" }
+        ],
+        "grammar": { "pattern": "～はずがない", "meaning": "không thể nào ~ (phủ định mạnh dựa trên lý lẽ)", "form": "普通形(Naな／Nの) + はずがない", "example": "彼が嘘をつくはずがない。(Anh ấy không thể nào nói dối.)" },
+        "evidence": null,
+        "tip": "Đọc câu sau để xác định chiều ý: 'đưa cái mới vào là đương nhiên' → câu trước phải phủ định việc giữ nguyên."
+      }
+    }
+  ]
+}

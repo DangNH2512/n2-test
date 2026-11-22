@@ -1,0 +1,160 @@
+{
+  "exam": "2018-12",
+  "mondai": 8,
+  "section": "grammar",
+  "instruction": "次の文の ★ に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+  "instruction_vi": "Sắp xếp các phương án thành câu đúng và chọn phương án nằm ở vị trí ★.",
+  "passages": [],
+  "questions": [
+    {
+      "num": 43,
+      "passage": null,
+      "stem": "山や植物の写真家＿＿＿ ＿＿＿ ＿＿＿ ＿★＿写真展が15日からABCデパートで開催される。",
+      "options": ["として", "の", "岩本まさき氏", "有名な"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Triển lãm ảnh của ông Iwamoto Masaki, người nổi tiếng với tư cách là nhiếp ảnh gia chụp núi và thực vật, sẽ được tổ chức tại trung tâm thương mại ABC từ ngày 15.",
+        "why": "Thứ tự đúng: 写真家［1 として］［4 有名な］［3 岩本まさき氏］［2 の★］写真展. N として有名な = nổi tiếng với tư cách N; 岩本まさき氏の写真展 = triển lãm ảnh của ông Iwamoto. ★ ở vị trí 4 → の.",
+        "options": [
+          "として → vị trí 1 (写真家として). Không phải ★.",
+          "の → vị trí 4 (岩本まさき氏の写真展), ★. ĐÚNG.",
+          "岩本まさき氏 → vị trí 3. Không phải ★.",
+          "有名な → vị trí 2, bổ nghĩa cho 岩本まさき氏. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "植物", "r": "しょくぶつ", "hv": "THỰC VẬT", "vi": "thực vật" },
+          { "w": "写真展", "r": "しゃしんてん", "hv": "TẢ CHÂN TRIỂN", "vi": "triển lãm ảnh" },
+          { "w": "開催", "r": "かいさい", "hv": "KHAI THÔI", "vi": "tổ chức (sự kiện)" }
+        ],
+        "grammar": {
+          "pattern": "N として有名な N'",
+          "meaning": "N' nổi tiếng với tư cách là N",
+          "form": "N ＋ として ＋ 有名な ＋ N'",
+          "example": "京都は古い寺の町として有名だ。"
+        },
+        "evidence": null,
+        "tip": "Danh từ 写真展 cần đứng sau の → の nằm sát trước 写真展 (vị trí ★)."
+      }
+    },
+    {
+      "num": 44,
+      "passage": null,
+      "stem": "子供のころは、1年が長く感じられたのに、年をとる＿＿＿ ＿＿＿ ＿★＿ ＿＿＿だろうか。",
+      "options": ["のは", "につれて", "なぜ", "短く感じるようになる"],
+      "answer": 1,
+      "explanation": {
+        "translation": "Hồi nhỏ thấy một năm thật dài, vậy mà tại sao càng có tuổi lại càng cảm thấy một năm ngắn đi nhỉ?",
+        "why": "Thứ tự đúng: 年をとる［2 につれて］［4 短く感じるようになる］［1 のは★］［3 なぜ］だろうか. Mẫu ～のはなぜだろうか = việc ~ là tại sao nhỉ. ★ ở vị trí 3 → のは.",
+        "options": [
+          "のは → vị trí 3 (～ようになるのは), ★. ĐÚNG.",
+          "につれて → vị trí 1 (年をとるにつれて). Không phải ★.",
+          "なぜ → vị trí 4 (なぜだろうか). Không phải ★.",
+          "短く感じるようになる → vị trí 2. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "年をとる", "r": "としをとる", "hv": "NIÊN", "vi": "có tuổi, già đi" },
+          { "w": "感じる", "r": "かんじる", "hv": "CẢM", "vi": "cảm thấy" }
+        ],
+        "grammar": {
+          "pattern": "～につれて／～のはなぜだろうか",
+          "meaning": "càng ~ càng… / việc ~ là tại sao nhỉ",
+          "form": "V辞書形 ＋ につれて；普通形 ＋ のは ＋ なぜだろうか",
+          "example": "大人になるにつれて、涙もろくなるのはなぜだろうか。"
+        },
+        "evidence": null,
+        "tip": "なぜ đứng ngay trước だろうか; のは biến cả mệnh đề trước thành chủ đề."
+      }
+    },
+    {
+      "num": 45,
+      "passage": null,
+      "stem": "情報をどのような＿＿＿ ＿＿＿ ＿★＿ ＿＿＿が変わってくるので、順番を意識して話す必要がある。",
+      "options": ["相手の受け止め方", "提示するか", "によって", "順番で"],
+      "answer": 3,
+      "explanation": {
+        "translation": "Cách tiếp nhận của người nghe sẽ thay đổi tùy theo việc trình bày thông tin theo thứ tự như thế nào, nên cần nói chuyện có ý thức về thứ tự.",
+        "why": "Thứ tự đúng: どのような［4 順番で］［2 提示するか］［3 によって★］［1 相手の受け止め方］が変わってくる. どのような～か によって = tùy vào ~ như thế nào. ★ ở vị trí 3 → によって.",
+        "options": [
+          "相手の受け止め方 → vị trí 4, chủ ngữ của が変わってくる. Không phải ★.",
+          "提示するか → vị trí 2 (どのような順番で提示するか). Không phải ★.",
+          "によって → vị trí 3, ★. ĐÚNG.",
+          "順番で → vị trí 1, ngay sau どのような. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "提示", "r": "ていじ", "hv": "ĐỀ THỊ", "vi": "đưa ra, trình bày" },
+          { "w": "受け止め方", "r": "うけとめかた", "hv": "THỤ CHỈ PHƯƠNG", "vi": "cách tiếp nhận" },
+          { "w": "順番", "r": "じゅんばん", "hv": "THUẬN PHIÊN", "vi": "thứ tự" },
+          { "w": "意識", "r": "いしき", "hv": "Ý THỨC", "vi": "ý thức, để ý" }
+        ],
+        "grammar": {
+          "pattern": "疑問詞～か によって",
+          "meaning": "tùy vào việc ~ như thế nào mà…",
+          "form": "どのような／どう／何を ＋ V ＋ か ＋ によって",
+          "example": "どう言うかによって、相手の反応は変わる。"
+        },
+        "evidence": null,
+        "tip": "どのような phải đi với danh từ ngay sau (順番) → vị trí 1 dễ xác định."
+      }
+    },
+    {
+      "num": 46,
+      "passage": null,
+      "stem": "日本では、99歳のお祝いを「白寿」と言います。\n「百」の字から「一」をとる＿＿＿ ＿＿＿ ＿★＿ ＿＿＿そう呼ばれています。",
+      "options": ["と", "字になる", "ことから", "「白」という"],
+      "answer": 2,
+      "explanation": {
+        "translation": "Ở Nhật, lễ mừng thọ 99 tuổi được gọi là \"Hakuju\" (Bạch thọ). Vì khi bỏ nét \"一\" khỏi chữ \"百\" thì thành chữ \"白\", nên mới được gọi như vậy.",
+        "why": "Thứ tự đúng: とる［1 と］［4 「白」という］［2 字になる★］［3 ことから］そう呼ばれています. ～と (nếu…thì), 「白」という字になる (thành chữ 白), ～ことから (vì lý do đó). ★ ở vị trí 3 → 字になる.",
+        "options": [
+          "と → vị trí 1 (とると: nếu bỏ đi thì). Không phải ★.",
+          "字になる → vị trí 3, ★. ĐÚNG.",
+          "ことから → vị trí 4, nêu lý do cho そう呼ばれる. Không phải ★.",
+          "「白」という → vị trí 2, bổ nghĩa cho 字. Không phải ★."
+        ],
+        "vocab": [
+          { "w": "白寿", "r": "はくじゅ", "hv": "BẠCH THỌ", "vi": "mừng thọ 99 tuổi" },
+          { "w": "お祝い", "r": "おいわい", "hv": "CHÚC", "vi": "lễ mừng, chúc mừng" }
+        ],
+        "grammar": {
+          "pattern": "～ことから",
+          "meaning": "từ việc ~ (nêu nguồn gốc tên gọi, căn cứ)",
+          "form": "普通形 ＋ ことから",
+          "example": "形が富士山に似ていることから、「〇〇富士」と呼ばれている。"
+        },
+        "evidence": null,
+        "tip": "～ことから＋呼ばれる／名付けられた: cấu trúc giải thích nguồn gốc tên gọi rất hay gặp."
+      }
+    },
+    {
+      "num": 47,
+      "passage": null,
+      "stem": "講師「最初は＿＿＿ ＿＿＿ ＿★＿ ＿＿＿気になってくるということはありませんか。このような心理現象を『ザイオンス効果』と言います。」",
+      "options": ["うちに", "全く興味がなかった", "商品なのに", "CMなどで何度か見ている"],
+      "answer": 4,
+      "explanation": {
+        "translation": "Giảng viên: \"Có khi nào lúc đầu là món hàng bạn hoàn toàn không hứng thú, vậy mà trong lúc xem quảng cáo vài lần thì dần dần lại để ý đến nó không? Hiện tượng tâm lý như thế gọi là 'hiệu ứng Zajonc'.\"",
+        "why": "Thứ tự đúng: 最初は［2 全く興味がなかった］［3 商品なのに］［4 CMなどで何度か見ている★］［1 うちに］気になってくる. Vている＋うちに = trong lúc đang V thì (thay đổi). ★ ở vị trí 3 → CMなどで何度か見ている.",
+        "options": [
+          "うちに → vị trí 4 (見ているうちに). Không phải ★.",
+          "全く興味がなかった → vị trí 1, bổ nghĩa cho 商品. Không phải ★.",
+          "商品なのに → vị trí 2. Không phải ★.",
+          "CMなどで何度か見ている → vị trí 3, ★. ĐÚNG."
+        ],
+        "vocab": [
+          { "w": "講師", "r": "こうし", "hv": "GIẢNG SƯ", "vi": "giảng viên" },
+          { "w": "心理現象", "r": "しんりげんしょう", "hv": "TÂM LÝ HIỆN TƯỢNG", "vi": "hiện tượng tâm lý" },
+          { "w": "効果", "r": "こうか", "hv": "HIỆU QUẢ", "vi": "hiệu quả, hiệu ứng" },
+          { "w": "興味", "r": "きょうみ", "hv": "HỨNG VỊ", "vi": "hứng thú" }
+        ],
+        "grammar": {
+          "pattern": "Vている＋うちに",
+          "meaning": "trong lúc đang V thì (dần dần xảy ra thay đổi không ngờ)",
+          "form": "Vている ＋ うちに ＋ (変化)",
+          "example": "何度も聞いているうちに、その歌が好きになった。"
+        },
+        "evidence": null,
+        "tip": "うちに đi sau Vている, và vế sau là sự biến đổi (気になってくる)."
+      }
+    }
+  ]
+}
